@@ -1,0 +1,38 @@
+{
+  "id": "passiflora-lanuginosa",
+  "family": "Passifloraceae",
+  "genus": "Passiflora",
+  "scientific_name": "Passiflora lanuginosa",
+  "common_name": "Scarletfruit passionflower",
+  "look_here_first": "Introduced scarletfruit passionflower comparison (not confirmed native to your target counties). Look first for an actual RIPE FRUIT: usually smooth and vivid red in the documented P. lanuginosa concept, versus greenish/yellow-green fruit in the locally reviewed P. foetida concept. Then inspect finely divided bract cage, hairy leaf and stem, and often more sharply pointed/angular leaf lobes. Older P. foetida var. lanuginosa specimens require taxonomic reconciliation; don't identify it by flower color or a fruit photo alone.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Tendrilled climbing or scrambling passionflower with bracts enclosing flower/fruit"
+    },
+    {
+      "label": "Identification",
+      "text": "Leaves commonly darker and more angular or pointed-lobed than local P. foetida comparison"
+    },
+    {
+      "label": "Identification",
+      "text": "Flowers often pinkish; flower color alone insufficient"
+    },
+    {
+      "label": "Identification",
+      "text": "Fruit smooth and ripening red in the reviewed species concept"
+    },
+    {
+      "label": "Identification",
+      "text": "Verify bract structure, leaf shape, fruit surface and maturity together"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Contrast fruit surface/color and leaf-lobe shape against canonical P. foetida; do not identify only from pink flowers or a single photograph. Use a full flower/fruit-bract view and mature fruit close-up."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "33b030257c094d4b915a80aa753ea8aa182ae4ab37f1d0285992a202c3050a72",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "tragia-ramosa",
+  "family": "Euphorbiaceae",
+  "genus": "Tragia",
+  "scientific_name": "Tragia ramosa",
+  "common_name": "Branched noseburn",
+  "look_here_first": "Look for the branched or scrambling perennial habit, long stinging hairs, narrow toothed leaves, and a small raceme with few male flowers and usually one female flower. Confirm with leaf base, pedicel bases, and fruit.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial subshrub with erect to trailing or scrambling stems"
+    },
+    {
+      "label": "Identification",
+      "text": "long rough stinging hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "linear-lanceolate to narrowly ovate serrate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf bases truncate to weakly cordate"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal racemes often appearing leaf-opposed"
+    },
+    {
+      "label": "Identification",
+      "text": "roughly 2–20 staminate flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "capsules about 6–8 mm wide"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Narrower leaves with truncate to weakly cordate bases plus the raceme/pedicel characters distinguish it from the local Tragia set; reproductive structures should confirm the ID."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c663ecdd476f35a7f616ad5d56095bf207e518137e65f92b8ffcbe38a2183da5",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

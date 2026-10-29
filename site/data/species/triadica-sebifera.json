@@ -1,0 +1,42 @@
+{
+  "id": "triadica-sebifera",
+  "family": "Euphorbiaceae",
+  "genus": "Triadica",
+  "scientific_name": "Triadica sebifera",
+  "common_name": "Chinese tallow / popcorn tree",
+  "look_here_first": "Check alternate diamond-shaped leaves with a long tapering tip and nearly smooth margins; inspect the leaf-blade base for small glands. Then look for slender flower spikes or a 3-lobed capsule that opens to three bright white wax-coated seeds.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "Deciduous tree with alternate, simple, broadly rhombic to triangular-ovate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "Leaves often have an elongated pointed tip, smooth to nearly smooth margin, and long slender petiole"
+    },
+    {
+      "label": "Identification",
+      "text": "Small glands near junction of petiole and leaf blade may be visible on close inspection"
+    },
+    {
+      "label": "Identification",
+      "text": "Terminal yellow-green flower spikes with numerous small flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "Three-lobed/three-chambered capsules; opening fruit exposes three white waxy seeds resembling popcorn"
+    },
+    {
+      "label": "Identification",
+      "text": "Autumn leaves can turn red or yellow, but color is not diagnostic"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Texas redbud has cordate leaves and pea-family pods rather than three-lobed capsules with white waxy seeds. Cottonwood/poplar seedlings have toothed triangular leaves and cottony seeds rather than popcorn-like white waxy seeds. Confirm leaf-base glands and fruit whenever possible."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "63ddadc5db02a3ce247f5b4623bc435c215407e9a0c5224d0280d6e3344210e9",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

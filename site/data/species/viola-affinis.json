@@ -1,0 +1,17 @@
+{
+  "id": "viola-affinis",
+  "family": "Violaceae",
+  "genus": "Viola",
+  "scientific_name": "Viola affinis",
+  "common_name": "Sand violet / blue violet",
+  "look_here_first": "Look for low spring violets with heart-shaped leaves and blue-purple five-petaled irregular flowers; inspect spur shape, petal hairs, leaf pubescence and calyx to separate similar violets.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5d6d3967e352e7d50e46ce975d3c3e5428785839576972d77ad859caaf90dbb5",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

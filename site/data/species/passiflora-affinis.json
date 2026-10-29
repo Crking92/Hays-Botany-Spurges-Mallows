@@ -1,0 +1,46 @@
+{
+  "id": "passiflora-affinis",
+  "family": "Passifloraceae",
+  "genus": "Passiflora",
+  "scientific_name": "Passiflora affinis",
+  "common_name": "Bracted Passionflower / Yellow Passionflower",
+  "look_here_first": "FIRST flip a mature leaf: tiny NECTARY DOTS on UNDERSIDE = affinis; lutea has none. Both affinis and lutea lack PETIOLE glands, so don't confuse the structures. Next check small bracts under an open flower: affinis has them, lutea lacks them. Affinis's green-yellow flower is generally >25 mm wide, with wavy, clubbed outer corona tips (>10 mm). The broad cowboy-hat leaf is only a clue.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial tendrilled vine"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves broader than long, usually 2–3 rounded lobes"
+    },
+    {
+      "label": "Identification",
+      "text": "floral bracts present"
+    },
+    {
+      "label": "Identification",
+      "text": "greenish-yellow flowers usually >25 mm diameter"
+    },
+    {
+      "label": "Identification",
+      "text": "outer corona filaments long and sinuous"
+    },
+    {
+      "label": "Identification",
+      "text": "nectaries present on abaxial leaf surface"
+    },
+    {
+      "label": "Identification",
+      "text": "purple-black berry"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "P. lutea lacks floral bracts and abaxial leaf nectaries and has smaller flowers. P. foetida is much hairier, foul-smelling when rubbed, and has a conspicuous cage of finely divided involucral bracts around the flower/fruit."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a97e28875b8fdacbe8380f45daa31c071451b8353a3f5a13a657e410d5dc3c57",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

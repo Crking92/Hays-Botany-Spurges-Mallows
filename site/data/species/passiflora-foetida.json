@@ -1,0 +1,46 @@
+{
+  "id": "passiflora-foetida",
+  "family": "Passifloraceae",
+  "genus": "Passiflora",
+  "scientific_name": "Passiflora foetida",
+  "common_name": "Fetid passionflower",
+  "look_here_first": "Locate the conspicuous FEATHERY/STICKY THREE-BRACT CAGE just below a flower or around a developing fruit. Then inspect downy stems/leaves, coarse lobing, and odor if safely handled. Compare mature fruit texture/color carefully with introduced scarletfruit P. lanuginosa. Don't ID the local/native-concept plant using any globally labeled P. foetida photo alone.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "tendrilled vine"
+    },
+    {
+      "label": "Identification",
+      "text": "dense soft pubescence"
+    },
+    {
+      "label": "Identification",
+      "text": "strong fetid odor when foliage is rubbed"
+    },
+    {
+      "label": "Identification",
+      "text": "3-lobed leaves with rounded lobes"
+    },
+    {
+      "label": "Identification",
+      "text": "finely divided glandular involucral bracts forming a cage"
+    },
+    {
+      "label": "Identification",
+      "text": "white to pale flowers with purple-blue corona"
+    },
+    {
+      "label": "Identification",
+      "text": "green to yellow-green fruit in the native Texas concept"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The sticky finely divided bract cage plus dense hairiness and odor are stronger than flower color alone. San Antonio-area lookalikes can be introduced P. ciliata/lanuginosa-type plants."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "48826dc363384126b9b035b04102b51cbf0d5785d27b971d122650b7b373048b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

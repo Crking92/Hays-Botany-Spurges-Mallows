@@ -1,0 +1,38 @@
+{
+  "id": "tragia-brevispica",
+  "family": "Euphorbiaceae",
+  "genus": "Tragia",
+  "scientific_name": "Tragia brevispica",
+  "common_name": "Shortspike noseburn",
+  "look_here_first": "Look first at the short reproductive spike and then the leaves. Photograph or inspect the whole raceme with scale because this species can disappear among other stinging Tragia when only vegetative characters are used.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "scrambling perennial with stinging hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "short reproductive spike"
+    },
+    {
+      "label": "Identification",
+      "text": "small apetalous unisexual flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "reproductive measurements and raceme architecture are more reliable than general habit"
+    },
+    {
+      "label": "Identification",
+      "text": "mature fruit is a small 3-lobed capsule typical of the genus"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Use the short raceme together with bract, pedicel, leaf-proportion, and fruit characters; vegetative habit alone is not secure."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ffa58f66668dc7a342a04a2ae4ef8ceb5328253582f9a62d06f2800a3c3e93ab",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

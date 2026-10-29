@@ -1,0 +1,54 @@
+{
+  "id": "passiflora-tenuiloba",
+  "family": "Passifloraceae",
+  "genus": "Passiflora",
+  "scientific_name": "Passiflora tenuiloba",
+  "common_name": "Birdwing passionflower",
+  "look_here_first": "Find one PETIOLE with its small paired CUP-LIKE NECTAR GLANDS near blade, then inspect MULTIPLE leaves on the same vine: often narrow fingerlike/birdwing primary lobes with secondary lobes; size and lobing vary widely. Compare glandless P. lutea and its broad rounded lobes. Small greenish flowers have five sepals (6–10 mm long) but no petals; ripening small dark berries support.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial prostrate or low-climbing vine with slender coiling tendrils"
+    },
+    {
+      "label": "Identification",
+      "text": "petiole glandular with paired saucer- or cup-shaped glands near the blade"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf blades extremely variable but deeply 3–9-lobed"
+    },
+    {
+      "label": "Identification",
+      "text": "primary lobes narrow and acute; lateral lobes often long and spreading"
+    },
+    {
+      "label": "Identification",
+      "text": "primary lobes may themselves be lobed, creating a birdwing/handlike silhouette"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf margins entire"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers small and greenish"
+    },
+    {
+      "label": "Identification",
+      "text": "petals absent; five green sepals (each 6–10 mm long) and two whorls of corona filaments form the showy portion"
+    },
+    {
+      "label": "Identification",
+      "text": "ripe berries small, globose, dark blue to black"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Passiflora lutea: P. lutea has glandless petioles and broad rounded 3-lobed leaves; P. tenuiloba has paired cuplike petiole glands and narrow deeply dissected lobes. Passiflora incarnata: Both have petiole glands, but P. incarnata has much broader serrated 3-lobed leaves, huge purple/white flowers and large green-yellow maypops. P. tenuiloba has narrow entire lobes and tiny petal-less green flowers. Passiflora affinis: Another small green-flowered Central/West Texas passionflower. Use leaf architecture and gland characters; P. tenuiloba typically has the distinctive narrow deeply divided birdwing leaves. Important: FNA says FIVE sepals, each 6–10 mm long; do not interpret the measurement as a sepal count."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a9ca99e8b81dbd09997eeeeaa22d28080b9bf76f305e45f9b2f02c51dcb10c14",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

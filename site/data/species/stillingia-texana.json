@@ -1,0 +1,58 @@
+{
+  "id": "stillingia-texana",
+  "family": "Euphorbiaceae",
+  "genus": "Stillingia",
+  "scientific_name": "Stillingia texana",
+  "common_name": "Texas queen's delight",
+  "look_here_first": "Start with the terminal spike and the narrow leaves. Texas stillingia is a many-stemmed perennial with linear serrate-glandular leaves, copious white latex, and a terminal inflorescence with pistillate flowers low on the axis and clusters of staminate flowers above.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial herb/subshrub with several to many stems from the base"
+    },
+    {
+      "label": "Identification",
+      "text": "copious white latex"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves alternate, narrow linear, short-petiolate to nearly sessile"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf margins finely serrate with glandular teeth"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal spike-like inflorescence"
+    },
+    {
+      "label": "Identification",
+      "text": "pistillate flowers concentrated toward the base of the inflorescence"
+    },
+    {
+      "label": "Identification",
+      "text": "staminate flowers grouped above in condensed cymes"
+    },
+    {
+      "label": "Identification",
+      "text": "monoecious plant"
+    },
+    {
+      "label": "Family training",
+      "text": "Strong Euphorbiaceae teaching plant: latex plus highly reduced unisexual flowers and a male-above/female-below terminal inflorescence pattern."
+    },
+    {
+      "label": "Video training",
+      "text": "Joey's frame shows the plant rooted directly among exposed Edwards Plateau limestone, reinforcing habitat recognition."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c6217afd6896a15b5363b5471bd6354a2c507bf60d70565e653957c3485ba065",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

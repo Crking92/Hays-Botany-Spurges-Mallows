@@ -1,0 +1,42 @@
+{
+  "id": "sida-abutilifolia",
+  "family": "Malvaceae",
+  "genus": "Sida",
+  "scientific_name": "Sida abutilifolia",
+  "common_name": "spreading / creeping sida",
+  "look_here_first": "Find the long, flexible, prostrate stems that spread across the ground. Check small leaves distributed along the stems, with rounded teeth extending toward the leaf base, and look closely for BOTH star-shaped hairs and longer simple hairs (often 1–2 mm). Flower color is secondary; confirm with mature fruit.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial herb"
+    },
+    {
+      "label": "Identification",
+      "text": "procumbent/prostrate freely branched stems"
+    },
+    {
+      "label": "Identification",
+      "text": "stellate and simple hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "small ovate to oblong leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "crenate margins extending toward the leaf base"
+    },
+    {
+      "label": "Identification",
+      "text": "small pale flowers"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Look first at the whole plant: Sida abutilifolia commonly has long, flexible stems lying along the ground, while S. spinosa is more erect and often bears a small tubercle immediately below the petiole. Examine several leaves for rounded crenate teeth and both surfaces for simple and stellate hairs. Compare S. rhombifolia, which is commonly more upright with rhombic leaves and teeth often concentrated toward the tip. Small pale flowers overlap: confirm using close-up mature mericarps rather than habit or flower color alone."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "0d657c243151450e311fd789ac133e6b54a68717078f8c0dac47ad546c478019",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

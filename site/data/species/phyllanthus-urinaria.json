@@ -1,0 +1,22 @@
+{
+  "id": "phyllanthus-urinaria",
+  "family": "Phyllanthaceae",
+  "genus": "Phyllanthus",
+  "scientific_name": "Phyllanthus urinaria",
+  "common_name": "Chamberbitter (introduced)",
+  "look_here_first": "Turn a leafy side branch OVER. The small oblong leaves sit in two rows and make a simple branch look like a compound leaf. At the leaf axils beneath it, look for nearly stalkless round capsules (fruit stalk usually under 0.5 mm), about 2–2.2 mm wide; use a hand lens. Long-stalked phyllanthus (P. tenellus) has fruit hanging on conspicuously longer stalks, often 5–10 mm. Do not ID either plant from foliage alone.",
+  "key_traits": [
+    {
+      "label": "Crew warning",
+      "text": "A fruit-free seedling or distant photograph may be Phyllanthus sp.; capture the underside and measure a fruit stalk before species-level confirmation."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c8ff27461a665255847913d76e993acaafb084bc988f855d1e2a3aa8e7ab2166",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

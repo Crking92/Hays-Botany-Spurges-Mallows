@@ -1,0 +1,17 @@
+{
+  "id": "salix-nigra",
+  "family": "Salicaceae",
+  "genus": "Salix",
+  "scientific_name": "Salix nigra",
+  "common_name": "Black willow",
+  "look_here_first": "Look for long narrow, finely toothed alternate leaves on a creekside tree; inspect flexible twigs, catkins, seed capsules and buds to separate other willows.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "93fc826f091f2f8ecdf69eb49bf823964e7fb07c981a5c87f9333e4b931f43d9",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

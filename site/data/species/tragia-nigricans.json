@@ -1,0 +1,46 @@
+{
+  "id": "tragia-nigricans",
+  "family": "Euphorbiaceae",
+  "genus": "Tragia",
+  "scientific_name": "Tragia nigricans",
+  "common_name": "Darkstem noseburn",
+  "look_here_first": "Use the erect dark purple-green to reddish-black stem together with oblong to oblanceolate coarsely serrate leaves and the very small terminal or leaf-opposed raceme. Confirm with flower counts, pedicel bases, and capsule size rather than stem color alone.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial herb about 15–55 cm"
+    },
+    {
+      "label": "Identification",
+      "text": "erect stems purple-green to reddish black, apex not flexuous"
+    },
+    {
+      "label": "Identification",
+      "text": "oblong to oblanceolate leaves with coarse serration"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal racemes often appearing leaf-opposed"
+    },
+    {
+      "label": "Identification",
+      "text": "usually 2–5 staminate flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "persistent staminate pedicel bases about 0.2–0.4 mm"
+    },
+    {
+      "label": "Identification",
+      "text": "capsules about 6–7 mm wide"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Dark erect stems help, but leaf base, raceme structure, flower count, pedicel bases, and mature capsule are required for confident separation."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7672ff6893a78ba9133d2d1ef12cbf6ad45bde60dd839d200549127f9fc5fb9c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "sida-spinosa",
+  "family": "Malvaceae",
+  "genus": "Sida",
+  "scientific_name": "Sida spinosa",
+  "common_name": "prickly sida / prickly fanpetals",
+  "look_here_first": "Erect plant: inspect several stem nodes just BELOW the leaf stalk for a tiny spur-like TUBERCLE (not a true spine; it can be absent). Then inspect minute star-shaped hairs and, on mature fruit, five mericarps with paired short beaks. Flower color alone is not diagnostic.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "erect herb or subshrub"
+    },
+    {
+      "label": "Identification",
+      "text": "minute stellate hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "ovate to lanceolate leaves serrate toward the base"
+    },
+    {
+      "label": "Identification",
+      "text": "small spinelike tubercle often present below petiole"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow axillary flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "five spined mericarps"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compare with Sida abutilifolia: spreading/procumbent stems and crenate leaves versus usually upright S. spinosa. Compare with Sida rhombifolia: often rhombic leaves with teeth concentrated distally; inspect multiple nodes for the characteristic small tubercle immediately below the petiole in S. spinosa. Absence of a visible tubercle in one photograph is not decisive. For confirmation inspect mature schizocarps: S. spinosa typically has five mericarps with two apical awns/beaks each; count and photograph the mericarps rather than relying on yellow flowers alone."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "bededaaa4909cd17312f5b65d3703161bd09a3a0c8f3104e77810ba8a79f691e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

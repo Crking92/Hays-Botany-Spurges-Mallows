@@ -1,0 +1,42 @@
+{
+  "id": "passiflora-incarnata",
+  "family": "Passifloraceae",
+  "genus": "Passiflora",
+  "scientific_name": "Passiflora incarnata",
+  "common_name": "Purple passionflower",
+  "look_here_first": "Start with 2 distinct PETIOLE nectar glands and BROAD sharply toothed/serrated 3(–5)-lobed leaf; compare smooth edged narrow 3–9-lobed P. tenuiloba. Then check large purplish flower with layered corona and a fat maypop 30–60 mm, much larger than the little dark berries of green-flowered relatives.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "vigorous perennial climbing or trailing vine with axillary tendrils"
+    },
+    {
+      "label": "Identification",
+      "text": "two conspicuous sessile extrafloral nectary glands on the petiole"
+    },
+    {
+      "label": "Identification",
+      "text": "large leaves deeply 3–5-lobed"
+    },
+    {
+      "label": "Identification",
+      "text": "lobes broad, pointed, and distinctly serrate"
+    },
+    {
+      "label": "Identification",
+      "text": "large solitary flower with purple-and-white multi-whorled corona"
+    },
+    {
+      "label": "Identification",
+      "text": "large ovoid to subglobose maypop fruit"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Separate from P. lutea by petiole glands, serrated broad lobes, and huge flowers; separate from P. tenuiloba by the broad serrated lobes and large showy flower."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5fb37a8505b4304927d4c052c34667e6936ffb433d8733d30cae28e2b3efcb0d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

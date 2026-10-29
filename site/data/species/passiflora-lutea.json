@@ -1,0 +1,54 @@
+{
+  "id": "passiflora-lutea",
+  "family": "Passifloraceae",
+  "genus": "Passiflora",
+  "scientific_name": "Passiflora lutea",
+  "common_name": "Yellow passionflower",
+  "look_here_first": "LOOK for a broad shallow 3-lobed LEAF with entire margins, then check the PETIOLE: no glands. Flip the leaf underside: no extra-floral nectar dots; P. affinis has underside nectar dots and floral bracts (both have glandless petioles). At flower base P. lutea lacks floral bracts and small flowers are <25 mm across with straight thin unclubbed corona filaments.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial climbing or trailing vine with axillary tendrils"
+    },
+    {
+      "label": "Identification",
+      "text": "petioles eglandular — no paired extrafloral nectary bumps"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf blades shallowly to moderately 3-lobed, usually wider than long"
+    },
+    {
+      "label": "Identification",
+      "text": "lobes broad and rounded to obtuse; margins entire rather than serrate"
+    },
+    {
+      "label": "Identification",
+      "text": "fine veins prominently raised on the lower leaf surface"
+    },
+    {
+      "label": "Identification",
+      "text": "floral bracts absent"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers small and inconspicuous, roughly 2–2.5 cm across in regional material"
+    },
+    {
+      "label": "Identification",
+      "text": "sepals green; petals pale green-yellow; corona pale green/white to yellow"
+    },
+    {
+      "label": "Identification",
+      "text": "ripe berries small, purple-black, roughly 8–15 mm"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Passiflora tenuiloba: P. tenuiloba has petiole glands and very narrow, deeply divided 3–9-lobed 'birdwing' leaves; P. lutea has glandless petioles and broad rounded 3-lobed leaves. Passiflora incarnata: P. incarnata has two conspicuous petiole glands, deeply 3-lobed serrate leaves, much larger flowers, and large maypop fruits. P. lutea has glandless petioles, entire leaf margins and tiny flowers/fruits."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b5238d7cd75ba4eceeca7c4be0cafd3fe5b714d0663086fe42de3b6bca64b8bd",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

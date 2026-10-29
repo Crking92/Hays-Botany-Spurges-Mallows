@@ -1,0 +1,17 @@
+{
+  "id": "viola-missouriensis",
+  "family": "Violaceae",
+  "genus": "Viola",
+  "scientific_name": "Viola missouriensis",
+  "common_name": "Missouri violet",
+  "look_here_first": "Inspect basal leaves, stipules and a flower spur; check the fruiting capsule and peduncle.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5b3cf2e2505bd20c6b73c80e0008940ac264257f984c0315bc034829e8512cf0",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

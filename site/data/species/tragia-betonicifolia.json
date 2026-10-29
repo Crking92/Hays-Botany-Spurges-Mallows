@@ -1,0 +1,46 @@
+{
+  "id": "tragia-betonicifolia",
+  "family": "Euphorbiaceae",
+  "genus": "Tragia",
+  "scientific_name": "Tragia betonicifolia",
+  "common_name": "Betonyleaf noseburn",
+  "look_here_first": "Start with the leaf base and male-flower pedicels: triangular-lanceolate to triangular-ovate serrate leaves with truncate-to-cordate bases; staminate flowers are clustered distally and their persistent pedicel bases are very short.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial herb or subshrub with stinging hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "triangular-lanceolate to triangular-ovate serrate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf bases cordate to truncate"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal or leaf-opposed racemes"
+    },
+    {
+      "label": "Identification",
+      "text": "many staminate flowers clustered distally"
+    },
+    {
+      "label": "Identification",
+      "text": "persistent staminate pedicel bases about 0.3–0.6 mm"
+    },
+    {
+      "label": "Identification",
+      "text": "capsules roughly 7–9 mm wide"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Short persistent staminate pedicel bases and distally clustered male flowers are especially useful; T. urticifolia has longer staminate pedicels and a different distribution of staminate flowers."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "9faa1a4387fb8ff061578c6c51163f9ffa195f53b1333ab9c329879e70d47257",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

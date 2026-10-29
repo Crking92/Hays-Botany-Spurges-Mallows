@@ -1,0 +1,42 @@
+{
+  "id": "sphaeralcea-lindheimeri",
+  "family": "Malvaceae",
+  "genus": "Sphaeralcea",
+  "scientific_name": "Sphaeralcea lindheimeri",
+  "common_name": "woolly globemallow",
+  "look_here_first": "Decumbent whitish stems, unusually soft long pubescence, distinctly white/silvery lower leaf surfaces, and red to red-pink flowers.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial with decumbent stems"
+    },
+    {
+      "label": "Identification",
+      "text": "long soft woolly pubescence"
+    },
+    {
+      "label": "Identification",
+      "text": "deltate-ovate leaves unlobed or shallowly 3-lobed"
+    },
+    {
+      "label": "Identification",
+      "text": "white to silvery leaf undersides"
+    },
+    {
+      "label": "Identification",
+      "text": "broadly crenate margins"
+    },
+    {
+      "label": "Identification",
+      "text": "red to red-pink mallow flowers"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Use the very soft long hairs, silvery abaxial surface, decumbent habit, and distribution together; flower color alone is not enough."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "452ca5abe4cede39f87ef4f4473015d2106e85db6a76dab3f58930cf0029bf76",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

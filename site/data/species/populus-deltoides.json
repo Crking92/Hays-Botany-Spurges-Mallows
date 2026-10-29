@@ -1,0 +1,17 @@
+{
+  "id": "populus-deltoides",
+  "family": "Salicaceae",
+  "genus": "Populus",
+  "scientific_name": "Populus deltoides",
+  "common_name": "Eastern cottonwood",
+  "look_here_first": "Look for a large riparian tree with broad triangular leaves, long flattened petioles and cottony windborne seeds; verify leaf base, teeth and winter buds.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7d0333b3960a375b7bc54b1190fccbf110ece24f4783a9c6ff6a49edf52c3f9f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
