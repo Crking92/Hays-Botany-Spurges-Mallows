@@ -1,0 +1,46 @@
+{
+  "id": "acalypha-radians",
+  "family": "Euphorbiaceae",
+  "genus": "Acalypha",
+  "scientific_name": "Acalypha radians",
+  "common_name": "Cardinal's Feather, Cardinal Feather",
+  "look_here_first": "LOOK HERE FIRST — Acalypha radians: low spreading to ascending PERENNIAL, often in deep sand, with small, rounded or kidney-shaped leaves whose edges are deeply CRENATE (rounded scallops). Species is DIOECIOUS: male and female flowers occur on different plants, never presume an individual female cluster proves this alone. Female spikes have very CROWDED bracts with axis hidden between them, typically 8–10 SPOON-SHAPED (spatulate) lobes, extending about half the bract length, and many-branched styles. Versus A. phleoides: erect perennial with more pointed serrate ovate leaves and terminal MIXED (lower female, upper male) spikes with spaced triangular bracts; versus A. persimilis: broad heart-based leaves and annual habit, many narrow bract lobes.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial prostrate to ascending herb or subshrub"
+    },
+    {
+      "label": "Identification",
+      "text": "dioecious"
+    },
+    {
+      "label": "Identification",
+      "text": "reniform to suborbiculate deeply crenate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "unisexual inflorescences"
+    },
+    {
+      "label": "Identification",
+      "text": "crowded pistillate bracts with many spatulate lobes"
+    },
+    {
+      "label": "Identification",
+      "text": "multifid styles"
+    },
+    {
+      "label": "Identification",
+      "text": "pubescent-hirsute capsule"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Acalypha phleoides is monoecious with a terminal bisexual spike; A. persimilis is annual and has different reproductive architecture."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c1e9068ab3192428ece2d6425b756cd0ef86bcdf5c8e6a8cd045ae5ee348bfc1",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

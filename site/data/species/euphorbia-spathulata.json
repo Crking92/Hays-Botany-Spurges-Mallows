@@ -1,0 +1,50 @@
+{
+  "id": "euphorbia-spathulata",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "scientific_name": "Euphorbia spathulata",
+  "common_name": "Warty spurge",
+  "look_here_first": "WARTY FRUIT FIRST. This hairless leafy annual has spoon-shaped to oblanceolate alternate lower stem leaves, tiny terminal cyathia, and repeated forks with broad green flowering bracts. Its ripe 3-lobed capsule shows distinct LOW ROUNDED WARTS (now photographed, with arrows); Roemer's spurge (E. roemeriana) has a SMOOTH fruit and two rounded flowering bracts fused into a shallow cup roughly halfway up. E. spathulata has distinct (not fused) bracts, often fine-toothed at the rim, and 4–5 hornless cyathial glands. Existing Texas Nathan Taylor and University of Arizona Max Licher photos now show the warty fruit, styles, yellow cyathial structures, and leaflike bracts; bract-base fusion geometry and absent horns remain hand-lens/closer-macro confirmations. County nativity badge has not been audited.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Euphorbiaceae; upright leafy Euphorbia subgenus Esula with tiny cyathia (specialized flowering units) rather than ordinary petals."
+    },
+    {
+      "label": "Habit",
+      "text": "Hairless annual with slender upright, often basally branched shoots and repeatedly forked terminal reproductive branches."
+    },
+    {
+      "label": "Leaves",
+      "text": "Stem leaves alternate and typically spatulate to oblanceolate, usually with finely serrulate margins; inspect several mature leaves rather than only bracts."
+    },
+    {
+      "label": "Paired bracts",
+      "text": "Paired upper dichasial bracts separate (distinct), often broadly ovate or triangular, sometimes with fine-toothed edges; not half-fused as in E. roemeriana."
+    },
+    {
+      "label": "Cyathia",
+      "text": "Small green cup-like flowering units; 4–5 nectar glands without horns, requiring strong close-up to verify."
+    },
+    {
+      "label": "Fruit",
+      "text": "Mature capsule shallowly 3-lobed and covered with small LOW ROUNDED verrucae (warts), a key difference from the smooth capsules of E. roemeriana."
+    },
+    {
+      "label": "Seed",
+      "text": "Variable brown to dark-purple seeds; smooth, finely ridged or netlike-reticulate surfaces across geographic populations. Do not impose a universal reticulate seed texture on Texas specimens."
+    },
+    {
+      "label": "Source note",
+      "text": "Flora of North America, Euphorbia spathulata Lam. (taxon_id=242416545). Native-by-county review is paused; FNA is used for anatomy, not a finished Hays BONAP/NAPA badge."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "294f440babdf23ee1f17e39cc69cd1fb78ece09c930c3f9f5fd18cd5f9234bc4",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

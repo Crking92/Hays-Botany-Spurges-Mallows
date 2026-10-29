@@ -1,0 +1,66 @@
+{
+  "id": "argythamnia-simulans",
+  "family": "Euphorbiaceae",
+  "genus": "Argythamnia",
+  "scientific_name": "Argythamnia simulans",
+  "common_name": "Plateau silverbush",
+  "look_here_first": "Start with sessile leaves and a long 3.5–12 cm axillary inflorescence. The key split from A. aphoroides is that A. simulans inflorescences are bisexual, then confirm with only 7–8 stamens.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial or subshrub"
+    },
+    {
+      "label": "Identification",
+      "text": "petiole absent; leaves sessile"
+    },
+    {
+      "label": "Identification",
+      "text": "bisexual axillary inflorescences 3.5–12 cm"
+    },
+    {
+      "label": "Identification",
+      "text": "staminate flowers with 7–8 stamens and no staminodes"
+    },
+    {
+      "label": "Identification",
+      "text": "pistillate styles 1.5–2.1 mm, glabrous"
+    },
+    {
+      "label": "Identification",
+      "text": "capsules 3.5–9 mm, hispidulous"
+    },
+    {
+      "label": "Identification",
+      "text": "seeds 3.5–4.2 mm, faintly and irregularly alveolate"
+    },
+    {
+      "label": "Petiole",
+      "text": "Absent; leaves sessile"
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Bisexual; 3.5–12 cm"
+    },
+    {
+      "label": "Staminate flower",
+      "text": "Sepals 4–5.3 mm; petals 2–4 mm; 7–8 stamens; 0 staminodes. Petal attachment to the androphore is variable and not a safe binary."
+    },
+    {
+      "label": "Pistillate flower",
+      "text": "Sepals 6–9 mm; styles 1.5–2.1 mm, glabrous; stigmas flattened"
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Capsules 3.5–9 mm, hispidulous; seeds 3.5–4.2 mm, faintly and irregularly alveolate"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Use sessile leaves + long raceme to leave A. humilis behind, then use bisexual inflorescence + 7–8 stamens to separate from A. aphoroides."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "777add1e57831524d41d7a07e209407771416d3d9a91378e81ccedbc22af64ed",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

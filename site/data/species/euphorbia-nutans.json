@@ -1,0 +1,74 @@
+{
+  "id": "euphorbia-nutans",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "scientific_name": "Euphorbia nutans",
+  "common_name": "Nodding spurge / eyebane",
+  "look_here_first": "FIRST LOOK AT LEAF SIZE AND SHAPE. Nodding spurge (Euphorbia nutans) is usually an ASCENDING or arching annual with relatively LONG opposite oblong leaves (8–40 mm), strongly UNEQUAL leaf bases, and finely TOOTHED margins. Its small cyathia have white-to-pink gland appendages; nearby mature fruit is a smooth, THREE-LOBED capsule. Several photographed dark seeds show low IRREGULAR wrinkles, not the high parallel cross-ridges of E. prostrata. Against E. villifera, nutans usually has bigger leaves and small fringed or divided scale-shaped stipules (FNA; full stipule pattern not directly proved by existing photos), whereas villifera tends toward smaller ovate leaves and minute separate threadlike stipules. Don't decide from a red leaf blotch, hairiness, or smooth fruit alone. Hays native-by-county badge remains unaudited.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Euphorbia sect. Anisophyllum: opposite leaves, milky latex, tiny cyathia, and a 3-lobed capsule. In E. nutans, plant stature and leaf architecture are unusually helpful before moving to fruit and seed."
+    },
+    {
+      "label": "Growth form",
+      "text": "Annual with taproot; stems usually ascending, occasionally erect, often arching or nodding near branch tips, roughly 20–80 cm."
+    },
+    {
+      "label": "Stems",
+      "text": "Sparsely to moderately pilose/villous or with short incurved hairs, commonly concentrated at nodes and distal portions; hairs may form two bands on opposite sides of the stem."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite; blades oblong to oblong-lanceolate, about 8–40 × 3–12 mm. Base strongly asymmetric: one side angled/rounded, the other truncate to cordate-auriculate. Margins serrulate; upper surface often has a reddish blotch or mottling but can lack it."
+    },
+    {
+      "label": "Stipules",
+      "text": "Small scales, usually distinct, sometimes basally connate on one side of stem; irregularly toothed, fringed, or divided."
+    },
+    {
+      "label": "Cyathium",
+      "text": "Cyathia solitary at distal nodes or in small terminal cymose clusters. Four green to reddish-purple glands with white or pinkish ovate-to-broadly-elliptic appendages."
+    },
+    {
+      "label": "Fruit",
+      "text": "Capsule ovoid, about 1.6–2.3 × 1.5–2.4 mm, glabrous."
+    },
+    {
+      "label": "Seed",
+      "text": "Seeds dark brown, elliptic-ovoid to ovoid, rounded-angular in cross section, about 1–1.6 × 0.5–0.8 mm; surface finely and irregularly wrinkled or with faint shallow transverse ridges."
+    },
+    {
+      "label": "Identification",
+      "text": "ascending to erect annual with arching branch tips"
+    },
+    {
+      "label": "Identification",
+      "text": "relatively large opposite oblong leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "strongly asymmetric leaf bases"
+    },
+    {
+      "label": "Identification",
+      "text": "serrulate leaf margins"
+    },
+    {
+      "label": "Identification",
+      "text": "red central leaf blotch often present but not required"
+    },
+    {
+      "label": "Identification",
+      "text": "glabrous capsule"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Teach opposite leaves and their STRONGLY unequal bases first, then fine edge teeth, then hairless fruit and microscopic seed wrinkles. Unlike E. villifera, E. nutans generally has larger leaves and fringed/divided 1–1.5 mm scalelike stipules, not minute separate filiform stipules. Both can have ascending branches and hairless capsules; leaf spot or hairiness alone is not diagnostic. E. maculata grows as a low mat and has fine hairs on capsule faces; E. prostrata has fruit-keel hairs and strong transverse seed ridges."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "983f97dff39f7c22a70042fd7db7a28cb4effff4ed332b5e0a77d0912c6c8ca5",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

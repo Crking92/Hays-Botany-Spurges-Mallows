@@ -1,0 +1,50 @@
+{
+  "id": "abutilon-theophrasti",
+  "family": "Malvaceae",
+  "genus": "Abutilon",
+  "scientific_name": "Abutilon theophrasti",
+  "common_name": "velvetleaf",
+  "look_here_first": "Go straight to the giant velvety leaves and mature fruit. Velvetleaf has a large ~15 × 20 mm schizocarp forming a conspicuous crown of mericarps with 3–6 mm divergent spines; the style is 13–15-branched.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "tall annual"
+    },
+    {
+      "label": "Identification",
+      "text": "very large velvety cordate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "pale yellow axillary flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "13–15 style branches"
+    },
+    {
+      "label": "Identification",
+      "text": "large 15–20 mm schizocarp"
+    },
+    {
+      "label": "Identification",
+      "text": "many mericarps with long divergent beaks"
+    },
+    {
+      "label": "Flower",
+      "text": "Calyx ~10 mm, lobes erect in fruit; pale-yellow petals 8–13 mm; staminal column glabrous; style 13–15-branched."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Schizocarp broadly ovoid, about 15 × 20 mm; mericarp apex spinose with divergent 3–6 mm spines; 3 seeds per mericarp, seeds 3–4 mm."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Much larger-leaved and more strongly beaked than A. fruticosum; annual weed habit is also distinctive."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "28b36df370b21c87a9a9bfcb7f72ebc4f6762c99b62f9035d2a8bf4f7b9a2ddb",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

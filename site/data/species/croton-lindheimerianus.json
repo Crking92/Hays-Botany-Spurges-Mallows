@@ -1,0 +1,46 @@
+{
+  "id": "croton-lindheimerianus",
+  "family": "Euphorbiaceae",
+  "genus": "Croton",
+  "scientific_name": "Croton lindheimerianus",
+  "common_name": "Lindheimer's croton",
+  "look_here_first": "LOOK HERE FIRST — THREE-SEED CROTON: low branched hairy Croton similar to prairie tea; its lower leaf surface does NOT look brown-dotted from dark-centered stellate hairs (the hairs are pale). On a clearly exposed PISTILLATE flower, count THREE BIFID styles with SIX terminal arms; its ovary is three-locular and mature capsule smooth. Existing Joey Santore licensed photos show true fine hairy leaf blades, green closed structures and WHITE MALE STAMENS, but the key 6 female tips and underside hair-center absence are NOT directly measurable. Confirm on multiple leaves and female flowers; do not mistake this for C. lindheimeri, the more robust woolly croton (distinct species).",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "annual monoecious herb"
+    },
+    {
+      "label": "Identification",
+      "text": "often low and dichotomously branched"
+    },
+    {
+      "label": "Identification",
+      "text": "dense stellate-tomentose pubescence"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves lanceolate to suborbiculate"
+    },
+    {
+      "label": "Identification",
+      "text": "lower leaf surface lacks the dark brown-dot effect of C. monanthogynus"
+    },
+    {
+      "label": "Identification",
+      "text": "pistillate sepals usually 5–6 and broadest toward their tips"
+    },
+    {
+      "label": "Identification",
+      "text": "three bifid styles yielding six terminal segments"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Croton monanthogynus has dark-centered stellate hairs that create a brown-dotted lower leaf surface, two styles/four terminal branches, and an effectively one-seeded fruit. Croton lindheimeri is generally more robust with much larger yellowish-woolly pistillate sepals."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ee31526c1cf96e9d2c9d273f50eadf12c4fb5914d5c05ef868dcd97bcecc3862",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

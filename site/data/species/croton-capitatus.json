@@ -1,0 +1,50 @@
+{
+  "id": "croton-capitatus",
+  "family": "Euphorbiaceae",
+  "genus": "Croton",
+  "scientific_name": "Croton capitatus",
+  "common_name": "Texas goatweed",
+  "look_here_first": "LOOK HERE FIRST — TRUE CROTON CAPITATUS (TAXON CONCEPT HOLD): a pale woolly annual resembling C. lindheimeri. Inspect FEMALE flower sepals at and after anthesis: about 7–10 mm (up to 15 mm in fruit), spreading widely with tips RECURVED OUTWARD, versus straight/slightly incurved sepal tips of C. lindheimeri. SOME true C. capitatus leaves may be blunt-tipped or mucronate, not nearly all acute. These are supporting traits, not a safe identification from pale hair alone. The two labeled NC State CC0 images illustrate actual woolly floral and leaf habit but DO NOT photographically prove the mature outward-recurved female sepal pattern. The old combination C. capitatus var. lindheimeri IS A SYNONYM of C. lindheimeri, not evidence for strict C. capitatus in Hays County. The taxon-concept and native-range HOLD remain untouched.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "annual monoecious herb"
+    },
+    {
+      "label": "Identification",
+      "text": "stems and leaves densely stellate-hairy with whitish to pale-yellow woolly pubescence"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves ovate to lanceolate-elliptic"
+    },
+    {
+      "label": "Identification",
+      "text": "some leaf tips obtuse, rounded, or mucronate"
+    },
+    {
+      "label": "Identification",
+      "text": "pistillate sepals usually 6–9 and relatively long"
+    },
+    {
+      "label": "Identification",
+      "text": "persistent pistillate sepal tips spreading or recurving outward after anthesis"
+    },
+    {
+      "label": "Identification",
+      "text": "3-locular capsule"
+    },
+    {
+      "label": "Identification",
+      "text": "three styles repeatedly divided"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The highest-value split from C. lindheimeri is sepal posture plus leaf-tip shape: true C. capitatus tends toward outward-flaring/recurved pistillate sepals and may show blunt or mucronate leaves."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "64a79d8e47e35b0e2355d195a723abcbb7e95cd0f893852fd219770f6c837351",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

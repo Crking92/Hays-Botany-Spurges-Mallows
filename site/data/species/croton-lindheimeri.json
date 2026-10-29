@@ -1,0 +1,46 @@
+{
+  "id": "croton-lindheimeri",
+  "family": "Euphorbiaceae",
+  "genus": "Croton",
+  "scientific_name": "Croton lindheimeri",
+  "common_name": "Lindheimer's doveweed",
+  "look_here_first": "LOOK HERE FIRST — LINDHEIMER'S DOVEWEED / WOOLLY CROTON: a robust MONOECIOUS annual with young yellow-brown (ochraceous) woolly hairs, predominantly ACUTE leaf tips and some rounded or heart-shaped leaf bases. The key distinction from true C. capitatus is in FEMALE flowers: 7–8 long woolly sepals (about 5–7 mm) with tips STRAIGHT or only slightly INCURVED, NOT flaring strongly outward after flowering. Three styles branch twice, often 12 terminal branches. The source-licensed existing habit and flowering photos cannot confirm actual mature sepal posture; keep this image gap. Do not confuse C. lindheimeri with C. lindheimerianus, the much smaller low annual with short female sepals and only SIX style ends.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "annual monoecious herb"
+    },
+    {
+      "label": "Identification",
+      "text": "ochraceous yellow-brown pubescence on young growth"
+    },
+    {
+      "label": "Identification",
+      "text": "ovate-lanceolate leaves with consistently acute tips"
+    },
+    {
+      "label": "Identification",
+      "text": "pistillate sepals usually 7–8"
+    },
+    {
+      "label": "Identification",
+      "text": "pistillate sepals yellowish woolly-tomentose"
+    },
+    {
+      "label": "Identification",
+      "text": "sepal tips straight to slightly incurved rather than recurved outward"
+    },
+    {
+      "label": "Identification",
+      "text": "three styles repeatedly divided"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Separate from true C. capitatus with young pubescence color, consistently acute leaves, and non-recurving pistillate sepals."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "88383864bede6e8433e0e97d6767471f18929667f8c3da1777e4caea1b555451",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

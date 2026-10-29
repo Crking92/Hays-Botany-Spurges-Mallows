@@ -1,0 +1,54 @@
+{
+  "id": "callirhoe-pedata",
+  "family": "Malvaceae",
+  "genus": "Callirhoe",
+  "scientific_name": "Callirhoe pedata",
+  "common_name": "Palmleaf poppymallow",
+  "look_here_first": "Look at habit, stipules and inflorescence. Palmleaf poppymallow is an erect-to-weakly-erect perennial with persistent linear-lanceolate stipules, a racemose flower arrangement, no involucellar bractlets, and deeply palmately divided leaves with 3–5 main lobes.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial with thick storage taproot and several stems from the base"
+    },
+    {
+      "label": "Identification",
+      "text": "stems erect to weakly erect, often glaucous and nearly glabrous"
+    },
+    {
+      "label": "Identification",
+      "text": "persistent linear-lanceolate to subulate stipules"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves palmately 3–5-lobed, often further divided into narrow segments"
+    },
+    {
+      "label": "Identification",
+      "text": "inflorescence racemose"
+    },
+    {
+      "label": "Identification",
+      "text": "involucellar bractlets absent"
+    },
+    {
+      "label": "Identification",
+      "text": "calyx lobes valvate in bud and form a pointed/apiculate bud"
+    },
+    {
+      "label": "Identification",
+      "text": "petals usually reddish-purple but sometimes white/pink; flower color not reliable alone"
+    },
+    {
+      "label": "Identification",
+      "text": "mericarps indehiscent, glabrous or sparsely hairy; beaks variable"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Callirhoe digitata: C. digitata usually has 5–10-lobed leaves, caducous stipules and a paniculate inflorescence; C. pedata usually has persistent stipules and a raceme. Current Kew/FNA distributions place C. digitata outside Texas. Callirhoe involucrata: C. involucrata is low/trailing and has 3 involucellar bractlets; C. pedata is erect and lacks involucellar bractlets. Callirhoe leiocarpa: C. leiocarpa is annual/biennial with dehiscent strongly beaked mericarps; C. pedata is perennial with indehiscent fruit."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "2b363ed8091aa35e13eabf75494485d66032a217402e13984b1ae544dff62dcc",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

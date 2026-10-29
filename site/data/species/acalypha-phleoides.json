@@ -1,0 +1,42 @@
+{
+  "id": "acalypha-phleoides",
+  "family": "Euphorbiaceae",
+  "genus": "Acalypha",
+  "scientific_name": "Acalypha phleoides",
+  "common_name": "shrubby copperleaf",
+  "look_here_first": "LOOK HERE FIRST — Acalypha phleoides: erect PERENNIAL with hairy stems and ovate to rhombic-ovate SERRATE leaves; most importantly a TERMINAL bisexual flower spike with pistillate (FEMALE) bracts LOW on the same axis and male flowers HIGHER. Female bracts are loosely spaced (axis visible), normally 5–7 elongated TRIANGULAR lobes (sometimes 3–8) with occasional long stalked glands; pistillate styles are finely many-branched and often red. Contrast A. radians: rounded deeply CRENATE foliage, low spreading and DIOECIOUS separate-sex flowers; its crowded female bracts have about 8–10 spoon-shaped lobes. Contrast annual hophornbeam copperleaf A. persimilis (= A. ostryifolia): FEMALE spikes terminal but MALE spikes axillary and narrow comb-like bract lobes mostly 13–17. Use flower spike + bract morphology, not reddish color alone.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial monoecious herb"
+    },
+    {
+      "label": "Identification",
+      "text": "rhombic-ovate to ovate serrate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "terminal bisexual spike"
+    },
+    {
+      "label": "Identification",
+      "text": "pistillate section below staminate section"
+    },
+    {
+      "label": "Identification",
+      "text": "loosely arranged 5–7-lobed pistillate bracts"
+    },
+    {
+      "label": "Identification",
+      "text": "conspicuous multifid styles"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Acalypha radians is dioecious with rounded deeply crenate leaves and crowded deeply lobed pistillate bracts; A. persimilis is annual with different spike placement."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "4749a8ea2865e4007dd7904f59c958bd83a876de0f6b64b54b29669fec1b1b29",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

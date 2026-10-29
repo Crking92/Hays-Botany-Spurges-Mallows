@@ -1,0 +1,74 @@
+{
+  "id": "euphorbia-angusta",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "scientific_name": "Euphorbia angusta",
+  "common_name": "Narrow-leaf spurge / Blackfoot sandmat",
+  "look_here_first": "FIRST CHECK THE LEAVES: E. angusta (narrowleaf spurge) is an ERECT, narrow-leaved perennial, not a creeping sandmat. Upper leaves are extremely narrow—typically more than six times longer than wide. Look for short white appressed (strigose) hairs on leaves and stems, small reddish-brown stipule projections at nodes, and green hairy cyathial cups edged by toothed white gland appendages. FNA describes HAIRY CAPSULES and pale 4-angled lightly wrinkled mature seeds, but the currently licensed macro set proves hairy cyathial cups NOT independently a mature hairy capsule or a loose seed. Contrast with low rounded-leaved glabrous E. fendleri. Formal BONAP/NAPA county nativity decision stays on HOLD.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Euphorbia sect. Anisophyllum. In E. angusta, the combination of erect perennial habit, very narrow distal leaves, uniform strigose pubescence, and hairy fruit is unusually distinctive."
+    },
+    {
+      "label": "Growth form",
+      "text": "Perennial with moderately to strongly thickened rootstock; stems erect, about 12–43 cm."
+    },
+    {
+      "label": "Stems",
+      "text": "Uniformly strigose."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite. Proximal blades ovate to ovate-elliptic; distal blades linear to elliptic-linear, about 7–41 × 2–5 mm and more than 6× as long as wide. Base asymmetric, cuneate to rounded; margins entire; apex acute; surfaces usually short-strigose."
+    },
+    {
+      "label": "Stipules",
+      "text": "Distinct, linear-subulate or reduced to nodiform/papilliform structures, often reddish brown, about 0.1–0.7 mm, strigose."
+    },
+    {
+      "label": "Cyathium",
+      "text": "Solitary at distal nodes. Involucre strigose; 4 narrow oblong green to yellow-green glands with relatively showy white flabellate appendages whose distal margins are shallowly and irregularly toothed."
+    },
+    {
+      "label": "Fruit",
+      "text": "Capsule broadly ovoid, about 2–2.6 × 2.5–3 mm, strigose."
+    },
+    {
+      "label": "Seed",
+      "text": "Seeds white, ovoid, 4-angled in cross section, about 1.7–2.2 × 1.1–1.2 mm, transversely low-ridged or wrinkled."
+    },
+    {
+      "label": "Identification",
+      "text": "erect perennial from thickened rootstock"
+    },
+    {
+      "label": "Identification",
+      "text": "distal leaves linear to elliptic-linear and more than 6× as long as wide"
+    },
+    {
+      "label": "Identification",
+      "text": "uniformly strigose stems"
+    },
+    {
+      "label": "Identification",
+      "text": "usually short-strigose leaf surfaces"
+    },
+    {
+      "label": "Identification",
+      "text": "strigose involucre and capsule"
+    },
+    {
+      "label": "Identification",
+      "text": "showy white toothed gland appendages"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Against E. fendleri, E. angusta is much taller and erect, with very narrow distal leaves and a hairy capsule; E. fendleri is a low clustered perennial with rounded entire glabrous leaves and glabrous capsule. Against the prostrate sandmats, the erect narrow-leaved silhouette is the quickest first split."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b6aefaee9e6216cfe97a48c8993850f57c2f3a4e9133f6ff684c51489fa0624a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

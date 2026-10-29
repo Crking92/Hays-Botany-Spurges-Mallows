@@ -1,0 +1,74 @@
+{
+  "id": "euphorbia-davidii",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "scientific_name": "Euphorbia davidii",
+  "common_name": "David's spurge",
+  "look_here_first": "E. DAVIDII vs E. DENTATA: Do NOT use leaf color, erect habit or leaf teeth alone. Examine the UNDERSIDE of a mature leaf: David's spurge generally has relatively SHORT, STIFF, STRONGLY TAPERED hairs, often arising from minute pustular bumps. Tooth-edged E. dentata generally has LONGER, WEAKER threadlike hairs. Then look at fully mature seed: David's spurge has a more ANGULAR cross section and irregular low bumps; E. dentata has smaller, ROUNDER, more evenly pebbled seeds. A fully mature capsule is generally about 4–4.8 mm wide in davidii vs 3.5–4 mm in dentata; measure with a real scale. Green three-lobed fruits and reddish leaves are shared clues, not proof. Without hairs or seed, report Euphorbia dentata–davidii group.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Euphorbia sect. Poinsettia: milky latex and cyathia; the dentata group is difficult enough that mature seed characters are often the safest species-level evidence."
+    },
+    {
+      "label": "Growth form",
+      "text": "Annual taprooted herb, typically erect to ascending; often more robust than E. dentata but habit overlaps."
+    },
+    {
+      "label": "Leaves",
+      "text": "Mostly opposite, coarsely toothed, often more elliptic than E. dentata, but leaf shape overlaps too much to use alone."
+    },
+    {
+      "label": "Hairs",
+      "text": "E. davidii shows noticeably shorter, stiffer, tapered hairs on the ABAXIAL (lower) blade, frequently with tiny enlarged bases. Under-leaf hairs are the first practical separating part from E. dentata, which has longer, slender flexible hairs."
+    },
+    {
+      "label": "Cyathium",
+      "text": "Single yellow-green gland, broadly attached; opening oblong; appendages absent."
+    },
+    {
+      "label": "Fruit",
+      "text": "Capsules broadly ovoid, about 2.9–3.3 × 4–4.8 mm, 3-lobed and usually glabrous; larger than in E. dentata."
+    },
+    {
+      "label": "Seed",
+      "text": "Dry mature seed 2.4–2.9 × 2.2–2.9 mm (FNA), angular cross section and irregularly clustered wartlike protuberances, contrasted with dentata smaller more rounded seed and more even fine bumps. Photograph at two rotational angles with 1 mm scale."
+    },
+    {
+      "label": "Identification",
+      "text": "Annual from taproot; tall or ascending, repeatedly branching, especially in disturbed open soil. Habit is variable and not species-specific."
+    },
+    {
+      "label": "Identification",
+      "text": "Coarsely crenate-toothed leaves, frequently opposite, sometimes alternate higher in the plant; leaf blade shape and red/purple margin not reliable alone."
+    },
+    {
+      "label": "Identification",
+      "text": "Some stems and leaf edges visibly hairy; key microscopic species feature is short, STIFF, strongly tapered hairs on the LEAF UNDERSIDE."
+    },
+    {
+      "label": "Identification",
+      "text": "Short abaxial hair bases are often MINUTELY PUSTULAR; a second sharply focused macro is essential to truly see their bases."
+    },
+    {
+      "label": "Identification",
+      "text": "Terminal small green cyathia and three-lobed fruiting capsules; one main yellow-green gland of oblong opening without petal-like appendages (must be a real macro to label)."
+    },
+    {
+      "label": "Identification",
+      "text": "Capsules glabrous or scarcely hairy, 2.9–3.3 mm high and 4–4.8 mm across in FNA. Need a scale; young fruits don't reliably match dimensions."
+    },
+    {
+      "label": "Identification",
+      "text": "Mature seeds approximately 2.4–2.9 × 2.2–2.9 mm; angular in cross section with irregular/faintly transverse low wartlike bumps."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "E. davidii = stiff short hairs + larger capsule + larger angular irregularly lumpy seed. E. dentata = longer weak filiform hairs + smaller capsule + smaller rounded evenly finely tuberculate seed."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "04247f45e0c8f3b9bed0e51c98f79216caf7fda231c7c8c9c6267b29abfa0f51",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

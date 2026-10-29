@@ -1,0 +1,34 @@
+{
+  "id": "ammannia-auriculata",
+  "family": "Lythraceae",
+  "genus": "Ammannia",
+  "scientific_name": "Ammannia auriculata",
+  "common_name": "Eared redstem",
+  "look_here_first": "Start at a middle or upper leaf node: the opposite narrow leaves have rounded ear-like (auriculate), often clasping bases. Follow the leaf axil to a loose, stalked cyme with several tiny flowers; inspect the ribbed floral tube, then a mature globose capsule. Compare cluster stalk length and leaf bases with A. coccinea.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Erect, branched annual wetland herb, usually about 15–65 cm tall; upper stems four-angled."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite, sessile, narrow-lanceolate to oblong-lanceolate, often 1.5–8 cm long; bases typically heart-shaped with ear-like lobes that clasp the stem."
+    },
+    {
+      "label": "Flowers",
+      "text": "Small pink-purple flowers in loose, stalked axillary cymes, often 3–15 flowers; four sepals; floral tube about 1–2 mm long, 4–8-ribbed; petals may be short-lived."
+    },
+    {
+      "label": "Fruit",
+      "text": "Nearly spherical capsule, roughly 1.5–3.5 mm across, with numerous small seeds; confirm against persistent calyx."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "dfd9b31c43aa40f525ea40cf8bf0c3c21d967b027e90ac3f80d0f7884cae1122",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

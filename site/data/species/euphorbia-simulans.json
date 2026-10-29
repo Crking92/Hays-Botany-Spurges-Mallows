@@ -1,0 +1,74 @@
+{
+  "id": "euphorbia-simulans",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "scientific_name": "Euphorbia simulans",
+  "common_name": "Similar spurge / mimicking sandmat",
+  "look_here_first": "LEAVES FIRST, BUT THE SEEDS FINISH THE ID. Euphorbia simulans is a low, largely glabrous desert sandmat with very short opposing ROUND to oval entire leaves (1–3.2 mm long) with near-symmetric bases. The small red-purple cyathial glands are ELLIPTIC and lack the white crescents of E. golondrina; Nathan Taylor's licensed true gland photograph now shows their shape. The smooth green THREE-LOBED capsule is photographed too. The decisive look-alike E. theriaca can look almost identical above ground: true SIMULANS SEEDS are generally 1.5–2 mm with 5–7 WEAK interrupted transverse wrinkles or pits, while THERIACA has smaller seeds with usually 2–4 MUCH DEEPER clear grooves. Both real seed macro photographs and author-stated 0.5mm calibration are now in the genus comparison. Still missing: independently measured same-node 0.5–0.7 mm stipules. FNA records simulans in Brewster, Hudspeth and Presidio; NOT validated as native to Hays or a local crew weed.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Euphorbiaceae, Euphorbia sect. Anisophyllum: opposite usually unequal leaves, cyathia rather than ordinary flowers, and 3-lobed capsule that dries and releases seeds."
+    },
+    {
+      "label": "Habit",
+      "text": "Annual or short-lived perennial; usually slender taproot/rootstock; prostrate to reclining glabrous branches about 5–40 cm, growing in arid desert scrub and rocky or sandy ground."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite, ORBICULATE, OVAL or very short oblong, 1–3.2 × 1.5–5 mm; margins entire, rounded base usually SUBSYMMETRIC (unusual for many sandmats), tip rounded or occasionally notched, glabrous. Usually only midvein conspicuous."
+    },
+    {
+      "label": "Stipules",
+      "text": "Distinct thin awl-shaped (subulate) glabrous scales, 0.5–0.7 mm, at leaf junctions. Distinguish from hairs under a strong lens; existing habit photograph cannot prove individual stipules."
+    },
+    {
+      "label": "Cyathia",
+      "text": "Usually solitary at distal nodes on 0.3–0.7 mm stalks. Cup-like involucre 0.8–1.2 × 0.7–1 mm glabrous; 4 RED TO PURPLE slightly concave ELLIPTIC glands roughly 0.2–0.3 × 0.4–0.5 mm; appendages ABSENT. No white petal-like crescents expected."
+    },
+    {
+      "label": "Capsules",
+      "text": "Broadly ovoid 3-lobed glabrous capsules 1.3–1.8 × 1.5–2 mm; this is compatible with golondrina and cannot resolve both species alone."
+    },
+    {
+      "label": "Seeds",
+      "text": "WHITISH COAT OVER REDDISH-BROWN underneath; narrowly oblong, distinctly 4-angled, 1.5–2 × 1.3–1.8 mm, usually 5–7 FAINT shallow transverse ridges/wrinkles. E. theriaca var. theriaca commonly has smaller seeds with 2–4 PROMINENT transverse ridges. Mature seed macro with calibrated scale needed."
+    },
+    {
+      "label": "Identification",
+      "text": "Very tiny opposite nearly ROUND, entire-margined hairless leaves (1–3.2 mm long)"
+    },
+    {
+      "label": "Identification",
+      "text": "Prostrate to reclining hairless branches"
+    },
+    {
+      "label": "Identification",
+      "text": "Subsymmetrical rounded leaf bases unlike strongly oblique leaves of many Chamaesyce"
+    },
+    {
+      "label": "Identification",
+      "text": "Cyathium at distal node, purple ELLIPTIC glands with NO white appendages"
+    },
+    {
+      "label": "Identification",
+      "text": "Distinct thin 0.5–0.7 mm glabrous subulate stipules"
+    },
+    {
+      "label": "Identification",
+      "text": "Smooth/hairless 3-lobed capsule"
+    },
+    {
+      "label": "Identification",
+      "text": "Mature 1.5–2 mm 4-angled seed with 5–7 weak transverse ridges; essential for close E. theriaca comparison"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "98fa2412420ae2ee3b8766030df1ad0d8e9bc72c19995f950d95ad64100ed960",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

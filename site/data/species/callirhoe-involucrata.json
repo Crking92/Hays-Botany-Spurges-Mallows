@@ -1,0 +1,50 @@
+{
+  "id": "callirhoe-involucrata",
+  "family": "Malvaceae",
+  "genus": "Callirhoe",
+  "scientific_name": "Callirhoe involucrata",
+  "common_name": "Winecup",
+  "look_here_first": "Check growth habit and the structures immediately below the calyx. Winecup is a perennial with low trailing/decumbent stems and an involucel of 3 bractlets beneath the flower. The calyx lobes are already divergent in bud rather than meeting to form a pointed bud.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial taprooted herb, often several-stemmed"
+    },
+    {
+      "label": "Identification",
+      "text": "stems decumbent/trailing to weakly erect, generally much lower than tall poppymallow"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves alternate, roundish in outline and deeply 3–5(–7)-lobed"
+    },
+    {
+      "label": "Identification",
+      "text": "foliage hairy with stellate and simple hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "three involucellar/epicalyx bractlets immediately below calyx"
+    },
+    {
+      "label": "Identification",
+      "text": "calyx lobes divergent in bud, not forming an apiculate point"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers cup-shaped; petal color variable and secondary for ID"
+    },
+    {
+      "label": "Identification",
+      "text": "schizocarp with 10–28 indehiscent mericarps; beaks not strongly prominent"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Callirhoe leiocarpa: C. leiocarpa is annual/biennial and tall/erect, lacks involucellar bractlets, has calyx lobes meeting into a pointed bud, and has glabrous dehiscent mericarps with prominent beaks. Callirhoe pedata: C. pedata is an erect/ascending perennial and lacks the low trailing winecup habit; fruit and leaf architecture should be checked when flowers are absent. Callirhoe scabriuscula: Texas poppy-mallow is stiffly erect, densely stellate-hairy and taller; winecup is low/trailing and has different hair/habit characters."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "65492ffe99cb3b22fc27a0b15129db3b00e9cada6e691b7003a6c841a3c23417",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

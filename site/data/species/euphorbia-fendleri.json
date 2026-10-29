@@ -1,0 +1,74 @@
+{
+  "id": "euphorbia-fendleri",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "scientific_name": "Euphorbia fendleri",
+  "common_name": "Fendler's sandmat / Fendler's spurge",
+  "look_here_first": "START WITH LOW, SMOOTH, AND ROUND. Fendler's sandmat (E. fendleri) is a small perennial with clustered prostrate to ascending GLABROUS stems from a woody thickened crown (woody root not photographed in any cleared public photo yet). Leaves are opposite, small, broad and rounded-to-ovate, with ENTIRE margins rather than the narrow linear blades of E. angusta. Look closely for glabrous 3-lobed green capsule and distinct linear stipules. True photographed detached seeds are pale and strongly FOUR-ANGLED, with slight wrinkles and occasional depressions, NOT regular prominent transverse seed ridges. Compare E. serpens (tiny annual mat with fused scale stipules) and E. angusta (erect, narrow, strigose leaves); cyathial gland appendage size and color are highly variable and should not lead the identification. Formal BONAP/NAPA native-by-county badge remains on hold.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Euphorbia sect. Anisophyllum sandmat. Habit longevity, stipules, leaf margins, capsule surface, and seed form are more reliable than gland-appendage shape."
+    },
+    {
+      "label": "Growth form",
+      "text": "Perennial with woody, thickened taproot; stems usually prostrate, decumbent, or ascending, very rarely erect, densely clustered from the woody crown, about 5–12 cm."
+    },
+    {
+      "label": "Stems",
+      "text": "Glabrous."
+    },
+    {
+      "label": "Leaves",
+      "text": "Usually opposite, rarely whorled; blades typically orbiculate to ovate, rarely almost lanceolate, about 3–8 × 2.5–7 mm; base slightly asymmetric and slightly cordate to rounded/obtuse; margins entire; surfaces glabrous."
+    },
+    {
+      "label": "Stipules",
+      "text": "Distinct, narrowly linear, about 0.5–1 mm, glabrous."
+    },
+    {
+      "label": "Cyathium",
+      "text": "Solitary at distal nodes. Four yellow-green to reddish glands; appendages absent or white/pink and highly variable in size/shape, so appendage form should not be used as a primary ID character."
+    },
+    {
+      "label": "Fruit",
+      "text": "Capsule depressed-globose, about 2–2.4 × 2.2–2.5 mm, glabrous."
+    },
+    {
+      "label": "Seed",
+      "text": "Seeds white, ovoid-pyramidal, prominently 4-angled in cross section, about 1.7–2 × 1–1.2 mm, smooth to slightly wrinkled."
+    },
+    {
+      "label": "Identification",
+      "text": "perennial with woody thickened taproot/crown"
+    },
+    {
+      "label": "Identification",
+      "text": "dense cluster of very low glabrous stems"
+    },
+    {
+      "label": "Identification",
+      "text": "small orbiculate-to-ovate entire glabrous leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "distinct narrow-linear stipules"
+    },
+    {
+      "label": "Identification",
+      "text": "glabrous depressed-globose capsule"
+    },
+    {
+      "label": "Identification",
+      "text": "large white prominently 4-angled seed"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Against the tiny annual sandmats, the woody perennial base is a major clue. Against E. angusta, E. fendleri stays low and has short rounded leaves; E. angusta is erect with very narrow distal leaves. Do not lean heavily on involucral gland appendage shape because it is variable in E. fendleri."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7c3ea4dbd6b89684805d77cee0f37a61194e5b9577964c6cb1cb9df8a4aea539",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

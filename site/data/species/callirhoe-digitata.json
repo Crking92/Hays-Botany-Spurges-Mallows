@@ -1,0 +1,54 @@
+{
+  "id": "callirhoe-digitata",
+  "family": "Malvaceae",
+  "genus": "Callirhoe",
+  "scientific_name": "Callirhoe digitata",
+  "common_name": "Fringed poppy mallow",
+  "look_here_first": "Think tall, glaucous perennial with highly dissected fingerlike leaves and NO involucellar bractlets. The inflorescence is paniculate, stipules are usually shed early, and the calyx lobes meet into a pointed bud.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial from thickened root, usually erect rather than trailing"
+    },
+    {
+      "label": "Identification",
+      "text": "stems glaucous and nearly glabrous, commonly 0.5–2 m in FNA"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves deeply 5–10-lobed with very narrow linear to lanceolate ultimate segments"
+    },
+    {
+      "label": "Identification",
+      "text": "stipules caducous, often absent by flowering"
+    },
+    {
+      "label": "Identification",
+      "text": "inflorescence paniculate rather than racemose"
+    },
+    {
+      "label": "Identification",
+      "text": "involucellar bractlets absent"
+    },
+    {
+      "label": "Identification",
+      "text": "calyx lobes valvate in bud and form an apiculate/acuminate point"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers reddish-purple, but color is not diagnostic"
+    },
+    {
+      "label": "Identification",
+      "text": "mericarps glabrous and indehiscent, beaks not prominent"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Callirhoe pedata: C. pedata is Texas-native, usually has persistent stipules and a racemose inflorescence; its leaves are 3–5-lobed rather than typically 5–10-lobed, though both can be strongly dissected. Callirhoe leiocarpa: C. leiocarpa is annual/biennial, with dehiscent mericarps and prominent beaks/collars; C. digitata is perennial with indehiscent fruit. Callirhoe involucrata: Winecup has 3 involucellar bractlets and a low trailing habit; C. digitata lacks the involucel and is tall/erect."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "8dfc80b9683ee5f665157123af728e3081274d17978169a35c92e89f32f9f64b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

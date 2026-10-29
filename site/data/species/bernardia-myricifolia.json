@@ -1,0 +1,54 @@
+{
+  "id": "bernardia-myricifolia",
+  "family": "Euphorbiaceae",
+  "genus": "Bernardia",
+  "scientific_name": "Bernardia myricifolia",
+  "common_name": "Mouse's eye",
+  "look_here_first": "Look for a shrub with small crenate leaves that are densely gray-white beneath from stellate hairs. Then confirm dioecious flowers and the 3-lobed capsule; stipule and stamen characters help separate close Bernardia species.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "shrub to about 3 m"
+    },
+    {
+      "label": "Identification",
+      "text": "broadly elliptic to orbiculate leaves with revolute crenate margins"
+    },
+    {
+      "label": "Identification",
+      "text": "abaxial leaf surface grayish-white and densely stellate-pubescent"
+    },
+    {
+      "label": "Identification",
+      "text": "caducous green-to-straw stipules lacking dark resinous exudate"
+    },
+    {
+      "label": "Identification",
+      "text": "dioecious reproductive presentation"
+    },
+    {
+      "label": "Identification",
+      "text": "staminate thyrses about 5–15 mm"
+    },
+    {
+      "label": "Identification",
+      "text": "usually 12–15 stamens"
+    },
+    {
+      "label": "Identification",
+      "text": "3-carpellate pistil with three styles densely penicillate adaxially"
+    },
+    {
+      "label": "Identification",
+      "text": "3-lobed capsule about 7–8 mm"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "B. incana has persistent darkened resinous stipule bases and fewer stamens; B. obovata is greener and more sparsely stellate beneath with a 2-carpellate pistil. Do not identify Bernardia from stellate hairs alone because Croton can look similar."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f59256f064daf65724f48d1c14639a24474083a91d27b0b8495fe804347f53a7",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

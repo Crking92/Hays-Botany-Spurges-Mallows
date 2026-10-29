@@ -1,0 +1,74 @@
+{
+  "id": "euphorbia-marginata",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "scientific_name": "Euphorbia marginata",
+  "common_name": "snow-on-the-mountain",
+  "look_here_first": "FIRST photograph the UPPER FACE of an actual mature leaf or white-margined BRACT. *Euphorbia marginata* usually has a GLABROUS (mostly smooth, hairless) UPPER blade; stems, peduncles, lower midribs and capsules may STILL be hairy. Second, compare the LARGEST fully developed showy BRACTS: usually relatively BROAD elliptic/obovate rather than the very long linear-to-narrowly-oblanceolate bracts of *E. bicolor*. Both species can look just as white, and smaller secondary bracts of *marginata* may be narrow. 'More frosting' or 'even white borders' is NOT a reliable field key. What looks like large white flower petals are white-margined MODIFIED LEAVES (bracts), along with small white cyathial-gland appendages. Hays/Travis/Kerr project native-range PASS stays in place.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Euphorbia: milky latex and a cyathium instead of an ordinary petaled flower. The conspicuous white areas are primarily bracts plus gland appendages."
+    },
+    {
+      "label": "Growth form",
+      "text": "Annual, erect herb with a conspicuously white-topped flowering canopy."
+    },
+    {
+      "label": "Leaves",
+      "text": "Distal leaves and bracts become conspicuously white-margined; the showiest upper bracts are relatively broad."
+    },
+    {
+      "label": "Pubescence",
+      "text": "Upper leaf surfaces are mostly glabrous. Hairiness can still occur on lower surfaces, along the midrib, peduncles, cyathia, ovary, and capsule, so 'the whole plant is hairless' is not a safe rule."
+    },
+    {
+      "label": "Bracts",
+      "text": "Largest white-margined bracts are generally broader, commonly elliptic to obovate, rather than the long narrow linear-to-narrowly-oblanceolate bracts of E. bicolor."
+    },
+    {
+      "label": "Cyathium",
+      "text": "Flower-like cyathia bear pale glands with conspicuous white appendages."
+    },
+    {
+      "label": "Fruit",
+      "text": "Three-lobed capsule, conspicuously hairy; detailed Williamson treatment gives capsules about 4.5–5 × 7–7.5 mm."
+    },
+    {
+      "label": "Seed",
+      "text": "Seeds about 4.5 × 3 mm in the detailed Williamson treatment, with minute tuberculate/netlike surface patterning."
+    },
+    {
+      "label": "Latex",
+      "text": "White latex when injured."
+    },
+    {
+      "label": "Identification",
+      "text": "Native to target zone under existing Hays, Travis and Kerr county records; no need to change this project's PASS."
+    },
+    {
+      "label": "Identification",
+      "text": "Annual erect/taprooted plant, white-topped canopy, often 30–85 cm; height does not separate it from *E. bicolor*."
+    },
+    {
+      "label": "Identification",
+      "text": "Stem leaves alternate and relatively BROAD ovate to elliptic; showiest distal white-margined bracts mostly elliptic to obovate rather than extremely slender."
+    },
+    {
+      "label": "Identification",
+      "text": "Upper faces of mature leaves/bracts commonly GLABROUS, even when the stem or under-leaf midrib has hairs."
+    },
+    {
+      "label": "Identification",
+      "text": "Smaller inner inflorescence bracts CAN be narrow; don't ID by one tiny secondary bract."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Against E. bicolor, use two linked characters: E. marginata is generally broader-bracted and glabrous on the upper leaf/bract surfaces; E. bicolor is narrower-bracted and conspicuously hairy above."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5dba9dfb154ee87f1a38f1122f6e09a40cc8d4da07e39b64b24028581c3b16b8",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

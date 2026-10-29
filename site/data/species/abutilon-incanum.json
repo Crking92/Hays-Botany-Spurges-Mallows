@@ -1,0 +1,50 @@
+{
+  "id": "abutilon-incanum",
+  "family": "Malvaceae",
+  "genus": "Abutilon",
+  "scientific_name": "Abutilon incanum",
+  "common_name": "pelotazo chico / hoary abutilon",
+  "look_here_first": "Nonlocal A. incanum comparison: 5 style/stigma branches and about 5 mature fruit segments, often dark-centered reflexed corolla. FNA does not place the species in Texas; a Hays identification merits comparison with A. fruticosum. Do not rely on staminal-column hair alone; A. fruticosum floras disagree.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "densely gray-tomentose subshrub"
+    },
+    {
+      "label": "Identification",
+      "text": "ovate-cordate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "small yellow or pink flowers often dark-centered"
+    },
+    {
+      "label": "Identification",
+      "text": "corolla often reflexed"
+    },
+    {
+      "label": "Identification",
+      "text": "5 style branches"
+    },
+    {
+      "label": "Identification",
+      "text": "cask-shaped fruit"
+    },
+    {
+      "label": "Flower",
+      "text": "Calyx 3–5 mm; corolla reflexed, yellow or pink with dark red center, petals 4–6 mm; staminal column pubescent; style 5-branched."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Schizocarp cask-shaped, not medially constricted, 7–9 × 6 mm; mericarp apex acute/apiculate, tomentulose; 3 seeds per mericarp, seeds ~2 mm."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The expected Texas look-alike A. fruticosum usually has plain yellow flowers and 6–9 style branches."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "93efa02ebac52bf5bdbc424873fccb776829a40e4f5af034007358fdf72d6ed5",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

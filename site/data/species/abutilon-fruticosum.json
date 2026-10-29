@@ -1,0 +1,54 @@
+{
+  "id": "abutilon-fruticosum",
+  "family": "Malvaceae",
+  "genus": "Abutilon",
+  "scientific_name": "Abutilon fruticosum",
+  "common_name": "sweet Indian mallow / pelotazo",
+  "look_here_first": "Texas sweet Indian mallow: small yellow 5-petal mallow flower, small hairy heart-based leaves, and a compact dry fruit with about 6–9(–10) unspined mericarps. For A. incanum lookalike count 6–9 style branches instead of 5. DO NOT require a hairless staminal tube: FNA and UT/Kew disagree.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "woody-based subshrub"
+    },
+    {
+      "label": "Identification",
+      "text": "stellate-tomentulose gray-green stems and leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "ovate-cordate serrate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "plain yellow flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "compact cask-shaped schizocarp"
+    },
+    {
+      "label": "Identification",
+      "text": "Yellow 5-petaled flower with 6–9 style/stigma branches"
+    },
+    {
+      "label": "Identification",
+      "text": "Compact 6–9(–10)-mericarp schizocarp with short, not long-spined segment tips"
+    },
+    {
+      "label": "Flower",
+      "text": "5 yellow or yellow-orange petals, 5–10 mm long (FNA). Style commonly 6–9 branches. FNA reports glabrous staminal column, but detailed Texas material says some stellate hairs and Kew treatments report hair; do not rely on absence of hair."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Schizocarp cask-shaped, 8–9 × 8–9 mm; mericarp apex acute/apiculate, tomentulose; 3 seeds per mericarp, seeds ~2 mm."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Separate from velvetleaf (A. theophrasti) by the smaller leaves and compact fruit; separate from A. incanum by plain yellow flowers and more style branches."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "aac77f6a51199c82738b5ef5f63b154546dc8e37641d61367713446a873c37c0",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

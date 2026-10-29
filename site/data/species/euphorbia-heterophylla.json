@@ -1,0 +1,74 @@
+{
+  "id": "euphorbia-heterophylla",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "scientific_name": "Euphorbia heterophylla",
+  "common_name": "painted spurge",
+  "look_here_first": "CHECK THE TRUE NECTAR GLAND, NOT THE VARIABLE LEAVES. Euphorbia heterophylla (painted spurge) has usually GREEN or pale-green upper bracts, often highly variable leaf outlines, a smooth developing THREE-LOBED capsule, and ONE yellow-green cyathial nectar gland with a RAISED CIRCULAR/ANNULAR RIM. The exact saved SAplants var. heterophylla macro now SHOWS and annotates that ROUND rimmed gland opening. E. cyathophora normally has red/pink/white patches at bract bases, but some plants have all-green bracts; its gland is distinctly OBLONG and lacks the raised circular rim. The salmon-pink-bracted older Psumuseum photograph labeled E. heterophylla is on TAXON ID HOLD, so do not teach from or publish that image until identity is resolved. Nativity/range status unchanged.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Euphorbia: milky latex; the apparent flower is a cyathium with highly reduced male flowers and one central female flower."
+    },
+    {
+      "label": "Growth form",
+      "text": "Annual herb of disturbed sites."
+    },
+    {
+      "label": "Leaves",
+      "text": "Highly polymorphic within populations and even on one plant; blades may be lanceolate, elliptic, obovate, pandurate, or lobed. Leaf shape alone is unreliable."
+    },
+    {
+      "label": "Upper bracts",
+      "text": "Pleiochasial bracts remain green or are only paler green at the base rather than sharply red/pink/white as is typical of E. cyathophora."
+    },
+    {
+      "label": "Cyathium",
+      "text": "One yellow-green gland, stipitate and clavate, about 1–1.4 × 1–1.2 mm; opening circular, occasionally flattened by pressing, with a distinct annular rim; appendages absent."
+    },
+    {
+      "label": "Fruit",
+      "text": "Capsule broadly ovoid, about 2.8–3.8 × 4–5.3 mm, three-lobed, usually glabrous and only rarely sparsely puberulent."
+    },
+    {
+      "label": "Seed",
+      "text": "Seeds broadly deltoid, about 2.4–2.8 × 1.9–2.4 mm, angular in cross section with a strongly keeled dorsal face and tubercles."
+    },
+    {
+      "label": "Identification",
+      "text": "Annual upright herb; can resemble toothed spurges and wild poinsettia."
+    },
+    {
+      "label": "Identification",
+      "text": "Upper bracts usually green or paler near base in FNA; colored-looking specimens need recheck."
+    },
+    {
+      "label": "Identification",
+      "text": "Leaves extremely variable, from unlobed to deeply cut, often on one specimen."
+    },
+    {
+      "label": "Identification",
+      "text": "Terminal green cyathial cups and glabrous three-lobed capsules."
+    },
+    {
+      "label": "Identification",
+      "text": "Single clavate stalked nectar gland with round opening and annular rim is main distinction; macro missing."
+    },
+    {
+      "label": "Identification",
+      "text": "Texas occurrence comparison-only per existing project, not automatically approved native."
+    },
+    {
+      "label": "Reproductive teaching",
+      "text": "Cyathium = a cup-shaped Euphorbia inflorescence with highly reduced staminate flowers and one pistillate flower. The stalked swelling outside the cup becomes a THREE-LOBED capsule; upper colored or green modified leaves are BRACTS and not five separate petals. Do not mistake a ripe fruit for the nectar gland."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Against E. cyathophora, use the cyathial gland before leaf shape. E. heterophylla = green/pale bracts + stipitate gland + round annular-rimmed opening; E. cyathophora = sharply colored bract bases + sessile/substipitate gland + oblong rimless opening."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "019e5bca696bc9839c90f0b35dacd70c93987e1c68c974038a876838ed6f1d53",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

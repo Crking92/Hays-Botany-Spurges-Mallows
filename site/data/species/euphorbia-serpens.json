@@ -1,0 +1,74 @@
+{
+  "id": "euphorbia-serpens",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "scientific_name": "Euphorbia serpens",
+  "common_name": "Matted sandmat / creeping spurge",
+  "look_here_first": "START at a stem NODE: E. serpens is often a creeping plant that produces ADVENTITIOUS ROOTS at nodes in contact with soil. Look for a BROAD fused white-to-pink triangular stipule scale. Independent photo-proved characters: glabrous THREE-LOBED capsules and a smooth SEED without strong crosswise ribs. Contrast E. prostrata's hairy capsule KEELS and strongly transversely ridged seed. The installed 'flowering mat' image actually shows a CYATHIUM macro, not a full-plant mat. Node-root macro has noncommercial/source-restricted reuse and must be kept out of public website copy.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Euphorbia sect. Anisophyllum sandmat: opposite leaves, milky latex, tiny cyathia, and 3-lobed capsules; habit, stipules, hairiness, fruit, and seed are the most useful field structures."
+    },
+    {
+      "label": "Growth form",
+      "text": "Annual with slender taproot; stems strictly prostrate, frequently mat-forming and rooting at nodes, about 15–50 cm, glabrous. The local Williamson County treatment notes adventitious roots are commonly 1 or 2 per rooted node."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite; blades ovate, oblong, or orbiculate, usually 2–7(–9) × 2–6 mm; base asymmetric and rounded to subcordate; margins entire; apex rounded; surfaces glabrous and without a red blotch."
+    },
+    {
+      "label": "Stipules",
+      "text": "Stipules are paired and fused across the node into conspicuous broad-deltate, white-to-pink membranous scales about 0.5–1(–1.2) mm; this fused scale is a major contrast with E. prostrata's upper-free/lower-fused pattern and E. villifera's distinct filiform stipules."
+    },
+    {
+      "label": "Cyathium",
+      "text": "Cyathia solitary at distal nodes; 4 yellow oblong glands with small equal white-to-pink appendages forming a narrow rim at the gland edge."
+    },
+    {
+      "label": "Fruit",
+      "text": "Capsule broadly ovoid, oblate, or subglobose, about 1.3–1.4 × 1.3–1.7 mm, glabrous."
+    },
+    {
+      "label": "Seed",
+      "text": "Seeds white to gray or light pink, ovoid, bluntly 3–4 angled in cross section, about 0.7–1.1 × 0.4–0.7 mm, smooth."
+    },
+    {
+      "label": "Identification",
+      "text": "Strictly prostrate, low spreading annual with small opposite rounded leaves; not all photographed flower macros show mat habit."
+    },
+    {
+      "label": "Identification",
+      "text": "Stems often put out adventitious ROOTS where nodes touch ground; evidence exists in historical research photo but that CC BY-NC-SA item is NOT eligible for public web distribution."
+    },
+    {
+      "label": "Identification",
+      "text": "Broad triangular white-to-pink STIPULE SCALES are fused across nodes, unlike prostrata's partly free narrow stipules."
+    },
+    {
+      "label": "Identification",
+      "text": "Stems and fruit essentially GLABROUS (without conspicuous hairs)."
+    },
+    {
+      "label": "Identification",
+      "text": "Three-lobed glabrous capsule around 1.3–1.7 mm across."
+    },
+    {
+      "label": "Identification",
+      "text": "Seeds approximately 0.7–1.1 mm with no strong transverse ridges; original 1 mm scale source photo covers surface."
+    },
+    {
+      "label": "Identification",
+      "text": "Tiny cyathia with dark nectar glands and small white appendages; don't mistake them for four separate petals."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Against E. prostrata: check a node first—serpens frequently roots there and has fused broad-deltate stipule scales; prostrata does not root at nodes and has an upper-free/lower-fused stipule pattern. Serpens is also glabrous with glabrous capsules and smooth seeds, while prostrata is crisped-villous with hairy capsule keels and ridged seeds. Against E. villifera, serpens is a glabrous rooted mat with fused scales; villifera is usually erect/ascending with distinct filiform stipules and papillate surfaces."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "8f413109c86bac89737091980030fd50a5a0b67abce561c659b150c3b65e936d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

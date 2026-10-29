@@ -1,0 +1,17 @@
+{
+  "id": "cnidoscolus-texanus",
+  "family": "Euphorbiaceae",
+  "genus": "Cnidoscolus",
+  "scientific_name": "Cnidoscolus texanus",
+  "common_name": "Texas bullnettle",
+  "look_here_first": "Beware stinging hairs; examine lobed leaves and white flowers without touching the plant.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "8dfc09e3e5fbe6423b27e03172363445480d0f0034799e6327d8fba93f573319",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

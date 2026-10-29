@@ -1,0 +1,38 @@
+{
+  "id": "croton-monanthogynus",
+  "family": "Euphorbiaceae",
+  "genus": "Croton",
+  "scientific_name": "Croton monanthogynus",
+  "common_name": "Prairie Tea",
+  "look_here_first": "LOOK HERE FIRST — PRAIRIE TEA: A low, repeatedly branching annual Croton with small, entire-edged leaves, pale stellate-hairy underside, and tiny clustered flowers. THE DECISIVE MICRO-CLUES are (A) abaxial dark-BROWN-CENTERED stellate hairs that look like little brown dots with a lens and (B) two female styles, each bifid, giving FOUR terminal style arms. The unusual fruit has one functional seed. Croton lindheimerianus can have nearly the same low branching habit, but its leaf underside lacks the brown-centered hair effect and it has THREE bifid styles / SIX terminal arms. Do NOT claim the exact hairs or style count can be seen in these present whole-plant photos; photograph multiple undersides and an open female flower with a scale.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "small annual often branching near the base"
+    },
+    {
+      "label": "Identification",
+      "text": "dark-centered stellate hairs on lower leaf surface"
+    },
+    {
+      "label": "Identification",
+      "text": "short congested racemes"
+    },
+    {
+      "label": "Identification",
+      "text": "two deeply bifid styles with four terminal branches"
+    },
+    {
+      "label": "Identification",
+      "text": "effectively one-seeded capsule"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "LOOK HERE FIRST: on a sharp underside macro, dark-centered stellate hairs can appear as brown specks; check multiple leaves. On a flowering female plant, count two deeply divided styles producing four terminal branches, and inspect mature fruit for the characteristically reduced one-seeded condition. Croton lindheimerianus has different leaf indumentum and typically three styles divided into six tips; C. texensis generally has narrow foliage and separate male/female plants with warty fruit. Do not identify from low bushy habit or pale flowers alone."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "e83f934a224d2105bd0ed09c8e9eae06fc24bd44adc8ae12557708ab2a7f8a45",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

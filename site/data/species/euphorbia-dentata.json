@@ -1,0 +1,74 @@
+{
+  "id": "euphorbia-dentata",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "scientific_name": "Euphorbia dentata",
+  "common_name": "Toothed spurge",
+  "look_here_first": "LOOK AT THE LEAF UNDERSIDE, THEN COLLECT THE MATURE SEED IF YOU NEED TO SEPARATE THIS FROM E. davidii. Both are upright annual spurges with coarsely toothed opposite (sometimes upper alternate) leaves, inconspicuous green CYATHIA, and developing three-lobed capsules. E. dentata tends toward LONG, SOFT THREADLIKE hairs beneath the leaves, smaller capsules (3.5–4 mm wide), and smaller SEEDS ROUNDED IN CROSS SECTION with an even cover of minute bumps. E. davidii tends to have SHORT, STIFF, TAPERED hairs, larger capsules (4–4.8 mm), and ANGULAR more irregularly tuberculate seeds. Color, leaf teeth, reddish spots or branch habit alone DO NOT confirm this species. If neither hairs nor seeds are clear, label E. dentata–davidii group or Euphorbia sp.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Euphorbia sect. Poinsettia: annual with milky latex and cyathia; in the dentata group, leaf-hair texture, capsule size, and especially mature seed morphology carry the identification."
+    },
+    {
+      "label": "Growth form",
+      "text": "Annual taprooted herb; stems erect or ascending, usually about 15–60 cm."
+    },
+    {
+      "label": "Leaves",
+      "text": "Usually opposite; blades about 30–70 × 4–35 mm, narrowly lanceolate to suborbiculate, often broadest below the middle, with coarse crenate-dentate to doubly crenate margins."
+    },
+    {
+      "label": "Hairs",
+      "text": "Abaxial leaf surface long-pilose with weak, filiform hairs; adaxial surface sparsely pilose to nearly glabrous. This softer/longer hair texture is useful against E. davidii."
+    },
+    {
+      "label": "Cyathium",
+      "text": "Usually (1–)2 green glands, sessile and broadly attached; openings oblong; appendages absent."
+    },
+    {
+      "label": "Fruit",
+      "text": "Capsules depressed-globose, about 2.5–2.8 × 3.5–4 mm, 3-lobed and glabrous."
+    },
+    {
+      "label": "Seed",
+      "text": "Seeds pale gray to black, ovoid and rounded in cross section, about 2.1–2.7 × 1.7–2.1 mm, with evenly distributed minute tubercles; caruncle about 0.4–0.6 mm."
+    },
+    {
+      "label": "Identification",
+      "text": "Annual usually 15–60 cm, upright to ascending branched taprooted herb (supporting habit only)."
+    },
+    {
+      "label": "Identification",
+      "text": "Leaves typically OPPOSITE on many nodes; sometimes upper leaves alternate; blades variable, often 30–70 mm long."
+    },
+    {
+      "label": "Identification",
+      "text": "Broad coarse crenate-dentate to double-crenate leaf edges, not a species-only trait."
+    },
+    {
+      "label": "Identification",
+      "text": "Upper reproductive nodes can have several tiny green cyathia and developing green THREE-LOBED CAPSULES."
+    },
+    {
+      "label": "Identification",
+      "text": "Under mature leaf: long WEAK, THREADLIKE hairs (abaxial) in E. dentata; compare shorter stiff strongly tapered hairs in E. davidii."
+    },
+    {
+      "label": "Identification",
+      "text": "Mature capsule typically glabrous, about 2.5–2.8 mm tall and 3.5–4 mm WIDE. Measure actual width, don't guess from screen size."
+    },
+    {
+      "label": "Identification",
+      "text": "Mature seed about 2.1–2.7 × 1.7–2.1 mm; OVOID ROUNDED cross section, finely and evenly covered with minute bumps (best tie-breaker)."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "E. dentata = softer/longer abaxial hairs + smaller capsule + smaller rounded, evenly pebbled seed. E. davidii = shorter stiffer hairs, often pustule-based + larger capsule + larger angular, irregularly tuberculate seed."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "293653dc877ab4f2427ed7baac5a71cc3d0a674e9b3166c65d08b32c74666431",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

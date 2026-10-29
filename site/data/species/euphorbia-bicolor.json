@@ -1,0 +1,74 @@
+{
+  "id": "euphorbia-bicolor",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "scientific_name": "Euphorbia bicolor",
+  "common_name": "Snow-on-the-prairie",
+  "look_here_first": "START WITH THE TOP FACE (ADAXIAL SURFACE) OF A MATURE LEAF OR SHOWY WHITE-MARGINED BRACT: snow-on-the-prairie is conspicuously HAIRY ABOVE. Then inspect the LONG NARROW linear-to-narrowly oblanceolate bracts. Snow-on-the-mountain (E. marginata) generally has smooth/glabrous upper leaf and bract faces with broader elliptic/obovate bracts. BOTH species can be very white: amount, patchiness or continuity of white are NOT dependable diagnostic differences. Check these TWO independent characters together. Upper bracts are modified leaves, not petals; the actual flower-like inflorescence is a tiny cyathium; developing fruit is a three-lobed capsule. Hays-area learner admission remains RANGE_UNRESOLVED and excluded from native metrics even though the taxon is native to Texas at a state scale.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Euphorbia: milky latex; true flowers are highly reduced and grouped in a cyathium; the showy white structures here are bracts and gland appendages, not ordinary petals."
+    },
+    {
+      "label": "Growth form",
+      "text": "Annual, taprooted, erect to suberect herb, commonly about 40–110 cm tall."
+    },
+    {
+      "label": "Leaves",
+      "text": "Cauline leaves narrowly obovate/elliptic to lanceolate; uppermost leaves and bracts develop conspicuous white margins."
+    },
+    {
+      "label": "Pubescence",
+      "text": "Stems, leaves, bracts, inflorescence, and capsules are conspicuously pilose/villous; hairs may be several millimeters long."
+    },
+    {
+      "label": "Bracts",
+      "text": "Largest showy bracts are long and narrow, typically linear to narrowly oblanceolate rather than broadly elliptic."
+    },
+    {
+      "label": "Cyathium",
+      "text": "Small flower-like cyathia with usually 4–5 nectar glands bearing white petal-like appendages."
+    },
+    {
+      "label": "Fruit",
+      "text": "Three-lobed capsule, densely pilose."
+    },
+    {
+      "label": "Latex",
+      "text": "White, copious latex when injured."
+    },
+    {
+      "label": "Identification",
+      "text": "TEXAS native at state scale but Hays project native-range threshold still on HOLD; do not count as target-certified."
+    },
+    {
+      "label": "Identification",
+      "text": "Annual erect/taprooted herb, often about 40–100 cm, occasionally branching; habitat/habit not species proof."
+    },
+    {
+      "label": "Identification",
+      "text": "Ordinary stem leaves alternate; very narrow white-margined terminal bracts often linear or narrowly oblanceolate."
+    },
+    {
+      "label": "Identification",
+      "text": "Upper (adaxial) leaf and bract surfaces have conspicuous soft hairs; key character versus *E. marginata*, which is usually glabrous on those surfaces."
+    },
+    {
+      "label": "Identification",
+      "text": "Tiny true reduced flowers occur inside cyathia; rounded white gland appendages can look deceptively like petals."
+    },
+    {
+      "label": "Identification",
+      "text": "Fruit a three-lobed capsule, densely soft-hairy; fruit hairiness alone will NOT distinguish *E. marginata*."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Against E. marginata, prioritize two characters together: upper-surface hairiness and bract width. E. bicolor is the narrow-and-hairy plant; E. marginata is generally the broader-and-glabrous-above plant."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "6aea81341f797de656428442b28a71143aa30b93ca27787567c8b7410256d7f8",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

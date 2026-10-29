@@ -1,0 +1,34 @@
+{
+  "id": "ammannia-coccinea",
+  "family": "Lythraceae",
+  "genus": "Ammannia",
+  "scientific_name": "Ammannia coccinea",
+  "common_name": "Scarlet toothcup",
+  "look_here_first": "Inspect opposite clasping leaves, four-angled stem and small axillary flower clusters. Check the floral tube, calyx appendages and capsule against A. auriculata; color alone is insufficient.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Erect annual wetland herb, often reddish four-angled stems."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite, sessile, narrow, clasping or auriculate bases."
+    },
+    {
+      "label": "Flowers",
+      "text": "Small axillary flowers with persistent floral tube and calyx appendages."
+    },
+    {
+      "label": "Fruit",
+      "text": "Many-seeded capsule surrounded by persistent floral tube."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "9dd0bd0b696eb20401dc9e8f723c409a4e87f8aa69721e1ef4ccda2442fecfc1",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "euphorbia-ophthalmica",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "scientific_name": "Euphorbia ophthalmica",
+  "common_name": "Florida hammock sandmat",
+  "look_here_first": "FOLLOW THE SMALL HAIRY SHOOT TO ITS FLOWERING HEADS. E. ophthalmica (Florida hammock sandmat) typically makes a LOW PROSTRATE hairy colony with small opposite, slightly unequal, finely toothed leaves. At the END of each main shoot or SHORT LEAFY side shoot, many tiny cyathia crowd into a round HEAD (glomerule). E. hirta also has terminal heads but additionally makes AXILLARY heads, often on extended LEAFLESS stalks: seeing just one terminal head does not prove ophthalmica. E. hypericifolia also forms dense heads but generally has SMOOTH STEMS and smooth capsules; E. nutans makes looser leafy clusters and larger leaves. FNA describes ophthalmica's minute capsule as finely APPRESSED-HAIRY, its stipules as narrow and sometimes divided, and its four-angled seeds with a few FAINT CROSSWISE wrinkles. Our existing images SUPPORT head placement, leaf/stem hairs and mat habit, but NOT clear capsule hairs, tiny stipules or seed sculpture. No Hays County native-range finding should be inferred from these mostly nonlocal source photos.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Euphorbiaceae; Euphorbia sect. Anisophyllum. Opposite leaves, milky latex, cyathia (tiny reproductive structures), 3-lobed dry fruit."
+    },
+    {
+      "label": "Habit",
+      "text": "Usually prostrate, rarely ascending, annual (occasionally short-lived perennial) from taproot; slender shoots 6–22 cm. A low spreading habit is suggestive, never sufficient alone."
+    },
+    {
+      "label": "Stems",
+      "text": "Fine short appressed hairs (strigillose) mixed with longer spreading hairs (hirsute), often both on the same plant."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite; ovate to oblong, 4–13 × 3–7 mm, asymmetric base, coarse fine teeth (coarsely serrulate), usually with 3 veins emerging near base; center may carry red blotch but many leaves do not."
+    },
+    {
+      "label": "Stipules",
+      "text": "Distinct, narrow subulate-filiform scales, entire or divided into 2–4 slender triangular/threadlike segments, 0.9–1.5 mm, hairy; lacking dark round glands at base. A magnified true node is needed to distinguish from ordinary hairs."
+    },
+    {
+      "label": "Flowering cluster",
+      "text": "Dense CAPITATE terminal glomerules; at ends of main stems or very short leafy side shoots. Small reduced bractlike leaves occur beneath them. Unlike E. hirta, not separate axillary flower heads on long leafless stalks."
+    },
+    {
+      "label": "Cyathia",
+      "text": "Tiny involucres about 0.5–0.7 × 0.4–0.6 mm with fine hairs; four yellow-green to pinkish glands, with thin white/pink rims or very small appendages, sometimes without obvious appendages."
+    },
+    {
+      "label": "Fruit",
+      "text": "Ovoid three-lobed capsule 1–1.2 × 1–1.3 mm, strigillose (finely appressed-hairy), not smooth/glabrous."
+    },
+    {
+      "label": "Seed",
+      "text": "Orange-brown to pinkish, narrowly ovoid, sharply four-angled; 0.7–0.9(–1.1) × about 0.5 mm; usually shallow wrinkling and 3–6 faint transverse ridges, occasionally smooth-looking."
+    },
+    {
+      "label": "Identification",
+      "text": "prostrate hairy stems terminating in dense round cyathium heads"
+    },
+    {
+      "label": "Identification",
+      "text": "flower heads at stem and short LEAFY side-branch tips, not long leafless stalks"
+    },
+    {
+      "label": "Identification",
+      "text": "small opposite asymmetric 4–13 mm leaves with coarsely serrulate margins"
+    },
+    {
+      "label": "Identification",
+      "text": "both short-appressed and longer spreading stem hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "finely hairy tiny ovoid capsule"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "8508e0cf17dab83ac10948535fa1fb0e5c1c6a20dc9b4c3bbfdb2391d072c140",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

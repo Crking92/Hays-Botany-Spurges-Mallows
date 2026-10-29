@@ -1,0 +1,62 @@
+{
+  "id": "argythamnia-aphoroides",
+  "family": "Euphorbiaceae",
+  "genus": "Argythamnia",
+  "scientific_name": "Argythamnia aphoroides",
+  "common_name": "Hill Country wild-mercury",
+  "look_here_first": "Start with sessile leaves and a 3–8 cm axillary inflorescence. The strongest split from A. simulans is that A. aphoroides inflorescences are unisexual; then confirm with 10 stamens and a relatively large 7–9 mm woolly capsule.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "low perennial herb or subshrub"
+    },
+    {
+      "label": "Identification",
+      "text": "limestone-derived Edwards Plateau grassland/open oak-juniper habitat"
+    },
+    {
+      "label": "Identification",
+      "text": "small unisexual flowers in axillary racemes"
+    },
+    {
+      "label": "Identification",
+      "text": "proximal pistillate and distal staminate flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "non-muricate 3-carpellate capsule"
+    },
+    {
+      "label": "Identification",
+      "text": "seeds lacking a caruncle"
+    },
+    {
+      "label": "Petiole",
+      "text": "Absent; leaves sessile"
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Unisexual; 3–8 cm"
+    },
+    {
+      "label": "Staminate flower",
+      "text": "Sepals 4–5.5 mm; petals 3.3–4 mm, free from androphore; 10 stamens; 0 staminodes"
+    },
+    {
+      "label": "Pistillate flower",
+      "text": "Sepals 6–7 mm; styles 1.5–3 mm, tomentose; stigmas flattened"
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Capsules 7–9 mm, tomentose to lanulose; seeds 3.7–5 mm, smooth to lightly tuberculate or striate"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Separate from A. humilis and A. simulans with inflorescence, flower, capsule, and seed characters; habit and habitat alone are not secure."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d81d8ee2dbcbfb035554808a2198aad6c70d60dd2283c07507fd5fb96310ad89",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

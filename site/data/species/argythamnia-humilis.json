@@ -1,0 +1,74 @@
+{
+  "id": "argythamnia-humilis",
+  "family": "Euphorbiaceae",
+  "genus": "Argythamnia",
+  "scientific_name": "Argythamnia humilis",
+  "common_name": "Low silverbush",
+  "look_here_first": "Check the leaf node and raceme before anything else: A. humilis has a real 2–10 mm petiole and a tiny 0.7–0.9 cm axillary raceme. Those two measurements separate it quickly from the two sessile, long-racemed project species.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "low perennial or subshrub, stems erect or prostrate"
+    },
+    {
+      "label": "Identification",
+      "text": "small alternate leaves, obovate to linear, margins entire"
+    },
+    {
+      "label": "Identification",
+      "text": "surfaces variably hairy or glabrous"
+    },
+    {
+      "label": "Identification",
+      "text": "short axillary bisexual racemes"
+    },
+    {
+      "label": "Identification",
+      "text": "staminate petals free from the androphore"
+    },
+    {
+      "label": "Identification",
+      "text": "usually 10 stamens"
+    },
+    {
+      "label": "Identification",
+      "text": "very small pistillate petals with flattened stigmas"
+    },
+    {
+      "label": "Identification",
+      "text": "3-part capsule"
+    },
+    {
+      "label": "Identification",
+      "text": "seeds smooth to rugose or papillate"
+    },
+    {
+      "label": "Petiole",
+      "text": "2–10 mm"
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Bisexual, rarely staminate-only; 0.7–0.9 cm"
+    },
+    {
+      "label": "Staminate flower",
+      "text": "Sepals 2.4–3.3 mm; petals 1.5–2.6 mm; (7–)10 stamens; 2–3 staminodes"
+    },
+    {
+      "label": "Pistillate flower",
+      "text": "Sepals 4–5.2 mm; styles 0.6–1.3 mm, glabrous; stigmas flattened"
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Capsules 1.6–4.2 mm; seeds 1.5–2.5 mm, smooth to rugose/papillate"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Habit and pubescence vary too much for confident separation from A. aphoroides or A. simulans; prioritize inflorescence, flower, capsule, and seed characters."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "1f0ec416dbb1c534ce9988c65f56b0cd8c3021084b4533ee955868e29d2ddea7",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

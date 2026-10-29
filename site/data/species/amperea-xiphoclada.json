@@ -1,0 +1,34 @@
+{
+  "id": "amperea-xiphoclada",
+  "family": "Euphorbiaceae",
+  "genus": "Amperea",
+  "scientific_name": "Amperea xiphoclada",
+  "common_name": "Broom spurge",
+  "look_here_first": "LOOK HERE FIRST: find stiff, sharply angled green stems that appear almost leafless; inspect the nodes for clusters of tiny separate male or female flowers. Confirm minute alternate scale-like upper leaves and reddish fringed stipules rather than assuming the green shoots are grass blades.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Erect broomlike subshrub about 20–90 cm tall; stems rigid, smooth and angular, sometimes nearly leafless."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Leaves alternate and sessile when present; lower leaves small (about 5–15 mm), often toothed; upper leaves narrow or scale-like. Look at a stem node for reddish-brown fringed stipules."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "Small flowers clustered at nodes, usually male and female on separate plants (dioecious). Male flowers have a 4–5-lobed calyx and 6–9 free stamens; female flowers have a 5-lobed calyx and short styles. Do not label sex of the photographed cluster without a closer verified view."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Small 2–4 mm capsule; glossy dark ovoid seeds about 1.5–2.5 mm, with roughened surface."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d90c7fe11959a76a7a1b974c5107fc7c2b46487c19d8c522e75f8a6ca0c1585b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

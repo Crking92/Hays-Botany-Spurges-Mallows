@@ -1,0 +1,38 @@
+{
+  "id": "anoda-cristata",
+  "family": "Malvaceae",
+  "genus": "Anoda",
+  "scientific_name": "Anoda cristata",
+  "common_name": "spurred anoda",
+  "look_here_first": "LOOK HERE FIRST: Find the mallow-like flower and, most importantly, a mature flattened disk-shaped fruit (schizocarp). Count the wedge-shaped segments (mericarps) and inspect their projecting points; do not identify this plant from a purple leaf blotch or flower color alone.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Annual herb with spreading to upright branching stems; habit varies with disturbance and moisture."
+    },
+    {
+      "label": "Leaves attachment",
+      "text": "Alternate, petiolate leaves; lower leaves may be broader or lobed and upper leaves narrower. Variable purple marks are not diagnostic."
+    },
+    {
+      "label": "Flower reproductive",
+      "text": "Solitary five-petaled, mallow-type flowers with many stamens united into a central column; check calyx and flower attachment."
+    },
+    {
+      "label": "Fruit seed",
+      "text": "Flattened circular schizocarp breaks into approximately 10–19 wedge-shaped mericarps. Mature mericarp tips/spines are more decisive than flower color."
+    },
+    {
+      "label": "Stem bud",
+      "text": "Inspect leaf axils for flower and fruit stalks; note hairiness and alternate nodes."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "f324491ff5432fd0a7de0c22801c3c8eb029637dbc5aace534a7fecce162f77e",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

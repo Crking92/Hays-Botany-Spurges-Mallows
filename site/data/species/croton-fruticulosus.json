@@ -1,0 +1,46 @@
+{
+  "id": "croton-fruticulosus",
+  "family": "Euphorbiaceae",
+  "genus": "Croton",
+  "scientific_name": "Croton fruticulosus",
+  "common_name": "Shrubby croton",
+  "look_here_first": "LOOK HERE FIRST — BUSH / SHRUBBY CROTON: Follow the stem to a persistent WOODY crown, then inspect a mature leaf edge with a lens for very fine SERRULATE teeth, often slightly wavy. Its mostly ovate to ovate-lanceolate pointed leaves are conspicuously green above, and stems bear star-shaped (stellate) hairs. This shrub is MONOECIOUS (male and female flowers on the same plant): a female flower has three once-forked styles, SIX tips, and the mature capsule is smooth. Do not mistake the narrow-leaved annual C. texensis (separate male/female plants, WARTY female fruit), the woolly annual C. lindheimeri, or the small toothed annual C. glandulosus for a woody shrub. Current owner's two public-ready photos show foliage and flowering branches, NOT the soil-level woody crown or the minutely toothed margin sharply enough for decisive arrows.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "subshrub or shrub, much branched"
+    },
+    {
+      "label": "Identification",
+      "text": "stems with stellate hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "ovate to ovate-lanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "leaf margins finely serrulate"
+    },
+    {
+      "label": "Identification",
+      "text": "petioles short relative to the leaf blade"
+    },
+    {
+      "label": "Identification",
+      "text": "bisexual racemes typically several centimeters long"
+    },
+    {
+      "label": "Identification",
+      "text": "three styles bifid to six terminal segments"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Croton lindheimeri is an annual herb with mostly entire leaves. Croton texensis is annual and strictly dioecious, with narrower mostly entire leaves and unisexual inflorescences."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3ae3671a767995956d59958ed7cf98d96e54f44e01d21c277f7332e05104f5e2",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

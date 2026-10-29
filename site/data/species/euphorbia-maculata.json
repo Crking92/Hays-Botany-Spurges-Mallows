@@ -1,0 +1,74 @@
+{
+  "id": "euphorbia-maculata",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "scientific_name": "Euphorbia maculata",
+  "common_name": "Spotted spurge",
+  "look_here_first": "STOP IDENTIFYING ALL RED-SPOTTED MATS AS EUPHORBIA MACULATA. Begin with small opposite leaves (often RED blotch, not necessary) on a low hairy spreading annual. Under magnification, confirm fine appressed HAIRS ACROSS the whole capsule FACES, not just along keels; E. prostrata has conspicuous hairs mainly on capsule KEELS. Mature E. maculata seeds have a few LOW TRANSVERSE ridges or shallow crosswise wrinkles, not lengthwise ribs; prostrata has STRONG sharp crosswise seed ridges; E. serpens has a GLABROUS capsule and a seed lacking strong ribs. Photograph the node and narrow stipules, but don't claim red spot or mat habit alone proves species. This learner has no completed BONAP county-native decision: county-range metrics stay excluded until reviewed.",
+  "key_traits": [
+    {
+      "label": "Life cycle",
+      "text": "Annual with a taproot; stems usually lie flat and do not root at nodes."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite, asymmetric at base, 4–18 × 2.5–8 mm, often red-blotched but variable."
+    },
+    {
+      "label": "Reproductive",
+      "text": "Tiny cup-shaped cyathia in leaf axils; hairy 3-lobed capsules and longitudinally ridged seeds are stronger tie-breakers than leaf color."
+    },
+    {
+      "label": "Identification",
+      "text": "Low annual radiating creeping mat; long stems often prostrate and do not normally root at soil-contact nodes."
+    },
+    {
+      "label": "Identification",
+      "text": "Opposite small leaves with unequal/asymmetric bases; minutely toothed margins, sometimes with dark midrib blotch; SPOT MAY BE ABSENT."
+    },
+    {
+      "label": "Identification",
+      "text": "Narrow pointed stipules near leaf bases, not broad fused triangular scales of E. serpens."
+    },
+    {
+      "label": "Identification",
+      "text": "Fine hairs across stems and leaf surfaces, especially below; also fine APPRESSED hairs evenly distributed over capsule faces."
+    },
+    {
+      "label": "Identification",
+      "text": "Three-lobed capsules generally about 1.3–1.5 mm; surface pubescence all over, NOT mainly on raised keel ridges."
+    },
+    {
+      "label": "Identification",
+      "text": "Seeds about 1 mm, angular, with a few LOW, INCONSPICUOUS TRANSVERSE ridges/wrinkles. Do NOT describe these as longitudinal ridges."
+    },
+    {
+      "label": "Identification",
+      "text": "Fruit hair DISTRIBUTION versus E. prostrata is more immediately useful than dark leaf patches."
+    },
+    {
+      "label": "Family pattern",
+      "text": "Euphorbiaceae / Euphorbia sect. Anisophyllum. Minute cyathia (cups containing reduced flowers), opposite leaves, three-lobed capsules. Exact species needs fruit and seed morphology."
+    },
+    {
+      "label": "Seed",
+      "text": "Mature seeds oblong-ovoid, sharply angular, about 1–1.2 by 0.6–0.9 mm; FNA describes 3–4 low transverse ridges crossing angles, unlike stronger narrow cross-ribs on E. prostrata. Older project note describing lengthwise ridges was incorrect and is superseded."
+    },
+    {
+      "label": "Fruit",
+      "text": "Fruit three-lobed and exserted, around 1.3–1.5 mm, fine appressed hairs scattered relatively evenly across the rounded faces. Unlike E. prostrata, which has more projecting or crisped hairs concentrated along keels."
+    },
+    {
+      "label": "Leaf base",
+      "text": "Leaf bases strongly asymmetric with one side more truncate and sometimes forming a rounded lobe/auricle. Photo of whole habit may not resolve it; a sharp close-up and orientation of single entire paired leaves is best."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b4dd69dd2d7ef4f57bed575a1d3c0cceb18cd54d821c6bd09d24c3c4da33994c",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

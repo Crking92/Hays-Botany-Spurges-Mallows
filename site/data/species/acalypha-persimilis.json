@@ -1,0 +1,38 @@
+{
+  "id": "acalypha-persimilis",
+  "family": "Euphorbiaceae",
+  "genus": "Acalypha",
+  "scientific_name": "Acalypha persimilis",
+  "common_name": "Acalypha persimilis",
+  "look_here_first": "LOOK HERE FIRST — Acalypha persimilis (the concept widely treated as A. ostryifolia): TALL ANNUAL often 35–70 cm with alternate ovate, heart-based, serrate leaves on long stalks. Male STAMINATE flower spikes arise from leaf AXILS; female PISTILLATE flower spikes are TERMINAL (or seem axillary on short branchlets). Each loosely separated female bract has roughly 13–17 long LINEAR finger-like lobes (range 9–17), unlike A. phleoides' 5–7 triangular lobes and bisexual spike or A. radians' crowded spatulate lobes. Do not split A. persimilis from A. ostryifolia into duplicate project cards: the familiar name has an active 2025 formal nomenclatural conservation proposal. Keep the canonical identity/name-status unresolved until authoritative final ruling.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "annual herb"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate ovate serrate leaves often 3–5-nerved from base"
+    },
+    {
+      "label": "Identification",
+      "text": "monoecious apetalous flowers in spikes"
+    },
+    {
+      "label": "Identification",
+      "text": "reproductive architecture more important than leaf shape"
+    },
+    {
+      "label": "Identification",
+      "text": "3-lobed capsule"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Re-key against Acalypha phleoides and A. radians using reproductive spikes/bracts. Older A. ostryifolia field-guide material may refer to the same current concept."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c116396d3bb6162f0afddb8956ec298c44a4ed46261b51c202b2e2e61463e501",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

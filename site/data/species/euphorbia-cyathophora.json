@@ -1,0 +1,74 @@
+{
+  "id": "euphorbia-cyathophora",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "scientific_name": "Euphorbia cyathophora",
+  "common_name": "wild poinsettia",
+  "look_here_first": "START WITH THE UPPER BRACTS, THEN THE ACTUAL GLAND. Native wild poinsettia, Euphorbia cyathophora, commonly has red, pink, or white patches at the BASE of green upper bracts (MODIFIED LEAVES, not petals); the bracts can sometimes be entirely green. A REAL SAVED MACRO in this lesson shows the small yellow-green CYATHIAL NECTAR GLAND with an OBLONG flattened opening and NO raised circular rim. That distinguishes it from E. heterophylla's actual photographed ROUND opening with an ANNULAR rim. Leaf shapes can be strongly variable in both plants. The larger GREEN THREE-LOBED structure is the developing CAPSULE, not the gland. Hays-target-range PASS preserved from prior verified review.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Euphorbia: milky latex; the apparent flower is a cyathium containing highly reduced male flowers and one central female flower."
+    },
+    {
+      "label": "Growth form",
+      "text": "Annual taprooted herb; stems erect or ascending, commonly about 20–100 cm."
+    },
+    {
+      "label": "Leaves",
+      "text": "Usually alternate, occasionally opposite proximally; blades extremely variable—linear, lanceolate, elliptic, or broad/pandurate and sometimes lobed. Leaf shape alone is unreliable."
+    },
+    {
+      "label": "Upper bracts",
+      "text": "Pleiochasial bracts usually green with white, pink, or red at the base; some may become wholly colored. This sharp basal color block is a strong first clue."
+    },
+    {
+      "label": "Cyathium",
+      "text": "Usually one yellow-green gland, about 1–1.4 × 0.9–1.6 mm, sessile to substipitate; opening oblong/flattened naturally and lacking an annular rim; gland appendages absent."
+    },
+    {
+      "label": "Fruit",
+      "text": "Capsule green, depressed-globose to ellipsoid, about 2.8–3.2 × 4–4.5 mm, three-lobed and glabrous."
+    },
+    {
+      "label": "Seed",
+      "text": "Seeds about 2.3–3.1 × 1.9–2.5 mm, rounded in cross section and tuberculate; caruncle absent."
+    },
+    {
+      "label": "Identification",
+      "text": "Flowering wild poinsettia with typically sharply coral/pink/red proximal bract patches, rather than normal petals."
+    },
+    {
+      "label": "Identification",
+      "text": "Leaves highly variable, often alternate and sometimes pandurate/lobed on the same plant."
+    },
+    {
+      "label": "Identification",
+      "text": "Tiny green cyathia contain reduced flowers, not a ring of showy petals."
+    },
+    {
+      "label": "Identification",
+      "text": "Glabrous, developing three-lobed green capsules; fruit shape overlaps heterophylla."
+    },
+    {
+      "label": "Identification",
+      "text": "Single oblong gland opening without annular rim is decisive but unverified in current photos."
+    },
+    {
+      "label": "Identification",
+      "text": "Native zone PASS already documented; do not change county audit."
+    },
+    {
+      "label": "Reproductive teaching",
+      "text": "Cyathium = a cup-shaped Euphorbia inflorescence with highly reduced staminate flowers and one pistillate flower. The stalked swelling outside the cup becomes a THREE-LOBED capsule; upper colored or green modified leaves are BRACTS and not five separate petals. Do not mistake a ripe fruit for the nectar gland."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Against E. heterophylla, do not rely on leaf shape. Use the bract bases and especially the cyathial gland: E. cyathophora = colored basal bracts + oblong gland opening without an annular rim; E. heterophylla = green/paler-green bracts + stipitate gland with a round opening and annular rim."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "fd3b976daebb4bff042b404bf7e8ca4f90d6795f6af526804df1632cf65638de",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

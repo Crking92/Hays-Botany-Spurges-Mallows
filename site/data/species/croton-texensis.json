@@ -1,0 +1,42 @@
+{
+  "id": "croton-texensis",
+  "family": "Euphorbiaceae",
+  "genus": "Croton",
+  "scientific_name": "Croton texensis",
+  "common_name": "Texas Croton, Skunkweed, Texas Goatweed",
+  "look_here_first": "LOOK HERE FIRST — TEXAS CROTON / SKUNKWEED: an annual with relatively narrow, alternate, entire-edged leaves, pale stellate hairs and often open branching. DO NOT identify it from silver-gray foliage or white flower clusters alone. This species is DIOECIOUS: an individual plant bears either staminate (MALE) flowers or pistillate (FEMALE) flowers. Male flowers expose many pale stamens. Confirm female plants by a distinctly WARTY / verrucose, three-part capsule; seek actual fruit macros. The installed Joey photographs are of a MALE specimen and cannot demonstrate female fruit or, by themselves, prove that the species has separate-sex plants. Contrast the woody, minutely serrulate C. fruticulosus and the smaller low-branching monoecious C. monanthogynus / C. lindheimerianus.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "annual herb with loose distal branching"
+    },
+    {
+      "label": "Identification",
+      "text": "strictly dioecious"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "unisexual inflorescences"
+    },
+    {
+      "label": "Identification",
+      "text": "verrucose capsules"
+    },
+    {
+      "label": "Identification",
+      "text": "highly divided styles"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Croton monanthogynus is monoecious, low and basal-branching with brown-dotted undersides and a one-seeded capsule; C. lindheimerianus is monoecious with smooth capsules."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "9414a9b76074e8f6ed31ef1d34049da814c81e297b9aca148b05d6fb34e6d886",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

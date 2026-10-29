@@ -1,0 +1,74 @@
+{
+  "id": "euphorbia-hypericifolia",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "scientific_name": "Euphorbia hypericifolia",
+  "common_name": "Graceful spurge",
+  "look_here_first": "FIRST LOOK FOR SMALL ROUNDED HEADS, NOT A RED SPOT. Graceful sandmat (Euphorbia hypericifolia) is a GLABROUS upright-to-ascending annual whose tiny cyathia gather in DENSE TERMINAL AND AXILLARY HEADLIKE GLOMERULES with short/reduced bracts. Its opposite oblong leaves are mostly hairless and often finely toothed near the apex. At the nodes look for relatively large reddish TRIANGULAR stipule scales; FNA describes them as joined (connate), generally 1.5–2.2 mm, but the current photos prove their presence/shape better than the precise two-sided fusion seam. Compare E. nutans (leafier loose cyathial clusters, frequently short incurved stem hairs) and E. hyssopifolia (usually less compact/leafier reproductive clusters, smaller stipules). Smooth fruit alone is insufficient because all three may have glabrous fruit. Mature detached seed and definitive scaled smooth capsule macros still needed; nativity-by-county badge is NOT being promoted.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Euphorbiaceae; Euphorbia sect. Anisophyllum: opposite unequal leaves, milky latex, cyathium (tiny special flower head), dry three-lobed capsule."
+    },
+    {
+      "label": "Habit",
+      "text": "Annual taprooted herb; ascending/erect, 15–50 cm; shoots glabrous. New habit photograph is a potential example, not calibrated proof of height."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite, obliquely oblong to oblanceolate, 10–35 × 7–15 mm, asymmetric base, margins serrate/serrulate especially distally, glabrous; petioles 1–3 mm."
+    },
+    {
+      "label": "Stipules",
+      "text": "Paired stipules at nodes fused into deltoid, usually entire scales (occasionally fringed apically), 1.5–2.2 mm, glabrous; often spreading away from stem. Need both-side node photo and scale before arrow labeling exact fusion."
+    },
+    {
+      "label": "Inflorescence",
+      "text": "Cyathia crowded in dense, axillary or terminal headlike clusters (glomerules), with much-reduced bractlike leaves, NOT the leafy loosely spaced small cymes of E. nutans or E. hyssopifolia."
+    },
+    {
+      "label": "Cyathium",
+      "text": "Four yellow-green/brown, often stipitate glands; white-pink petal-like gland appendages may be inconspicuous or absent from smaller glands. These are not true petals."
+    },
+    {
+      "label": "Capsule",
+      "text": "Flattened-globose, smooth glabrous, approximately 1.3–1.4 × 1.1–1.5 mm."
+    },
+    {
+      "label": "Seed",
+      "text": "About 0.9–1.1 × 0.5 mm; pale brown underneath a thin white mucilage coat; low smooth ridges and shallow irregular pits/depressions, not the 2–3 conspicuous transverse bars often seen in E. hyssopifolia."
+    },
+    {
+      "label": "Identification",
+      "text": "dense terminal and axillary glomerules of many tiny cyathia"
+    },
+    {
+      "label": "Identification",
+      "text": "small, highly reduced bracts at cyathium heads"
+    },
+    {
+      "label": "Identification",
+      "text": "hairless stems and leaf surfaces (verify at basal node, not only at tips)"
+    },
+    {
+      "label": "Identification",
+      "text": "fused triangular nodal stipules about 1.5–2.2 mm"
+    },
+    {
+      "label": "Identification",
+      "text": "asymmetric opposite oblong leaves with finely serrate margins"
+    },
+    {
+      "label": "Identification",
+      "text": "smooth three-lobed capsules"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "25eb4ea37233d524e3a9fc98aedb2b5ad9f67f1956ed112b06417f238e245d12",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

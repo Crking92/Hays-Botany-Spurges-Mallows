@@ -1,0 +1,74 @@
+{
+  "id": "euphorbia-roemeriana",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "scientific_name": "Euphorbia roemeriana",
+  "common_name": "Roemer's spurge",
+  "look_here_first": "LOOK AT THE PAIRED GREEN BRACTS, NOT A RED LEAF SPOT. E. roemeriana is a small annual upright or basally reclining spurge (15–30 cm) with hairless, entire, obovate-to-oblanceolate leaves. Each flowering branch repeatedly forks; in the center find a tiny cyathium framed by TWO rounded green dichasial bracts that are JOINED for about HALF their length, creating a shallow cup. Tiny bright yellow gland structures have SHORT somewhat convergent horns; a smooth, roundish 3-lobed capsule develops nearby. Against E. commutata, the key is CONSISTENT substantial bract fusion rather than distinct or only barely joined pairs. E. longicruris instead has numerous tightly OVERLAPPING cup/leaf-like terminal bracts; E. austrotexana has far narrower leaves and distinct non-overlapping bracts. Mature E. roemeriana seeds have randomly scattered DEEP BROAD PITS and a prominent caruncle; two photographed mature seeds now show pits and caruncles; their absolute size is not photo-calibrated. This taxon has published HAYS COUNTY records in spring-fed Edwards Plateau limestone stream valleys, but the project's formal native-by-county certification remains on hold.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Euphorbiaceae, Euphorbia subg. Esula sect. Tithymalus. The yellow structures are tiny cyathia (specialized pseudanthia), not ordinary petals, and nearby smooth 3-lobed structures are developing fruits."
+    },
+    {
+      "label": "Habit",
+      "text": "Annual taprooted small spring herb, erect or sometimes reclining near base, 15–30 cm, glabrous; limestone stream valleys, rich calcareous soils, spring-fed creek canyons and floodplain terraces of the eastern Edwards Plateau."
+    },
+    {
+      "label": "Leaves",
+      "text": "Main leafy stem: alternate leaves, blade oblanceolate to obovate about 5–20 × 5–10 mm, entire margins, cuneate/attenuate base, rounded tip, hairless faces, pinnate veins; petioles 2–5 mm."
+    },
+    {
+      "label": "Branching",
+      "text": "Terminal pleiochasium normally forks into 3 branches, repeatedly subdividing 1–4 times into 2-part branches; larger upper bracts similar in shape to obovate main leaves."
+    },
+    {
+      "label": "Dichasial bracts",
+      "text": "Key: each CYATHIUM sits between paired broad green reniform-to-semicircular bracts, FUSED to about 1/2 their length; no teeth, rounded or obtuse tips. Existing single closeup shows a cup-like pair but exact fusion percentage remains noncalibrated and partly overlapped."
+    },
+    {
+      "label": "Cyathia",
+      "text": "Tiny terminal cup/involucre 1.5–2 × 1–1.6 mm, glabrous, with FOUR elliptic-to-trapezoid nectar glands 0.4–0.6 × 0.7–1.2 mm and short 0.1–0.3 mm slightly convergent horns. The prominent yellow parts are gland structures, not conventional flower petals."
+    },
+    {
+      "label": "Capsules",
+      "text": "Smooth, glabrous, subglobose slightly 3-lobed capsule about 2–2.5 × 2.4–3 mm. The image has developing green fruit, but cannot establish the measured diameter."
+    },
+    {
+      "label": "Seeds",
+      "text": "Brown oblong-ovoid seeds 1.6–1.8 × 1.4–1.5 mm, with widely scattered deep and broad pits rather than regular ridges. A conic- or kidney-shaped caruncle approximately 0.3–0.4 × 0.4–0.6 mm. Need confirmed ripe loose seed photograph with millimeter scale."
+    },
+    {
+      "label": "Identification",
+      "text": "TWO green round/reniform dichasial bracts FUSED roughly HALF their length, forming cup below cyathium"
+    },
+    {
+      "label": "Identification",
+      "text": "Yellow horned gland structures at tiny cyathium (not true petals)"
+    },
+    {
+      "label": "Identification",
+      "text": "Glabrous obovate/oblanceolate small leaves with entire margins"
+    },
+    {
+      "label": "Identification",
+      "text": "Spring-flowering small 15–30cm annual of calcareous creekside habitat"
+    },
+    {
+      "label": "Identification",
+      "text": "Smooth 3-lobed capsule and brown mature seeds with DEEP SCATTERED PITS plus caruncle"
+    },
+    {
+      "label": "Identification",
+      "text": "Differentiate from E. commutata (separate or basally barely joined bracts) and E. longicruris (strongly overlapping terminal bracts)"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "9ee58c266cfc3a4128f4c03d16e0b21b7181b8aa7b851933105d021b706be90f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

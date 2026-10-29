@@ -1,0 +1,74 @@
+{
+  "id": "euphorbia-prostrata",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "scientific_name": "Euphorbia prostrata",
+  "common_name": "Prostrate spurge / prostrate sandmat",
+  "look_here_first": "LOOK FIRST at the little three-lobed FRUIT: Euphorbia prostrata has HAIRS concentrated along raised capsule keels and base. Then inspect the SEED: repeated raised CROSSWISE ridges. Check a stem NODE (usually no adventitious roots) and the stipules (upper-side free, lower-side fused), but a photo from one side cannot prove fusion or absence of roots. E. serpens has glabrous capsules, smooth seeds, and often roots at nodes with broad fused stipule scales. Do not identify a sandmat from leaf red spots or flat habit.",
+  "key_traits": [
+    {
+      "label": "Family pattern",
+      "text": "Euphorbia sect. Anisophyllum sandmat: opposite leaves, milky latex, tiny axillary cyathia, and a 3-lobed capsule; hair placement, stipules, capsule pubescence, and seed sculpture are high-value characters."
+    },
+    {
+      "label": "Growth form",
+      "text": "Annual with taproot; stems prostrate to decumbent, about 10–30 cm. In the local Williamson County treatment it is mat-forming but does not root at the nodes, unlike E. serpens."
+    },
+    {
+      "label": "Stems",
+      "text": "Stems crisped-villous to nearly glabrous proximally; hairs are much more evident than in the essentially glabrous E. serpens."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite; blades broadly elliptic to elliptic-oblong, ovate-spatulate, or ovate, usually about 3–11(–15) × 3–6(–8) mm; base slightly asymmetric and rounded to slightly cordate/oblique; margins serrulate at least distally."
+    },
+    {
+      "label": "Stipules",
+      "text": "Four stipules are associated with each opposite-leaf node: on the upper side of the stem the pair is free; on the lower side the pair is fused across the node. They are triangular-subulate/acuminate, under about 1 mm, often lacerate or fringed distally."
+    },
+    {
+      "label": "Cyathium",
+      "text": "Cyathia solitary or in small cymose clusters; 4 reddish glands with rudimentary white-to-pink appendages."
+    },
+    {
+      "label": "Fruit",
+      "text": "Capsule broadly ovoid, about 1.2–2 × 1.4–1.5 mm; crisped-villous along the keels and toward the base, often glabrous between the keels."
+    },
+    {
+      "label": "Seed",
+      "text": "Seeds about 0.8–1.1 × 0.5–0.7 mm, sharply 4-angled in cross section, with several narrow, sharp, slightly irregular transverse ridges."
+    },
+    {
+      "label": "Identification",
+      "text": "Prostrate mat and opposite leaves are genus-group clues, not final species ID."
+    },
+    {
+      "label": "Identification",
+      "text": "Stems with curly (crisped) hairs; prostrata generally fails to root at ordinary nodes, unlike serpens."
+    },
+    {
+      "label": "Identification",
+      "text": "At nodes: upper stem-side stipules free and lower pair fused, per local UT Williamson account; needs two angles to photograph."
+    },
+    {
+      "label": "Identification",
+      "text": "Green three-lobed capsules with hairs concentrated along KEELS and base, usually smoother between raised edges."
+    },
+    {
+      "label": "Identification",
+      "text": "Mature seeds with conspicuously raised narrow TRANSVERSE ridges (around 1 mm, use photo scale)."
+    },
+    {
+      "label": "Identification",
+      "text": "Stems can be reddish but red coloration and leaf blotches are not identifying features."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Against E. serpens: check a node first—prostrata does not root there and has an upper-free/lower-fused stipule pattern; serpens frequently roots at nodes and has conspicuous fused deltate stipule scales. Then use fruit/seed: prostrata has hairy capsule keels and ridged seeds, while serpens has glabrous capsules and smooth seeds. Against E. villifera: prostrata is prostrate rather than usually erect/ascending and has hairy capsule keels; villifera has distinct filiform stipules, papillate surfaces, and glabrous capsules."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "cb9e9bd23ab3e013604500a9c338c98cc3523cac0b73bada4a1a39296711a5cb",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
