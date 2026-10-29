@@ -35,8 +35,48 @@
     "names": [],
     "differences": "Separate from P. lutea by petiole glands, serrated broad lobes, and huge flowers; separate from P. tenuiloba by the broad serrated lobes and large showy flower."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/passiflora-incarnata/passiflora-incarnata-provisional-face.jpg",
+      "creator": "Alex Abair",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_incarnata_89953285.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "4b331265ce598eae3b3ddf53134c7c54804dd34a",
+      "role": "Flower and foliage / recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/passiflora-incarnata/02-maypop-mature-fruit.jpg",
+      "creator": "H3ini",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_incarnata_fruit.jpg",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_blob_sha": "4f6676f710003e50bff3ece38bafa71c31fa272c",
+      "role": "Large Maypop fruit close-up; compare size/shape to tiny black passionvine berries",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/passiflora-incarnata/03-whole-vine-leaves-habit.jpg",
+      "creator": "Hans Hillewaert",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_incarnata_(habitus).jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "fc9057d74421e6017186166eea0870c9354dde62",
+      "role": "Wild maypop habit with branching vine, broad lobed leaves and reproductive context",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "5fb37a8505b4304927d4c052c34667e6936ffb433d8733d30cae28e2b3efcb0d",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

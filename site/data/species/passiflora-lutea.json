@@ -47,8 +47,48 @@
     "names": [],
     "differences": "Passiflora tenuiloba: P. tenuiloba has petiole glands and very narrow, deeply divided 3–9-lobed 'birdwing' leaves; P. lutea has glandless petioles and broad rounded 3-lobed leaves. Passiflora incarnata: P. incarnata has two conspicuous petiole glands, deeply 3-lobed serrate leaves, much larger flowers, and large maypop fruits. P. lutea has glandless petioles, entire leaf margins and tiny flowers/fruits."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/passiflora-lutea/passiflora-lutea-provisional-face.jpg",
+      "creator": "Valis55",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_lutea.jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_blob_sha": "bcbc76d8b1cf6b0c12f7326681c75b3dfcc86d11",
+      "role": "Flowering vine / recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/passiflora-lutea/02-leaf-three-lobes.jpg",
+      "creator": "Brucewinter",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_lutea_leaf.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "d41c28a432b92afd33d75343f520a13d7cd94d75",
+      "role": "Mature shallow three-lobed entire-margin leaf—diagnostic silhouette, not proof of glandlessness",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/passiflora-lutea/03-flower-and-fruit.jpg",
+      "creator": "Valis55",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_lutea_bloom_and_fruit.jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_blob_sha": "4fb0446884e3c897ea5d8568da2a1d9ce9c8d59d",
+      "role": "Small green-yellow flower and purple-black berry together on stem",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "b5238d7cd75ba4eceeca7c4be0cafd3fe5b714d0663086fe42de3b6bca64b8bd",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

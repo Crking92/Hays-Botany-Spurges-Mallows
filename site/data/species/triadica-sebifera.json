@@ -35,8 +35,48 @@
     "names": [],
     "differences": "Texas redbud has cordate leaves and pea-family pods rather than three-lobed capsules with white waxy seeds. Cottonwood/poplar seedlings have toothed triangular leaves and cottony seeds rather than popcorn-like white waxy seeds. Confirm leaf-base glands and fruit whenever possible."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/triadica-sebifera/triadica-sebifera-leaf-fruit-provisional.jpg",
+      "creator": "KENPEI",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Triadica_sebifera3.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "cf8f833911395686f0a4d92058c1dd6c71a148ca",
+      "role": "Leaves and immature green capsules",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/triadica-sebifera/glass-root-garden-520384252-hanging-inflorescence.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/520384252",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "4bcef0a09a38eb1817e938e1a5d43e1f26f2f59a",
+      "role": "Chinese tallow, NON-NATIVE comparison: hanging yellow-green flower spike with heart-shaped leaves",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/triadica-sebifera/glass-root-garden-647350130-diamond-leaf-venation.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/647350130",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "c5c626234c7c2233983236baa4f8484b029cf594",
+      "role": "Chinese tallow, NON-NATIVE comparison: diamond-to-heart-shaped pointed leaves and branching venation; seed capsules not featured",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "63ddadc5db02a3ce247f5b4623bc435c215407e9a0c5224d0280d6e3344210e9",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

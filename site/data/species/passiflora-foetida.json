@@ -39,8 +39,61 @@
     "names": [],
     "differences": "The sticky finely divided bract cage plus dense hairiness and odor are stronger than flower color alone. San Antonio-area lookalikes can be introduced P. ciliata/lanuginosa-type plants."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/passiflora-foetida/passiflora-foetida-provisional-face.jpg",
+      "creator": "Marco Schmidt",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_foetida_MS_4736.JPG",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+      "source_blob_sha": "981419b431afcdfe6989be8a02ac58d46bcec5f8",
+      "role": "Lobed leaf shape and hairy bracts enclosing fruit; flower not shown.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/passiflora-foetida/02-finley-divided-sticky-bracts.jpg",
+      "creator": "Filo gèn'",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_foetida_Bract.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "47da3be81d766049135b94ee5f8cf56c2394e21d",
+      "role": "Finely divided sticky involucral bracts around reproductive shoot",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/passiflora-foetida/03-flower-face-corona.jpg",
+      "creator": "Florimagix",
+      "source_page": "https://commons.wikimedia.org/wiki/File:FM-Passiflora.foetida_Flower_close-up.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "d16d373f402fd1bdf8a53f8a5d1c002e395d9c5e",
+      "role": "Open flower front showing corona filaments, petals, stamens and stigmas",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/passiflora-foetida/04-sticky-bract-cage-fruit.jpg",
+      "creator": "Florimagix",
+      "source_page": "https://commons.wikimedia.org/wiki/File:FM-Passiflora.foetida_Fruit.JPG",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "ce8b4c671568e09d5ba864e1ab4830f7864722c6",
+      "role": "Developing fruit wrapped by glandular dissected bracts; sticky hairs evident",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "48826dc363384126b9b035b04102b51cbf0d5785d27b971d122650b7b373048b",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

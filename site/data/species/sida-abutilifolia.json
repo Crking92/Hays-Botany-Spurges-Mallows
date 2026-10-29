@@ -35,8 +35,22 @@
     "names": [],
     "differences": "Look first at the whole plant: Sida abutilifolia commonly has long, flexible stems lying along the ground, while S. spinosa is more erect and often bears a small tubercle immediately below the petiole. Examine several leaves for rounded crenate teeth and both surfaces for simple and stellate hairs. Compare S. rhombifolia, which is commonly more upright with rhombic leaves and teeth often concentrated toward the tip. Small pale flowers overlap: confirm using close-up mature mericarps rather than habit or flower color alone."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/sida-abutilifolia/sida-abutilifolia-provisional-face.jpg",
+      "creator": "Juan Carlos Fonseca Mata",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Arrastradilla_(Sida_abutifolia),_GTOMX.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "c4e6fd8d2a3d5248d9fa617b39a0b4198face047",
+      "role": "Whole plant / spreading habit recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "0d657c243151450e311fd789ac133e6b54a68717078f8c0dac47ad546c478019",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -47,8 +47,35 @@
     "names": [],
     "differences": "Passiflora lutea: P. lutea has glandless petioles and broad rounded 3-lobed leaves; P. tenuiloba has paired cuplike petiole glands and narrow deeply dissected lobes. Passiflora incarnata: Both have petiole glands, but P. incarnata has much broader serrated 3-lobed leaves, huge purple/white flowers and large green-yellow maypops. P. tenuiloba has narrow entire lobes and tiny petal-less green flowers. Passiflora affinis: Another small green-flowered Central/West Texas passionflower. Use leaf architecture and gland characters; P. tenuiloba typically has the distinctive narrow deeply divided birdwing leaves. Important: FNA says FIVE sepals, each 6–10 mm long; do not interpret the measurement as a sepal count."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/passiflora-tenuiloba/passiflora-tenuiloba-provisional-face.jpg",
+      "creator": "Turner Brockman",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_tenuiloba_in_bloom.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "675bce39ca89962f6459a6e13e6a59f24850b6f6",
+      "role": "Flowering vine / recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/passiflora-tenuiloba/02-many-leaf-shapes-same-species.jpg",
+      "creator": "Douglas Goldman",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Variety_of_Passiflora_tenuiloba_leaf_shapes.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "8c34220cd529d9ea84e7305f0f997650a2ae5c6c",
+      "role": "Exact P. tenuiloba leaf shape variation",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "a9ca99e8b81dbd09997eeeeaa22d28080b9bf76f305e45f9b2f02c51dcb10c14",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

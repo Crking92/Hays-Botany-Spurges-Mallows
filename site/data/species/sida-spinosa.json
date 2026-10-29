@@ -35,8 +35,22 @@
     "names": [],
     "differences": "Compare with Sida abutilifolia: spreading/procumbent stems and crenate leaves versus usually upright S. spinosa. Compare with Sida rhombifolia: often rhombic leaves with teeth concentrated distally; inspect multiple nodes for the characteristic small tubercle immediately below the petiole in S. spinosa. Absence of a visible tubercle in one photograph is not decisive. For confirmation inspect mature schizocarps: S. spinosa typically has five mericarps with two apical awns/beaks each; count and photograph the mericarps rather than relying on yellow flowers alone."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/sida-spinosa/sida-spinosa-provisional-face.jpg",
+      "creator": "NY State IPM Program at Cornell University",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sida_spinosa_-_whole_plant_(18875885170).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "607b89779d6122394380c6ecc6bf6f02e6f43fb3",
+      "role": "Whole plant / habit recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "bededaaa4909cd17312f5b65d3703161bd09a3a0c8f3104e77810ba8a79f691e",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
