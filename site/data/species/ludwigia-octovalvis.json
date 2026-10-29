@@ -1,0 +1,66 @@
+{
+  "id": "ludwigia-octovalvis",
+  "family": "Onagraceae",
+  "genus": "Ludwigia",
+  "scientific_name": "Ludwigia octovalvis",
+  "common_name": "Mexican primrose-willow / shrubby water primrose",
+  "look_here_first": "Locate several stem nodes: leaves alternate, typically narrow and softly hairy on upright branched shoreline shoots. At flowering, see a showy four-petaled yellow corolla and the conspicuously long inferior ovary BELOW the sepals; usually eight stamens. Compare L. repens opposite nodes and tiny four-stamen flowers.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "alternate narrow leaves up upright branched stem"
+    },
+    {
+      "label": "Identification",
+      "text": "large four-petaled yellow flower with eight stamens"
+    },
+    {
+      "label": "Identification",
+      "text": "long inferior ovary / elongated seed capsule"
+    },
+    {
+      "label": "Identification",
+      "text": "local stems usually five-ridged; confirm rather than assume"
+    },
+    {
+      "label": "Stem",
+      "text": "Local Williamson County specimens have strongly five-ridged, usually hairy stems; Flora of North America allows terete or ridged stems across the species."
+    },
+    {
+      "label": "Flower",
+      "text": "Usually four broad showy yellow petals; locally around 23–39 mm across and commonly eight stamens in two sets (rarely five sepals/petals and ten stamens)."
+    },
+    {
+      "label": "Ovary",
+      "text": "Inferior, distinctly elongated and often low eight-ribbed on four-sided base; distinguish from Ludwigia repens very short four-angled inferior ovary."
+    },
+    {
+      "label": "Fruit",
+      "text": "Long narrow cylindrical to club-shaped many-seeded capsule, 38–45 mm in Williamson specimens; local plants typically show 8 valve splits, but FNA describes 4–8 valves across broader species."
+    },
+    {
+      "label": "Joey field note",
+      "text": "Joey explicitly uses this plant to teach an inferior ovary, showing the ovary below the visible flower parts at close range."
+    },
+    {
+      "label": "Habit",
+      "text": "Erect, much-branched, often taprooted wetland herb/subshrub, usually growing on moist shorelines; forms can vary."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Alternate helically, one leaf per successive node; contrast the opposite pairs of Ludwigia repens."
+    },
+    {
+      "label": "Leaves",
+      "text": "Usually narrow oblanceolate to oblong-lanceolate, mostly entire, with very short petioles; often short hairy and not glossy."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "db4b6dd67965da6b66877d4a48c0ba0375c89972de996805df2477f554f4a7e9",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

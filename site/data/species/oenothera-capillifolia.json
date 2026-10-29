@@ -1,0 +1,50 @@
+{
+  "id": "oenothera-capillifolia",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "scientific_name": "Oenothera capillifolia",
+  "common_name": "Berlandier's Sundrops / Square-bud Primrose",
+  "look_here_first": "Start with the foliage and bud shape. Berlandier's sundrops has very narrow linear leaves, a low spreading perennial/subshrub habit, bright yellow 4-petaled flowers, and distinctly 4-angled/square flower buds.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial herb to small subshrub"
+    },
+    {
+      "label": "Identification",
+      "text": "several spreading to ascending stems"
+    },
+    {
+      "label": "Identification",
+      "text": "very narrow linear leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "bright yellow 4-petaled flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "buds and floral tube strongly 4-angled"
+    },
+    {
+      "label": "Identification",
+      "text": "inferior ovary"
+    },
+    {
+      "label": "Identification",
+      "text": "capsule narrow and 4-valved"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers generally diurnal compared with classic evening primroses"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "O. laciniata has much broader cut-lobed leaves. O. capillifolia is the fine-leaved yellow sundrop concept historically called Calylophus."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "7a2374b747a45c9eb24a3a09ff17fe220b84f6bc1b3fa45ea574ef91a8f373d1",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

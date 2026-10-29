@@ -1,0 +1,50 @@
+{
+  "id": "oenothera-laciniata",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "scientific_name": "Oenothera laciniata",
+  "common_name": "Cutleaf Evening Primrose",
+  "look_here_first": "Start with the cut or lobed leaves and nocturnal yellow flowers. Cutleaf evening primrose is a low annual or short-lived perennial with alternate leaves that range from toothed to deeply cut-lobed, and 4-petaled yellow flowers that open around sunset.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "annual or short-lived perennial from taproot"
+    },
+    {
+      "label": "Identification",
+      "text": "basal rosette plus cauline leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves variable from dentate to distinctly cut-lobed"
+    },
+    {
+      "label": "Identification",
+      "text": "4 yellow petals"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers nocturnal, opening near sunset"
+    },
+    {
+      "label": "Identification",
+      "text": "long slender floral tube"
+    },
+    {
+      "label": "Identification",
+      "text": "stigma conspicuously 4-lobed"
+    },
+    {
+      "label": "Identification",
+      "text": "elongate 4-valved capsule"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Unlike O. capillifolia, the leaves are much broader and commonly cut-lobed. Unlike the gaura-like species, flowers are radially symmetric and yellow rather than white/pink and strongly zygomorphic."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b90a5ac21098d6620547dca106bdab08d635ca22a082ed925fc53fbaad8c2d0f",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

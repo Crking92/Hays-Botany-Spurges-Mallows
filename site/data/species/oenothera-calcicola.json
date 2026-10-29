@@ -1,0 +1,50 @@
+{
+  "id": "oenothera-calcicola",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "scientific_name": "Oenothera calcicola",
+  "common_name": "Texas Beeblossom / Limestone Gaura",
+  "look_here_first": "Start with the white-to-pink gaura-type flowers and limestone setting. Limestone gaura is a perennial from a woody rootstock, with narrow leaves and asymmetric 4-petaled flowers that open near sunset and fade dark pink to red.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial clumped herb from twisted woody rootstock"
+    },
+    {
+      "label": "Identification",
+      "text": "erect branching stems"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow linear to oblanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "4 unequal white petals fading dark pink/red"
+    },
+    {
+      "label": "Identification",
+      "text": "zygomorphic flowers opening near sunset"
+    },
+    {
+      "label": "Identification",
+      "text": "long-exserted style and stamens presented to one side"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow 4-winged capsules"
+    },
+    {
+      "label": "Identification",
+      "text": "dry limestone, gypsum, or caliche habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "O. filiformis is usually a robust winter annual/biennial with taller airy architecture; O. calcicola is perennial, limestone-associated, and has a woody rootstock."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "dbb2de59017e71fbd3c9ada8a936712c127d0c9d25e062fc1f22b9772309b9e6",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

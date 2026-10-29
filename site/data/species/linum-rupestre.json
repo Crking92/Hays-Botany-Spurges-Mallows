@@ -1,0 +1,17 @@
+{
+  "id": "linum-rupestre",
+  "family": "Linaceae",
+  "genus": "Linum",
+  "scientific_name": "Linum rupestre",
+  "common_name": "Rock flax",
+  "look_here_first": "Inspect narrow leaves, delicate five-petaled flowers and capsule structures; provisional recognition description.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "acbffc6ca332280922e92cf9c5f2aaf3d838a2ecd1bf71aef9e03f28d58d6b95",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

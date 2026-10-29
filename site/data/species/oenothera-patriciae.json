@@ -1,0 +1,46 @@
+{
+  "id": "oenothera-patriciae",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "scientific_name": "Oenothera patriciae",
+  "common_name": "Plains beeblossom / plains gaura",
+  "look_here_first": "Do not expect a classic big evening-primrose flower. This is a delicate gaura-type annual with small white flowers that fade pink, long-exserted stamens and style, and narrow hairy stems and leaves.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "small annual herb"
+    },
+    {
+      "label": "Identification",
+      "text": "slender hairy stems"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow lanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "small white flowers fading rose-pink"
+    },
+    {
+      "label": "Identification",
+      "text": "3–4 petals"
+    },
+    {
+      "label": "Identification",
+      "text": "long exserted stamens and style"
+    },
+    {
+      "label": "Identification",
+      "text": "gaura-like open inflorescence"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with O. jamesii and O. macrocarpa, O. patriciae has much smaller gaura-like flowers and a delicate annual habit rather than large yellow evening-primrose blossoms."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c9043fc97ac3330804a90ad0e9585c895ca39d5e61f0a19608548746184c537a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

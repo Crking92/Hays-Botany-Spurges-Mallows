@@ -1,0 +1,42 @@
+{
+  "id": "oenothera-biennis",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "scientific_name": "Oenothera biennis",
+  "common_name": "Common Evening Primrose",
+  "look_here_first": "Treat this as the tall biennial evening-primrose comparison: a first-year basal rosette followed by an erect flowering stem with yellow 4-petaled evening-opening flowers and elongate capsules.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "biennial"
+    },
+    {
+      "label": "Identification",
+      "text": "first-year basal rosette"
+    },
+    {
+      "label": "Identification",
+      "text": "second-year tall erect flowering stem"
+    },
+    {
+      "label": "Identification",
+      "text": "yellow 4-petaled flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers opening toward evening"
+    },
+    {
+      "label": "Identification",
+      "text": "elongate capsules"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Much taller and more erect than low O. laciniata or spreading O. capillifolia; identification and local-range certification are separate questions."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d123bb6410b061c8e6c6c95fb94721ed9de93239717026b780cec96e7a9ce270",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

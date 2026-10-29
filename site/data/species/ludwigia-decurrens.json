@@ -1,0 +1,50 @@
+{
+  "id": "ludwigia-decurrens",
+  "family": "Onagraceae",
+  "genus": "Ludwigia",
+  "scientific_name": "Ludwigia decurrens",
+  "common_name": "Wing-leaved primrose-willow",
+  "look_here_first": "Check four sharp stem wings created by sessile leaf bases running down the stem; alternate lanceolate leaves and 4 yellow petals with 8 stamens confirm.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Erect, branching annual or short-lived wetland herb; strongly four-angled, winged stems."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, lanceolate or linear-lanceolate, usually sessile; leaf bases decurrent along stem."
+    },
+    {
+      "label": "Flower",
+      "text": "Usually 4 bright yellow petals and 8 stamens; ovary inferior."
+    },
+    {
+      "label": "Fruit",
+      "text": "Obconic to narrowly pyramidal capsule, sharply 4-angled or winged."
+    },
+    {
+      "label": "Identification",
+      "text": "Check four sharp stem wings created by sessile leaf bases running down the stem; alternate lanceolate leaves and 4 yellow petals with 8 stamens confirm."
+    },
+    {
+      "label": "Identification",
+      "text": "Erect, branching annual or short-lived wetland herb; strongly four-angled, winged stems."
+    },
+    {
+      "label": "Identification",
+      "text": "Usually 4 bright yellow petals and 8 stamens; ovary inferior."
+    },
+    {
+      "label": "Identification",
+      "text": "Obconic to narrowly pyramidal capsule, sharply 4-angled or winged."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "bb4ef5a32bdae9f00a8fb957503738a602a9bd9d4c257ae3ade8f9af456ee764",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

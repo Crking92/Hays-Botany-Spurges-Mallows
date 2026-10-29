@@ -1,0 +1,50 @@
+{
+  "id": "ludwigia-leptocarpa",
+  "family": "Onagraceae",
+  "genus": "Ludwigia",
+  "scientific_name": "Ludwigia leptocarpa",
+  "common_name": "Hairy primrose-willow",
+  "look_here_first": "Usually upright/ascending and hairy, with alternate lanceolate leaves and typically 5 yellow petals plus 10 stamens; confirm long hairy bumpy capsules.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Erect to ascending, often hairy, branching wetland herb; some parts may become woody."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate, lanceolate and often visibly hairy, commonly short-petioled."
+    },
+    {
+      "label": "Flower",
+      "text": "Typically 5 (occasionally 4, 6 or 7) yellow petals with stamens twice the sepal number."
+    },
+    {
+      "label": "Fruit",
+      "text": "Long narrow thin-walled hairy capsule, usually marked by small bumps corresponding to seeds."
+    },
+    {
+      "label": "Identification",
+      "text": "Usually upright/ascending and hairy, with alternate lanceolate leaves and typically 5 yellow petals plus 10 stamens; confirm long hairy bumpy capsules."
+    },
+    {
+      "label": "Identification",
+      "text": "Erect to ascending, often hairy, branching wetland herb; some parts may become woody."
+    },
+    {
+      "label": "Identification",
+      "text": "Typically 5 (occasionally 4, 6 or 7) yellow petals with stamens twice the sepal number."
+    },
+    {
+      "label": "Identification",
+      "text": "Long narrow thin-walled hairy capsule, usually marked by small bumps corresponding to seeds."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "37c413023b82822852b89186404e73f816a298aa1b1bcfe20b92aacec4ada1ff",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

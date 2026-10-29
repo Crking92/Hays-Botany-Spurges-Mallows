@@ -1,0 +1,42 @@
+{
+  "id": "oenothera-lindheimeri",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "scientific_name": "Oenothera lindheimeri",
+  "common_name": "Lindheimer's beeblossom",
+  "look_here_first": "Recognize the tall airy perennial first: wiry arching flowering stems carry white-to-pink four-petaled flowers with the petals held mostly toward the upper side and long exserted stamens hanging/projecting below.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial clump from a stout rootstock"
+    },
+    {
+      "label": "Identification",
+      "text": "tall wiry branching stems"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow lanceolate leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "four petals oriented mainly to one side/upward side of the flower"
+    },
+    {
+      "label": "Identification",
+      "text": "8 long exserted stamens"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers in an airy elongate spike/raceme"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "2391bf0687569f939c883ba1aadb1f155e330e4b1b680bab6cb4918903fd17e1",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

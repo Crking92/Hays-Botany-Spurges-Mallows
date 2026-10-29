@@ -1,0 +1,46 @@
+{
+  "id": "oenothera-curtiflora",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "scientific_name": "Oenothera curtiflora",
+  "common_name": "Velvetweed",
+  "look_here_first": "Look for the mismatch between plant size and flower size: a tall, densely velveteen annual carries a long crowded wand of extremely tiny flowers—only about 3 mm across.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "annual or biennial, taprooted, not rosetted at flowering"
+    },
+    {
+      "label": "Identification",
+      "text": "30–90+ cm tall"
+    },
+    {
+      "label": "Identification",
+      "text": "foliage and stems densely soft/velveteen hairy with glandular hairs"
+    },
+    {
+      "label": "Identification",
+      "text": "long terminal many-flowered spike/raceme"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers only about 3 mm across"
+    },
+    {
+      "label": "Identification",
+      "text": "4 tiny white petals aging light rose"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow hard indehiscent fruit around 8 mm long"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "9d63c0f35cd51685c25364cca52500849ea0693e021b7a3877d9c740eb15ea43",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

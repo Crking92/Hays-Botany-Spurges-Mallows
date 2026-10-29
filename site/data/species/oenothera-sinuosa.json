@@ -1,0 +1,42 @@
+{
+  "id": "oenothera-sinuosa",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "scientific_name": "Oenothera sinuosa",
+  "common_name": "Wavyleaf beeblossom / wavyleaf gaura",
+  "look_here_first": "Look for a low rhizomatous perennial forming spreading colonies, with wavy or toothed leaves and small white flowers that fade pink to red.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "rhizomatous perennial forming mats or colonies"
+    },
+    {
+      "label": "Identification",
+      "text": "stems low to ascending"
+    },
+    {
+      "label": "Identification",
+      "text": "leaves often wavy or toothed"
+    },
+    {
+      "label": "Identification",
+      "text": "small white flowers fading rose-red"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit distinctly stipitate"
+    },
+    {
+      "label": "Identification",
+      "text": "foliage mostly glabrous to sparsely hairy"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with O. suffrutescens, O. sinuosa is generally greener and less densely gray-hairy, with longer-stipitate fruits."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b7469d9c1e2965305d0ede6f05511b2ff8f770bf3b3703addf2db6524080fd7a",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

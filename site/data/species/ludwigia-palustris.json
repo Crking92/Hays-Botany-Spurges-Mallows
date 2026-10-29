@@ -1,0 +1,54 @@
+{
+  "id": "ludwigia-palustris",
+  "family": "Onagraceae",
+  "genus": "Ludwigia",
+  "scientific_name": "Ludwigia palustris",
+  "common_name": "Marsh seedbox / water purslane",
+  "look_here_first": "Both this species and Ludwigia repens have opposite leaves on creeping stems. Find an axillary flower: palustris has four green sepals and no yellow petals. Do not rely only on absent petals because repens may be apetalous or shed petals. Check the ovary/mature capsule: palustris typically has four longitudinal dark-green bands across its faces; repens does not.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Creeping/decumbent perennial of wet mud and shallow water; roots at nodes."
+    },
+    {
+      "label": "Leaves",
+      "text": "Opposite, small elliptic to obovate, generally entire."
+    },
+    {
+      "label": "Flower",
+      "text": "Minute axillary flowers with four usually green sepals; petals absent (not merely hidden). Usually four stamens."
+    },
+    {
+      "label": "Fruit",
+      "text": "Short 2–5 mm 4-sided capsule with four green longitudinal bands, one across each face; compare with L. repens often longer 4–10 mm fruits that lack these characteristic bands. Fruit length overlaps and is supporting only."
+    },
+    {
+      "label": "Identification",
+      "text": "opposite leaves on creeping rooting stems shared with L. repens"
+    },
+    {
+      "label": "Identification",
+      "text": "petal-less tiny flower with four green sepals (repens sometimes loses/lacks petals too)"
+    },
+    {
+      "label": "Identification",
+      "text": "four dark-green longitudinal bands on ovary/capsule are the strongest confirmed separation from L. repens"
+    },
+    {
+      "label": "Identification",
+      "text": "short 2–5 mm capsule, though size overlaps repens"
+    },
+    {
+      "label": "Identification",
+      "text": "avoid guessing species from vegetative aquatic mats only"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "d01caf21c09557ed65df3bd998e5243c981c7a7df9b06289f515cdec9da50b47",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

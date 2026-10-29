@@ -1,0 +1,58 @@
+{
+  "id": "malvaviscus-arboreus-var-drummondii",
+  "family": "Malvaceae",
+  "genus": "Malvaviscus",
+  "scientific_name": "Malvaviscus arboreus var. drummondii",
+  "common_name": "Turk's cap / Drummond wax mallow",
+  "look_here_first": "Look for the flower architecture: five red petals remain tightly furled rather than spreading flat, while the staminal column and style project conspicuously beyond them. Then confirm the stellate-hairy, cordate to shallowly 3-lobed leaves.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "many-stemmed native shrub"
+    },
+    {
+      "label": "Identification",
+      "text": "alternate cordate leaves, often shallowly 3-lobed"
+    },
+    {
+      "label": "Identification",
+      "text": "stellate hairs on stems and leaf veins"
+    },
+    {
+      "label": "Identification",
+      "text": "bright red hibiscus-like flowers whose petals remain tightly furled"
+    },
+    {
+      "label": "Identification",
+      "text": "prominent projecting staminal column"
+    },
+    {
+      "label": "Identification",
+      "text": "inferior? no — superior multi-carpellate ovary typical of Malvaceae; avoid confusing the projecting staminal column with the style alone"
+    },
+    {
+      "label": "Identification",
+      "text": "fleshy red segmented fruit at maturity"
+    },
+    {
+      "label": "Flower",
+      "text": "Five petals stay wrapped/furled; numerous stamens are united into a conspicuous staminal column surrounding the style."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Broadly ovate to cordate, often shallowly 3-lobed, coarsely serrate-crenate, palmately veined and stellate-hairy."
+    },
+    {
+      "label": "Fruit",
+      "text": "Fleshy red schizocarp-like fruit composed of multiple mericarps."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "a369a7e158a8134833b1a08971ac604efaf17be59c745dd6665b2172a860c961",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

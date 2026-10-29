@@ -1,0 +1,50 @@
+{
+  "id": "oenothera-filiformis",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "scientific_name": "Oenothera filiformis",
+  "common_name": "Longflower Beeblossom",
+  "look_here_first": "Start with the tall airy gaura-like habit: a robust winter annual or sometimes biennial with white asymmetric 4-petaled flowers that fade pink, long floral tubes, and a long-exserted style.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "usually robust winter annual, sometimes biennial"
+    },
+    {
+      "label": "Identification",
+      "text": "tall well-branched airy stems"
+    },
+    {
+      "label": "Identification",
+      "text": "basal rosette plus cauline leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "zygomorphic 4-petaled flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "petals white and fading pink"
+    },
+    {
+      "label": "Identification",
+      "text": "flowers opening near sunset"
+    },
+    {
+      "label": "Identification",
+      "text": "long-exserted style"
+    },
+    {
+      "label": "Identification",
+      "text": "small hard nutlike capsules"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "O. calcicola is perennial with a woody rootstock and strong limestone specialization; O. filiformis is usually annual/biennial and generally taller and airier."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "5c46225a195f8988244fb4668be558d578be0d6a8c5726aff6ad75d77d7c767b",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

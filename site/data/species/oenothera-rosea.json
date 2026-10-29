@@ -1,0 +1,38 @@
+{
+  "id": "oenothera-rosea",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "scientific_name": "Oenothera rosea",
+  "common_name": "Rose evening-primrose / rose sundrops",
+  "look_here_first": "A small perennial with pink to rose-purple four-petaled flowers, often in moist or disturbed places.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial herb"
+    },
+    {
+      "label": "Identification",
+      "text": "pink to rose-purple flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "four broad petals"
+    },
+    {
+      "label": "Identification",
+      "text": "many stems from a woody base"
+    },
+    {
+      "label": "Identification",
+      "text": "often moist or disturbed habitat"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Keep as a comparison for pink-flowered Oenothera, but do not count it in the Central Texas native metrics."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "bc0480d67a404020bdd4ceb9017d4b9880b9348e7e66744204d01161ed5cc8ee",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "ludwigia-repens",
+  "family": "Onagraceae",
+  "genus": "Ludwigia",
+  "scientific_name": "Ludwigia repens",
+  "common_name": "Creeping primrose-willow / red ludwigia",
+  "look_here_first": "Inspect opposite paired leaves along a creeping, node-rooting stem. Look for very small yellow petals (when present), but note they may be shed or naturally absent. Crucially, a mature capsule lacks the four dark-green longitudinal bands seen on L. palustris. Do not force submerged sterile specimens to species.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "opposite paired leaves on creeping wetland stems, shared with palustris"
+    },
+    {
+      "label": "Identification",
+      "text": "tiny usually yellow four-petaled axillary flower, but petals may be absent"
+    },
+    {
+      "label": "Identification",
+      "text": "mature 4-angled capsule LACKS the four longitudinal dark-green bands of palustris"
+    },
+    {
+      "label": "Identification",
+      "text": "same vegetative architecture as palustris; use mature fruit confirmation when petals absent"
+    },
+    {
+      "label": "Identification",
+      "text": "true node-root photo still missing"
+    },
+    {
+      "label": "Habit",
+      "text": "Aquatic perennial, creeping to ascending, sometimes submerged, forming loose mats with adventitious roots at nodes."
+    },
+    {
+      "label": "Leaf morphology",
+      "text": "Shiny elliptic to obovate or lance-elliptic leaves, often short-petioled but with variable petiole length; blades commonly 0.8–4.5 cm long (FNA)."
+    },
+    {
+      "label": "Flower",
+      "text": "Tiny axillary flowers usually with four small pale-yellow/yellow petals and four stamens. Petals are caducous and sometimes absent; the absence of petals alone does NOT establish L. palustris."
+    },
+    {
+      "label": "Joey field note",
+      "text": "Joey's San Marcos River sequence shows the submerged/creeping form in situ, a useful contrast with the erect shoreline habit of Ludwigia octovalvis."
+    },
+    {
+      "label": "Stem",
+      "text": "Mostly cylindric, often reddish, little or no hair; may root where creeping stem touches moist sediment."
+    },
+    {
+      "label": "Leaf arrangement",
+      "text": "Opposite, usually decussate pairs at each node; primary distinction from alternate-leaved Ludwigia octovalvis."
+    },
+    {
+      "label": "Ovary",
+      "text": "Short inferior green ovary, about 1.5 mm in local specimens, strongly four-angled and roughly funnel-shaped; beneath tiny sepals, often hard to see without macro."
+    },
+    {
+      "label": "Fruit",
+      "text": "Mature capsule often 4–10 mm long (FNA; local Williamson account may be narrower), 4-angled, without longitudinal green bands on the four faces. Contrast L. palustris shorter often 2–5 mm green-banded capsule; sizes overlap."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "0b5a8e24fc6eb389e3b71624ab04acd6c2a244005276e44daa0cd39bbd85f87d",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

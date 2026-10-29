@@ -1,0 +1,42 @@
+{
+  "id": "oenothera-suffrutescens",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "scientific_name": "Oenothera suffrutescens",
+  "common_name": "Scarlet beeblossom / scarlet gaura",
+  "look_here_first": "Think gray-hairy rhizomatous gaura: narrow foliage and stems are usually covered with appressed gray hairs, and the small pale flowers fade pink to scarlet.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "rhizomatous perennial"
+    },
+    {
+      "label": "Identification",
+      "text": "gray appressed hairs on foliage and stems"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "small white to pink flowers often aging scarlet"
+    },
+    {
+      "label": "Identification",
+      "text": "fruit with thick stipe widest toward base"
+    },
+    {
+      "label": "Identification",
+      "text": "dry prairie and rocky grassland habit"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "Compared with O. sinuosa, O. suffrutescens is usually much grayer and hairier. Mature fruit structure is especially useful."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "73736e5a5b3f0939a6456276f8ad19905f30a3dec2a29e1561a86d9470644b07",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

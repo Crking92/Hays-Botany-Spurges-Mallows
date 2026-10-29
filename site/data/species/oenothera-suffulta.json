@@ -1,0 +1,42 @@
+{
+  "id": "oenothera-suffulta",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "scientific_name": "Oenothera suffulta",
+  "common_name": "Roadside gaura",
+  "look_here_first": "Compare the flower and fruit together: this annual has a mostly glabrous flowering spike with white 12–19 mm four-petaled flowers, crimson anthers, and a short chunky nutlike fruit with four major lobes/ridges.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "annual taprooted herb 25–85+ cm tall"
+    },
+    {
+      "label": "Identification",
+      "text": "vegetative stems/leaves villous but flowering spike essentially glabrous"
+    },
+    {
+      "label": "Identification",
+      "text": "radial white flowers about 12–19 mm across"
+    },
+    {
+      "label": "Identification",
+      "text": "4 obovate white petals"
+    },
+    {
+      "label": "Identification",
+      "text": "8 exserted stamens with crimson anthers"
+    },
+    {
+      "label": "Identification",
+      "text": "short indehiscent 4-sided/4-lobed nutlike fruit about 6–7 mm"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "b24a74d2d608054cc4a66c3cb78dfabc6ef63db38262a48c4423aed0f66a08bf",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

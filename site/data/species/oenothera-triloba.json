@@ -1,0 +1,46 @@
+{
+  "id": "oenothera-triloba",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "scientific_name": "Oenothera triloba",
+  "common_name": "Stemless evening primrose",
+  "look_here_first": "This one should jump out from ground level: a flat, essentially stemless rosette produces a large yellow four-petaled flower on an extraordinarily long, sharply 4-angled floral tube.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "annual taprooted flat rosette"
+    },
+    {
+      "label": "Identification",
+      "text": "acaulous/essentially stemless and usually under 10 cm tall"
+    },
+    {
+      "label": "Identification",
+      "text": "only basal irregularly pinnately lobed leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "large radial yellow flower about 50–55 mm across"
+    },
+    {
+      "label": "Identification",
+      "text": "very long square 4-angled floral tube up to about 97 mm"
+    },
+    {
+      "label": "Identification",
+      "text": "4 stamens in the Williamson County treatment"
+    },
+    {
+      "label": "Identification",
+      "text": "large 4-winged many-seeded capsule"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ac4db70fa780af5cd358dd39c3e3bc0378aacbc525407872f0f9376f4d4d6617",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

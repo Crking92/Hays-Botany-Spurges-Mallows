@@ -1,0 +1,38 @@
+{
+  "id": "oenothera-jamesii",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "scientific_name": "Oenothera jamesii",
+  "common_name": "Trumpet evening-primrose / river primrose",
+  "look_here_first": "Tall riverbank evening-primrose with very long floral tubes and large yellow four-petaled flowers.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "perennial herb"
+    },
+    {
+      "label": "Identification",
+      "text": "stream and river habitat"
+    },
+    {
+      "label": "Identification",
+      "text": "large yellow flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "very long narrow floral tube"
+    },
+    {
+      "label": "Identification",
+      "text": "upright leafy stems"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "More riparian and upright than the low dry-prairie Oenothera macrocarpa subsp. macrocarpa."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "ea5e35be4688f02401a744f4a8b262fa8f769c11105baf166a2896f19a964dc3",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "oenothera-macrocarpa-subsp-macrocarpa",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "scientific_name": "Oenothera macrocarpa subsp. macrocarpa",
+  "common_name": "Missouri primrose / bigfruit evening-primrose / fluttermill",
+  "look_here_first": "Look for the low spreading habit, huge yellow evening-opening flowers, and especially the very large winged fruits. It is a dry limestone-prairie plant, not a tall riverbank primrose.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "low perennial, often spreading to ascending"
+    },
+    {
+      "label": "Identification",
+      "text": "narrow gray-green leaves"
+    },
+    {
+      "label": "Identification",
+      "text": "very large yellow four-petaled flowers"
+    },
+    {
+      "label": "Identification",
+      "text": "long floral tube"
+    },
+    {
+      "label": "Identification",
+      "text": "very large winged capsules"
+    },
+    {
+      "label": "Identification",
+      "text": "dry calcareous prairie, limestone glades, and rocky hillsides"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": "The oversized winged capsule is the strongest field clue. O. jamesii is taller and riparian; O. patriciae has much smaller white-to-rose gaura-like flowers and narrow fruits."
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "57e61ebd4baef7e68c3af0c0265bebd1cebd115d61f7fe20e474a30126b18771",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

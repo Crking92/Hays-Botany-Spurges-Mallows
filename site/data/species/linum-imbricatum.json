@@ -1,0 +1,17 @@
+{
+  "id": "linum-imbricatum",
+  "family": "Linaceae",
+  "genus": "Linum",
+  "scientific_name": "Linum imbricatum",
+  "common_name": "Imbricate flax",
+  "look_here_first": "Inspect closely spaced narrow alternate leaves, flower sepals and five petals, then confirm the developing dry capsule.",
+  "key_traits": [],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "848f4c5744667f49c273993e8453f44ce4d252c2595b2da20e04314456d11ef2",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

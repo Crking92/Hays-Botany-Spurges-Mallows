@@ -1,0 +1,50 @@
+{
+  "id": "ludwigia-peploides",
+  "family": "Onagraceae",
+  "genus": "Ludwigia",
+  "scientific_name": "Ludwigia peploides",
+  "common_name": "Floating primrose-willow / creeping water-primrose",
+  "look_here_first": "Creeping or floating mat of alternate glossy broad leaves, with typically 5 showy yellow petals and 10 stamens.",
+  "key_traits": [
+    {
+      "label": "Habit",
+      "text": "Aquatic perennial with floating or creeping stems often rooting at nodes."
+    },
+    {
+      "label": "Leaves",
+      "text": "Alternate or fascicled; usually shiny elliptic to obovate petiolate blades."
+    },
+    {
+      "label": "Flower",
+      "text": "Typically 5 broad yellow petals and 10 stamens; flower borne in leaf axil."
+    },
+    {
+      "label": "Fruit",
+      "text": "Cylindrical or slightly angular capsule, usually thicker-walled; details vary across geographic subspecies."
+    },
+    {
+      "label": "Identification",
+      "text": "Creeping or floating mat of alternate glossy broad leaves, with typically 5 showy yellow petals and 10 stamens."
+    },
+    {
+      "label": "Identification",
+      "text": "Aquatic perennial with floating or creeping stems often rooting at nodes."
+    },
+    {
+      "label": "Identification",
+      "text": "Typically 5 broad yellow petals and 10 stamens; flower borne in leaf axil."
+    },
+    {
+      "label": "Identification",
+      "text": "Cylindrical or slightly angular capsule, usually thicker-walled; details vary across geographic subspecies."
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "3d439496b92386e5f4911a03245ddcdf46229f4c1510dba219a01426d7c467bf",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "oenothera-speciosa",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "scientific_name": "Oenothera speciosa",
+  "common_name": "Pinkladies",
+  "look_here_first": "Start with the flower architecture: a large, open, radial four-petaled primrose—usually pink to white—with 8 stamens and a conspicuous 4-lobed cross/finger-like stigma on a spreading rhizomatous plant.",
+  "key_traits": [
+    {
+      "label": "Identification",
+      "text": "rhizomatous spreading perennial (sometimes annual)"
+    },
+    {
+      "label": "Identification",
+      "text": "young shoots rosetted; later stems decumbent to ascending"
+    },
+    {
+      "label": "Identification",
+      "text": "large radial flowers about 25–52 mm across"
+    },
+    {
+      "label": "Identification",
+      "text": "4 broad fan- to heart-shaped pink/white petals"
+    },
+    {
+      "label": "Identification",
+      "text": "8 stamens and 4-lobed stigma"
+    },
+    {
+      "label": "Identification",
+      "text": "club-shaped many-seeded 4-valved capsule"
+    }
+  ],
+  "lookalikes": {
+    "names": [],
+    "differences": ""
+  },
+  "verified_photos": [],
+  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "original_species_sha256": "c52a176ce43831980ce8e7cf2dfb61e697d1ba361af3d85ffe04839bee960286",
+  "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
+}
