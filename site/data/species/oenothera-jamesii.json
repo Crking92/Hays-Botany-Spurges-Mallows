@@ -31,8 +31,22 @@
     "names": [],
     "differences": "More riparian and upright than the low dry-prairie Oenothera macrocarpa subsp. macrocarpa."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/oenothera-jamesii/oenothera-jamesii-provisional-face.jpg",
+      "creator": "SAplants",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Oenothera_jamesii_1DS-II_1-6483.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "0580cc5e2ff1a67a904ec74b8f749b6ef9413b96",
+      "role": "Flower recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "ea5e35be4688f02401a744f4a8b262fa8f769c11105baf166a2896f19a964dc3",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

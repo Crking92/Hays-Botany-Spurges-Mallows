@@ -35,8 +35,48 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/oenothera-speciosa/01-flowering-habit.jpg",
+      "creator": "Jim Evans",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Buttercups_or_Pink_primrose_--_Oenothera_speciosa.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "d1a119a1baff0e6b0a3355227497c41df69bc82e",
+      "role": "Flowering habit / open radial flowers",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/oenothera-speciosa/glass-root-garden-629045156-flowering-patch.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/629045156",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "6208704f8e2167b97710eb81e49faea42062dcd3",
+      "role": "Pink evening primrose: several open five-petaled pink flowers and their low growing stems in a single naturalized patch; flowering habit context",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/oenothera-speciosa/glass-root-garden-479279527-flower-and-leaves.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/479279527",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "f9c417c142be93a16aa500430bd219abc9a5b60c",
+      "role": "Pink evening primrose: open pink flower, developing flower bud and nearby foliage; caution: surrounding vegetation includes other species",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "c52a176ce43831980ce8e7cf2dfb61e697d1ba361af3d85ffe04839bee960286",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -43,8 +43,22 @@
     "names": [],
     "differences": "O. calcicola is perennial with a woody rootstock and strong limestone specialization; O. filiformis is usually annual/biennial and generally taller and airier."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/oenothera-filiformis/oenothera-filiformis-provisional-face.jpg",
+      "creator": "Samuel A. Schmid, Ph.D.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Oenothera_filiformis_-_Samuel_A._Schmid_01.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "003eb34e3424bc5928cec6658fa780d817506d95",
+      "role": "Oenothera filiformis bloom, Mississippi county observational photo 313477240.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "5c46225a195f8988244fb4668be558d578be0d6a8c5726aff6ad75d77d7c767b",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

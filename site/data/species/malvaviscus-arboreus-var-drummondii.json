@@ -51,8 +51,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/malvaviscus-arboreus-var-drummondii/malvaviscus-arboreus-var-drummondii-provisional-face.jpg",
+      "creator": "Dinesh Valke",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Malvaviscus_arboreus_var._drummondii_(331692361).jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source_blob_sha": "bdee10ac7ded84ae6c8a182dec60a90d483c0142",
+      "role": "Flower and foliage / recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "a369a7e158a8134833b1a08971ac604efaf17be59c745dd6665b2172a860c961",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

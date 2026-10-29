@@ -43,8 +43,22 @@
     "names": [],
     "differences": "O. laciniata has much broader cut-lobed leaves. O. capillifolia is the fine-leaved yellow sundrop concept historically called Calylophus."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/oenothera-capillifolia/oenothera-capillifolia-provisional-face.jpg",
+      "creator": "sonnia hill",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Oenothera_capillifolia_subsp._capillifolia_(syn-_O._berlandieri_subsp._pinifolia,_Calylophus_berlandieri_subsp._pinifolius).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "384bf680698180819fbb9e9dbebc43d323f2b94b",
+      "role": "Whole flowering plant recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "7a2374b747a45c9eb24a3a09ff17fe220b84f6bc1b3fa45ea574ef91a8f373d1",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

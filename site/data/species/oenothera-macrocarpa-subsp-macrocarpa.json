@@ -35,8 +35,22 @@
     "names": [],
     "differences": "The oversized winged capsule is the strongest field clue. O. jamesii is taller and riparian; O. patriciae has much smaller white-to-rose gaura-like flowers and narrow fruits."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/oenothera-macrocarpa-subsp-macrocarpa/oenothera-macrocarpa-subsp-macrocarpa-provisional-face.jpg",
+      "creator": "David J. Stang",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Oenothera_macrocarpa_0zz.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "65c4f5742eab65db58a790f0318f199b1cceb5cc",
+      "role": "Flowering plant / recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "57e61ebd4baef7e68c3af0c0265bebd1cebd115d61f7fe20e474a30126b18771",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -35,8 +35,22 @@
     "names": [],
     "differences": "Compared with O. sinuosa, O. suffrutescens is usually much grayer and hairier. Mature fruit structure is especially useful."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/oenothera-suffrutescens/oenothera-suffrutescens-provisional-face.jpg",
+      "creator": "Stan Shebs",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Gaura_coccinea_8.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "13285c5bca10d91ff0e3a6bfc0d2f23e901d0b41",
+      "role": "Flowering habit recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "73736e5a5b3f0939a6456276f8ad19905f30a3dec2a29e1561a86d9470644b07",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
