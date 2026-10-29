@@ -1,0 +1,581 @@
+{
+  "id": "euphorbia-nutans",
+  "entry_type": "provisional_species",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "species": "nutans",
+  "scientific_name": "Euphorbia nutans",
+  "authority": "Lag.",
+  "common_name": "Nodding spurge / eyebane",
+  "synonyms": [
+    "Chamaesyce nutans"
+  ],
+  "taxonomic_note": "Legacy Master Plant Pool name Chamaesyce nutans is normalized to the current accepted Euphorbia name.",
+  "look_here_first": "FIRST LOOK AT LEAF SIZE AND SHAPE. Nodding spurge (Euphorbia nutans) is usually an ASCENDING or arching annual with relatively LONG opposite oblong leaves (8–40 mm), strongly UNEQUAL leaf bases, and finely TOOTHED margins. Its small cyathia have white-to-pink gland appendages; nearby mature fruit is a smooth, THREE-LOBED capsule. Several photographed dark seeds show low IRREGULAR wrinkles, not the high parallel cross-ridges of E. prostrata. Against E. villifera, nutans usually has bigger leaves and small fringed or divided scale-shaped stipules (FNA; full stipule pattern not directly proved by existing photos), whereas villifera tends toward smaller ovate leaves and minute separate threadlike stipules. Don't decide from a red leaf blotch, hairiness, or smooth fruit alone. Hays native-by-county badge remains unaudited.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Hays-local legacy Chamaesyce source; current Kew treats Chamaesyce nutans as a synonym of accepted Euphorbia nutans.",
+    "range_guardrail": "Installed for active visual learning; broader exact-county reconciliation deferred."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Euphorbia sect. Anisophyllum: opposite leaves, milky latex, tiny cyathia, and a 3-lobed capsule. In E. nutans, plant stature and leaf architecture are unusually helpful before moving to fruit and seed.",
+    "growth_form": "Annual with taproot; stems usually ascending, occasionally erect, often arching or nodding near branch tips, roughly 20–80 cm.",
+    "stems": "Sparsely to moderately pilose/villous or with short incurved hairs, commonly concentrated at nodes and distal portions; hairs may form two bands on opposite sides of the stem.",
+    "leaves": "Opposite; blades oblong to oblong-lanceolate, about 8–40 × 3–12 mm. Base strongly asymmetric: one side angled/rounded, the other truncate to cordate-auriculate. Margins serrulate; upper surface often has a reddish blotch or mottling but can lack it.",
+    "stipules": "Small scales, usually distinct, sometimes basally connate on one side of stem; irregularly toothed, fringed, or divided.",
+    "cyathium": "Cyathia solitary at distal nodes or in small terminal cymose clusters. Four green to reddish-purple glands with white or pinkish ovate-to-broadly-elliptic appendages.",
+    "fruit": "Capsule ovoid, about 1.6–2.3 × 1.5–2.4 mm, glabrous.",
+    "seed": "Seeds dark brown, elliptic-ovoid to ovoid, rounded-angular in cross section, about 1–1.6 × 0.5–0.8 mm; surface finely and irregularly wrinkled or with faint shallow transverse ridges.",
+    "best_field_traits": [
+      "ascending to erect annual with arching branch tips",
+      "relatively large opposite oblong leaves",
+      "strongly asymmetric leaf bases",
+      "serrulate leaf margins",
+      "red central leaf blotch often present but not required",
+      "glabrous capsule",
+      "finely wrinkled seed surface",
+      "nutans stipules are irregularly toothed/fringed/divided small scales 1–1.5 mm; contrast with villifera filiform stipules 0.3–0.7 mm, but present node photo does not resolve complete pattern",
+      "Against villifera: nutans 8–40 mm leaf blade versus villifera mostly 3–12 mm (overlap possible); confirm margin/fruit/node not one character",
+      "Deep seed sculpture is low irregular wrinkles, NOT the conspicuous cross-bars of prostrata; existing seed photograph has uncalibrated background grid"
+    ],
+    "comparison_training": "Teach opposite leaves and their STRONGLY unequal bases first, then fine edge teeth, then hairless fruit and microscopic seed wrinkles. Unlike E. villifera, E. nutans generally has larger leaves and fringed/divided 1–1.5 mm scalelike stipules, not minute separate filiform stipules. Both can have ascending branches and hairless capsules; leaf spot or hairiness alone is not diagnostic. E. maculata grows as a low mat and has fine hairs on capsule faces; E. prostrata has fruit-keel hairs and strong transverse seed ridges."
+  },
+  "curation_status": {
+    "version": "1.5-nutans-four-photograph-nine-arrow-field-finishing-2026-10-20",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-21",
+    "photo_metadata_count": 6,
+    "photo_files_present": 6,
+    "visual_status": "CREW_READY_PARTIAL_MACRO_HOLD",
+    "annotated_real_photo_count": 4,
+    "verified_arrow_count": 9,
+    "public_eligible_photo_count": 4,
+    "finished_field_id_pass": "FIELD_READY_PHOTO_GAPS",
+    "field_status": "FIELD_READY_WITH_STIPULE_AND_WHOLE_HABIT_PHOTO_GAPS"
+  },
+  "photo_note": "Four individually cleared public-eligible diagnostic photographs (Kenraiz CC BY-SA, HermannSchachner CC0, Douglas Goldman CC BY-SA and Dale Lee Denham-Logsdon CC BY-NC for noncommercial use). The nine saved manually verified anatomy arrows show narrow leaf teeth, reproductive clusters, actual glabrous 3-lobed fruit, pale gland appendages, opposite node and curly hairs, and irregular seed wrinkles. Remaining genuinely missing teaching photographs: complete rooted habit and a sharp BOTH-SIDES true stipule macro. Two other existing images are UT-restricted or 320×240 low-res study only.",
+  "images": [
+    {
+      "file": "images/euphorbia-nutans-provisional-face.jpg",
+      "role": "Flowering leafy upper shoot — fine marginal teeth and cyathial clusters, NOT whole plant",
+      "creator": "Kenraiz",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_nutans_kz01.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "anatomy_arrows": [
+        {
+          "label": "Finely toothed leaf margin",
+          "target_fraction": [
+            0.26,
+            0.24
+          ]
+        },
+        {
+          "label": "Cyathium cluster at leafy branch",
+          "target_fraction": [
+            0.55,
+            0.4
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-21 original source JPEG reinspected. Two arrows point to clearly visible marginal teeth and central tiny flowering cluster. Moved cyathial marker off the obscuring leaf to the cluster. Do not claim full growth habit.",
+      "caption": "This is a short flowering branch, not the entire 20–80 cm ascending annual. Opposite oblong leaves show fine teeth; tiny reproductive cyathia occur near shoot forks. A complete rooted plant with lower stem and scale remains missing."
+    },
+    {
+      "file": "images/02-reproductive-closeup.jpg",
+      "role": "Upper branch / leaves, cyathia and fruit context",
+      "creator": "HermannSchachner",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_nutans_(Nickend-Wolfsmilch)_IMG_8819.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "anatomy_arrows": [
+        {
+          "label": "Glabrous 3-lobed capsule",
+          "target_fraction": [
+            0.35,
+            0.69
+          ]
+        },
+        {
+          "label": "White gland appendages of cyathium",
+          "target_fraction": [
+            0.4,
+            0.49
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-20 exact saved GitHub source JPEG visually inspected; anatomy pointer targets verified for visible supporting features only; no claim that whole habit, mature stipule fusion, or pixel-scale seed measurement resolved",
+      "caption": "The swollen, three-lobed pink-green structure is a capsule (fruit), not a flower. The small white rounded parts are gland appendages of nearby cyathia, not true petals. Glabrous appearance of fruit is visible; seeds are not."
+    },
+    {
+      "file": "images/03-ut-diagnostic-closeup.jpg",
+      "role": "Diagnostic close-up / leaves, cyathia and glabrous fruit",
+      "creator": "UT Austin / Bob Harms",
+      "license": "reuse rights unverified",
+      "source_page": "https://w3.biosci.utexas.edu/prc/CHAMA-D/html/CHNU9.html",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/04-node-stipule-hairs.jpg",
+      "role": "Node macro / stipule location and petiole hairs",
+      "caption": "Both leaves attach opposite one another at the vertical stem. Long curved hairs line the leaf edge. Pale pink-white structures near the right leaf base show where to inspect for stipules, but this one view does not prove their shape or both sides of fusion.",
+      "platform": "iNaturalist",
+      "observation_id": 168810838,
+      "photo_id": 292606258,
+      "creator": "Douglas Goldman",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/168810838",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/292606258/original.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "verification": {
+        "taxon": "Euphorbia nutans",
+        "quality_grade": "research",
+        "binary_decoded": true,
+        "dimensions": [
+          1071,
+          1600
+        ],
+        "git_blob_sha": "4a835f4cd5d5913cf950eddaffd28680d1f058d2",
+        "visually_checked_on": "2026-10-08",
+        "limits": "Look at the small pale-to-pink membrane at the right-hand leaf attachment beside the green stem. Fine curled hairs on the leaf stalk and blade margin are resolved. This single view locates the stipule; it does not show the complete two-sided fusion pattern."
+      },
+      "anatomy_arrows": [
+        {
+          "label": "Opposite leaf-attachment node",
+          "target_fraction": [
+            0.57,
+            0.47
+          ]
+        },
+        {
+          "label": "Leaf-edge hairs, not stipules",
+          "target_fraction": [
+            0.37,
+            0.33
+          ]
+        },
+        {
+          "label": "Inspect pale node tissue; stipules unconfirmed",
+          "target_fraction": [
+            0.64,
+            0.44
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-21 actual source JPEG rechecked: paired opposite petioles, curled petiole and leaf-edge hairs, pale basal tissue are visible. Pale tissue is a LOCATION TO INSPECT, not positively identified fused/divided stipule anatomy."
+    },
+    {
+      "file": "images/05-mature-seed-wrinkles.jpg",
+      "role": "Mature seed macro / wrinkled seed surface",
+      "caption": "Seed surfaces are finely wrinkled. Compare the low, irregular network against the strong transverse bars of E. prostrata. The background grid is NOT independently calibrated and must not be used as a scale. Conditional NC image: noncommercial site only.",
+      "platform": "iNaturalist",
+      "observation_id": 3470010,
+      "photo_id": 4031288,
+      "creator": "Dale Lee Denham-Logsdon",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/3470010",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4031288/original.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "verification": {
+        "taxon": "Euphorbia nutans",
+        "quality_grade": "research",
+        "binary_decoded": true,
+        "dimensions": [
+          900,
+          596
+        ],
+        "git_blob_sha": "0faea7735b763c81bfcd033fb7e627273332c41f",
+        "visually_checked_on": "2026-10-08",
+        "limits": "Look at the dark seeds and their low irregular wrinkles across the faces. Compare surface sculpture rather than the displayed size; the grid spacing is not independently calibrated in this photograph."
+      },
+      "public_site_eligibility": {
+        "scope": "stand-alone strictly noncommercial educational GitHub Pages learner",
+        "rights": "Recorded photograph-specific CC BY-NC 4.0 with creator/source/license link; valid only while actual site use qualifies as noncommercial",
+        "prior_status": "no under earlier restrictive strict CC BY-only website staging",
+        "retain_photographer_license_and_source": true,
+        "reviewed_on": "2026-10-20"
+      },
+      "anatomy_arrows": [
+        {
+          "label": "Low irregular seed wrinkles",
+          "target_fraction": [
+            0.29,
+            0.59
+          ]
+        },
+        {
+          "label": "Second seed: shallow sculpture",
+          "target_fraction": [
+            0.53,
+            0.62
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-20 exact saved GitHub source JPEG visually inspected; anatomy pointer targets verified for visible supporting features only; no claim that whole habit, mature stipule fusion, or pixel-scale seed measurement resolved",
+      "photo_review": "2026-10-21 source JPEG manually rechecked: several dark true seeds show low irregular wrinkles, without reliably calibrated scale; individually CC BY-NC licensed for genuinely noncommercial educational reuse."
+    },
+    {
+      "file": "images/06-leaf-base-microscope-detail.jpg",
+      "role": "Microscope detail / leaf-base region, pale membranes and hairs",
+      "caption": "Look beside the hairy leaf base for the pale, irregularly divided membrane-like structures. This microscope photograph gives a closer look at the crowded leaf-base region. Attachment is partly obscured, and the source supplies no structure labels or scale. It does not establish the complete stipule fusion pattern or show both sides of a node. The original is only 320 × 240 pixels; enlargement adds no detail.",
+      "platform": "iNaturalist",
+      "observation_id": 19572934,
+      "photo_id": 30129386,
+      "creator": "Joel Galván",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/19572934",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/30129386/original.jpg",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "verification": {
+        "taxon": "Euphorbia nutans",
+        "quality_grade": "research",
+        "binary_decoded": true,
+        "dimensions": [
+          320,
+          240
+        ],
+        "git_blob_sha": "ef2e1a8b55739a2a56730ef5259da69a4f8db39b",
+        "visually_checked_on": "2026-10-08",
+        "source_context": "Photographer describes microscope details from observation 18868781. Macro observation has current Euphorbia nutans identifications by Nathan Taylor and Joel Galván. Linked plant observation remains needs_id; do not promote its grade.",
+        "limits": "Supplementary leaf-base detail, not verified complete stipule architecture; no scale, partly obscured attachment, low native resolution."
+      }
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "diagnostic_detail_mixed_reuse",
+    "image_count": 6,
+    "filled_at": "2026-10-08",
+    "note": "Four approved images with nine verified arrows already provide large toothed leaves, smooth capsule, opposite node, and wrinkled seed. Precise stipule shape and whole rootline-to-top habit still need photographs.",
+    "public_photo_count": 4,
+    "annotated_source_count": 4,
+    "verified_arrow_count": 9
+  },
+  "comparisons": {
+    "confused_with": [
+      "Euphorbia prostrata",
+      "Euphorbia serpens",
+      "Euphorbia fendleri",
+      "Euphorbia villifera",
+      "Euphorbia maculata"
+    ],
+    "key_distinctions": "E. nutans rises well above the ground and carries much larger leaves. The combination of ascending/arching stems, strongly asymmetric serrulate leaves, and glabrous capsules separates it from the low sandmats.",
+    "lookalike_matrix": [
+      {
+        "character": "Habit",
+        "Euphorbia nutans": "ascending to erect, 20–80 cm, branch tips often arched",
+        "Euphorbia prostrata": "prostrate to decumbent",
+        "Euphorbia serpens": "strictly prostrate and often node-rooting",
+        "Euphorbia fendleri": "low perennial, usually prostrate/decumbent/ascending, 5–12 cm"
+      },
+      {
+        "character": "Leaf size",
+        "Euphorbia nutans": "8–40 mm long",
+        "Euphorbia prostrata": "mostly 3–11 mm",
+        "Euphorbia serpens": "mostly 2–7 mm",
+        "Euphorbia fendleri": "mostly 3–8 mm"
+      },
+      {
+        "character": "Leaf margin",
+        "Euphorbia nutans": "serrulate",
+        "Euphorbia prostrata": "serrulate distally",
+        "Euphorbia serpens": "entire",
+        "Euphorbia fendleri": "entire"
+      },
+      {
+        "character": "Fruit",
+        "Euphorbia nutans": "glabrous",
+        "Euphorbia prostrata": "hairy on keels/base",
+        "Euphorbia serpens": "glabrous",
+        "Euphorbia fendleri": "glabrous"
+      }
+    ],
+    "nutans_villifera_field_matrix": [
+      {
+        "character": "Typical habit",
+        "nutans": "Annual ascending/arching 20–80 cm",
+        "villifera": "Annual or perennial, erect/ascending 10–30 cm; exceptions overlap"
+      },
+      {
+        "character": "Leaf blade",
+        "nutans": "oblong to oblong-lanceolate, 8–40 × 3–12 mm, strongly unequal base",
+        "villifera": "ovate, 3–12 × 2–10 mm, asymmetric but generally smaller"
+      },
+      {
+        "character": "Stipules, FNA",
+        "nutans": "small fringed/toothed/divided scales 1–1.5 mm, sometimes basally fused one side",
+        "villifera": "separate FILIFORM threads 0.3–0.7 mm; requires loupe and a proper macro"
+      },
+      {
+        "character": "Stem/leaf pubescence",
+        "nutans": "sparse-moderate hairs at nodes/tips; sometimes banded; sometimes smooth leaves",
+        "villifera": "usually long-villous and papillate; can be glabrous"
+      },
+      {
+        "character": "Capsules",
+        "nutans": "glabrous, ovoid, no documented hollow elongated cocci",
+        "villifera": "glabrous, cocci often elongated with internally empty distal portions"
+      },
+      {
+        "character": "Seeds",
+        "nutans": "dark brown, finely irregularly wrinkled, sometimes faint rounded shallow cross-ridges",
+        "villifera": "smooth to faintly rugose or inconspicuous transverse ridges; exact comparative macro still missing"
+      }
+    ]
+  },
+  "unreliable_characters": [
+    "reddish leaf blotch by itself",
+    "red stem color",
+    "disturbed habitat",
+    "hairiness alone because it varies"
+  ],
+  "diagnostic_image_needs": [
+    {
+      "part": "both-sided true leaf-base stipule attachment",
+      "priority": "high",
+      "requirements": "10–30× in-focus exact-species matched same node from both sides with 1mm scale; verify fringed/divided scales versus ordinary pale hairs and membranous tissue"
+    },
+    {
+      "part": "full whole-plant habit",
+      "priority": "medium",
+      "requirements": "Licensed real living rooted plant including lower stem and taller 20–80cm branching/arching silhouette; local provenance desirable"
+    },
+    {
+      "part": "leaf blade base and teeth",
+      "priority": "optional",
+      "requirements": "Photo of true paired strongly asymmetric bases and fine serrulate edge, preferably calibrated; current photos show marginal teeth but not good paired bases"
+    },
+    {
+      "part": "fruit with scale",
+      "priority": "optional",
+      "requirements": "CC-licensed true glabrous three-lobed mature capsule with millimeter scale; current reproductive shot shows genuine fruit but no physical measurements"
+    }
+  ],
+  "photo_research": {
+    "status": "DIAGNOSTIC_PHOTO_POLISH_SPECIALIZED_GAPS_RETAINED",
+    "installed_roles": [
+      "Whole plant / branching habit recognizable face",
+      "Upper branch / leaves, cyathia and fruit context",
+      "Diagnostic close-up / leaves, cyathia and glabrous fruit",
+      "Node macro / stipule location and petiole hairs",
+      "Mature seed macro / wrinkled seed surface",
+      "Microscope detail / leaf-base region, pale membranes and hairs"
+    ],
+    "next_priority": [
+      "two-sided stipule macro showing fusion/segmentation"
+    ],
+    "updated_at": "2026-10-08",
+    "search_summary": "Screened licensed Research Grade observations from a targeted 100-observation sample per species; selected originals visually inspected. Installed only two complementary exact-species images. No substitutions or range changes.",
+    "latest_followup": "reports/euphorbia-specialty-photo-search-005-2026-10-08.json"
+  },
+  "visual_comparison": {
+    "instance_id": "euphorbia-nutans-photo-first-20261020",
+    "title": "Nodding spurge — inspect the actual leaf nodes, cyathia, capsule and mature seed",
+    "subtitle": "Four pre-existing original licensed source photos visually inspected and annotated with nine deliberately limited anatomy arrows. The existing 320×240 microscope view is not strong enough to resolve complete stipules.",
+    "items": [
+      {
+        "label": "Nodding spurge: leaves, margin teeth and cyathia",
+        "scientific_name": "Euphorbia nutans",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-nutans/images/euphorbia-nutans-provisional-face.jpg",
+        "image_role": "Exact-species partial field shoot with serrulate leaves and axillary cyathia, not whole upright habit",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_nutans_kz01.jpg",
+        "creator": "Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "image_fit": "contain",
+        "caption": "This is a short flowering branch, not the entire 20–80 cm ascending annual. Opposite oblong leaves show fine teeth; tiny reproductive cyathia occur near shoot forks. A complete rooted plant with lower stem and scale remains missing.",
+        "markers": [
+          {
+            "label": "Finely toothed leaf margin",
+            "label_x": 8,
+            "label_y": 12,
+            "target_x": 26,
+            "target_y": 24
+          },
+          {
+            "label": "Cyathium cluster at leafy branch",
+            "label_x": 64,
+            "label_y": 61,
+            "target_x": 53,
+            "target_y": 48
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 original 960×720 GitHub JPEG visually inspected. Arrows target visible serrulate margin and reproductive cluster; no fictitious full habit or red blotch.",
+        "anatomy_arrows": [
+          {
+            "label": "Finely toothed leaf margin",
+            "target_fraction": [
+              0.26,
+              0.24
+            ]
+          },
+          {
+            "label": "Cyathium cluster at leafy branch",
+            "target_fraction": [
+              0.55,
+              0.4
+            ]
+          }
+        ]
+      },
+      {
+        "label": "True reproductive structures: capsules versus cyathia",
+        "scientific_name": "Euphorbia nutans",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-nutans/images/02-reproductive-closeup.jpg",
+        "image_role": "Exact-species CC0 reproductive macro: glabrous three-lobed capsule and white petal-like gland appendages",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_nutans_(Nickend-Wolfsmilch)_IMG_8819.JPG",
+        "creator": "HermannSchachner",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "image_fit": "contain",
+        "caption": "The swollen, three-lobed pink-green structure is a capsule (fruit), not a flower. The small white rounded parts are gland appendages of nearby cyathia, not true petals. Glabrous appearance of fruit is visible; seeds are not.",
+        "markers": [
+          {
+            "label": "Glabrous 3-lobed capsule",
+            "label_x": 6,
+            "label_y": 86,
+            "target_x": 35,
+            "target_y": 69
+          },
+          {
+            "label": "White gland appendages of cyathium",
+            "label_x": 50,
+            "label_y": 28,
+            "target_x": 40,
+            "target_y": 49
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 original 960×641 GitHub JPEG visually inspected. Two arrows on external fruit and white appendages; no microscopic stipule or seed claim."
+      },
+      {
+        "label": "Find opposite leaf bases and hairs; stipule pattern NOT fully resolved",
+        "scientific_name": "Euphorbia nutans",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-nutans/images/04-node-stipule-hairs.jpg",
+        "image_role": "Exact-species CC BY-SA node macro of paired leaf attachments, hairs and pale membrane-like region; no complete stipule fusion proof",
+        "source_page": "https://www.inaturalist.org/observations/168810838",
+        "creator": "Douglas Goldman",
+        "license": "CC BY-SA",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "image_fit": "contain",
+        "caption": "Both leaves attach opposite one another at the vertical stem. Long curved hairs line the leaf edge. Pale pink-white structures near the right leaf base show where to inspect for stipules, but this one view does not prove their shape or both sides of fusion.",
+        "markers": [
+          {
+            "label": "Opposite leaf-attachment node",
+            "label_x": 6,
+            "label_y": 57,
+            "target_x": 57,
+            "target_y": 47
+          },
+          {
+            "label": "Leaf-edge hairs, not stipules",
+            "label_x": 2,
+            "label_y": 22,
+            "target_x": 37,
+            "target_y": 33
+          },
+          {
+            "label": "Inspect pale node tissue; stipules unconfirmed",
+            "label_x": 64,
+            "label_y": 66,
+            "target_x": 64,
+            "target_y": 44
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 original 1071×1600 GitHub JPEG inspected. Only obvious node, leaf hairs and pale tissue region marked. No stipule identity/fusion claimed."
+      },
+      {
+        "label": "Mature seed faces: shallow irregular wrinkles",
+        "scientific_name": "Euphorbia nutans",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-nutans/images/05-mature-seed-wrinkles.jpg",
+        "image_role": "Exact-species CC BY-NC research-reviewed mature-seed macro; irregular shallow wrinkling rather than prominent uninterrupted ridges",
+        "source_page": "https://www.inaturalist.org/observations/3470010",
+        "creator": "Dale Lee Denham-Logsdon",
+        "license": "CC BY-NC",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "caption": "Seed surfaces are finely wrinkled. Compare the low, irregular network against the strong transverse bars of E. prostrata. The background grid is NOT independently calibrated and must not be used as a scale. Conditional NC image: noncommercial site only.",
+        "markers": [
+          {
+            "label": "Low irregular seed wrinkles",
+            "label_x": 8,
+            "label_y": 60,
+            "target_x": 29,
+            "target_y": 59
+          },
+          {
+            "label": "Second seed: shallow sculpture",
+            "label_x": 68,
+            "label_y": 73,
+            "target_x": 53,
+            "target_y": 62
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 exact GitHub source 900×596 visually inspected; seed surface visible but scale/grid not calibrated; no length measurement asserted."
+      }
+    ],
+    "overlay_note": "Kenraiz (CC BY-SA 4.0), HermannSchachner (CC0 1.0), Douglas Goldman (CC BY-SA 4.0), Dale Lee Denham-Logsdon (CC BY-NC 4.0; display only on genuinely noncommercial educational site). On-screen pointer overlays do not change original JPEG bytes. UT Austin reuse-rights-unverified image and 320×240 CC BY-NC microscope image remain research-only."
+  },
+  "field_photo_quickcheck": {
+    "heading": "BIG OPPOSITE TOOTHED LEAVES — SMOOTH CAPSULE — WRINKLED SEED",
+    "featured_photo_indices": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "steps": [
+      "Find opposite 8–40 mm leaves with strongly asymmetrical bases; look for fine marginal teeth rather than relying on a red leaf spot.",
+      "Look at several arching/ascending stems rather than confusing the pictured upper shoot with the whole habit; the existing public gallery has no full rooted growth-form shot.",
+      "In the flowering tips locate small cyathial gland appendages, then identify the smooth slightly three-lobed fruit nearby; the structures are NOT petals and flowers in the ordinary sense.",
+      "Look at a node under a lens for fringed/divided scales, distinct or basally joined on one side. Existing closeup marks the LOCATION but not complete stipule identity, fusion, or size.",
+      "Compare the photographed true dark seeds' low irregular wrinkles with the sharply cross-ridged seed of E. prostrata. The background grid on our source seed photo is not calibrated.",
+      "Against E. villifera, check longer often oblong nutans leaves versus smaller ovate villifera leaves; microscopic stipule shape is the stronger tie-break when leaves overlap."
+    ],
+    "warning": "Use only verified arrows in gallery. Flowering-tip source is not a whole plant, and node source does not prove scale-like stipule fusion. The seed image may be reused only while the site remains genuinely noncommercial. Hays nativity review intentionally paused."
+  },
+  "field_id_finalization": {
+    "review_date": "2026-10-21",
+    "stage": "FIELD_READY_WITH_STIPULE_AND_WHOLE_HABIT_PHOTO_GAPS",
+    "field_training_status": "CREW_READY_FOR_LARGE_LEAVES_FRUIT_SEED; FULL_STIPULE_AND_WHOLE_HABIT_MACRO_PENDING",
+    "real_source_photos_annotated": 4,
+    "verified_anatomy_arrows": 9,
+    "public_gallery_photo_count": 4,
+    "canonical_photo_count": 6,
+    "photo_rights": "Four public-eligible photos: 2 CC BY-SA, 1 CC0, 1 image-specific CC BY-NC 4.0 strictly noncommercial only. One university reuse-unverified photo and one 320×240 study-only NC microview are omitted. Original licenses and creator credits retained.",
+    "science_citations": [
+      "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242427660",
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242321553",
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:101777-2"
+    ],
+    "photo_review": "Four actual saved JPEGs visibly reviewed; nine arrows target real leaf margin, cyathial appendages, fruit, opposite node, leaf hairs, tentative stipule-location zone and irregular seed wrinkles. Shape/fusion of stipules not proved by current photo. No false whole habit or calibrated seed measurements.",
+    "remaining": [
+      "Clear paired two-sided fringed/divided stipules under scale (HIGH PRIORITY)",
+      "Source-clear whole live 20–80cm rootline-to-top habit (MEDIUM PRIORITY)",
+      "Optional measured asymmetrical leaf base and smooth fruit"
+    ],
+    "closeout_note": "2026-10-21 original four public-safe exact-species photos manually inspected; nine arrows retained with corrected reproductive-marker coordinate; original 'whole plant' label corrected to flowering shoot. Full stipule morphology remains an FNA text trait, not photo-certified. Existing public card is field-ready."
+  }
+}

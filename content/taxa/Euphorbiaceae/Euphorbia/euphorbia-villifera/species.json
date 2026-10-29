@@ -1,0 +1,699 @@
+{
+  "id": "euphorbia-villifera",
+  "entry_type": "provisional_species",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "species": "villifera",
+  "scientific_name": "Euphorbia villifera",
+  "authority": "Scheele",
+  "common_name": "Hairy sandmat",
+  "synonyms": [
+    "Chamaesyce villifera",
+    "Chamaesyce stanfieldii",
+    "Euphorbia stanfieldii"
+  ],
+  "taxonomic_note": "Accepted as Euphorbia villifera Scheele by current Kew/POWO and Flora of North America. Chamaesyce villifera is the principal legacy name in this project; Chamaesyce stanfieldii/Euphorbia stanfieldii are also treated as synonyms.",
+  "look_here_first": "LOOK AT GROWTH HABIT + THE NODES, NOT JUST THE COMMON NAME. Euphorbia villifera generally has ascending/upright branches rather than a flat, rooted mat. At opposite-leaf nodes, its stipules are DISTINCT, THREADLIKE (filiform), unlike E. serpens' fused broad triangular scales. Leaf/stem surfaces are PAPILLATE under strong magnification; most specimens are LONG-HAIRED but completely glabrous forms occur. Most useful reproductive confirmation: SMOOTH THREE-LOBED capsule whose cocci may be elongated into an internally EMPTY tip, which needs DISSECTION to prove. Current public photos show hair, a leaf node, developing capsule and styles but do NOT prove the exact stipule identity, cellular papillae, dissected empty tip or mature seed sculpture. Hays inclusion remains PROVISIONAL and native metrics excluded.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Hays-local legacy Chamaesyce source; current Kew explicitly treats Chamaesyce villifera as a synonym of accepted Euphorbia villifera, native in Texas.",
+    "range_guardrail": "Installed for active visual learning; broader exact-county reconciliation deferred."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Euphorbiaceae; Euphorbia section Anisophyllum (legacy Chamaesyce). Opposite asymmetric leaves, tiny cyathia rather than normal flowers, and dry 3-lobed capsules.",
+    "growth_form": "Annual or perennial herb with slender taproot or sometimes thickened woody rootstock; stems usually erect to ascending, rarely prostrate/decumbent, about 10–30 cm.",
+    "stems": "Papillate; usually villous but sometimes glabrous. Hair presence alone is therefore not absolute.",
+    "leaves": "Opposite; blades ovate, about 3–12 × 2–10 mm, base asymmetric and rounded to slightly cordate, margins entire or serrulate, surfaces usually villous but sometimes glabrous; leaf surfaces are papillate.",
+    "stipules": "Distinct, filiform, usually undivided, rarely split into 2–3 segments, about 0.3–0.7 mm; this differs strongly from the fused deltate stipule scale of E. serpens.",
+    "cyathium": "Cyathia solitary at distal nodes; 4 pink glands, oval/oblong/trapezoidal, with white-to-pink appendages.",
+    "fruit": "Capsule oblate-deltoid, about 1.5–2 × 2.1–3.1 mm, glabrous; cocci are often elongated and terminate in an empty distal portion.",
+    "seed": "Seeds gray-brown to red-brown, ovoid-oblong, weakly 4-angled, about 1–1.4 × 0.6–0.8 mm; smooth, faintly rugose, or with inconspicuous transverse ridges.",
+    "best_field_traits": [
+      "Usually upright/ascending branches, about 10–30 cm tall; rare prostrate plants possible. Distinctive relative to typical prostrate sandmat trio but not alone decisive.",
+      "Opposite ovate leaves about 3–12 mm long with asymmetric base, sometimes soft-hairy and sometimes essentially glabrous.",
+      "Stipules distinctly separate, narrow, FILIFORM and small (about 0.3–0.7 mm): inspect with loupe at BOTH sides of leaf node; existing closeup doesn't independently resolve them from hairs.",
+      "Leaf blades and stems PAPILLATE under magnification. Surface texture in photos is NOT proof of individual papillae.",
+      "Long soft VILLOUS hairs frequently present on foliage and stems but some forms can be glabrous; don't decide from hair density alone.",
+      "Small pink cyathial glands with white-pink appendages; capsule smooth/glabrous and approximately 1.5–2 by 2.1–3.1 mm.",
+      "Capsule lobes (cocci) may have elongated external ends enclosing an EMPTY DISTAL PORTION, needing sectioned/dissected fruit to verify.",
+      "Seeds about 1–1.4 mm, weakly four-angled, smooth/faintly rugose or weakly transversely ridged; never substitute the mixed seeds-on-palm photo as diagnostic seed evidence.",
+      "FNA places species in Texas Edwards Plateau and westward Trans-Pecos. Project Hays county target check still PROVISIONAL; not converted automatically to confirmed metrics."
+    ],
+    "comparison_training": "Against E. serpens: villifera is usually erect/ascending, has distinct filiform stipules and papillate surfaces; serpens is a glabrous prostrate mat that roots at nodes and has fused deltate stipule scales. Against E. prostrata: villifera has filiform stipules and glabrous capsules with often empty-tipped elongated cocci; prostrata does not root at nodes, has upper-free/lower-fused stipules, and has crisped-villous capsule keels.",
+    "field_photo_steps": [
+      "1. Photograph the ENTIRE plant showing upright/ascending habit with ground and ruler.",
+      "2. Photograph a complete pair of opposite mature leaves plus node with 1 mm scale.",
+      "3. Under 10×–20×, isolate at least TWO true separate threadlike stipules from hair strands at the node; photograph attachment.",
+      "4. Under strong side lighting, get a leaf-surface macro resolving individual papillate bumps versus long soft hairs.",
+      "5. Photograph intact GLABROUS three-lobed capsule and styles with 1 mm scale; do not call the empty distal tip proven.",
+      "6. If permitted, dissect an old mature capsule under loupe to show elongated lobe tip with empty inside, THEN photograph a true released seed.",
+      "7. Compare with E. serpens (fused broad stipule, smooth glabrous mat), E. prostrata (hairy capsule keels, strong seed ridges), E. maculata (hairs on fruit faces, shallow seed furrows)."
+    ],
+    "crew_script": "See how this spurge often grows UP and has leaf pairs? Now zoom into the node: villifera should have separate tiny THREADLIKE stipules, not a single fused triangular scale. Check the fruit: it should be smooth; in mature dissected capsules the lobes can extend past the seed cavity. Notice how hairy the leaves may be—but don't bet the ID on fuzz alone, because it can also grow smooth.",
+    "caution": "Euphorbia latex may irritate eyes/skin. Avoid breaking stems unnecessarily; fruit dissection only when a loose mature sample and safety protocols permit.",
+    "sources": [
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242321553",
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=318097",
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:348693-1"
+    ]
+  },
+  "curation_status": {
+    "version": "2.0-photo-first-anatomy-with-hard-micro-holds",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-20",
+    "photo_metadata_count": 9,
+    "photo_files_present": 9,
+    "visual_status": "Seven permitted learner gallery views (four CC BY-NC conditional); two already arrowed supporting structures; mandatory fine diagnostic microscopy still HOLD",
+    "annotated_real_photo_count": 2,
+    "verified_arrow_count": 6,
+    "finished_field_id_pass": "CREW_READY_SEVEN_GALLERY_VIEWS; FILIFORM_STIPULE_PAPILLA_EMPTY_COCCUS_AND_MATURE_SEED_MACROS_UNVERIFIED",
+    "required_to_finish": [
+      "Public licensed whole erect plant",
+      "Filiform stipules isolated from similar-looking hairs",
+      "Microscopic papillae proof",
+      "Dissected elongated empty coccus tip",
+      "True mature seed photo",
+      "County inclusion already PROVISIONAL; do not upgrade nativity"
+    ],
+    "public_site_policy_review": "2026-10-20 noncommercial-education image-by-image license eligibility update",
+    "public_eligible_photo_count": 7,
+    "university_reuse_unverified_photo_count": 2,
+    "noncommercial_only_photo_count": 4
+  },
+  "images": [
+    {
+      "file": "images/euphorbia-villifera-provisional-face.jpg",
+      "role": "Whole voucher / habit and reproductive reference",
+      "creator": "UT Plant Resources Center / University of Texas Herbarium",
+      "license": "reuse rights unverified",
+      "source_page": "https://w3.biosci.utexas.edu/prc/specimens/Euphorbiaceae.html",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/02-field-leaves-cyathia.jpg",
+      "role": "Field close-up / opposite leaves, stem, and cyathia",
+      "creator": "UT Austin BIO406D PlantPics",
+      "license": "reuse rights unverified",
+      "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/eup/Chamaesyce_villifera.htm",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-capsule-pointed-lobes.jpg",
+      "role": "Capsule close-up / glabrous fruit with elongated pointed lobes",
+      "caption": "Look at the smooth green capsule and its prolonged pointed lobes. This outside view supports capsule shape; an empty internal tip requires dissection and is not proved by this photograph.",
+      "platform": "iNaturalist",
+      "observation_id": 299725474,
+      "photo_id": 539996674,
+      "creator": "Nathan Taylor",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/299725474",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539996674/original.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "verification": {
+        "taxon": "Euphorbia villifera",
+        "quality_grade": "research",
+        "binary_decoded": true,
+        "dimensions": [
+          1200,
+          1600
+        ],
+        "git_blob_sha": "59ace273a1d45e1943041f8128efac47547432ae",
+        "visually_checked_on": "2026-10-08",
+        "limits": "Look at the smooth green capsule and its prolonged pointed lobes. This outside view supports capsule shape; an empty internal tip requires dissection and is not proved by this photograph."
+      },
+      "public_site_eligibility": {
+        "prior_status": "no under older strict CC-BY-only site staging",
+        "reviewed_at": "2026-10-20",
+        "scope": "stand-alone noncommercial educational GitHub Pages learner only",
+        "basis": "Individually recorded CC BY-NC 4.0 iNaturalist source and named photographer; current October 20 user-approved public-site policy permits NC with attribution; this does NOT imply commercial reuse.",
+        "retain_license_and_credit": true,
+        "display_mode": "unaltered gallery photograph with original source/photographer and license link; do not imply that close microanatomy is documented"
+      }
+    },
+    {
+      "file": "images/04-villous-leaf-hairs.jpg",
+      "role": "Leaf pubescence close-up / long soft hairs and smooth capsule",
+      "caption": "Long hairs are conspicuous on the leaves and stem; the capsule beside them is smooth. Hairiness supports identification but does not exclude sparsely hairy E. villifera.",
+      "platform": "iNaturalist",
+      "observation_id": 71492483,
+      "photo_id": 116407645,
+      "creator": "Matt Berger",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/71492483",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/116407645/original.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "verification": {
+        "taxon": "Euphorbia villifera",
+        "quality_grade": "research",
+        "binary_decoded": true,
+        "dimensions": [
+          1200,
+          1600
+        ],
+        "git_blob_sha": "6e2ea5935f0b98cb984a27ac55ca6d10881ec06f",
+        "visually_checked_on": "2026-10-08",
+        "limits": "Long hairs are conspicuous on the leaves and stem; the capsule beside them is smooth. Hairiness supports identification but does not exclude sparsely hairy E. villifera."
+      },
+      "anatomy_arrows": [
+        {
+          "label": "Long soft leaf hairs",
+          "target_fraction": [
+            0.31,
+            0.43
+          ]
+        },
+        {
+          "label": "Smooth-looking fruit exterior",
+          "target_fraction": [
+            0.56,
+            0.52
+          ]
+        },
+        {
+          "label": "Hairy lower leaf",
+          "target_fraction": [
+            0.6,
+            0.64
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-20 actual saved GitHub source JPEG visually inspected; only plainly visible soft hairs, node, developing fruit and styles marked; not papillae, true stipule identity or internal capsule tips."
+    },
+    {
+      "file": "images/05-sparse-hairs-leaf-surface.jpg",
+      "role": "Leaf surface close-up / sparsely hairy form and opposite asymmetric leaves",
+      "caption": "Compare this sparsely hairy Bandera plant with the hairy leaf view. Surface texture is visible, but this photograph is not a microscopic verification of individual papillae or stipules.",
+      "platform": "iNaturalist",
+      "observation_id": 177282948,
+      "photo_id": 308311927,
+      "creator": "Eric Keith",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/177282948",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/308311927/original.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "verification": {
+        "taxon": "Euphorbia villifera",
+        "quality_grade": "research",
+        "binary_decoded": true,
+        "dimensions": [
+          1600,
+          1600
+        ],
+        "git_blob_sha": "7e20e710b1a649ec81b659bcbc0c9ee4f87429a2",
+        "visually_checked_on": "2026-10-08",
+        "limits": "Compare this sparsely hairy Bandera plant with the hairy leaf view. Surface texture is visible, but this photograph is not a microscopic verification of individual papillae or stipules."
+      },
+      "public_site_eligibility": {
+        "prior_status": "no under older strict CC-BY-only site staging",
+        "reviewed_at": "2026-10-20",
+        "scope": "stand-alone noncommercial educational GitHub Pages learner only",
+        "basis": "Individually recorded CC BY-NC 4.0 iNaturalist source and named photographer; current October 20 user-approved public-site policy permits NC with attribution; this does NOT imply commercial reuse.",
+        "retain_license_and_credit": true,
+        "display_mode": "unaltered gallery photograph with original source/photographer and license link; do not imply that close microanatomy is documented"
+      }
+    },
+    {
+      "file": "images/06-separated-seeds-reference.jpg",
+      "role": "Separated fruit/seed material / reference",
+      "caption": "Separated reproductive material is shown on a palm. Individual pieces are not confidently assigned as seeds, capsule parts or seed coats; do not score mature seed surface, color or angularity from this photograph.",
+      "platform": "iNaturalist",
+      "observation_id": 8445680,
+      "photo_id": 11251968,
+      "creator": "Carlos Martorell",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/8445680",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/11251968/original.jpeg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "verification": {
+        "taxon": "Euphorbia villifera",
+        "quality_grade": "research",
+        "binary_decoded": true,
+        "dimensions": [
+          1600,
+          1100
+        ],
+        "git_blob_sha": "2c04d062a3e18d8b47bba9bf9320fcdc420c61ff",
+        "visually_checked_on": "2026-10-08",
+        "limits": "Separated reproductive material is shown on a palm. Individual pieces are not confidently assigned as seeds, capsule parts or seed coats; do not score mature seed surface, color or angularity from this photograph."
+      }
+    },
+    {
+      "file": "images/07-leaf-surface-node-detail.jpg",
+      "role": "Leaf surface and node close-up / fine texture in a sparsely hairy form",
+      "caption": "Look at the finely textured leaf blades and the leaf bases at the lower-right node. Small pale appendages are visible there, but cellular papilla anatomy and stipule-versus-hair identity are not resolved sufficiently to close the microscopic gaps.",
+      "platform": "iNaturalist",
+      "observation_id": 207499326,
+      "photo_id": 366994702,
+      "creator": "Russell Pfau",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/207499326",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/366994702/original.jpeg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "verification": {
+        "taxon": "Euphorbia villifera",
+        "quality_grade": "research",
+        "binary_decoded": true,
+        "dimensions": [
+          1600,
+          1600
+        ],
+        "git_blob_sha": "b2a59476a41421e374f4ef021c26e5a16c7532dd",
+        "visually_checked_on": "2026-10-08",
+        "limits": "Look at the finely textured leaf blades and the leaf bases at the lower-right node. Small pale appendages are visible there, but cellular papilla anatomy and stipule-versus-hair identity are not resolved sufficiently to close the microscopic gaps."
+      },
+      "public_site_eligibility": {
+        "prior_status": "no under older strict CC-BY-only site staging",
+        "reviewed_at": "2026-10-20",
+        "scope": "stand-alone noncommercial educational GitHub Pages learner only",
+        "basis": "Individually recorded CC BY-NC 4.0 iNaturalist source and named photographer; current October 20 user-approved public-site policy permits NC with attribution; this does NOT imply commercial reuse.",
+        "retain_license_and_credit": true,
+        "display_mode": "unaltered gallery photograph with original source/photographer and license link; do not imply that close microanatomy is documented"
+      }
+    },
+    {
+      "file": "images/08-node-leaf-attachments.jpg",
+      "role": "Node close-up / leaf attachments and narrow pale appendages",
+      "caption": "Look at the junction of the opposite leaf stalks with the red stem and the narrow pale appendages at the lower-left node. This is a node-location guide; do not treat every pale thread as a verified stipule. The smooth capsule is shown externally.",
+      "platform": "iNaturalist",
+      "observation_id": 207003160,
+      "photo_id": 366103689,
+      "creator": "Chet Burrier",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/207003160",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/366103689/original.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "verification": {
+        "taxon": "Euphorbia villifera",
+        "quality_grade": "research",
+        "binary_decoded": true,
+        "dimensions": [
+          1200,
+          1600
+        ],
+        "git_blob_sha": "b25b9ed024175932dbb7cdd977b5f87c92a39cd8",
+        "visually_checked_on": "2026-10-08",
+        "limits": "Look at the junction of the opposite leaf stalks with the red stem and the narrow pale appendages at the lower-left node. This is a node-location guide; do not treat every pale thread as a verified stipule. The smooth capsule is shown externally."
+      },
+      "anatomy_arrows": [
+        {
+          "label": "Leaf attachment node",
+          "target_fraction": [
+            0.67,
+            0.52
+          ]
+        },
+        {
+          "label": "Developing 3-lobed capsule",
+          "target_fraction": [
+            0.37,
+            0.41
+          ]
+        },
+        {
+          "label": "Branching styles above fruit",
+          "target_fraction": [
+            0.45,
+            0.47
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-20 actual saved GitHub source JPEG visually inspected; only plainly visible soft hairs, node, developing fruit and styles marked; not papillae, true stipule identity or internal capsule tips."
+    },
+    {
+      "file": "images/09-joey-cyathium-leaves.jpg",
+      "role": "Joey Santore close-up / cyathium, capsule and villous leaves",
+      "caption": "Look at the central cyathium above the smooth capsule, beside the long-haired leaves. This exact-species field photo complements the sparse-hair views; it does not resolve seeds, dissected capsule tips or individual stipules.",
+      "platform": "iNaturalist",
+      "observation_id": 110925004,
+      "photo_id": 187198351,
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/110925004",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/187198351/original.jpeg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "verification": {
+        "taxon": "Euphorbia villifera",
+        "quality_grade": "research",
+        "binary_decoded": true,
+        "dimensions": [
+          1600,
+          1067
+        ],
+        "git_blob_sha": "16bfe83836e6d68b2d69d75af0a8405d77789f57",
+        "visually_checked_on": "2026-10-08",
+        "limits": "Look at the central cyathium above the smooth capsule, beside the long-haired leaves. This exact-species field photo complements the sparse-hair views; it does not resolve seeds, dissected capsule tips or individual stipules."
+      },
+      "public_site_eligibility": {
+        "prior_status": "no under older strict CC-BY-only site staging",
+        "reviewed_at": "2026-10-20",
+        "scope": "stand-alone noncommercial educational GitHub Pages learner only",
+        "basis": "Individually recorded CC BY-NC 4.0 iNaturalist source and named photographer; current October 20 user-approved public-site policy permits NC with attribution; this does NOT imply commercial reuse.",
+        "retain_license_and_credit": true,
+        "display_mode": "unaltered gallery photograph with original source/photographer and license link; do not imply that close microanatomy is documented"
+      }
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "two_source_photo_arrow_views_plus_unassigned_reproductive_reference",
+    "image_count": 9,
+    "filled_at": "2026-10-08",
+    "note": "Seven locally saved gallery photographs have source-level licenses suitable for this specific noncommercial website, 2 university-rights-unverified research photos withheld. Only 2 CC BY images have verified arrows; a 3rd CC BY image of loose reproductive pieces must NOT be used to identify mature seeds. Four NC images add context, not proof of filiform stipules, papillae or an internally empty coccus.",
+    "annotated_photo_count": 2,
+    "verified_arrow_count": 6,
+    "public_site_eligible_image_count": 7,
+    "noncommercial_conditional_image_count": 4,
+    "public_site_scope": "noncommercial educational learner; 4 CC BY-NC images must be removed or re-permissioned if site use changes"
+  },
+  "photo_note": "Nine physically verified exact-species views with source credits and reuse metadata. Final licensed Research Grade iNaturalist search added node/leaf-surface and Joey Santore details; ambiguous separated reproductive material is explicitly labeled. Native-range and taxonomy metadata preserved.",
+  "comparisons": {
+    "confused_with": [
+      "Euphorbia serpens",
+      "Euphorbia prostrata",
+      "Euphorbia maculata",
+      "Euphorbia thymifolia",
+      "Euphorbia villifera var. nuda"
+    ],
+    "lookalike_matrix": [
+      {
+        "character": "Habit",
+        "Euphorbia villifera": "usually erect to ascending; rarely prostrate",
+        "Euphorbia prostrata": "prostrate to decumbent",
+        "Euphorbia serpens": "strictly prostrate, often rooting at nodes"
+      },
+      {
+        "character": "Node rooting",
+        "Euphorbia villifera": "usually erect/ascending; node-rooting is not the defining growth pattern",
+        "Euphorbia prostrata": "does not root at nodes",
+        "Euphorbia serpens": "frequently roots at nodes"
+      },
+      {
+        "character": "Stipule architecture",
+        "Euphorbia villifera": "distinct, filiform stipules",
+        "Euphorbia prostrata": "upper-side pair free; lower-side pair fused across node",
+        "Euphorbia serpens": "pairs connate into conspicuous broad-deltate membranous scales"
+      },
+      {
+        "character": "Hairiness",
+        "Euphorbia villifera": "usually villous, sometimes glabrous",
+        "Euphorbia prostrata": "crisped-villous, especially stems/abaxial leaves and fruit keels",
+        "Euphorbia serpens": "glabrous"
+      },
+      {
+        "character": "Stipules",
+        "Euphorbia villifera": "distinct, filiform",
+        "Euphorbia prostrata": "triangular-subulate; variably connate by stem side",
+        "Euphorbia serpens": "connate into a conspicuous deltate scale"
+      },
+      {
+        "character": "Leaf surface",
+        "Euphorbia villifera": "papillate",
+        "Euphorbia prostrata": "not the defining papillate condition",
+        "Euphorbia serpens": "glabrous, non-papillate"
+      },
+      {
+        "character": "Capsule",
+        "Euphorbia villifera": "glabrous; cocci often elongated with empty distal portion",
+        "Euphorbia prostrata": "hairy along keels/base",
+        "Euphorbia serpens": "glabrous, without villifera's elongated empty-tipped cocci"
+      },
+      {
+        "character": "Seed",
+        "Euphorbia villifera": "weakly 4-angled; smooth/faintly rugose",
+        "Euphorbia prostrata": "sharply 4-angled with strong transverse ridges",
+        "Euphorbia serpens": "small and smooth, bluntly 3–4 angled"
+      }
+    ],
+    "key_distinctions": "The combination is important: usually ascending/erect habit + distinctly separate filiform stipules + papillate blade surface + GLABROUS capsule with often elongated internally EMPTY distal coccus tips. Prostrata's capsule keels are HAIRY, maculata has hairs across fruit FACES; serpens fruit is also glabrous, so separate from serpens by fused broad stipules, rooting mat habit, and papillate villifera surfaces. Some villifera individuals are glabrous; never use leaf fuzz alone.",
+    "four_way_matrix": [
+      {
+        "character": "Typical architecture",
+        "villifera": "Usually ERECT/ASCENDING (some prostrate)",
+        "maculata": "Spreading prostrate mat",
+        "prostrata": "Flat prostrate mat",
+        "serpens": "Flat, often node-rooting mat"
+      },
+      {
+        "character": "Stipules at opposite leaf nodes",
+        "villifera": "Distinct, FILIFORM/threadlike, typically 0.3–0.7 mm",
+        "maculata": "Narrow separate pointed",
+        "prostrata": "Upper-side separate, lower-side fused",
+        "serpens": "Broad fused triangular scales"
+      },
+      {
+        "character": "Stem/leaf surfaces",
+        "villifera": "PAPILLATE; hairy usually, but glabrous plants exist",
+        "maculata": "Typically hairy",
+        "prostrata": "Often crisped-hairy",
+        "serpens": "Generally glabrous"
+      },
+      {
+        "character": "3-lobed capsule",
+        "villifera": "GLABROUS; elongated cocci with internally empty distal tips",
+        "maculata": "Fine appressed hair across fruit FACES",
+        "prostrata": "Hairs mainly along raised KEELS",
+        "serpens": "GLABROUS without empty coccus tips"
+      },
+      {
+        "character": "Seed sculpture",
+        "villifera": "Weakly 4-angled, smooth/slightly rugose or faint transverse ridges",
+        "maculata": "Low transverse ridges",
+        "prostrata": "STRONG transverse ridges",
+        "serpens": "Mostly smooth"
+      },
+      {
+        "character": "Photo confidence",
+        "villifera": "Hair, fruit exterior, node visible; fine stipules/papillae/internal coccus and seed still MISSING",
+        "maculata": "Face hairs and low-ridge seed photographed",
+        "prostrata": "Keel hairs and strong seed ridges photographed",
+        "serpens": "Fused stipule and smooth seed photographed"
+      }
+    ],
+    "group_fallback": "If the only photo is hairy foliage or a smooth capsule, keep Euphorbia sect. Anisophyllum sp. or E. villifera–serpens comparison until a true threadlike stipule/fruit-coccus microphoto is obtained."
+  },
+  "unreliable_characters": [
+    "hairiness by itself because glabrous forms occur",
+    "red stem color",
+    "small opposite leaves",
+    "dry limestone habitat by itself"
+  ],
+  "diagnostic_image_needs": [
+    "filiform stipule macro with threadlike stipules distinguishable from hairs",
+    "microscopic papillate leaf/stem surface view resolving individual papillae",
+    "sharp mature seed macro showing surface and angularity",
+    "dissected capsule showing empty distal portion of elongated cocci",
+    "matched sandmat trio habit comparison"
+  ],
+  "photo_research": {
+    "status": "SEARCH_PASS_CLOSED_DIAGNOSTIC_GAPS_RETAINED",
+    "installed_roles": [
+      "Whole voucher / habit and reproductive reference",
+      "Field close-up / opposite leaves, stem, and cyathia",
+      "Capsule close-up / glabrous fruit with elongated pointed lobes",
+      "Leaf pubescence close-up / long soft hairs and smooth capsule",
+      "Leaf surface close-up / sparsely hairy form and opposite asymmetric leaves",
+      "Separated fruit/seed material / reference",
+      "Leaf surface and node close-up / fine texture in a sparsely hairy form",
+      "Node close-up / leaf attachments and narrow pale appendages",
+      "Joey Santore close-up / cyathium, capsule and villous leaves"
+    ],
+    "next_priority": [
+      "filiform stipule macro with threadlike stipules distinguishable from hairs",
+      "microscopic papillate leaf/stem surface view resolving individual papillae",
+      "sharp mature seed macro showing surface and angularity",
+      "dissected capsule showing empty distal portion of elongated cocci",
+      "matched sandmat trio habit comparison"
+    ],
+    "updated_at": "2026-10-08",
+    "search_summary": "Fetched 403 licensed Research Grade E. villifera observations (1101 photo records); 1000 thumbnail binaries downloaded and screened in contact sheets, 101 downloads failed. Inspected selected originals and installed three complementary views. No verified mature-seed texture or dissected empty capsule-tip image found. Node appendages and leaf texture improve context without proving microscopic stipule/papilla anatomy.",
+    "completion_guardrail": "A closed photo-search pass is not complete microscopic diagnostic coverage."
+  },
+  "visual_comparison": {
+    "instance_id": "euphorbia-villifera-photo-first-20261020",
+    "title": "Hairy sandmat — upright habit, leaf hairs, and what to check at nodes",
+    "subtitle": "Two licensed exact-species public source photos with six checked arrows. Critical diagnostic structures (distinct stipules, individual papillae, empty capsule tips, fully mature seed) are NOT proven by these photos.",
+    "items": [
+      {
+        "label": "Hairy leaf faces and smooth-looking capsule",
+        "scientific_name": "Euphorbia villifera",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-villifera/images/04-villous-leaf-hairs.jpg",
+        "image_role": "Detailed verified exact-species image with dense soft villous hairs on leaves and a small colored external fruit",
+        "source_page": "https://www.inaturalist.org/observations/71492483",
+        "creator": "Matt Berger",
+        "license": "CC BY 4.0",
+        "image_fit": "contain",
+        "caption": "Long, soft hairs are plainly visible on the leaf edges and surfaces. A rounded reddish fruit or developed reproductive structure is visible near the center; the external surface looks smooth. This photo does NOT reveal the capsule's internal empty tip, a seed, or tiny cellular papillae.",
+        "why_it_matters": "Helps recognize the villous form and why hairs on leaves cannot by themselves separate species: E. villifera can also have sparse or absent hairs.",
+        "markers": [
+          {
+            "label": "Long soft leaf hairs",
+            "label_x": 4,
+            "label_y": 30,
+            "target_x": 31,
+            "target_y": 43
+          },
+          {
+            "label": "Smooth-looking fruit exterior",
+            "label_x": 62,
+            "label_y": 35,
+            "target_x": 56,
+            "target_y": 52
+          },
+          {
+            "label": "Hairy lower leaf",
+            "label_x": 64,
+            "label_y": 71,
+            "target_x": 60,
+            "target_y": 64
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 actual saved original photo inspected; no inferred internal capsule tip or stipule/hair identity"
+      },
+      {
+        "label": "Find the opposite leaf junction and separate fruit",
+        "scientific_name": "Euphorbia villifera",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-villifera/images/08-node-leaf-attachments.jpg",
+        "image_role": "Closeup source photograph of opposite foliage attaching to red stem and green developing capsule beside node",
+        "source_page": "https://www.inaturalist.org/observations/207003160",
+        "creator": "Chet Burrier",
+        "license": "CC BY 4.0",
+        "image_fit": "contain",
+        "caption": "The reddish main stem forks at a leaf junction. A developing green three-lobed capsule sits just LEFT of the upper node; its branching styles are visible at the tip. Fine whitish threads exist around the leaf base, but they are NOT resolved well enough to identify confidently as individual threadlike stipules.",
+        "why_it_matters": "Teaches where to aim a loupe at the leaf axil, separates fruit and leaves, and avoids pretending every white hair is a stipule.",
+        "markers": [
+          {
+            "label": "Leaf attachment node",
+            "label_x": 71,
+            "label_y": 64,
+            "target_x": 67,
+            "target_y": 52
+          },
+          {
+            "label": "Developing 3-lobed capsule",
+            "label_x": 5,
+            "label_y": 30,
+            "target_x": 37,
+            "target_y": 41
+          },
+          {
+            "label": "Branching styles above fruit",
+            "label_x": 16,
+            "label_y": 75,
+            "target_x": 45,
+            "target_y": 47
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 actual saved original photo inspected; no inferred internal capsule tip or stipule/hair identity"
+      }
+    ],
+    "overlay_note": "Photographers Matt Berger and Chet Burrier, iNaturalist, each CC BY 4.0. Original images remain intact; only on-screen learner arrows are added. The UT Austin rights-unverified views and four CC BY-NC study photos are omitted from strict public presentation."
+  },
+  "field_photo_quickcheck": {
+    "heading": "Villifera: find the NODE and check the GLABROUS capsule",
+    "featured_photo_indices": [
+      0,
+      1
+    ],
+    "steps": [
+      "Find a hairy leaf and smooth-looking rounded fruit; remember hair density ALONE is unreliable.",
+      "Look at the red stem NODE where opposite leaves meet and a green capsule with projecting styles occurs.",
+      "Use the microscope or hand lens to resolve TWO distinct THREADLIKE stipules (this is still a missing photograph).",
+      "Inspect papillate leaf texture and dissected elongated empty distal capsule tip where available; otherwise preserve uncertain identification."
+    ],
+    "field_rule": "Usually ascending + separate threadlike stipules + papillate blades + glabrous capsule with prolonged empty-tipped cocci = E. villifera. Photos currently prove only coarser supportive structures.",
+    "warning": "Do not confuse pink/white styles with threadlike stipules or leaf hairs with stipules. Do not label unverified tiny surface texture as papillae, external pointed lobes as internally hollow, or loose mixed material as identified mature seeds. Photo count does not equal proof.",
+    "training_gallery_order": [
+      "08: Find opposite leaf junction, developing capsule and styles (3 verified arrows)",
+      "04: See long soft leaf hairs and apparently smooth fruit exterior (3 verified arrows)",
+      "03: Examine outer prolonged-looking capsule lobes only; EMPTY interior unverified (CC BY-NC gallery)",
+      "05: Compare sparsely hairy leaf form; do not reject villifera just for weak fuzz (CC BY-NC gallery)",
+      "07: Find leaf surfaces and pale threads near node; micro papillate cells and filiform stipules NOT resolved (CC BY-NC gallery)",
+      "09: See cyathium and hairy foliage; fruit/seed micromorphology not resolved (CC BY-NC gallery)",
+      "06: Loose pieces on palm are NOT proven seeds; do not use for mature seed ID"
+    ]
+  },
+  "diagnostic_photo_requirements": [
+    {
+      "role": "Whole plant erect/ascending habit from Hays or adjacent target county",
+      "status": "NEEDED_PUBLIC_LICENSED_WHOLE_PLANT"
+    },
+    {
+      "role": "Distinct filiform stipule and insertion at node",
+      "status": "CRITICAL_NOT_RESOLVED_FROM_VISIBLE_NODE_PHOTO"
+    },
+    {
+      "role": "Microscope image of true leaf papillae",
+      "status": "CRITICAL_PHOTO_GAP"
+    },
+    {
+      "role": "Glabrous true three-lobed capsule exterior",
+      "status": "PARTIAL_VISIBLE; NO DIAGNOSTIC SECTION"
+    },
+    {
+      "role": "Sectioned mature capsule empty distal lobe tip",
+      "status": "CRITICAL_PHOTO_GAP"
+    },
+    {
+      "role": "True released seeds 1–1.4 mm, texture documented",
+      "status": "CRITICAL_PHOTO_GAP; PALM PHOTO MIXED/AMBIGUOUS"
+    }
+  ],
+  "field_id_finalization": {
+    "review_date": "2026-10-20",
+    "stage": "PASS_IN_PROGRESS",
+    "field_training_status": "CREW_READY_SUPPORTING_STRUCTURES_ONLY; SPECIES_DIAGNOSTIC_MACRO_HOLD",
+    "real_source_photos_annotated": 2,
+    "verified_anatomy_arrows": 6,
+    "public_source_photos_unannotated": 1,
+    "photo_review": "Two CC BY original source photos retain six visually audited anatomy arrows (leaf hairs, node, developing capsule and styles). Four research-reviewed CC BY-NC photos add useful unannotated views of smooth exterior capsule tips, sparse leaf hairs, node texture and cyathia. A non-diagnostic loose-reproductive-parts image remains clearly warned against. True filiform stipules, epidermal papillae, dissected empty coccus tips and mature seed sculpture still lack verified diagnostic photo proof.",
+    "photo_rights": "Seven existing exact-species photos now public-eligible under the October 20 NONCOMMERCIAL educational site policy: three CC BY and four creator-credited CC BY-NC 4.0; two university images remain RIGHTS-UNVERIFIED and excluded. Image licenses and photographers unchanged. The four newly eligible NC photos are gallery-only without invented arrows. This policy is conditional; review again before any commercial use.",
+    "remaining": [
+      "Find real public-safe field habit photo (not herbarium-only)",
+      "Identify individual filiform stipules from hairs at a photographed node with scale",
+      "Public rights-safe leaf papilla macro",
+      "Dissected capsule tip proving empty elongated coccus",
+      "Authentic mature seed macro with ruler",
+      "Preserve county range PROVISIONAL + native_metrics_excluded"
+    ],
+    "public_educational_gallery_ready": true,
+    "photo_evidence_levels": {
+      "directly_arrowed": "Leaf hairiness, leaf attachment node, external developing capsule and branching styles (2 photos, 6 arrows)",
+      "additional_context_only": "External pointed capsule lobes, hairy versus sparse forms, unresolved node texture, close-up cyathium (4 NC gallery photos, NO decisive microscopic arrows)",
+      "excluded_from_diagnosis": "Unassigned loose reproductive material may be fruit fragments, not confirmed seeds; do not diagnose seed traits",
+      "unresolved_critical": "Threadlike 0.3–0.7 mm stipules separated from hairs; individual papillate cells; dissection showing internally empty coccus ends; verified mature seed macro; living entire plant habit"
+    }
+  },
+  "curated_sources": [
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242321553",
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=318097",
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:348693-1"
+  ]
+}

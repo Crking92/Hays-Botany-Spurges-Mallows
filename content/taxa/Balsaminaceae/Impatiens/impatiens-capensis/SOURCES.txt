@@ -1,0 +1,9 @@
+Source pool Phase3 (source rows 577); preflight still subject to independent accepted-taxonomy review.
+Taxon: Impatiens capensis
+Kew taxonomy search: https://powo.science.kew.org/results?q=Impatiens%20capensis
+Exact species Commons image page: https://commons.wikimedia.org/wiki/File:Impatiens_capensis.jpg
+Original/Commons bounded download: https://upload.wikimedia.org/wikipedia/commons/b/b0/Impatiens_capensis.jpg
+Photographer: Robert H. Mohlenbrock / USDA-NRCS PLANTS
+License: Public domain (US federal government)
+Image role: Provisional floral recognition: pendant orange spur flower; fruit not photographed.
+Do not claim image proves Hays occurrence or complete anatomical diagnosis. Source image may depict a cultivated or out-of-region specimen. This initial learner card remains provisional.

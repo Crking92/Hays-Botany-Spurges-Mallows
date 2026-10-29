@@ -1,0 +1,100 @@
+{
+  "id": "callirhoe-involucrata",
+  "entry_type": "species",
+  "family": "Malvaceae",
+  "genus": "Callirhoe",
+  "species": "involucrata",
+  "scientific_name": "Callirhoe involucrata",
+  "authority": "(Torr. & A.Gray) A.Gray",
+  "common_name": "Winecup",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO. Multiple varieties are recognized in regional treatments; the learner remains species-level and does not assign a variety from flower color alone.",
+  "look_here_first": "Check growth habit and the structures immediately below the calyx. Winecup is a perennial with low trailing/decumbent stems and an involucel of 3 bractlets beneath the flower. The calyx lobes are already divergent in bud rather than meeting to form a pointed bud.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Tom Green",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Travis County — UT Plant Resources Center and COLO herbarium records document Callirhoe involucrata. Tom Green County — COLO herbarium has a non-cultivated Texas specimen explicitly from Tom Green County. Williamson County — UT Plant Resources Center provides field-based treatments for C. involucrata var. involucrata and var. lineariloba.",
+    "range_guardrail": "Cultivated winecups are common. The user's current iNaturalist records are cultivated and are not used for native-county proof."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial taprooted herb, often several-stemmed",
+      "stems decumbent/trailing to weakly erect, generally much lower than tall poppymallow",
+      "leaves alternate, roundish in outline and deeply 3–5(–7)-lobed",
+      "foliage hairy with stellate and simple hairs",
+      "three involucellar/epicalyx bractlets immediately below calyx",
+      "calyx lobes divergent in bud, not forming an apiculate point",
+      "flowers cup-shaped; petal color variable and secondary for ID",
+      "schizocarp with 10–28 indehiscent mericarps; beaks not strongly prominent"
+    ],
+    "comparison_training": "Callirhoe leiocarpa: C. leiocarpa is annual/biennial and tall/erect, lacks involucellar bractlets, has calyx lobes meeting into a pointed bud, and has glabrous dehiscent mericarps with prominent beaks. Callirhoe pedata: C. pedata is an erect/ascending perennial and lacks the low trailing winecup habit; fruit and leaf architecture should be checked when flowers are absent. Callirhoe scabriuscula: Texas poppy-mallow is stiffly erect, densely stellate-hairy and taller; winecup is low/trailing and has different hair/habit characters."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Callirhoe leiocarpa",
+      "Callirhoe pedata",
+      "Callirhoe scabriuscula"
+    ],
+    "key_distinctions": "C. leiocarpa is annual/biennial and tall/erect, lacks involucellar bractlets, has calyx lobes meeting into a pointed bud, and has glabrous dehiscent mericarps with prominent beaks. C. pedata is an erect/ascending perennial and lacks the low trailing winecup habit; fruit and leaf architecture should be checked when flowers are absent. Texas poppy-mallow is stiffly erect, densely stellate-hairy and taller; winecup is low/trailing and has different hair/habit characters."
+  },
+  "tags": [
+    "Malvaceae",
+    "Callirhoe",
+    "Winecup",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-bulk-approved-2026-10-03",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-04",
+    "photo_reviewed": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "photo_note": "Visual-lock pass 2026-10-04: real diagnostic photos wired into images[]; provenance and study/public reuse status preserved.",
+  "images": [
+    {
+      "file": "images/01-flower.jpg",
+      "role": "Flower front / magenta petals and pale center",
+      "creator": "Clinton & Charles Robertson",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Purple_Poppymallow_(Callirhoe_involucrata)_(129866999).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-spreading-habit.jpg",
+      "role": "Flowering patch / lobed foliage and developing fruits",
+      "creator": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Callirhoe_involucrata_group.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/03-foliage-fruit.jpg",
+      "role": "Lobed foliage and fruiting stems",
+      "creator": "Nadiatalent",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Callirhoe_involucrata_plants_with_fruit.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "note": "Three licensed physical exact-species photos: flower front, flowering foliage/fruit patch, lobed foliage and fruiting stems. Scientific PASS unchanged. Full spreading habit and detailed fruit macros remain follow-up."
+  }
+}

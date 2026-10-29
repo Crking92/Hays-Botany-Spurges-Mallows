@@ -1,0 +1,544 @@
+{
+  "id": "euphorbia-dentata",
+  "entry_type": "species",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "species": "dentata",
+  "scientific_name": "Euphorbia dentata",
+  "authority": "Michx.",
+  "common_name": "Toothed spurge",
+  "synonyms": [
+    "Poinsettia dentata"
+  ],
+  "taxonomic_note": "Accepted by current Kew/POWO and Flora of North America. Poinsettia dentata is retained as a synonym. This species belongs to the difficult E. dentata group and should be compared directly with E. davidii.",
+  "look_here_first": "LOOK AT THE LEAF UNDERSIDE, THEN COLLECT THE MATURE SEED IF YOU NEED TO SEPARATE THIS FROM E. davidii. Both are upright annual spurges with coarsely toothed opposite (sometimes upper alternate) leaves, inconspicuous green CYATHIA, and developing three-lobed capsules. E. dentata tends toward LONG, SOFT THREADLIKE hairs beneath the leaves, smaller capsules (3.5–4 mm wide), and smaller SEEDS ROUNDED IN CROSS SECTION with an even cover of minute bumps. E. davidii tends to have SHORT, STIFF, TAPERED hairs, larger capsules (4–4.8 mm), and ANGULAR more irregularly tuberculate seeds. Color, leaf teeth, reddish spots or branch habit alone DO NOT confirm this species. If neither hairs nor seeds are clear, label E. dentata–davidii group or Euphorbia sp.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Bexar",
+    "Burnet"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "BONAP/NPSOT-backed county distribution locks Hays, Bexar, and Burnet; additional target-zone records occur in Edwards, Gillespie, Kerr, Kimble, Llano, Real, Schleicher, Sutton, Travis, and Uvalde.",
+    "range_guardrail": "County PASS is based on explicit county distribution evidence, not statewide native status alone."
+  },
+  "morphology_keys": {
+    "family_pattern": "Euphorbia sect. Poinsettia: annual with milky latex and cyathia; in the dentata group, leaf-hair texture, capsule size, and especially mature seed morphology carry the identification.",
+    "growth_form": "Annual taprooted herb; stems erect or ascending, usually about 15–60 cm.",
+    "leaves": "Usually opposite; blades about 30–70 × 4–35 mm, narrowly lanceolate to suborbiculate, often broadest below the middle, with coarse crenate-dentate to doubly crenate margins.",
+    "hairs": "Abaxial leaf surface long-pilose with weak, filiform hairs; adaxial surface sparsely pilose to nearly glabrous. This softer/longer hair texture is useful against E. davidii.",
+    "cyathium": "Usually (1–)2 green glands, sessile and broadly attached; openings oblong; appendages absent.",
+    "fruit": "Capsules depressed-globose, about 2.5–2.8 × 3.5–4 mm, 3-lobed and glabrous.",
+    "seed": "Seeds pale gray to black, ovoid and rounded in cross section, about 2.1–2.7 × 1.7–2.1 mm, with evenly distributed minute tubercles; caruncle about 0.4–0.6 mm.",
+    "best_field_traits": [
+      "Annual usually 15–60 cm, upright to ascending branched taprooted herb (supporting habit only).",
+      "Leaves typically OPPOSITE on many nodes; sometimes upper leaves alternate; blades variable, often 30–70 mm long.",
+      "Broad coarse crenate-dentate to double-crenate leaf edges, not a species-only trait.",
+      "Upper reproductive nodes can have several tiny green cyathia and developing green THREE-LOBED CAPSULES.",
+      "Under mature leaf: long WEAK, THREADLIKE hairs (abaxial) in E. dentata; compare shorter stiff strongly tapered hairs in E. davidii.",
+      "Mature capsule typically glabrous, about 2.5–2.8 mm tall and 3.5–4 mm WIDE. Measure actual width, don't guess from screen size.",
+      "Mature seed about 2.1–2.7 × 1.7–2.1 mm; OVOID ROUNDED cross section, finely and evenly covered with minute bumps (best tie-breaker).",
+      "Poinsettia dentata is a synonym, not a distinct native taxon or horticultural selection."
+    ],
+    "comparison_training": "E. dentata = softer/longer abaxial hairs + smaller capsule + smaller rounded, evenly pebbled seed. E. davidii = shorter stiffer hairs, often pustule-based + larger capsule + larger angular, irregularly tuberculate seed.",
+    "family_genus": "Euphorbiaceae; Euphorbia sect. Poinsettia. A cyathium is a tiny cup containing one reduced female flower and numerous separate reduced male flowers; green cup-like glands are NOT petals. Fruit is a three-lobed dry capsule with seeds inside.",
+    "field_id_steps": [
+      "1. Full plant side photo: upright annual with several branched terminal reproductive heads.",
+      "2. Leaf arrangement at one mature node: photograph both opposite petioles, toothed margins, and any alternate upper leaves.",
+      "3. Turn a fully mature undamaged leaf over (do NOT rely on upper-surface hairs). Macro the LOWER surface with a 1 mm reference.",
+      "4. Locate the tiny cyathia and 3-lobed capsules; label them correctly rather than calling green fruit a flower.",
+      "5. Photograph a fully mature intact capsule at 1 mm scale, then photograph the released seed from TWO sides under 10–20× magnification.",
+      "6. Confirm ROUNDED seed cross section and EVENLY minute-tuberculate surface before separating E. dentata from E. davidii.",
+      "7. When only coarsely toothed leaves and green capsules are photographed, retain E. dentata–davidii GROUP, not a confident species ID."
+    ],
+    "what_not_to_trust": [
+      "red-purple blotch on leaf",
+      "erect habit alone",
+      "coarse leaf teeth alone",
+      "green three-lobed capsules alone",
+      "height and disturbed-roadside ecology alone",
+      "flower/cyathium without underside hairs and mature seed"
+    ],
+    "ecology_and_management": "Native within the project's Hays target range and occurs on disturbed open ground, prairies, road margins and streamside openings. Disturbance is not proof the plant is introduced; avoid pulling by default when restoration objectives include local annual-forb diversity. Latex can irritate eyes/skin: use gloves and avoid intentionally rupturing plants to train workers.",
+    "crew_field_script": "See those opposite toothed leaves and green little three-lobed fruits? You've got a toothed-spurge GROUP. Flip one mature leaf over and look at hairs under a loupe. Long floppy threads point to dentata; short stiff tapering hairs to davidii. For a confident answer, check a 2–3 mm ripe seed: rounded/evenly pebbled versus angular/irregular bumps. No seed or hair? Euphorbia dentata–davidii group is a perfectly good field call."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Euphorbia davidii",
+      "Euphorbia cyathophora",
+      "Euphorbia heterophylla",
+      "Euphorbia bicolor",
+      "Euphorbia marginata"
+    ],
+    "lookalike_matrix": [
+      {
+        "character": "Abaxial leaf hairs",
+        "Euphorbia dentata": "longer, weak, filiform",
+        "Euphorbia davidii": "shorter, stiffer, strongly tapered; often on minute pustular bases"
+      },
+      {
+        "character": "Capsule",
+        "Euphorbia dentata": "2.5–2.8 × 3.5–4 mm",
+        "Euphorbia davidii": "2.9–3.3 × 4–4.8 mm"
+      },
+      {
+        "character": "Seed size",
+        "Euphorbia dentata": "2.1–2.7 × 1.7–2.1 mm",
+        "Euphorbia davidii": "2.4–2.9 × 2.2–2.9 mm"
+      },
+      {
+        "character": "Seed cross section",
+        "Euphorbia dentata": "rounded",
+        "Euphorbia davidii": "angular"
+      },
+      {
+        "character": "Seed sculpture",
+        "Euphorbia dentata": "evenly minute-tuberculate",
+        "Euphorbia davidii": "low tubercles irregularly arranged or in faint transverse rows"
+      },
+      {
+        "character": "Leaf shape",
+        "Euphorbia dentata": "often less elliptic",
+        "Euphorbia davidii": "often more elliptic",
+        "reliability": "supporting only; overlap is substantial"
+      }
+    ],
+    "key_distinctions": "E. davidii is the primary look-alike. Distinguish by abaxial leaf hair type and seed sculpture/cross section, not leaf silhouette or color. E. cyathophora and E. heterophylla may resemble upright toothed spurges but their distinctive distal bracts and gland configuration belong to different morphological groupings.",
+    "crew_comparison_matrix": [
+      {
+        "taxon": "Euphorbia dentata",
+        "role": "TARGET native Hays-supported",
+        "leaf": "Opposite toothed, shape variable",
+        "under_leaf": "Long weak filiform hairs",
+        "capsule": "3.5–4 mm across; usually smooth",
+        "mature_seed": "~2.1–2.7 × 1.7–2.1 mm; rounded/finely evenly tuberculate",
+        "field_call": "Strong if soft hairs and even small seed bumps actually seen."
+      },
+      {
+        "taxon": "Euphorbia davidii",
+        "role": "CLOSEST LOOK-ALIKE; native-range exception in learner unresolved",
+        "leaf": "Opposite toothed, often more elliptic but overlaps",
+        "under_leaf": "Stiff short strongly tapered hairs; sometimes minute pustular hair bases",
+        "capsule": "4–4.8 mm across; usually smooth",
+        "mature_seed": "~2.4–2.9 × 2.2–2.9 mm; more angular, coarser uneven bumps",
+        "field_call": "Without microscopic details label dentata/davidii group."
+      },
+      {
+        "taxon": "Euphorbia cyathophora",
+        "role": "Potential upright green/pink-bracted look-alike",
+        "leaf": "Highly variable; green leaves with red/pink/white bract bases often",
+        "under_leaf": "Not the pair's primary diagnostic",
+        "capsule": "3-lobed",
+        "mature_seed": "Do not use dentata/davidii seed rule alone",
+        "field_call": "Check distal bract color pattern plus sessile/rimless oblong cyathial gland."
+      },
+      {
+        "taxon": "Euphorbia heterophylla",
+        "role": "Potential upright green/pale-bracted look-alike; learner comparison label",
+        "leaf": "Very variable, often pointed or irregularly lobed",
+        "under_leaf": "Not the pair's primary diagnostic",
+        "capsule": "3-lobed",
+        "mature_seed": "Not same seed diagnostic pair",
+        "field_call": "Glandular opening with distinct annular rim is key."
+      },
+      {
+        "taxon": "Euphorbia bicolor / E. marginata",
+        "role": "White bract group, easy when showy",
+        "leaf": "Showy upper white-margined bracts; narrow/broad split",
+        "under_leaf": "Upper-bract surface matters",
+        "capsule": "3-lobed",
+        "mature_seed": "Not this pair's first test",
+        "field_call": "Distinct white-bracted group, not green dentata/davidii."
+      }
+    ],
+    "uncertainty_guardrail": "Two named species can look the same in an iNaturalist photo. Don't force a species ID for a crew member without hair or ripe seed evidence; historic dentata reports may include davidii and vice versa."
+  },
+  "tags": [
+    "Euphorbiaceae",
+    "Euphorbia",
+    "Toothed spurge",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "2.0-annotated-photo-first-crew-field-id",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-20",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "visual_status": "detailed-first-pass",
+    "field_id_text_reviewed": true,
+    "finished_field_id_pass": "PASS_IN_PROGRESS",
+    "annotated_real_photo_count": 3,
+    "verified_source_photo_arrows": 6,
+    "lookalike_photo_comparison_count": 1,
+    "lookalike_photo_arrows": 2,
+    "required_to_finish": [
+      "Obtain genuinely public-reusable calibrated two-sided mature seed photograph of dentata and davidii",
+      "Obtain public-reusable close-up of underside leaf hairs for both species",
+      "Validate existing nonpublic S.R. Turner photo records do not appear as freely reusable/public licensed gallery images",
+      "Review on live GitHub Pages after build; retain Hays PASS and davidii conflict without inferring nativity"
+    ]
+  },
+  "photo_note": "Detailed first-pass gallery now uses three explicit CC BY-SA exact-species images for plant, leaves, and flower/fruit. Abaxial-hair and seed macros remain the most important unresolved visual targets. Polish pass adds a matched private-study abaxial-hair macro and mature-seed macro from the same photographer/source as its paired comparison species.",
+  "images": [
+    {
+      "file": "images/01-flower-fruit.webp",
+      "role": "Look closer · upper leaves with toothed edges around green developing three-lobed capsules and tiny flower structures",
+      "creator": "Max Licher / swbiodiversity.org",
+      "license": "CC BY-SA",
+      "source_page": "https://yavapaiplants.extension.arizona.edu/euphorbia-dentata",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "anatomy_arrows": [
+        {
+          "label": "Developing 3-lobed capsule",
+          "target_fraction": [
+            0.4,
+            0.52
+          ]
+        },
+        {
+          "label": "Another green capsule",
+          "target_fraction": [
+            0.6,
+            0.51
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-20: exact canonical WebP real-pixel visual inspection completed. Arrow endpoints correspond only to plainly visible terminal group, branching stem, leaf margin, or developing green capsule. Seed and hairs NOT labeled.",
+      "diagnostic_roles": [
+        "Green developing three-lobed capsules clustered among leaves and inconspicuous reproductive cups"
+      ],
+      "photo_review": "Exact source/photographer per original Arizona extension Yavapai page; anatomical arrow map inspected against this locally stored WebP."
+    },
+    {
+      "file": "images/02-leaves.webp",
+      "role": "Look closer · green leaves with coarsely toothed margins and clustered tiny green reproductive structures",
+      "creator": "Max Licher / swbiodiversity.org",
+      "license": "CC BY-SA",
+      "source_page": "https://yavapaiplants.extension.arizona.edu/euphorbia-dentata",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "anatomy_arrows": [
+        {
+          "label": "Coarsely toothed leaf edge",
+          "target_fraction": [
+            0.76,
+            0.44
+          ]
+        },
+        {
+          "label": "Young reproductive cluster",
+          "target_fraction": [
+            0.5,
+            0.47
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-20: exact canonical WebP real-pixel visual inspection completed. Arrow endpoints correspond only to plainly visible terminal group, branching stem, leaf margin, or developing green capsule. Seed and hairs NOT labeled.",
+      "diagnostic_roles": [
+        "Simple leaves showing unequal broad marginal teeth and opposite/near-opposite upper-node context"
+      ],
+      "photo_review": "Exact source/photographer per original Arizona extension Yavapai page; anatomical arrow map inspected against this locally stored WebP."
+    },
+    {
+      "file": "images/03-whole-plant.webp",
+      "role": "Recognize · branching upright weedy plant with green leaves and multiple flowering shoots",
+      "creator": "Liz Makings / swbiodiversity.org",
+      "license": "CC BY-SA",
+      "source_page": "https://yavapaiplants.extension.arizona.edu/euphorbia-dentata",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "anatomy_arrows": [
+        {
+          "label": "Terminal reproductive cluster",
+          "target_fraction": [
+            0.38,
+            0.22
+          ]
+        },
+        {
+          "label": "Upright branching stems",
+          "target_fraction": [
+            0.37,
+            0.64
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-20: exact canonical WebP real-pixel visual inspection completed. Arrow endpoints correspond only to plainly visible terminal group, branching stem, leaf margin, or developing green capsule. Seed and hairs NOT labeled.",
+      "diagnostic_roles": [
+        "Whole plant with upright ascending branching stems and many compact reproductive clusters"
+      ],
+      "photo_review": "Exact source/photographer per original Arizona extension Yavapai page; anatomical arrow map inspected against this locally stored WebP."
+    },
+    {
+      "file": "images/04-abaxial-hairs-private-study.jpg",
+      "role": "Confirm clue · sparse long slender hairs visible on underside of toothed leaf; image private-study only, public rights not cleared",
+      "creator": "S.R. Turner",
+      "license": "copyrighted / public reuse not granted",
+      "source_page": "https://www.missouriplants.com/Euphorbia_dentata_page.html",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/05-fruit-seeds-private-study.jpg",
+      "role": "Look closer · green three-lobed developing capsules beside dark pebbly-surfaced seeds; image private-study only, public rights not cleared",
+      "creator": "S.R. Turner",
+      "license": "copyrighted / public reuse not granted",
+      "source_page": "https://www.missouriplants.com/Euphorbia_dentata_page.html",
+      "study_use": "yes",
+      "public_reuse": "review"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "three_public_safe_dentata_photos_annotated_plus_one_davidii_comparison",
+    "image_count": 5,
+    "filled_at": "2026-10-07",
+    "note": "Detailed source-photo-verified recognition and lookalike photos are installed. Microscopic species-diagnostic seed/abaxial hair evidence unavailable on public-reusable displayed photos. The two separate restricted study images retain original rights metadata and are not used in annotated field lesson.",
+    "public_annotated_photos": 3,
+    "verified_annotation_arrows": 6,
+    "lookalike_compare_photos": 1
+  },
+  "unreliable_characters": [
+    "overall habit by itself",
+    "leaf shape by itself",
+    "presence of toothed margins",
+    "reddish leaf blotches",
+    "disturbed habitat"
+  ],
+  "diagnostic_image_needs": [
+    "whole plant",
+    "leaf close-up showing toothed margin",
+    "flower/fruit close-up",
+    "abaxial leaf-hair macro",
+    "mature capsule with scale",
+    "mature seed macro with scale",
+    "matched seed comparison with E. davidii"
+  ],
+  "photo_research": {
+    "status": "FIELD_ID_WITH_VERIFIED_ANNOTATIONS_AND_MACRO_HOLDS",
+    "installed_roles": [
+      "whole plant",
+      "leaves",
+      "flower and fruit"
+    ],
+    "next_priority": [
+      "replace private-study macros with equivalent openly reusable macros if found",
+      "matched scale-bar seed plate"
+    ],
+    "matched_pair": "Euphorbia dentata vs Euphorbia davidii",
+    "polish_installed_roles": [
+      "abaxial leaf-hair macro",
+      "mature seed macro"
+    ],
+    "open_photo_sources": [
+      {
+        "role": "potential dentata seed photograph, verify actual seed surface before installing",
+        "url": "https://www.weedimages.org/browse/detail.cfm?imgnum=5438486",
+        "author": "Bruce Ackley, Ohio State University / Bugwood",
+        "license_note": "Page says CC BY 3.0 but agency may impose additional reuse restrictions; resolve exact allowed public context and image anatomy before importing"
+      }
+    ],
+    "unresolved_precise_species_identification": "Lack of visible mature seed/underside hair evidence in current public-ready photographs"
+  },
+  "visual_comparison": {
+    "instance_id": "euphorbia-dentata-verified-20261020",
+    "title": "Toothed spurge — read the leaf, fruit and look-alike correctly",
+    "subtitle": "Three inspected exact-species reusable images plus an openly licensed E. davidii comparison. Arrow positions checked against these original saved photographs. No arrow invents a ripe seed or abaxial hair macro.",
+    "items": [
+      {
+        "label": "Recognize the annual, branching growth form",
+        "scientific_name": "Euphorbia dentata",
+        "image_role": "Whole plant with upright ascending branching stems and many compact reproductive clusters",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-dentata/images/03-whole-plant.webp",
+        "source_page": "https://yavapaiplants.extension.arizona.edu/euphorbia-dentata",
+        "creator": "Liz Makings / swbiodiversity.org",
+        "license": "CC BY-SA",
+        "image_fit": "contain",
+        "caption": "One toothed-spurge plant has multiple upright/ascending stems and separate terminal flowering/fruiting clusters, visible across the plant. This photo establishes habit, NOT the distinction from David's spurge.",
+        "why_it_matters": "Start with overall architecture before switching to leaf pairs and tiny reproductive structures.",
+        "markers": [
+          {
+            "label": "Terminal reproductive cluster",
+            "label_x": 3,
+            "label_y": 7,
+            "target_x": 38,
+            "target_y": 22
+          },
+          {
+            "label": "Upright branching stems",
+            "label_x": 65,
+            "label_y": 78,
+            "target_x": 37,
+            "target_y": 64
+          }
+        ]
+      },
+      {
+        "label": "Look closer: coarsely toothed leaves",
+        "scientific_name": "Euphorbia dentata",
+        "image_role": "Simple leaves showing unequal broad marginal teeth and opposite/near-opposite upper-node context",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-dentata/images/02-leaves.webp",
+        "source_page": "https://yavapaiplants.extension.arizona.edu/euphorbia-dentata",
+        "creator": "Max Licher / swbiodiversity.org",
+        "license": "CC BY-SA",
+        "image_fit": "contain",
+        "caption": "The green mid-stem leaf has obvious broad teeth along its outer edge; nearby leaves and tiny floral structures cluster at the upper node. Leaf teeth support E. dentata-group recognition but cannot separate E. dentata from E. davidii.",
+        "why_it_matters": "A crew member can identify the right plant GROUP from foliage, then knows to turn a leaf over for hairs rather than deciding prematurely.",
+        "markers": [
+          {
+            "label": "Coarsely toothed leaf edge",
+            "label_x": 63,
+            "label_y": 13,
+            "target_x": 76,
+            "target_y": 44
+          },
+          {
+            "label": "Young reproductive cluster",
+            "label_x": 7,
+            "label_y": 81,
+            "target_x": 50,
+            "target_y": 47
+          }
+        ]
+      },
+      {
+        "label": "Confirm the Euphorbia-style three-lobed capsule",
+        "scientific_name": "Euphorbia dentata",
+        "image_role": "Green developing three-lobed capsules clustered among leaves and inconspicuous reproductive cups",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-dentata/images/01-flower-fruit.webp",
+        "source_page": "https://yavapaiplants.extension.arizona.edu/euphorbia-dentata",
+        "creator": "Max Licher / swbiodiversity.org",
+        "license": "CC BY-SA",
+        "image_fit": "contain",
+        "caption": "The rounded green structures surrounding the central branching point are separate three-lobed developing CAPSULES—not berries, not one five-petaled flower, and not seeds. Fine seed-coat sculpture is not visible.",
+        "why_it_matters": "A three-lobed capsule plus tiny cyathia supports Euphorbia. Mature seed characters and underside-leaf hairs are still needed to confirm against E. davidii.",
+        "markers": [
+          {
+            "label": "Developing 3-lobed capsule",
+            "label_x": 2,
+            "label_y": 78,
+            "target_x": 40,
+            "target_y": 52
+          },
+          {
+            "label": "Another green capsule",
+            "label_x": 69,
+            "label_y": 74,
+            "target_x": 60,
+            "target_y": 51
+          }
+        ]
+      },
+      {
+        "label": "Compare the look-alike: David's spurge",
+        "scientific_name": "Euphorbia davidii",
+        "image_role": "Toothed leaves and developing THREE-LOBED capsules — not the mature seed needed to separate species",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-davidii/images/02-upper-plant-detail.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:2015.08.22_11.57.08_IMG_0259_-_Flickr_-_andrey_zharkikh_(cropped).jpg",
+        "creator": "Andrey Zharkikh",
+        "license": "CC BY 2.0",
+        "image_fit": "contain",
+        "caption": "This is the look-alike E. davidii, not toothed spurge. It has similarly toothed leaves and three-lobed fruits. Its purple-red leaf edges do NOT distinguish it; a mature seed and underside hair macro are missing from this paired view.",
+        "why_it_matters": "Teaches crew members to keep uncertain photos at the group level when both species fit.",
+        "markers": [
+          {
+            "label": "Developing 3-lobed fruit",
+            "label_x": 8,
+            "label_y": 81,
+            "target_x": 31,
+            "target_y": 50
+          },
+          {
+            "label": "Toothed leaf margin",
+            "label_x": 61,
+            "label_y": 8,
+            "target_x": 69,
+            "target_y": 23
+          }
+        ]
+      }
+    ],
+    "overlay_note": "First three photos are sourced to Max Licher / Liz Makings via the University of Arizona / swbiodiversity.org (CC BY-SA); the E. davidii comparison is by Andrey Zharkikh (CC BY 2.0). The microscopic seed/hair photos from MissouriPlants are private-study rights only and intentionally absent from this public lesson."
+  },
+  "field_photo_quickcheck": {
+    "heading": "Toothed spurge: STOP at the dentata/davidii pair until you see hair or seed",
+    "featured_photo_indices": [
+      0,
+      1,
+      2
+    ],
+    "steps": [
+      "Find branching annual stems with opposite toothed leaves and terminal small reproductive clusters.",
+      "Identify the actual green THREE-LOBED CAPSULE and tiny cyathium structures. No showy petals.",
+      "Turn a mature leaf over and photograph the hair type: long soft threads should favor dentata.",
+      "A mature seed is the best tie-breaker: rounded with fine even bumps favors dentata, angular unevenly lumpy favors davidii."
+    ],
+    "field_rule": "No underside leaf macro + no fully ripe seed = Euphorbia dentata/davidii GROUP, not a species-level certainty.",
+    "warning": "None of these public photos shows a decisive mature seed or abaxial hair base. The arrow-labeled green capsules are developing fruits and look similar in both species."
+  },
+  "diagnostic_photo_requirements": [
+    {
+      "role": "Whole upright annual",
+      "status": "PHOTO_AND_ARROW_VERIFIED",
+      "next": "Existing reused public plant habit photo with real terminal head/branch arrows."
+    },
+    {
+      "role": "Toothed leaves and leaf-pair",
+      "status": "LEAF_TEETH_PHOTO_VERIFIED_NODE_PAIR_PARTIAL",
+      "next": "Get focused single opposite pair with complete petioles and ruler."
+    },
+    {
+      "role": "Tiny cyathium plus developing three-lobed capsule",
+      "status": "PHOTO_AND_CAPSULE_ARROW_VERIFIED; CYATHIUM_MICRO_STILL_NEEDED",
+      "next": "Macro must distinguish small cup, nectar glands, and female flower vs young capsule."
+    },
+    {
+      "role": "Abaxial leaf hair texture",
+      "status": "CRITICAL_PUBLIC_SAFE_MACRO_MISSING",
+      "next": "At least 10× view and 1mm scale: thin floppy versus stiff tapering hair with pustular base."
+    },
+    {
+      "role": "Mature capsule width",
+      "status": "NEEDS_SCALE",
+      "next": "Measure 3.5–4 mm vs 4–4.8 mm; size overlap possible and camera magnification misleading."
+    },
+    {
+      "role": "Mature seed cross section and sculpture",
+      "status": "CRITICAL_PUBLIC_SAFE_MACRO_MISSING",
+      "next": "Two faces photographed with scale and exactly identified seed; don't use copyrighted existing microscope files."
+    }
+  ],
+  "field_id_finalization": {
+    "review_date": "2026-10-20",
+    "stage": "PASS_IN_PROGRESS",
+    "text_review": "PASS_FNA_2026_PRIMARILY_EFLORAS_PAIR",
+    "annotated_real_photos": 3,
+    "verified_anatomy_arrows": 6,
+    "lookalike_comparison_photo": 1,
+    "lookalike_comparison_arrows": 2,
+    "field_training_status": "READY_FOR_GROUP_RECOGNITION; PRECISE_SPECIES_SEED_AND_HAIR_MACROS_PENDING",
+    "missing": [
+      "CC/PD source-verified mature E. dentata seed rounded cross section with calibrated scale",
+      "Matching source-verified mature E. davidii seed angular cross section with calibrated scale",
+      "Paired underside leaf hairs: E. dentata weak filiform vs E. davidii stiff tapered/pustular-base",
+      "One isolated cyathium/involucre with visible nectar gland and female flower"
+    ],
+    "photo_review": "2026-10-20: actual canonical public licensed Arizona WebP files viewed, 6 arrow positions mapped to photographed green capsule, toothed leaf edges, terminal reproductive head and upright branching. E. davidii canonical Commons JPG inspected, 2 arrows on green fruit and toothed edge. Microscopic comparisons based on FNA text only; old S.R. Turner copyright-restricted images not promoted into public visual lesson.",
+    "photo_rights_note": "Original rights metadata retained for 5 canonical images; 2 private-use photos are intentionally NOT placed in public visual/photo-first study; public-site gallery may still display legacy items under their recorded restrictions until the separate shared site-wide gallery policy is reconciled. Never relabel as CC or openly reusable."
+  },
+  "curated_sources": [
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242321404",
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416542",
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=318100",
+    "https://yavapaiplants.extension.arizona.edu/euphorbia-dentata",
+    "https://www.npsot.org/posts/native-plant/euphorbia-dentata/"
+  ]
+}

@@ -1,0 +1,9 @@
+Phase3 source-pool concept, source rows 1112
+Exact named photo and rights on Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Sphaeralcea_grossulariifolia_-_Andrey_Zharkikh_7.jpg
+Physical photo source: https://commons.wikimedia.org/wiki/Special:Redirect/file/Sphaeralcea%20grossulariifolia%20-%20Andrey%20Zharkikh%207.jpg
+Creator: Andrey Zharkikh
+Photo license: CC BY 2.0
+Working taxonomy: https://powo.science.kew.org/results?q=Sphaeralcea%20grossulariifolia
+Provisional view: Provisional flowering habit and leaves; malvaceous fruit and calyx need close photographs.
+Caution: Source is a Utah specimen; accepted infra-specific concepts and local provenance need later review.
+No county-level native-range inference and no diagnostic-photo completeness assertion.

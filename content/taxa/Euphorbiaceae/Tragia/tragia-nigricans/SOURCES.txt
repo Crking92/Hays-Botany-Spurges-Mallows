@@ -1,0 +1,32 @@
+# Curation sources — Tragia nigricans
+Reviewed through 2026-10-06
+Status: PASS
+
+Taxonomy
+Kew Plants of the World Online:
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:256417-2
+
+Target-zone range
+Kendall — Texas Parks & Wildlife annotated rare-species county material.
+Kerr — E. J. Palmer 33811, collected near Kerrville, 7 May 1928.
+Bandera — Texas Parks & Wildlife annotated rare-species county material.
+Regional biological-report lead:
+https://ftp.txdot.gov/pub/txdot/get-involved/sat/i-10-sh46-fm3351/100219-biological-report.pdf
+
+Morphology and range review:
+research-drafts/tragia-nigricans/draft.json
+
+Decision
+PASS — Kendall + Kerr + Bandera.
+
+EXTERNAL FIRST-PHOTO SOURCE 2026-10-15T02:06:39.520317+00:00
+Reid Hardin; CC BY 4.0; https://creativecommons.org/licenses/by/4.0/
+https://www.inaturalist.org/photos/444535061 | https://www.inaturalist.org/observations/248755367
+Image saved provisionally from exact-taxon Research Grade observation; photographic diagnostic ID unreviewed. EXIF removed.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:37:03.298890+00:00
+Tragia nigricans Bush
+https://www.gbif.org/occurrence/4852220632
+Cleveland Powell | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Dark stem and short raceme, fruit/capsule macro
+No anatomy arrows; no scientific or native-range changes.

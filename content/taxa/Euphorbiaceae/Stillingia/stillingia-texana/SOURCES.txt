@@ -1,0 +1,59 @@
+STILLINGIA TEXANA I.M.JOHNST. — CURATION SOURCES
+Reviewed: 2026-10-03
+Status: PASS / APPROVED FOR INSTALL
+Workflow: Joey-video downstream batch
+
+## Taxonomy
+Kew Plants of the World Online — accepted Stillingia texana:
+https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A289498-2
+
+## Strict target-zone range
+Hays — Purola Preserve natural flora:
+https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html
+Travis — UT PRC Euphorbiaceae herbarium index:
+https://w3.biosci.utexas.edu/prc/specimens/Euphorbiaceae.html
+Kerr — Kerr WMA vascular flora:
+https://tpwd.texas.gov/huntwild/wild/research/highlights/taxa/publications/Singhurst_etal_2010_KerrWMA.pdf
+
+Decision: PASS — Hays, Travis, Kerr.
+
+## Morphology
+UT PRC Williamson County:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Stillingia%20texana
+
+## Joey study media
+Y7A530PjEbU-02 — limestone habit / source label.
+Study rights only; public reuse not assumed.
+
+SAVED VIDEO FRAME INSTALLATION — 2026-10-04
+Joey Santore / Crime Pays But Botany Doesn't — EDWARDS PLATEAU BOTANY / Native Plants of the Ft. Worth Prairie Region
+https://www.youtube.com/watch?v=D1qCiiaMJ_I
+stillingia-texana_habit-source-label_23-35.0.jpg @ 23:35.0
+Stillingia texana habit with narrow serrate leaves and the upright reproductive axis visible. Use this as the overall plant reference before zooming into the flowers.
+https://www.youtube.com/watch?v=D1qCiiaMJ_I
+stillingia-texana_male-flowers-nectary-cups_06-06.0.jpg @ 06:06.0
+Male-flower portion of Stillingia texana. The exposed yellow anthers and cup-like nectar structures make this especially useful for understanding the inflorescence rather than treating it as one conventional flower.
+https://www.youtube.com/watch?v=D1qCiiaMJ_I
+stillingia-texana_female-flowers-nectar-cups_23-50.0.jpg @ 23:50.0
+Female-flower region of Stillingia texana. Compare this directly with the male-flower frame: the reproductive structures differ while the cup-like nectar features remain a useful landmark.
+https://www.youtube.com/watch?v=D1qCiiaMJ_I
+stillingia-texana_latex-broken-stem_24-10.0.jpg @ 24:10.0
+Broken Stillingia texana stem showing white latex. This is a useful Euphorbiaceae field cue, but latex alone should never be treated as species-level proof.
+https://www.youtube.com/watch?v=N4yq5Z1_0Eo
+stillingia-texana_three-lobed-fruit-source-label_43-55.jpg @ 43:55
+Three-lobed Stillingia texana fruit shown close-up, including the red pigmentation on the fruiting structure. Use with the flower frames to connect the reproductive sequence.
+https://www.youtube.com/watch?v=N4yq5Z1_0Eo
+stillingia-texana_lignotuber-root-crown_44-25.jpg @ 44:25
+Stillingia texana perennial root crown/lignotuber. This underground/ground-level structure explains the plant's persistent perennial habit and is an unusually useful teaching view.
+Rights: private study only; public reuse not cleared. User confirms private learner. Existing scientific/range status preserved.
+
+SAVED VIDEO FRAME INSTALLATION — 2026-10-04 — JOEY RECOVERY 006
+Joey Santore / Crime Pays But Botany Doesn't
+https://www.youtube.com/watch?v=D1qCiiaMJ_I
+stillingia-texana_male-flowers-pollinator_25-10.0.jpg @ 25:10.0
+Close view of Stillingia texana male flowers and nectar structures with a visiting beetle. Useful for flower structure and insect-visitation context; the beetle's presence alone is not treated as proof of effective pollination.
+Joey Santore / Crime Pays But Botany Doesn't
+https://www.youtube.com/watch?v=Y7A530PjEbU
+stillingia-texana_limestone-habit-source-label_00-25.jpg @ 00:25
+Source-labeled Stillingia texana growing directly among exposed limestone, a useful Edwards Plateau habitat and whole-plant context frame.
+Rights: private study only; public reuse not cleared. Existing scientific/range status preserved.

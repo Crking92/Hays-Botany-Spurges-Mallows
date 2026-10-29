@@ -1,0 +1,144 @@
+{
+  "rank": "family",
+  "name": "Phyllanthaceae",
+  "common_name": "Leafflower family",
+  "lineage_context": {
+    "order": "Malpighiales",
+    "batch": "Malpighiales",
+    "close_project_families": [
+      "Euphorbiaceae",
+      "Salicaceae",
+      "Malpighiaceae"
+    ],
+    "teaching_goal": "Use the project's Phyllanthus architecture to teach the modern split from Euphorbiaceae: no latex, two ovules per locule, no conspicuous seed caruncle, plus phyllanthoid branching."
+  },
+  "project_scope": {
+    "selection_mode": "Central Texas Phyllanthus-only family module",
+    "note": "The family was historically embedded in broad Euphorbiaceae. The learner should make the modern split explicit rather than teaching all leafflowers as spurges."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "On local Phyllanthus, inspect the branching first: flattened or horizontal leafy branchlets can mimic a compound leaf, with small simple leaves arranged in two ranks. Then confirm tiny unisexual flowers, no milky latex and a usually 3-lobed schizocarp/capsule.",
+    "vegetative": "Local project plants are herbs/subshrubs with simple entire stipulate leaves. Phyllanthoid branching may create upright main axes with reduced cataphylls and lateral deciduous leafy/floriferous branchlets.",
+    "reproductive": "Flowers are unisexual and small, commonly with sepals but no petals. Ovary superior and commonly 3-carpellate/3-locular, with two ovules per locule.",
+    "fruit": "Usually a 3-lobed dehiscent schizocarp/capsule around a persistent central columella; seeds lack the conspicuous caruncle typical of many Euphorbiaceae.",
+    "field_tip": "Compound-leaf lookalike branchlets + tiny unisexual apetalous flowers + no latex + 3-lobed fruit is the local Phyllanthus pattern."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_007",
+    "teaching_order": "phyllanthoid branchlet → tiny unisexual flowers → 2 ovules/locule → 3-lobed fruit/columella → Euphorbiaceae split → native-vs-introduced project species",
+    "intro": "Leafflowers are perfect for learning why modern taxonomy split Phyllanthaceae from Euphorbiaceae. They share a three-part fruit plan, but the ovules and latex tell a different story.",
+    "steps": [
+      {
+        "title": "1 · Decide whether that 'compound leaf' is really a branch",
+        "photo_role": "whole lateral branchlet + node close-up",
+        "look_for": "Small simple leaves arranged distichously on a lateral branchlet; flowers/fruits arise from its leaf axils.",
+        "why_it_matters": "Phyllanthoid branching is one of the most useful genus-level visual cues.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Find the tiny male and female flowers",
+        "photo_role": "male/female axillary flower macros",
+        "look_for": "Tiny unisexual flowers, usually without petals, often tucked beneath the small leaves.",
+        "why_it_matters": "Connects the genus to its broader Malpighiales reproductive architecture.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "3 · Use the ovule count to split from Euphorbiaceae",
+        "photo_role": "ovary cross-section / diagram",
+        "look_for": "Typically two ovules in each locule rather than the one-ovule-per-locule pattern common in Euphorbiaceae.",
+        "why_it_matters": "This is one of the cleanest technical family separators in the project.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "4 · Confirm the 3-lobed fruit and columella",
+        "photo_role": "mature fruit + opened schizocarp",
+        "look_for": "Three lobes/cocci separating from a central column as the fruit dehisces.",
+        "why_it_matters": "Shows why the family can look euphorb-like while still being distinct.",
+        "status": "local_macro_pending"
+      },
+      {
+        "title": "5 · Check latex—but only as supporting evidence",
+        "photo_role": "stem/branchlet break comparison",
+        "look_for": "Phyllanthaceae generally lacks the white latex common in many Euphorbiaceae.",
+        "why_it_matters": "Helpful paired with ovule count; not a reason to damage unknown plants unnecessarily.",
+        "status": "comparison_reference_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Phyllanthaceae vs Euphorbiaceae",
+        "rule": "Phyllanthaceae generally lacks latex, has two ovules per locule and seeds without a conspicuous caruncle; Euphorbiaceae often has latex, one ovule per locule and frequently carunculate seeds. Both may have a 3-part columella fruit."
+      },
+      {
+        "title": "Phyllanthaceae vs Salicaceae",
+        "rule": "Phyllanthaceae usually has a multi-locular ovary with two ovules per locule; Salicaceae has a 1-locular ovary with parietal placentation, and local Salix/Populus makes many silky-haired seeds."
+      }
+    ],
+    "caveat": "Not every Phyllanthaceae species shows textbook phyllanthoid branching, but both project taxa are Phyllanthus, so it is a high-value local cue."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Phyllanthus",
+        "taxa_count": 2,
+        "fast_cue": "distichous leaflike branchlets + tiny axillary unisexual flowers + 3-lobed fruit",
+        "role": "sole project genus"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Phyllanthus polygonoides",
+    "Phyllanthus urinaria"
+  ],
+  "taxonomy_notes": [
+    "Phyllanthus polygonoides is accepted and native in Texas under current Kew.",
+    "Phyllanthus urinaria is accepted but introduced in Texas under current Kew; keep it as an introduced comparison rather than a native anchor."
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "phyllanthoid branch architecture",
+      "annotation_goal": "label main axis, lateral branchlet, individual leaves and axillary fruits"
+    },
+    {
+      "priority": 1,
+      "structure": "2-ovules-per-locule diagram",
+      "annotation_goal": "compare directly with Euphorbiaceae one-ovule pattern"
+    },
+    {
+      "priority": 1,
+      "structure": "3-lobed fruit + columella",
+      "annotation_goal": "show shared spurge-like fruit architecture"
+    },
+    {
+      "priority": 2,
+      "structure": "Phyllanthus polygonoides vs P. urinaria habit",
+      "annotation_goal": "native anchor vs introduced comparison"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Phyllanthaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126817-1/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Phyllanthus",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:327609-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Phyllanthus polygonoides",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:194967-2"
+    },
+    {
+      "source": "Plants of the World Online — Phyllanthus urinaria",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:354815-1"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-007",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "family_structure_live_branching_ovule_fruit_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

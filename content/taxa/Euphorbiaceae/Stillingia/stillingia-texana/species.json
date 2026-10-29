@@ -1,0 +1,338 @@
+{
+  "id": "stillingia-texana",
+  "entry_type": "species",
+  "family": "Euphorbiaceae",
+  "genus": "Stillingia",
+  "species": "texana",
+  "scientific_name": "Stillingia texana",
+  "authority": "I.M.Johnst.",
+  "common_name": "Texas queen's delight",
+  "other_common_names": [
+    "Texas stillingia",
+    "Texas toothleaf"
+  ],
+  "synonyms": [
+    "Sapium sylvaticum var. linearifolium Torr.",
+    "Stillingia sylvatica var. linearifolia (Torr.) Müll.Arg."
+  ],
+  "taxonomic_note": "Accepted by current Kew/POWO as Stillingia texana I.M.Johnst.",
+  "look_here_first": "Start with the terminal spike and the narrow leaves. Texas stillingia is a many-stemmed perennial with linear serrate-glandular leaves, copious white latex, and a terminal inflorescence with pistillate flowers low on the axis and clusters of staminate flowers above.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Kerr"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Purola Preserve natural flora. Travis — UT PRC Travis County Euphorbiaceae herbarium index. Kerr — Kerr WMA flora with multiple vouchers.",
+    "range_guardrail": "Joey's video frame supports habitat/habit only; range status comes from county-level sources."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial herb/subshrub with several to many stems from the base",
+      "copious white latex",
+      "leaves alternate, narrow linear, short-petiolate to nearly sessile",
+      "leaf margins finely serrate with glandular teeth",
+      "terminal spike-like inflorescence",
+      "pistillate flowers concentrated toward the base of the inflorescence",
+      "staminate flowers grouped above in condensed cymes",
+      "monoecious plant"
+    ],
+    "family_training": "Strong Euphorbiaceae teaching plant: latex plus highly reduced unisexual flowers and a male-above/female-below terminal inflorescence pattern.",
+    "video_training": "Joey's frame shows the plant rooted directly among exposed Edwards Plateau limestone, reinforcing habitat recognition."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Stillingia sylvatica",
+      "narrow-leaved Euphorbiaceae"
+    ],
+    "key_distinctions": "Use the narrow linear gland-toothed leaves, terminal inflorescence architecture, latex and current accepted taxonomy; do not rely on limestone habitat alone."
+  },
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "Y7A530PjEbU",
+      "timestamp": "00:25",
+      "record_id": "Y7A530PjEbU-02",
+      "role": "Whole-plant habit rooted in exposed limestone.",
+      "rights": "private study; public reuse not assumed",
+      "source_taxon": "Stillingia texana",
+      "source_confidence": "source-explicit-overlay-and/or-verbal",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/Y7A530PjEbU/stillingia-texana_limestone-habit-source-label_00-25.jpg"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "D1qCiiaMJ_I",
+      "timestamp": "06:06.0",
+      "record_id": "D1qCiiaMJ_I-11",
+      "role": "male-flower region / cup-like nectar structures / leaf margins",
+      "source_taxon": "Stillingia texana",
+      "source_confidence": "source-explicit-with-tentative-nectary-interpretation",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/D1qCiiaMJ_I/stillingia-texana_male-flowers-nectary-cups_06-06.0.jpg"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "D1qCiiaMJ_I",
+      "timestamp": "23:35.0",
+      "record_id": "D1qCiiaMJ_I-27",
+      "role": "whole-plant habit / narrow serrate leaves / inflorescence architecture",
+      "source_taxon": "Stillingia texana",
+      "source_confidence": "source-explicit-overlay",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/D1qCiiaMJ_I/stillingia-texana_habit-source-label_23-35.0.jpg"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "D1qCiiaMJ_I",
+      "timestamp": "23:50.0",
+      "record_id": "D1qCiiaMJ_I-28",
+      "role": "female-flower region / ovary-stigma context / cup-like nectar structures",
+      "source_taxon": "Stillingia texana",
+      "source_confidence": "source-explicit-with-tentative-breeding-system-interpretation",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/D1qCiiaMJ_I/stillingia-texana_female-flowers-nectar-cups_23-50.0.jpg"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "D1qCiiaMJ_I",
+      "timestamp": "24:10.0",
+      "record_id": "D1qCiiaMJ_I-29",
+      "role": "milky latex / broken stem / Euphorbiaceae chemistry cue",
+      "source_taxon": "Stillingia texana",
+      "source_confidence": "source-explicit",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/D1qCiiaMJ_I/stillingia-texana_latex-broken-stem_24-10.0.jpg"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "D1qCiiaMJ_I",
+      "timestamp": "25:10.0",
+      "record_id": "D1qCiiaMJ_I-30",
+      "role": "Male flowers, nectar structures, and a visiting beetle.",
+      "source_taxon": "Stillingia texana",
+      "source_confidence": "source-explicit-observation",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/D1qCiiaMJ_I/stillingia-texana_male-flowers-pollinator_25-10.0.jpg"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "N4yq5Z1_0Eo",
+      "timestamp": "43:55",
+      "record_id": "N4yq5Z1_0Eo-54",
+      "role": "three-lobed fruit / red pigmentation",
+      "source_taxon": "Stillingia texana",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/N4yq5Z1_0Eo/stillingia-texana_three-lobed-fruit-source-label_43-55.jpg"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "N4yq5Z1_0Eo",
+      "timestamp": "44:25",
+      "record_id": "N4yq5Z1_0Eo-55",
+      "role": "large lignotuber / perennial root crown",
+      "source_taxon": "Stillingia texana",
+      "source_confidence": "source-explicit overlay and/or immediate verbal context",
+      "rights": "private study; public reuse not assumed",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/N4yq5Z1_0Eo/stillingia-texana_lignotuber-root-crown_44-25.jpg"
+    }
+  ],
+  "tags": [
+    "Euphorbiaceae",
+    "Stillingia",
+    "Texas queen's delight",
+    "Edwards Plateau",
+    "Joey-enhanced",
+    "Video-fed"
+  ],
+  "curation_status": {
+    "version": "1.0-video-fed",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "joey_enhanced": true,
+    "last_reviewed": "2026-10-03",
+    "video_study_media_count": 8
+  },
+  "photo_note": "All eight preserved Joey Santore frames associated with this canonical page are now installed for private study. The set spans habit, limestone habitat, male and female flowers, nectar structures, latex, fruit, root crown, and insect-visitation context; public-reuse restrictions are preserved.",
+  "images": [
+    {
+      "file": "images/stillingia-texana_habit-source-label_23-35.0.jpg",
+      "role": "Whole Stillingia texana plant showing narrow serrate leaves and terminal reproductive axis.",
+      "caption": "Stillingia texana habit with narrow serrate leaves and the upright reproductive axis visible. Use this as the overall plant reference before zooming into the flowers.",
+      "diagnostic_roles": [
+        "whole-plant habit",
+        "narrow serrate leaves",
+        "terminal inflorescence"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=D1qCiiaMJ_I",
+      "source_record_id": "D1qCiiaMJ_I-27",
+      "timestamp": "23:35.0",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/stillingia-texana_male-flowers-nectary-cups_06-06.0.jpg",
+      "role": "Male-flower region showing exposed yellow anthers and cup-like nectar structures.",
+      "caption": "Male-flower portion of Stillingia texana. The exposed yellow anthers and cup-like nectar structures make this especially useful for understanding the inflorescence rather than treating it as one conventional flower.",
+      "diagnostic_roles": [
+        "male flowers",
+        "yellow anthers",
+        "nectar structures"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=D1qCiiaMJ_I",
+      "source_record_id": "D1qCiiaMJ_I-11",
+      "timestamp": "06:06.0",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/stillingia-texana_female-flowers-nectar-cups_23-50.0.jpg",
+      "role": "Female-flower region showing developing ovary/stigma structures with the same cup-like nectar features nearby.",
+      "caption": "Female-flower region of Stillingia texana. Compare this directly with the male-flower frame: the reproductive structures differ while the cup-like nectar features remain a useful landmark.",
+      "diagnostic_roles": [
+        "female flowers",
+        "ovary/stigma context",
+        "nectar structures"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=D1qCiiaMJ_I",
+      "source_record_id": "D1qCiiaMJ_I-28",
+      "timestamp": "23:50.0",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/stillingia-texana_latex-broken-stem_24-10.0.jpg",
+      "role": "Freshly broken stem exuding white latex.",
+      "caption": "Broken Stillingia texana stem showing white latex. This is a useful Euphorbiaceae field cue, but latex alone should never be treated as species-level proof.",
+      "diagnostic_roles": [
+        "milky latex",
+        "broken stem",
+        "Euphorbiaceae cue"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=D1qCiiaMJ_I",
+      "source_record_id": "D1qCiiaMJ_I-29",
+      "timestamp": "24:10.0",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/stillingia-texana_three-lobed-fruit-source-label_43-55.jpg",
+      "role": "Three-lobed Stillingia texana fruit held close to the camera.",
+      "caption": "Three-lobed Stillingia texana fruit shown close-up, including the red pigmentation on the fruiting structure. Use with the flower frames to connect the reproductive sequence.",
+      "diagnostic_roles": [
+        "three-lobed fruit",
+        "fruit pigmentation"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=N4yq5Z1_0Eo",
+      "source_record_id": "N4yq5Z1_0Eo-54",
+      "timestamp": "43:55",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/stillingia-texana_lignotuber-root-crown_44-25.jpg",
+      "role": "Large woody perennial root crown/lignotuber exposed at the soil surface.",
+      "caption": "Stillingia texana perennial root crown/lignotuber. This underground/ground-level structure explains the plant's persistent perennial habit and is an unusually useful teaching view.",
+      "diagnostic_roles": [
+        "lignotuber",
+        "perennial root crown"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=N4yq5Z1_0Eo",
+      "source_record_id": "N4yq5Z1_0Eo-55",
+      "timestamp": "44:25",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/stillingia-texana_male-flowers-pollinator_25-10.0.jpg",
+      "role": "Male flowers, nectar structures, and a visiting beetle.",
+      "caption": "Close view of Stillingia texana male flowers and nectar structures with a visiting beetle. Useful for flower structure and insect-visitation context; the beetle's presence alone is not treated as proof of effective pollination.",
+      "diagnostic_roles": [
+        "male flowers",
+        "nectar structures",
+        "insect-visitation context"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=D1qCiiaMJ_I",
+      "source_record_id": "D1qCiiaMJ_I-30",
+      "timestamp": "25:10.0",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/stillingia-texana_limestone-habit-source-label_00-25.jpg",
+      "role": "Whole-plant habit rooted in exposed limestone.",
+      "caption": "Source-labeled Stillingia texana growing directly among exposed limestone, a useful Edwards Plateau habitat and whole-plant context frame.",
+      "diagnostic_roles": [
+        "whole-plant habit",
+        "limestone crevice habitat",
+        "source label"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=Y7A530PjEbU",
+      "source_record_id": "Y7A530PjEbU-02",
+      "timestamp": "00:25",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "images/public-inat-stillingia-texana-741097460.jpg",
+      "role": "Provisional exact-species public first view of Texas stillingia. Narrow leaves, separate male/female flower details and three-lobed capsules require future part-specific verified photos.",
+      "caption": "Individually licensed, research-grade iNaturalist observation photograph of Stillingia texana. Plant-part diagnostic anatomy needs a separate visual check before precise arrows or FINALIZED marking.",
+      "creator": "(c) saltyhiker, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/741097460",
+      "source_observation_page": "https://www.inaturalist.org/observations/403626857",
+      "source_photo_id": "741097460",
+      "source_observation_id": "403626857",
+      "source_taxon": "Stillingia texana",
+      "source_quality_grade": "research",
+      "source_photo_license_code": "cc-by",
+      "source_type": "iNaturalist individually licensed exact-taxon photo verified by current photo API",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/741097460/large.jpg",
+      "public_reuse": "yes, conditional on recorded CC attribution/NC terms and noncommercial education",
+      "changes": "Downloaded iNaturalist photo, resized and reencoded to JPEG without EXIF/GPS; no annotations added.",
+      "source_sha256": "69f62ffef3bc3ba8820880d0ffd5efca016d5558de10a7bce260e87df0b166f4",
+      "published_jpeg_sha256": "f6897d45600fd97acdf477373e5f3394c1f1882fc9fe983c457832b113667fbb",
+      "published_jpeg_dimensions": [
+        1024,
+        768
+      ],
+      "annotation_pending": true,
+      "photo_organ_validation": "pending independent anatomical visual review"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "Mature dehisced capsule and seed close-up; sharper side view of the female flower if available.",
+    "A tighter leaf/stem attachment view would complement the unusually complete reproductive, habitat, latex, fruit, and root-crown set."
+  ]
+}

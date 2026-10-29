@@ -1,0 +1,5 @@
+Accepted-name and diagnostic source-pool review: workflow/APPROVED_POOL_THREE_TAXA_HANDOFF_2026-10-14.json (Master Plant Pool row 77).
+Taxonomic concept: Anoda cristata; historical synonym Sida cristata. Target-zone county status UNRESOLVED; do not infer PASS.
+Photo 1: https://commons.wikimedia.org/wiki/File:Anoda_cristata_01.JPG — AfroBrazilian, CC BY-SA 4.0, own work, flowering habit and immature fruits, botanic garden. https://creativecommons.org/licenses/by-sa/4.0/ ; resized/optimized by installer if installed.
+Photo 2: https://commons.wikimedia.org/wiki/File:Anoda_cristata_-_Fruit.jpg — Denis.prévôt (Denis Prévôt), CC BY-SA 3.0, own work, mature fruit close-up. https://creativecommons.org/licenses/by-sa/3.0/ ; resized/optimized by installer if installed.
+Image URLs are exact Wikimedia Commons originals; actual successful installation and rendered gallery must be verified after Action. No annotations or arrows authorized.

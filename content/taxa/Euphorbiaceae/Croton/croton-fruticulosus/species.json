@@ -1,0 +1,391 @@
+{
+  "id": "croton-fruticulosus",
+  "entry_type": "species",
+  "family": "Euphorbiaceae",
+  "genus": "Croton",
+  "species": "fruticulosus",
+  "scientific_name": "Croton fruticulosus",
+  "authority": "Torr.",
+  "common_name": "Shrubby croton",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO and Flora of North America. Keep distinct from Croton fruticosus.",
+  "look_here_first": "LOOK HERE FIRST — BUSH / SHRUBBY CROTON: Follow the stem to a persistent WOODY crown, then inspect a mature leaf edge with a lens for very fine SERRULATE teeth, often slightly wavy. Its mostly ovate to ovate-lanceolate pointed leaves are conspicuously green above, and stems bear star-shaped (stellate) hairs. This shrub is MONOECIOUS (male and female flowers on the same plant): a female flower has three once-forked styles, SIX tips, and the mature capsule is smooth. Do not mistake the narrow-leaved annual C. texensis (separate male/female plants, WARTY female fruit), the woolly annual C. lindheimeri, or the small toothed annual C. glandulosus for a woody shrub. Current owner's two public-ready photos show foliage and flowering branches, NOT the soil-level woody crown or the minutely toothed margin sharply enough for decisive arrows.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Comal",
+    "Kerr"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Travis is voucher-backed by the UT Plant Resources Center. Comal is locked by preserved ILLS specimen ILLS00139680 near Canyon Lake. Kerr is locked by Heller's 1894 southern-Texas exploration documenting C. fruticulosus on both banks of the Guadalupe at Kerrville.",
+    "range_guardrail": "Use exact county voucher or field documentation; do not infer local counties from broad Edwards Plateau or southwestern Texas range statements."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "subshrub or shrub, much branched",
+      "stems with stellate hairs",
+      "ovate to ovate-lanceolate leaves",
+      "leaf margins finely serrulate",
+      "petioles short relative to the leaf blade",
+      "bisexual racemes typically several centimeters long",
+      "three styles bifid to six terminal segments"
+    ],
+    "comparison_training": "Croton lindheimeri is an annual herb with mostly entire leaves. Croton texensis is annual and strictly dioecious, with narrower mostly entire leaves and unisexual inflorescences."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Croton texensis",
+      "Croton lindheimeri",
+      "Croton capitatus",
+      "Croton glandulosus (look-alike, outside six installed)"
+    ],
+    "key_distinctions": "True persistent WOODY base + finely SERRULATE mature leaf margins. Texas croton is an annual dioecious herb with entire narrow leaves and warty female fruit. Woolly crotons are annual herbs with usually entire margins. C. glandulosus is a serrulate ANNUAL; leaf teeth alone do not establish shrubby croton.",
+    "field_matrix": [
+      {
+        "taxon": "Croton fruticulosus",
+        "stem": "Woody perennial shrub / subshrub, much branched",
+        "leaf": "Ovate to ovate-lanceolate, finely serrulate, green above, pale below",
+        "flower_fruit": "Monoecious; female styles 3 bifid (6 tips), capsule smooth"
+      },
+      {
+        "taxon": "Croton texensis",
+        "stem": "Herbaceous annual, not a persistent woody crown",
+        "leaf": "Usually narrow, entire margins",
+        "flower_fruit": "Dioecious; female capsule warty"
+      },
+      {
+        "taxon": "Croton lindheimeri",
+        "stem": "Robust woolly annual, no multi-year woody base",
+        "leaf": "Mostly entire, acute apex, ochraceous new-growth fuzz",
+        "flower_fruit": "Pistillate styles forked repeatedly, often 12 terminal segments"
+      },
+      {
+        "taxon": "Croton glandulosus",
+        "stem": "Low annual, not a shrub",
+        "leaf": "Margin can ALSO be serrulate",
+        "flower_fruit": "Verify annual habit and its own flower/fruit characters"
+      }
+    ],
+    "not_reliable_alone": [
+      "Green, broadish leaves",
+      "Visible white male stamens in one photograph",
+      "Hairiness, which multiple Crotons share",
+      "Tiny leaf teeth without inspecting whether the plant is a woody perennial"
+    ]
+  },
+  "tags": [
+    "Euphorbiaceae",
+    "Croton",
+    "Shrubby croton",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.2-fruticulosus-cc0-female-arrows-20261021",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-21",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "glass_root_garden_photo_install": "2026-10-14",
+    "visual_reviewed": true,
+    "visual_status": "FIELD_READY_PHOTO_GAPS: 5 stored photos, 4 tissue arrows (2 reused and 2 female macro); missing sharp woody crown/serrulation macros and full six-style-end proof"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Glass Root Garden owned-photo additions installed 2026-10-14; more diagnostic macros remain useful. Finished local recognition/comparison pass 2026-10-21; public visual panels intentionally omit UT Austin copyright-unclear photo. CC0 female/stellate hair leads noted; physical installation pending. Added CC0 Commons female flower and leaf-underside macros (2026-10-21). No unsupported anatomy arrow coordinates were invented.",
+  "images": [
+    {
+      "file": "images/croton-fruticulosus-provisional-face.jpg",
+      "role": "Look closer · small white male flowers with extended stamens and narrow leaves; female flowers and capsules not shown",
+      "creator": "UT Austin BIO406D PlantPics (source attribution; individual photographer not stated)",
+      "license": "reuse rights unverified",
+      "source_page": "https://www.bio.utexas.edu/courses/bio406d/images/pics/eup/croton_fruticulosus.htm",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/glass-root-garden-573059048-leaf-shoot.jpg",
+      "role": "Hand-held leafy shoot shows leaf outline and stem attachment; hair details require macro",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/573059048",
+      "observation_url": "https://www.inaturalist.org/observations/317149183",
+      "observation_id": 317149183,
+      "photo_id": 573059048,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/573059048/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    },
+    {
+      "file": "images/glass-root-garden-623379901-branch.jpg",
+      "role": "Woody leafy branch with small flowering structures; exact floral anatomy not resolvable at this scale",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/623379901",
+      "observation_url": "https://www.inaturalist.org/observations/342332092",
+      "observation_id": 342332092,
+      "photo_id": 623379901,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/623379901/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    },
+    {
+      "file": "images/commons-gaiacoyote-cc0-female-flower.jpg",
+      "role": "Female flower and nearby developing flower buds; source photo shows style arms but six final ends need careful macro review",
+      "creator": "Gaiacoyote",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Croton_fruticulosus_(2).jpg",
+      "downloaded_from": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Croton_fruticulosus_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_dimensions": [
+        450,
+        513
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "modifications": "JPEG recompression and metadata/EXIF/GPS removal; no synthetic imagery or drawn arrows",
+      "photo_review": "Photo-specific Commons page labels this original Gaiacoyote CC0 and identifies exact species; structure caption based on source description; owner mobile arrow/ID check remains."
+    },
+    {
+      "file": "images/commons-gaiacoyote-cc0-underside-hairs.jpg",
+      "role": "Abaxial leaf surface with stellate hairs; source identified, fine marginal teeth not necessarily pictured",
+      "creator": "Gaiacoyote",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Croton_fruticulosus_(3).jpg",
+      "downloaded_from": "https://upload.wikimedia.org/wikipedia/commons/2/22/Croton_fruticulosus_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_dimensions": [
+        528,
+        399
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "modifications": "JPEG recompression and metadata/EXIF/GPS removal; no synthetic imagery or drawn arrows",
+      "photo_review": "Photo-specific Commons page labels this original Gaiacoyote CC0 and identifies exact species; structure caption based on source description; owner mobile arrow/ID check remains."
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "learner_fast_fill",
+    "image_count": 5,
+    "filled_at": "2026-10-06",
+    "note": "Field comparison enriched with public-safe owner photos; crown/teeth macro missing; restricted UT photo excluded from panels."
+  },
+  "photo_diagnostic_lesson": {
+    "title": "Shrubby croton — woody crown plus minute marginal teeth",
+    "steps": [
+      {
+        "stage": "1 — STEM BASE",
+        "look": "Persistent woody soil-level crown",
+        "what": "A woody branch tip alone does not prove a perennial shrub. Photograph the base at ground level; current images do not prove this."
+      },
+      {
+        "stage": "2 — LEAF EDGE",
+        "look": "Fine sawlike serrulations, often slightly wavy margins",
+        "what": "Macro image of several mature leaf edges with scale is needed. Do not point arrows at indistinct blur."
+      },
+      {
+        "stage": "3 — FLOWER SEX",
+        "look": "Male stamens plus female flowers on the same plant",
+        "what": "C. fruticulosus is monoecious, unlike strictly dioecious C. texensis; document the whole inflorescence."
+      },
+      {
+        "stage": "4 — FEMALE STRUCTURES",
+        "look": "Three bifid styles (six ends), smooth fruit",
+        "what": "Use photographed female flowers and mature capsules; current two local owner images do not resolve the style ends."
+      },
+      {
+        "stage": "5 — SERRULATE ANNUAL",
+        "look": "C. glandulosus has teeth too, but is a low annual",
+        "what": "Never identify as shrub croton from serration alone."
+      }
+    ],
+    "memory_rule": "SHRUBBY CROTON = WOODY BASE + TINY LEAF TEETH. Confirm together."
+  },
+  "visual_comparison": {
+    "title": "Shrubby croton — two authorized owner views, woody base and teeth still needed",
+    "subtitle": "Two local public-safe owner images and two physically archived Gaiacoyote CC0 reproductive/hair macros; four structural arrows total (two reused, two target-checked on Commons original). Missing woody base and leaf-edge tooth macros remain.",
+    "items": [
+      {
+        "label": "1 · Green leafy shoot",
+        "scientific_name": "Croton fruticulosus",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-fruticulosus/images/glass-root-garden-573059048-leaf-shoot.jpg",
+        "image_fit": "contain",
+        "creator": "Glass Root Garden",
+        "license": "CC BY 4.0",
+        "source_page": "https://www.inaturalist.org/photos/573059048",
+        "image_role": "Green leaf shape and branching shoot; minute teeth not resolved",
+        "caption": "Glass Root Garden local owner photograph: broadish green pointed leaves and branching axis. A clear edge-tooth macro is still missing.",
+        "why_it_matters": "Habit/leaf recognition, not definitive serrulation proof.",
+        "markers": []
+      },
+      {
+        "label": "2 · Flowering shrubby-croton branch",
+        "scientific_name": "Croton fruticulosus",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-fruticulosus/images/glass-root-garden-623379901-branch.jpg",
+        "image_fit": "contain",
+        "creator": "Glass Root Garden",
+        "license": "CC BY 4.0",
+        "source_page": "https://www.inaturalist.org/photos/623379901",
+        "image_role": "Exact-taxon leafy branches, individual female/male small flowers, not the woody crown or microleaf teeth",
+        "caption": "Glass Root Garden flowering branch with foliage and tiny flowers; no claim of visible basal woody crown, distinct serrulations or countable female style tips.",
+        "markers": [
+          {
+            "label": "Elliptic simple leaf",
+            "label_x": 5,
+            "label_y": 57,
+            "target_x": 29,
+            "target_y": 53
+          },
+          {
+            "label": "Small whitish flower",
+            "label_x": 70,
+            "label_y": 47,
+            "target_x": 63,
+            "target_y": 43
+          }
+        ],
+        "why_it_matters": "Two genuine previously reviewed arrows reused from the Croton genus lesson."
+      },
+      {
+        "label": "CC0 photo · female flower",
+        "scientific_name": "Croton fruticulosus",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-fruticulosus/images/commons-gaiacoyote-cc0-female-flower.jpg",
+        "image_fit": "contain",
+        "creator": "Gaiacoyote",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Croton_fruticulosus_(2).jpg",
+        "image_role": "Female flower with visible curved styles and surrounding buds; exact ultimate style-tip count NOT photo-proven",
+        "caption": "Actual Gaiacoyote CC0 macro showing a female Croton fruticulosus flower. Two new arrows aim at the visible curved style tissue and female flower body. The image should NOT be used to assert all SIX terminal style tips are individually countable; not a woody-base or margin-tooth proof.",
+        "why_it_matters": "A real close female flower makes sex-specific structures visible rather than incorrectly treating male stamens as female styles.",
+        "markers": [
+          {
+            "label": "Curved female style branch",
+            "label_x": 66,
+            "label_y": 5,
+            "target_x": 58,
+            "target_y": 13
+          },
+          {
+            "label": "Pistillate flower body",
+            "label_x": 2,
+            "label_y": 67,
+            "target_x": 47,
+            "target_y": 42
+          }
+        ]
+      },
+      {
+        "label": "CC0 photo · abaxial star hairs",
+        "scientific_name": "Croton fruticulosus",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-fruticulosus/images/commons-gaiacoyote-cc0-underside-hairs.jpg",
+        "image_fit": "contain",
+        "creator": "Gaiacoyote",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Croton_fruticulosus_(3).jpg",
+        "image_role": "Abaxial leaf surface with stellate hairs; source identified, fine marginal teeth not necessarily pictured",
+        "caption": "Source-proven leaf underside with stellate hair texture; NOT a verified tooth-by-tooth margin macro",
+        "why_it_matters": "Shows a structural detail missing from the two initial owner field views; do not pretend this proves woody crown or leaf-edge teeth.",
+        "markers": []
+      }
+    ],
+    "memory_rule": "Find TRUE WOODY STEM BASE plus serrulate leaf edge; neither is conclusively magnified by these field views.",
+    "annotation_status": "Two original genus arrow placements reused. Two new female-flower arrows selected from the Wikimedia Commons original's visible curved styles and flower body, matching locally installed uncropped resized JPEG; owner mobile QA still pending. Six ultimate tips NOT claimed visible.",
+    "part_examples": [
+      {
+        "title": "Green leafy shoot",
+        "role": "field recognition",
+        "anchor_species_id": "croton-fruticulosus",
+        "image_file": "images/glass-root-garden-573059048-leaf-shoot.jpg",
+        "look_for": "Green pointed leaves on side branches",
+        "why_it_matters": "Helps crew find candidate, not resolve exact identity."
+      },
+      {
+        "title": "Woody ground-level crown",
+        "role": "primary diagnostic",
+        "status": "needs_photo",
+        "look_for": "Persistent woody multi-season basal branches",
+        "why_it_matters": "Distinguishes shrub from several annual Crotons."
+      },
+      {
+        "title": "Minute leaf-edge serrations",
+        "role": "primary diagnostic",
+        "status": "needs_photo",
+        "look_for": "True tiny teeth and scale in focus",
+        "why_it_matters": "Need leaf macro, not random green-edge arrow."
+      },
+      {
+        "title": "Female flower CC0 candidate",
+        "role": "reproductive",
+        "status": "licensed_source_pending_install",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Croton_fruticulosus_(2).jpg",
+        "look_for": "Forked styles and pistillate flower",
+        "why_it_matters": "Promising new CC0 candidate; not represented as installed."
+      }
+    ]
+  },
+  "field_photo_quickcheck": {
+    "heading": "Croton fruticulosus: a genuine woody shrub?",
+    "featured_photo_indices": [
+      1,
+      0
+    ],
+    "steps": [
+      "Follow stem DOWN to an enduring WOODY soil-level base.",
+      "Lens mature leaf edge: look for tiny serrulations, not just a pointed green blade.",
+      "Check mixed male/female flowering structures on the SAME individual.",
+      "Photograph a true female flower with SIX terminal style tips and mature smooth capsule.",
+      "Rule out the serrulate low annual C. glandulosus and dioecious narrow-leaved C. texensis."
+    ],
+    "field_rule": "Persistent woody shrub + serrulate edge is the strong field combination; if both cannot be checked, use Croton sp. until reproductive evidence.",
+    "warning": "Current gallery does NOT visually demonstrate the woody crown or tooth-level margin; licensed Wikimedia female/hair sources are not physically installed yet.",
+    "owner_mobile_review": "PENDING"
+  },
+  "diagnostic_photo_targets": [
+    {
+      "role": "Persistent ground-level woody stem crown",
+      "status": "NEEDS_LICENSED_MACRO"
+    },
+    {
+      "role": "Fine serrulate mature leaf margin",
+      "status": "NEEDS_LICENSED_MACRO"
+    },
+    {
+      "role": "Exact female flower and six style tips",
+      "status": "PHOTO_INSTALLED_TWO_TISSUE_ARROWS_STYLE_COUNT_NOT_PROVEN",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Croton_fruticulosus_(2).jpg"
+    },
+    {
+      "role": "Underside stellate hairs",
+      "status": "PHOTO_INSTALLED_NEEDS_PRECISE_ANATOMY_ARROW_REVIEW",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Croton_fruticulosus_(3).jpg"
+    }
+  ]
+}

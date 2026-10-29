@@ -1,0 +1,37 @@
+{
+  "id": "ricinus-communis",
+  "family": "Euphorbiaceae",
+  "genus": "Ricinus",
+  "species": "communis",
+  "scientific_name": "Ricinus communis",
+  "common_name": "Castor bean (introduced)",
+  "look_here_first": "Look for huge palmately lobed leaves, spiny three-lobed capsules and upright inflorescences; distinguish from native Croton and other Euphorbiaceae.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Ricinus%20communis",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Introduced toxic plant. Seeds contain ricin; never touch/consume seeds or include in restoration planting.",
+  "images": [
+    {
+      "file": "images/commons-ricinus-communis.jpg",
+      "role": "Provisional castor bean foliage/fruit recognition",
+      "creator": "MJJR",
+      "license": "CC BY 2.5",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ricinus_communis_01.jpg",
+      "study_use": "Private noncommercial field identification learner",
+      "public_reuse": "Maintain author, source photo and original CC license attribution"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

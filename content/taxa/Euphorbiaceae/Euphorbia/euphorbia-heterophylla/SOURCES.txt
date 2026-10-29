@@ -1,0 +1,29 @@
+# Curation sources — Euphorbia heterophylla
+Reviewed through 2026-10-07
+Scientific status: COMPARISON_NON_NATIVE
+Learner role: COMPARISON
+Native metrics: EXCLUDED
+
+Taxonomy / morphology
+Plants of the World Online:
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30062970-2
+
+Flora of North America:
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200012563
+
+FNA sect. Poinsettia key:
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=318100
+
+Diagnostic comparison
+E. heterophylla: green/pale bracts; stipitate gland; circular opening with annular rim.
+E. cyathophora: sharply colored bract bases; sessile/substipitate gland; oblong opening without annular rim.
+
+Physical photo set
+Dinesh Valke — CC BY-SA 2.0
+https://commons.wikimedia.org/wiki/File:Euphorbia_heterophylla_L._(50460036088).jpg
+
+Psumuseum — CC BY-SA 4.0
+https://commons.wikimedia.org/wiki/File:Euphorbia_heterophylla_with_cyathia.JPG
+
+Eitan f — CC BY-SA 4.0
+https://commons.wikimedia.org/wiki/File:Euphorbia_heterophylla_fruits.jpg

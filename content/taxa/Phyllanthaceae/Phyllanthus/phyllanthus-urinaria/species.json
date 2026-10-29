@@ -1,0 +1,95 @@
+{
+  "id": "phyllanthus-urinaria",
+  "family": "Phyllanthaceae",
+  "genus": "Phyllanthus",
+  "species": "urinaria",
+  "scientific_name": "Phyllanthus urinaria",
+  "common_name": "Chamberbitter (introduced)",
+  "look_here_first": "Turn a leafy side branch OVER. The small oblong leaves sit in two rows and make a simple branch look like a compound leaf. At the leaf axils beneath it, look for nearly stalkless round capsules (fruit stalk usually under 0.5 mm), about 2–2.2 mm wide; use a hand lens. Long-stalked phyllanthus (P. tenellus) has fruit hanging on conspicuously longer stalks, often 5–10 mm. Do not ID either plant from foliage alone.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Phyllanthus%20urinaria",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Introduced weed comparison; photo description mentions folk medicinal use, which is not a safe-use recommendation.",
+  "images": [
+    {
+      "file": "images/commons-phyllanthus-urinaria.jpg",
+      "role": "Provisional whole growth recognition of chamberbitter; underside hanging fruit detail needs close-up.",
+      "creator": "Maina Tudu",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Phyllanthus_urinaria_plant.jpg",
+      "study_use": "Noncommercial visual botanical learner",
+      "public_reuse": "CC0 public-domain dedication, original creator acknowledged"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "morphology_keys": {
+    "field_sequence": [
+      "Recognize: annual herb roughly 10–50 cm high with many thin lateral branchlets, each lined with two ranks of small oblong leaves; the leafy twig, not one compound leaf, bears the fruits.",
+      "Look closer: check the underside of a fertile branchlet for small rounded capsules almost touching the stem; compare several nodes rather than one immature fruit.",
+      "Confirm: mature capsules about 2–2.2 mm wide and sometimes finely bumpy; with magnification, seeds about 1.1–1.2 mm have transverse ridges. Seed characters are not expected in an ordinary whole-plant photograph.",
+      "Leaf check: lateral-branch leaves typically about 6–25 mm long and 2–9 mm wide; tiny flowers may be inconspicuous."
+    ],
+    "crew_warning": "A fruit-free seedling or distant photograph may be Phyllanthus sp.; capture the underside and measure a fruit stalk before species-level confirmation."
+  },
+  "comparisons": {
+    "field_comparison_matrix": [
+      {
+        "taxon": "Phyllanthus urinaria",
+        "diagnostic": "Capsules nearly sessile, with stalk usually <0.5 mm; two-ranked branchlet leaves; fruit roughly 2 mm across.",
+        "field_action": "Turn branchlet over and photograph a mature capsule attachment with ruler."
+      },
+      {
+        "taxon": "Phyllanthus tenellus",
+        "diagnostic": "Capsules hang on obvious slender stalks, often 5–10 mm long; more wiry stems and papery leaves.",
+        "field_action": "Measure stalk from branchlet to capsule; don't confuse a leaf stalk with the fruit stalk."
+      }
+    ],
+    "crew_key": "Underside fruit attachment is the tie-breaker, not the plant's general 'mini-mimosa' look."
+  },
+  "diagnostic_image_needs": [
+    {
+      "role": "Whole plant and side-branch architecture",
+      "status": "EXISTING_IMAGE_METADATA_ONLY",
+      "file": "images/commons-phyllanthus-urinaria.jpg",
+      "caption_caution": "Whole plant recognition only; exact visible leaf/fruit anatomy not pixel-reviewed this run."
+    },
+    {
+      "role": "Underside of fruiting branchlet showing nearly sessile capsules",
+      "status": "NEEDS_DIAGNOSTIC_PHOTO"
+    },
+    {
+      "role": "Fruit-stalk comparison with P. tenellus, millimeter scale",
+      "status": "NEEDS_DIAGNOSTIC_PHOTO"
+    },
+    {
+      "role": "Capsule surface and seed ridges, magnified",
+      "status": "NEEDS_DIAGNOSTIC_PHOTO"
+    }
+  ],
+  "field_id_finalization": {
+    "review_date": "2026-10-20",
+    "stage": "PROVISIONAL",
+    "flags": [
+      "NEEDS_DIAGNOSTIC_PHOTO",
+      "annotation_pending"
+    ],
+    "physical_images_verified_by_github_metadata": 1,
+    "photo_review": "One 207803-byte CC0 Commons image present on main. Exact pixels, underside fruit visibility and public browser rendering not inspected; retain original role, license, credit and all images. No arrows added.",
+    "scientific_sources": [
+      "https://www.worldfloraonline.org/taxon/wfo-0000272302",
+      "https://ask.ifas.ufl.edu/publication/EP518"
+    ]
+  }
+}

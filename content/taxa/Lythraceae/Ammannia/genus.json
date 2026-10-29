@@ -1,0 +1,281 @@
+{
+  "rank": "genus",
+  "family": "Lythraceae",
+  "name": "Ammannia",
+  "common_group": "Redstems / toothcups",
+  "project_scope": {
+    "selection_mode": "two manifest-backed Central Texas learner species; recovered missing genus module",
+    "canonical_species_count": 2,
+    "canonical_species_ids": [
+      "ammannia-auriculata",
+      "ammannia-coccinea"
+    ],
+    "sheet_source": "Master Plant Pool rows 52–53; Genus Study Index row 201",
+    "native_range_note": "Both installed species currently retain UNRESOLVED project target-range status in species.json; no new native certification or metrics changes."
+  },
+  "look_here_first": "At a wetland plant's upper stem, find a pair of opposite, stalkless leaves with small ear-like lobes at the base. Follow the leaf axil to its flower cluster. Compare how far the cluster is stalked, count flowers, and measure a mature capsule with a millimeter scale; flower color alone will not settle the species.",
+  "shared_genus_traits": {
+    "habit": "Annual wet-ground herbs with branching, often four-angled stems.",
+    "leaves": "Opposite, simple, mostly entire, sessile leaves; bases often cordate/auriculate and clasping.",
+    "flowers": "Small flowers in leaf-axil cymes, generally four-parted; persistent cup-shaped floral tube (hypanthium) with sepals and sometimes tiny accessory teeth.",
+    "fruit": "Many-seeded, rounded capsule associated with a persistent floral tube.",
+    "family_bridge": "The ovary is superior, sitting within—not fused below—the floral tube. The family lesson compares this with Onagraceae."
+  },
+  "species_comparison_matrix": [
+    {
+      "character": "Cluster stalk (peduncle)",
+      "plain": "Stalk between leaf axil and first branch of flower cluster",
+      "Ammannia auriculata": "Often slender, typically about 3–9 mm in published flora descriptions; can vary.",
+      "Ammannia coccinea": "Usually very short, stout or apparently absent, but descriptions allow 0–9 mm.",
+      "interpretation": "Strongest when combined with cluster compactness and mature capsule size; stalk-length ranges overlap."
+    },
+    {
+      "character": "Flowers per leaf-axil cluster",
+      "plain": "Count distinct flowers or fruit stalks at one node",
+      "Ammannia auriculata": "Commonly 3–15, often loose and pedicellate.",
+      "Ammannia coccinea": "Commonly 1–5, especially 3–5, often tightly grouped.",
+      "interpretation": "Counts overlap; check multiple intact nodes."
+    },
+    {
+      "character": "Mature capsule diameter",
+      "plain": "Measure widest width of ripe rounded fruit",
+      "Ammannia auriculata": "Typically about 1.5–3.5 mm.",
+      "Ammannia coccinea": "Typically about 3.5–5 mm.",
+      "interpretation": "Useful tie-breaker at full maturity; boundary overlaps near 3.5 mm and immature fruit is misleading."
+    },
+    {
+      "character": "Floral tube length",
+      "plain": "Measure the flower cup, not its stalk",
+      "Ammannia auriculata": "Often around 1.5–2 mm, conspicuously ribbed.",
+      "Ammannia coccinea": "Often around 2–3.5 mm in North American descriptions; literature sometimes gives 3–5 mm.",
+      "interpretation": "Confirm mature flowers under magnification; measurement and regional treatments vary."
+    },
+    {
+      "character": "Leaf base and arrangement",
+      "plain": "Look for the little ear-shaped lobes where opposite leaves clasp the stem",
+      "Ammannia auriculata": "Opposite, auriculate/clasping leaves.",
+      "Ammannia coccinea": "Opposite, cordate to auriculate/clasping leaves.",
+      "interpretation": "Shared genus clue, NOT a dependable species split; useful against Rotala ramosior."
+    }
+  ],
+  "quick_key": [
+    {
+      "if": "Opposite clasping leaves; loose, clearly stalked cymes with many small flowers; mature capsule commonly <3.5 mm",
+      "then": "Check Ammannia auriculata; verify floral tube and several fruiting nodes."
+    },
+    {
+      "if": "Opposite clasping leaves; tight few-flowered clusters on short stout stalks; mature capsule commonly >3.5 mm",
+      "then": "Check Ammannia coccinea; confirm with fruit and flowers."
+    },
+    {
+      "if": "Intermediate stalks or immature capsules",
+      "then": "Leave Ammannia sp. until fruiting; the two species overlap."
+    }
+  ],
+  "genus_diagnostics": {
+    "look_here_first": "Opposite leaf bases → axillary cluster stalk → mature capsule → floral tube/calyx.",
+    "shared_structure_examples": [
+      {
+        "term": "auriculate leaf base",
+        "plain": "Little rounded ears where a leaf clasps the stem",
+        "where_to_look": "At a middle or upper pair of opposite leaves; photograph both bases in profile.",
+        "why": "Supports Ammannia against tapered-base Rotala; does not alone separate the two Ammannia species.",
+        "photo_role": "paired node/leaf-base macro with mm scale",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "term": "axillary cyme and peduncle",
+        "plain": "Flower cluster in the angle between leaf and stem, and the stalk holding that cluster",
+        "where_to_look": "Measure from leaf axil to first branch of cluster, not to an individual flower.",
+        "why": "Relative stalk thickness, length and flower count are practical species clues.",
+        "photo_role": "same-scale side-by-side mature axillary clusters of both species",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "term": "hypanthium and calyx teeth",
+        "plain": "Little persistent flower cup with sepal points",
+        "where_to_look": "Side of an intact flower; compare cup ribs and the true sepal teeth with any accessory projections.",
+        "why": "Confirms the Lythraceae/Ammannia floral structure; flower petals are short-lived.",
+        "photo_role": "10×–20× flower-side macro or dissected flower with ruler",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "term": "capsule",
+        "plain": "Rounded seed pod remaining inside the old flower cup",
+        "where_to_look": "Mature fruit at several nodes; measure its widest diameter.",
+        "why": "Capsule diameter is a stronger species separator than flower color.",
+        "photo_role": "matched mature fruit/calyx macros, mm ruler, optional cutaway",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      }
+    ]
+  },
+  "study_strategy": {
+    "priority": [
+      "Confirm genus from opposite sessile auriculate leaves and axillary flowers.",
+      "Find several mature axillary clusters and measure peduncle length.",
+      "Count flowers/fruit per cluster and measure fully ripe capsules.",
+      "Use floral tube and calyx details to confirm; preserve Ammannia sp. for ambiguous plants."
+    ],
+    "overlap_cautions": [
+      "Both species can have ear-shaped leaf bases and pink-purple flowers; neither is a unique species diagnostic.",
+      "Published peduncle lengths and cluster counts overlap; do not turn a tendency into an absolute key.",
+      "Capsule measurements require fully mature fruit and a visible millimeter scale.",
+      "Ammannia robusta can be similar; include it as a regional look-alike, not an installed project species.",
+      "Source-pool inclusion and native-range status are separate; both species remain range-unresolved in canonical metadata."
+    ]
+  },
+  "comparison_cards": [
+    {
+      "title": "Loose stalked cymes versus tight clusters",
+      "taxon_ids": [
+        "ammannia-auriculata",
+        "ammannia-coccinea"
+      ],
+      "look_here_first": "At several upper leaf axils, compare length/thickness of cluster stalk and flower count.",
+      "photo_requirements": [
+        "paired axillary cyme macros with ruler",
+        "same-scale whole upper stem"
+      ],
+      "caution": "A. coccinea stalk length is variable; confirm with ripe fruit."
+    },
+    {
+      "title": "Small versus larger mature capsules",
+      "taxon_ids": [
+        "ammannia-auriculata",
+        "ammannia-coccinea"
+      ],
+      "look_here_first": "Measure the widest diameter of several mature capsules: often 1.5–3.5 mm versus 3.5–5 mm.",
+      "photo_requirements": [
+        "mature capsule side views with millimeter ruler",
+        "dissected capsule and persistent calyx"
+      ],
+      "caution": "Measurements meet around 3.5 mm; immature capsules cannot be keyed confidently."
+    },
+    {
+      "title": "Ammannia versus Rotala and other redstems",
+      "taxon_ids": [
+        "ammannia-auriculata",
+        "ammannia-coccinea"
+      ],
+      "look_here_first": "Compare auriculate leaf bases and cymes with Rotala ramosior's tapered leaf bases and tiny usually solitary axillary flowers; A. robusta needs floral and capsule confirmation.",
+      "photo_requirements": [
+        "Ammannia versus Rotala matched leaf-base macros",
+        "flower/capsule side views of A. robusta if legally available"
+      ],
+      "caution": "Rotala and A. robusta are look-alikes, not extra canonical Ammannia species in this two-species lesson."
+    }
+  ],
+  "local_lookalikes": [
+    {
+      "name": "Rotala ramosior",
+      "family": "Lythraceae",
+      "distinction": "Opposite leaves usually taper toward the base rather than forming obvious clasping ears; flowers tiny and often solitary at axils; verify floral tube."
+    },
+    {
+      "name": "Ammannia robusta",
+      "family": "Lythraceae",
+      "distinction": "A related redstem with overlapping vegetative appearance; use a current regional key, flower cluster and mature capsule characters; not one of the two canonical project Ammannia species."
+    },
+    {
+      "name": "Lythrum spp.",
+      "family": "Lythraceae",
+      "distinction": "More conspicuous flowers on elongate axes and different floral-tube/leaf-base combination; see Lythrum genus lesson."
+    }
+  ],
+  "visual_comparison": {
+    "title": "Ammannia — two species, one temporary photo, diagnostic macros still needed",
+    "status": "partially_installed_photo_metadata; diagnostic_anatomy_unverified",
+    "items": [
+      {
+        "species_id": "ammannia-coccinea",
+        "species_file": "content/taxa/Lythraceae/Ammannia/ammannia-coccinea/species.json",
+        "image_path": "content/taxa/Lythraceae/Ammannia/ammannia-coccinea/images/ammannia-coccinea-starr-flower-fruit.jpg",
+        "photo_role": "flower/developing fruit overview, nonlocal reference",
+        "creator": "Forest & Kim Starr",
+        "license": "CC BY 3.0 US",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Starr-130322-3853-Ammannia_coccinea-flowers_and_fruit_forming-Hanalei_NWR-Kauai_(24914156820).jpg",
+        "photo_status": "installed_reported_by_species_metadata; anatomical_visibility_unverified",
+        "study_use": "yes",
+        "public_reuse": "yes with attribution",
+        "annotation_status": "annotation_pending",
+        "note": "Existing species record reports one physically installed image; not newly downloaded, visually inspected or arrow-verified by this genus run."
+      },
+      {
+        "species_id": "ammannia-auriculata",
+        "species_file": "content/taxa/Lythraceae/Ammannia/ammannia-auriculata/species.json",
+        "photo_status": "needs_photo",
+        "photo_role": "whole plant, opposite auriculate leaves, stalked axillary cyme and mature capsule",
+        "rights_status": "no licensed exact-species image installed; unverified herbarium reference does not grant public reuse",
+        "annotation_status": "annotation_pending"
+      }
+    ],
+    "photo_gaps": [
+      "A. auriculata first verified exact-species photo with creator/license/source page.",
+      "Same-scale auriculate leaf-base macros for both species.",
+      "Axillary cyme peduncle measurement and flower count on multiple nodes.",
+      "Fully mature capsules with mm ruler, and floral tube/calyx detail."
+    ],
+    "overlay_note": "No arrows or structure visibility asserted; inspect actual photographs and coordinates before annotation."
+  },
+  "diagnostic_photo_checklist": [
+    {
+      "species_id": "ammannia-auriculata",
+      "priority": "critical_zero_photo",
+      "roles": [
+        "whole flowering stem",
+        "leaf base and axillary peduncle",
+        "mature capsule with mm ruler",
+        "floral tube closeup"
+      ],
+      "status": "needs_photo"
+    },
+    {
+      "species_id": "ammannia-coccinea",
+      "priority": "diagnostic_enrichment",
+      "roles": [
+        "same-scale cyme and peduncle",
+        "mature capsule and persistent calyx",
+        "flower side view"
+      ],
+      "status": "needs_photo"
+    }
+  ],
+  "handoffs": {
+    "photo_lane": "Secure exact-species, reuse-cleared Ammannia auriculata photo first; then matched peduncle, calyx and ripe-capsule macros for both. Confirm source/license, visual anatomy and image installation independently.",
+    "taxonomy_lane": "No taxonomy/range decisions made; if a future key changes concepts or identifies A. robusta confusion, verify accepted identity and update species research independently.",
+    "installer_lane": "Both species already canonical in manifest; do not reinstall. Preserve existing species galleries and metadata."
+  },
+  "scientific_sources": [
+    {
+      "title": "Ammannia coccinea — World Flora Online aggregated floristic descriptions",
+      "url": "https://www.worldfloraonline.org/taxon/wfo-0000530955",
+      "use": "mature capsule size, floral tube and inflorescence overlap; description from Flora of China and regional floras"
+    },
+    {
+      "title": "Ammannia auriculata — World Flora Online aggregated floristic descriptions",
+      "url": "https://test.worldfloraonline.org/taxon/wfo-0000530923",
+      "use": "peduncle 3–9 mm, flowers 3–15, capsule 1.5–3.5 mm"
+    },
+    {
+      "title": "University of Texas Plant Resources Center — Ammannia coccinea",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Ammannia%20coccinea.html",
+      "use": "Texas floral morphology and short peduncles"
+    },
+    {
+      "title": "Existing Lythraceae family lesson",
+      "path": "content/taxa/Lythraceae/family.json",
+      "use": "hypanthium and ovary position, genus comparisons"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-genus-recovery-2026-10-15",
+    "genus_audit": "two_canonical_species_compared; diagnostic_photo_pending",
+    "species_work_independent": true,
+    "annotation_status": "annotation_pending",
+    "last_reviewed": "2026-10-15"
+  }
+}

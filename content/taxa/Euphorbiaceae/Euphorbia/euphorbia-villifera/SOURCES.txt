@@ -1,0 +1,101 @@
+# Curation sources — Euphorbia villifera
+Reviewed through 2026-10-08
+Project range status: PROVISIONAL
+Learner inclusion: APPROVED
+
+Taxonomy / morphology
+Plants of the World Online:
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:348693-1
+
+Flora of North America:
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242321553
+
+Key diagnostic characters
+- usually erect to ascending, rarely prostrate
+- stems/leaves papillate
+- foliage usually villous but sometimes glabrous
+- stipules distinct and filiform
+- capsule glabrous; cocci often elongated with an empty distal portion
+- seeds weakly 4-angled, smooth to faintly rugose
+
+Physical private-study photo set
+UT Plant Resources Center voucher:
+https://w3.biosci.utexas.edu/prc/specimens/Euphorbiaceae.html
+Historical treatment on sheet: Chamaesyce villifera
+
+UT Austin BIO406D PlantPics exact-species field close-up:
+https://www.bio.utexas.edu/courses/bio406d/images/pics/eup/Chamaesyce_villifera.htm
+Direct image used for private learner:
+https://www.bio.utexas.edu/courses/bio406d/images/pics/eup/Chamaesyce%20villifera%20flwr3.JPG
+
+Reuse terms for these two UT images are not asserted. Keep public_reuse=review.
+Range status remains unchanged by this diagnostic pass.
+
+## Sandmat photo-polish continuation — 2026-10-08
+Four licensed exact-species iNaturalist additions; Research Grade at retrieval. Each original binary decoded and visually inspected before installation. Learner copies use EXIF orientation and a 1600-pixel maximum, JPEG quality 85. Native-range/taxonomy fields preserved.
+
+images/03-capsule-pointed-lobes.jpg
+Nathan Taylor; CC BY NC; https://creativecommons.org/licenses/by-nc/4.0/
+Observation 299725474; photo 539996674
+https://www.inaturalist.org/observations/299725474
+https://inaturalist-open-data.s3.amazonaws.com/photos/539996674/original.jpg
+Role: Capsule close-up / glabrous fruit with elongated pointed lobes
+Limit: Look at the smooth green capsule and its prolonged pointed lobes. This outside view supports capsule shape; an empty internal tip requires dissection and is not proved by this photograph.
+Study use: yes; public reuse: no
+
+images/04-villous-leaf-hairs.jpg
+Matt Berger; CC BY; https://creativecommons.org/licenses/by/4.0/
+Observation 71492483; photo 116407645
+https://www.inaturalist.org/observations/71492483
+https://inaturalist-open-data.s3.amazonaws.com/photos/116407645/original.jpg
+Role: Leaf pubescence close-up / long soft hairs and smooth capsule
+Limit: Long hairs are conspicuous on the leaves and stem; the capsule beside them is smooth. Hairiness supports identification but does not exclude sparsely hairy E. villifera.
+Study use: yes; public reuse: yes
+
+images/05-sparse-hairs-leaf-surface.jpg
+Eric Keith; CC BY NC; https://creativecommons.org/licenses/by-nc/4.0/
+Observation 177282948; photo 308311927
+https://www.inaturalist.org/observations/177282948
+https://inaturalist-open-data.s3.amazonaws.com/photos/308311927/original.jpg
+Role: Leaf surface close-up / sparsely hairy form and opposite asymmetric leaves
+Limit: Compare this sparsely hairy Bandera plant with the hairy leaf view. Surface texture is visible, but this photograph is not a microscopic verification of individual papillae or stipules.
+Study use: yes; public reuse: no
+
+images/06-separated-seeds-reference.jpg
+Carlos Martorell; CC BY; https://creativecommons.org/licenses/by/4.0/
+Observation 8445680; photo 11251968
+https://www.inaturalist.org/observations/8445680
+https://inaturalist-open-data.s3.amazonaws.com/photos/11251968/original.jpeg
+Role: Separated fruit/seed material / reference
+Limit: Separated reproductive material is shown on a palm. Individual pieces are not confidently assigned as seeds, capsule parts or seed coats; do not score mature seed surface, color or angularity from this photograph.
+Study use: yes; public reuse: yes
+
+## Final targeted photo search — 2026-10-08
+Fetched 403 licensed Research Grade E. villifera observations (1101 photo records); 1000 thumbnail binaries downloaded and screened in contact sheets, 101 downloads failed. Inspected selected originals and installed three complementary views. No verified mature-seed texture or dissected empty capsule-tip image found. Node appendages and leaf texture improve context without proving microscopic stipule/papilla anatomy.
+
+images/07-leaf-surface-node-detail.jpg
+Russell Pfau; CC BY-NC; https://creativecommons.org/licenses/by-nc/4.0/
+Observation 207499326; photo 366994702
+https://www.inaturalist.org/observations/207499326
+https://inaturalist-open-data.s3.amazonaws.com/photos/366994702/original.jpeg
+Role: Leaf surface and node close-up / fine texture in a sparsely hairy form
+Limit: Look at the finely textured leaf blades and the leaf bases at the lower-right node. Small pale appendages are visible there, but cellular papilla anatomy and stipule-versus-hair identity are not resolved sufficiently to close the microscopic gaps.
+Study use: yes; public reuse: no
+
+images/08-node-leaf-attachments.jpg
+Chet Burrier; CC BY; https://creativecommons.org/licenses/by/4.0/
+Observation 207003160; photo 366103689
+https://www.inaturalist.org/observations/207003160
+https://inaturalist-open-data.s3.amazonaws.com/photos/366103689/original.jpg
+Role: Node close-up / leaf attachments and narrow pale appendages
+Limit: Look at the junction of the opposite leaf stalks with the red stem and the narrow pale appendages at the lower-left node. This is a node-location guide; do not treat every pale thread as a verified stipule. The smooth capsule is shown externally.
+Study use: yes; public reuse: yes
+
+images/09-joey-cyathium-leaves.jpg
+Joey Santore; CC BY-NC; https://creativecommons.org/licenses/by-nc/4.0/
+Observation 110925004; photo 187198351
+https://www.inaturalist.org/observations/110925004
+https://inaturalist-open-data.s3.amazonaws.com/photos/187198351/original.jpeg
+Role: Joey Santore close-up / cyathium, capsule and villous leaves
+Limit: Look at the central cyathium above the smooth capsule, beside the long-haired leaves. This exact-species field photo complements the sparse-hair views; it does not resolve seeds, dissected capsule tips or individual stipules.
+Study use: yes; public reuse: no

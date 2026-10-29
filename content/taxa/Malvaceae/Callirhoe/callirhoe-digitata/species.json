@@ -1,0 +1,139 @@
+{
+  "id": "callirhoe-digitata",
+  "entry_type": "species",
+  "family": "Malvaceae",
+  "genus": "Callirhoe",
+  "species": "digitata",
+  "scientific_name": "Callirhoe digitata",
+  "authority": "Nutt.",
+  "common_name": "Fringed poppy mallow",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO and Flora of North America, but current distributions place it in Arkansas, Kansas, Missouri and Oklahoma rather than Texas. Older literature has sometimes extended it into Texas, creating a useful taxonomic/range-confusion lesson.",
+  "look_here_first": "Think tall, glaucous perennial with highly dissected fingerlike leaves and NO involucellar bractlets. The inflorescence is paniculate, stipules are usually shed early, and the calyx lobes meet into a pointed bud.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "FAIL",
+    "range_basis": "Kew/POWO currently lists the native range as Alabama, Arkansas, Kansas, Missouri and Oklahoma, with no Texas. Flora of North America lists Callirhoe digitata from Arkansas, Kansas, Missouri and Oklahoma and describes it as an Ozark/Ouachita/Cherokee Plains species.",
+    "range_guardrail": "Do not preserve legacy Texas-range claims as native evidence when current Kew/FNA treatments exclude Texas.",
+    "native_metrics_excluded": true
+  },
+  "learner_role": "OUT_OF_RANGE_TAXONOMIC_COMPARISON",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial from thickened root, usually erect rather than trailing",
+      "stems glaucous and nearly glabrous, commonly 0.5–2 m in FNA",
+      "leaves deeply 5–10-lobed with very narrow linear to lanceolate ultimate segments",
+      "stipules caducous, often absent by flowering",
+      "inflorescence paniculate rather than racemose",
+      "involucellar bractlets absent",
+      "calyx lobes valvate in bud and form an apiculate/acuminate point",
+      "flowers reddish-purple, but color is not diagnostic",
+      "mericarps glabrous and indehiscent, beaks not prominent"
+    ],
+    "comparison_training": "Callirhoe pedata: C. pedata is Texas-native, usually has persistent stipules and a racemose inflorescence; its leaves are 3–5-lobed rather than typically 5–10-lobed, though both can be strongly dissected. Callirhoe leiocarpa: C. leiocarpa is annual/biennial, with dehiscent mericarps and prominent beaks/collars; C. digitata is perennial with indehiscent fruit. Callirhoe involucrata: Winecup has 3 involucellar bractlets and a low trailing habit; C. digitata lacks the involucel and is tall/erect."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Callirhoe pedata",
+      "Callirhoe leiocarpa",
+      "Callirhoe involucrata"
+    ],
+    "key_distinctions": "C. pedata is Texas-native, usually has persistent stipules and a racemose inflorescence; its leaves are 3–5-lobed rather than typically 5–10-lobed, though both can be strongly dissected. C. leiocarpa is annual/biennial, with dehiscent mericarps and prominent beaks/collars; C. digitata is perennial with indehiscent fruit. Winecup has 3 involucellar bractlets and a low trailing habit; C. digitata lacks the involucel and is tall/erect."
+  },
+  "tags": [
+    "Malvaceae",
+    "Callirhoe",
+    "Fringed poppy mallow",
+    "Out-of-range comparison"
+  ],
+  "curation_status": {
+    "version": "1.0-b020-part2",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-04",
+    "comparison_retained": true,
+    "photo_reviewed": true,
+    "photo_metadata_count": 4,
+    "photo_files_present": 2,
+    "manual_library_install_014": "2026-10-16"
+  },
+  "photo_note": "Visual-lock pass 2026-10-04: real diagnostic photos wired into images[]; provenance and study/public reuse status preserved. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "images": [
+    {
+      "file": "https://www.highcountrygardens.com/cdn/shop/files/callirhoe_digitata_hbltl51_1_1.jpg?v=1761077525&width=1946",
+      "role": "upright flowering habit",
+      "creator": "High Country Gardens",
+      "license": "source-site copyright",
+      "source_page": "https://www.highcountrygardens.com/products/perennial-callirhoe-poppy-mallow-fringed",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "https://cdn.plantiary.com/images/plants/callirhoe-digitata.jpg",
+      "role": "deeply digitated leaf close-up",
+      "creator": "Plantiary source image",
+      "license": "source-site copyright",
+      "source_page": "https://plantiary.com/plant/callirhoe-digitata_6638.html",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/library-review014-388ae434ffb3812.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Deeply dissected digitately lobed foliage with flowering growth habit",
+      "creator": "Kyle Botefur",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5110184820",
+      "media_source_url": "https://bs.plantnet.org/image/o/671c73209db8fba95e2ec7e2c84af450f8ccb776",
+      "source_determination": "Callirhoe digitata",
+      "source_observation_id": "5110184820",
+      "library_release_tag": "hays-photo-library-seed-plantnet-20261015",
+      "library_archive_file": "staged_images/callirhoe-digitata/plantnet via gbif-6469a164d5e8bf.jpg",
+      "archive_image_sha256": "d5b74908ffb1393049ff0cb71ff7264c9d8446118822f744351fc4f2ff16f536",
+      "image_dimensions": [
+        1000,
+        750
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review014-a2feca0b471585f.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Deeply dissected digitately lobed foliage with flowering growth habit",
+      "creator": "lisa Williams",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5109584774",
+      "media_source_url": "https://bs.plantnet.org/image/o/2c636627a29f1136a0b54a5276c27ded57e11160",
+      "source_determination": "Callirhoe digitata",
+      "source_observation_id": "5109584774",
+      "library_release_tag": "hays-photo-library-seed-plantnet-20261015",
+      "library_archive_file": "staged_images/callirhoe-digitata/plantnet via gbif-22d5de25e2f288.jpg",
+      "archive_image_sha256": "85cf3dc21bea22631230f647b0a6d0f19d854de259726f3a7fcf1b6a512f0942",
+      "image_dimensions": [
+        800,
+        1067
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ]
+}

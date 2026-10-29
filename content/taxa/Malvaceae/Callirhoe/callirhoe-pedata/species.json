@@ -1,0 +1,86 @@
+{
+  "id": "callirhoe-pedata",
+  "entry_type": "species",
+  "family": "Malvaceae",
+  "genus": "Callirhoe",
+  "species": "pedata",
+  "scientific_name": "Callirhoe pedata",
+  "authority": "(Nutt. ex Hook.) A.Gray",
+  "common_name": "Palmleaf poppymallow",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by Kew/POWO, FNA and ITIS. Texas is in the native range. Older/alternate material can confuse it with C. digitata, including the synonym C. digitata var. stipulata.",
+  "look_here_first": "Look at habit, stipules and inflorescence. Palmleaf poppymallow is an erect-to-weakly-erect perennial with persistent linear-lanceolate stipules, a racemose flower arrangement, no involucellar bractlets, and deeply palmately divided leaves with 3–5 main lobes.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays County — UT Plant Resources Center Purola Preserve natural flora lists Callirhoe pedata among naturally occurring plants. Travis County — UT Plant Resources Center Malvaceae specimen index includes three Callirhoe pedata specimens. Williamson County — UT Plant Resources Center provides a detailed field treatment for Callirhoe pedata.",
+    "range_guardrail": "Do not use cultivated winecup records for range proof; PASS rests on natural-flora/herbarium/county-treatment evidence."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial with thick storage taproot and several stems from the base",
+      "stems erect to weakly erect, often glaucous and nearly glabrous",
+      "persistent linear-lanceolate to subulate stipules",
+      "leaves palmately 3–5-lobed, often further divided into narrow segments",
+      "inflorescence racemose",
+      "involucellar bractlets absent",
+      "calyx lobes valvate in bud and form a pointed/apiculate bud",
+      "petals usually reddish-purple but sometimes white/pink; flower color not reliable alone",
+      "mericarps indehiscent, glabrous or sparsely hairy; beaks variable"
+    ],
+    "comparison_training": "Callirhoe digitata: C. digitata usually has 5–10-lobed leaves, caducous stipules and a paniculate inflorescence; C. pedata usually has persistent stipules and a raceme. Current Kew/FNA distributions place C. digitata outside Texas. Callirhoe involucrata: C. involucrata is low/trailing and has 3 involucellar bractlets; C. pedata is erect and lacks involucellar bractlets. Callirhoe leiocarpa: C. leiocarpa is annual/biennial with dehiscent strongly beaked mericarps; C. pedata is perennial with indehiscent fruit."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Callirhoe digitata",
+      "Callirhoe involucrata",
+      "Callirhoe leiocarpa"
+    ],
+    "key_distinctions": "C. digitata usually has 5–10-lobed leaves, caducous stipules and a paniculate inflorescence; C. pedata usually has persistent stipules and a raceme. Current Kew/FNA distributions place C. digitata outside Texas. C. involucrata is low/trailing and has 3 involucellar bractlets; C. pedata is erect and lacks involucellar bractlets. C. leiocarpa is annual/biennial with dehiscent strongly beaked mericarps; C. pedata is perennial with indehiscent fruit."
+  },
+  "tags": [
+    "Malvaceae",
+    "Callirhoe",
+    "Palmleaf poppymallow",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-b020-part2",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-04",
+    "photo_reviewed": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2
+  },
+  "photo_note": "Visual-lock pass 2026-10-04: real diagnostic photos wired into images[]; provenance and study/public reuse status preserved.",
+  "images": [
+    {
+      "file": "images/01-purple-flowering-habit.jpg",
+      "role": "Purple-flowering plant/habit with multiple stems and buds",
+      "creator": "lanechaffin",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Callirhoe_pedata_359070311.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/02-flower-bud-close-context.jpg",
+      "role": "Flower plus pointed bud/calyx context",
+      "creator": "giantcicada",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Callirhoe_pedata_382056768.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "id": "acalypha-persimilis",
+  "entry_type": "species",
+  "family": "Euphorbiaceae",
+  "genus": "Acalypha",
+  "species": "persimilis",
+  "scientific_name": "Acalypha persimilis",
+  "authority": "Müll.Arg.",
+  "common_name": "Acalypha persimilis",
+  "synonyms": [
+    "Acalypha ostryifolia Riddell ex J.M.Coult. (current Kew heterotypic synonym; nomenclatural proposal may affect preferred usage)"
+  ],
+  "taxonomic_note": "Current POWO/WCVP accepts Acalypha persimilis and treats A. ostryifolia as a synonym, but a recent nomenclatural conservation proposal creates ongoing name uncertainty.",
+  "look_here_first": "LOOK HERE FIRST — Acalypha persimilis (the concept widely treated as A. ostryifolia): TALL ANNUAL often 35–70 cm with alternate ovate, heart-based, serrate leaves on long stalks. Male STAMINATE flower spikes arise from leaf AXILS; female PISTILLATE flower spikes are TERMINAL (or seem axillary on short branchlets). Each loosely separated female bract has roughly 13–17 long LINEAR finger-like lobes (range 9–17), unlike A. phleoides' 5–7 triangular lobes and bisexual spike or A. radians' crowded spatulate lobes. Do not split A. persimilis from A. ostryifolia into duplicate project cards: the familiar name has an active 2025 formal nomenclatural conservation proposal. Keep the canonical identity/name-status unresolved until authoritative final ruling.",
+  "county_occurrences_target_zone": [
+    "Uvalde"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED NOMENCLATURE/RANGE — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Uvalde is the only exact project target-zone county currently locked through synonym-reconciled evidence. Two more exact target-zone counties are still needed.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Learner inclusion is independent from native-range certification and nomenclatural finality."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "NOMENCLATURE_AND_RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "annual herb",
+      "alternate ovate serrate leaves often 3–5-nerved from base",
+      "monoecious apetalous flowers in spikes",
+      "reproductive architecture more important than leaf shape",
+      "3-lobed capsule"
+    ],
+    "comparison_training": "Re-key against Acalypha phleoides and A. radians using reproductive spikes/bracts. Older A. ostryifolia field-guide material may refer to the same current concept.",
+    "source_references": [
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416005"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Acalypha persimilis / ostryifolia",
+      "Acalypha phleoides",
+      "Acalypha radians",
+      "Acalypha virginica / rhomboidea (comparison-only)"
+    ],
+    "key_distinctions": "Acalypha persimilis / ostryifolia: Annual, heart-based serrate leaves, male spikes axillary, female spikes terminal, 13–17 long narrow bract lobes | Acalypha phleoides: Perennial, short petioles and a terminal MIXED spike, spaced bracts mostly 5–7 triangular lobes | Acalypha radians: Small round deeply crenate leaves and dioecious habit; female bracts crowded, 8–10 broad spoon lobes | Acalypha virginica / rhomboidea (comparison-only): Often all axillary flower structures and different bract lobing; check local specimens before accepting a species",
+    "field_matrix": [
+      {
+        "taxon": "Acalypha persimilis / ostryifolia",
+        "split": "Annual, heart-based serrate leaves, male spikes axillary, female spikes terminal, 13–17 long narrow bract lobes"
+      },
+      {
+        "taxon": "Acalypha phleoides",
+        "split": "Perennial, short petioles and a terminal MIXED spike, spaced bracts mostly 5–7 triangular lobes"
+      },
+      {
+        "taxon": "Acalypha radians",
+        "split": "Small round deeply crenate leaves and dioecious habit; female bracts crowded, 8–10 broad spoon lobes"
+      },
+      {
+        "taxon": "Acalypha virginica / rhomboidea (comparison-only)",
+        "split": "Often all axillary flower structures and different bract lobing; check local specimens before accepting a species"
+      }
+    ],
+    "not_reliable_alone": [
+      "Leaf color or general hairiness",
+      "One flower or a single reproductive plant as proof of the whole species sex system",
+      "Estimating female bract lobes from an unfocused whole-plant image"
+    ]
+  },
+  "tags": [
+    "Euphorbiaceae",
+    "Acalypha",
+    "Nomenclatural hold",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.1-acalypha-field-diagnostic-pass-20261021",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": false,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-21",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15",
+    "visual_status": "FIELD_READY_PHOTO_GAPS / NOMENCLATURE_AND_RANGE_HOLD: verified photo records and field-ID comparisons; important terminal/axillary paired closeups missing; preferred-name HOLD preserved"
+  },
+  "diagnostic_image_needs": [
+    "whole habit",
+    "leaf and basal venation",
+    "entire inflorescence",
+    "pistillate bract/styles macro",
+    "staminate portion macro",
+    "mature capsule/seed"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/acalypha-persimilis-provisional-face.jpg",
+      "role": "Whole Acalypha persimilis flowering/vegetative recognition view; reproductive macro later.",
+      "creator": "Kenraiz",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acalypha_persimilis_01.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/gbif-manual-6234738364-f50f2e7d8.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Pistillate bract lobes and fruit; separate male and female reproductive spikes",
+      "creator": "lanechaffin",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6234738364",
+      "gbif_occurrence_id": "6234738364",
+      "source_determination": "Acalypha persimilis Müll.Arg.",
+      "accepted_target": "Acalypha persimilis",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645735566/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "filled_at": "2026-10-08",
+    "note": "Species field-key upgraded while preserving original source photo rights; precision reproductive macros still missing."
+  },
+  "photo_diagnostic_lesson": {
+    "title": "Hophornbeam copperleaf — terminal female / axillary male spikes",
+    "steps": [
+      {
+        "stage": "1 — ANNUAL",
+        "look": "Erect annual; ovate heart-based leaves",
+        "what": "Find upright plant and photograph a broad leaf base, long petiole, and serrated margin."
+      },
+      {
+        "stage": "2 — MALE SPIKES",
+        "look": "Axillary male spikes",
+        "what": "At a leaf/stem angle, look for the staminate axis and capture its insertion into the axil."
+      },
+      {
+        "stage": "3 — FEMALE SPIKES",
+        "look": "Terminal female flower axis",
+        "what": "Find female spikes at growing tips and compare same individual's male spikes in axils."
+      },
+      {
+        "stage": "4 — FEMALE BRACT",
+        "look": "13–17 narrow fingerlike linear lobes",
+        "what": "One bract with actual fingers in focus, preferably ruler/scale; don't count leaf margin teeth."
+      },
+      {
+        "stage": "5 — NAMES",
+        "look": "A. ostryifolia currently synonym in POWO; formal name conservation proposed",
+        "what": "Keep just one canonical card; old field guides using ostryifolia refer to same working biological concept."
+      }
+    ],
+    "memory_rule": "Erect annual; ovate heart-based leaves → Axillary male spikes → Terminal female flower axis"
+  },
+  "visual_comparison": {
+    "title": "Hophornbeam copperleaf — terminal female / axillary male spikes — real existing photographs with honest macro limitations",
+    "subtitle": "2 existing exact-source image records (no new photos installed in this species-card pass). Female bract diagnostic counts are FNA descriptions; existing image arrows not fabricated.",
+    "items": [
+      {
+        "label": "1 · whole-plant recognition",
+        "scientific_name": "Acalypha persimilis",
+        "image_url": "content/taxa/Euphorbiaceae/Acalypha/acalypha-persimilis/images/acalypha-persimilis-provisional-face.jpg",
+        "image_fit": "contain",
+        "creator": "Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acalypha_persimilis_01.jpg",
+        "image_role": "Whole Acalypha persimilis flowering/vegetative recognition view; reproductive macro later.",
+        "caption": "Existing exact-source photograph; useful for recognition, but female-bract lobe number and plant sex are not asserted without a visible structure.",
+        "why_it_matters": "Real photo for field comparison; pending precise anatomy review.",
+        "markers": []
+      },
+      {
+        "label": "2 · existing additional source view",
+        "scientific_name": "Acalypha persimilis",
+        "image_url": "content/taxa/Euphorbiaceae/Acalypha/acalypha-persimilis/images/gbif-manual-6234738364-f50f2e7d8.jpg",
+        "image_fit": "contain",
+        "creator": "lanechaffin",
+        "license": "CC0 1.0",
+        "source_page": "https://www.gbif.org/occurrence/6234738364",
+        "image_role": "Additional distinct image candidate; target structures not yet visually verified",
+        "caption": "Existing exact-source photograph; useful for recognition, but female-bract lobe number and plant sex are not asserted without a visible structure.",
+        "why_it_matters": "Real photo for field comparison; pending precise anatomy review.",
+        "markers": []
+      }
+    ],
+    "memory_rule": "Locate the position and sex of flower spikes, then magnify FEMALE BRACT teeth.",
+    "annotation_status": "Initial existing gallery overview; no new arrows until actual photo pixel targets verified.",
+    "part_examples": [
+      {
+        "title": "Female pistillate bract 13–17 narrow linear lobes",
+        "role": "Female pistillate bract 13–17 narrow linear lobes",
+        "status": "needs_photo",
+        "look_for": "individual bract with 13–17 long fingers in clear focus",
+        "why_it_matters": "Distinguishes from phleoides/radians"
+      },
+      {
+        "title": "Same plant showing terminal female spike and axillary male spike",
+        "role": "Same plant showing terminal female spike and axillary male spike",
+        "status": "needs_photo",
+        "look_for": "whole flowering portion with stem and insertion points",
+        "why_it_matters": "Distinctive location of reproductive structures"
+      },
+      {
+        "title": "Three-part muricate/spiny mature capsule",
+        "role": "Three-part muricate/spiny mature capsule",
+        "status": "needs_photo",
+        "look_for": "female bract peeled aside to reveal actual fruit, no mislabel",
+        "why_it_matters": "Confirms mature fruit rather than new buds"
+      }
+    ]
+  },
+  "field_photo_quickcheck": {
+    "heading": "Hophornbeam copperleaf — terminal female / axillary male spikes",
+    "featured_photo_indices": [
+      0,
+      1
+    ],
+    "steps": [
+      "Find upright plant and photograph a broad leaf base, long petiole, and serrated margin.",
+      "At a leaf/stem angle, look for the staminate axis and capture its insertion into the axil.",
+      "Find female spikes at growing tips and compare same individual's male spikes in axils.",
+      "One bract with actual fingers in focus, preferably ruler/scale; don't count leaf margin teeth.",
+      "Keep just one canonical card; old field guides using ostryifolia refer to same working biological concept."
+    ],
+    "field_rule": "LOOK HERE FIRST — Acalypha persimilis (the concept widely treated as A. ostryifolia): TALL ANNUAL often 35–70 cm with alternate ovate, heart-based, serrate leaves on long stalks. Male STAMINATE flower spikes arise from leaf AXILS; female PISTILLATE flower spikes are TERMINAL (or seem axillary on short branchlets). Each loosely separated female bract has roughly 13–17 long LINEAR finger-like lobes (range 9–17), unlike A. phleoides' 5–7 triangular lobes and bisexual spike or A. radians' crowded spatulate lobes. Do not split A. persimilis from A. ostryifolia into duplicate project cards: the familiar name has an active 2025 formal nomenclatural conservation proposal. Keep the canonical identity/name-status unresolved until authoritative final ruling.",
+    "warning": "The project name/range HOLD remains unchanged. FNA uses A. ostryifolia, POWO accepts A. persimilis, and a 2025 conservation proposal may change the preferred name.",
+    "owner_mobile_review": "PENDING"
+  },
+  "diagnostic_photo_targets": [
+    {
+      "role": "Female pistillate bract 13–17 narrow linear lobes",
+      "status": "NEEDS_LICENSED_VERIFIED_MACRO"
+    },
+    {
+      "role": "Same plant showing terminal female spike and axillary male spike",
+      "status": "NEEDS_LICENSED_VERIFIED_MACRO"
+    },
+    {
+      "role": "Three-part muricate/spiny mature capsule",
+      "status": "NEEDS_LICENSED_VERIFIED_MACRO"
+    }
+  ]
+}

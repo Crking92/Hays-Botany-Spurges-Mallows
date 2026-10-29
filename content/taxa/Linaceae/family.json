@@ -1,0 +1,216 @@
+{
+  "rank": "family",
+  "name": "Linaceae",
+  "common_name": "Flax family",
+  "lineage_context": {
+    "order": "Malpighiales",
+    "batch": "Malpighiales",
+    "close_project_families": [
+      "Malpighiaceae",
+      "Euphorbiaceae",
+      "Phyllanthaceae"
+    ],
+    "teaching_goal": "Use the local Linum flower-and-fruit plan—5 free petals, 5 stamens, 5 styles and a many-part capsule—as the family door, then contrast Malpighiaceae's clawed petals/oil-gland architecture."
+  },
+  "project_scope": {
+    "selection_mode": "Central Texas Linum-first family module",
+    "note": "All five project-pool taxa are Linum. This lesson is intentionally built around the local genus rather than pretending one narrow key covers all global Linaceae."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "LOOK HERE FIRST: inspect one open Linum flower for five petals and FIVE FERTILE STAMENS (pollen-bearing anthers). The superior ovary has five carpels and five styles that may be free or joined nearly to their tips. Inspect ripe fruit for FIVE original locules; optional false septa may create ten apparent compartments. Capsules may open in FIVE OR TEN segments depending on species. Do not assume ten valves or five separate styles.",
+    "vegetative": "Local Linum are annual or perennial herbs with simple narrow leaves that may be alternate, opposite or whorled low on the stem; stipules are absent or gland-like.",
+    "reproductive": "Local Linum flowers usually have five sepals, five petals, five fertile stamens, and a superior five-carpellate ovary. Five styles can be free or connate. Staminodes (tiny sterile stamens) number zero or five in the genus, but are ABSENT in L. berlandieri, L. rigidum, L. hudsonioides and L. imbricatum according to Flora of North America. The ovary contains ovules; styles do not. Petals may fall early.",
+    "fruit": "Dry capsule from five original carpels/locules, commonly with two ovules per locule. False septa may partially or nearly completely subdivide chambers; capsules open into five or ten segments depending on species. L. berlandieri, L. rigidum, L. hudsonioides and L. imbricatum have five two-seeded opening segments in Flora of North America. Never conflate original locules, false septa and dehiscence segments.",
+    "field_tip": "Count fertile anthers, not staminodes. Look for five carpels and the capsule; styles may be joined. Simple narrow leaves support identification but lower leaves can be opposite or whorled. Cistaceae commonly has many stamens, Geraniaceae beaked fruits, Oxalidaceae often ten stamens/compound leaves, and Malpighiaceae clawed petals/sepal glands."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_007",
+    "teaching_order": "five fertile anthers vs joined styles → superior ovary → five primary locules vs optional false septa → five-or-ten fruit segments → species leaf/bract edges and family look-alikes",
+    "intro": "Count the five fertile pollen-bearing stamens and distinguish them from pollen-receiving styles. The styles are not necessarily free, and a five-carpellate capsule need not split into ten segments. Fruit sections and same-scale comparisons beat flower color.",
+    "steps": [
+      {
+        "title": "1 · Count the free petals",
+        "photo_role": "flower-center top/oblique macro",
+        "look_for": "Five fertile anthers (pollen-bearing tips) distinct from joined styles/stigmas (pollen-receiving tips). Staminodes absent in this species.",
+        "why_it_matters": "Keeps the lesson structural instead of color-based.",
+        "status": "needs_photo",
+        "species_reference": "Linum berlandieri",
+        "plain_formal_labels": [
+          {
+            "plain": "pollen-bearing tip",
+            "formal": "anther"
+          },
+          {
+            "plain": "pollen-receiving tip",
+            "formal": "stigma"
+          },
+          {
+            "plain": "joined stalks",
+            "formal": "connate styles"
+          }
+        ],
+        "annotation_status": "annotation_pending",
+        "media_verification": "No exact photo ID, creator, individual license, anatomy visibility, caption or arrow coordinates verified"
+      },
+      {
+        "title": "2 · Find five stamens and five styles",
+        "photo_role": "flower-side section with floral insertion",
+        "look_for": "Seed-bearing swelling above the petal/stamen insertion = superior ovary. Match same-angle family confusers where possible.",
+        "why_it_matters": "This is a stronger local flax confirmation than narrow leaves alone.",
+        "status": "needs_photo",
+        "species_reference": "Linum rigidum",
+        "plain_formal_labels": [
+          {
+            "plain": "seed-bearing swelling",
+            "formal": "superior ovary"
+          },
+          {
+            "plain": "attachment level of flower parts",
+            "formal": "floral insertion"
+          }
+        ],
+        "annotation_status": "annotation_pending",
+        "media_verification": "No exact photo ID, creator, individual license, anatomy visibility, caption or arrow coordinates verified"
+      },
+      {
+        "title": "3 · Follow the ovary into the capsule",
+        "photo_role": "same-fruit transverse and longitudinal ripe capsule sections",
+        "look_for": "Five original chambers; optional false septa may subdivide them; count actual opening segments before marking.",
+        "why_it_matters": "Fruit architecture confirms the flower pattern after petals are gone.",
+        "status": "needs_photo",
+        "species_reference": "Linum rupestre",
+        "plain_formal_labels": [
+          {
+            "plain": "original seed chamber",
+            "formal": "primary locule"
+          },
+          {
+            "plain": "secondary wall",
+            "formal": "false septum"
+          },
+          {
+            "plain": "opening fruit piece",
+            "formal": "dehiscence segment"
+          }
+        ],
+        "annotation_status": "annotation_pending",
+        "media_verification": "No exact photo ID, creator, individual license, anatomy visibility, caption or arrow coordinates verified"
+      },
+      {
+        "title": "4 · Use sepal and capsule details for species work",
+        "photo_role": "matched upper leaf/bract edge macros and capsule cutaways",
+        "look_for": "Hudsonioides: upper leaves/bracts not ciliate, false-septum thickening narrow/distal. Imbricatum: sparsely ciliate, thicker false septum toward base. Both capsules split into five two-seeded segments.",
+        "why_it_matters": "The five project flax taxa are close enough that family recognition must hand off cleanly to species morphology.",
+        "status": "needs_photo",
+        "species_reference": "Linum hudsonioides versus Linum imbricatum",
+        "plain_formal_labels": [
+          {
+            "plain": "tiny fringe hairs",
+            "formal": "cilia"
+          },
+          {
+            "plain": "thickened false wall",
+            "formal": "cartilaginous false septum"
+          }
+        ],
+        "annotation_status": "annotation_pending",
+        "media_verification": "No exact photo ID, creator, individual license, anatomy visibility, caption or arrow coordinates verified"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Linaceae vs Malpighiaceae",
+        "rule": "Both are Malpighiales with 5-part flowers, but local Linum is radial with ordinary free petals and five styles; Malpighiaceae commonly has opposite leaves, conspicuously clawed petals, often 10 stamens and sepal oil glands."
+      },
+      {
+        "title": "Linaceae vs Geraniaceae",
+        "rule": "Both can be 5-merous herbs. Geraniaceae commonly forms a beaked schizocarp; local Linum forms a dry many-part capsule without the geranium beak."
+      },
+      {
+        "title": "Linaceae vs Cistaceae",
+        "rule": "Both may have five free petals, but Cistaceae commonly has MANY stamens; local Linum has five fertile stamens. Inspect flower centers and fruit."
+      },
+      {
+        "title": "Linaceae vs Oxalidaceae",
+        "rule": "Oxalis commonly has ten stamens and compound leaves, versus five fertile stamens and narrow simple leaves in local Linum. Confirm fruit before deciding."
+      }
+    ],
+    "caveat": "Global Linaceae is broader than Linum. This learner deliberately keys the project's one-genus pool."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Linum",
+        "taxa_count": 5,
+        "fast_cue": "Five fertile stamens, five carpels, styles sometimes joined, capsule opening in five or ten segments; five project species.",
+        "role": "sole project genus"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Linum berlandieri",
+    "Linum hudsonioides",
+    "Linum imbricatum",
+    "Linum rigidum",
+    "Linum rupestre"
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "five fertile stamens versus five styles (free or connate)",
+      "annotation_goal": "label anthers and the central styles/stigmas; verify whether styles are joined; never invent staminodes",
+      "photo_role": "flower-center macro with anthers and stigmatic tips in focus",
+      "status": "needs_photo",
+      "annotation_status": "annotation_pending"
+    },
+    {
+      "priority": 1,
+      "structure": "mature capsule with five primary carpels and optional false septa",
+      "annotation_goal": "show original chambers, false septa only if actually present, and count five or ten opening segments on the exact fruit",
+      "photo_role": "same-fruit transverse and longitudinal ripe-capsule sections",
+      "status": "needs_photo",
+      "annotation_status": "annotation_pending"
+    },
+    {
+      "priority": 2,
+      "structure": "sepal and upper leaf/bract margin comparison",
+      "annotation_goal": "support species handoff without color dependence; inspect cilia and glandular teeth rather than assuming all edges match",
+      "photo_role": "matched same-scale upper leaf/bract edge and inner/outer sepal macros",
+      "status": "needs_photo",
+      "annotation_status": "annotation_pending"
+    },
+    {
+      "priority": 2,
+      "structure": "Linaceae versus Malpighiaceae flower and sepal architecture",
+      "annotation_goal": "ordinary free petals versus clawed petals/oil glands; verify underside glands and actual petal attachment",
+      "photo_role": "matched flower center, petal claw and sepal underside macro",
+      "status": "needs_photo",
+      "annotation_status": "annotation_pending"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Linaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30003859-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Linum",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:24945-1/general-information"
+    },
+    {
+      "source": "Flora of North America — Linum genus (via World Flora Online)",
+      "url": "https://www.worldfloraonline.org/taxon/wfo-4000021903"
+    },
+    {
+      "source": "Flora of North America — Linum hudsonioides and Linum imbricatum",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101712"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-007",
+    "last_reviewed": "2026-10-16",
+    "visual_lock": "family_structure_live_flower_and_capsule_macros_pending",
+    "family_backfill_phase": "family-only anatomical polish and four photo-role handoffs; photo/arrow verification pending"
+  }
+}

@@ -1,0 +1,28 @@
+# Curation sources — Euphorbia marginata
+Reviewed through 2026-10-07
+Scientific status: PASS
+Learner admission: APPROVED / canonical
+
+Range
+Hays, Travis, and Kerr are the three locked project target-zone counties.
+Williamson is outside the project target-zone list and is not counted.
+
+Morphology / comparison
+UT / Williamson County detailed treatment:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Euphorbia%20marginata
+
+Euphorbia marginata vs. E. bicolor comparison:
+https://www.inaturalist.org/posts/11153-euphorbia-marginata-snow-on-the-mountain-and-e-bicolor-snow-on-the-prairie
+
+Photos
+Existing NPS public-domain whole-plant image:
+https://commons.wikimedia.org/wiki/File:Euphorbia_marginata_NPS-1.jpg
+
+H. Zell inflorescence close-up — CC BY-SA 3.0:
+https://commons.wikimedia.org/wiki/File:Euphorbia_marginata_002.JPG
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T02:04:14.261994+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/428373451
+https://www.inaturalist.org/observations/240443206
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

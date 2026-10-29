@@ -1,0 +1,274 @@
+{
+  "rank": "genus",
+  "family": "Passifloraceae",
+  "name": "Passiflora",
+  "common_group": "Passionflowers",
+  "project_scope": {
+    "selection_mode": "All six already canonical; learner inclusion independent from county-native certification; revised visual pass 2026-10-13",
+    "canonical_species_ids": [
+      "passiflora-affinis",
+      "passiflora-foetida",
+      "passiflora-incarnata",
+      "passiflora-lanuginosa",
+      "passiflora-lutea",
+      "passiflora-tenuiloba"
+    ],
+    "canonical_species_count": 6,
+    "reviewed_holds": [
+      "passiflora-foetida",
+      "passiflora-incarnata"
+    ],
+    "reviewed_target_zone_fails": [
+      "passiflora-lanuginosa"
+    ],
+    "source_concept_count": 6,
+    "note": "All six concepts are installed learner cards. Three locally PASS-labelled cards (affinis, lutea, tenuiloba); range HOLD on foetida/incarnata; TARGET_ZONE_FAIL on lanuginosa. Range decision is distinct from learner admission. Verify county evidence in separate audit."
+  },
+  "study_strategy": {
+    "priority": [
+      "leaf lobing and margin",
+      "petiole glands",
+      "presence/shape of floral bracts",
+      "leaf pubescence and odor",
+      "corona color/length and flower size",
+      "fruit size, color, and pubescence",
+      "native vs introduced range"
+    ],
+    "warning": "Do not identify Passiflora from flower color alone. San Antonio-area records are especially vulnerable to confusion between native P. foetida and introduced P. lanuginosa/ciliata-type plants; use leaf/bract/fruit morphology plus provenance.",
+    "look_here_first": "Check a leaf margin (TOOTHED or ENTIRE), then the petiole for nectar glands. Next turn the leaf over for underside nectar dots (especially affinis vs lutea), and look under the flower for tiny bracts or a large sticky cage. Last compare flower/fruit size. Large purple maypop is easy, small yellow passionflowers are not."
+  },
+  "comparison_lesson": {
+    "quick_split": [
+      "P. affinis — canonical PASS; broad cowboy-hat leaves, floral bracts present, greenish-yellow flower, purple-black berry.",
+      "P. lutea — canonical PASS; glandless petiole, broad rounded entire 3-lobed leaves, tiny green-yellow flower and small berry.",
+      "P. tenuiloba — canonical PASS; paired cuplike petiole glands and extremely narrow deeply divided birdwing leaves; tiny green petal-less-looking flower.",
+      "P. incarnata — reviewed range HOLD; paired petiole glands, large broad serrate 3-lobed leaves, enormous purple/white corona flower, large maypop fruit.",
+      "P. foetida — reviewed range HOLD; densely hairy fetid foliage, finely divided sticky bract cage, pale flower with purple-blue corona, greenish mature fruit.",
+      "P. lanuginosa — reviewed target-zone FAIL; introduced Mexico–Guatemala lookalike with darker angular leaves, pinker flowers, and smooth red fruit."
+    ]
+  },
+  "curation_status": {
+    "version": "1.2-all-six-canonical-visual-polish",
+    "last_reviewed": "2026-10-13",
+    "genus_audit": "six canonical cards confirmed; scientific range labels preserved",
+    "source_concepts_reconciled": true,
+    "species_installation_independent": true,
+    "fruit_caution_audited_at": "2026-10-13"
+  },
+  "source_concept_status": [
+    {
+      "id": "passiflora-affinis",
+      "scientific_name": "Passiflora affinis",
+      "status": "CANONICAL_PASS",
+      "learner_action": "Installed; preserve separate native-range label and photo provenance"
+    },
+    {
+      "id": "passiflora-foetida",
+      "scientific_name": "Passiflora foetida",
+      "status": "CANONICAL_RANGE_UNRESOLVED",
+      "learner_action": "Installed; preserve separate native-range label and photo provenance"
+    },
+    {
+      "id": "passiflora-incarnata",
+      "scientific_name": "Passiflora incarnata",
+      "status": "CANONICAL_RANGE_UNRESOLVED",
+      "learner_action": "Installed; preserve separate native-range label and photo provenance"
+    },
+    {
+      "id": "passiflora-lanuginosa",
+      "scientific_name": "Passiflora lanuginosa",
+      "status": "CANONICAL_NON_NATIVE_COMPARISON",
+      "learner_action": "Installed; preserve separate native-range label and photo provenance"
+    },
+    {
+      "id": "passiflora-lutea",
+      "scientific_name": "Passiflora lutea",
+      "status": "CANONICAL_PASS",
+      "learner_action": "Installed; preserve separate native-range label and photo provenance"
+    },
+    {
+      "id": "passiflora-tenuiloba",
+      "scientific_name": "Passiflora tenuiloba",
+      "status": "CANONICAL_PASS",
+      "learner_action": "Installed; preserve separate native-range label and photo provenance"
+    }
+  ],
+  "species_comparison_matrix": [
+    {
+      "character": "Leaf silhouette",
+      "affinis": "shallow 3-lobed, broad cowboy-hat",
+      "lutea": "broad shallow 3-lobed, entire",
+      "tenuiloba": "3–9 narrow highly variable birdwing lobes",
+      "incarnata": "3(–5) broad serrate lobes",
+      "foetida": "often 3-lobed, soft-hairy",
+      "lanuginosa": "often pointed/angular lobes; verify concept",
+      "importance": "good first sorting, not definitive"
+    },
+    {
+      "character": "PETIOLE nectary glands",
+      "affinis": "absent",
+      "lutea": "absent",
+      "tenuiloba": "paired cup-like",
+      "incarnata": "two obvious glands",
+      "foetida": "verify taxon-specific glands",
+      "lanuginosa": "verify taxon-specific glands",
+      "importance": "macro needed; petiole vs leaf underside must be distinguished"
+    },
+    {
+      "character": "UNDERLEAF nectaries",
+      "affinis": "present, underside spots",
+      "lutea": "absent",
+      "tenuiloba": "usually absent; sometimes marginal",
+      "incarnata": "not primary split",
+      "foetida": "not primary split",
+      "lanuginosa": "not primary split",
+      "importance": "highest-value affinis vs lutea microscopic field cue"
+    },
+    {
+      "character": "Floral bracts",
+      "affinis": "small bracts present",
+      "lutea": "absent",
+      "tenuiloba": "tiny nearly obscure",
+      "incarnata": "usually bracts",
+      "foetida": "large finely divided sticky cage",
+      "lanuginosa": "bract cage; compare with foetida",
+      "importance": "high-value photo under flower"
+    },
+    {
+      "character": "Flower",
+      "affinis": ">25 mm, outer corona filaments >10 mm and clubbed/tipped",
+      "lutea": "<25 mm, outer corona filaments <10 mm straight",
+      "tenuiloba": "small green, lacks petals",
+      "incarnata": "very large showy lilac/purple corona",
+      "foetida": "white/pale with contrasting corona",
+      "lanuginosa": "pinkish possible; never identify by color alone",
+      "importance": "side-by-side flower photos with scale"
+    },
+    {
+      "character": "Fruit",
+      "affinis": "small purple-black",
+      "lutea": "small purple-black 8–15 mm",
+      "tenuiloba": "small dark blue-black 6–12 mm",
+      "incarnata": "large green/yellow maypop 30–60 mm",
+      "foetida": "Green to yellow-green in FNA Texas key; elsewhere P. foetida can ripen yellow or red, so color alone is not definitive",
+      "lanuginosa": "Reddish, often smooth when mature in reviewed concept, but red fruit also occurs in nonlocal P. foetida",
+      "importance": "Compare mature fruit with leaf hairs, bract shape, provenance, and accepted taxon concept; NEVER use red color alone"
+    }
+  ],
+  "comparison_cards": [
+    {
+      "id": "passiflora-affinis-vs-lutea",
+      "title": "Cowboy hat or yellow passionflower?",
+      "taxon_ids": [
+        "passiflora-affinis",
+        "passiflora-lutea"
+      ],
+      "look_here_first": "Flip a mature leaf and inspect lower surface: affinis has nectar dots on the underside, lutea lacks them. Affinis has floral bracts + >25 mm flower with clubbed wavy corona tips; lutea has no floral bracts and smaller straighter filaments. BOTH lack petiole nectaries.",
+      "photo_roles": [
+        "same-scale leaf upper + lower side",
+        "underside nectary dot arrow",
+        "bracts vs no bracts under flower",
+        "corona tip macro and ruler"
+      ],
+      "caution": "Do NOT confuse underleaf nectaries with petiole glands: both affinis and lutea have EGlandular petioles."
+    },
+    {
+      "id": "passiflora-tenuiloba-vs-lutea",
+      "title": "Birdwing or yellow?",
+      "taxon_ids": [
+        "passiflora-tenuiloba",
+        "passiflora-lutea"
+      ],
+      "look_here_first": "Tenuiloba has a pair of cuplike petiole glands and narrow deeply cut leaf lobes; lutea has no petiole glands and wider more rounded shallow lobes. Tenuiloba may have dramatically different leaves on ONE vine.",
+      "photo_roles": [
+        "petiole gland paired macro",
+        "multiple leaves from one tenuiloba plant",
+        "flattened entire-margin leaf comparison"
+      ],
+      "caution": "Do not use a single unusual leaf silhouette to rule out tenuiloba."
+    },
+    {
+      "id": "passiflora-foetida-vs-lanuginosa",
+      "title": "Fetid or scarletfruit?",
+      "taxon_ids": [
+        "passiflora-foetida",
+        "passiflora-lanuginosa"
+      ],
+      "look_here_first": "Inspect finely divided sticky bracts, stem/leaf hairiness, leaf lobes and mature fruit, then verify identity from the source taxon concept. FNA differentiates its Texas P. foetida as green/yellow-green-fruited from P. ciliata with red fruit, but other geographic P. foetida concepts can ALSO have red fruit. Smooth red fruit by itself does not certify P. lanuginosa.",
+      "photo_roles": [
+        "same-scale cage around developing fruit",
+        "mature fruit color and surface",
+        "leaf pubescence and lobing"
+      ],
+      "caution": "Do not teach red fruit as a diagnostic guarantee of P. lanuginosa: published regional accounts document red P. foetida elsewhere. Use a full character combination, source geography and taxonomic reconciliation; avoid labeling introduced plants as Texas-native foetida.",
+      "scientific_sources": [
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=124132",
+        "https://naturalhistory2.si.edu/botany/hawaiianflora/speciesdescr.cfm?genus=Passiflora&species=foetida"
+      ]
+    },
+    {
+      "id": "passiflora-incarnata-vs-tenuiloba",
+      "title": "Maypop or birdwing?",
+      "taxon_ids": [
+        "passiflora-incarnata",
+        "passiflora-tenuiloba"
+      ],
+      "look_here_first": "Both have petiole glands; incarnata has broad SERRATED lobes and a large showy corolla/corona with large fruit; tenuiloba has narrow mostly ENTIRE lobes, small greenish flowers with petals absent, and tiny dark berries.",
+      "photo_roles": [
+        "petiole gland views",
+        "matched leaf edge macro",
+        "flowers and fruits with ruler"
+      ]
+    }
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "priority": "critical",
+      "taxa": [
+        "passiflora-affinis",
+        "passiflora-lutea"
+      ],
+      "show": "underleaf nectar dots + petiole glands absent in both, with correct arrows"
+    },
+    {
+      "priority": "critical",
+      "taxa": [
+        "passiflora-tenuiloba",
+        "passiflora-lutea"
+      ],
+      "show": "paired cuplike petiole glands and variable narrow leaf silhouettes"
+    },
+    {
+      "priority": "critical",
+      "taxa": [
+        "passiflora-foetida",
+        "passiflora-lanuginosa"
+      ],
+      "show": "hairy bract cage and mature fruit surface/color, taxon identity checked"
+    },
+    {
+      "priority": "high",
+      "taxa": [
+        "passiflora-incarnata"
+      ],
+      "show": "two petiole nectar bumps, large serrate leaves, large ripe fruit and full corona"
+    }
+  ],
+  "range_evidence_audit": {
+    "status": "PENDING_SCOPE_COUNTY_RECHECK",
+    "checked_at": "2026-10-13",
+    "note": "Do not upgrade or assume the current PASS labels for lutea/tenuiloba satisfy the project 3-target-county rule without new target-zone records; genus display counts are canonical learner counts only.",
+    "taxa": [
+      {
+        "id": "passiflora-lutea",
+        "present_evidence": "Hays, Travis; older third reference Williamson lies OUTSIDE target zone.",
+        "action": "BONAP NAPA map/county evidence required; confirm third in-zone county or downgrade scientific native status, independently of learner admission."
+      },
+      {
+        "id": "passiflora-tenuiloba",
+        "present_evidence": "Hays, Travis; older third reference Val Verde lies OUTSIDE target zone.",
+        "action": "BONAP NAPA map/county evidence required; confirm third in-zone county or downgrade scientific native status, independently of learner admission."
+      }
+    ]
+  }
+}

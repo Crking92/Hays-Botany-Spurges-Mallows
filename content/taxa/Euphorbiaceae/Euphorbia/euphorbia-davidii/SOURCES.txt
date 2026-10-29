@@ -1,0 +1,35 @@
+# Curation sources — Euphorbia davidii
+Reviewed through 2026-10-07
+Scientific range status: AUTHORITY CONFLICT
+Learner admission: APPROVED
+Native metrics: EXCLUDED
+
+Taxonomy / morphology
+Flora of North America:
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416542
+
+Plants of the World Online:
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:276643-2
+
+USDA GRIN:
+https://npgsweb.ars-grin.gov/gringlobal/taxon/taxonomydetail?id=429419
+
+Range guardrail
+Preserve the existing authority conflict. This diagnostic pass does not resolve or alter Texas native-range status.
+
+Diagnostic comparison
+E. davidii: shorter/stiffer often pustule-based hairs; larger capsules; larger angular irregularly tuberculate seeds.
+E. dentata: longer weak filiform hairs; smaller capsules; smaller rounded evenly minute-tuberculate seeds.
+
+Physical photo set — Wikimedia Commons
+Andrey Zharkikh — CC BY 2.0
+https://commons.wikimedia.org/wiki/File:Euphorbia_davidii,_Jordan_River,_Utah.jpg
+https://commons.wikimedia.org/wiki/File:2015.08.22_11.57.08_IMG_0259_-_Flickr_-_andrey_zharkikh_(cropped).jpg
+Polish-pass private-study macros — MissouriPlants / S.R. Turner
+Source page:
+https://www.missouriplants.com/Euphorbia_davidii_page.html
+Abaxial leaf surface:
+https://www.missouriplants.com/images/Euphorbia_davidii_leaf2a.jpg
+Mature seeds:
+https://www.missouriplants.com/images/Euphorbia_davidii_seeds.jpg
+Rights: copyright retained by S.R. Turner; study_use=yes, public_reuse=review. These files are for the private learner only unless permission is obtained.

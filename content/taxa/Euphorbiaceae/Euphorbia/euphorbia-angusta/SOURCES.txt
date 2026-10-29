@@ -1,0 +1,108 @@
+# Curation sources — Euphorbia angusta
+Reviewed through 2026-10-07
+Project range status: PROVISIONAL
+Learner inclusion: APPROVED
+
+Morphology
+Flora of North America:
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101551
+
+Key characters
+- perennial from moderately to strongly thickened rootstock
+- erect stems 12–43 cm, uniformly strigose
+- distal leaves linear to elliptic-linear and more than 6× as long as wide
+- involucre and capsule strigose
+- white flabellate gland appendages shallowly/irregularly toothed
+- white 4-angled seeds with low transverse ridges or wrinkles
+
+Physical photo set
+Alison Northup — CC BY 4.0 — exact Central Texas field image
+https://commons.wikimedia.org/wiki/File:Euphorbia_angusta_iNat-51852545.jpg
+
+Flora of Dolan Falls Preserve / William R. Carr — exact species field image; private study/public reuse review
+https://w3.biosci.utexas.edu/prc/DF/pages/EUAN2.html
+Direct image:
+https://w3.biosci.utexas.edu/prc/DF/images/EUAN2.jpg
+
+UT Plant Resources Center — exact Chamaesyce angusta Travis County voucher; private study/public reuse review
+https://w3.biosci.utexas.edu/prc/specimens/Euphorbiaceae.html
+Direct image:
+https://w3.biosci.utexas.edu/prc/specimens/img/147ChamaAngxxx00035612.JPG
+
+Range status unchanged.
+
+## Diagnostic photo polish — 2026-10-08
+
+images/04-strigose-capsule.jpg
+Becky Brenner; CC BY-NC; https://creativecommons.org/licenses/by-nc/4.0/
+Observation 85069092; photo 139898376
+https://www.inaturalist.org/observations/85069092
+https://inaturalist-open-data.s3.amazonaws.com/photos/139898376/original.jpeg
+Role: Capsule macro / short hairs and toothed gland appendages
+Limit: Look at the short pale hairs coating the three-lobed capsule near the center, and the toothed white gland appendages below it. This directly illustrates the hairy fruit surface; seed and rootstock are absent.
+Study use: yes; public reuse: no
+
+images/05-joey-narrow-leaves.jpg
+Joey Santore; CC BY-NC; https://creativecommons.org/licenses/by-nc/4.0/
+Observation 64696284; photo 104051326
+https://www.inaturalist.org/observations/64696284
+https://inaturalist-open-data.s3.amazonaws.com/photos/104051326/original.jpeg
+Role: Joey Santore close-up / linear leaves and cyathium appendages
+Limit: Look at the long narrow leaf blades beside the cyathium and the toothed white appendages around its glands. This exact-species field photo shows leaf shape and reproductive context; do not infer a measured length-to-width ratio without a scale.
+Study use: yes; public reuse: no
+
+Remaining: mature white seed macro showing surface and angles.
+
+## Specialty macro follow-up — 2026-10-08
+
+images/03-travis-voucher.jpg
+Role: Herbarium voucher / thickened rootstock and crown context
+Visual cue and limit: Look at the lower center of this mounted plant: the dark thickened horizontal rootstock sits below the tuft of upright stems. The voucher supplies basal structural context with the original ruler retained; it does not establish living color, plant age or internal wood anatomy.
+Source and reuse status unchanged: UT voucher; private study; public reuse review.
+
+Remaining priority: mature white seed macro showing surface and angles. Optional: live crown close-up. Range status unchanged.
+
+## Hair macro follow-up 002 — 2026-10-08
+
+images/06-leaf-hairs-macro.jpg
+Nathan Taylor; CC BY-NC; https://creativecommons.org/licenses/by-nc/4.0/
+Observation 10884560; photo 15287977
+https://www.inaturalist.org/observations/10884560
+https://inaturalist-open-data.s3.amazonaws.com/photos/15287977/large.jpeg
+Role: Leaf-surface macro / resolved short hairs
+Visual cue and limit: Look at the short pale hairs lying close to the green leaf surface, with some tips curving away from it. This macro resolves individual hairs rather than relying on the plant's overall fuzzy appearance. Leaf side and magnification are not specified; do not use displayed image size to measure hair length.
+Study use: yes; public reuse: no
+
+images/07-node-hairs-macro.jpg
+Nathan Taylor; CC BY-NC; https://creativecommons.org/licenses/by-nc/4.0/
+Observation 10884560; photo 15287986
+https://www.inaturalist.org/observations/10884560
+https://inaturalist-open-data.s3.amazonaws.com/photos/15287986/large.jpeg
+Role: Stem-node macro / resolved short hairs
+Visual cue and limit: Find the short pale hairs covering the reddish stem and leaf bases around the node. This is a close view of node pubescence. Small reddish structures are also visible, but this image is used for hairs rather than assigning a stipule measurement or claiming complete stipule architecture. No scale is supplied.
+Study use: yes; public reuse: no
+
+Mature white seed remains missing after the bounded older-observation scan. Range and taxonomy unchanged.
+
+## Stipule-location macro — 2026-10-08
+
+images/08-stipule-location-macro.jpg
+Creator: Nathan Taylor
+Source: https://www.inaturalist.org/observations/21895584
+Direct image: https://inaturalist-open-data.s3.amazonaws.com/photos/33930688/large.jpeg
+License: CC BY-NC; private study yes; public reuse no.
+Identification: Single current species identification by photographer Nathan Taylor; no second identifier. Provisional expert-source learner photo; not promoted to Research Grade.
+Morphology reference: https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101551
+Visual limit: No scale; single view; maturity/seed role not represented. Companion narrow-leaf/habit and reproductive images checked; expert attribution retained.
+
+## Hairy involucre macro — 2026-10-08
+
+images/09-hairy-involucre-macro.jpg
+Creator: Nathan Taylor
+Source: https://www.inaturalist.org/observations/21895584
+Direct image: https://inaturalist-open-data.s3.amazonaws.com/photos/33930683/large.jpeg
+License: CC BY-NC; private study yes; public reuse no.
+Identification: Single current species identification by photographer Nathan Taylor; no second identifier. Provisional expert-source learner photo; not promoted to Research Grade.
+Morphology reference: https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101551
+Visual cue: Find the pale hairs covering the green cup-shaped involucre beneath the pale gland appendages. This side view resolves involucre pubescence separately from the capsule hairs shown elsewhere in the gallery. No scale is supplied, and the side view does not show the complete gland arrangement.
+Visual limit: No scale; side view does not document the complete gland arrangement or mature seed. Companion narrow-leaf/habit and node images checked; expert attribution retained.

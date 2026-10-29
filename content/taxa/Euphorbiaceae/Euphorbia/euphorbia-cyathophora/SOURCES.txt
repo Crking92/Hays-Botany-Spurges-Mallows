@@ -1,0 +1,32 @@
+# Curation sources — Euphorbia cyathophora
+Reviewed through 2026-10-07
+Scientific status: PASS
+Learner role: PROJECT_NATIVE
+
+Taxonomy / morphology
+Plants of the World Online:
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:101468-2
+
+Flora of North America:
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242321403
+
+FNA sect. Poinsettia key:
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=318100
+
+Range evidence remains preserved from prior Deep Review:
+Hays, Travis, Bexar.
+
+Diagnostic comparison
+E. cyathophora: colored bract bases; single sessile/substipitate gland; oblong opening without annular rim.
+E. heterophylla: green/pale bracts; stipitate gland; round opening with annular rim.
+
+Physical photo set
+Harry Rose — CC BY 2.0
+Habit:
+https://commons.wikimedia.org/wiki/File:Euphorbia_cyathophora_plant1_(14756306610).jpg
+Flowerhead/cyathia:
+https://commons.wikimedia.org/wiki/File:Euphorbia_cyathophora_flowerhead2_(14942982095).jpg
+
+Forest & Kim Starr — CC BY 3.0
+Leaves, flowers and fruit:
+https://commons.wikimedia.org/wiki/File:Starr_080606-6994_Euphorbia_cyathophora.jpg

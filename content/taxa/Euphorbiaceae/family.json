@@ -1,0 +1,542 @@
+{
+  "rank": "family",
+  "name": "Euphorbiaceae",
+  "common_name": "Spurge family",
+  "project_scope": {
+    "selection_mode": "Central Texas family-first recognition module with Stillingia canonical anchor and project-pool genus roadmap",
+    "note": "Morphology-first family visual learning across Euphorbiaceae: three actual Acalypha portraits, Stillingia male/female/fruit study frames, Euphorbia cyathia/bract photos, and Croton habit reference. Species installation and native-range decisions remain separate and unchanged."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Look first for SMALL UNISEXUAL flowers or distinct staminate/pistillate inflorescence zones, and a superior ovary or mature fruit commonly based on THREE CARPELS. In normal flowers the capsule may split into three COCCI leaving a central COLumella. Euphorbia cyathium, Acalypha pistillate BRACTS with MULTIFID styles, Croton stellate hairs, Tragia stinging hairs and Stillingia gynobase are GENERA-specific doors rather than universal family traits.",
+    "vegetative": "Habit and leaves are extremely variable. Leaves are often alternate and simple; stipules, petiole/blade glands, latex, and distinctive hairs are useful clues in many genera but none is a safe family-wide requirement.",
+    "reproductive": "Flowers often reduced and typically male or female, which may share a plant (MONOECIOUS) or occur on different plants (DIOECIOUS). Euphorbia's CYATHIUM is a special involucre enclosing many tiny flower units; it is not the same as Acalypha's individual female flower subtended by a large bract. Some Acalypha additionally bear allomorphic female flowers that differ in fruit plan.",
+    "fruit": "Usually a dry dehiscent capsule/schizocarp. The cocci commonly separate from a persistent central columella; one seed is typically produced per locule.",
+    "field_tip": "Look for reproductive architecture: STAMINATE ANTHERS make pollen; PISTILLATE STYLES/STIGMAS arise from an OVARY; a BRACT is a leaflike structure subtending a flower; a CAPSULE can have 3 chambers/carpels. Euphorbia has CYATHIA, but Acalypha does not. Leaf color, latex and hair type are useful secondary clues rather than universal family characteristics."
+  },
+  "visual_lesson": {
+    "status": "ten_verified_existing_physical_photo_examples_plus_four_specialist_macro_gaps",
+    "teaching_order": "Acalypha female bracts and spike sex → vegetative habit differences → Stillingia staminate vs pistillate flowers and 3-part fruit → Euphorbia cyathium and bracts → Croton hairs → matched micro/macros",
+    "intro": "The spurge family is one of the best places to learn that 'flower' can mean very different things. Acalypha hides flowers among green pistillate bracts; Stillingia's male and female flowers occupy different spike positions; Euphorbia compresses flower units into a special CYATHIUM; and Croton has its own hair architecture. Follow a real photograph to a specific part, and call tiny invisible structures 'pending macro' rather than pretending they are labeled.",
+    "steps": [
+      {
+        "title": "1 · Look for Acalypha flowering spikes",
+        "photo_role": "broad serrate leaves and narrow green reproductive spikes",
+        "anchor_species_id": "acalypha-persimilis",
+        "anchor_image_index": 0,
+        "photo_source_key": "acalypha-persimilis:0",
+        "look_for": "VISUALLY CHECKED: this face photo shows ovate serrate leaves and multiple upright green flowering spike-like axes. Acalypha has PISTILLATE female bracts and often split STYLE branches, but the exact bract positions and lobe counts are not established at this resolution. This particular annual hophornbeam-copperleaf concept has a naming question (persimilis versus ostryifolia).",
+        "why_it_matters": "Opens the family with tiny flowers arranged in spikes instead of showy petals.",
+        "status": "installed_existing_exact_species_attributed; target_part_macro_and_arrow_check_pending"
+      },
+      {
+        "title": "2 · Recognize a terminal mixed copperleaf spike",
+        "photo_role": "small perennial on rock with terminal reproductive shoots",
+        "anchor_species_id": "acalypha-phleoides",
+        "anchor_image_index": 0,
+        "photo_source_key": "acalypha-phleoides:0",
+        "look_for": "VISUALLY CHECKED: sparse flowering shoots of shrubby copperleaf against limestone, with tall, narrow axes. The botanical clue to seek next is a SINGLE terminal mixed axis with female flowers proximally and male flowers distally. The face photo does not resolve which individual reddish/bract structures are sexes or prove lobe counts.",
+        "why_it_matters": "Sets up the key botanical difference between a mixed spike and separate male/female inflorescences.",
+        "status": "installed_existing_exact_species_attributed; target_part_macro_and_arrow_check_pending"
+      },
+      {
+        "title": "3 · Cardinal feather: see the scalloped leaves",
+        "photo_role": "low spreading plant with deeply crenate rounded/reniform leaves",
+        "anchor_species_id": "acalypha-radians",
+        "anchor_image_index": 0,
+        "photo_source_key": "acalypha-radians:0",
+        "look_for": "VISUALLY CHECKED: one prostrate or low ascending plant, crowded with small deeply CRENATE rounded to kidney-shaped simple leaves. A. radians is DIOECIOUS (male and female flowers on separate plants), but this lone specimen photo cannot prove that reproductive sex system. Seek separate male/female plant and female-bract macros.",
+        "why_it_matters": "Demonstrates why habit and leaf shape help locate the right genus species but cannot prove flower-sex traits.",
+        "status": "installed_existing_exact_species_attributed; target_part_macro_and_arrow_check_pending"
+      },
+      {
+        "title": "4 · Another spurge family's leaf and flowering shape",
+        "photo_role": "Stillingia whole-plant habit / narrow foliage / flowering spike",
+        "anchor_species_id": "stillingia-texana",
+        "anchor_image_index": 0,
+        "photo_source_key": "stillingia-texana:0",
+        "look_for": "A species-labeled Joey Santore private-study frame shows a local Stillingia plant and its slender flowering axis, a useful contrast to Acalypha. The same family can have very different flowering architectures. This still frame's rights are PRIVATE STUDY ONLY, and the individual flower parts have not been independently re-annotated.",
+        "why_it_matters": "Shows the real range of appearance across local Euphorbiaceae, rather than treating all as copperleaf.",
+        "status": "installed_existing_exact_species_private_study_only; target_part_macro_and_arrow_check_pending"
+      },
+      {
+        "title": "5 · On a spurge flower: stamens make pollen",
+        "photo_role": "upper staminate flowering region with yellow anthers",
+        "anchor_species_id": "stillingia-texana",
+        "anchor_image_index": 1,
+        "photo_source_key": "stillingia-texana:1",
+        "look_for": "This species-labeled private-study video frame depicts the STAMINATE (male) flower region of Stillingia. Search for yellow POLLEN-BEARING ANTHERS. Tiny flower bases/glands need a zoom before an arrow is justified. Compare against a female-flower frame, not against petal color.",
+        "why_it_matters": "Introduces pollen/sex differentiation in tiny nonshowy Euphorbiaceae flowers.",
+        "status": "installed_existing_exact_species_private_study_only; target_part_macro_and_arrow_check_pending"
+      },
+      {
+        "title": "6 · Female floral structures can look entirely different",
+        "photo_role": "pistillate flower region with ovary/stigmas",
+        "anchor_species_id": "stillingia-texana",
+        "anchor_image_index": 2,
+        "photo_source_key": "stillingia-texana:2",
+        "look_for": "This species-labeled Joey private-study frame depicts the PISTILLATE (female) region of Stillingia with developing ovaries and style/stigma structures. This is one kind of female flower, not an Acalypha bract; the same FAMILY can build female inflorescences differently.",
+        "why_it_matters": "Contrasts male anthers with a female ovary, and prevents confusing styles and stamens.",
+        "status": "installed_existing_exact_species_private_study_only; target_part_macro_and_arrow_check_pending"
+      },
+      {
+        "title": "7 · The Euphorbiaceae three-part fruit plan",
+        "photo_role": "Stillingia three-lobed fruit video frame",
+        "anchor_species_id": "stillingia-texana",
+        "anchor_image_index": 4,
+        "photo_source_key": "stillingia-texana:4",
+        "look_for": "This species-labeled study frame shows a Stillingia fruit with conspicuous lobes. Family fruit frequently develops from three carpels; after release, a persistent central COLumella/GYNObase may remain. The photo is a three-lobed fruit example, not a verified image of the exposed columella.",
+        "why_it_matters": "Gives an actual fruit reference for the important Euphorbiaceae reproductive architecture.",
+        "status": "installed_existing_exact_species_private_study_only; target_part_macro_and_arrow_check_pending"
+      },
+      {
+        "title": "8 · Euphorbia cyathium: a cup, not a true single flower",
+        "photo_role": "flowerhead closeup with colorful bracts and multiple cyathia",
+        "anchor_species_id": "euphorbia-cyathophora",
+        "anchor_image_index": 1,
+        "photo_source_key": "euphorbia-cyathophora:1",
+        "look_for": "This real licensed Euphorbia cyathophora flowerhead photo shows colored LEAFLIKE BRACTS surrounding the specialized CYATHIA. Each cup-like CYATHIUM includes reduced male flowers and one female flower. Do not mistake the large red-edged BRaCTS for petals, or count the entire colorful cluster as one flower. A truly focused nectar gland/dissected cup remains a later micro-photo target.",
+        "why_it_matters": "Separates Euphorbia's specialized cyathium from Acalypha's conspicuous female bracts.",
+        "status": "installed_existing_exact_species_attributed; target_part_macro_and_arrow_check_pending"
+      },
+      {
+        "title": "9 · White leaf bracts are not petals",
+        "photo_role": "white-margined flowering bracts and Euphorbia cyathium region",
+        "anchor_species_id": "euphorbia-marginata",
+        "anchor_image_index": 1,
+        "photo_source_key": "euphorbia-marginata:1",
+        "look_for": "Snow-on-the-mountain has large WHITE-MARGINED BRaCTS associated with the cyathia. The colorful surface is modified foliage, not the petals of a white flower. Compare its reproductive cup against the red-bracted Euphorbia and Acalypha's distinct female-bract spike.",
+        "why_it_matters": "Brings an everyday landscape-visible bract example into a family pattern lesson.",
+        "status": "installed_existing_exact_species_attributed; target_part_macro_and_arrow_check_pending"
+      },
+      {
+        "title": "10 · Croton: look for the hairs, not the bracts",
+        "photo_role": "Croton whole-plant foliage for leaf/hair screening",
+        "anchor_species_id": "croton-monanthogynus",
+        "anchor_image_index": 0,
+        "photo_source_key": "croton-monanthogynus:0",
+        "look_for": "This physically installed exact-species Croton plant photo teaches whole habit and foliage. Croton can have STAR-SHAPED (stellate) or SCALELIKE (lepidote) hairs, which require a close macro or microscope photo; do not invent an arrow to a stellate hair on this whole plant view.",
+        "why_it_matters": "Introduces a different genus routing character and avoids overgeneralizing female bracts from Acalypha to all spurges.",
+        "status": "installed_existing_exact_species_attributed; target_part_macro_and_arrow_check_pending"
+      },
+      {
+        "title": "11 · Missing macro: compare three mature Acalypha female bracts",
+        "photo_role": "pistillate bracts mature and post-anthesis, three taxa side-by-side",
+        "look_for": "Photograph a mature PISTILLATE BRACT with millimeter scale for A. persimilis/ostryifolia, A. phleoides and A. radians. Count many linear (~13–17), fewer tapering (~5–7), and crowded spatulate (~8–10) bract lobes respectively; point arrows ONLY after verifying actual focus, growth stage and accepted species concept.",
+        "why_it_matters": "The THREE true defining species differences are microscopic female bract lobes, not merely the overall leaves.",
+        "status": "needs_verified_matched_macro"
+      },
+      {
+        "title": "12 · Missing macro: one ovary, three parts, then fruit release",
+        "photo_role": "female three-carpellate ovary, mature capsule, and exposed columella",
+        "look_for": "Acquire an exact local Euphorbiaceae capsule photo before opening, then opened with three separating COCCI and the central COLumella/gynobase. Include a ruler and source/photo license. Remember some Acalypha ALLOMORPHIC female flowers can have fewer carpels and altered fruit architecture.",
+        "why_it_matters": "Provides true structural family confirmation without asserting one fruit form applies to every flower.",
+        "status": "needs_dissection_macro"
+      },
+      {
+        "title": "13 · Missing macro: red or white cyathium under a loupe",
+        "photo_role": "Euphorbia cyathium internals with nectar glands, male and female flowers",
+        "look_for": "Find a crisp species-confirmed CYATHIUM closeup. Label the containing INVOLUCRE/cup, nectar GLANDS, tiny pollen-bearing male units and stalked female flower/ovary in the center. The red/white outer bracts can be shown in a separate context photo; they are not petals.",
+        "why_it_matters": "Explains how one thing that looks like a flower is actually a tightly packed specialized inflorescence.",
+        "status": "needs_dissection_macro"
+      },
+      {
+        "title": "14 · Missing macro: Croton star hair versus Tragia stinging hair",
+        "photo_role": "stellate/lepidote trichomes vs urticating stinging hairs",
+        "look_for": "Matched microviews of a verified Croton STAR-SHAPED hair and Tragia sting hair (do not touch Tragia barehanded). Contrast the sharply different individual TRICHOMES, then pair with the family reproductive characters.",
+        "why_it_matters": "A good genus ID sometimes starts with hair type, even when all the plants share tiny inconspicuous flowers.",
+        "status": "needs_verified_hair_macro"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Euphorbiaceae vs Phyllanthaceae",
+        "rule": "Both were historically lumped in a broad spurge family. In modern Euphorbiaceae, the ovary characteristically has one ovule per locule; Phyllanthaceae characteristically has two. Latex and leaf/petiole glands also favor Euphorbiaceae but are not universal."
+      },
+      {
+        "title": "Euphorbiaceae vs Apocynaceae",
+        "rule": "Milky latex can occur in both. Euphorbiaceae commonly combines tiny unisexual flowers with a superior usually 3-carpellate capsule; Apocynaceae more often has conspicuous fused corollas and a 2-carpel gynoecium, with milkweeds adding pollinia/gynostegium characters."
+      },
+      {
+        "title": "Euphorbiaceae vs Urticaceae",
+        "rule": "Stinging hairs alone do not mean nettle family. Tragia and Cnidoscolus can sting; confirm Euphorbiaceae with unisexual floral architecture and the superior usually 3-part ovary/capsule."
+      },
+      {
+        "title": "Euphorbia vs the rest of Euphorbiaceae",
+        "rule": "A cyathium points strongly to Euphorbia, but Croton, Acalypha, Tragia, Cnidoscolus, Stillingia and other family members do not use the Euphorbia cyathium architecture."
+      },
+      {
+        "title": "Acalypha female BRACTS vs Euphorbia CYATHIA",
+        "rule": "In Acalypha one pistillate flower is backed by an enlarged often many-lobed BRACT and branched STYLES. In Euphorbia the CYATHIUM is one complex involucre or cup enclosing tiny male and female flower units, sometimes surrounded by red/white leaflike BRACTS. A bract is not the same organ as a cyathium."
+      },
+      {
+        "title": "Acalypha monoecious vs dioecious",
+        "rule": "A. phleoides and the A. persimilis/ostryifolia concept have male and female structures on one plant (MONOECIOUS); A. radians typically places male and female inflorescences on separate individual plants (DIOECIOUS). Photos of one sex alone do not prove whether a species is dioecious."
+      },
+      {
+        "title": "Family fruit exceptions",
+        "rule": "Common Euphorbiaceae normal fruits are three-carpellate capsules that can leave a columella after cocci split. Some Acalypha have additional ALLOMORPHIC pistillate flowers with different carpel counts and fruit shapes; never overclaim that every reproductive unit has three carpels."
+      }
+    ],
+    "caveat": "No single leaf shape, latex production, hair type, inflorescence type, or capsule architecture is absolutely universal across modern Euphorbiaceae. Joey Santore Stillingia images are PRIVATE STUDY ONLY. Macro targets are not yet images or arrows, and the three portrait Acalypha images were inspected visually but cannot establish numerical female-bract lobe anatomy.",
+    "previous_steps_before_acalypha_visual_pass": [
+      {
+        "title": "1 · Start with the three-part reproductive plan",
+        "photo_role": "3-carpellate ovary / 3-lobed capsule / persistent central column",
+        "anchor_species_id": "stillingia-texana",
+        "look_for": "A superior ovary or capsule with a three-part outline; when mature, the fruit commonly separates into sections around a central column.",
+        "why_it_matters": "This is more broadly transferable across Euphorbiaceae than latex, leaf shape, or the Euphorbia cyathium.",
+        "status": "canonical_anchor_photo_polish_pending"
+      },
+      {
+        "title": "2 · Notice how reduced the flowers are",
+        "photo_role": "small unisexual flowers on one inflorescence",
+        "anchor_species_id": "stillingia-texana",
+        "look_for": "Separate male and female flowers that are small, inconspicuous, and often arranged in different zones of the same inflorescence.",
+        "why_it_matters": "Tiny unisexual flowers plus the three-part ovary/fruit strongly reinforce the family call.",
+        "status": "canonical_anchor_photo_polish_pending"
+      },
+      {
+        "title": "3 · Euphorbia door: find the cyathium",
+        "photo_role": "cyathium macro / labeled anatomy",
+        "look_for": "A cup-like involucre with nectar glands surrounding extremely reduced male flowers and a central female flower. It looks like one flower but is an inflorescence.",
+        "why_it_matters": "The cyathium is one of the fastest genus-level recognitions in botany, but it belongs to Euphorbia—not to the whole family.",
+        "status": "rights_safe_labeled_macro_pending"
+      },
+      {
+        "title": "4 · Croton door: inspect the hairs",
+        "photo_role": "leaf/stem macro showing stellate or scale-like trichomes",
+        "look_for": "Star-shaped or scale-like hairs, often giving the plant a gray, silvery, or rough appearance; many Croton also place pistillate flowers lower and staminate flowers higher in a raceme or spike.",
+        "why_it_matters": "Croton hair architecture is a high-value genus clue and is much more useful than trying to memorize overall plant shape.",
+        "status": "concurrent_species_review_macro_pending"
+      },
+      {
+        "title": "5 · Acalypha door: read the female bracts",
+        "photo_role": "pistillate spike/bracts + fringed styles macro",
+        "look_for": "Pistillate flowers subtended by conspicuous bracts that often enlarge as fruit develops, with styles commonly split into many narrow branches.",
+        "why_it_matters": "The enlarged pistillate bracts and finely divided styles give Acalypha a distinctive reproductive silhouette.",
+        "status": "concurrent_species_scout_macro_pending"
+      },
+      {
+        "title": "6 · Stinging-hair door: Tragia vs Cnidoscolus",
+        "photo_role": "stinging hairs + habit comparison",
+        "look_for": "Tragia is usually a smaller herb/subshrub/vine with stinging hairs and no latex; Cnidoscolus combines stinging hairs with white latex and often deeply palmately lobed leaves and larger petaloid flowers.",
+        "why_it_matters": "Both can punish a careless hand, but their habit, latex, leaves, and flower size quickly split the two genera.",
+        "status": "tragia_concurrent_scout_cnidoscolus_macro_pending"
+      },
+      {
+        "title": "7 · Stillingia door: read the spike and the leftover base",
+        "photo_role": "basal pistillate / upper staminate spike + persistent gynobase",
+        "anchor_species_id": "stillingia-texana",
+        "look_for": "One or more pistillate flowers near the base of a spikelike inflorescence, staminate clusters above, and after fruit dehiscence a persistent hardened 3-part gynobase.",
+        "why_it_matters": "The persistent gynobase is an especially strong Stillingia character and gives the family lesson a real Edwards Plateau anchor.",
+        "status": "canonical_anchor_macro_pending"
+      }
+    ],
+    "photo_source_key": [
+      {
+        "id": "acalypha-persimilis",
+        "index": 0,
+        "role": "broad serrate leaves and narrow green reproductive spikes",
+        "path": "content/taxa/Euphorbiaceae/Acalypha/acalypha-persimilis/images/acalypha-persimilis-provisional-face.jpg",
+        "creator": "Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acalypha_persimilis_01.jpg",
+        "status": "physically_installed_existing_exact_species"
+      },
+      {
+        "id": "acalypha-phleoides",
+        "index": 0,
+        "role": "small perennial on rock with terminal reproductive shoots",
+        "path": "content/taxa/Euphorbiaceae/Acalypha/acalypha-phleoides/images/acalypha-phleoides-provisional-face.jpg",
+        "creator": "Gaiacoyote",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acalypha_phleoides_(1).jpg",
+        "status": "physically_installed_existing_exact_species"
+      },
+      {
+        "id": "acalypha-radians",
+        "index": 0,
+        "role": "low spreading plant with deeply crenate rounded/reniform leaves",
+        "path": "content/taxa/Euphorbiaceae/Acalypha/acalypha-radians/images/acalypha-radians-provisional-face.jpg",
+        "creator": "DouglasGoldman",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acalypha_radians1.jpg",
+        "status": "physically_installed_existing_exact_species"
+      },
+      {
+        "id": "stillingia-texana",
+        "index": 0,
+        "role": "Stillingia whole-plant habit / narrow foliage / flowering spike",
+        "path": "content/taxa/Euphorbiaceae/Stillingia/stillingia-texana/images/stillingia-texana_habit-source-label_23-35.0.jpg",
+        "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+        "license": "Private study only; public reuse not cleared",
+        "source_page": "https://www.youtube.com/watch?v=D1qCiiaMJ_I",
+        "status": "physically_installed_private_study_only"
+      },
+      {
+        "id": "stillingia-texana",
+        "index": 1,
+        "role": "upper staminate flowering region with yellow anthers",
+        "path": "content/taxa/Euphorbiaceae/Stillingia/stillingia-texana/images/stillingia-texana_male-flowers-nectary-cups_06-06.0.jpg",
+        "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+        "license": "Private study only; public reuse not cleared",
+        "source_page": "https://www.youtube.com/watch?v=D1qCiiaMJ_I",
+        "status": "physically_installed_private_study_only"
+      },
+      {
+        "id": "stillingia-texana",
+        "index": 2,
+        "role": "pistillate flower region with ovary/stigmas",
+        "path": "content/taxa/Euphorbiaceae/Stillingia/stillingia-texana/images/stillingia-texana_female-flowers-nectar-cups_23-50.0.jpg",
+        "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+        "license": "Private study only; public reuse not cleared",
+        "source_page": "https://www.youtube.com/watch?v=D1qCiiaMJ_I",
+        "status": "physically_installed_private_study_only"
+      },
+      {
+        "id": "stillingia-texana",
+        "index": 4,
+        "role": "Stillingia three-lobed fruit video frame",
+        "path": "content/taxa/Euphorbiaceae/Stillingia/stillingia-texana/images/stillingia-texana_three-lobed-fruit-source-label_43-55.jpg",
+        "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+        "license": "Private study only; public reuse not cleared",
+        "source_page": "https://www.youtube.com/watch?v=N4yq5Z1_0Eo",
+        "status": "physically_installed_private_study_only"
+      },
+      {
+        "id": "euphorbia-cyathophora",
+        "index": 1,
+        "role": "flowerhead closeup with colorful bracts and multiple cyathia",
+        "path": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-cyathophora/images/02-flowerhead-cyathia.jpg",
+        "creator": "Harry Rose",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_cyathophora_flowerhead2_(14942982095).jpg",
+        "status": "physically_installed_existing_exact_species"
+      },
+      {
+        "id": "euphorbia-marginata",
+        "index": 1,
+        "role": "white-margined flowering bracts and Euphorbia cyathium region",
+        "path": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-marginata/images/02-inflorescence-closeup.jpg",
+        "creator": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_marginata_002.JPG",
+        "status": "physically_installed_existing_exact_species"
+      },
+      {
+        "id": "croton-monanthogynus",
+        "index": 0,
+        "role": "Croton whole-plant foliage for leaf/hair screening",
+        "path": "content/taxa/Euphorbiaceae/Croton/croton-monanthogynus/images/croton-monanthogynus-provisional-face.jpg",
+        "creator": "Krzysztof Ziarnek, Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Croton_monanthogynus_kz01.jpg",
+        "status": "physically_installed_existing_exact_species"
+      }
+    ],
+    "photo_coverage_note": "Ten existing PHYSICAL image anchors with correct exact-species provenance: 3 Acalypha, 4 Stillingia Joey private-use study frames, 2 Euphorbia CC examples, 1 Croton CC portrait. Fine Acalypha bract counting, true 3-carpel dissection, internal cyathium glands and Croton stellate hairs remain explicit unphotographed targets. No fabricated image arrows."
+  },
+  "video_study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "Y7A530PjEbU",
+      "record_id": "Y7A530PjEbU-02",
+      "timestamp": "00:25",
+      "role": "Stillingia texana whole-plant limestone habit",
+      "rights": "private study; public reuse not assumed"
+    }
+  ],
+  "curation_status": {
+    "version": "2.1-family-acalypha-photo-first",
+    "last_reviewed": "2026-10-14",
+    "visual_lock": "10 physically installed existing study/rights-cleared images + 4 explicit specialist macro gaps",
+    "family_backfill_phase": "family recognition upgraded; genus/species lanes remain independent",
+    "family_photo_anchors": 10,
+    "private_study_photo_anchors": 4,
+    "photo_micro_confirmed": false,
+    "license_caution": "exact original licenses retained; Joey frames private study only",
+    "science_range_unchanged": true
+  },
+  "project_pool_genus_roadmap": {
+    "count": 13,
+    "genera": [
+      {
+        "genus": "Euphorbia",
+        "role": "primary genus-pattern target",
+        "fast_cue": "cyathium + usually abundant latex",
+        "workflow_note": "species research/review active; do not promote from this family module"
+      },
+      {
+        "genus": "Chamaesyce",
+        "role": "legacy/source-pool Euphorbia lane",
+        "fast_cue": "sandmat/prostrate Euphorbia-type cyathia",
+        "workflow_note": "retain source provenance but reconcile accepted names within broad Euphorbia before species promotion"
+      },
+      {
+        "genus": "Croton",
+        "role": "primary genus-pattern target",
+        "fast_cue": "stellate/lepidote hairs; often female flowers below male flowers",
+        "workflow_note": "deep review active"
+      },
+      {
+        "genus": "Acalypha",
+        "role": "primary genus-pattern target",
+        "fast_cue": "enlarging pistillate bracts + often multifid/laciniate styles",
+        "workflow_note": "species scout active"
+      },
+      {
+        "genus": "Tragia",
+        "role": "primary genus-pattern target",
+        "fast_cue": "stinging hairs; small flowers; latex absent; herb/subshrub/vine habit",
+        "workflow_note": "species scout active"
+      },
+      {
+        "genus": "Cnidoscolus",
+        "role": "primary local comparison",
+        "fast_cue": "stinging hairs + white latex + often palmately lobed leaves",
+        "workflow_note": "family-level comparison only until species package advances"
+      },
+      {
+        "genus": "Stillingia",
+        "role": "canonical local anchor",
+        "fast_cue": "spikelike inflorescence with basal pistillate flowers + persistent gynobase",
+        "workflow_note": "Stillingia texana canonical"
+      },
+      {
+        "genus": "Argythamnia",
+        "role": "secondary project-pool genus",
+        "fast_cue": "silverbush/wild-mercury habit; reduced unisexual flowers and 3-part fruit",
+        "workflow_note": "genus-specific macro lesson pending"
+      },
+      {
+        "genus": "Bernardia",
+        "role": "secondary project-pool genus",
+        "fast_cue": "woody/subshrub habit with small unisexual flowers and 3-lobed capsule",
+        "workflow_note": "genus-specific macro lesson pending"
+      },
+      {
+        "genus": "Jatropha",
+        "role": "secondary local genus",
+        "fast_cue": "leatherstem habit in the current pool; use reproductive characters for confirmation",
+        "workflow_note": "genus-specific lesson pending"
+      },
+      {
+        "genus": "Ricinus",
+        "role": "introduced comparison",
+        "fast_cue": "huge peltate palmately lobed leaves + conspicuous spiny capsules",
+        "workflow_note": "do not use as native family anchor"
+      },
+      {
+        "genus": "Triadica",
+        "role": "introduced comparison",
+        "fast_cue": "Chinese tallow tree; heart-shaped leaves and white waxy seeds",
+        "workflow_note": "do not use as native family anchor"
+      },
+      {
+        "genus": "Amperea",
+        "role": "source-pool comparison",
+        "fast_cue": "do not use as a Central Texas family anchor",
+        "workflow_note": "retain for source-pool provenance; local relevance review pending"
+      }
+    ]
+  },
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "three-lobed ovary/capsule + persistent columella",
+      "best_subject": "Stillingia texana or another rights-safe local member",
+      "annotation_goal": "mark the three carpels/cocci and central column"
+    },
+    {
+      "priority": 1,
+      "structure": "cyathium",
+      "best_subject": "Euphorbia",
+      "annotation_goal": "label involucre, nectar gland, central pistillate flower, surrounding staminate flowers"
+    },
+    {
+      "priority": 1,
+      "structure": "stellate/lepidote trichomes",
+      "best_subject": "Croton",
+      "annotation_goal": "show star/scale hair at macro or microscope scale"
+    },
+    {
+      "priority": 1,
+      "structure": "pistillate bracts + divided styles",
+      "best_subject": "Acalypha",
+      "annotation_goal": "arrow to bract and laciniate/multifid style"
+    },
+    {
+      "priority": 1,
+      "structure": "stinging hairs",
+      "best_subject": "Tragia and Cnidoscolus",
+      "annotation_goal": "show hairs and pair with habit/leaf comparison"
+    },
+    {
+      "priority": 2,
+      "structure": "Stillingia gynobase",
+      "best_subject": "Stillingia texana",
+      "annotation_goal": "show persistent base after capsule dehiscence"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Flora of North America / eFloras — Euphorbiaceae",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=10327",
+      "use": "family morphology and circumscription"
+    },
+    {
+      "source": "Plants of the World Online — Euphorbiaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30375178-2/general-information",
+      "use": "modern family recognition and comparison with segregate families"
+    },
+    {
+      "source": "Flora of North America / eFloras — Euphorbia",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=112355",
+      "use": "cyathium as Euphorbia-specific architecture"
+    },
+    {
+      "source": "Flora of North America / eFloras — Croton",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=108445",
+      "use": "stellate/scalelike hairs and inflorescence pattern"
+    },
+    {
+      "source": "Flora of North America / eFloras — Acalypha",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=100064",
+      "use": "pistillate bracts and multifid/laciniate styles"
+    },
+    {
+      "source": "Flora of North America / eFloras — Tragia",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=133273",
+      "use": "stinging hairs and latex absence"
+    },
+    {
+      "source": "Flora of North America / eFloras — Cnidoscolus",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=107436",
+      "use": "stinging hairs, latex and leaf architecture"
+    },
+    {
+      "source": "Flora of North America / eFloras — Stillingia",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=131578",
+      "use": "spikelike inflorescence and persistent gynobase"
+    }
+  ],
+  "canonical_anchor_set": {
+    "status": "one canonical local anchor",
+    "species": [
+      {
+        "species_id": "stillingia-texana",
+        "scientific_name": "Stillingia texana",
+        "role": "canonical broad-family and Stillingia architecture anchor",
+        "look_for": "Terminal spikelike inflorescence with basal pistillate flowers, staminate clusters above, white latex, 3-part capsule and persistent gynobase."
+      }
+    ],
+    "pending_genus_patterns": [
+      "Euphorbia",
+      "Croton",
+      "Acalypha",
+      "Tragia",
+      "Cnidoscolus"
+    ],
+    "warning": "Pending genus-pattern taxa are teaching comparisons only until their separate species workflows finish."
+  }
+}

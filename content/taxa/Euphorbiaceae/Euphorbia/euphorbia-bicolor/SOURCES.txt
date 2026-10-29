@@ -1,0 +1,37 @@
+# Curation sources — Euphorbia bicolor
+Reviewed through 2026-10-07
+Scientific status: UNRESOLVED RANGE HOLD
+Learner admission: APPROVED
+
+Taxonomy / range
+Plants of the World Online:
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:345779-1
+
+UT Plant Resources Center:
+https://w3.biosci.utexas.edu/prc/wildflowers/flower/euphorbia-bicolor
+https://w3.biosci.utexas.edu/prc/specimens/Euphorbiaceae.html
+
+Hays County / Purola:
+https://w3.biosci.utexas.edu/prc/HaysFlora/pages/EUBI2.html
+
+Morphology / comparison
+Williamson County detailed treatment:
+https://w3.biosci.utexas.edu/prc/K12/pdf/Euphorbia%20bicolor
+
+Euphorbia marginata vs. E. bicolor comparison:
+https://www.inaturalist.org/posts/11153-euphorbia-marginata-snow-on-the-mountain-and-e-bicolor-snow-on-the-prairie
+
+Photo — exact species / reusable
+Lisa Winnett-Pequeno — CC BY 4.0
+https://commons.wikimedia.org/wiki/File:Euphorbia_bicolor.jpg
+iNaturalist observation 32075986 / photo 50272258
+
+Decision
+Hays + Travis remain locked for range evidence. Learner inclusion remains approved while range stays UNRESOLVED. Visual-ID detail work is independent of the range hold.
+
+GLASS ROOT GARDEN DIRECT-PHOTOGRAPHER PHOTO INSTALL (2026-10-14)
+Public learner credit: Glass Root Garden. CC BY 4.0 licensed directly by photographer.
+iNaturalist observation/photo links and image files:
+- 564413728 https://www.inaturalist.org/photos/564413728 | 312596696 | images/glass-root-garden-564413728-white-bracts-and-floral-clusters.jpg
+- 562443428 https://www.inaturalist.org/photos/562443428 | 311563806 | images/glass-root-garden-562443428-whole-plant-flowering-habit.jpg
+Original iNaturalist photo license state, when different, is retained in species images[] provenance; do not attribute the owner grant to iNaturalist.

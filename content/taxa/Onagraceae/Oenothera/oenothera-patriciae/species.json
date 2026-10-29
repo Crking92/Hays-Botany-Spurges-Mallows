@@ -1,0 +1,110 @@
+{
+  "id": "oenothera-patriciae",
+  "entry_type": "species",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "species": "patriciae",
+  "scientific_name": "Oenothera patriciae",
+  "authority": "W.L.Wagner & Hoch",
+  "common_name": "Plains beeblossom / plains gaura",
+  "synonyms": [
+    "Gaura brachycarpa Small",
+    "Gaura hexandra var. coryi (Munz) Munz",
+    "Gaura tripetala var. coryi Munz"
+  ],
+  "look_here_first": "Do not expect a classic big evening-primrose flower. This is a delicate gaura-type annual with small white flowers that fade pink, long-exserted stamens and style, and narrow hairy stems and leaves.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Master Plant Pool marks Oenothera patriciae Hays-local. Travis — documented at Reimer's Ranch Park. Williamson — UT Plant Resources Center provides a dedicated Williamson County treatment.",
+    "range_guardrail": "Exact county evidence only."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "small annual herb",
+      "slender hairy stems",
+      "narrow lanceolate leaves",
+      "small white flowers fading rose-pink",
+      "3–4 petals",
+      "long exserted stamens and style",
+      "gaura-like open inflorescence"
+    ],
+    "comparison_training": "Compared with O. jamesii and O. macrocarpa, O. patriciae has much smaller gaura-like flowers and a delicate annual habit rather than large yellow evening-primrose blossoms."
+  },
+  "curation_status": {
+    "version": "1.0-b087",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_first_photo_install": "2026-10-15",
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/gbif-first-1675768299-2c63e68f83.jpg",
+      "role": "Provisional exact source determination first-recognition photo; diagnostic details not checked",
+      "creator": "Laura Tancredi",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "GBIF mediated record; credit original dataset, specimen and creator",
+      "source_page": "https://www.gbif.org/occurrence/1675768299",
+      "gbif_occurrence_id": "1675768299",
+      "source_determination": "Oenothera patriciae W.L.Wagner & Hoch",
+      "accepted_target": "Oenothera patriciae",
+      "media_source_url": "https://collections.nmnh.si.edu/media/?i=12630331&h=2000",
+      "source_dataset_key": "821cc27a-e3bb-4bc5-ac34-89ada245069d",
+      "image_dimensions": [
+        900,
+        1350
+      ],
+      "study_use": "Yes; rights-specific conditions on original image",
+      "public_reuse": "Respect photo license; CC BY-NC images are noncommercial only",
+      "photo_review": "Source-reported taxon and image license verified; morphological identification and teaching view need independent visual review",
+      "modifications": "Resized JPEG and EXIF removed"
+    },
+    {
+      "file": "images/gbif-manual-1453538391-1a92e0840.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Gaura-type flower side-view showing long stamens/style, narrow hairy foliage, fruit",
+      "creator": "Andy Newman",
+      "license": "CC BY-NC",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/1453538391",
+      "gbif_occurrence_id": "1453538391",
+      "source_determination": "Oenothera patriciae W.L.Wagner & Hoch",
+      "accepted_target": "Oenothera patriciae",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6683222/original.jpeg",
+      "image_dimensions": [
+        1350,
+        900
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "note": "Specimen/observation source first photo installed provisionally with an individually verified license. Botanical diagnostic morphology pending.",
+    "missing_diagnostic_views": [
+      "Confirm diagnostic vegetative and reproductive characters"
+    ]
+  },
+  "photo_note": "Exact source determination GBIF-linked image provisionally installed with image-level license; visual ID requires review. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

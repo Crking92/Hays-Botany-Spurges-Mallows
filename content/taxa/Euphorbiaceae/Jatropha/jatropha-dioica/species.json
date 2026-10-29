@@ -1,0 +1,63 @@
+{
+  "id": "jatropha-dioica",
+  "family": "Euphorbiaceae",
+  "genus": "Jatropha",
+  "species": "dioica",
+  "scientific_name": "Jatropha dioica",
+  "common_name": "Leatherstem",
+  "look_here_first": "Cluster of slender smooth often leafless stems with small narrow leaves in season; small pinkish flowers and milky sap.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "manual_library_install_047": "2026-10-17"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Jatropha%20dioica",
+  "images": [
+    {
+      "file": "images/inat-382654450.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Rodolfo Maximiliano Gutiérrez-Sánchez, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "source_page": "https://www.inaturalist.org/photos/382654450",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution required"
+    },
+    {
+      "file": "images/library-review047-b861a684da8156d.jpg",
+      "role": "Short fleshy grayish twig with narrow small leaves and dense clustered pinkish flower buds; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Actual archived source photos visually screened and chosen for distinct botanical parts. Exact identification provisional.",
+      "creator": "Jo Roberts",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6185832214",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/627153741/original.jpg",
+      "source_determination": "Jatropha dioica",
+      "source_observation_id": "6185832214",
+      "library_release_tag": "hays-photo-library-mass-38993364540",
+      "library_archive_file": "staged_images/jatropha-dioica/gbif-b434e6f86650a2.jpg",
+      "archive_image_sha256": "55e9e9bb74c1eddd816f47c61af2e060dd3fa338c8c33a7da7a3ec16256bef91",
+      "image_dimensions": [
+        1400,
+        1050
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

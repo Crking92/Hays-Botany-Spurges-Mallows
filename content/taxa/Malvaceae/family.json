@@ -1,0 +1,249 @@
+{
+  "rank": "family",
+  "name": "Malvaceae",
+  "common_name": "Mallow family",
+  "project_scope": {
+    "selection_mode": "local Malvoideae-first visual lesson",
+    "note": "Local Malvoideae-first learner now uses multiple REAL installed species from Malvaviscus, Callirhoe and Abutilon (and Sida for habit variation), not Turk's cap alone. Broad Malvaceae includes relatives for which a projecting staminal column or winecup epicalyx is not universally typical."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "START at the actual flower: most local mallows have FIVE PETALS and numerous stamens joined into one STAMINAL COLUMN with many anthers, surrounding the styles. Then inspect the five-part CALYX, any extra ring of small BRACTLETS below it (EPICALYX/INVOLUCEL), paired STIPULES at foliage leaf bases and the mature FRUIT. Many have alternately arranged palmately veined leaves. Never use the presence of an epicalyx as a whole-family rule.",
+    "leaves": "Commonly alternate/spiral and stipulate; palmate venation and stellate hairs are frequent supporting characters.",
+    "flowers": "Local mallow-subfamily flowers commonly have five petals, a five-part sepal CALYX and many stamens fused by their FILAMENTS into a central STAMINAL COLUMN (monadelphous). An additional involucel/EPICALYX is variable among genera and even named Callirhoe species. Sources conflict about whether Williamson County Callirhoe pedata bears 3 bracteoles; the photo lesson must not claim certainty until botanists reconcile this.",
+    "fruit": "Several local mallows (Callirhoe and Abutilon) mature a dry segmented SCHIZOCARP with separate MERICARPS (individual wedge-like fruit sections). Malvaviscus commonly makes a fleshy red segmented fruit. Hibiscus may produce a capsule. Mature fruit separates superficially similar flower forms.",
+    "field_tip": "Before counting petals: locate a small STAMINAL COLUMN with multiple anthers. CALYX = green flower sepals; EPICALYX/INVOLUCEL = an EXTRA ring of bractlets below that calyx; STIPULES = two appendages at a LEAF BASE along the stem. Those are THREE different anatomical landmarks. True fruit photos are needed to count MERICARPS."
+  },
+  "visual_lesson": {
+    "status": "eight_photo_examples_two_specialty_detail_passes_pending",
+    "teaching_order": "flower center and staminal column → open versus furled petals → palmately lobed leaves and habit → calyx versus epicalyx concept → dry schizocarp fruit and mericarps → genus variation → specialist diagnostic macro gaps",
+    "intro": "A mallow does NOT have to look like a hibiscus. See a Turk's cap flower with curled petals, an open winecup, a small yellow Abutilon blossom and dry fruit, and a small Sida plant—then identify shared structures: five petals, the fused staminal COLUMN, a true CALYX, any extra BRACTLETS beneath it (EPICALYX), STIPULES along the stem and fruits made of MERICARPS.",
+    "steps": [
+      {
+        "title": "1 · Flower center: many stamens, one central column",
+        "photo_role": "fused staminal column / exserted floral center example",
+        "anchor_species_id": "malvaviscus-arboreus-var-drummondii",
+        "anchor_image_index": 0,
+        "look_for": "In Turk's cap, the LONG projection beyond the folded red petals includes the fused staminal COLUMN and STYLES. The little pollen-bearing ANTHERS belong to many individual stamens united around that column. The flower is not a red tube with a solitary stamen.",
+        "why_it_matters": "A fused group of many stamens is a powerful local mallow-family (Malvoideae) clue versus families with separate stamens.",
+        "status": "installed_verified_reference"
+      },
+      {
+        "title": "2 · Five open petals can make a winecup",
+        "photo_role": "open petals / flower center contrast",
+        "anchor_species_id": "callirhoe-involucrata",
+        "anchor_image_index": 0,
+        "look_for": "Count the FIVE MAGENTA PETALS radiating around the pale flower center. Contrast an OPEN winecup with Turk's cap, whose five petals remain tightly furled. Both belong to the mallow family.",
+        "why_it_matters": "Teaching the same floral plan in radically different shapes prevents reliance on flower silhouette.",
+        "status": "installed_verified_reference"
+      },
+      {
+        "title": "3 · Spreading stems and palmately lobed leaves",
+        "photo_role": "alternating leaves and habit",
+        "anchor_species_id": "callirhoe-involucrata",
+        "anchor_image_index": 1,
+        "look_for": "Trace the winecup stems spreading across the ground and leaves divided into PALMATE lobes (segments spreading outward from a central point). The whole plant shows a trailing perennial habit, not a species-defining flower color.",
+        "why_it_matters": "Growth form and foliage provide important supporting evidence when several local mallows have similar-colored blooms.",
+        "status": "installed_verified_reference"
+      },
+      {
+        "title": "4 · Turn the winecup sideways and hunt for the epicalyx",
+        "photo_role": "side-on bud/epicalyx research reference",
+        "anchor_species_id": "callirhoe-pedata",
+        "anchor_image_index": 1,
+        "look_for": "This Callirhoe pedata picture provides FLOWER and BUD context, not proof of the critical bractlets. To teach the EPICALYX, request a verified close-up of C. involucrata (e.g. UT Austin PlantPics exterior epicalyx view); compare the extra bractlets BELOW the true calyx with the actual calyx lobes. Note FNA vs UT conflicting pedata descriptions.",
+        "why_it_matters": "Separates calyx (sepals) from epicalyx (bractlets), and demonstrates why a blurry flower view cannot settle a microscopic character.",
+        "status": "installed_species_context_epicalyx_macro_pending"
+      },
+      {
+        "title": "5 · Look at mallow leaves and developing fruit together",
+        "photo_role": "lobed leaf / developing schizocarp context",
+        "anchor_species_id": "callirhoe-involucrata",
+        "anchor_image_index": 2,
+        "look_for": "Find the lobed leaves and fruit-bearing shoots on the winecup plant. A true mature MERICARP (one dry section of a many-parted mallow fruit) is not verified at dissection scale by this view.",
+        "why_it_matters": "Introduces the transition from flower to dry segmented fruit without pretending a general habit photo provides precise ripe fruit detail.",
+        "status": "installed_verified_reference"
+      },
+      {
+        "title": "6 · Different flower color, same mallow staminal design",
+        "photo_role": "yellow flower and staminal column",
+        "anchor_species_id": "abutilon-fruticosum",
+        "anchor_image_index": 1,
+        "look_for": "Texas Indian mallow has FIVE YELLOW PETALS, not wine-purple. At the center is a cluster of anthers supported by the joined STAMINAL COLUMN; observe the contrast to Callirhoe while recognizing the same family pattern.",
+        "why_it_matters": "Flower color is not a reliable family or genus separator; floral parts are what matter.",
+        "status": "installed_verified_reference"
+      },
+      {
+        "title": "7 · Dry segmented fruit: Abutilon example",
+        "photo_role": "compact ripe mericarp ring / schizocarp",
+        "anchor_species_id": "abutilon-fruticosum",
+        "anchor_image_index": 2,
+        "look_for": "The Abutilon fruit is a compact circle of MERICARPS (individual fruit sections). Compare this dry fruit with the fleshy fruit expected in Turk's cap, and note that capsule-producing relatives exist. This is an Abutilon example, NOT a Callirhoe fruit.",
+        "why_it_matters": "Gives a real photographed fruit example to connect the mallow flower with its mature reproductive architecture.",
+        "status": "installed_verified_reference"
+      },
+      {
+        "title": "8 · A small-flowered mallow can look very different",
+        "photo_role": "whole small-flowered malvaceae habit",
+        "anchor_species_id": "sida-spinosa",
+        "anchor_image_index": 0,
+        "look_for": "Spiny sida is a small-flowered mallow with toothed leaves; its overall habit looks nothing like winecups or Turk's cap. Its small diagnostic spiny tubercles beneath leaf petioles require a detail macro rather than being assumed from the whole-plant photo.",
+        "why_it_matters": "Shows family breadth and why leaves/flowers/fruit need to be combined for field identification.",
+        "status": "installed_verified_reference"
+      },
+      {
+        "title": "9 · Specialist photo: involucel vs calyx side by side",
+        "photo_role": "same-scale epicalyx and calyx macro",
+        "look_for": "A future pair should show C. involucrata's separate small BRACTLETS beneath its five true CALYX lobes, with a verified second species at the same scale. The conflicting published C. pedata bractlet description must be explicitly resolved before a negative comparison is asserted.",
+        "why_it_matters": "Reliable species identification requires proving the precise flower architecture, not just memorizing bractlet terminology.",
+        "status": "specialist_photo_and_source_review_pending"
+      },
+      {
+        "title": "10 · Specialist photo: ripe fruit and stellate hairs",
+        "photo_role": "mericarps, hairs and stipules macro",
+        "look_for": "Need an enlarged true ripe Callirhoe MERICARP and an independently verified star-shaped STELLATE hair photo, plus the paired STIPULES at a leaf base. None of the eight installed lesson examples guarantees these tiny features in detail.",
+        "why_it_matters": "Adds stronger fruit and leaf-surface evidence for comparing mallows with poppies, spurges and rockroses.",
+        "status": "specialist_diagnostic_macro_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Malvaceae vs Papaveraceae",
+        "rule": "Both can have many stamens. Local mallows commonly fuse them into a staminal column; prickly poppies have numerous free stamens and a capsule."
+      },
+      {
+        "title": "Winecup versus Texas Indian mallow",
+        "rule": "Both show five petals and central fused stamens; Callirhoe involucrata has showy magenta winecup flowers and a trailing habit, whereas Abutilon fruticosum has small yellow flowers and compact dry schizocarp fruit. Use fruit/calyx, not flower color alone."
+      },
+      {
+        "title": "Epicalyx vs calyx vs stipules",
+        "rule": "Epicalyx = extra BRACTLETS immediately below flower's CALYX; calyx = actual SEPALS enclosing petals in bud; stipules = paired appendages at base of ordinary LEAVES on a stem. C. involucrata has verified epicalyx, while whether C. pedata has bracteoles is disputed between FNA and a UT Williamson County botanical description."
+      },
+      {
+        "title": "Mallow column versus papaver/poppy free stamens",
+        "rule": "A fused STAMINAL COLUMN supports many anthers in many local mallow subfamily flowers. Argemone and many rockroses display numerous separate FREE stamens; check staminal anatomy and fruit, not merely a five-petaled cup."
+      }
+    ],
+    "caveat": "The broad modern Malvaceae includes lineages more diverse than the five-petaled local Malvoideae examples. Some local genera have no epicalyx; Callirhoe involucrata's bractlets cannot be treated as a whole-family feature. A Calyx/epicalyx closeup remains required. Published FNA and UT Williamson descriptions of C. pedata conflict about bractlets; no conclusive arrow or negative character is asserted in these installed photo cards.",
+    "photo_coverage_note": "Eight real physically installed licensed species photographs anchor the lesson (Malvaviscus one, Callirhoe involucrata three, C. pedata one, Abutilon two, Sida one); two macro-only steps clearly unanchored. Callirhoe digitata/leiocarpa current website-referenced pictures are external/copyright-controlled and NOT counted installed.",
+    "photo_source_key": [
+      {
+        "id": "malvaviscus-arboreus-var-drummondii",
+        "index": 0,
+        "role": "furled mallow flower, projecting staminal column",
+        "creator": "Dinesh Valke",
+        "license": "CC BY-SA 2.0",
+        "status": "installed_verified_reference"
+      },
+      {
+        "id": "callirhoe-involucrata",
+        "index": 0,
+        "role": "open five-petal winecup with column",
+        "creator": "Clinton & Charles Robertson",
+        "license": "CC BY-SA 2.0",
+        "status": "installed_verified_reference"
+      },
+      {
+        "id": "callirhoe-involucrata",
+        "index": 1,
+        "role": "trailing stem and palmately lobed leaves",
+        "creator": "Stan Shebs",
+        "license": "CC BY-SA 3.0",
+        "status": "installed_verified_reference"
+      },
+      {
+        "id": "callirhoe-pedata",
+        "index": 1,
+        "role": "flower and unopened bud context (NOT epicalyx macro)",
+        "creator": "giantcicada",
+        "license": "CC BY 4.0",
+        "status": "installed_reference_missing_target_macro"
+      },
+      {
+        "id": "callirhoe-involucrata",
+        "index": 2,
+        "role": "leaves and fruiting stem context",
+        "creator": "Nadiatalent",
+        "license": "CC BY-SA 4.0",
+        "status": "installed_reference_missing_fruit_macro"
+      },
+      {
+        "id": "abutilon-fruticosum",
+        "index": 1,
+        "role": "yellow mallow blossom and column",
+        "creator": "SAplants",
+        "license": "CC BY-SA 4.0",
+        "status": "installed_verified_reference"
+      },
+      {
+        "id": "abutilon-fruticosum",
+        "index": 2,
+        "role": "ripe segmented schizocarp/mericarp ring",
+        "creator": "Krzysztof Ziarnek, Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "status": "installed_verified_reference"
+      },
+      {
+        "id": "sida-spinosa",
+        "index": 0,
+        "role": "whole small-flowered mallow habit",
+        "creator": "NY State IPM Program at Cornell University",
+        "license": "CC BY 2.0",
+        "status": "installed_verified_reference"
+      }
+    ],
+    "external_photo_reference": {
+      "title": "UT Austin PlantPics Callirhoe involucrata epicalyx side view",
+      "url": "https://www.sbs.utexas.edu/bio406d/images/pics/mlv/callirhoe_involucrata.htm",
+      "role": "External educational reference shows epicalyx below flower; NOT installed, license not verified, do not automatically count in family photo count.",
+      "status": "external_reference_uninstalled"
+    }
+  },
+  "curation_status": {
+    "version": "1.2-eight-photo-family-lesson",
+    "last_reviewed": "2026-10-13",
+    "visual_lock": "Eight existing public-licensed physical example photographs, two precise pending anatomy photos. Existing family science preserved; Callirhoe pedata source conflict and two county-threshold issues handed off to taxonomy reviewer.",
+    "photo_count_verified": 8
+  },
+  "family_confusion_cleanup": {
+    "look_here_first": "In local Malvoideae inspect the central staminal column with many anthers around the style; then calyx/epicalyx, stipules, and mature fruit. The column is not universal across broad Malvaceae.",
+    "comparisons": [
+      {
+        "family": "Cistaceae",
+        "difference": "Usually free stamens rather than a fused staminal column; compare flower centers and capsule versus mallow mericarps."
+      },
+      {
+        "family": "Papaveraceae",
+        "difference": "Argemone has free stamens and a syncarpous capsule; many local mallows have a staminal column and segmented fruit."
+      },
+      {
+        "family": "Geraniaceae",
+        "difference": "Geranium and Erodium have free stamens and conspicuously beaked schizocarps."
+      },
+      {
+        "family": "Euphorbiaceae",
+        "difference": "Stellate hairs alone do not decide family; compare unisexual flowers and often three-part capsules against mallow floral column and mericarps."
+      }
+    ],
+    "exceptions": [
+      "Epicalyx variable; Callirhoe leiocarpa is an important no-epicalyx comparison.",
+      "Malvaviscus has fleshy fruit unlike dry mericarps of Callirhoe, Abutilon and Sida.",
+      "Fused staminal column is a local Malvoideae cue, not universal Malvaceae."
+    ],
+    "genus_routing": [
+      "Malvaviscus: furled petals, exserted staminal column, fleshy fruit.",
+      "Callirhoe: check epicalyx and dry mericarps.",
+      "Abutilon: count style branches and inspect mericarp tips; use existing genus comparison.",
+      "Sida: small flowers, dry mericarps and calyx.",
+      "Sphaeralcea: stellate foliage and mallow flower; use fruit rather than color."
+    ],
+    "diagnostic_visual_roles": [
+      "Malvaviscus/Callirhoe versus Cistaceae flower-center macro: fused versus free stamens.",
+      "Callirhoe involucrata versus C. leiocarpa calyx/epicalyx underside pair.",
+      "Callirhoe and Abutilon dry mericarps versus Malvaviscus fleshy fruit.",
+      "Leaf underside stellate hairs and leaf-base stipules.",
+      "Mallow mericarps versus Argemone capsule versus Geranium beaked fruit."
+    ],
+    "photo_owner": "Diagnostic Photo Polish; reuse existing canonical anchors and licensed assets.",
+    "taxonomy_handoff": "No species or native-range decision changed."
+  }
+}

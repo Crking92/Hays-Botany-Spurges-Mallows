@@ -1,0 +1,53 @@
+{
+  "id": "cnidoscolus-texanus",
+  "family": "Euphorbiaceae",
+  "genus": "Cnidoscolus",
+  "species": "texanus",
+  "scientific_name": "Cnidoscolus texanus",
+  "common_name": "Texas bullnettle",
+  "look_here_first": "Beware stinging hairs; examine lobed leaves and white flowers without touching the plant.",
+  "curation_status": {
+    "visual_reviewed": false,
+    "taxonomy_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "images": [
+    {
+      "file": "images/joey-97833582.jpg",
+      "role": "Provisional species recognition image; image-part diagnosis not yet reviewed",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/97833582",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "CC BY-NC only"
+    },
+    {
+      "file": "images/joey-97833631.jpg",
+      "role": "Provisional species recognition image; image-part diagnosis not yet reviewed",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/97833631",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "CC BY-NC only"
+    },
+    {
+      "file": "images/joey-97833706.jpg",
+      "role": "Provisional species recognition image; image-part diagnosis not yet reviewed",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/97833706",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "CC BY-NC only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,5 @@
+Lythrum californicum Torr. & A.Gray — California loosestrife. Approved Master Plant Pool row 673.
+Accepted species and Lythraceae: Royal Botanic Gardens, Kew Plants of the World Online: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:553677-1
+Identification: Jepson eFlora https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=32397 ; narrow entire leaves (lower opposite, upper alternate), spaced pink-purple flowers, ribbed tubular floral cup. Verify with flower and leaf arrangement, not color alone.
+Photo lead: Alex Abair, iNaturalist observation 8307444, photograph 11028679, photo-specific CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Original photo page https://www.inaturalist.org/photos/11028679 . Candidate requires successful physical download and review before installation is counted. Second source photo ID 11028680 from same observation is available for future side-view diagnostic review; not installed by this one-photo provisional batch.
+County-native audit deferred. Retain target-zone status UNRESOLVED and exclude from native-only metrics.

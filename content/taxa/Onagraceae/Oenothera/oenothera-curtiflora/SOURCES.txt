@@ -1,0 +1,34 @@
+# Deep Review sources — Oenothera curtiflora
+Reviewed: 2026-10-02
+Batch: deep-review-batch-007-oenothera-b003
+Status: READY_FOR_APPROVAL
+
+## Taxonomy
+Accepted: Oenothera curtiflora W.L.Wagner & Hoch
+Important former name: Gaura parviflora Douglas ex Lehm.
+Kew/POWO: https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A77092903-1
+
+## Strict project-range evidence
+- Hays — project Master Plant Pool: Hays Local = Yes; 7 wild observations, 0 cultivated. This is supporting occurrence evidence.
+- Travis — UT PRC herbarium under former name Gaura parviflora: https://w3.biosci.utexas.edu/prc/specimens/Onagraceae.html
+- Williamson — https://w3.biosci.utexas.edu/prc/K12/pages/Oenothera%20curtiflora.html
+Decision: PASS
+
+## Morphology
+- Williamson County treatment: https://w3.biosci.utexas.edu/prc/K12/pages/Oenothera%20curtiflora.html
+
+APPROVAL
+User explicitly approved canonical inclusion on 2026-10-02.
+PHOTO STATUS
+Diagnostic source page recorded; exact creator/license/direct download still pending, so no guessed file is created.
+
+OWNER-AUTHORIZED PRIVATE PHOTO, 2026-10-14
+Glass Root Garden; https://www.inaturalist.org/photos/508886200; observation 283221118.
+Direct photo-owner authorization in current project chat, 2026-10-14. Private learner use approved despite stale source metadata; no public CC grant inferred.
+Source API license: none_recorded; public_reuse=no. EXIF/GPS stripped.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T10:27:38.122462+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/185092681
+https://www.inaturalist.org/observations/109783038
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

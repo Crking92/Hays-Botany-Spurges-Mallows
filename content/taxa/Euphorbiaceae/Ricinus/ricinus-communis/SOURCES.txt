@@ -1,0 +1,9 @@
+Master Plant Pool Phase3 accepted working name Ricinus communis; source rows 988
+Taxonomy source query https://powo.science.kew.org/results?q=Ricinus%20communis
+Exact Commons source photograph https://commons.wikimedia.org/wiki/File:Ricinus_communis_01.jpg
+Original photo download https://commons.wikimedia.org/wiki/Special:Redirect/file/Ricinus%20communis%2001.jpg
+Creator MJJR
+Individual image-level CC/PD license CC BY 2.5
+Provisional photo role Provisional castor bean foliage/fruit recognition
+Caution Introduced toxic plant. Seeds contain ricin; never touch/consume seeds or include in restoration planting.
+No Hays County or user target-zone nativity asserted from image. Photo licensing checked at original Commons file pages.

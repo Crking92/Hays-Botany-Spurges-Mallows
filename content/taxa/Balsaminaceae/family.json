@@ -1,0 +1,150 @@
+{
+  "rank": "family",
+  "name": "Balsaminaceae",
+  "common_name": "Touch-me-not / jewelweed family",
+  "lineage_context": {
+    "order": "Ericales",
+    "batch": "Asterid residuals",
+    "close_project_families": [
+      "Primulaceae",
+      "Ericaceae"
+    ],
+    "teaching_goal": "Teach Impatiens capensis through translucent succulent stems, orange zygomorphic spurred flowers, fused stamen/anther cap over the gynoecium and explosively dehiscent 5-valved capsules."
+  },
+  "project_scope": {
+    "selection_mode": "Impatiens capensis one-species family module",
+    "note": "Impatiens capensis is accepted by current Kew and its native range includes Texas."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with the hanging flower and fruit. The project plant is a semi-succulent annual with translucent stems, strongly bilateral flowers with a recurved nectar spur, and touch-sensitive explosive capsules.",
+    "vegetative": "Annual wetland herb with fleshy translucent stems; leaves alternate, ovate-elliptic and coarsely/shallowly serrate.",
+    "reproductive": "Showy zygomorphic flowers; sepals and petals highly modified, one sepal forming the sac/spur. Five stamens are connate around/over the gynoecium, forming an anther cap.",
+    "fruit": "Fleshy 5-valved loculicidal capsule that explosively coils its valves and flings seeds when mature.",
+    "field_tip": "Translucent succulent stem + orange spurred asymmetric flower + explosive touch-me-not capsule = Balsaminaceae/Impatiens."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_031",
+    "teaching_order": "translucent stem → flower orientation → nectar spur → fused stamen cap → capsule before/after touch → cleistogamous flower → wetland habit",
+    "intro": "Jewelweed is almost designed for a visual learner: the flower has an obvious nectar spur, and the mature fruit literally demonstrates its dispersal mechanism when touched.",
+    "steps": [
+      {
+        "title": "1 · Notice the glassy stem",
+        "photo_role": "stem/node macro",
+        "look_for": "Fleshy semi-translucent green stem with swollen nodes.",
+        "why_it_matters": "Fast vegetative clue in wet habitats.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Find the recurved nectar spur",
+        "photo_role": "flower side view",
+        "look_for": "Orange-yellow hanging flower with reddish spots and a curved spur bent forward beneath the floral sac.",
+        "why_it_matters": "Signature flower architecture.",
+        "status": "highest_priority_visual_pending"
+      },
+      {
+        "title": "3 · Decode the irregular petals and sepals",
+        "photo_role": "flower exploded diagram",
+        "look_for": "One sepal expanded into the spurred sac; petals forming upper/lower/lateral portions of the zygomorphic flower.",
+        "why_it_matters": "Prevents treating every visible lobe as an ordinary petal.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "4 · Find the stamen cap",
+        "photo_role": "flower-center macro",
+        "look_for": "Five stamens/anthers united into a cap around/over the gynoecium.",
+        "why_it_matters": "Strong Balsaminaceae reproductive character.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "5 · Catch the capsule exploding",
+        "photo_role": "before/after/high-speed sequence",
+        "look_for": "Mature elongated capsule splits into five valves that curl rapidly and eject the seeds.",
+        "why_it_matters": "Makes the common name touch-me-not unforgettable.",
+        "status": "highest_priority_sequence_pending"
+      },
+      {
+        "title": "6 · Show the hidden selfing flowers",
+        "photo_role": "cleistogamous flower/fruit card",
+        "look_for": "Small closed cleistogamous flowers that can self-fertilize and form capsules later in the season.",
+        "why_it_matters": "Adds a surprising reproductive strategy without confusing it with the showy flowers.",
+        "status": "technical_visual_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Balsaminaceae vs other wetland herbs",
+        "rule": "The combination of translucent succulent stem, spurred bilateral flower and explosive 5-valved capsule is much more diagnostic than wet habitat alone."
+      }
+    ],
+    "caveat": "Do not identify jewelweed only from an orange flower. The recurved spur, anther cap and explosive capsule are the transferable family characters."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Impatiens",
+        "taxa_count": 1,
+        "fast_cue": "translucent succulent annual + orange spurred zygomorphic flower + explosive capsule",
+        "role": "jewelweed door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Impatiens capensis"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Impatiens capensis",
+      "current_name": "Impatiens capensis",
+      "note": "Accepted by current Kew; native range includes Texas."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "nectar spur",
+      "annotation_goal": "label spurred sepal and flower orientation"
+    },
+    {
+      "priority": 1,
+      "structure": "explosive capsule sequence",
+      "annotation_goal": "intact capsule → coiling valves → seed ejection"
+    },
+    {
+      "priority": 1,
+      "structure": "stamen/anther cap",
+      "annotation_goal": "label fused stamens over gynoecium"
+    },
+    {
+      "priority": 2,
+      "structure": "cleistogamous flower",
+      "annotation_goal": "show closed selfing flower beside showy flower"
+    },
+    {
+      "priority": 2,
+      "structure": "translucent stem",
+      "annotation_goal": "label node and semi-succulent tissue"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Balsaminaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126612-1/general-information"
+    },
+    {
+      "source": "POWO — Impatiens",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:325983-2/general-information"
+    },
+    {
+      "source": "POWO — Impatiens capensis",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30008241-2"
+    }
+  ],
+  "joey_media_note": "Saved Joey routing checked first; no direct Balsaminaceae frame is currently indexed.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-031",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_spur_anther_cap_explosive_capsule_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

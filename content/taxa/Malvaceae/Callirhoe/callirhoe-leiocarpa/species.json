@@ -1,0 +1,116 @@
+{
+  "id": "callirhoe-leiocarpa",
+  "entry_type": "species",
+  "family": "Malvaceae",
+  "genus": "Callirhoe",
+  "species": "leiocarpa",
+  "scientific_name": "Callirhoe leiocarpa",
+  "authority": "R.F.Martin",
+  "common_name": "Tall poppymallow",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO genus backbone and Flora of North America. Older literature sometimes misapplied Callirhoe pedata to this species.",
+  "look_here_first": "Start with life form and the underside of the flower. Tall poppymallow is an annual (sometimes biennial) with one to several erect/weakly erect stems and NO involucellar bractlets beneath the calyx. In bud the calyx lobes meet valvately to form a pointed tip.",
+  "county_occurrences_target_zone": [
+    "Bell",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Bell County — Illustrated Flora of North Central Texas explicitly reports C. leiocarpa from Bell County. Travis County — UT Plant Resources Center's Travis County Malvaceae herbarium index includes two C. leiocarpa specimens. Williamson County — UT Plant Resources Center provides a detailed field-based treatment of C. leiocarpa.",
+    "range_guardrail": "Hays-area historical specimens and user observations support local encounter value, but the PASS does not depend on them."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "annual, occasionally biennial, taprooted",
+      "typically erect to weakly erect, often 40–95 cm in Williamson material",
+      "basal rosette early, often gone by flowering",
+      "leaves alternate, palmately 3–7-lobed, becoming smaller/narrower upward",
+      "foliage somewhat velvety with simple and mostly 4-rayed stellate hairs",
+      "involucellar bractlets absent",
+      "calyx lobes valvate in bud, forming an apiculate/acuminate point",
+      "schizocarps smaller than winecup; 10–14 glabrous dehiscent mericarps with prominent beaks and 3-lobed collars"
+    ],
+    "comparison_training": "Callirhoe involucrata: Winecup is perennial and low/trailing with 3 involucellar bractlets; C. leiocarpa is annual/tall and has no involucel. Callirhoe pedata: Older records can confuse these taxa. C. leiocarpa is annual with auriculate stipules and dehiscent mericarps; true C. pedata is perennial. Callirhoe scabriuscula: Texas poppy-mallow is a stiffly erect perennial with dense 6–8-rayed stellate hairs and an involucel; C. leiocarpa is annual and lacks the involucel."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Callirhoe involucrata",
+      "Callirhoe pedata",
+      "Callirhoe scabriuscula"
+    ],
+    "key_distinctions": "Winecup is perennial and low/trailing with 3 involucellar bractlets; C. leiocarpa is annual/tall and has no involucel. Older records can confuse these taxa. C. leiocarpa is annual with auriculate stipules and dehiscent mericarps; true C. pedata is perennial. Texas poppy-mallow is a stiffly erect perennial with dense 6–8-rayed stellate hairs and an involucel; C. leiocarpa is annual and lacks the involucel."
+  },
+  "tags": [
+    "Malvaceae",
+    "Callirhoe",
+    "Tall poppymallow",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-bulk-approved-2026-10-03",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-04",
+    "photo_reviewed": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 1,
+    "glass_root_garden_photo_install": "2026-10-14"
+  },
+  "photo_note": "Visual-lock pass 2026-10-04: real diagnostic photos wired into images[]; provenance and study/public reuse status preserved. Private owner-authorized Glass Root Garden photo physically installed 2026-10-14; source API rights retained separately.",
+  "images": [
+    {
+      "file": "https://cdn11.bigcommerce.com/s-9ht3qzdye/images/stencil/1280x1280/products/245/1327/Winecup_Annual_leiocarpa_0019_IMG_4807__86158.1610299585.jpg?c=1",
+      "role": "whole plant showing erect habit and leaf variation",
+      "creator": "Native American Seed",
+      "license": "source-site copyright",
+      "source_page": "https://seedsource.com/annual-winecup/",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "https://cdn11.bigcommerce.com/s-9ht3qzdye/images/stencil/1280x1280/products/245/1314/Winecup_Annual_leiocarpa_0014_IMG_4816__54835.1610299584.jpg?c=1",
+      "role": "flower front and staminal column",
+      "creator": "Native American Seed",
+      "license": "source-site copyright",
+      "source_page": "https://seedsource.com/annual-winecup/",
+      "study_use": "yes",
+      "public_reuse": "no"
+    },
+    {
+      "file": "images/glass-root-492009330-first-photo.jpg",
+      "role": "Purple poppy-mallow flower and foliage in mixed vegetation; flower slightly out of focus, diagnostic fruit absent",
+      "creator": "Glass Root Garden",
+      "license": "Owner-authorized private study",
+      "license_basis": "Direct photo-owner authorization in current project chat, 2026-10-14. Private learner use approved despite stale source metadata; no public CC grant inferred.",
+      "license_url": "https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/glass-root-inat/OWNER_PERMISSION_2026-10-14.md",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/492009330",
+      "observation_url": "https://www.inaturalist.org/observations/273570415",
+      "observation_id": 273570415,
+      "photo_id": 492009330,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/492009330/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "photo_review": "Exact Research Grade observation checked; image visually inspected; first-pass recognition only.",
+      "anatomy_arrows": "none; detailed anatomy pending"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "note": "Private owner-authorized first-photo coverage; fine diagnostic views remain pending."
+  }
+}

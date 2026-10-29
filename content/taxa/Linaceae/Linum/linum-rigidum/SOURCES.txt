@@ -1,0 +1,9 @@
+Master Pool Phase3 preflight; source rows 650.
+Accepted-name reference https://powo.science.kew.org/results?q=Linum%20rigidum
+Species-specific photograph: https://commons.wikimedia.org/wiki/File:Linum_rigidum_(4012658307).jpg
+Download exact original (Commons redirect, width-constrained by existing curation installer): https://commons.wikimedia.org/wiki/Special:Redirect/file/Linum%20rigidum%20(4012658307).jpg
+Creator Matt Lavin
+Photo license CC BY-SA 2.0
+Visible photo role Provisional bright yellow flower and stem detail; capsule and sepal macro still needed.
+Photo/review caveat Photographer/license corroborated by US Forest Service/Xerces/NWF image acknowledgment. Exact species confirmation still provisional.
+No BONAP county nativity label assigned by this batch; image locality does not prove native distribution. Preserve any independent nativity HOLDs.

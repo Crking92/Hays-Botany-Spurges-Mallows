@@ -1,0 +1,42 @@
+# Deep Review sources — Oenothera suffulta
+Reviewed: 2026-10-02
+Batch: deep-review-batch-007-oenothera-b003
+Status: READY_FOR_APPROVAL
+
+## Taxonomy
+Accepted: Oenothera suffulta (Engelm.) W.L.Wagner & Hoch
+Former name: Gaura suffulta Engelm.
+Kew/POWO: https://powo.science.kew.org/taxon/77092962-1
+
+## Strict project-range evidence
+- Hays — project Master Plant Pool: Hays Local = Yes; 6 wild observations, 0 cultivated. This is supporting occurrence evidence.
+- Travis — UT PRC herbarium under former name Gaura suffulta var. suffulta: https://w3.biosci.utexas.edu/prc/specimens/Onagraceae.html
+- Williamson — https://w3.biosci.utexas.edu/prc/K12/pages/Oenothera%20suffulta.html
+Decision: PASS
+
+## Morphology
+- Williamson County treatment: https://w3.biosci.utexas.edu/prc/K12/pages/Oenothera%20suffulta.html
+
+APPROVAL
+User explicitly approved canonical inclusion on 2026-10-02.
+PHOTO STATUS
+Diagnostic source page recorded; exact creator/license/direct download still pending, so no guessed file is created.
+
+OWNER-AUTHORIZED PRIVATE PHOTO, 2026-10-14
+Glass Root Garden; https://www.inaturalist.org/photos/644561237; observation 353234645.
+Direct photo-owner authorization in current project chat, 2026-10-14. Private learner use approved despite stale source metadata; no public CC grant inferred.
+Source API license: none_recorded; public_reuse=no. EXIF/GPS stripped.
+
+LIBRARY-FIRST IMAGE SELECTION 027 2026-10-16T18:19:09.402933+00:00
+Oenothera suffulta
+Creator: Salem De La Luna; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6179341590
+Stored archive: hays-photo-library-mass-38762471564 :: staged_images/oenothera-suffulta/gbif-4efafcd52b96eb.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 027 2026-10-16T18:19:09.402933+00:00
+Oenothera suffulta
+Creator: Michael A. Thaibinh; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6179561239
+Stored archive: hays-photo-library-mass-38762471564 :: staged_images/oenothera-suffulta/gbif-8d8304ec328e7d.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

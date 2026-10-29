@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Viola%20missouriensis
+Source research-grade observation: https://www.inaturalist.org/observations/374428371
+Photo: https://www.inaturalist.org/photos/684383146
+Attribution: (c) Turner Brockman, some rights reserved (CC BY-SA)
+License: CC BY-SA; Attribution; ShareAlike requirements
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

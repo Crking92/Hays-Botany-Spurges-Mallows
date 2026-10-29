@@ -1,0 +1,37 @@
+{
+  "id": "linum-rigidum",
+  "family": "Linaceae",
+  "genus": "Linum",
+  "species": "rigidum",
+  "scientific_name": "Linum rigidum",
+  "common_name": "Stiffstem flax",
+  "look_here_first": "Look for slim, upright stiff stems bearing small linear leaves and bright yellow five-petaled flowers; check petals, sepals and small developing capsules.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Linum%20rigidum",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Photographer/license corroborated by US Forest Service/Xerces/NWF image acknowledgment. Exact species confirmation still provisional.",
+  "images": [
+    {
+      "file": "images/commons-linum-rigidum-matt-lavin.jpg",
+      "role": "Provisional bright yellow flower and stem detail; capsule and sepal macro still needed.",
+      "creator": "Matt Lavin",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Linum_rigidum_(4012658307).jpg",
+      "study_use": "Noncommercial botanical visual learner",
+      "public_reuse": "Credit, link to license, and ShareAlike terms for derivatives"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

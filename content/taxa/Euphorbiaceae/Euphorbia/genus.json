@@ -1,0 +1,3120 @@
+{
+  "rank": "genus",
+  "family": "Euphorbiaceae",
+  "name": "Euphorbia",
+  "common_group": "Spurges",
+  "project_scope": {
+    "canonical_species_ids": [
+      "euphorbia-angusta",
+      "euphorbia-bicolor",
+      "euphorbia-cyathophora",
+      "euphorbia-davidii",
+      "euphorbia-dentata",
+      "euphorbia-fendleri",
+      "euphorbia-heterophylla",
+      "euphorbia-marginata",
+      "euphorbia-nutans",
+      "euphorbia-prostrata",
+      "euphorbia-serpens",
+      "euphorbia-villifera"
+    ],
+    "canonical_species_count": 12,
+    "note": "All 12 current Euphorbia concepts are already canonical learner taxa. Range labels remain independent from learner inclusion."
+  },
+  "taxonomy_notes": {
+    "accepted_genus": "Euphorbia",
+    "legacy_mapping": "Several small sandmat species entered the source pool under Chamaesyce; their canonical learner cards retain those names as synonyms but use accepted Euphorbia names.",
+    "caution": "Do not create duplicate learner cards for legacy Chamaesyce names."
+  },
+  "genus_diagnostics": {
+    "latex": "Many Euphorbia release milky latex that may irritate skin/eyes; latex is a supporting group clue, not sufficient by itself nor a reason to tear the plant open for ID.",
+    "cyathium": "Small flower-like INFLORESCENCE formed by a cup/involucre around highly reduced male flowers (each with one stamen) and a central stalked female flower; often edged with nectar glands and sometimes showy gland appendages. Each cup is a cyathium, not one ordinary five-petaled flower.",
+    "fruit": "A mature 3-lobed capsule generally holds three seeds (one per compartment) and may eject them at maturity. Fine sculpture, hairs and size are especially helpful in look-alike groups.",
+    "showy_parts": "In some species the conspicuous white or red structures are bracts, not petals.",
+    "shoot_morphology": "Some species have showy modified bracts, some have inconspicuous reproductive heads, and many sandmats have opposite leaves and inconspicuous stipules. Not all Euphorbia share the same broad growth form."
+  },
+  "study_strategy": {
+    "shared_traits": [
+      "milky latex",
+      "tiny cyathia rather than ordinary petaled flowers",
+      "three-lobed capsule",
+      "bracts, glands, hairs, seed surface, and growth form often matter more than flower color"
+    ],
+    "priority": [
+      "1. Look for a true cyathium/cup holding reduced flowers, NOT a conventional 5-petaled corolla; look nearby for a three-lobed capsule.",
+      "2. Habit: upright WHITE bracts / colored poinsettia-like upright / green toothed upright / creeping low opposite-leaved sandmat.",
+      "3. White-bracted group: relative bract width + pubescence specifically on the UPPER surface, not just hairs on stems.",
+      "4. Poinsettia-looking group: greenhouse red pattern is NOT final; close-up must resolve exact gland opening and annular rim.",
+      "5. E. dentata vs E. davidii: mature seed and underside hairs are essential; do not make a reliable species call from a capsule-only photograph.",
+      "6. Sandmats: check whether each node roots, inspect minute stipules, then capsule keel hair and mature seed sculpture; photograph 2 mm scale."
+    ],
+    "warning": "CAUTION: most local Euphorbia release latex that can irritate skin or eyes; never break stems for students unnecessarily. Several species have overlapping leaf color/habit and even mature flowers. Match photo anatomy first. Texas-native status is species- and COUNTY-dependent, not genus-wide; E. davidii currently retains an unresolved range-label exception until target-county evidence is reconciled.",
+    "look_here_first": "FIND A CYATHIUM AND A THREE-LOBED CAPSULE before choosing a species. A Euphorbia cyathium is a cup holding tiny reduced male flowers and ONE stalked female flower; it often resembles a single normal flower, but is an INFLORESCENCE. Next sort the plant into four field groups: WHITE showy bracts → bicolor / marginata; upright poinsettia-like bracts → cyathophora / heterophylla; upright green toothed foliage → dentata / davidii; small low opposite-leaved sandmat → examine rooting nodes, stipules, capsule hairs and seed surface. Latex alone or red leaf spots do not prove species."
+  },
+  "field_groups": [
+    {
+      "group": "White-bracted pair",
+      "ids": [
+        "euphorbia-bicolor",
+        "euphorbia-marginata"
+      ],
+      "look_here_first": "Upper-surface hairiness + width/shape of the white-margined bracts.",
+      "differences": [
+        "E. bicolor: narrow linear to narrowly oblanceolate white-margined bracts; upper leaf/bract surfaces conspicuously hairy.",
+        "E. marginata: broader elliptic to obovate white-margined bracts; upper leaf surfaces mostly glabrous."
+      ],
+      "photo_roles": [
+        "matched whole upper-canopy views",
+        "matched upper leaf/bract surface macros",
+        "matched bract-shape views with scale",
+        "cyathium and capsule close-ups"
+      ]
+    },
+    {
+      "group": "Poinsettia-like pair",
+      "ids": [
+        "euphorbia-cyathophora",
+        "euphorbia-heterophylla"
+      ],
+      "look_here_first": "Color at the upper bract base, then inspect the cyathial gland opening.",
+      "differences": [
+        "E. cyathophora: upper bracts often sharply colored red/pink/white at the base; gland opening oblong and lacking an annular rim.",
+        "E. heterophylla: upper bracts usually green or merely pale; gland opening circular with an annular rim."
+      ],
+      "photo_roles": [
+        "matched upper-bract views",
+        "macro of cyathial gland opening",
+        "leaf-shape variation",
+        "capsule view"
+      ]
+    },
+    {
+      "group": "Dentata complex",
+      "ids": [
+        "euphorbia-dentata",
+        "euphorbia-davidii"
+      ],
+      "look_here_first": "Mature seed + capsule size + hair texture beneath the leaves.",
+      "differences": [
+        "E. dentata: smaller capsules/seeds; seeds more rounded in cross section and evenly finely tuberculate; hairs generally longer and less stiff.",
+        "E. davidii: larger capsules/seeds; seeds more angular with uneven tubercles/wrinkles; hairs shorter, stiffer, often on minute pustular bases."
+      ],
+      "photo_roles": [
+        "matched abaxial leaf-hair macros",
+        "mature capsules with scale",
+        "seeds at identical magnification",
+        "whole upper stem"
+      ]
+    },
+    {
+      "group": "Sandmats and small spurges",
+      "ids": [
+        "euphorbia-angusta",
+        "euphorbia-fendleri",
+        "euphorbia-nutans",
+        "euphorbia-prostrata",
+        "euphorbia-serpens",
+        "euphorbia-villifera"
+      ],
+      "look_here_first": "For the prostrata–serpens–villifera trio, inspect a stem node before judging overall habit: node-rooting + stipule architecture is the fastest split. Then compare pubescence, capsule hairs/cocci, and mature seed sculpture. Use broader habit/leaf characters to separate E. angusta, E. fendleri, and E. nutans.",
+      "differences": [
+        "E. angusta: erect perennial with narrow linear to elliptic-linear distal leaves; stems/involucre/capsule strigose.",
+        "E. fendleri: low perennial from a woody crown; clustered glabrous stems, small entire leaves, distinct narrow stipules, glabrous capsule.",
+        "E. nutans: larger opposite leaves and ascending/erect branching; reddish leaf blotch often present but not required.",
+        "E. prostrata: prostrate/decumbent and not rooting at nodes; upper-side stipules free but lower-side pair fused; capsule keels hairy; seed sharply ridged.",
+        "E. serpens: strictly prostrate and frequently rooting at nodes; fused broad-deltate stipule scales; plant and capsule glabrous; seed smooth.",
+        "E. villifera: usually erect/ascending; distinct filiform stipules and papillate surfaces; usually villous but sometimes glabrous; capsule glabrous with often elongated empty-tipped cocci."
+      ],
+      "photo_roles": [
+        "matched stem-node views showing no rooting vs adventitious roots",
+        "matched stipule macros: prostrata upper-free/lower-fused vs serpens fused deltate scale vs villifera filiform",
+        "matched capsule macros: prostrata hairy keels vs serpens glabrous vs villifera glabrous elongated cocci",
+        "matched seed macros where available",
+        "overhead/side habit views as supporting context"
+      ]
+    }
+  ],
+  "quick_key": [
+    {
+      "if": "White-margined narrow or broad modified upper leaves/bracts, upright prairie weed",
+      "then": "WHITE PAIR: narrow upper hairy E. bicolor vs broad upper mostly smooth E. marginata — inspect leaf face and bract width."
+    },
+    {
+      "if": "Upright green-to-pink/red poinsettia-like leafy tops and tiny cups",
+      "then": "POINTSETTIA PAIR: E. cyathophora vs E. heterophylla — compare gland opening oblong/rimless vs round/rimmed under magnification. If gland unclear, keep pair unresolved."
+    },
+    {
+      "if": "Erect branched weed with opposite toothed green leaves and several green 3-lobed capsules",
+      "then": "DENTATA COMPLEX: E. dentata vs E. davidii — collect/photograph mature seed and underside hairs; habit alone DOES NOT separate."
+    },
+    {
+      "if": "Creeping flat mat of tiny opposite leaves",
+      "then": "SANDMAT KEY: capsule face hairs maculata, capsule keel hairs prostrata, smooth capsules serpens OR villifera. For smooth-fruited specimens check villifera's typically erect habit, separate threadlike stipules and papillate leaf surfaces versus serpens' prostrate rooted mat and fused triangular stipules; microscopic villifera diagnostics on PHOTO HOLD."
+    },
+    {
+      "if": "Plant's leaves/bracts or capsule don't fit these groups",
+      "then": "Stay Euphorbia sp. and check remaining locally documented species; these quick keys cover common groups, not every species in the genus."
+    }
+  ],
+  "diagnostic_review_2026_10_07": {
+    "status": "ALL_12_DETAILED_FIRST_PASS_COMPLETE",
+    "next_species_order": [
+      "euphorbia-bicolor",
+      "euphorbia-marginata",
+      "euphorbia-cyathophora",
+      "euphorbia-heterophylla",
+      "euphorbia-dentata",
+      "euphorbia-davidii",
+      "euphorbia-prostrata",
+      "euphorbia-serpens",
+      "euphorbia-villifera",
+      "euphorbia-nutans",
+      "euphorbia-fendleri",
+      "euphorbia-angusta"
+    ],
+    "note": "All 12 canonical learner species now have a detailed morphology/look-alike pass and at least one physical learner image; several retain explicit macro-photo polish targets.",
+    "species_detail_pass_completed": "2026-10-07"
+  },
+  "curation_status": {
+    "version": "2.9-villifera-four-way-qa-photo-holds",
+    "genus_audit": "CREW_READY_MULTI_GROUP_COMPARISON; FINE_GLAND_AND_SEED_MACROS_PENDING",
+    "last_reviewed": "2026-10-21",
+    "public_comparison_photo_count": 21,
+    "public_comparison_annotated_source_count": 21,
+    "public_comparison_photo_hold_count": 13,
+    "photo_note": "Original indexed study photos preserved as source references. Public genus panel filters rights and adds only visually confirmed arrows. Species-level galleries retain their own licensing gates.",
+    "public_comparison_verified_arrow_count": 42,
+    "poinsettia_gland_pair": "BOTH_FIELD_READY_VERIFIED_PAIRED_TRUE_MACRO",
+    "poinsettia_photo_id_hold": "Psumuseum heterophylla pink-bracted image remains withheld from all field/public teaching",
+    "white_bracted_pair": "CREW_READY_FOR_BRACTS; ADAXIAL_HAIR_MACRO_PENDING",
+    "sandmat_pair": "CREW_READY_CAPSULE_SEED_STIPULE; NODE_ROOT_PUBLIC_MACRO_PENDING",
+    "sandmat_threeway": "THREE_SPECIES_FIELD_READY_SAVED_REAL_PHOTO_KEYS_WITH_8_VERIFIED_ARROWS_EACH",
+    "sandmat_fourway": "VILLIFERA_MICRO_PHOTO_GAPS_REMAIN",
+    "nutans_villifera_pair": "NUTANS_FIELD_READY; VILLIFERA_MICRO_HOLD",
+    "hypericifolia_nutans_comparison": "BOTH_FIELD_READY_WITH_MACRO_PHOTO_GAPS; HYSSOPIFOLIA_TEXT_ONLY",
+    "ophthalmica_hirta_pair": "OPHTHALMICA_EXTERNAL_FIELD_READY_7_PHOTOS_17_ARROWS; FRUIT_STIPULE_SEED_MACROS_REQUIRED",
+    "simulans_golondrina_theriaca": "SIMULANS_REAL_GLAND_CAPSULE_AND_MATURE_SEED_CONFIRMED; THERIACA_SEED_COMPARATOR_CONFIRMED; STIPULE_MACRO_PENDING",
+    "eriantha_closeout": "FIELD_READY_5_CC_PHOTOS_13_VISIBLE_ARROWS; INWARD_GLAND_FRINGE_AND_SEED_MACROS_HELD"
+  },
+  "visual_comparison": {
+    "title": "Euphorbia — begin with habit, then the tiny real reproductive parts",
+    "subtitle": "Four-sandmat comparison: maculata capsule face hairs, prostrata keel hairs, serpens smooth fruit + fused stipules, villifera typically ASCENDING with glabrous capsule and threadlike stipules (unresolved at photo level). Villifera's papillae and internally empty fruit tip are not proven by available images.",
+    "memory_rule": "Euphorbia = tiny CYATHIUM (not a normal flower) + 3-lobed CAPSULE. First sort WHITE-bracted / POINSETTIA-looking / TOOTHED erect / SANDMAT. Then look at the part that truly separates the two likely species. Colored bracts, red spots and white latex are supporting clues, not final proof.",
+    "items": [
+      {
+        "label": "Bicolor diagnostic close-up: single white-edged bract and central cyathia",
+        "scientific_name": "Euphorbia bicolor",
+        "image_role": "Directly inspected reproductive canopy, real modified bracts and cyathium appendages",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-bicolor/images/01-habit-white-bracts.jpg",
+        "caption": "Use the exact visible bract blade and small central cyathium group; this photograph cannot demonstrate hairs on the top/adaxial leaf surface.",
+        "creator": "Lisa Winnett-Pequeno",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_bicolor.jpg",
+        "markers": [
+          {
+            "label": "One narrow white-edged bract",
+            "label_x": 60,
+            "label_y": 12,
+            "target_x": 73,
+            "target_y": 53
+          },
+          {
+            "label": "Tiny central cyathia",
+            "label_x": 7,
+            "label_y": 68,
+            "target_x": 48,
+            "target_y": 56
+          }
+        ],
+        "image_fit": "contain",
+        "image_pixel_audit": "2026-10-20 original saved source photo inspected; photo-specific arrows cover only visible anatomy. No upper leaf-face pubescence label fabricated."
+      },
+      {
+        "label": "Marginata: relatively broad white-edged bracts",
+        "scientific_name": "Euphorbia marginata",
+        "image_role": "Directly inspected reproductive canopy, real modified bracts and cyathium appendages",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-marginata/images/02-inflorescence-closeup.jpg",
+        "caption": "The wider elliptic-to-obovate bracts are common in MARGINATA, compared with bicolor's especially long narrow blades. Even marginata has smaller narrow secondary bracts. Check TOP-side smoothness under a loupe, not the hairiness of this species' stem.",
+        "creator": "H. Zell",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_marginata_002.JPG",
+        "markers": [
+          {
+            "label": "Broad white-edged bract",
+            "label_x": 66,
+            "label_y": 71,
+            "target_x": 55,
+            "target_y": 62
+          },
+          {
+            "label": "Tiny reproductive cyathia",
+            "label_x": 4,
+            "label_y": 18,
+            "target_x": 23,
+            "target_y": 31
+          }
+        ],
+        "image_fit": "contain",
+        "image_pixel_audit": "2026-10-20 original saved source photo inspected; photo-specific arrows cover only visible anatomy. No upper leaf-face pubescence label fabricated."
+      },
+      {
+        "label": "Wild poinsettia — OBLONG, rimless cyathial gland",
+        "scientific_name": "Euphorbia cyathophora",
+        "image_role": "SOURCE-VERIFIED visible nectar gland aperture morphology (true high-resolution macro) and separate capsule",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-cyathophora/images/04-saplants-cyathophora-gland-macro.jpg",
+        "caption": "Verified Kew synonym-labelled historical var. cyathophora. Real macro shows an OBLONG yellow-green nectar gland aperture WITHOUT raised annular rim, plus a separate three-lobed capsule and red bracts.",
+        "creator": "SAplants",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_heterophylla_var._cyathophora_1DS-II_2-6098.jpg",
+        "markers": [
+          {
+            "label": "Oblong opening — no annular rim",
+            "label_x": 4,
+            "label_y": 44,
+            "target_x": 33.7,
+            "target_y": 50.5
+          },
+          {
+            "label": "3-lobed developing capsule",
+            "label_x": 66,
+            "label_y": 75,
+            "target_x": 48.8,
+            "target_y": 42.8
+          }
+        ],
+        "image_fit": "contain",
+        "image_pixel_audit": "2026-10-20 exact locally saved 1750px licensed JPEG inspected: source taxon name verified via Kew POWO, anatomy arrow targets visible."
+      },
+      {
+        "label": "Painted spurge — ROUND opening with raised ANNULAR rim",
+        "scientific_name": "Euphorbia heterophylla",
+        "image_role": "SOURCE-VERIFIED visible nectar gland aperture morphology (true high-resolution macro) and separate capsule",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-heterophylla/images/04-saplants-heterophylla-cyathia.jpg",
+        "caption": "Verified named var. heterophylla high-res macro shows a circular gland opening with clearly raised RING around its mouth, beside developing green 3-lobed capsules.",
+        "creator": "SAplants",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_heterophylla_var._heterophylla_1DS-II_1-7120-01.jpg",
+        "markers": [
+          {
+            "label": "Round aperture with raised rim",
+            "label_x": 5,
+            "label_y": 41,
+            "target_x": 26,
+            "target_y": 51.6
+          },
+          {
+            "label": "Larger three-lobed fruit",
+            "label_x": 73,
+            "label_y": 12,
+            "target_x": 57.7,
+            "target_y": 43.9
+          }
+        ],
+        "image_fit": "contain",
+        "image_pixel_audit": "2026-10-20 exact locally saved 1750px licensed JPEG inspected: source taxon name verified via Kew POWO, anatomy arrow targets visible."
+      },
+      {
+        "label": "Toothed spurge — toothed leaf (seed photo still needed)",
+        "scientific_name": "Euphorbia dentata",
+        "image_role": "Opposite toothed green leaves; seed sculpture NOT observable",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-dentata/images/02-leaves.webp",
+        "creator": "Max Licher / swbiodiversity.org",
+        "license": "CC BY-SA",
+        "source_page": "https://yavapaiplants.extension.arizona.edu/euphorbia-dentata",
+        "caption": "Toothed green leaf and compact upper reproductive cluster are visible. Do not use this view to claim the rounded, evenly pebbled seed that separates E. dentata from E. davidii.",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Coarsely toothed leaf edge",
+            "label_x": 65,
+            "label_y": 11,
+            "target_x": 80,
+            "target_y": 33
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 local canonical file inspected manually, do not infer microscopic seed or leaf-hair anatomy from this view"
+      },
+      {
+        "label": "David's spurge — 3-lobed capsule (seed photo still needed)",
+        "scientific_name": "Euphorbia davidii",
+        "image_role": "Distinct three-lobed capsule and toothed reddened leaves, NOT mature seeds",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-davidii/images/02-upper-plant-detail.jpg",
+        "creator": "Andrey Zharkikh",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:2015.08.22_11.57.08_IMG_0259_-_Flickr_-_andrey_zharkikh_(cropped).jpg",
+        "caption": "The three-lobed green capsules and reddish toothed leaf edges are unmistakable. These characters occur in BOTH E. davidii and E. dentata. This photograph does not show stiff pustular leaf undersurface hairs or irregularly tuberculate mature seeds: hold species certainty when absent.",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Three-lobed capsule",
+            "label_x": 5,
+            "label_y": 63,
+            "target_x": 32,
+            "target_y": 48
+          },
+          {
+            "label": "Toothed leaf margin",
+            "label_x": 67,
+            "label_y": 7,
+            "target_x": 72,
+            "target_y": 29
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 local canonical file inspected manually, do not infer microscopic seed or leaf-hair anatomy from this view"
+      },
+      {
+        "label": "Prostrate sandmat — hairy fruit keels",
+        "scientific_name": "Euphorbia prostrata",
+        "image_role": "fruit macro / capsule keel pubescence",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-prostrata/images/02-fruit-hairy-keels.jpg",
+        "caption": "Start at a node: E. prostrata does not root there; the upper-side stipules are free while the lower-side pair is fused across the node. Then confirm with the capsule: crisped hairs concentrate along the keels/toward the base, and seeds are sharply 4-angled with transverse ridges.",
+        "creator": "Stefan.lefnaer",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_prostrata_sl26.jpg",
+        "markers": [
+          {
+            "label": "Capsule keel hairs",
+            "label_x": 8,
+            "label_y": 30,
+            "target_x": 22,
+            "target_y": 63
+          },
+          {
+            "label": "Fruit lobe face",
+            "label_x": 65,
+            "label_y": 17,
+            "target_x": 58,
+            "target_y": 52
+          }
+        ],
+        "image_fit": "contain",
+        "image_pixel_audit": "2026-10-20 actual original locally stored JPEG individually visually reviewed: marker endpoints point to pictured organ, not to inferred roots/whole stipule structure."
+      },
+      {
+        "label": "Matted sandmat — glabrous capsule",
+        "scientific_name": "Euphorbia serpens",
+        "image_role": "Fruit/capsule macro / glabrous capsule",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-serpens/images/03-fruit.jpg",
+        "caption": "Compare this glabrous capsule with the hairy fruit keels of E. prostrata and prolonged capsule lobes of E. villifera. Then inspect nodes: E. serpens frequently roots there and has fused broad-deltate stipule scales; its stipule and rooting close-ups remain in the species gallery.",
+        "creator": "Rahooda",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_serpens_fruit.jpg",
+        "markers": [
+          {
+            "label": "Glabrous fruit surface",
+            "label_x": 8,
+            "label_y": 20,
+            "target_x": 46,
+            "target_y": 47
+          },
+          {
+            "label": "Three-lobed capsule",
+            "label_x": 64,
+            "label_y": 81,
+            "target_x": 55,
+            "target_y": 61
+          }
+        ],
+        "image_fit": "contain",
+        "image_pixel_audit": "2026-10-20 actual original locally stored JPEG individually visually reviewed: marker endpoints point to pictured organ, not to inferred roots/whole stipule structure."
+      },
+      {
+        "label": "Prostrate sandmat — stipule at a hairy node",
+        "scientific_name": "Euphorbia prostrata",
+        "image_role": "Stem/node macro / upper-free and lower-fused stipule architecture",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-prostrata/images/04-stem-stipules.jpg",
+        "caption": "Find the pale pointed membrane at the leaf-stalk base, to the right of the node. It is a stipule, rather than one of the many fine curved hairs. This single angle locates the structure; turn a real stem over to compare the free upper-side pair with the fused lower-side pair.",
+        "creator": "Stefan.lefnaer",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_prostrata_sl15.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes",
+        "markers": [
+          {
+            "label": "Pale pointed stipule",
+            "label_x": 69,
+            "label_y": 68,
+            "target_x": 59,
+            "target_y": 53
+          },
+          {
+            "label": "Curly stem hairs",
+            "label_x": 7,
+            "label_y": 63,
+            "target_x": 31,
+            "target_y": 70
+          }
+        ],
+        "image_fit": "contain",
+        "image_pixel_audit": "2026-10-20 actual original locally stored JPEG individually visually reviewed: marker endpoints point to pictured organ, not to inferred roots/whole stipule structure."
+      },
+      {
+        "label": "Matted sandmat — broad fused stipule scale",
+        "scientific_name": "Euphorbia serpens",
+        "image_role": "Stem/node macro / fused deltate stipules",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-serpens/images/02-stipules.jpg",
+        "caption": "Find the broad pale membrane wrapping across the node below the pink triangular tip. This fused scale contrasts with the narrower pointed stipules in E. prostrata. The original 2 mm scale bar is retained.",
+        "creator": "Stefan.lefnaer",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_serpens_sl36.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes",
+        "markers": [
+          {
+            "label": "Broad fused stipule",
+            "label_x": 8,
+            "label_y": 30,
+            "target_x": 45,
+            "target_y": 35
+          },
+          {
+            "label": "Swollen smooth node",
+            "label_x": 69,
+            "label_y": 59,
+            "target_x": 50,
+            "target_y": 50
+          }
+        ],
+        "image_fit": "contain",
+        "image_pixel_audit": "2026-10-20 actual original locally stored JPEG individually visually reviewed: marker endpoints point to pictured organ, not to inferred roots/whole stipule structure."
+      },
+      {
+        "label": "Find the opposite leaf junction and separate fruit",
+        "scientific_name": "Euphorbia villifera",
+        "image_role": "Closeup source photograph of opposite foliage attaching to red stem and green developing capsule beside node",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-villifera/images/08-node-leaf-attachments.jpg",
+        "caption": "The reddish main stem forks at a leaf junction. A developing green three-lobed capsule sits just LEFT of the upper node; its branching styles are visible at the tip. Fine whitish threads exist around the leaf base, but they are NOT resolved well enough to identify confidently as individual threadlike stipules.",
+        "creator": "Chet Burrier",
+        "license": "CC BY 4.0",
+        "source_page": "https://www.inaturalist.org/observations/207003160",
+        "study_use": "yes",
+        "public_reuse": "yes",
+        "markers": [
+          {
+            "label": "Leaf attachment node",
+            "label_x": 71,
+            "label_y": 64,
+            "target_x": 67,
+            "target_y": 52
+          },
+          {
+            "label": "Developing 3-lobed capsule",
+            "label_x": 5,
+            "label_y": 30,
+            "target_x": 37,
+            "target_y": 41
+          },
+          {
+            "label": "Branching styles above fruit",
+            "label_x": 16,
+            "label_y": 75,
+            "target_x": 45,
+            "target_y": 47
+          }
+        ],
+        "image_fit": "contain",
+        "image_pixel_audit": "2026-10-20 source photo visually checked: green developing fruit, projecting styles and true node; ambiguous pale fibers not labeled as true stipules.",
+        "why_it_matters": "Teaches where to aim a loupe at the leaf axil, separates fruit and leaves, and avoids pretending every white hair is a stipule."
+      },
+      {
+        "label": "Prostrate sandmat — transverse seed ridges",
+        "scientific_name": "Euphorbia prostrata",
+        "image_role": "Mature seed macro / 4-angled transverse ridges",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-prostrata/images/03-seeds-ridged.jpg",
+        "caption": "Look at the repeated raised ridges running across each seed. These contrast directly with the smooth seed surface of E. serpens. Use the original 2 mm scale bar for size; the two photographs are displayed at different magnifications.",
+        "creator": "Stefan.lefnaer",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_prostrata_sl29.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes",
+        "markers": [
+          {
+            "label": "Strong transverse ridges",
+            "label_x": 7,
+            "label_y": 73,
+            "target_x": 16,
+            "target_y": 42
+          },
+          {
+            "label": "Another ridged seed",
+            "label_x": 64,
+            "label_y": 78,
+            "target_x": 61,
+            "target_y": 43
+          }
+        ],
+        "image_fit": "contain",
+        "image_pixel_audit": "2026-10-20 actual original locally stored JPEG individually visually reviewed: marker endpoints point to pictured organ, not to inferred roots/whole stipule structure."
+      },
+      {
+        "label": "Matted sandmat — smooth seed surface",
+        "scientific_name": "Euphorbia serpens",
+        "image_role": "Mature seed macro / smooth seed surface",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-serpens/images/04-seed.jpg",
+        "caption": "Look for the absence of the strong repeated transverse ridges visible on E. prostrata. The original 1 mm scale bar is retained. Displayed image size is not seed size; compare sculpture first and read each scale bar separately.",
+        "creator": "Stefan.lefnaer",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_serpens_sl58.jpg",
+        "study_use": "yes",
+        "public_reuse": "yes",
+        "markers": [
+          {
+            "label": "No strong crosswise ribs",
+            "label_x": 6,
+            "label_y": 35,
+            "target_x": 51,
+            "target_y": 49
+          },
+          {
+            "label": "One mature seed",
+            "label_x": 63,
+            "label_y": 76,
+            "target_x": 58,
+            "target_y": 61
+          }
+        ],
+        "image_fit": "contain",
+        "image_pixel_audit": "2026-10-20 actual original locally stored JPEG individually visually reviewed: marker endpoints point to pictured organ, not to inferred roots/whole stipule structure."
+      },
+      {
+        "label": "Glass Root Garden: bicolor canopy recognition (no anatomy arrows)",
+        "scientific_name": "Euphorbia bicolor",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-bicolor/images/glass-root-garden-564413728-white-bracts-and-floral-clusters.jpg",
+        "image_role": "Photographed natural bicolor branching canopy and distinctly narrow bracts",
+        "creator": "Glass Root Garden",
+        "license": "CC BY 4.0",
+        "source_page": "https://www.inaturalist.org/photos/564413728",
+        "image_fit": "contain",
+        "caption": "Broad plant recognition photo. Repeated narrow white-margined bracts visible, but reproductive organs overlap and cannot be pointed out precisely here. Use the dedicated close-up.",
+        "why_it_matters": "Hays-area ecological context and scale of bicolor bract clusters.",
+        "markers": []
+      },
+      {
+        "label": "CC0 marginata: broad bracts, separate tiny cyathia",
+        "scientific_name": "Euphorbia marginata",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-marginata/images/04-cbaile19-marginata-whole-habit-cc0.jpg",
+        "image_role": "Broad modified upper leaves versus tiny white cyathial gland appendages in flowering canopy",
+        "creator": "Cbaile19",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_marginata,_2015-07-22,_Beechview,_01.jpg",
+        "image_fit": "contain",
+        "caption": "CC0 photo from Pennsylvania, CLOSE UP not full plant. Wide white-margined blades are leaves (bracts) and small white petal-like lobes belong to cyathial gland appendages. Upper-face hairs are not resolved.",
+        "why_it_matters": "Excellent real anatomy in a public-domain close view.",
+        "markers": [
+          {
+            "label": "Broad white-margined bract",
+            "label_x": 70,
+            "label_y": 11,
+            "target_x": 64,
+            "target_y": 49.2
+          },
+          {
+            "label": "White gland appendages",
+            "label_x": 62,
+            "label_y": 79,
+            "target_x": 43,
+            "target_y": 43.5
+          }
+        ]
+      },
+      {
+        "label": "Prostrate sandmat — spreading mat",
+        "scientific_name": "Euphorbia prostrata",
+        "image_role": "Full growing habit and opposite leaves",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-prostrata/images/euphorbia-prostrata-provisional-face.jpg",
+        "caption": "The plant grows as a flat spreading mat with small opposite leaves. Stem nodes are visible but soil prevents confirming lack of roots. This photo is NOT a node-root diagnosis.",
+        "creator": "Harry Rose",
+        "license": "CC BY 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_prostrata_plant.jpg",
+        "markers": [
+          {
+            "label": "Spreading shoot",
+            "label_x": 70,
+            "label_y": 15,
+            "target_x": 72,
+            "target_y": 27
+          },
+          {
+            "label": "Opposite leaf pair",
+            "label_x": 63,
+            "label_y": 66,
+            "target_x": 80,
+            "target_y": 78
+          }
+        ],
+        "image_fit": "contain",
+        "image_pixel_audit": "Real local JPEG inspected 2026-10-20; no inferred root or missing flower structures"
+      },
+      {
+        "label": "Matted sandmat — true cyathium, NOT a mat photo",
+        "scientific_name": "Euphorbia serpens",
+        "image_role": "Macro of true tiny reduced floral cup with dark nectar glands and white appendages",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-serpens/images/euphorbia-serpens-provisional-face.jpg",
+        "caption": "Four purple-dark glands with small white appendages surround the tiny flowers inside a CYATHIUM; NOT a photo of the whole mat. A cyathium is not a mature green three-lobed capsule.",
+        "creator": "Rahooda",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_serpens_flower.jpg",
+        "markers": [
+          {
+            "label": "Dark nectar glands",
+            "label_x": 66,
+            "label_y": 12,
+            "target_x": 70,
+            "target_y": 28
+          },
+          {
+            "label": "White gland appendages",
+            "label_x": 5,
+            "label_y": 58,
+            "target_x": 39,
+            "target_y": 45
+          }
+        ],
+        "image_fit": "contain",
+        "image_pixel_audit": "Real local JPEG inspected 2026-10-20; no inferred root or missing flower structures"
+      },
+      {
+        "label": "Look closer: narrow stipule and hairy stem",
+        "scientific_name": "Euphorbia maculata",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-maculata/images/03-stefan-leaf-stipule.jpg",
+        "image_role": "Source microscope photograph of narrow reddish pointed stipule, leaf attachments and fine hairs",
+        "caption": "The narrow reddish pointed appendage at the leaf base is a stipule; numerous small hairs project from the adjoining stem. The source includes a 5 mm scale. This view does not prove all leaf-base asymmetry or lack of node roots. Pair this with real prostrata and serpens capsules/seeds already in the genus panel.",
+        "why_it_matters": "A real microscopic example of the structure normally skipped when someone guesses from leaf color.",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_maculata_sl13.jpg",
+        "creator": "Stefan.lefnaer",
+        "license": "CC BY-SA 4.0",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Narrow pointed stipule",
+            "label_x": 72,
+            "label_y": 31,
+            "target_x": 50,
+            "target_y": 42
+          },
+          {
+            "label": "Fine stem hairs",
+            "label_x": 10,
+            "label_y": 63,
+            "target_x": 35,
+            "target_y": 44
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 exact saved JPEG retrieved and visually inspected. No arrow for a structure absent from the image.",
+        "source_evidence": "2026-10-20 saved source JPEG independently inspected"
+      },
+      {
+        "label": "Confirm: short hairs spread across capsule faces",
+        "scientific_name": "Euphorbia maculata",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-maculata/images/04-stefan-fruit-entirely-hairy.jpg",
+        "image_role": "Close view of multiple actual three-lobed capsules with appressed fine pale hairs across the rounded faces",
+        "caption": "Unlike E. prostrata's hairs concentrated on capsule KEELS, E. maculata has fine appressed hairs scattered across the rounded FRUIT FACES as well. Pinkish styles at the fruit tips are not individual petals. Original source 5 mm scale. Pair this with real prostrata and serpens capsules/seeds already in the genus panel.",
+        "why_it_matters": "This capsule hair placement is the best visible difference between two hairy sandmats.",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_maculata_sl18.jpg",
+        "creator": "Stefan.lefnaer",
+        "license": "CC BY-SA 4.0",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Hairs across fruit FACE",
+            "label_x": 68,
+            "label_y": 19,
+            "target_x": 66,
+            "target_y": 35
+          },
+          {
+            "label": "Hairy 3-lobed capsule",
+            "label_x": 8,
+            "label_y": 61,
+            "target_x": 34,
+            "target_y": 52
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 exact saved JPEG retrieved and visually inspected. No arrow for a structure absent from the image.",
+        "source_evidence": "2026-10-20 saved source JPEG independently inspected"
+      },
+      {
+        "label": "Confirm: shallow transverse seed furrows",
+        "scientific_name": "Euphorbia maculata",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-maculata/images/05-stefan-seeds-shallow-furrows.jpg",
+        "image_role": "Six individual mature seeds, some with visible shallow low crosswise grooves, original 2 mm scale",
+        "caption": "Subtle shallow grooves run ACROSS several seeds, easiest on the lower right seed. These are NOT lengthwise ribs. E. prostrata has MUCH stronger raised transverse ridges; E. serpens lacks prominent repeated crosswise ridges. Different source-photo scale bars mean do not compare seed size by screen display. Pair this with real prostrata and serpens capsules/seeds already in the genus panel.",
+        "why_it_matters": "Corrects an earlier misleading longitudinal-ridge claim. A paired seed comparison is now possible.",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_maculata_sl20.jpg",
+        "creator": "Stefan.lefnaer",
+        "license": "CC BY-SA 4.0",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Shallow crosswise seed furrows",
+            "label_x": 64,
+            "label_y": 62,
+            "target_x": 78,
+            "target_y": 63
+          },
+          {
+            "label": "Individual mature seed",
+            "label_x": 9,
+            "label_y": 26,
+            "target_x": 19,
+            "target_y": 26
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 exact saved JPEG retrieved and visually inspected. No arrow for a structure absent from the image.",
+        "source_evidence": "2026-10-20 saved source JPEG independently inspected"
+      },
+      {
+        "label": "Hairy leaf faces and smooth-looking capsule",
+        "scientific_name": "Euphorbia villifera",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-villifera/images/04-villous-leaf-hairs.jpg",
+        "image_role": "Detailed verified exact-species image with dense soft villous hairs on leaves and a small colored external fruit",
+        "source_page": "https://www.inaturalist.org/observations/71492483",
+        "creator": "Matt Berger",
+        "license": "CC BY 4.0",
+        "image_fit": "contain",
+        "caption": "Long, soft hairs are plainly visible on the leaf edges and surfaces. A rounded reddish fruit or developed reproductive structure is visible near the center; the external surface looks smooth. This photo does NOT reveal the capsule's internal empty tip, a seed, or tiny cellular papillae.",
+        "why_it_matters": "Helps recognize the villous form and why hairs on leaves cannot by themselves separate species: E. villifera can also have sparse or absent hairs.",
+        "markers": [
+          {
+            "label": "Long soft leaf hairs",
+            "label_x": 4,
+            "label_y": 30,
+            "target_x": 31,
+            "target_y": 43
+          },
+          {
+            "label": "Smooth-looking fruit exterior",
+            "label_x": 62,
+            "label_y": 35,
+            "target_x": 56,
+            "target_y": 52
+          },
+          {
+            "label": "Hairy lower leaf",
+            "label_x": 64,
+            "label_y": 71,
+            "target_x": 60,
+            "target_y": 64
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 actual saved original photo inspected; no inferred internal capsule tip or stipule/hair identity"
+      },
+      {
+        "label": "True reproductive structures: capsules versus cyathia",
+        "scientific_name": "Euphorbia nutans",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-nutans/images/02-reproductive-closeup.jpg",
+        "image_role": "Exact-species CC0 reproductive macro: glabrous three-lobed capsule and white petal-like gland appendages",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_nutans_(Nickend-Wolfsmilch)_IMG_8819.JPG",
+        "creator": "HermannSchachner",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "image_fit": "contain",
+        "caption": "The swollen, three-lobed pink-green structure is a capsule (fruit), not a flower. The small white rounded parts are gland appendages of nearby cyathia, not true petals. Glabrous appearance of fruit is visible; seeds are not.",
+        "markers": [
+          {
+            "label": "Glabrous 3-lobed capsule",
+            "label_x": 6,
+            "label_y": 86,
+            "target_x": 35,
+            "target_y": 69
+          },
+          {
+            "label": "White gland appendages of cyathium",
+            "label_x": 50,
+            "label_y": 28,
+            "target_x": 40,
+            "target_y": 49
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 original 960×641 GitHub JPEG visually inspected. Two arrows on external fruit and white appendages; no microscopic stipule or seed claim. Genus reuse is of same canonical source image, not separate image",
+        "comparison_role": "Nutans inspected field-ready photo versus villifera; micro-stipule comparison still holds"
+      },
+      {
+        "label": "Find opposite leaf bases and hairs; stipule pattern NOT fully resolved",
+        "scientific_name": "Euphorbia nutans",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-nutans/images/04-node-stipule-hairs.jpg",
+        "image_role": "Exact-species CC BY-SA node macro of paired leaf attachments, hairs and pale membrane-like region; no complete stipule fusion proof",
+        "source_page": "https://www.inaturalist.org/observations/168810838",
+        "creator": "Douglas Goldman",
+        "license": "CC BY-SA",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "image_fit": "contain",
+        "caption": "Both leaves attach opposite one another at the vertical stem. Long curved hairs line the leaf edge. Pale pink-white structures near the right leaf base show where to inspect for stipules, but this one view does not prove their shape or both sides of fusion.",
+        "markers": [
+          {
+            "label": "Opposite leaf-attachment node",
+            "label_x": 6,
+            "label_y": 57,
+            "target_x": 57,
+            "target_y": 47
+          },
+          {
+            "label": "Leaf-edge hairs, not stipules",
+            "label_x": 2,
+            "label_y": 22,
+            "target_x": 37,
+            "target_y": 33
+          },
+          {
+            "label": "Inspect pale node tissue; stipules unconfirmed",
+            "label_x": 64,
+            "label_y": 66,
+            "target_x": 64,
+            "target_y": 44
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 original 1071×1600 GitHub JPEG inspected. Only obvious node, leaf hairs and pale tissue region marked. No stipule identity/fusion claimed. Genus reuse is of same canonical source image, not separate image",
+        "comparison_role": "Nutans inspected field-ready photo versus villifera; micro-stipule comparison still holds"
+      },
+      {
+        "label": "Mature seed faces: shallow irregular wrinkles",
+        "scientific_name": "Euphorbia nutans",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-nutans/images/05-mature-seed-wrinkles.jpg",
+        "image_role": "Exact-species CC BY-NC research-reviewed mature-seed macro; irregular shallow wrinkling rather than prominent uninterrupted ridges",
+        "source_page": "https://www.inaturalist.org/observations/3470010",
+        "creator": "Dale Lee Denham-Logsdon",
+        "license": "CC BY-NC",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "caption": "Seed surfaces are finely wrinkled. Compare the low, irregular network against the strong transverse bars of E. prostrata. The background grid is NOT independently calibrated and must not be used as a scale. Conditional NC image: noncommercial site only.",
+        "markers": [
+          {
+            "label": "Low irregular seed wrinkles",
+            "label_x": 8,
+            "label_y": 60,
+            "target_x": 29,
+            "target_y": 59
+          },
+          {
+            "label": "Second seed: shallow sculpture",
+            "label_x": 68,
+            "label_y": 73,
+            "target_x": 53,
+            "target_y": 62
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 exact GitHub source 900×596 visually inspected; seed surface visible but scale/grid not calibrated; no length measurement asserted. Genus reuse is of same canonical source image, not separate image",
+        "comparison_role": "Nutans inspected field-ready photo versus villifera; micro-stipule comparison still holds"
+      },
+      {
+        "scientific_name": "Euphorbia hypericifolia",
+        "label": "Condensed flower heads and opposing leaves",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-hypericifolia/images/03-m108t-dense-cyathia.jpg",
+        "image_role": "Terminal/axillary dense head-like cyathium glomerules; identify flower cluster position",
+        "caption": "The head-like groups of tiny cyathia on short side branches stand out. Each head includes many reproductive units, not one ordinary multi-petaled flower. Paired oblong leaves are visible. Petal-like structures are gland appendages, not petals.",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Inflorescece_of_Euphorbia_hypericifolia_in_Ishigaki,_Okinawa_1.jpg",
+        "creator": "M108t",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "markers": [
+          {
+            "label": "Dense axillary cyathium head",
+            "target_x": 56,
+            "target_y": 47,
+            "label_x": 43,
+            "label_y": 21
+          },
+          {
+            "label": "Second condensed cluster",
+            "target_x": 70,
+            "target_y": 63,
+            "label_x": 79,
+            "label_y": 84
+          },
+          {
+            "label": "Opposite oblong leaves",
+            "target_x": 62,
+            "target_y": 65,
+            "label_x": 58,
+            "label_y": 90
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 actual previously installed JPEG retrieved and visually inspected via GitHub base64 readback. Arrowed only distinct external structures. Source imagery left untouched. No inferred calibrations or unstated fine-scale stipule fusion.",
+        "comparison_role": "Dense headlike glomerules or reddish triangular leaf-base tissue; source verified, precise fusion size and true seed not pictured"
+      },
+      {
+        "scientific_name": "Euphorbia hypericifolia",
+        "label": "Reddish nodal stipule scales",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-hypericifolia/images/04-m108t-stipule-a.jpg",
+        "image_role": "Opposite leaf node with spreading triangular connate stipules; arrow location awaits manual JPEG review",
+        "caption": "Two short reddish triangular, scale-like protrusions at the opposite-leaf node are clearly visible. This view LOCATES stipules, but it does not supply a measurement or independent proof of fusion between the two sides.",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Stipule_of_Euphorbia_hypericifolia_in_Ishigaki,_Okinawa_1.jpg",
+        "creator": "M108t",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "markers": [
+          {
+            "label": "Reddish scale on left side",
+            "target_x": 43,
+            "target_y": 52,
+            "label_x": 5,
+            "label_y": 58
+          },
+          {
+            "label": "Reddish scale on right side",
+            "target_x": 56,
+            "target_y": 45,
+            "label_x": 62,
+            "label_y": 25
+          },
+          {
+            "label": "Opposite leaf junction",
+            "target_x": 50,
+            "target_y": 53,
+            "label_x": 65,
+            "label_y": 79
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 actual previously installed JPEG retrieved and visually inspected via GitHub base64 readback. Arrowed only distinct external structures. Source imagery left untouched. No inferred calibrations or unstated fine-scale stipule fusion.",
+        "comparison_role": "Dense headlike glomerules or reddish triangular leaf-base tissue; source verified, precise fusion size and true seed not pictured"
+      },
+      {
+        "label": "Dense head of tiny cyathia plus leaf hairs",
+        "scientific_name": "Euphorbia ophthalmica",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-ophthalmica/images/03-gaiacoyote-inflorescence-hairs.jpg",
+        "image_role": "Short terminal flowering cluster, hairy small leaf",
+        "creator": "Gaiacoyote",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_ophthalmica_(1).jpg",
+        "image_fit": "contain",
+        "caption": "One dense top-of-shoot cluster includes multiple tiny cyathia, not one ordinary flower. Many bright leaf hairs can be seen on the lower leaf. Tiny capsules and their finer hairs are NOT resolved; do not infer smooth versus strigillose fruit from this photo.",
+        "markers": [
+          {
+            "label": "Cluster of tiny cyathia",
+            "label_x": 32,
+            "label_y": 28,
+            "target_x": 38,
+            "target_y": 13
+          },
+          {
+            "label": "Short-hairy leaf",
+            "label_x": 70,
+            "label_y": 82,
+            "target_x": 53,
+            "target_y": 55
+          },
+          {
+            "label": "Leaf margin",
+            "label_x": 6,
+            "label_y": 54,
+            "target_x": 28,
+            "target_y": 55
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 exact original GitHub JPEG retrieved as base64 and actually inspected. Points only to visible leaf margins/nodes, prostrate shoots, and headlike clusters; no assertions about unresolved stipule, fine capsule hairs or seed ridges.",
+        "comparison_role": "Euphorbia ophthalmica annotated terminal heads/prostrate growth, as contrast to leafy nutans cyathia and glabrous hypericifolia"
+      },
+      {
+        "label": "Many prostrate flowering branch tips",
+        "scientific_name": "Euphorbia ophthalmica",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-ophthalmica/images/05-gaiacoyote-prostrate-habit.jpg",
+        "image_role": "Whole mat habit and multiple dense clusters",
+        "creator": "Gaiacoyote",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_ophthalmica_(3),_mat-forming_plant_on_very_hot_limestone_step.jpg",
+        "image_fit": "contain",
+        "caption": "The full low mat shows that globose cyathium clusters occur at tips of short leafy branches. This is a general architecture photograph, not a scale for mature seeds or proof of stipule details.",
+        "markers": [
+          {
+            "label": "Dense terminal head",
+            "label_x": 2,
+            "label_y": 37,
+            "target_x": 22,
+            "target_y": 39
+          },
+          {
+            "label": "Another head at branch tip",
+            "label_x": 67,
+            "label_y": 71,
+            "target_x": 80,
+            "target_y": 61
+          },
+          {
+            "label": "Spreading flowering shoot",
+            "label_x": 32,
+            "label_y": 95,
+            "target_x": 52,
+            "target_y": 80
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 exact original GitHub JPEG retrieved as base64 and actually inspected. Points only to visible leaf margins/nodes, prostrate shoots, and headlike clusters; no assertions about unresolved stipule, fine capsule hairs or seed ridges.",
+        "comparison_role": "Euphorbia ophthalmica annotated terminal heads/prostrate growth, as contrast to leafy nutans cyathia and glabrous hypericifolia"
+      },
+      {
+        "scientific_name": "Euphorbia golondrina",
+        "label": "Best comparison: leaf midvein and white gland appendages",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-golondrina/images/inat-513369845-review.jpg",
+        "image_role": "Ian McFaul photograph showing paired oblong entire leaves plus red central structures with white appendages",
+        "caption": "A short, nearly hairless shoot lies against coarse sand. Note the opposite oblong leaves with a single conspicuous midvein, and the small white crescent-like appendages around darker central gland/reproductive tissue. The tiny gland outline is partly resolved but not measured; this is not a mature-seed photograph.",
+        "creator": "(c) Ian McFaul, some rights reserved (CC BY)",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/513369845",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Oblong leaf with prominent MIDVEIN",
+            "label_x": 39,
+            "label_y": 9,
+            "target_x": 46,
+            "target_y": 30
+          },
+          {
+            "label": "Opposite leaf junction",
+            "label_x": 26,
+            "label_y": 50,
+            "target_x": 49,
+            "target_y": 48
+          },
+          {
+            "label": "White cyathium gland appendages",
+            "label_x": 76,
+            "label_y": 87,
+            "target_x": 78,
+            "target_y": 78
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 GitHub original source JPEG directly inspected. Arrow targets correspond only to photographed visible opposite leaves, midveins, cyathium white appendage regions and nodal clusters. Shape, seed size and stipule measurements not inferred.",
+        "comparison_role": "Euphorbia golondrina field evidence: entire oblong leaves and white gland appendage structures, versus FNA-text E. simulans"
+      },
+      {
+        "scientific_name": "Euphorbia golondrina",
+        "label": "Close field view of small cyathia and glabrous-looking foliage",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-golondrina/images/inat-282507362-review.jpg",
+        "image_role": "Mark Fishbein image of rocky substrate, leaves, reproductive units and white gland-like crescents",
+        "caption": "The small red centers and white crescent shapes at nodes are visible on a smooth-looking plant, along with blunt leaves with entire edges. A larger green swelling is present, but this image alone does not prove capsule maturity or internal seed details. No seed anatomy arrow is drawn.",
+        "creator": "(c) Mark Fishbein, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/282507362",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Small white crescent appendage",
+            "label_x": 49,
+            "label_y": 23,
+            "target_x": 57,
+            "target_y": 35
+          },
+          {
+            "label": "Blunt entire-edged leaf",
+            "label_x": 70,
+            "label_y": 17,
+            "target_x": 68,
+            "target_y": 27
+          },
+          {
+            "label": "Opposite leaf node",
+            "label_x": 6,
+            "label_y": 89,
+            "target_x": 31,
+            "target_y": 83
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 GitHub original source JPEG directly inspected. Arrow targets correspond only to photographed visible opposite leaves, midveins, cyathium white appendage regions and nodal clusters. Shape, seed size and stipule measurements not inferred.",
+        "comparison_role": "Euphorbia golondrina field evidence: entire oblong leaves and white gland appendage structures, versus FNA-text E. simulans"
+      },
+      {
+        "scientific_name": "Euphorbia simulans",
+        "label": "Rounded opposite leaves at nodes",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-simulans/images/inat-745462002-review.jpg",
+        "image_role": "Exact taxon research-grade iNaturalist supplementary field view; anatomy role PENDING manual saved-pixel inspection",
+        "caption": "Opposite, nearly circular entire-margined leaf blades on reclining pink stems. Dried structures are not confirmed fruits or seeds",
+        "source_page": "https://www.inaturalist.org/photos/745462002",
+        "creator": "(c) annieliveoak, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Rounded entire leaf",
+            "label_x": 67,
+            "label_y": 22,
+            "target_x": 70,
+            "target_y": 29
+          },
+          {
+            "label": "Opposite leaf pair",
+            "label_x": 7,
+            "label_y": 44,
+            "target_x": 28,
+            "target_y": 44
+          },
+          {
+            "label": "Creeping pinkish stem",
+            "label_x": 67,
+            "label_y": 88,
+            "target_x": 54,
+            "target_y": 74
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 JPEG visually examined. Only photographed habit, stem and opposed leaf structures arrowed; no microscopic gland, stipule, capsule or seed claim.",
+        "comparison_role": "E. simulans REAL source views: very tiny rounded leaves and prostrate growth, not proof of individual gland shapes or seed distinction."
+      },
+      {
+        "scientific_name": "Euphorbia simulans",
+        "label": "Small rounded leaves on extensive sprawling branches",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-simulans/images/inat-743054404-review.jpg",
+        "image_role": "Exact taxon research-grade iNaturalist supplementary field view; anatomy role PENDING manual saved-pixel inspection",
+        "caption": "Many rounded pairs on a sprawling mat, with red-green reproductive tips too small for microscopic gland diagnosis",
+        "source_page": "https://www.inaturalist.org/photos/743054404",
+        "creator": "(c) Hatim Albalawi, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Sprawling branch",
+            "label_x": 3,
+            "label_y": 65,
+            "target_x": 25,
+            "target_y": 67
+          },
+          {
+            "label": "Tiny rounded leaf pair",
+            "label_x": 64,
+            "label_y": 11,
+            "target_x": 74,
+            "target_y": 13
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 JPEG visually examined. Only photographed habit, stem and opposed leaf structures arrowed; no microscopic gland, stipule, capsule or seed claim.",
+        "comparison_role": "E. simulans REAL source views: very tiny rounded leaves and prostrate growth, not proof of individual gland shapes or seed distinction."
+      },
+      {
+        "scientific_name": "Euphorbia eriantha",
+        "label": "Narrow leaves and mottled hairy reproductive structures",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-eriantha/images/inat-181384310.jpg",
+        "image_role": "Eric Knight exact-name field reproductive macro showing needle-like leaves, dense hairy cyathium groups and developing mottled, hairy fruits",
+        "caption": "This real close-up shows extremely narrow foliage surrounding a small, densely hairy reproductive group and large mottled hairy fruit structures. Curved white gland appendage segments may be present within the cluster but cannot be individually diagnosed or measured from this photo. The patterned structures should not be labeled as detached mature seeds.",
+        "source_page": "https://www.inaturalist.org/photos/181384310",
+        "creator": "(c) Eric Knight, some rights reserved (CC BY)",
+        "license": "CC BY",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Very narrow linear leaf",
+            "label_x": 70,
+            "label_y": 18,
+            "target_x": 80,
+            "target_y": 48
+          },
+          {
+            "label": "Dense hairy cyathium group",
+            "label_x": 4,
+            "label_y": 45,
+            "target_x": 42,
+            "target_y": 55
+          },
+          {
+            "label": "Developing mottled hairy fruit",
+            "label_x": 57,
+            "label_y": 86,
+            "target_x": 53,
+            "target_y": 66
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 original exact-species JPEG visibly inspected; three markers for obvious leaf, central hairy cluster, and developing mottled fruit. White gland fringe morphology and true detached seed cannot be confidently resolved.",
+        "comparison_role": "Actual E. eriantha needle-leaf and woolly fruit reference; do not treat striped capsules as pitted mature seeds or claim visible individual folded hairy gland-lobe fingers."
+      },
+      {
+        "scientific_name": "Euphorbia eriantha",
+        "label": "Green mottled hairy capsule and long linear bracts",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-eriantha/images/inat-753175091-review.jpg",
+        "image_role": "Green mottled hairy capsule and long linear bracts",
+        "caption": "Close view of needle-like, entirely green leafy bracts, large green-striped hairy developing capsules and the much smaller whitish clustered cyathia between them. No detached seed or individual curled gland finger is separately identified.",
+        "creator": "(c) obatalov, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/753175091",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Very narrow green leaf/bract",
+            "label_x": 75,
+            "label_y": 11,
+            "target_x": 62,
+            "target_y": 34
+          },
+          {
+            "label": "Large hairy green capsule",
+            "label_x": 75,
+            "label_y": 50,
+            "target_x": 46,
+            "target_y": 37
+          },
+          {
+            "label": "Tiny clustered white-hairy cyathia",
+            "label_x": 6,
+            "label_y": 40,
+            "target_x": 37,
+            "target_y": 45
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 original physically installed exact-scientific-taxon GitHub JPEG read and visually examined; only resolvable green leaves, larger hairy developing fruit, clustered reproductive areas and stem architecture marked. Curled fine gland segments and detached seeds NOT identified.",
+        "comparison_role": "Actual E. eriantha needle-leaf and woolly fruit reference; do not treat striped capsules as pitted mature seeds or claim visible individual folded hairy gland-lobe fingers."
+      },
+      {
+        "scientific_name": "Euphorbia eriantha",
+        "label": "Eriantha in desert scrub: many branched needle-leaf stems",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-eriantha/images/inat-749199014-review.jpg",
+        "image_role": "Eriantha in desert scrub: many branched needle-leaf stems",
+        "caption": "A wider desert scrub view shows ascending branches and very narrow leaves under open rocky conditions. Flower/fruit groups are near tips. The exact whole-plant height and basal taproot are not visible.",
+        "creator": "(c) yamstress, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/749199014",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Ascending leafy branches",
+            "label_x": 45,
+            "label_y": 20,
+            "target_x": 50,
+            "target_y": 41
+          },
+          {
+            "label": "Terminal fruit cluster",
+            "label_x": 66,
+            "label_y": 50,
+            "target_x": 68,
+            "target_y": 58
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 original physically installed exact-scientific-taxon GitHub JPEG read and visually examined; only resolvable green leaves, larger hairy developing fruit, clustered reproductive areas and stem architecture marked. Curled fine gland segments and detached seeds NOT identified.",
+        "comparison_role": "Actual E. eriantha needle-leaf and woolly fruit reference; do not treat striped capsules as pitted mature seeds or claim visible individual folded hairy gland-lobe fingers."
+      },
+      {
+        "label": "Rounded bract cup, gland center and capsule",
+        "scientific_name": "Euphorbia roemeriana",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-roemeriana/images/inat-first-698576640.jpg",
+        "image_role": "Diagnostic close-up: broad green paired bracts, yellow horned cyathia and developing glabrous fruits",
+        "source_page": "https://www.inaturalist.org/photos/698576640",
+        "creator": "Turner Brockman",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "image_fit": "contain",
+        "caption": "Roemer's spurge has broad green rounded bracts around tiny yellow, horned cyathial structures; the paired bracts are fused low down into a shallow cup. Separate smooth, three-lobed developing capsules hang beside them. The photograph supports location of these structures, but does not measure precisely how much of the bracts is fused or show true seeds.",
+        "markers": [
+          {
+            "label": "Rounded paired bracts form a cup",
+            "label_x": 52,
+            "label_y": 68,
+            "target_x": 71,
+            "target_y": 52
+          },
+          {
+            "label": "Yellow horned cyathial glands",
+            "label_x": 67,
+            "label_y": 30,
+            "target_x": 74,
+            "target_y": 43
+          },
+          {
+            "label": "Smooth, three-lobed developing capsule",
+            "label_x": 77,
+            "label_y": 75,
+            "target_x": 91,
+            "target_y": 53
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 original 1024×768 GitHub JPEG opened and inspected. The arrow targets are obvious green reproductive bracts, yellow cyathium, and a large developing 3-lobed capsule. Degree of fusion, exact individual gland horn shape and seed pits require dedicated scaled macro; current image not used for those measurements.",
+        "comparison_role": "Real photo: rounded partly fused reproductive bracts with yellow cyathium and smooth green developing fruit; quantitative seam and seed not resolved."
+      },
+      {
+        "scientific_name": "Euphorbia roemeriana",
+        "label": "Branching flowering shoot — see repeated green cups",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-roemeriana/images/inat-698576687-review.jpg",
+        "image_role": "Branching flowering shoot — see repeated green cups",
+        "source_page": "https://www.inaturalist.org/photos/698576687",
+        "creator": "(c) Turner Brockman, some rights reserved (CC BY-SA)",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "image_fit": "contain",
+        "caption": "Turner Brockman's wider field view shows repeated terminal forks, oval ordinary leaves, rounded reproductive bracts, yellow cyathia and small green fruit. A side-to-side rootline, exact plant height and microscopic fused bract seam are NOT visible.",
+        "markers": [
+          {
+            "label": "Repeated rounded bract pair",
+            "label_x": 65,
+            "label_y": 15,
+            "target_x": 70,
+            "target_y": 25
+          },
+          {
+            "label": "Repeated branching flower tips",
+            "label_x": 6,
+            "label_y": 65,
+            "target_x": 22,
+            "target_y": 51
+          },
+          {
+            "label": "Smooth fruit beside yellow cyathium",
+            "label_x": 69,
+            "label_y": 73,
+            "target_x": 82,
+            "target_y": 66
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 exact saved JPEG visually reviewed. Pointers target larger clearly distinguishable paired green bracts, ordinary obovate leaf, separate green developing capsule or forking branch; never a not-resolved bract seam or seed pits.",
+        "comparison_role": "Roemer's spurge exact-species field branch habit and paired bracts versus E. commutata E. longicruris and E. spathulata"
+      },
+      {
+        "scientific_name": "Euphorbia roemeriana",
+        "label": "Ordinary obovate stem leaf versus green reproductive bracts",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-roemeriana/images/inat-635025906-review.jpg",
+        "image_role": "Ordinary obovate stem leaf versus green reproductive bracts",
+        "source_page": "https://www.inaturalist.org/photos/635025906",
+        "creator": "(c) Sara Schubert, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "caption": "Sara Schubert's photo separates an obovate ordinary leaf with rounded tip from the much rounder paired reproductive bracts, with a small yellow gland center and a green capsule on a stalk. The bract fusion length cannot be measured from this oblique angle.",
+        "markers": [
+          {
+            "label": "Broad ordinary leaf",
+            "label_x": 76,
+            "label_y": 25,
+            "target_x": 71,
+            "target_y": 40
+          },
+          {
+            "label": "Rounded reproductive bract cup",
+            "label_x": 7,
+            "label_y": 64,
+            "target_x": 43,
+            "target_y": 55
+          },
+          {
+            "label": "Developing green capsule",
+            "label_x": 6,
+            "label_y": 41,
+            "target_x": 33,
+            "target_y": 53
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 exact saved JPEG visually reviewed. Pointers target larger clearly distinguishable paired green bracts, ordinary obovate leaf, separate green developing capsule or forking branch; never a not-resolved bract seam or seed pits.",
+        "comparison_role": "Roemer's spurge exact-species field branch habit and paired bracts versus E. commutata E. longicruris and E. spathulata"
+      },
+      {
+        "scientific_name": "Euphorbia roemeriana",
+        "label": "Mature seed: scattered deep pits and caruncle",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-roemeriana/images/nathan-roemeriana-seed-34980021.jpg",
+        "image_role": "Exact-species documented detached seed macro from Nathan Taylor; pit and caruncle structures directly verified",
+        "source_page": "https://www.inaturalist.org/photos/34980021",
+        "creator": "Nathan Taylor",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "caption": "Confirmed Euphorbia roemeriana seed from Nathan Taylor's published iNaturalist morphology lesson. Deep irregular brown pits interrupt the pale seed coat; a pale fleshy caruncle protrudes at the left. The tiny pits are NOT transverse stripes. No calibrated ruler is shown in the photograph.",
+        "markers": [
+          {
+            "label": "Scattered deep seed pits",
+            "label_x": 63,
+            "label_y": 12,
+            "target_x": 53,
+            "target_y": 43
+          },
+          {
+            "label": "Pale caruncle at attachment end",
+            "label_x": 4,
+            "label_y": 81,
+            "target_x": 15,
+            "target_y": 56
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 actual exact-source JPEG opened, pitted true seed and pale caruncle at left visually checked. Two overlays on unequivocal pitted seed coat and attachment-end caruncle; no millimeter calibration, chalaza direction or measured geometry claimed.",
+        "comparison_role": "True Euphorbia roemeriana mature seed with distinctive deep irregular pits and pale attachment-end caruncle, not to confuse with E. longicruris seed"
+      },
+      {
+        "label": "Texas close-up — true warty capsule",
+        "scientific_name": "Euphorbia spathulata",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-spathulata/images/nathan-15653221-warty-capsule.jpg",
+        "image_role": "Texas source close-up showing rounded capsule verrucae, styles, cyathial glands and separate leaflike bracts",
+        "caption": "Texas specimen by Nathan Taylor. The swollen green capsule is covered in LOW ROUNDED wartlike bumps, with three split style arms above it. The yellow nubs beside the upper fruit belong to the nearby cyathium, and the green leaflike bract has a finely toothed rim. This is real photographed diagnostic anatomy, not a scale image.",
+        "source_page": "https://www.inaturalist.org/photos/15653221",
+        "creator": "(c) Nathan Taylor, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "anatomy_arrows": [
+          {
+            "label": "Low rounded warts on green capsule",
+            "target_fraction": [
+              0.285,
+              0.793
+            ]
+          },
+          {
+            "label": "Three forked styles atop fruit",
+            "target_fraction": [
+              0.263,
+              0.625
+            ]
+          },
+          {
+            "label": "Yellow glands of tiny cyathium",
+            "target_fraction": [
+              0.582,
+              0.47
+            ]
+          },
+          {
+            "label": "Fine teeth on upper bract margin",
+            "target_fraction": [
+              0.489,
+              0.264
+            ]
+          }
+        ],
+        "comparison_role": "Now visually matched with smooth Roemer's spurge capsule: compare WARTY spathulata versus SMOOTH roemeriana. Do not imply photo measurement or proof of precise bract-base seam."
+      },
+      {
+        "label": "Flowering bracts and warty fruit clusters",
+        "scientific_name": "Euphorbia spathulata",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-spathulata/images/max-licher-uaz-flowering-bracts.jpg",
+        "image_role": "Multiple flowering tip bract pairs and warty fruits in foliage, photo originally credited by U Arizona Extension",
+        "caption": "Max Licher's clustered flowering-tip view shows several wart-covered green developing capsules among broad green reproductive bracts, with yellow cyathia in the axils. Different views of similar parts repeat across the plant. Follow one bract pair to its base for formal separation; this angle alone does not measure the connection.",
+        "source_page": "https://yavapaiplants.extension.arizona.edu/euphorbia-spathulata",
+        "creator": "Max Licher, via Southwest Environmental Information Network / University of Arizona Extension",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "anatomy_arrows": [
+          {
+            "label": "Warty developing capsule",
+            "target_fraction": [
+              0.478,
+              0.542
+            ]
+          },
+          {
+            "label": "Broad leaflike flowering bract",
+            "target_fraction": [
+              0.599,
+              0.497
+            ]
+          },
+          {
+            "label": "Yellow cyathium in green cup",
+            "target_fraction": [
+              0.782,
+              0.372
+            ]
+          }
+        ],
+        "comparison_role": "Now visually matched with smooth Roemer's spurge capsule: compare WARTY spathulata versus SMOOTH roemeriana. Do not imply photo measurement or proof of precise bract-base seam."
+      },
+      {
+        "scientific_name": "Euphorbia angusta",
+        "label": "Narrow upright leaves and white gland appendage",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-angusta/images/euphorbia-angusta-provisional-face.jpg",
+        "image_role": "Narrowleaf field recognition, leaf versus reproductive structure",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_angusta_iNat-51852545.jpg",
+        "creator": "Alison Northup",
+        "license": "CC BY 4.0",
+        "anatomy_arrows": [
+          {
+            "label": "Long, very narrow distal leaf",
+            "target_fraction": [
+              0.637,
+              0.286
+            ]
+          },
+          {
+            "label": "White toothed cyathial gland appendage",
+            "target_fraction": [
+              0.624,
+              0.542
+            ]
+          }
+        ],
+        "caption": "Photographed narrow upper leaf and toothed white gland appendage. Do not claim capsule hairs on this developing fruit.",
+        "comparison_role": "angusta/fendleri 2026-10-21 explicitly matched labeled species",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "scientific_name": "Euphorbia angusta",
+        "label": "Actual short appressed leaf hairs",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-angusta/images/06-leaf-hairs-macro.jpg",
+        "image_role": "Strigose leaf epidermis macro",
+        "source_page": "https://www.inaturalist.org/observations/10884560",
+        "creator": "Nathan Taylor",
+        "license": "CC BY-NC",
+        "anatomy_arrows": [
+          {
+            "label": "Individual short appressed leaf hairs",
+            "target_fraction": [
+              0.511,
+              0.578
+            ]
+          }
+        ],
+        "caption": "Actual white appressed short hairs, unlike the glabrous leaves of Fendler's sandmat.",
+        "comparison_role": "angusta/fendleri 2026-10-21 explicitly matched labeled species",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      {
+        "scientific_name": "Euphorbia angusta",
+        "label": "Reddish leaf-base stipules",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-angusta/images/08-stipule-location-macro.jpg",
+        "image_role": "Expert single-ID macro of small reddish stipule positions with hairs",
+        "source_page": "https://www.inaturalist.org/observations/21895584",
+        "creator": "Nathan Taylor",
+        "license": "CC BY-NC",
+        "anatomy_arrows": [
+          {
+            "label": "Stipule left of node",
+            "target_fraction": [
+              0.296,
+              0.393
+            ]
+          },
+          {
+            "label": "Stipule right of node",
+            "target_fraction": [
+              0.515,
+              0.4
+            ]
+          }
+        ],
+        "caption": "Two dark stipule positions stand apart from surrounding pale hairs. Single expert ID, not independent research-grade evidence.",
+        "comparison_role": "angusta/fendleri 2026-10-21 explicitly matched labeled species",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      {
+        "scientific_name": "Euphorbia fendleri",
+        "label": "Fendler's much rounder leaves",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-fendleri/images/euphorbia-fendleri-provisional-face.jpg",
+        "image_role": "Glabrous round-leaf low sandmat comparison, not a whole-rooted view",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_fendleri_3.jpg",
+        "creator": "Stan Shebs",
+        "license": "CC BY-SA 3.0",
+        "anatomy_arrows": [],
+        "caption": "Rounded to oval broad glabrous leaves, in contrast with narrowleaf spurge's linear upper leaves.",
+        "comparison_role": "angusta/fendleri 2026-10-21 explicitly matched labeled species",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      {
+        "scientific_name": "Euphorbia fendleri",
+        "label": "Smooth Fendler's capsule",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-fendleri/images/04-glabrous-capsule-leaves.jpg",
+        "image_role": "Actual smooth green fruit with rounded opposite leaves",
+        "source_page": "https://www.inaturalist.org/observations/118457114",
+        "creator": "Eric Keith",
+        "license": "CC BY-NC",
+        "anatomy_arrows": [
+          {
+            "label": "Smooth developing green capsule",
+            "target_fraction": [
+              0.544,
+              0.296
+            ]
+          },
+          {
+            "label": "Rounded opposite leaf",
+            "target_fraction": [
+              0.335,
+              0.349
+            ]
+          }
+        ],
+        "caption": "Photographed smooth fruit and broad short leaves. The comparison to E. angusta hair-covered capsules is FNA-based until a definite separate capsule hair macro is licensed for angusta.",
+        "comparison_role": "angusta/fendleri 2026-10-21 explicitly matched labeled species",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      {
+        "label": "Four-angled seeds and author scale",
+        "scientific_name": "Euphorbia fendleri",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-fendleri/images/07-seeds-calibrated.jpg",
+        "image_role": "Seed macro / multiple faces and calibrated scale",
+        "source_page": "https://www.inaturalist.org/observations/2727778",
+        "creator": "Nathan Taylor",
+        "license": "CC BY-NC",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "caption": "Nathan Taylor's photographed exact-species seed series shows several faces of pale four-angled seeds, a prominent longitudinal edge, variable shallow circular depressions and faintly netted surface. The author identifies 0.5 mm scale divisions in this observation. A close photo should NOT be mistaken for many evenly spaced transverse ridges or a fruit capsule; specimen maturity is not independently certified.",
+        "anatomy_arrows": [
+          {
+            "label": "Pale four-angled seed, side view",
+            "target_fraction": [
+              0.731,
+              0.674
+            ]
+          },
+          {
+            "label": "Longitudinal angular seed edge",
+            "target_fraction": [
+              0.705,
+              0.764
+            ]
+          },
+          {
+            "label": "Scale divisions (author states 0.5 mm)",
+            "target_fraction": [
+              0.781,
+              0.913
+            ]
+          }
+        ],
+        "comparison_role": "fendleri-versus-angusta matched 2026-10-21 seed comparison",
+        "photo_warning": "Do not measure printed pixel size. Seed maturity not independently certified."
+      },
+      {
+        "label": "Seed coat surface macro with few depressions",
+        "scientific_name": "Euphorbia fendleri",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-fendleri/images/08-seed-face-calibrated.jpg",
+        "image_role": "Seed face macro / angular outline and low surface relief",
+        "source_page": "https://www.inaturalist.org/observations/2727778",
+        "creator": "Nathan Taylor",
+        "license": "CC BY-NC",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "caption": "Nathan Taylor's complementary seed face macro shows a pale, markedly angled seed with several scattered darker surface depressions and fine microscopic skin texture. It is a TRUE SEED, not a three-lobed fruit; avoid saying the depressions are uniform transverse ridges.",
+        "anatomy_arrows": [
+          {
+            "label": "Seed coat with discrete surface depressions",
+            "target_fraction": [
+              0.527,
+              0.355
+            ]
+          },
+          {
+            "label": "Pointed angular seed end",
+            "target_fraction": [
+              0.905,
+              0.349
+            ]
+          }
+        ],
+        "comparison_role": "fendleri-versus-angusta matched 2026-10-21 seed comparison",
+        "photo_warning": "Do not measure printed pixel size. Seed maturity not independently certified."
+      },
+      {
+        "label": "True pale seed separated from fruit",
+        "scientific_name": "Euphorbia fendleri",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-fendleri/images/05-extracted-seed-capsule.jpg",
+        "image_role": "Extracted pale seed and opened capsule / surface and form reference",
+        "source_page": "https://www.inaturalist.org/observations/246629613",
+        "creator": "Andrey Zharkikh",
+        "license": "CC BY-NC",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "caption": "Andrey Zharkikh's photographed dissections show one isolated pale seed at upper right and an opened green capsule segment at upper center. A further opened fruit piece is below. Do not use the printed grid as calibrated seed-length evidence; the units and physiological maturity were not independently established.",
+        "anatomy_arrows": [
+          {
+            "label": "Detached pale seed (not capsule)",
+            "target_fraction": [
+              0.783,
+              0.36
+            ]
+          },
+          {
+            "label": "Opened green capsule segment",
+            "target_fraction": [
+              0.461,
+              0.202
+            ]
+          }
+        ],
+        "comparison_role": "fendleri-versus-angusta matched 2026-10-21 seed comparison",
+        "photo_warning": "Do not measure printed pixel size. Seed maturity not independently certified."
+      },
+      {
+        "label": "Hairy stem and tight flowering head",
+        "scientific_name": "Euphorbia ophthalmica",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-ophthalmica/images/06-lucy-cash-terminal-head-and-hairy-stem.jpg",
+        "image_role": "Flowering tip with tiny condensed terminal cyathia and visible hairs on the slender stem",
+        "creator": "(c) Lucy Cash, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/103176610",
+        "image_fit": "contain",
+        "caption": "Lucy Cash's exact-species flowering shoot shows a small densely packed terminal cyathium head, slender pale-hairy stem, and opposite leaf pairs. Rounded green reproductive structures within the head are NOT claimed to be individually mature capsules or to prove fine capsule hairs.",
+        "markers": [
+          {
+            "label": "Dense terminal reproductive head",
+            "target_x": 36,
+            "target_y": 24,
+            "label_x": 5,
+            "label_y": 12
+          },
+          {
+            "label": "Short hairs on slender stem below head",
+            "target_x": 42,
+            "target_y": 48,
+            "label_x": 69,
+            "label_y": 35
+          },
+          {
+            "label": "Paired small leaves below tip",
+            "target_x": 39,
+            "target_y": 70,
+            "label_x": 5,
+            "label_y": 58
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 manually inspected 1400px-or-smaller saved candidate pixels: endpoints are on the terminal head, hairy flowering stalk and opposite leaves. No structure labeled as mature fruit, seed or stipule.",
+        "comparison_role": "Actual source-verified ophthalmica condensed heads and STEM/LEAF hairs; contrast with E. hypericifolia smooth stems; E. hirta has additional axillary heads."
+      },
+      {
+        "label": "Reddish head and hairy leaves",
+        "scientific_name": "Euphorbia ophthalmica",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-ophthalmica/images/07-karlabalrey-terminal-head-and-leaf-hairs.jpg",
+        "image_role": "Compact reddish head on short leafy branch with conspicuous leaf hairs",
+        "creator": "(c) karlabalrey, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/125643782",
+        "image_fit": "contain",
+        "caption": "karlabalrey's close-up shows tightly clustered pinkish reproductive parts with short hairs visible on an adjacent broad leaf. Individual fruits and their exact mature capsule hair distribution cannot be distinguished securely in this view. Treat as leaf-hair and head-architecture evidence, not a seed or stipule image.",
+        "markers": [
+          {
+            "label": "Compact group of reddish cyathia",
+            "target_x": 56,
+            "target_y": 39,
+            "label_x": 5,
+            "label_y": 12
+          },
+          {
+            "label": "Numerous fine hairs on leaf",
+            "target_x": 51,
+            "target_y": 71,
+            "label_x": 69,
+            "label_y": 35
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 saved photograph visually inspected: the condensed upper head and long lower leaf's hair-covered surface are identifiable. No three-lobed ripe fruit or seed arrow inferred.",
+        "comparison_role": "Actual source-verified ophthalmica condensed heads and STEM/LEAF hairs; contrast with E. hypericifolia smooth stems; E. hirta has additional axillary heads."
+      },
+      {
+        "scientific_name": "Euphorbia simulans",
+        "label": "Real gland macro — no white appendage",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-simulans/images/nathan-5336725-true-elliptic-glands.jpg",
+        "image_role": "Macro of separate red-purple elliptical gland pads around a cyathium; no white crescent appendages visible",
+        "caption": "Nathan Taylor's exact-species cyathium has red-purple elliptical to oval gland pads directly surrounding its tiny central reproductive cavity. No white petal-like gland crescents are visible. The little reproductive unit in back is not a seed.",
+        "source_page": "https://www.inaturalist.org/photos/5336725",
+        "creator": "(c) Nathan Taylor, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "One of four reddish cyathial gland pads",
+            "target_x": 68,
+            "target_y": 38,
+            "label_x": 8,
+            "label_y": 15
+          },
+          {
+            "label": "Central cyathial reproductive cavity",
+            "target_x": 52,
+            "target_y": 36,
+            "label_x": 61,
+            "label_y": 39
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 saved source 5336725 visually inspected. Red/purple gland at upper right and central cyathial space identified; gland dimension cannot be calibrated from enlarged image.",
+        "comparison_role": "True exact E. simulans seed/gland/fruit source photograph; matched safely against golondrina and theriaca in genus key"
+      },
+      {
+        "scientific_name": "Euphorbia simulans",
+        "label": "True three-lobed glabrous capsule",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-simulans/images/nathan-5336727-smooth-three-lobed-fruit.jpg",
+        "image_role": "True smooth green three-lobed capsule beside separate reddish cyathial cup",
+        "caption": "Rounded green THREE-LOBED capsule at left is the developing fruit, distinct from the reddish gland-bearing cyathial cup at right. The fruit's photographed surface is smooth, without conspicuous hairs; tiny stipule placement is not marked here.",
+        "source_page": "https://www.inaturalist.org/photos/5336727",
+        "creator": "(c) Nathan Taylor, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Three-lobed smooth green fruit",
+            "target_x": 31,
+            "target_y": 45,
+            "label_x": 8,
+            "label_y": 15
+          },
+          {
+            "label": "Red-purple gland-bearing cyathium",
+            "target_x": 74,
+            "target_y": 17,
+            "label_x": 61,
+            "label_y": 39
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 saved JPEG 5336727 read visually: fruit lobes left and cyathial glands right directly distinguishable. No claim of mature seed or measurable microscopic stipules.",
+        "comparison_role": "True exact E. simulans seed/gland/fruit source photograph; matched safely against golondrina and theriaca in genus key"
+      },
+      {
+        "scientific_name": "Euphorbia simulans",
+        "label": "Mature pale seeds — shallow wrinkles",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-simulans/images/nathan-5336967-mature-weakly-wrinkled-seeds.jpg",
+        "image_role": "TRUE pale red-brown 4-angled seeds with shallow irregular transverse wrinkles and source-calibrated half-millimeter scale",
+        "caption": "Five true Euphorbia simulans seeds photographed by Nathan Taylor. Their pale-coated faces have weak scattered transverse wrinkles/pits; compare with the much deeper three transverse furrows on E. theriaca seeds. Black calibration bar visible at bottom; observation author states divisions are HALF millimeters, not a pixel-based guess.",
+        "source_page": "https://www.inaturalist.org/photos/5336967",
+        "creator": "(c) Nathan Taylor, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Shallow broken wrinkles on upper-right seed",
+            "target_x": 79,
+            "target_y": 20,
+            "label_x": 8,
+            "label_y": 15
+          },
+          {
+            "label": "Weak low ridges on central seed",
+            "target_x": 48,
+            "target_y": 56,
+            "label_x": 61,
+            "label_y": 39
+          },
+          {
+            "label": "Author's half-millimeter scale divisions",
+            "target_x": 49,
+            "target_y": 94,
+            "label_x": 8,
+            "label_y": 63
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 seed pixel QA: original photographed true seeds and uneven shallow seedcoat depressions visible; black ruler along bottom and observation owner states 'Scale in half millimeters'. No single exact measurement calculated from pixels.",
+        "comparison_role": "True exact E. simulans seed/gland/fruit source photograph; matched safely against golondrina and theriaca in genus key"
+      },
+      {
+        "scientific_name": "Euphorbia theriaca",
+        "label": "Comparison only — theriaca seeds have deep transverse grooves",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/comparison-media/nathan-theriaca-5337479-strongly-ridged-seeds.jpg",
+        "image_role": "TRUE theriaca seed photographs from separate observation; three deep transverse grooves; DO NOT put on simulans species card",
+        "creator": "(c) Nathan Taylor, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/5337479",
+        "caption": "Nathan Taylor's Euphorbia theriaca observation: pale mature seeds have fewer, MUCH DEEPER crosswise grooves than simulans. This is a distinct comparison species, NOT a photo of simulans. Author's half-millimeter divisions appear along lower margin.",
+        "markers": [
+          {
+            "label": "Deep transverse seed furrows",
+            "target_x": 76,
+            "target_y": 27,
+            "label_x": 53,
+            "label_y": 11
+          },
+          {
+            "label": "Author's half-millimeter ruler",
+            "target_x": 48,
+            "target_y": 93,
+            "label_x": 12,
+            "label_y": 83
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 actual 1000px JPEG opened; source obs 4435298 exact E. theriaca with photo 5337479 verified individual CC BY-NC licence. Marked deep transverse furrows and visible ruler; distinct taxon label mandatory.",
+        "comparison_role": "E. simulans versus E. theriaca: true contrasting seeds; theriaca is NOT installed as a canonical species"
+      }
+    ],
+    "overlay_note": "Two E. villifera photo views © Matt Berger and Chet Burrier, both CC BY 4.0, included as learning references. No rights-unverified UT photographs or CC BY-NC photos are featured. Annotation arrows point only to observed leaves/hairs, node, and fruit exterior.",
+    "instance_id": "euphorbia-central-texas-v3-20261020",
+    "study_only_intro": "Sources listed below may be valuable for botanical research, but their original images are intentionally not embedded in this public-facing genus comparison because individual public redistribution terms are unverified or restrictive. Open at the source.",
+    "study_only_photo_links": [
+      {
+        "label": "Toothed spurge — rounded, evenly pebbled seed — Euphorbia dentata",
+        "url": "https://www.missouriplants.com/Euphorbia_dentata_page.html",
+        "look_for": "This is the strongest tie-breaker. E. dentata has smaller seeds that are rounded in cross section with fine, relatively even tubercles. If seed is absent, check the underside leaf ",
+        "reuse": "Source-site reference only; original copyrighted / public reuse not granted rights retained."
+      },
+      {
+        "label": "David's spurge — angular, irregularly lumpy seed — Euphorbia davidii",
+        "url": "https://www.missouriplants.com/Euphorbia_davidii_page.html",
+        "look_for": "This is the strongest tie-breaker. E. davidii has larger, more angular seeds with irregular low broad tubercles/wrinkles. If seed is absent, check the underside leaf hairs: they ar",
+        "reuse": "Source-site reference only; original copyrighted / public reuse not granted rights retained."
+      },
+      {
+        "label": "Hairy sandmat — glabrous capsule with prolonged lobes — Euphorbia villifera",
+        "url": "https://www.inaturalist.org/observations/299725474",
+        "look_for": "Compare capsule surfaces across all three sandmats. This E. villifera capsule is glabrous with prolonged pointed lobes. The internal empty distal portion described in floras needs ",
+        "reuse": "Source-site reference only; original CC BY-NC rights retained."
+      },
+      {
+        "label": "Matted sandmat — root starts at the node — Euphorbia serpens",
+        "url": "https://www.inaturalist.org/guide_taxa/354763",
+        "look_for": "Follow the long tan root upward to where it joins the horizontal stem at the leaf node. This directly illustrates adventitious node rooting. A stem lying on soil alone does not pro",
+        "reuse": "Source-site reference only; original CC BY-NC-SA rights retained."
+      },
+      {
+        "label": "Nodding spurge — upright + large asymmetric leaves — Euphorbia nutans",
+        "url": "https://www.inaturalist.org/observations/3470010",
+        "look_for": "Look at the dark seeds and their low irregular wrinkles across the faces. Compare surface sculpture rather than the displayed size; the grid spacing is not independently calibrated",
+        "reuse": "Source-site reference only; original CC BY-NC rights retained."
+      },
+      {
+        "label": "Fendler's sandmat — low woody perennial — Euphorbia fendleri",
+        "url": "https://www.inaturalist.org/observations/118457114",
+        "look_for": "Look at the smooth green capsule above the cyathium and the small opposite rounded leaves. Narrow appendages at some nodes provide context but do not securely demonstrate the compl",
+        "reuse": "Source-site reference only; original CC BY-NC rights retained."
+      },
+      {
+        "label": "Narrow-leaf spurge — erect + strigose + linear leaves — Euphorbia angusta",
+        "url": "https://www.inaturalist.org/observations/85069092",
+        "look_for": "Look at the short pale hairs coating the three-lobed capsule near the center, and the toothed white gland appendages below it. This directly illustrates the hairy fruit surface; se",
+        "reuse": "Source-site reference only; original CC BY-NC rights retained."
+      },
+      {
+        "label": "Narrow-leaf spurge — thickened basal rootstock — Euphorbia angusta",
+        "url": "https://w3.biosci.utexas.edu/prc/specimens/Euphorbiaceae.html",
+        "look_for": "Look at the lower center of this mounted plant: the dark thickened horizontal rootstock sits below the tuft of upright stems. The voucher supplies basal structural context with the",
+        "reuse": "Source-site reference only; original reuse rights unverified rights retained."
+      }
+    ],
+    "rights_hold_reference_items": [
+      {
+        "scientific_name": "Euphorbia dentata",
+        "label": "Toothed spurge — rounded, evenly pebbled seed",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-dentata/images/05-fruit-seeds-private-study.jpg",
+        "source_page": "https://www.missouriplants.com/Euphorbia_dentata_page.html",
+        "creator": "S.R. Turner",
+        "license": "copyrighted / public reuse not granted",
+        "public_reuse": "review",
+        "reason": "Preserved for review, not promoted into public genus panel"
+      },
+      {
+        "scientific_name": "Euphorbia davidii",
+        "label": "David's spurge — angular, irregularly lumpy seed",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-davidii/images/04-seeds-private-study.jpg",
+        "source_page": "https://www.missouriplants.com/Euphorbia_davidii_page.html",
+        "creator": "S.R. Turner",
+        "license": "copyrighted / public reuse not granted",
+        "public_reuse": "review",
+        "reason": "Preserved for review, not promoted into public genus panel"
+      },
+      {
+        "scientific_name": "Euphorbia villifera",
+        "label": "Hairy sandmat — glabrous capsule with prolonged lobes",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-villifera/images/03-capsule-pointed-lobes.jpg",
+        "source_page": "https://www.inaturalist.org/observations/299725474",
+        "creator": "Nathan Taylor",
+        "license": "CC BY-NC",
+        "public_reuse": "no",
+        "reason": "Preserved for review, not promoted into public genus panel"
+      },
+      {
+        "scientific_name": "Euphorbia serpens",
+        "label": "Matted sandmat — root starts at the node",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-serpens/images/05-node-rooting.jpg",
+        "source_page": "https://www.inaturalist.org/guide_taxa/354763",
+        "creator": "Nathan Taylor",
+        "license": "CC BY-NC-SA",
+        "public_reuse": "no",
+        "reason": "Preserved for review, not promoted into public genus panel"
+      },
+      {
+        "scientific_name": "Euphorbia nutans",
+        "label": "Nodding spurge — upright + large asymmetric leaves",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-nutans/images/05-mature-seed-wrinkles.jpg",
+        "source_page": "https://www.inaturalist.org/observations/3470010",
+        "creator": "Dale Lee Denham-Logsdon",
+        "license": "CC BY-NC",
+        "public_reuse": "no",
+        "reason": "Preserved for review, not promoted into public genus panel"
+      },
+      {
+        "scientific_name": "Euphorbia fendleri",
+        "label": "Fendler's sandmat — low woody perennial",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-fendleri/images/04-glabrous-capsule-leaves.jpg",
+        "source_page": "https://www.inaturalist.org/observations/118457114",
+        "creator": "Eric Keith",
+        "license": "CC BY-NC",
+        "public_reuse": "no",
+        "reason": "Preserved for review, not promoted into public genus panel"
+      },
+      {
+        "scientific_name": "Euphorbia angusta",
+        "label": "Narrow-leaf spurge — erect + strigose + linear leaves",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-angusta/images/04-strigose-capsule.jpg",
+        "source_page": "https://www.inaturalist.org/observations/85069092",
+        "creator": "Becky Brenner",
+        "license": "CC BY-NC",
+        "public_reuse": "no",
+        "reason": "Preserved for review, not promoted into public genus panel"
+      },
+      {
+        "scientific_name": "Euphorbia angusta",
+        "label": "Narrow-leaf spurge — thickened basal rootstock",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-angusta/images/03-travis-voucher.jpg",
+        "source_page": "https://w3.biosci.utexas.edu/prc/specimens/Euphorbiaceae.html",
+        "creator": "UT Plant Resources Center / University of Texas Herbarium",
+        "license": "reuse rights unverified",
+        "public_reuse": "review",
+        "reason": "Preserved for review, not promoted into public genus panel"
+      },
+      {
+        "scientific_name": "Euphorbia fendleri",
+        "label": "Fendler's sandmat — crown and taproot context",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-fendleri/images/03-travis-voucher.jpg",
+        "source_page": "https://w3.biosci.utexas.edu/prc/specimens/Euphorbiaceae.html",
+        "creator": "UT Plant Resources Center / University of Texas Herbarium",
+        "license": "reuse rights unverified",
+        "public_reuse": "review",
+        "reason": "Preserved for review, not promoted into public genus panel"
+      },
+      {
+        "scientific_name": "Euphorbia fendleri",
+        "label": "Fendler's sandmat — narrow paired stipules",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-fendleri/images/06-stipule-macro.jpg",
+        "source_page": "https://w3.biosci.utexas.edu/prc/CHAMA-D/html/CHFE3.html",
+        "creator": "UT Austin / Bob Harms",
+        "license": "reuse rights unverified",
+        "public_reuse": "review",
+        "reason": "Preserved for review, not promoted into public genus panel"
+      },
+      {
+        "scientific_name": "Euphorbia fendleri",
+        "label": "Fendler's sandmat — calibrated seed faces",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-fendleri/images/07-seeds-calibrated.jpg",
+        "source_page": "https://www.inaturalist.org/observations/2727778",
+        "creator": "Nathan Taylor",
+        "license": "CC BY-NC",
+        "public_reuse": "no",
+        "reason": "Preserved for review, not promoted into public genus panel"
+      },
+      {
+        "scientific_name": "Euphorbia angusta",
+        "label": "Narrow-leaf spurge — leaf hairs at macro scale",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-angusta/images/06-leaf-hairs-macro.jpg",
+        "source_page": "https://www.inaturalist.org/observations/10884560",
+        "creator": "Nathan Taylor",
+        "license": "CC BY-NC",
+        "public_reuse": "no",
+        "reason": "Preserved for review, not promoted into public genus panel"
+      },
+      {
+        "scientific_name": "Euphorbia angusta",
+        "label": "Narrow-leaf spurge — hairs around a stem node",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-angusta/images/07-node-hairs-macro.jpg",
+        "source_page": "https://www.inaturalist.org/observations/10884560",
+        "creator": "Nathan Taylor",
+        "license": "CC BY-NC",
+        "public_reuse": "no",
+        "reason": "Preserved for review, not promoted into public genus panel"
+      }
+    ]
+  },
+  "look_here_first": "FIND A CYATHIUM AND A THREE-LOBED CAPSULE before choosing a species. A Euphorbia cyathium is a cup holding tiny reduced male flowers and ONE stalked female flower; it often resembles a single normal flower, but is an INFLORESCENCE. Next sort the plant into four field groups: WHITE showy bracts → bicolor / marginata; upright poinsettia-like bracts → cyathophora / heterophylla; upright green toothed foliage → dentata / davidii; small low opposite-leaved sandmat → examine rooting nodes, stipules, capsule hairs and seed surface. Latex alone or red leaf spots do not prove species.",
+  "comparison_cards": [
+    {
+      "id": "euphorbia-white-bracted-pair",
+      "title": "Snow-on-the-prairie vs snow-on-the-mountain",
+      "taxon_ids": [
+        "euphorbia-bicolor",
+        "euphorbia-marginata"
+      ],
+      "look_here_first": "FIELD KEY WITH TWO INDEPENDENT CHARACTERS: E. bicolor has long/narrow (linear-narrowly oblanceolate) white-edged bracts PLUS noticeable SOFT HAIRS on the TOP leaf/bract face. E. marginata generally has broader elliptic-obovate bracts PLUS UPPER surfaces smooth/glabrous, even when its STEM and lower midrib are hairy. Bract whiteness or 'patchy versus frosty' is not diagnostic.",
+      "field_matrix": [
+        {
+          "character": "Largest MATURE showy upper bracts",
+          "bicolor": "Long narrow strap-like, linear to narrowly oblanceolate",
+          "marginata": "Relatively broad, elliptic to obovate; smaller secondary bracts can be narrow"
+        },
+        {
+          "character": "UPPER (adaxial) blade surface",
+          "bicolor": "Conspicuously hairy/pilose",
+          "marginata": "Mostly smooth/glabrous"
+        },
+        {
+          "character": "STEM pubescence",
+          "bicolor": "May be hairy",
+          "marginata": "May also be hairy; check upper leaf FACE, not STEM"
+        },
+        {
+          "character": "White abundance/pattern",
+          "bicolor": "Can be just as showy",
+          "marginata": "Can be just as showy",
+          "rule": "Never diagnose patchiness versus uniform white"
+        },
+        {
+          "character": "Flower-like structures",
+          "bicolor": "Tiny cyathia with white appendages, hairy 3-lobed fruit",
+          "marginata": "Also tiny cyathia, often hairy 3-lobed fruit",
+          "rule": "Shared genus/family recognition, not good splitting characters"
+        }
+      ],
+      "caution": "2026-10-21 image QA: Glass Root Garden bicolor flowering overview had two misleading pointers into overlapping bracts and was demoted to UNANNOTATED recognition. The separate close-up now shows one clearly targeted narrow bract and central cyathia. No current bicolor image proves hairs on the UPPER/adaxial leaf or bract face, and no clean capsule macro is installed. Width of white edging alone cannot separate bicolor from marginata.",
+      "photo_pair_targets": [
+        {
+          "role": "Matched mature bract outline pair",
+          "status": "Bicolor close-up has two precise bract/cyathium pointers; wide Glass Root Garden photos now unannotated. Marginata comparison still present, but same-scale bicolor-vs-marginata bract pair is still desirable."
+        },
+        {
+          "role": "Matched leaf UPPER-FACE pubescence at 10×",
+          "status": "CRITICAL PHOTO GAP UNRESOLVED. None of the current bicolor or marginata comparisons confirms matched adaxial-surface trichomes; do not mistake stem/marginal hairs for upper-face hairs."
+        },
+        {
+          "role": "Gland appendages versus three-lobed hairy capsule",
+          "status": "Central group of tiny cyathia shown in existing bicolor closer photo; gland-fringe and mature three-lobed capsule-hair macro remain unresolved and should not be labelled in broad shots."
+        }
+      ],
+      "reviewed_at": "2026-10-20",
+      "photo_annotation_review": {
+        "date": "2026-10-21",
+        "bicolor_diagnostic_annotated_photos": 1,
+        "bicolor_diagnostic_arrows": 2,
+        "bicolor_unannotated_recognition_gallery_photos": 2,
+        "priority": "Matched 10x+ upper/adaxial mature bract or leaf face of bicolor vs marginata, then separate true mature 3-lobed capsule"
+      }
+    },
+    {
+      "id": "euphorbia-poinsettia-pair",
+      "title": "Wild poinsettia vs painted spurge",
+      "taxon_ids": [
+        "euphorbia-cyathophora",
+        "euphorbia-heterophylla"
+      ],
+      "look_here_first": "PHOTO-PROVEN MACRO KEY: Wild poinsettia E. CYATHOPHORA has an OBLONG flat yellow-green nectar-gland opening WITHOUT a raised ring (real SAplants photo, two arrows), while E. HETEROPHYLLA has a ROUND opening with a definite raised ANNULAR RIM (different real SAplants photo). Bracts are usually red/pink/white BASALLY in cyathophora but mostly green/pale in heterophylla, with overlap possible. NEVER use leaf lobing or big three-lobed fruit alone; a developing capsule is not the gland. Both species have real gland macro photos and a live field-ready comparison. Heterophylla's older Psumuseum pink-bracted photograph is still TAXON-ID HOLD and excluded from public gallery.",
+      "field_matrix": [
+        {
+          "character": "Cyathial gland opening",
+          "cyathophora": "Oblong opening, no annular rim",
+          "heterophylla": "Round opening with distinct annular rim"
+        },
+        {
+          "character": "Gland support",
+          "cyathophora": "Sessile or slightly stalked",
+          "heterophylla": "Distinctly stalked"
+        },
+        {
+          "character": "Upper bract base (secondary)",
+          "cyathophora": "Often pink/red/white",
+          "heterophylla": "Usually green or pale, but color varies"
+        }
+      ],
+      "caution": "The new SAplants licensed photographs actually show BOTH tiny gland-aperture differences and separate fruits. E. cyathophora photo was originally named historical var. cyathophora, which Kew POWO treats as its synonym. E. heterophylla Psumuseum pink-bracted photo remains on independent TAXON-ID HOLD despite its Commons label; it must not be used as a confirmed heterophylla teaching image.",
+      "photo_pair_targets": [
+        {
+          "role": "One cyathial gland per species photographed side-on under a 10–20× loupe",
+          "status": "2026-10-21 BOTH macro images physically opened, source/license checked and safe marker positions inspected: E. cyathophora oblong rimless; E. heterophylla circular raised-annular; real separate green three-lobed fruits. 4 cyathophora photo panels/10 arrows, 3 public teaching heterophylla photo panels/7 arrows."
+        },
+        {
+          "role": "Upper bract habit",
+          "status": "VERIFIED COMPLETE: Reusable face and macro bract photos available; red bract species variation explained."
+        }
+      ],
+      "reviewed_at": "2026-10-21",
+      "status": "BOTH_FIELD_READY_FROM_MATCHED_REAL_GLAND_PHOTOS",
+      "closeout_2026_10_21": {
+        "status": "BOTH_FIELD_READY_WITH_OPTIONAL_MATURE_SEED_PHOTOS",
+        "cyathophora": {
+          "stored_photos": 4,
+          "public_diagnostic_photos": 4,
+          "verified_arrows": 10,
+          "gland": "oblong rimless opening photographed",
+          "county": "Previously approved Hays-target-zone PASS unchanged"
+        },
+        "heterophylla": {
+          "stored_photos": 4,
+          "public_diagnostic_photos": 3,
+          "held_source_photos": 1,
+          "verified_arrows": 7,
+          "gland": "round annular raised rim photographed",
+          "county": "Existing range/comparison status unchanged"
+        },
+        "reference": "Flora of North America Euphorbia sect. Poinsettia key / species treatments",
+        "caveats": [
+          "Mature detached caruncle/no-caruncle seed macro still desired for each taxon",
+          "Pink-bracted Psumuseum heterophylla file withheld: source identity not independently corroborated",
+          "Actual high-res macro photos sourced outside Hays; no provenance implied"
+        ]
+      }
+    },
+    {
+      "id": "euphorbia-dentata-davidii-pair",
+      "title": "Toothed spurge vs David's spurge — SEED FIRST",
+      "taxon_ids": [
+        "euphorbia-dentata",
+        "euphorbia-davidii"
+      ],
+      "look_here_first": "Both can have tooth-edged leaves and three-lobed fruits. Seed and hairs are the separator: dentata rounded small, evenly pebbled seed + flexible weak underside hairs; davidii larger angular, irregularly warted seed + shorter stiff pustular-based underside hairs.",
+      "field_matrix": [
+        {
+          "character": "Mature seed",
+          "dentata": "Rounded, smaller, evenly minute-tuberculate",
+          "davidii": "Larger, angular, uneven broad tubercles"
+        },
+        {
+          "character": "Leaf lower-surface hairs",
+          "dentata": "Longer, weak and filiform",
+          "davidii": "Stiffer, strongly tapered and frequently pustular at base"
+        },
+        {
+          "character": "Capsule width",
+          "dentata": "~3.5–4 mm",
+          "davidii": "~4–4.8 mm; need a scale"
+        }
+      ],
+      "caution": "Previously archived copyrighted MissouriPlants microscope images cannot be treated as a public-reuse grant. The public-facing pictures of E. dentata and E. davidii show green leaves and developing fruit, but NOT the mature seed sculpture or underside leaf-hair bases that distinguish these species. The E. davidii target-county native-range exception stays unresolved.",
+      "photo_pair_targets": [
+        {
+          "role": "Same mm-scale mature seed surfaces",
+          "status": "CRITICAL public-safe matched seed photo missing"
+        },
+        {
+          "role": "Same mm-scale underside leaf hair bases",
+          "status": "CRITICAL public-safe macro missing"
+        }
+      ],
+      "references": [
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=318100",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242321404",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416542"
+      ]
+    },
+    {
+      "id": "euphorbia-sandmat-group",
+      "title": "Sandmat Euphorbia: FOUR-WAY capsule hairs, stipules and seed key",
+      "taxon_ids": [
+        "euphorbia-maculata",
+        "euphorbia-prostrata",
+        "euphorbia-serpens",
+        "euphorbia-villifera"
+      ],
+      "look_here_first": "FIRST SORT HABIT: villifera usually ascends upright (rarely prostrate), the other three typically creep. Then examine the actual 3-lobed capsule: MACULATA has fine hairs spread across capsule FACES; PROSTRATA shows hairs along raised KEELS; SERPENS is GLABROUS; VILLIFERA is also GLABROUS, so do NOT confuse villifera with serpens on capsule hairs alone. Villifera needs separate FILIFORM stipules + PAPILLATE leaf blades and often elongated empty-tipped capsule cocci (microscopy/dissection required). Seed confirmation: MACULATA weak transverse ribs; PROSTRATA strong transverse ridges; SERPENS smooth; VILLIFERA smooth or faintly rugose/weakly cross-ridged. Photo evidence for villifera stipules, papillae, seed and coccus internal tip is still incomplete.",
+      "field_matrix": [
+        {
+          "character": "Typical habit",
+          "villifera": "UPRIGHT/ascending (rarely prostrate)",
+          "maculata": "Low mat",
+          "prostrata": "Flat mat",
+          "serpens": "Flat mat, often rooting at nodes"
+        },
+        {
+          "character": "3-lobed capsule surface",
+          "villifera": "GLABROUS; elongated cocci may have empty distal tip (not proven by current photo)",
+          "maculata": "Fine appressed HAIRS across faces",
+          "prostrata": "Hairs concentrated along raised KEELS",
+          "serpens": "GLABROUS"
+        },
+        {
+          "character": "Stipules",
+          "villifera": "SEPARATE fine threadlike/filiform 0.3–0.7 mm; true closeup still needed",
+          "maculata": "Narrow pointed",
+          "prostrata": "Upper side separate/lower fused",
+          "serpens": "Broad FUSED triangular scales"
+        },
+        {
+          "character": "Leaf/stem surface",
+          "villifera": "PAPILLATE under strong magnification; hairy usually, glabrous sometimes",
+          "maculata": "Fine appressed hairs, red spot often but NOT always",
+          "prostrata": "Curled hairs on stems",
+          "serpens": "Generally glabrous"
+        },
+        {
+          "character": "True mature seed",
+          "villifera": "Smooth, faintly wrinkled or LOW transverse ridges (source photo lacking)",
+          "maculata": "LOW weak transverse ridges",
+          "prostrata": "STRONG transverse ridges",
+          "serpens": "Smooth/no strong ridges"
+        },
+        {
+          "character": "Node rooting",
+          "villifera": "Not usually a creeping rooting mat",
+          "maculata": "Generally absent",
+          "prostrata": "Generally absent",
+          "serpens": "Often rooted at soil-contact nodes"
+        },
+        {
+          "character": "Photo confidence",
+          "villifera": "7 credited site-eligible gallery photos: 2 annotated with 6 checked arrows for hairs, node, capsule exterior and styles; new 4 NC-only photos provide additional unannotated context. FILIFORM stipules, papillate epidermal cells, empty inner coccus tips, and true mature seed still PHOTO-UNPROVEN.",
+          "maculata": "Fruit-face hair and shallow seed ribs verified in macro photos",
+          "prostrata": "Keel hairs and sharply ribbed seed verified",
+          "serpens": "Broad fused stipule, glabrous capsule and smooth seed verified"
+        }
+      ],
+      "caution": "Hairy leaves alone do NOT prove E. villifera (some individuals are glabrous), and a smooth capsule alone DOES NOT separate it from E. serpens. Some pale fibers at nodes are leaf hairs, not automatically a verified filiform stipule. The actual internal empty capsule lobe tip needs dissection; 7 public-eligible villifera gallery photos exist (3 CC BY, 4 NC-only), but ONLY 2 have verified arrows showing supportive exterior structures, NOT decisive microscopic features. Other three sandmats have stronger complete capsule/seed macro sets. Seed-photo bars across species differ, so do not use onscreen size for measurements. County nativity stays pending/provisional for ALL four species.",
+      "photo_pair_targets": [
+        {
+          "role": "Three-species capsule hairs + villifera outer fruit",
+          "status": "Maculata/prostrata/serpens real diagnostic photos PASS. Villifera glabrous external fruit visible in photo, but internal elongated empty lobe tip NOT documented."
+        },
+        {
+          "role": "Four mature seeds with scale",
+          "status": "Maculata/prostrata/serpens source-photo macros present; villifera authentic mature seed structure missing, mixed palm material unassigned and not featured."
+        },
+        {
+          "role": "Four stipule configurations",
+          "status": "Serpens broad fused scales, maculata and prostrata small stipules photo-supported; villifera true distinct filiform stipule NOT resolved from hairy node photo."
+        },
+        {
+          "role": "Papillate villifera leaf vs nonpapillate counterparts",
+          "status": "MICROSCOPIC FOTO GAP; not arrowed"
+        },
+        {
+          "role": "Whole habit and node-rooting four-way",
+          "status": "Living whole-plant villifera habit photo still needed even after release of 4 additional noncommercial CC BY-NC close-ups. Confirm serpens rooting separately."
+        }
+      ],
+      "references": [
+        "https://w3.biosci.utexas.edu/prc/K12/pages/Euphorbia%20prostrata.html",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242321553",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=318097"
+      ],
+      "reviewed_at": "2026-10-20",
+      "taxonomy_guardrail": "Villifera remains PROJECT PROVISIONAL despite Texas native FNA and Hays legacy observation; not counted in native metrics. Maculata NOT_REVIEWED_COUNTY and prostrata/serpens PROVISIONAL all unchanged.",
+      "public_photo_status_2026_10_20": {
+        "photos_eligible": 7,
+        "license_breakdown": {
+          "CC BY": 3,
+          "CC BY-NC (strictly noncommercial only)": 4
+        },
+        "rights_unverified_excluded": 2,
+        "verified_annotated_sources": 2,
+        "verified_arrow_count": 6,
+        "note": "The extra four photos help with external structure comparisons, but cannot close filiform-stipule, papilla, internal-coccus-tip, mature-seed or whole-plant-habit photo requirements."
+      },
+      "threeway_closeout_2026_10_21": {
+        "status": "MACULATA_PROSTRATA_SERPENS_ALL_FIELD_READY_FROM_VERIFIED_EXISTING_GALLERIES",
+        "photo_panels": {
+          "maculata": {
+            "public_annotated": 4,
+            "arrows": 8,
+            "show": "fine short hairs all across capsule faces; three or four LOW transverse seed ridges"
+          },
+          "prostrata": {
+            "public_annotated": 4,
+            "arrows": 8,
+            "show": "hairs along capsule keel; SHARPER and higher transverse seed ridges"
+          },
+          "serpens": {
+            "public_annotated": 4,
+            "arrows": 8,
+            "show": "broad fused triangular stipule, hairless capsule, smooth seed; no true public root-at-node photo"
+          }
+        },
+        "remaining_photo_caveats": [
+          "Serpens root-at-node and whole mat are NOT shown on public site.",
+          "Prostrata asymmetric upper versus lower stipule fusion requires a same-node both-sides macro.",
+          "Maculata county range not audited, and local matched-scale seed comparison optional.",
+          "Villifera microscopy still incomplete; the four-way comparison is NOT closed as a whole."
+        ],
+        "botanical_basis": "FNA Euphorbia sect. Anisophyllum and species treatments; exact existing source JPEGs and eight arrows per field-ready taxon reviewed in Oct 2026."
+      }
+    },
+    {
+      "id": "euphorbia-nutans-villifera-ascending-pair",
+      "title": "Erect or ascending spurges: E. nutans vs E. villifera",
+      "taxon_ids": [
+        "euphorbia-nutans",
+        "euphorbia-villifera"
+      ],
+      "look_here_first": "BOTH nutans and villifera can ascend and both can have SMOOTH 3-lobed capsules. Begin with leaves: nutans usually LONGER (8–40 mm), oblong/lanceolate, fine teeth and STRONGLY UNEQUAL bases; villifera usually SMALLER (3–12 mm), more ovate, sometimes fuzzy/papillate. To identify borderline specimens, inspect true stipules at 10–30×: FNA nutans has finely fringed/divided scale-like stipules, villifera has separate fine threadlike stipules. CURRENT photographs for neither fully prove that comparison. Nutans true dark seed fine irregular wrinkles are photographed, villifera mature seed macro remains lacking. Leaf spot, hairiness, upright habit and glabrous fruit alone are insufficient.",
+      "field_matrix": [
+        {
+          "character": "Typical habit",
+          "nutans": "Annual ascending/arching 20–80 cm",
+          "villifera": "Annual or perennial, erect/ascending 10–30 cm; exceptions overlap"
+        },
+        {
+          "character": "Leaf blade",
+          "nutans": "oblong to oblong-lanceolate, 8–40 × 3–12 mm, strongly unequal base",
+          "villifera": "ovate, 3–12 × 2–10 mm, asymmetric but generally smaller"
+        },
+        {
+          "character": "Stipules, FNA",
+          "nutans": "small fringed/toothed/divided scales 1–1.5 mm, sometimes basally fused one side",
+          "villifera": "separate FILIFORM threads 0.3–0.7 mm; requires loupe and a proper macro"
+        },
+        {
+          "character": "Stem/leaf pubescence",
+          "nutans": "sparse-moderate hairs at nodes/tips; sometimes banded; sometimes smooth leaves",
+          "villifera": "usually long-villous and papillate; can be glabrous"
+        },
+        {
+          "character": "Capsules",
+          "nutans": "glabrous, ovoid, no documented hollow elongated cocci",
+          "villifera": "glabrous, cocci often elongated with internally empty distal portions"
+        },
+        {
+          "character": "Seeds",
+          "nutans": "dark brown, finely irregularly wrinkled, sometimes faint rounded shallow cross-ridges",
+          "villifera": "smooth to faintly rugose or inconspicuous transverse ridges; exact comparative macro still missing"
+        }
+      ],
+      "photo_pair_targets": [
+        {
+          "role": "Nutans 4 verified arrow panels",
+          "status": "Four individually site-eligible photographs with NINE 2026-10-21 source-pixel checked arrows establish leaf teeth, tiny cyathia, SMOOTH three-lobed capsules, opposite node and true dark wrinkled seeds. The existing leaf image is a flowering shoot, not whole plant; scale/fringe of actual stipules still unphotographed."
+        },
+        {
+          "role": "Villifera 2 verified arrow panels",
+          "status": "long leaf hairs, developing fruit, opposite node and styles; true separate filiform stipules and inner hollow coccus tip NOT captured"
+        },
+        {
+          "role": "Two species stipules at both sides of node",
+          "status": "HIGH-PRIORITY GENUINE PHOTO GAP: don't invent exact 1–1.5mm fringed nutans vs 0.3–0.7mm filiform villifera structures."
+        },
+        {
+          "role": "Two calibrated whole-plant architecture photos",
+          "status": "Both missing a matched 5–30 cm/20–80 cm habit photo with 1 cm or larger scale"
+        }
+      ],
+      "caution": "FNA text traits are defensible, but existing real photograph pointers only prove clearly visible exterior anatomy. Not all pale material at nutans node is a stipule. Neither villifera's inner empty fruit tip nor nutans stipule-fusion is proven by current images. Do not decide on a red leaf blotch, hairiness, or capsule smoothness alone. Preserve native-zone review as unfinished.",
+      "references": [
+        "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242427660",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242321553"
+      ],
+      "reviewed_at": "2026-10-21",
+      "status": "NUTANS_FIELD_READY_VILLIFERA_STILL_HAS_CRITICAL_MICRO_GAPS",
+      "closeout_2026_10_21": {
+        "nutans": "field_ready_4_public_photo_panels_9_arrows",
+        "villifera": "not_closeout; filiform stipule/papillate cells/fruit interior/seed photographs still incomplete",
+        "teaching_key": "Leaf base and margin first, true stipule under lens for tie-break, never capsule smoothness alone"
+      }
+    },
+    {
+      "id": "euphorbia-hypericifolia-nutans-hyssopifolia",
+      "title": "Three upright look-alikes: hypericifolia vs nutans vs hyssopifolia",
+      "taxon_ids": [
+        "euphorbia-hypericifolia",
+        "euphorbia-nutans"
+      ],
+      "reference_taxa_not_yet_in_learner": [
+        "Euphorbia hyssopifolia"
+      ],
+      "look_here_first": "FIRST SORT THE INFLORESCENCE. HYPERICIFOLIA = dense nearly round CAPITATE GLOMERULES of several cyathia with short/reduced bracts, smooth glabrous shoots, and larger reddish TRIANGULAR node scales. NUTANS = mostly solitary cyathia or small LEAFY terminal clusters, larger markedly unequal leaves, often short curled node hairs, and photographed irregularly wrinkled true seeds. HYSSOPIFOLIA = leafy smaller cymes (sometimes congested), often hairy lower stems, smaller shorter lacerate stipule scales; it is still a text-only reference in this learner. For difficult plants measure true stipules and identify mature fruit/seed; the images DO NOT calibrate stipule size/fusion, and smooth fruit alone doesn't distinguish these.",
+      "field_matrix": [
+        {
+          "character": "Cyathia arrangement",
+          "hypericifolia": "dense globose glomerules on short axes with reduced bracts",
+          "nutans": "solitary or small leafy terminal cymes",
+          "hyssopifolia": "solitary or small leafy cymes, sometimes congested"
+        },
+        {
+          "character": "Stems",
+          "hypericifolia": "glabrous throughout",
+          "nutans": "some short incurved/crinkled hairs usually present",
+          "hyssopifolia": "often pilose below, potentially glabrous at tips"
+        },
+        {
+          "character": "Stipules",
+          "hypericifolia": "fused deltoid scales, 1.5–2.2 mm",
+          "nutans": "irregularly toothed/fringed scales; variable basal fusion",
+          "hyssopifolia": "fused, irregularly lacerate scales 0.5–1 mm"
+        },
+        {
+          "character": "Seed sculpture",
+          "hypericifolia": "shallow irregular depressions/low smooth ridges",
+          "nutans": "fine irregular wrinkles, occasionally weak cross-ridges",
+          "hyssopifolia": "2–3 usually prominent transverse ridges or coarse pits"
+        },
+        {
+          "character": "Capsule",
+          "hypericifolia": "glabrous depressed-globose",
+          "nutans": "glabrous ovoid",
+          "hyssopifolia": "glabrous depressed-ovoid"
+        }
+      ],
+      "photo_pair_targets": [
+        {
+          "role": "Dense axillary/terminal hypericifolia heads",
+          "status": "SOURCE QA COMPLETE: original saved M108t Commons photo 03 visually inspected with THREE checked pointers to densely clustered green cyathia and opposite leaves. No seed claim."
+        },
+        {
+          "role": "Hypericifolia nodal scales",
+          "status": "SOURCE QA COMPLETE: same species Commons macro photos 04/05 visually inspected with FIVE checked node pointers across images. Red triangular protrusions visible; not conclusive fusion length or millimeter size."
+        },
+        {
+          "role": "Nutans small leafy cyathia groups and seed",
+          "status": "NUTANS FIELD READY: four cleared panels, nine checked pointers including real irregularly wrinkled dark true seeds and smooth three-lobed capsules; full rooted habit and paired-node stipule microscopy remain gap."
+        },
+        {
+          "role": "Hyssopifolia reference species",
+          "status": "Text diagnostic reference only: NOT currently a canonical photographed learner species. No invented hyssopifolia photo or card; a confirmed reference photo is a follow-up."
+        },
+        {
+          "role": "Calibrated hypericifolia mature seeds",
+          "status": "MISSING; seed surface FNA morphological description only. Not to be deduced from fruiting heads."
+        }
+      ],
+      "caution": "Euphorbia hypericifolia, E. nutans and E. hyssopifolia have historically been mixed up. In nursery contexts, do not substitute the horticultural 'Diamond Frost' cultivar as evidence for wild-type E. hypericifolia. Existing source photographs support head shape and location of reddish nodal scales, not a measured stipule comparison or true mature seed key. State nativity remains unchanged/unreviewed at the project's county scale.",
+      "reviewed_at": "2026-10-21",
+      "references": [
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242321438",
+        "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242321439",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242427660",
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:101671-2"
+      ],
+      "status": "HYPERICIFOLIA_NUTANS_FIELD_READY; HYSSOPIFOLIA_PHOTO_REFERENCE_UNINSTALLED",
+      "closeout_2026_10_21": {
+        "hypericifolia": {
+          "status": "FIELD_READY_WITH_FRUIT_SEED_AND_STIPULE_SCALE_PHOTO_GAPS",
+          "licensed_photos": 5,
+          "verified_arrows": 13
+        },
+        "nutans": {
+          "status": "FIELD_READY_WITH_STIPULE_AND_WHOLE_HABIT_PHOTO_GAPS",
+          "public_photos": 4,
+          "arrows": 9
+        },
+        "hyssopifolia": "not yet installed; text reference only",
+        "red_flags": [
+          "No 'Diamond Frost' cultivar substitution",
+          "Do not arrow unproven stipule fusion or seed pits",
+          "No Hays BONAP/NAPA county nativity promotion"
+        ]
+      }
+    },
+    {
+      "id": "euphorbia-ophthalmica-hirta-terminal-glomerules",
+      "title": "Small round Euphorbia flower heads: ophthalmica vs hirta vs hypericifolia",
+      "taxon_ids": [
+        "euphorbia-ophthalmica",
+        "euphorbia-hypericifolia",
+        "euphorbia-nutans"
+      ],
+      "reference_taxa_not_yet_in_learner": [
+        "Euphorbia hirta"
+      ],
+      "look_here_first": "TRACE EACH HEAD TO ITS STEM: OPHTHALMICA has dense heads at main and SHORT LEAFY side-branch tips, plus hairy (usually low) stems and small toothed opposite leaves. HIRTA ALSO has terminal heads but commonly additionally bears AXILLARY heads, sometimes on LONG LEAFLESS stalks; observing one terminal head never rules out hirta. HYPERICIFOLIA makes similarly tight heads but tends to have hairless stems and smooth fruit; NUTANS usually has leafier, less crowded cyathia and larger leaves. True ophthalmica capsule hairs, divided stipules and low-ridged tiny seeds still need microscopic photo documentation. No county-level native status inferred.",
+      "field_matrix": [
+        {
+          "character": "Habit",
+          "ophthalmica": "Usually low prostrate stems, 6–22 cm",
+          "hirta": "Often taller, ascending or erect",
+          "hypericifolia": "Ascending, hairless stems",
+          "nutans": "Ascending or arching, much larger opposite leaves"
+        },
+        {
+          "character": "Cyathium heads",
+          "ophthalmica": "Dense TERMINAL heads on main or short leafy side shoots",
+          "hirta": "Dense heads terminal AND AXILLARY, sometimes on leafless stalks",
+          "hypericifolia": "Dense terminal and axillary heads; smooth stems",
+          "nutans": "Cyathia solitary or small loose leafy cymes"
+        },
+        {
+          "character": "Stem pubescence",
+          "ophthalmica": "Fine appressed and longer spreading hairs together",
+          "hirta": "Hairy, often conspicuously",
+          "hypericifolia": "Generally glabrous",
+          "nutans": "Often short incurved hairs at nodes/distal stems"
+        },
+        {
+          "character": "Capsule",
+          "ophthalmica": "Finely APPRESSED HAIRY",
+          "hirta": "Finely APPRESSED HAIRY",
+          "hypericifolia": "Smooth GLABROUS",
+          "nutans": "Smooth GLABROUS"
+        },
+        {
+          "character": "Leaf blades",
+          "ophthalmica": "4–13 × 3–7 mm; asymmetric and coarse tiny teeth",
+          "hirta": "Usually larger, but overlaps",
+          "hypericifolia": "10–35 mm, more glabrous",
+          "nutans": "8–40 mm, strongly unequal bases"
+        },
+        {
+          "character": "Stipules",
+          "ophthalmica": "Distinct narrow threadlike, 0.9–1.5 mm, may split",
+          "hirta": "Distinct or barely connate narrow scales; close-check",
+          "hypericifolia": "Fused broadly triangular scales 1.5–2.2 mm",
+          "nutans": "Small divided/fringed scales"
+        }
+      ],
+      "photo_pair_targets": [
+        {
+          "role": "Ophthalmica terminal-only cluster field context",
+          "status": "NEWLY CHECKED: 7 licensed source files, six anatomy-arrowed with 17 pointers; two reviewed added terminal head and hairy stem/leaf photos. Mature separate capsule, seed and stipule remain unphotographed at needed magnification."
+        },
+        {
+          "role": "Differentiate hairs",
+          "status": "Ophthalmica lower CC0 source visibly has leaf/stem hairs; mature capsule microsurface NOT verified. Hypericifolia stem/glabrous fruit and E. nutans fruit are in separate canonical species photos."
+        },
+        {
+          "role": "Hirta axillary + terminal heads on actual taxon",
+          "status": "MISSING verified E. hirta source photo; morphology is FNA-text-backed reference only, not a fabricated card."
+        },
+        {
+          "role": "Ophthalmica mature 3-lobed capsule hair close-up",
+          "status": "MISSING; need 10–30× verified capsule micro photo. Hairy leaf is NOT capsule-hair proof."
+        },
+        {
+          "role": "Seed and stipules",
+          "status": "MISSING measured ophthalmica stipules and authentic 0.7–0.9 mm mature 4-angled seed photograph; no verified arrow yet."
+        }
+      ],
+      "caution": "Heads at terminal positions alone do not exclude E. hirta (it also has terminal heads); examine whether AXILLARY heads are present. The user-facing photographs here come from nonlocal specimens, not proven Hays observations; native-by-county review is deferred and NOT promoted. E. hirta is not yet represented by a separate canonical photographed learner card. Capsular hairs and small divided stipules have a Flora of North America TEXT description but NO high-quality annotated image here.",
+      "references": [
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242437635",
+        "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200012564",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=318097"
+      ],
+      "reviewed_at": "2026-10-21",
+      "status": "OPHTHALMICA_FIELD_READY_EXTERIOR_FEATURES_17_ARROWS_WITH_THREE_MICRO_PHOTO_HOLDS",
+      "photo_review_2026_10_21": {
+        "new_licensed_source_photos": 2,
+        "total_canonical_photos": 7,
+        "verified_anatomical_arrow_targets": 17,
+        "limitations": [
+          "Two new macros don't independently resolve mature capsule pubescence",
+          "No real detached seed macro",
+          "No measured divided stipule photograph",
+          "E. hirta is text reference not pictured; no source swap"
+        ]
+      }
+    },
+    {
+      "id": "euphorbia-golondrina-simulans-gland-appendages",
+      "title": "Rio Grande sandmats: golondrina vs simulans (GLAND SHAPE FIRST)",
+      "taxon_ids": [
+        "euphorbia-golondrina",
+        "euphorbia-simulans",
+        "euphorbia-serpens",
+        "euphorbia-prostrata"
+      ],
+      "look_here_first": "GOLONDRINA vs SIMULANS: first compare leaf shape—golondrina longer narrower 5–11.5mm, simulans rounded 1–3.2mm. The decisive cyathial comparison is SHOWABLE NOW: golondrina has cup-shaped ROUND purple glands with WHITE crescent appendages; simulans has ELLIPTIC red-purple glands WITHOUT white appendages. Real photographed simulans SMOOTH three-lobed capsule is available (shared trait, NOT separating the pair). Hardest simulans vs THERIACA require true seeds, now both photographed by Nathan Taylor with half-mm ruler: simulans larger weakly WRINKLED/pitted 5–7 faint transverse ridges; theriaca smaller with about THREE VERY DEEP ridges. Never use leaf photos alone to choose simulans vs theriaca; nor mistake white tips of stamens for gland appendages.",
+      "field_matrix": [
+        {
+          "character": "Typical architecture",
+          "golondrina": "Prostrate hairless 5–35 cm stems; no general node-rooting trait noted",
+          "simulans": "Usually prostrate glabrous plant, overlapping habit",
+          "serpens": "Matted prostrate growth often roots at nodes",
+          "glyptosperma": "Loosely matted prostrate glabrous 5–40 cm"
+        },
+        {
+          "character": "Opposite leaf margins",
+          "golondrina": "ENTIRE; narrow oblong 5–11.5 × 1–4 mm",
+          "simulans": "Entire; rounded/orbiculate to oval leaves",
+          "serpens": "Entire; generally shorter and broader leaves",
+          "glyptosperma": "Minutely sparse teeth, especially near tip/asymmetric side"
+        },
+        {
+          "character": "Nodal stipules",
+          "golondrina": "DISTINCT awl-shaped 0.5–0.8 mm",
+          "simulans": "Distinct subulate or scalelike; photos needed",
+          "serpens": "BROAD, fused triangular scales",
+          "glyptosperma": "Usually distinct, linear-subulate, irregularly fringed/lobed 0.4–2 mm"
+        },
+        {
+          "character": "Cyathium glands/appendages",
+          "golondrina": "4 deeply concave SUBCIRCULAR red-purple glands WITH white crescent/fan appendages",
+          "simulans": "ELLIPTIC glands, appendages ABSENT",
+          "serpens": "Oblong glands and much smaller inconspicuous appendages",
+          "glyptosperma": "Oblong-elliptic gland, white/pink semilunate appendage with often crenulate edge"
+        },
+        {
+          "character": "Fruit hairs",
+          "golondrina": "Smooth GLABROUS capsule",
+          "simulans": "Glabrous capsule",
+          "serpens": "Glabrous capsule",
+          "glyptosperma": "Glabrous capsule"
+        },
+        {
+          "character": "Mature seed",
+          "golondrina": "Narrow 4-angle 1.3–1.5 mm; weak transverse wrinkles",
+          "simulans": "1.5–2 mm; faint ridges",
+          "serpens": "Smooth shorter 0.7–1.1 mm",
+          "glyptosperma": "Rougher/coarsely wrinkled ~1.2 mm"
+        }
+      ],
+      "photo_pair_targets": [
+        {
+          "role": "Golondrina entire leaf blades",
+          "status": "Current original Sam and Ian photos directly inspected; long oblong nearly hairless leaves arrowed, entire edge evident; no measured size."
+        },
+        {
+          "role": "Golondrina red-purple glands with WHITE appendage",
+          "status": "Ian and Mark photographs show white crescent-shaped structures in cyathia. Red centers partly shown; exact ROUND versus elliptical gland outline still needs calibrated 10–30x macro."
+        },
+        {
+          "role": "Simulans gland comparison",
+          "status": "NOW VERIFIED: source photo 5336725 Nathan Taylor shows real red-purple gland pads; no white appendages visible. E. golondrina's white crescent already documented separately."
+        },
+        {
+          "role": "True mature seeds (both species)",
+          "status": "NOW VERIFIED: Nathan Taylor 5336967 SIMULANS seeds with shallow weak wrinkle/pit relief and 5337479 separate THERIACA seeds with three deep crosswise grooves; author notes half-millimeter scale. Golondrina seed macro remains a separate possible enrichment."
+        },
+        {
+          "role": "Nodal stipule architecture",
+          "status": "Golondrina distinct subulate 0.5–0.8 mm vs E. serpens broad fused triangular and E. prostrata narrow mixed stipules; exact golondrina photo still missing."
+        },
+        {
+          "role": "Simulans rounded leaves and growth form",
+          "status": "Two authenticated visually checked CC BY-NC photos now annotated in genus: tiny subsymmetric oval-orbiculate leaf blades; source photos cannot resolve glands or seed texture."
+        },
+        {
+          "role": "Simulans versus theriaca true mature seed microscopy",
+          "status": "NOW VERIFIED: two separately licensed photographed seed macros (E. simulans 5336967 versus E. theriaca 5337479), exact species labels, creator credits and scale; no inference from a close habit photo."
+        }
+      ],
+      "caution": "The name golondrina is applied to many spurges in Spanish, including hirta, thymifolia and others. ALL photo sources must be exact taxon E. golondrina, not common-name search results. Sam, Ian, Mark, Nathan photographs are nonlocal SW Texas or Mexico context, not evidence of Hays occurrence. Golondrina is principally known in Big Bend/Rio Grande desert flora; no county-native promotion. Photo overlays show gland appendage LOCATION, not calibrated individual gland circularity or dimensions.",
+      "references": [
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101577",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=318097",
+        "https://powo.science.kew.org/taxon/101562-2",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101613",
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:101994-2"
+      ],
+      "reviewed_at": "2026-10-21",
+      "comparison_status_2026_10_21": {
+        "simulans_gallery_photos": 8,
+        "simulans_arrowed_views": 8,
+        "simulans_arrow_count": 18,
+        "simulans_genus_comparison_photos": 5,
+        "key_lesson": "E. simulans very small round 1–3.2mm leaves vs E. golondrina longer narrow oblong 5–11.5mm leaves. Simulans elliptic purple glands WITHOUT a white appendage; golondrina circular red-purple glands WITH white crescent appendages. The stronger difficult co-occurring E. theriaca look-alike requires ripe true seeds.",
+        "critical_holds": [
+          "Simulans 0.5–0.7 mm true nodal stipules in situ macro remains unverified",
+          "Golondrina round gland outline and distinct mature seed macros still only partly resolved"
+        ],
+        "status": "GLAND_CAPSULE_AND_SIMULANS_THERIACA_TRUE_SEED_MACROS_VISUALLY_CHECKED"
+      }
+    },
+    {
+      "id": "euphorbia-eriantha-desert-poinsettia-fringed-hood",
+      "title": "Beetle spurge: narrow alternate leaves and the furry curled gland hood",
+      "taxon_ids": [
+        "euphorbia-eriantha",
+        "euphorbia-cyathophora",
+        "euphorbia-heterophylla",
+        "euphorbia-bicolor",
+        "euphorbia-marginata"
+      ],
+      "reference_taxa_not_yet_in_learner": [
+        "Euphorbia exstipulata"
+      ],
+      "look_here_first": "BEETLE SPURGE (E. eriantha) = upright/arcuate branches, mainly ALTERNATE 1–3-mm-wide linear stem leaves, paired/whorled terminal GREEN bracts, and extraordinarily large, hairy striped capsules. The unique gland character described in FNA is a fuzzy white fringe divided into 5–12 narrow lobes FOLDED INWARD to hide actual glands. Opposed E. exstipulata usually has more conspicuously serrated leaves and fringed white/pink appendages that DO NOT CURL OVER the glands. The tiny hairy reproductive cup is not the fruit; our five exact-species licensed eriantha images with 13 verified arrows genuinely show leaf/habit, hairy cyathial areas and hairy mottled FRUITS, not detached mature seeds. FNA seed: E. eriantha 2.8–4.1 mm, tuberculate-pitted, distinct larger caruncle; E. exstipulata 1.9–2.5 mm. Never add a seed from another Euphorbia or a non-cleared paper plate as an eriantha public photograph.",
+      "field_matrix": [
+        {
+          "character": "Main stem leaves",
+          "eriantha": "Alternate; exceptionally thin 1–3 mm, few inconspicuous distal teeth",
+          "exstipulata": "Usually broader or visibly toothed; confirm at actual mature leaf"
+        },
+        {
+          "character": "Gland fringe",
+          "eriantha": "Whitish 5–12 very narrow hairy lobes CURL OVER and COVER the gland (FNA, micro photo pending)",
+          "exstipulata": "White or pink, often lobed but NOT incurved over the gland (macro comparison needed)"
+        },
+        {
+          "character": "Mature hairy fruit",
+          "eriantha": "Longer oblong ~4.4–4.9mm with white down, sometimes striking striped/mottled pattern; photographed",
+          "exstipulata": "Smaller ~2.7–3.3mm, appressed hairs mainly on the keels"
+        },
+        {
+          "character": "True ripe seed",
+          "eriantha": "2.8–4.1mm pitted/tuberculate, large visible caruncle; rights-cleared macro still lacking",
+          "exstipulata": "1.9–2.5mm, often 2 cross ridges, tiny caruncle; photo still needed"
+        }
+      ],
+      "photo_pair_targets": [
+        {
+          "role": "Beetle spurge existing real-photo anatomy",
+          "status": "FIELD READY: FIVE licensed original E. eriantha JPEGs, THIRTEEN manually checked leaf/bract/cyathium-hair/striped hairy capsule/habit pointers."
+        },
+        {
+          "role": "True inward-bent furry white gland appendage fringe",
+          "status": "IMPORTANT HOLD: no exact-species saved macro resolves EACH of 5–12 true curved gland appendage segments; FNA treatment supports morphology only."
+        },
+        {
+          "role": "Real released mature seeds with caruncle",
+          "status": "IMPORTANT HOLD: Felger et al. 2015 Southwestern Arizona Flora figure 26D seed plate documented as scientific reference but republication rights unresolved. Do not add to public gallery until reuse verified."
+        },
+        {
+          "role": "Complete whole rooted growth-form scale",
+          "status": "OPTIONAL: existing images teach branching and needleleaf; full rooted plant plus scale not yet sourced."
+        },
+        {
+          "role": "E. exstipulata true photographed micro comparison",
+          "status": "TEXT ONLY: source treatment supports distinction, but no verified public licensed exact species image from E. exstipulata is installed in this genus lesson; no proxy image."
+        }
+      ],
+      "caution": "E. eriantha is native to westward desert regions of Texas; no target Hays county nativity certification is claimed. Two natural leaflet positions may change toward terminal bracts. The original photo shows hairy reproductive organs, but not the FNA-unique microscopic folded, fringed gland hood or detached ripe seeds. The updated photos do not isolate individual gland fringes despite excellent hairy capsule views. The unique hood remains an unphotographed micromorphology marker.",
+      "references": [
+        "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101658",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=318100",
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:101513-2"
+      ],
+      "reviewed_at": "2026-10-21",
+      "photo_review_20261021": {
+        "physical_source_images": 5,
+        "annotated_species_views": 5,
+        "verified_arrows": 13,
+        "genus_extra_views": 2,
+        "unresolved": [
+          "Actual gland fringes curving over gland at 20–30x",
+          "True detached mature warty/carunculate seed macro"
+        ]
+      },
+      "status": "ERIANTHA_FIELD_READY_WITH_GLAND_FRINGE_AND_SEED_MICRO_PHOTO_GAPS",
+      "closeout_2026_10_21": {
+        "eriantha": {
+          "status": "FIELD_READY_WITH_GLAND_FRINGE_AND_MATURE_SEED_PHOTO_GAPS",
+          "photo_count": 5,
+          "verified_arrows": 13
+        },
+        "science_sources": [
+          "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101658",
+          "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101659",
+          "https://yavapaiplants.extension.arizona.edu/euphorbia-eriantha"
+        ],
+        "copyright_hold": "Southwestern Arizona Flora plate Figure 26D linked only; reuse rights not determined",
+        "county_scope": "BONAP/NAPA Hays nativity review not performed."
+      }
+    },
+    {
+      "id": "euphorbia-roemeriana-commutata-longicruris-bracts",
+      "title": "Eastern Edwards Plateau little spurges: Roemer's bract cup versus its look-alikes",
+      "taxon_ids": [
+        "euphorbia-roemeriana",
+        "euphorbia-spathulata"
+      ],
+      "reference_taxa_not_yet_in_learner": [
+        "Euphorbia commutata",
+        "Euphorbia longicruris",
+        "Euphorbia austrotexana"
+      ],
+      "look_here_first": "FIND THE PAIR OF BRIGHT GREEN ROUNDED BRACTS JUST UNDER THE CYATHIUM. Roemer's spurge (E. roemeriana) has each pair fused together for about HALF their length, forming a cup. E. commutata (similar size/leaf) normally has SEPARATE or barely joined bracts; E. longicruris packs numerous rounded bracts into IMBRICATE/stacked tuftlike terminal tips; E. austrotexana has much narrower ordinary leaves and distinct bracts. Widespread E. spathulata has separately attached sometimes TOOTHED green bracts, hornless glands, and WARTY fruit. Confirm ripe smooth capsule and carunculate, DEEPLY pitted brown seed when possible. Roemer's spurge has documented Hays/Comal/Travis plus other Edwards Plateau limestone creek occurrences. Formal project native-county badge not yet audited.",
+      "field_matrix": [
+        {
+          "feature": "Paired dichasial bracts",
+          "roemeriana": "RENIFORM to semicircular, united about HALF length",
+          "commutata": "Separate or only barely basally united",
+          "longicruris": "Often loosely joined at base but STRONGLY overlapping/imbricate at shoot tips",
+          "austrotexana": "Distinct and not crowded",
+          "spathulata": "Distinct, often serrulate"
+        },
+        {
+          "feature": "Ordinary leaf shape",
+          "roemeriana": "Obovate/oblanceolate 5–20 × 5–10 mm",
+          "commutata": "Similar shape and width, weak separator",
+          "longicruris": "Wedge-shaped to spatulate 5–15 × 2–6 mm",
+          "austrotexana": "Near-linear 5–18 × 0.5–2.5 mm",
+          "spathulata": "Broader variable; can overlap"
+        },
+        {
+          "feature": "Cyathial glands",
+          "roemeriana": "Four glands with SHORT slightly converging horns",
+          "commutata": "Check mature cyathia; tiny structures require a close photo",
+          "longicruris": "More divergent and longer horns 0.5–0.8 mm",
+          "austrotexana": "Crescent glands and diverging horns ~0.5–0.7 mm",
+          "spathulata": "Usually without horns"
+        },
+        {
+          "feature": "Capsule",
+          "roemeriana": "Smooth, slightly 3-lobed",
+          "commutata": "Smooth, may overlap",
+          "longicruris": "Smooth, 3-lobed",
+          "austrotexana": "Smooth",
+          "spathulata": "Distinct verrucose / warty lobes"
+        },
+        {
+          "feature": "Seeds",
+          "roemeriana": "Brown, scattered DEEP BROAD PITS, 1.6–1.8 mm",
+          "commutata": "Seed differs by close detailed measurements; not inferred from current photos",
+          "longicruris": "Gray/purple-gray smaller 1.3–1.6 mm with small strong pits",
+          "austrotexana": "Whitish/gray shallow concavities, usually narrower",
+          "spathulata": "Often smooth/reticulate/weakly ridged, not scattered deep pits"
+        }
+      ],
+      "photo_pair_targets": [
+        {
+          "role": "Roemer's paired reproductive bract cup",
+          "status": "One Turner Brockman CC BY-SA original JPEG directly inspected; three arrows on rounded paired green bracts, yellow cyathium and smooth green 3-lobed fruit. Fusion is suggested by cupped silhouette but exact ~half-distance must be demonstrated with isolated node macro."
+        },
+        {
+          "role": "Roemer's whole rooted 15–30 cm habit on limestone",
+          "status": "MISSING. Seek whole spring annual in calcareous creek/terrace habitat, ideally Hays or Comal observation with cm scale."
+        },
+        {
+          "role": "Side-by-side: E. commutata distinct bracts and E. longicruris imbricate bracts",
+          "status": "MISSING matched actual license-verified exact-species macro photos. Morphology currently sourced to FNA; do not substitute roemeriana photo."
+        },
+        {
+          "role": "E. spathulata separate serrulate bracts and warty fruit",
+          "status": "NOW PHOTOGRAPHED and arrowed: Nathan Taylor Texas exact-species capsule shows low rounded verrucae, styles, glands and serrulate bract edge; Max Licher CC BY-SA flowering tip image shows broad separate-looking leaflike bracts and warty fruits. Three-photo / eight-arrow species card is field-ready. A macro proving each bract pair's exact separate base remains optional."
+        },
+        {
+          "role": "True ripe seed deep scattered pits + caruncle",
+          "status": "RESOLVED VISUALLY: Two exact-species Nathan Taylor CC BY-NC 4.0 micrographs installed, four arrows to deep surface pits and pale caruncle. No calibrated mm size; a marked ruler remains optional."
+        },
+        {
+          "role": "Roemer's seven-image finished field lesson",
+          "status": "SEVEN rights-checked real images, 17 manually checked arrows including two detached Nathan Taylor deep-pitted seed/caruncle macros; no seed size scale. Fused bract seam still needs magnified isolation."
+        }
+      ],
+      "caution": "Conjoined-bract SEAM and precisely half-length fusion may be obscured in front-view habit photographs. Arrow to visible bract cup, not a fabricated microscopic seam; yellow gland/horns also need separate macro. Existing source photographs do not establish formal county-range certification. Botanical source Peirson et al. 2014 reports Hays County, but BONAP/NAPA assessment stays pending. Don't confuse other roemeriana plant genera. New supplementary photos show whole flowering canopy and regular leaves but cannot prove the precise bract-fusion proportion ; true seed pits and caruncle are NOW shown in independently licensed exact-taxon macro photos, but no seed length calibration. Other genera named roemeriana are different taxa.",
+      "references": [
+        "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101642",
+        "https://deepblue.lib.umich.edu/bitstream/handle/2027.42/107503/boj12167.pdf",
+        "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416539",
+        "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101635",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416545"
+      ],
+      "reviewed_at": "2026-10-21",
+      "photo_review_2026_10_21": {
+        "status": "MATCHED_EXACT_TAXON_CAPSULE_PHOTO_INSTALLED",
+        "euphorbia_spathulata_photo_count": 3,
+        "euphorbia_spathulata_checked_arrows": 8,
+        "roemeriana_photos": 7,
+        "roemeriana_checked_arrows": 17,
+        "lesson": "Capsule outer surface distinguishes verrucose E. spathulata from smooth E. roemeriana; independent bract margin and gland features used when in doubt.",
+        "source_refs": [
+          "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416545",
+          "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101642"
+        ]
+      }
+    },
+    {
+      "id": "euphorbia-angusta-fendleri-narrowleaf-20261021",
+      "title": "Narrowleaf spurge vs Fendler's sandmat — leaf shape and hairs first",
+      "taxon_ids": [
+        "euphorbia-angusta",
+        "euphorbia-fendleri"
+      ],
+      "look_here_first": "FENDLER'S = LOW, ROUND, SMOOTH, WOODY PERENNIAL. ANGUSTA = UPRIGHT, LONG NARROW LEAVES, APPRESSED HAIRS. Compare REAL photographed Fendler's smooth green three-lobed fruit, four-angled pale detached seeds and entire round leaves against narrowleaf's visibly strigose foliage and white toothed cyathial appendages. Narrowleaf's separate mature hairy capsule and mature seed are still needed; Fendler's woody crown and separated stipules need public-safe macro images. Fine Fendler seed depressions vary by view; they are not the regular deep transverse ridges of prostrate sandmats.",
+      "field_matrix": [
+        {
+          "character": "Habit",
+          "angusta": "Erect, 12–43cm perennial; thick rootstock",
+          "fendleri": "Woody perennial clumped from crown, small low stems; close-up leaves/branches photographed but public-safe whole rooted image missing."
+        },
+        {
+          "character": "Upper leaves",
+          "angusta": "Opposite, linear; >6× longer than wide",
+          "fendleri": "Opposite, rounded to ovate, much shorter"
+        },
+        {
+          "character": "Stem and leaf surface",
+          "angusta": "Short appressed (strigose) hairs; visually photographed",
+          "fendleri": "Glabrous; source photographs demonstrate broad smooth leaves"
+        },
+        {
+          "character": "Cyathial involucre",
+          "angusta": "Strigose with irregularly toothed white appendages",
+          "fendleri": "Gland appendages variable; not primary ID"
+        },
+        {
+          "character": "Capsule surface",
+          "angusta": "Strigose according to FNA; separate fruit hair image still needed",
+          "fendleri": "Glabrous smooth THREE-LOBED green fruit directly photographed (Eric Keith), styles above the fruit visible; angusta true hairy capsule photo still needed."
+        },
+        {
+          "character": "Seed",
+          "angusta": "White four-angled, low transverse wrinkles; exact mature seed photo missing",
+          "fendleri": "TRUE PALE four-angled seeds with irregular scattered depressions / faintly netted surface NOW photographed (Nathan Taylor); scale author states 0.5mm units, maturity unproven; angusta still lacks photographed mature seed."
+        }
+      ],
+      "photo_examples": [
+        {
+          "label": "Narrow upright leaves and white gland appendage",
+          "scientific_name": "Euphorbia angusta",
+          "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-angusta/images/euphorbia-angusta-provisional-face.jpg",
+          "creator": "Alison Northup",
+          "license": "CC BY 4.0",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_angusta_iNat-51852545.jpg",
+          "caption": "Photographed narrow upper leaf and toothed white gland appendage. Do not claim capsule hairs on this developing fruit."
+        },
+        {
+          "label": "Actual short appressed leaf hairs",
+          "scientific_name": "Euphorbia angusta",
+          "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-angusta/images/06-leaf-hairs-macro.jpg",
+          "creator": "Nathan Taylor",
+          "license": "CC BY-NC",
+          "source_page": "https://www.inaturalist.org/observations/10884560",
+          "caption": "Actual white appressed short hairs, unlike the glabrous leaves of Fendler's sandmat."
+        },
+        {
+          "label": "Reddish leaf-base stipules",
+          "scientific_name": "Euphorbia angusta",
+          "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-angusta/images/08-stipule-location-macro.jpg",
+          "creator": "Nathan Taylor",
+          "license": "CC BY-NC",
+          "source_page": "https://www.inaturalist.org/observations/21895584",
+          "caption": "Two dark stipule positions stand apart from surrounding pale hairs. Single expert ID, not independent research-grade evidence."
+        },
+        {
+          "label": "Fendler's much rounder leaves",
+          "scientific_name": "Euphorbia fendleri",
+          "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-fendleri/images/euphorbia-fendleri-provisional-face.jpg",
+          "creator": "Stan Shebs",
+          "license": "CC BY-SA 3.0",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_fendleri_3.jpg",
+          "caption": "Rounded to oval broad glabrous leaves, in contrast with narrowleaf spurge's linear upper leaves."
+        },
+        {
+          "label": "Smooth Fendler's capsule",
+          "scientific_name": "Euphorbia fendleri",
+          "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-fendleri/images/04-glabrous-capsule-leaves.jpg",
+          "creator": "Eric Keith",
+          "license": "CC BY-NC",
+          "source_page": "https://www.inaturalist.org/observations/118457114",
+          "caption": "Photographed smooth fruit and broad short leaves. The comparison to E. angusta hair-covered capsules is FNA-based until a definite separate capsule hair macro is licensed for angusta."
+        },
+        {
+          "scientific_name": "Euphorbia fendleri",
+          "label": "Four-angled seeds and author scale",
+          "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-fendleri/images/07-seeds-calibrated.jpg",
+          "creator": "Nathan Taylor",
+          "license": "CC BY-NC",
+          "source_page": "https://www.inaturalist.org/observations/2727778",
+          "caption": "Nathan Taylor's photographed exact-species seed series shows several faces of pale four-angled seeds, a prominent longitudinal edge, variable shallow circular depressions and faintly netted surface. The author identifies 0.5 mm scale divisions in this observation. A close photo should NOT be mistaken for many evenly spaced transverse ridges or a fruit capsule; specimen maturity is not independently certified."
+        },
+        {
+          "scientific_name": "Euphorbia fendleri",
+          "label": "Seed coat surface macro with few depressions",
+          "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-fendleri/images/08-seed-face-calibrated.jpg",
+          "creator": "Nathan Taylor",
+          "license": "CC BY-NC",
+          "source_page": "https://www.inaturalist.org/observations/2727778",
+          "caption": "Nathan Taylor's complementary seed face macro shows a pale, markedly angled seed with several scattered darker surface depressions and fine microscopic skin texture. It is a TRUE SEED, not a three-lobed fruit; avoid saying the depressions are uniform transverse ridges."
+        },
+        {
+          "scientific_name": "Euphorbia fendleri",
+          "label": "True pale seed separated from fruit",
+          "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-fendleri/images/05-extracted-seed-capsule.jpg",
+          "creator": "Andrey Zharkikh",
+          "license": "CC BY-NC",
+          "source_page": "https://www.inaturalist.org/observations/246629613",
+          "caption": "Andrey Zharkikh's photographed dissections show one isolated pale seed at upper right and an opened green capsule segment at upper center. A further opened fruit piece is below. Do not use the printed grid as calibrated seed-length evidence; the units and physiological maturity were not independently established."
+        }
+      ],
+      "review_date": "2026-10-21",
+      "status": "BOTH_FIELD_READY_WITH_SPECIAL_MACRO_GAPS",
+      "caution": "Do not use UT Austin herbarium/field image as a public comparator until photo rights are cleared; expert-only angusta stipule observation is still needs_id, not research grade. County nativity audit remains paused.",
+      "references": [
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101551",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101570",
+        "https://w3.biosci.utexas.edu/prc/K12/pdf/Euphorbia%20fendleri"
+      ],
+      "photo_note": "Fendler's public-compatible 5-photo 14-arrow closeout verified. Original adjacent angusta lesson includes 7 publicly eligible source photos and 14 arrows; its independently hairy fruit and mature white seed remain unphotographed."
+    }
+  ],
+  "diagnostic_photo_needs": [
+    {
+      "scope": "Genus primary recognition",
+      "needed": "One source-verified genuine cyathium dissection with visible involucre, 1 female and tiny male stamens",
+      "status": "MISSING"
+    },
+    {
+      "scope": "Cyathophora vs heterophylla",
+      "needed": "DONE: two side-by-side 1750 px macros show E. cyathophora oblong rimless aperture vs E. heterophylla circular raised annular rim; local county specimen pairs optional.",
+      "status": "SOURCE-VERIFIED_TWO_MATCHED_CYATHIAL_GLAND_PHOTOS_INSTALLED"
+    },
+    {
+      "scope": "Dentata vs davidii",
+      "needed": "Licensed matched seeds and underside hairs, 1 mm calibrated scale",
+      "status": "CRITICAL PHOTO GAP"
+    },
+    {
+      "scope": "Sandmat group",
+      "needed": "Mature capsules + ridged/smooth seed comparisons, node stipules and rooting",
+      "status": "PARTIAL — prostrata/serpens photographs verified; missing villifera/maculata rights-safe macros"
+    },
+    {
+      "scope": "White bracted group",
+      "needed": "Actual source-licensed bract shape pair shown with arrows in bicolor and marginata, plus real gland appendages; still require 10× same-scale surface hair comparison (upper leaf face).",
+      "status": "BRACT_SHAPES_PHOTO_VERIFIED; ADAXIAL_PUBESCENCE_MATCHED_MACROS_MISSING"
+    }
+  ],
+  "science_reference_links": [
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=318100",
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416542",
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242321404",
+    "https://w3.biosci.utexas.edu/prc/K12/pages/Euphorbia%20prostrata.html"
+  ]
+}

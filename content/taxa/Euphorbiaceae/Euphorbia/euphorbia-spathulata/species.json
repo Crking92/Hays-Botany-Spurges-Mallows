@@ -1,0 +1,352 @@
+{
+  "id": "euphorbia-spathulata",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "species": "spathulata",
+  "scientific_name": "Euphorbia spathulata",
+  "common_name": "Warty spurge",
+  "look_here_first": "WARTY FRUIT FIRST. This hairless leafy annual has spoon-shaped to oblanceolate alternate lower stem leaves, tiny terminal cyathia, and repeated forks with broad green flowering bracts. Its ripe 3-lobed capsule shows distinct LOW ROUNDED WARTS (now photographed, with arrows); Roemer's spurge (E. roemeriana) has a SMOOTH fruit and two rounded flowering bracts fused into a shallow cup roughly halfway up. E. spathulata has distinct (not fused) bracts, often fine-toothed at the rim, and 4–5 hornless cyathial glands. Existing Texas Nathan Taylor and University of Arizona Max Licher photos now show the warty fruit, styles, yellow cyathial structures, and leaflike bracts; bract-base fusion geometry and absent horns remain hand-lens/closer-macro confirmations. County nativity badge has not been audited.",
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "visual_reviewed": true,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "reviewed_on": "2026-10-21",
+    "field_status": "FIELD_READY_WITH_MINOR_BRACT_AND_GLAND_MACRO_GAPS",
+    "last_reviewed": "2026-10-21"
+  },
+  "photo_note": "Three real licensed taxon-matched photo files physically saved and inspected: Jared Gorrell whole flowering-tip recognition view (one conservative arrow); Nathan Taylor Texas capsule/cyathium macro (four arrows); Max Licher University Arizona bract/fruit macro (three arrows). Eight manually checked anatomical pointers. Warty capsule surface visually verified. Exact individual bract separation at base and hornless gland edge still benefit from higher magnification.",
+  "taxonomy_source": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416545",
+  "images": [
+    {
+      "file": "images/inat-126053272.jpg",
+      "role": "Real recognition view of terminal green bract clusters; diagnostic warty fruit not resolved",
+      "creator": "(c) Jared Gorrell, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/126053272",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only",
+      "anatomy_arrows": [
+        {
+          "label": "Leaflike green bracts at flowering tip",
+          "target_fraction": [
+            0.482,
+            0.518
+          ]
+        }
+      ],
+      "caption": "Hand-held flowering-tip view. The arrow indicates the clustered green leaflike bracts; individual bract-to-bract separation, cyathial gland horns and the low rounded capsule warts cannot be confirmed at this image scale. Do not treat the unrelated broad toothed leaves below the hand as Euphorbia foliage.",
+      "manual_arrow_review": "2026-10-21 saved exact 1024×768 iNaturalist JPEG opened and inspected. One conservative arrow to obvious leafy green flowering cluster. No purported warty fruit, naked seed, gland horn or measuring arrow."
+    },
+    {
+      "role": "Texas source close-up showing rounded capsule verrucae, styles, cyathial glands and separate leaflike bracts",
+      "creator": "(c) Nathan Taylor, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/15653221",
+      "observation_url": "https://www.inaturalist.org/observations/11085572",
+      "observation_id": 11085572,
+      "photo_id": 15653221,
+      "public_site_use_scope": "yes, noncommercial education only",
+      "caption": "Texas specimen by Nathan Taylor. The swollen green capsule is covered in LOW ROUNDED wartlike bumps, with three split style arms above it. The yellow nubs beside the upper fruit belong to the nearby cyathium, and the green leaflike bract has a finely toothed rim. This is real photographed diagnostic anatomy, not a scale image.",
+      "file": "images/nathan-15653221-warty-capsule.jpg",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/15653221/original.jpeg",
+      "image_dimensions_source": [
+        1250,
+        1155
+      ],
+      "saved_jpeg_sha256": "5f49d222208217d89b77dd124735d9f96466ce044c9f03cf7ae0f57e71d3dca8",
+      "anatomy_arrows": [
+        {
+          "label": "Low rounded warts on green capsule",
+          "target_fraction": [
+            0.285,
+            0.793
+          ]
+        },
+        {
+          "label": "Three forked styles atop fruit",
+          "target_fraction": [
+            0.263,
+            0.625
+          ]
+        },
+        {
+          "label": "Yellow glands of tiny cyathium",
+          "target_fraction": [
+            0.582,
+            0.47
+          ]
+        },
+        {
+          "label": "Fine teeth on upper bract margin",
+          "target_fraction": [
+            0.489,
+            0.264
+          ]
+        }
+      ],
+      "photo_review": "2026-10-21: exact SAVED source photo manually inspected. Distinct low round bumps on the near fruit, branching pale style arms, yellow cyathial glands and finely toothed margin of the upper leaflike bract directly visible. Four pointers target those parts; not an exact gland count or horn-measurement.",
+      "public_reuse": "yes, attribution plus source Creative Commons terms apply"
+    },
+    {
+      "role": "Multiple flowering tip bract pairs and warty fruits in foliage, photo originally credited by U Arizona Extension",
+      "creator": "Max Licher, via Southwest Environmental Information Network / University of Arizona Extension",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_platform": "Yavapai County Native and Naturalized Plants, University of Arizona Extension",
+      "source_page": "https://yavapaiplants.extension.arizona.edu/euphorbia-spathulata",
+      "public_site_use_scope": "CC BY-SA attribution and ShareAlike terms",
+      "caption": "Max Licher's clustered flowering-tip view shows several wart-covered green developing capsules among broad green reproductive bracts, with yellow cyathia in the axils. Different views of similar parts repeat across the plant. Follow one bract pair to its base for formal separation; this angle alone does not measure the connection.",
+      "file": "images/max-licher-uaz-flowering-bracts.jpg",
+      "downloaded_from": "https://yavapaiplants.extension.arizona.edu/sites/default/files/Forbs/Images/Euphorbia_spatulatha_SL_w.jpg",
+      "image_dimensions_source": [
+        720,
+        720
+      ],
+      "saved_jpeg_sha256": "faab704ab1e98389e947e41dc04b05e51cd7f9ced7c6173e3060e05ba95be4f1",
+      "anatomy_arrows": [
+        {
+          "label": "Warty developing capsule",
+          "target_fraction": [
+            0.478,
+            0.542
+          ]
+        },
+        {
+          "label": "Broad leaflike flowering bract",
+          "target_fraction": [
+            0.599,
+            0.497
+          ]
+        },
+        {
+          "label": "Yellow cyathium in green cup",
+          "target_fraction": [
+            0.782,
+            0.372
+          ]
+        }
+      ],
+      "photo_review": "2026-10-21: exact saved licensed University of Arizona JPEG inspected. Three conservative pointers to center warty capsule, adjacent broad flowering bract, and right upper yellow reproductive center. No arrow claims microscopic fusion seam or gland-horn absence.",
+      "public_reuse": "yes, attribution plus source Creative Commons terms apply"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "three_actual_source_photos_plus_capsule_and_bract_diagnostics",
+    "image_count": 3,
+    "annotated_source_count": 3,
+    "verified_arrow_count": 8,
+    "note": "Three inspected licensed real images with eight pointers, including diagnostic low rounded capsule verrucae. Remaining minor macro-photo gaps: bract-pair attachment seam and individual hornless gland edge."
+  },
+  "morphology_keys": {
+    "family_pattern": "Euphorbiaceae; upright leafy Euphorbia subgenus Esula with tiny cyathia (specialized flowering units) rather than ordinary petals.",
+    "habit": "Hairless annual with slender upright, often basally branched shoots and repeatedly forked terminal reproductive branches.",
+    "leaves": "Stem leaves alternate and typically spatulate to oblanceolate, usually with finely serrulate margins; inspect several mature leaves rather than only bracts.",
+    "paired_bracts": "Paired upper dichasial bracts separate (distinct), often broadly ovate or triangular, sometimes with fine-toothed edges; not half-fused as in E. roemeriana.",
+    "cyathia": "Small green cup-like flowering units; 4–5 nectar glands without horns, requiring strong close-up to verify.",
+    "fruit": "Mature capsule shallowly 3-lobed and covered with small LOW ROUNDED verrucae (warts), a key difference from the smooth capsules of E. roemeriana.",
+    "seed": "Variable brown to dark-purple seeds; smooth, finely ridged or netlike-reticulate surfaces across geographic populations. Do not impose a universal reticulate seed texture on Texas specimens.",
+    "source_note": "Flora of North America, Euphorbia spathulata Lam. (taxon_id=242416545). Native-by-county review is paused; FNA is used for anatomy, not a finished Hays BONAP/NAPA badge."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Euphorbia roemeriana",
+      "Euphorbia commutata",
+      "Euphorbia longicruris"
+    ],
+    "field_matrix": [
+      {
+        "character": "Paired bracts",
+        "spathulata": "Distinct; margins can be finely serrulate",
+        "roemeriana": "Joined into cup for ~half their length",
+        "commutata": "Mostly distinct; additional characters required",
+        "longicruris": "Distinct to basal join but strongly overlapping at tips"
+      },
+      {
+        "character": "Capsule surface",
+        "spathulata": "LOW ROUNDED WARTS (verrucose)",
+        "roemeriana": "Smooth",
+        "commutata": "Smooth",
+        "longicruris": "Smooth"
+      },
+      {
+        "character": "Gland horns",
+        "spathulata": "Absent",
+        "roemeriana": "Short and slightly convergent",
+        "commutata": "Must inspect close-up",
+        "longicruris": "Longer and divergent"
+      },
+      {
+        "character": "Best current photo proof",
+        "spathulata": "Only broad flowering bracts; warts not resolved",
+        "roemeriana": "Cyathia and smooth fruit plus detached pitted seed macros",
+        "commutata": "Not yet installed as matched photo",
+        "longicruris": "Not yet installed as matched photo"
+      }
+    ],
+    "caution": "An apparently cup-shaped green whorl is not proof of bract fusion: isolate one pair and inspect the basal seam. Do not use the one spathulata habit photo as proof of warty capsule or seed sculpture."
+  },
+  "field_photo_quickcheck": {
+    "heading": "FIND THE FRUIT WARTS",
+    "steps": [
+      "Photograph complete rooted plant, then stem leaves and margin teeth in focus.",
+      "Get close enough to isolate one pair of green dichasial bracts: confirm they are separate instead of fused halfway.",
+      "Photograph several fully developed green capsules at 10× or higher; look for small low rounded warts covering lobes.",
+      "Take a high-magnification cyathium view to confirm gland horns absent (do not substitute yellow color alone).",
+      "Optional: photograph a mature loose seed from two angles with 1mm scale; Texas seed texture may be smooth or reticulate."
+    ],
+    "warning": "Photo proof is STRONG for low rounded capsule warts and green bracts after two verified diagnostic source additions. The precise basal separation of an individual dichasial bract pair and the absence of minute gland horns have not been isolated in a dedicated 10–20x view; keep these as optional useful closeups, not falsely annotated structures.",
+    "featured_photo_indices": [
+      1,
+      2,
+      0
+    ]
+  },
+  "diagnostic_image_needs": [
+    {
+      "role": "close-up isolating one paired bract base",
+      "priority": "medium",
+      "requirements": "Capture two bracts from their origins showing actual distinct margins; 10× side view. Existing Max Licher image shows leaflike bracts but not the precise same-pair seam."
+    },
+    {
+      "role": "cyathium side-view for hornless gland margin",
+      "priority": "medium",
+      "requirements": "At least 10–20× with an in-focus gland edge rather than inferring absence of tiny horns from distant photographs."
+    },
+    {
+      "role": "mature detached seed with scale",
+      "priority": "optional",
+      "requirements": "Show reticulate OR smooth local seed variation; FNA notes Texas populations can have either seed-coat texture."
+    },
+    {
+      "role": "whole rooted plant habit with local habitat context",
+      "priority": "optional",
+      "requirements": "Clear terminal branching and alternate cauline leaves separated from surrounding vegetation."
+    }
+  ],
+  "field_id_finalization": {
+    "review_date": "2026-10-21",
+    "stage": "FIELD_READY_WITH_MINOR_MACRO_GAPS",
+    "canonical_photo_count": 3,
+    "verified_anatomy_arrows": 8,
+    "source_credits": "Jared Gorrell CC BY-NC; Nathan Taylor CC BY-NC; Max Licher (U Arizona) CC BY-SA. Each exact credit/source in images and image-sources.csv.",
+    "diagnostic_completed": [
+      "Low rounded capsule warts visually confirmed in Texas Nathan Taylor source macro",
+      "Capsule style arms and yellow cyathia photographed",
+      "Broad green leaflike bracts and leaf-margin teeth photographed",
+      "FNA-backed field comparison with E. roemeriana, E. commutata, E. longicruris"
+    ],
+    "remaining": [
+      "Formal isolated same-pair bract-base detail",
+      "Side-profile cyathial gland margin for hornlessness",
+      "Optional mature Texas seed photo and whole rooted habit"
+    ],
+    "county_scope": "BONAP/NAPA local county check intentionally paused"
+  },
+  "visual_comparison": {
+    "instance_id": "euphorbia-spathulata-fruit-bracts-20261021",
+    "title": "Warty spurge — see the capsule surface",
+    "subtitle": "Three exact-species photos with eight checked structure arrows. Distinguish rounded WARTS from Roemer's smooth capsules; separate bract bases best checked under lens.",
+    "items": [
+      {
+        "label": "Field recognition — flowering tips",
+        "scientific_name": "Euphorbia spathulata",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-spathulata/images/inat-126053272.jpg",
+        "image_role": "Real recognition view of terminal green bract clusters; diagnostic warty fruit not resolved",
+        "caption": "Hand-held flowering-tip view. The arrow indicates the clustered green leaflike bracts; individual bract-to-bract separation, cyathial gland horns and the low rounded capsule warts cannot be confirmed at this image scale. Do not treat the unrelated broad toothed leaves below the hand as Euphorbia foliage.",
+        "source_page": "https://www.inaturalist.org/photos/126053272",
+        "creator": "(c) Jared Gorrell, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC",
+        "license_url": "",
+        "anatomy_arrows": [
+          {
+            "label": "Leaflike green bracts at flowering tip",
+            "target_fraction": [
+              0.482,
+              0.518
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Texas close-up — true warty capsule",
+        "scientific_name": "Euphorbia spathulata",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-spathulata/images/nathan-15653221-warty-capsule.jpg",
+        "image_role": "Texas source close-up showing rounded capsule verrucae, styles, cyathial glands and separate leaflike bracts",
+        "caption": "Texas specimen by Nathan Taylor. The swollen green capsule is covered in LOW ROUNDED wartlike bumps, with three split style arms above it. The yellow nubs beside the upper fruit belong to the nearby cyathium, and the green leaflike bract has a finely toothed rim. This is real photographed diagnostic anatomy, not a scale image.",
+        "source_page": "https://www.inaturalist.org/photos/15653221",
+        "creator": "(c) Nathan Taylor, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "anatomy_arrows": [
+          {
+            "label": "Low rounded warts on green capsule",
+            "target_fraction": [
+              0.285,
+              0.793
+            ]
+          },
+          {
+            "label": "Three forked styles atop fruit",
+            "target_fraction": [
+              0.263,
+              0.625
+            ]
+          },
+          {
+            "label": "Yellow glands of tiny cyathium",
+            "target_fraction": [
+              0.582,
+              0.47
+            ]
+          },
+          {
+            "label": "Fine teeth on upper bract margin",
+            "target_fraction": [
+              0.489,
+              0.264
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Flowering bracts and warty fruit clusters",
+        "scientific_name": "Euphorbia spathulata",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-spathulata/images/max-licher-uaz-flowering-bracts.jpg",
+        "image_role": "Multiple flowering tip bract pairs and warty fruits in foliage, photo originally credited by U Arizona Extension",
+        "caption": "Max Licher's clustered flowering-tip view shows several wart-covered green developing capsules among broad green reproductive bracts, with yellow cyathia in the axils. Different views of similar parts repeat across the plant. Follow one bract pair to its base for formal separation; this angle alone does not measure the connection.",
+        "source_page": "https://yavapaiplants.extension.arizona.edu/euphorbia-spathulata",
+        "creator": "Max Licher, via Southwest Environmental Information Network / University of Arizona Extension",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "anatomy_arrows": [
+          {
+            "label": "Warty developing capsule",
+            "target_fraction": [
+              0.478,
+              0.542
+            ]
+          },
+          {
+            "label": "Broad leaflike flowering bract",
+            "target_fraction": [
+              0.599,
+              0.497
+            ]
+          },
+          {
+            "label": "Yellow cyathium in green cup",
+            "target_fraction": [
+              0.782,
+              0.372
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

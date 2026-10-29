@@ -1,0 +1,242 @@
+{
+  "id": "ludwigia-repens",
+  "entry_type": "species",
+  "family": "Onagraceae",
+  "genus": "Ludwigia",
+  "species": "repens",
+  "scientific_name": "Ludwigia repens",
+  "authority": "J.R.Forst.",
+  "common_name": "Creeping primrose-willow / red ludwigia",
+  "synonyms": [
+    "Ludwigia fluitans Scheele",
+    "Ludwigia natans Elliott",
+    "Isnardia intermedia Small & Alexander"
+  ],
+  "taxonomic_note": "Current Kew/POWO and Flora of North America accept Ludwigia repens J.R.Forst.; the later Ludwigia repens Sw. is a different illegitimate homonym.",
+  "look_here_first": "Inspect opposite paired leaves along a creeping, node-rooting stem. Look for very small yellow petals (when present), but note they may be shed or naturally absent. Crucially, a mature capsule lacks the four dark-green longitudinal bands seen on L. palustris. Do not force submerged sterile specimens to species.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "24-county boundary audit 2026-10-14: Hays, Travis qualify; Williamson are out-of-zone and cannot count toward PASS. Prior citation/evidence text preserved in range_audit; third native county not verified.",
+    "range_guardrail": "The Hays decision uses a native-status river survey rather than inferring nativity from aquarium occurrence.",
+    "native_range_last_reviewed": "2026-10-14",
+    "range_audit": {
+      "date": "2026-10-14",
+      "decision": "UNRESOLVED",
+      "confidence": "high for exclusion of counties not in project zone; prior county-locality evidence retained without fresh specimen reinspection",
+      "prior_status": "PASS",
+      "prior_count": 3,
+      "prior_counties": [
+        "Hays",
+        "Travis",
+        "Williamson"
+      ],
+      "valid_target_counties": [
+        "Hays",
+        "Travis"
+      ],
+      "excluded_counties": [
+        "Williamson"
+      ],
+      "reason": "Old PASS counted an excluded county. UNRESOLVED is not FAIL or proof of absence; verify a third accepted county before PASS.",
+      "original_range_basis": "Hays — a peer-reviewed San Marcos River aquatic-plant survey lists Ludwigia repens as native; Joey's Hays County source video independently shows it in the river. Travis — UT Plant Resources Center Travis County Onagraceae index includes an herbarium specimen of L. repens. Williamson — UT PRC Vascular Plants of Williamson County provides a detailed county treatment.",
+      "source_document": "content/taxa/Onagraceae/Ludwigia/ludwigia-repens/SOURCES.txt",
+      "rule_source": "PROJECT_RULES.md — Target zone; three qualifying native counties"
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "opposite paired leaves on creeping wetland stems, shared with palustris",
+      "tiny usually yellow four-petaled axillary flower, but petals may be absent",
+      "mature 4-angled capsule LACKS the four longitudinal dark-green bands of palustris",
+      "same vegetative architecture as palustris; use mature fruit confirmation when petals absent",
+      "true node-root photo still missing"
+    ],
+    "habit": "Aquatic perennial, creeping to ascending, sometimes submerged, forming loose mats with adventitious roots at nodes.",
+    "leaf_morphology": "Shiny elliptic to obovate or lance-elliptic leaves, often short-petioled but with variable petiole length; blades commonly 0.8–4.5 cm long (FNA).",
+    "flower": "Tiny axillary flowers usually with four small pale-yellow/yellow petals and four stamens. Petals are caducous and sometimes absent; the absence of petals alone does NOT establish L. palustris.",
+    "joey_field_note": "Joey's San Marcos River sequence shows the submerged/creeping form in situ, a useful contrast with the erect shoreline habit of Ludwigia octovalvis.",
+    "stem": "Mostly cylindric, often reddish, little or no hair; may root where creeping stem touches moist sediment.",
+    "leaf_arrangement": "Opposite, usually decussate pairs at each node; primary distinction from alternate-leaved Ludwigia octovalvis.",
+    "ovary": "Short inferior green ovary, about 1.5 mm in local specimens, strongly four-angled and roughly funnel-shaped; beneath tiny sepals, often hard to see without macro.",
+    "fruit": "Mature capsule often 4–10 mm long (FNA; local Williamson account may be narrower), 4-angled, without longitudinal green bands on the four faces. Contrast L. palustris shorter often 2–5 mm green-banded capsule; sizes overlap."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ludwigia octovalvis",
+      "Hygrophila polysperma",
+      "Ludwigia palustris"
+    ],
+    "key_distinctions": "Repens usually bears small yellow petals but may shed or lack them, whereas palustris normally lacks them. Repens capsule LACKS longitudinal dark green bands; palustris has four dark green capsule bands. Both creep and have opposite leaves; sterile specimens may be unresolved. Hygrophila polysperma is another aquatic look-alike."
+  },
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "Hr3nBxvgCv4",
+      "timestamp": "00:10:04.8",
+      "record_id": "jvid-Hr3nBxvgCv4-003",
+      "role": "submerged creeping habit / source-labeled taxon",
+      "rights": "private study; public reuse not assumed"
+    }
+  ],
+  "tags": [
+    "Onagraceae",
+    "Ludwigia",
+    "Creeping primrose-willow",
+    "San Marcos River",
+    "Aquatic",
+    "Joey-enhanced"
+  ],
+  "curation_status": {
+    "version": "1.2-repens-palustris-diagnostic-science",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "joey_enhanced": true,
+    "last_reviewed": "2026-10-11",
+    "photo_metadata_count": 6,
+    "photo_files_present": 3,
+    "visual_status": "tiny_petal_flower_macro_with_genus_arrow_live__mature_capsule_greenband_exclusion_photo_pending",
+    "photo_updated_at": "2026-10-04",
+    "externally_linked_diagnostic_images": 3,
+    "manual_library_install_036": "2026-10-16"
+  },
+  "photo_note": "Saved San Marcos River frame installed locally for private study. Image role and limitations are stated in the gallery caption; diagnostic close-up gaps remain. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "images": [
+    {
+      "file": "images/ludwigia-repens_submerged-habit-source-label_00-10-04.8.jpg",
+      "role": "River habitat overview from Joey's Ludwigia repens sequence. Submerged vegetation is visible, but this wide view does not resolve diagnostic leaf or flower details.",
+      "caption": "River habitat overview from Joey's Ludwigia repens sequence. Submerged vegetation is visible, but this wide view does not resolve diagnostic leaf or flower details.",
+      "diagnostic_roles": [
+        "submerged aquatic habit",
+        "source-labeled taxon reference"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=Hr3nBxvgCv4",
+      "source_record_id": "jvid-Hr3nBxvgCv4-003",
+      "timestamp": "00:10:04.8",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained."
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ludwigia_repens_3zz.jpg",
+      "role": "opposite leaves visibly paired on reddish stems",
+      "caption": "Repeated opposite leaf pairs of Ludwigia repens; image is a cultivated Maryland water-garden specimen, not evidence of wild Central Texas provenance.",
+      "creator": "David J. Stang",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ludwigia_repens_3zz.jpg",
+      "location": "Maryland water garden",
+      "platform": "Wikimedia Commons",
+      "public_reuse": "yes with CC BY-SA terms",
+      "study_use": true,
+      "remote_only": true,
+      "photo_verified": "species identity/license/source checked 2026-10-08"
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ludwigia_repens_-_Flickr_-_Kevin_Thiele.jpg/1280px-Ludwigia_repens_-_Flickr_-_Kevin_Thiele.jpg",
+      "role": "four-petaled tiny flowers, stamens and short inferior ovary at node",
+      "caption": "Two tiny axillary flowers: visible small yellow petals, reproductive parts and green 4-angled bases. Excellent Ludwigia repens flower macro; location unverified.",
+      "creator": "Kevin Thiele",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ludwigia_repens_-_Flickr_-_Kevin_Thiele.jpg",
+      "location": "Not verified",
+      "platform": "Wikimedia Commons (original Flickr)",
+      "public_reuse": "yes with CC BY terms",
+      "study_use": true,
+      "remote_only": true,
+      "photo_verified": "species identity/license/source checked 2026-10-08"
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/1/12/Aquatic_and_wetland_plants_of_southwestern_United_States_%281972%29_%2819562736390%29.jpg",
+      "role": "Botanical illustration: short mature capsule, fruit cross-section and rooting stem (Fig. 562)",
+      "caption": "Drawn diagnostic plate in Aquatic and Wetland Plants of Southwestern United States (1972): a = rooted creeping stem, d = immature fruit, e = fruit cross-section, f = mature fruit, g = seed. This is an illustration, not a verified photographic rooted-node or measured fruit macro.",
+      "creator": "Donovan S. & Helen B. Correll; figure courtesy R. K. Godfrey; Internet Archive scan",
+      "license": "public domain US, Wikimedia Commons determination",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Aquatic_and_wetland_plants_of_southwestern_United_States_(1972)_(19562736390).jpg",
+      "platform": "Wikimedia Commons / Aquatic and Wetland Plants of Southwestern United States",
+      "study_use": true,
+      "public_reuse": "US public domain per Wikimedia Commons",
+      "remote_only": true,
+      "local_file_present": false,
+      "media_type": "botanical_illustration",
+      "photo_verified": "scientifically captioned original source plate; not a live photographed specimen"
+    },
+    {
+      "file": "images/library-review036-87028875662b3d4.jpg",
+      "role": "Opposite glossy green leaves on slender reddish creeping stems, emerging at a rocky margin; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Distinct morphological view visually screened from exact-name archived source; ID and organ-level diagnostic certainty provisional",
+      "creator": "Jo Roberts",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6184844444",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626136816/original.jpg",
+      "source_determination": "Ludwigia repens",
+      "source_observation_id": "6184844444",
+      "library_release_tag": "hays-photo-library-mass-38951157448",
+      "library_archive_file": "staged_images/ludwigia-repens/gbif-93300971f2d5bd.jpg",
+      "archive_image_sha256": "71a24f4efc43d3a4874cd7acbabc3c9a24668b3f419db49072fc2b9f07aa144d",
+      "image_dimensions": [
+        1400,
+        1050
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review036-9752e0bafe3e366.jpg",
+      "role": "Emergent aquatic shoots with rounded opposite leaves and red stems in water; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Distinct morphological view visually screened from exact-name archived source; ID and organ-level diagnostic certainty provisional",
+      "creator": "saltyhiker",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6480325857",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/707452464/original.jpg",
+      "source_determination": "Ludwigia repens",
+      "source_observation_id": "6480325857",
+      "library_release_tag": "hays-photo-library-mass-38951157448",
+      "library_archive_file": "staged_images/ludwigia-repens/gbif-ad440bad3297e5.jpg",
+      "archive_image_sha256": "71b1e20bd48c2bc70eb2abb38540df1cd4604e769acfb71a3c29bf17599b1e1d",
+      "image_dimensions": [
+        1400,
+        757
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "Real macro of repens mature capsule side showing ABSENCE of four green bands, preferably measured and with direct comparison to palustris ripe fruit.",
+    "Sharp exact-species adventitious root emerging from a real creeping repens stem node (1972 drawing in gallery is not a live photo).",
+    "Existing Kevin Thiele tiny yellow flower macro now has an accurately placed genus-level arrow; petals can sometimes be absent."
+  ],
+  "diagnostic_comparison": {
+    "partner": "ludwigia-octovalvis",
+    "look_first": "Opposite paired leaves along creeping branches vs octovalvis alternate leaves on upright branched stems.",
+    "strong_reproductive_split": "Repens four stamens and ca. 6 mm diameter flower vs octovalvis typically eight stamens and 23–39 mm diameter flower in UT PRC specimens.",
+    "strong_fruit_split": "Repens bell-shaped capsule locally only 6–7.5 mm long vs octovalvis elongated 38–45 mm capsule.",
+    "caution": "Submerged opposite-leaved Hygrophila can mimic this species; without a flower or fruit, use genus-level or unresolved ID when uncertain."
+  },
+  "repens_palustris_field_caution": "Absence of petals is NOT proof of palustris. Repens petals often shed quickly and may sometimes be absent. If no petals, use mature capsule wall: repens lacks palustris four dark green longitudinal capsule bands.",
+  "native_metrics_excluded": true
+}

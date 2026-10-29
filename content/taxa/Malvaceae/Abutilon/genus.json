@@ -1,0 +1,398 @@
+{
+  "rank": "genus",
+  "name": "Abutilon",
+  "family": "Malvaceae",
+  "project_scope": {
+    "species_ids": [
+      "abutilon-fruticosum",
+      "abutilon-incanum",
+      "abutilon-theophrasti"
+    ],
+    "species_count": 3
+  },
+  "shared_genus_recognition": {
+    "look_here_first": "Start with mature fruit: velvetleaf has striking long divergent 3–6 mm mericarp spines; sweet Indian mallow and A. incanum have compact NON-long-spined fruit. To tell those two apart count the terminal style/stigma branches or mature fruit segments (usually 6–9 for A. fruticosum, 5 for A. incanum). Column hair is an unresolved cross-flora conflict, NOT a safe stand-alone trait.",
+    "shared_traits": [
+      "Alternate cordate leaves with stellate pubescence",
+      "Five-petaled mallow flowers with stamens united into a staminal column",
+      "Dry schizocarp made of persistent mericarps"
+    ],
+    "caution": "Do not identify just from silvery hairs or heart-shaped leaves. IMPORTANT scientific conflict: FNA calls A. fruticosum staminal column glabrous; UT Austin's detailed Texas material says it has some stellate hairs; Kew's African floras describe a hairy tube. Avoid using column hair as a decisive A. fruticosum versus A. incanum split. Count styles/carpels, compare the whole reproductive structures, and flag ambiguous material."
+  },
+  "species_comparison_matrix": [
+    {
+      "character": "life form / leaf scale",
+      "fruticosum": "Subshrub 1–1.5 m; ovate-cordate leaves 2–10 cm",
+      "incanum": "Subshrub 1–2 m; ovate-cordate leaves to ~6 cm, densely tomentulose",
+      "theophrasti": "Annual herb to 1+ m; very large broadly ovate/suborbiculate leaves 8–15 cm",
+      "weight": "FAST VELVETLEAF SPLIT"
+    },
+    {
+      "character": "corolla",
+      "fruticosum": "Yellow throughout; petals 5–10 mm",
+      "incanum": "Yellow or pink with dark red center; petals 4–6 mm; corolla reflexed",
+      "theophrasti": "Pale yellow throughout; petals 8–13 mm",
+      "weight": "USEFUL SUPPORT"
+    },
+    {
+      "character": "staminal column",
+      "fruticosum": "SOURCE CONFLICT: FNA glabrous, UT Austin some stellate hairs, Kew Flora Zambesiaca stellate-hairy; DO NOT use hair alone",
+      "incanum": "Pubescent in FNA (but not unique if fruticosum can also have hairs)",
+      "theophrasti": "Glabrous (FNA)",
+      "weight": "CAUTION — conflicting sources for fruticosum, not a definitive character"
+    },
+    {
+      "character": "style branches",
+      "fruticosum": "6–9 (FNA); Williamson County study 6–10",
+      "incanum": "5 (FNA; geographic mismatch with Hays)",
+      "theophrasti": "13–15 (FNA)",
+      "weight": "BEST matched structure for fruticosum vs incanum"
+    },
+    {
+      "character": "calyx",
+      "fruticosum": "3–5 mm; lobes reflexed in fruit",
+      "incanum": "3–5 mm; lobes spreading or somewhat reflexed in fruit",
+      "theophrasti": "~10 mm; lobes erect in fruit",
+      "weight": "SUPPORTING"
+    },
+    {
+      "character": "schizocarp size/form",
+      "fruticosum": "Cask-shaped, about 8–9 × 8–9 mm",
+      "incanum": "Cask-shaped, about 7–9 × 6 mm",
+      "theophrasti": "Broadly ovoid, about 15 × 20 mm",
+      "weight": "STRONG FRUIT CHARACTER"
+    },
+    {
+      "character": "mericarp apex",
+      "fruticosum": "Acute or apiculate; not long-spined",
+      "incanum": "Acute or apiculate; not long-spined",
+      "theophrasti": "Long divergent spines 3–6 mm",
+      "weight": "BEST VELVETLEAF FRUIT CHARACTER"
+    }
+  ],
+  "overlap_cautions": [
+    "Flower color helps but is not sufficient by itself.",
+    "A. theophrasti fruit is dramatically larger and long-spined; it should not be confused with the two compact-fruited subshrubs once mature fruit is present.",
+    "Preserve current learner/native-range labels: A. fruticosum unresolved, A. incanum nonlocal comparison, A. theophrasti non-native comparison.",
+    "Scientific source conflict: FNA fruticosum says staminal column glabrous; UT Austin Texas description says some stellate hairs, Kew African treatments say hairy; relegate this to a documented caution, never decisive.",
+    "Texas A. incanum is a historic misapplication of A. fruticosum. FNA maps A. incanum to southwestern states excluding Texas; keep nonlocal card for comparative study and mark Hays identifications for re-ID.",
+    "Strongest practical differences: style/stigma branches and fruit MERICARP counts (~6–9 in A. fruticosum, 5 in A. incanum, 13–15 in A. theophrasti); later verify exact heads with clean matched macros."
+  ],
+  "local_lookalikes": [
+    {
+      "group": "Sida",
+      "separate": "Compare mericarp form and style number."
+    },
+    {
+      "group": "Callirhoe",
+      "separate": "Compare leaves, calyx and fruit segments."
+    },
+    {
+      "group": "Malvaviscus",
+      "separate": "Furled corolla and fleshy fruit differ from dry Abutilon fruit."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "role": "matched flower-center macro",
+      "targets": [
+        "A. fruticosum",
+        "A. incanum",
+        "A. theophrasti"
+      ],
+      "show": "staminal column surface + style branches, with arrows/count labels",
+      "separates": "pubescent 5-style incanum vs glabrous 6–9-style fruticosum vs 13–15-style theophrasti",
+      "priority": "critical"
+    },
+    {
+      "role": "matched mature fruit top + side",
+      "targets": [
+        "all three"
+      ],
+      "show": "schizocarp diameter/height with ruler and mericarp tips",
+      "separates": "compact acute/apiculate fruticosum/incanum from large long-spined theophrasti",
+      "priority": "critical"
+    },
+    {
+      "role": "fruticosum vs incanum corolla",
+      "targets": [
+        "A. fruticosum",
+        "A. incanum"
+      ],
+      "show": "flower front and side at similar scale",
+      "separates": "plain yellow fruticosum from often dark-centered/reflexed incanum",
+      "priority": "high"
+    },
+    {
+      "role": "matched mature leaves",
+      "targets": [
+        "all three"
+      ],
+      "show": "blade + petiole with scale and surface texture",
+      "separates": "huge velvetleaf foliage; supporting only for fruticosum/incanum",
+      "priority": "medium"
+    }
+  ],
+  "handoffs": [
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "target": "Abutilon fruticosum versus A. incanum",
+      "question": "Verify additional calyx, mericarp-apex and style-count thresholds from authoritative keys before making a strict dichotomous key."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "target": "Abutilon",
+      "question": "Find matched licensed flower-center and mature fruit macros; retain photo provenance."
+    }
+  ],
+  "curation_status": {
+    "version": "1.3-real-reproductive-photo-genus-comparison",
+    "last_reviewed": "2026-10-13",
+    "visual_status": "Five licensed exact-species panels; A. fruticosum flower/two fruit files physically installed; incanum and velvetleaf comparisons link existing Commons source cards. Arrow QA and measured style macro pending.",
+    "scientific_note": "FNA-backed morphology pass; no range/admission changes.",
+    "flower_hair_diagnosis": "scientific source conflict — corrected to caution instead of strict key",
+    "photo_panels": 5,
+    "panels_local_files": 3,
+    "arrows": 0
+  },
+  "field_key_training": [
+    {
+      "step": 1,
+      "look": "Whole mature fruit",
+      "if": "Large ~15 × 20 mm wheel/crown with many 3–6 mm divergent spines",
+      "then": "A. theophrasti — velvetleaf."
+    },
+    {
+      "step": 2,
+      "look": "Flower styles and mature fruit",
+      "if": "Exactly FIVE style branches / five mericarps, plus compatible flower and provenance",
+      "then": "Supports A. incanum, which FNA does not report from Texas; treat 'Texas A. incanum' records as identification-review flags."
+    },
+    {
+      "step": 3,
+      "look": "Flower styles and mature fruit",
+      "if": "About 6–9 style branches or 6–9(–10) fruit mericarps, small plain yellow flower, short unspined fruit",
+      "then": "Supports A. fruticosum; DO NOT require a glabrous staminal column, as botanical sources disagree."
+    },
+    {
+      "step": 4,
+      "look": "Only foliage available",
+      "if": "Large velvety 8–15 cm leaves on an annual",
+      "then": "A. theophrasti is plausible; otherwise wait for flowers/fruit before separating fruticosum and incanum."
+    }
+  ],
+  "diagnostic_science_sources": [
+    {
+      "taxon": "Abutilon fruticosum",
+      "source": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250071371"
+    },
+    {
+      "taxon": "Abutilon incanum",
+      "source": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101016"
+    },
+    {
+      "taxon": "Abutilon theophrasti",
+      "source": "Flora of North America",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200013684"
+    }
+  ],
+  "scientific_conflict_log": [
+    {
+      "character": "Staminal column pubescence, A. fruticosum",
+      "sources": [
+        {
+          "authority": "FNA North America",
+          "statement": "glabrous",
+          "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250071371"
+        },
+        {
+          "authority": "UT Austin A. C. Gibson Williamson County",
+          "statement": "some stellate hairs on staminal column",
+          "url": "https://w3.biosci.utexas.edu/prc/K12/pdf/Abutilon%20fruticosum"
+        },
+        {
+          "authority": "Kew POWO Flora Zambesiaca/Flora Tropical East Africa",
+          "statement": "stellate-hairy/hairy above",
+          "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326450-2/general-information"
+        }
+      ],
+      "decision": "DO_NOT_USE_AS_STRICT_DIAGNOSTIC; prefer styles and mericarp count; may reflect geographic variation or different interpretation of column/tube",
+      "status": "open scholarly disagreement for final science pass"
+    }
+  ],
+  "visual_training": {
+    "first": "Look at ring of dry fruit segments; crown spines versus short acute tips.",
+    "second": "Count style/stigma branches or fruit segments in the same plant; 5 / 6–9 / 13–15 is the core comparison.",
+    "third": "Look for a smaller plain yellow flower vs a smaller often dark-centered reflexed corolla vs larger pale-yellow velvetleaf.",
+    "term_definitions": [
+      {
+        "term": "staminal column",
+        "simple": "A central tube made of fused stamen filaments. The anthers with pollen sit around or above it."
+      },
+      {
+        "term": "style branch",
+        "simple": "One slender division of the female style, ending in a stigma. Count these, not yellow anthers."
+      },
+      {
+        "term": "schizocarp",
+        "simple": "A dry fruit that breaks into several separate segments."
+      },
+      {
+        "term": "mericarp",
+        "simple": "One wedge/segment of the schizocarp, often with seeds inside."
+      },
+      {
+        "term": "stellate hairs",
+        "simple": "Tiny star-shaped branched hairs on leaf, stem or floral structures."
+      }
+    ],
+    "mobile_arrow_requirements": [
+      "Arrow target directly onto one fruit mericarp and its tip",
+      "Arrow to a style branch/stigma, not an anther or stamen",
+      "Arrow to hair ONLY if high-resolution macro truly shows the hairs",
+      "Label the whole fruit as schizocarp; one chamber as mericarp"
+    ]
+  },
+  "exact_reproductive_photo_shortlist": [
+    {
+      "taxon": "Abutilon fruticosum",
+      "view": "Yellow flower / staminal column",
+      "creator": "SAplants",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum_1DS-II_3-2244.jpg",
+      "already_on_species_card": true,
+      "physical_file_installed": false
+    },
+    {
+      "taxon": "Abutilon fruticosum",
+      "view": "Mature segmented fruit",
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum_kz03.jpg",
+      "physical_file_installed": false
+    },
+    {
+      "taxon": "Abutilon fruticosum",
+      "view": "Mature fruit second angle",
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum_kz04.jpg",
+      "physical_file_installed": false
+    },
+    {
+      "taxon": "Abutilon fruticosum",
+      "view": "Hays-area fruit / mericarps",
+      "creator": "Jim Conrad",
+      "license": "Public domain",
+      "page": "https://www.backyardnature.net/n/h/abutilon.htm",
+      "photo_files": [
+        "130901ad.jpg",
+        "130901ae.jpg"
+      ],
+      "physical_file_installed": false
+    },
+    {
+      "taxon": "Abutilon incanum",
+      "view": "Dark-centered yellow flower and fruit",
+      "creator": "Forest & Kim Starr",
+      "license": "CC BY 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Starr-131218-2869-Abutilon_incanum-seed_capsule_and_leaves-Honokanaia-Kahoolawe_(25110446902).jpg",
+      "already_on_species_card": true,
+      "physical_file_installed": false
+    },
+    {
+      "taxon": "Abutilon theophrasti",
+      "view": "Mature long-spined 14-mericarp fruit",
+      "creator": "Vibraison",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Abutilon_theophrasti_fruit.jpg",
+      "already_on_species_card": true,
+      "physical_file_installed": false
+    }
+  ],
+  "exact_reproductive_photo_status": {
+    "checked_at": "2026-10-13",
+    "source_rights_checked": true,
+    "local_installation": "NOT_DONE; original remote flower/fruit links preserved, no local images claimed",
+    "visual_overlay_status": "Arrows require pixel checking on actual original; do not place blind arrows",
+    "priority": "Install fruticosum two real mature fruits and local Uvalde source, then exact flower style macro"
+  },
+  "visual_comparison": {
+    "title": "Abutilon: who has the spines, and how many fruit segments?",
+    "subtitle": "Sweet Indian mallow is in the local flora; hoary abutilon is a nonlocal comparison and velvetleaf is an introduced comparison. All 5 photo panels are exact-species, with 3 local files and 2 Commons links.",
+    "look_here_first": "Fruit first: short unspined mericarps versus long 3–6 mm spines. Next COUNT style/stigma branches, not anthers.",
+    "items": [
+      {
+        "label": "SWEET INDIAN MALLOW · FLOWER",
+        "scientific_name": "Abutilon fruticosum",
+        "image_url": "content/taxa/Malvaceae/Abutilon/abutilon-fruticosum/images/02-yellow-flower.jpg",
+        "image_fit": "contain",
+        "caption": "Plain yellow petals and staminal column. The exact number of style branches cannot be confirmed from this broad flower photo.",
+        "creator": "SAplants",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum_1DS-II_3-2244.jpg",
+        "markers": [],
+        "annotation_status": "no unverified style arrows"
+      },
+      {
+        "label": "SWEET INDIAN MALLOW · SHORT-TIPPED FRUIT",
+        "scientific_name": "Abutilon fruticosum",
+        "image_url": "content/taxa/Malvaceae/Abutilon/abutilon-fruticosum/images/03-compact-fruit-side.jpg",
+        "image_fit": "contain",
+        "caption": "A. fruticosum schizocarp: compact short-tipped mericarps. Count the segments on a good macro; they are NOT the long divergent spines of velvetleaf.",
+        "creator": "Krzysztof Ziarnek, Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum_kz03.jpg",
+        "markers": [],
+        "annotation_status": "requires precise fruit segment overlay"
+      },
+      {
+        "label": "SWEET INDIAN MALLOW · SECOND FRUIT VIEW",
+        "scientific_name": "Abutilon fruticosum",
+        "image_url": "content/taxa/Malvaceae/Abutilon/abutilon-fruticosum/images/04-compact-fruit-oblique.jpg",
+        "image_fit": "contain",
+        "caption": "Second fruit angle: see how the mericarps fit around a common center; no ruler, so fruit dimensions are from botanical keys, not measured in this photo.",
+        "creator": "Krzysztof Ziarnek, Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum_kz04.jpg",
+        "markers": [],
+        "annotation_status": "same-species source verified"
+      },
+      {
+        "label": "HOARY ABUTILON · SMALL FRUIT, NONLOCAL",
+        "scientific_name": "Abutilon incanum",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Starr-131218-2869-Abutilon_incanum-seed_capsule_and_leaves-Honokanaia-Kahoolawe_(25110446902).jpg",
+        "image_fit": "contain",
+        "caption": "A. incanum is a nonlocal comparison. About five style branches and fruit segments, versus six to nine in sweet Indian mallow. The source photo is externally hosted, not locally installed.",
+        "creator": "Forest & Kim Starr",
+        "license": "CC BY 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Starr-131218-2869-Abutilon_incanum-seed_capsule_and_leaves-Honokanaia-Kahoolawe_(25110446902).jpg",
+        "markers": [],
+        "annotation_status": "linked source photo"
+      },
+      {
+        "label": "VELVETLEAF · LONG SPINY MERICARPS",
+        "scientific_name": "Abutilon theophrasti",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Abutilon_theophrasti_fruit.jpg",
+        "image_fit": "contain",
+        "caption": "Introduced velvetleaf: fruit much larger, with about 13–15 segments and long divergent mericarp spines, not the short points of A. fruticosum.",
+        "creator": "Vibraison",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Abutilon_theophrasti_fruit.jpg",
+        "markers": [],
+        "annotation_status": "linked source photo"
+      }
+    ]
+  },
+  "photo_final_polish": {
+    "priorities": [
+      "Photograph exactly 5 vs 6–9 vs 13–15 style/stigma branches (count after flowering if possible)",
+      "Actual mm ruler beside each ripe capsule",
+      "Verify original pixels before drawing arrows to each mericarp's short or long tip",
+      "Recover Jim Conrad Uvalde public-domain fruit closeups after download availability check"
+    ],
+    "note": "Arrows to styles or hairs not added blindly. FNA / UT / Kew conflict on A. fruticosum staminal hair preserved."
+  }
+}

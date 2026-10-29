@@ -1,0 +1,144 @@
+{
+  "id": "oenothera-curtiflora",
+  "entry_type": "species",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "species": "curtiflora",
+  "scientific_name": "Oenothera curtiflora",
+  "authority": "W.L.Wagner & Hoch",
+  "common_name": "Velvetweed",
+  "synonyms": [
+    "Gaura parviflora Douglas ex Lehm.",
+    "Gaura hirsuta Scheele",
+    "Gaura mollis E.James"
+  ],
+  "taxonomic_note": "Older field guides and nursery sources may still use the former genus Gaura; preserve those names as synonyms but use current Oenothera placement canonically.",
+  "field_group": "Evening primrose / former-Gaura comparison",
+  "look_here_first": "Look for the mismatch between plant size and flower size: a tall, densely velveteen annual carries a long crowded wand of extremely tiny flowers—only about 3 mm across.",
+  "project_tracker_diagnostic": "annual or biennial, taprooted, not rosetted at flowering; 30–90+ cm tall; foliage and stems densely soft/velveteen hairy with glandular hairs; long terminal many-flowered spike/raceme; flowers only about 3 mm across; 4 tiny white petals aging light rose; narrow hard indehiscent fruit around 8 mm long",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — project Hays-local source pool contains 7 wild/noncultivated observations and flags the species as Hays Local; this is supporting occurrence evidence rather than a herbarium voucher. Travis — UT Plant Resources Center Travis County herbarium index includes Gaura parviflora, the homotypic synonym of Oenothera curtiflora. Williamson — UT Plant Resources Center Vascular Plants of Williamson County provides a detailed treatment under the accepted name Oenothera curtiflora.",
+    "approval_exception": null
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "annual or biennial, taprooted, not rosetted at flowering",
+      "30–90+ cm tall",
+      "foliage and stems densely soft/velveteen hairy with glandular hairs",
+      "long terminal many-flowered spike/raceme",
+      "flowers only about 3 mm across",
+      "4 tiny white petals aging light rose",
+      "narrow hard indehiscent fruit around 8 mm long"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Oenothera suffulta",
+      "Oenothera lindheimeri"
+    ],
+    "key_distinctions": "Oenothera suffulta: Both are annual former-gauras. O. curtiflora is much more densely velveteen and its flowers are tiny (~3 mm); O. suffulta has 12–19 mm white flowers, a largely glabrous inflorescence, and a short chunky 4-lobed fruit. Oenothera lindheimeri: O. lindheimeri is a showy perennial with much larger flowers and an airy arching habit; O. curtiflora is a hairy annual with minute flowers."
+  },
+  "tags": [
+    "Onagraceae",
+    "Oenothera",
+    "Velvetweed",
+    "Central Texas",
+    "Genus comparison"
+  ],
+  "curation_status": {
+    "version": "1.0-b003",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 3,
+    "photo_files_present": 2,
+    "glass_root_garden_photo_install": "2026-10-14",
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Diagnostic source page locked; exact downloadable photo provenance remains pending. Private owner-authorized Glass Root Garden photo physically installed 2026-10-14; source API rights retained separately. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Audit 059: nonexistent gallery filename archived in unresolved_photo_references without deleting its original source record.",
+  "images": [
+    {
+      "file": "images/glass-root-508886200-first-photo.jpg",
+      "role": "Slender flowering stem and overall habit; small floral anatomy not resolved",
+      "creator": "Glass Root Garden",
+      "license": "Owner-authorized private study",
+      "license_basis": "Direct photo-owner authorization in current project chat, 2026-10-14. Private learner use approved despite stale source metadata; no public CC grant inferred.",
+      "license_url": "https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/glass-root-inat/OWNER_PERMISSION_2026-10-14.md",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/508886200",
+      "observation_url": "https://www.inaturalist.org/observations/283221118",
+      "observation_id": 283221118,
+      "photo_id": 508886200,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/508886200/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "photo_review": "Exact Research Grade observation checked; image visually inspected; first-pass recognition only.",
+      "anatomy_arrows": "none; detailed anatomy pending"
+    },
+    {
+      "file": "images/joey-inat-185092681.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/185092681",
+      "observation_url": "https://www.inaturalist.org/observations/109783038",
+      "observation_id": "109783038",
+      "photo_id": "185092681",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/185092681/large.jpeg",
+      "image_dimensions": [
+        768,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "note": "Private owner-authorized first-photo coverage; fine diagnostic views remain pending."
+  },
+  "unresolved_photo_references": [
+    {
+      "status": "SOURCE_LEAD_ONLY_MISSING_PHYSICAL_PHOTO",
+      "previous_image_index": 0,
+      "checked_at": "2026-10-17",
+      "audit_reference": "reports/diagnostic-photo-audit-057-20261017.md",
+      "original_gallery_record": {
+        "file": "images/01-diagnostic-source.jpg",
+        "role": "Tall velveteen habit / tiny-flowered raceme reference",
+        "creator": "",
+        "license": "",
+        "source_page": "https://w3.biosci.utexas.edu/prc/K12/pages/Oenothera%20curtiflora.html",
+        "study_use": "yes",
+        "public_reuse": "review"
+      },
+      "repair_requirements": "UT Austin Williamson County taxon page is a botanical source, not a verified licensed photograph. Keep as research reference until exact media, photographer and reuse are verified.",
+      "display_policy": "Do not treat the missing file as installed; retain complete original source/provenance and re-add only after exact image, licensing and identity screening."
+    }
+  ]
+}

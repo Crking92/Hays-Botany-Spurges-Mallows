@@ -1,0 +1,316 @@
+{
+  "id": "croton-texensis",
+  "entry_type": "species",
+  "family": "Euphorbiaceae",
+  "genus": "Croton",
+  "species": "texensis",
+  "scientific_name": "Croton texensis",
+  "authority": "(Klotzsch) Müll.Arg.",
+  "common_name": "Texas Croton, Skunkweed, Texas Goatweed",
+  "look_here_first": "LOOK HERE FIRST — TEXAS CROTON / SKUNKWEED: an annual with relatively narrow, alternate, entire-edged leaves, pale stellate hairs and often open branching. DO NOT identify it from silver-gray foliage or white flower clusters alone. This species is DIOECIOUS: an individual plant bears either staminate (MALE) flowers or pistillate (FEMALE) flowers. Male flowers expose many pale stamens. Confirm female plants by a distinctly WARTY / verrucose, three-part capsule; seek actual fruit macros. The installed Joey photographs are of a MALE specimen and cannot demonstrate female fruit or, by themselves, prove that the species has separate-sex plants. Contrast the woody, minutely serrulate C. fruticulosus and the smaller low-branching monoecious C. monanthogynus / C. lindheimerianus.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Kerr",
+    "Llano"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Corrected exact target-zone PASS: Travis, Kerr, Llano. Williamson is not counted toward the project threshold.",
+    "range_guardrail": "Exact project target-zone county evidence only; Williamson excluded from threshold."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "annual herb with loose distal branching",
+      "strictly dioecious",
+      "narrow leaves",
+      "unisexual inflorescences",
+      "verrucose capsules",
+      "highly divided styles"
+    ],
+    "comparison_training": "Croton monanthogynus is monoecious, low and basal-branching with brown-dotted undersides and a one-seeded capsule; C. lindheimerianus is monoecious with smooth capsules."
+  },
+  "comparisons": {
+    "key_distinctions": "Texas croton is a dioecious ANNUAL with relatively narrow, entire leaves and a wart-covered female capsule. Shrubby C. fruticulosus has persistent WOODY stems and finely serrulate leaves. Prairie tea C. monanthogynus and three-seed C. lindheimerianus are monoecious, smaller and often low branching; female fruit/style evidence is more decisive than leaf fuzz alone.",
+    "confused_with": [
+      "Croton fruticulosus",
+      "Croton monanthogynus",
+      "Croton lindheimerianus",
+      "Croton lindheimeri"
+    ],
+    "field_matrix": [
+      {
+        "taxon": "Croton texensis",
+        "look_here_first": "Annual, narrow alternate leaves; flowers on separate male versus female plants",
+        "decisive": "FEMALE capsule with rough raised warts / tubercles; male flowers with conspicuous stamens",
+        "photo_status": "Male flowers and foliage pictured; warty female capsule NOT pictured"
+      },
+      {
+        "taxon": "Croton fruticulosus",
+        "look_here_first": "Woody persistent shrub/subshrub base; tiny leaf-margin teeth",
+        "decisive": "Photograph woody stem base and serrulate blade edge",
+        "photo_status": "Existing leafy-stem genus photo lacks woody base"
+      },
+      {
+        "taxon": "Croton monanthogynus",
+        "look_here_first": "Low branching annual; abaxial brown-centered stellate hairs",
+        "decisive": "Two bifid female styles yield FOUR free ends; functionally one-seeded fruit",
+        "photo_status": "Habit visible; hair centers and style ends still not macro-proven"
+      },
+      {
+        "taxon": "Croton lindheimerianus",
+        "look_here_first": "Low spreading annual, pale star hairs WITHOUT dark centers",
+        "decisive": "Three bifid female styles yield SIX ends; smooth three-locular capsule",
+        "photo_status": "Male flower/leaf photos only; female tips unconfirmed"
+      }
+    ],
+    "not_reliable_alone": [
+      "Narrow leaves: male and female plants of Texas croton can differ in leaf width and overlap other species.",
+      "White flower clusters: male stamens show male reproductive structures, not evidence for dioecy on one photographed individual.",
+      "Pale stellate hairs: a genus-level character, not an exact species confirmation.",
+      "A smooth immature female ovary should not be mislabeled as mature warty fruit; inspect mature capsule surface."
+    ]
+  },
+  "photo_strategy": {
+    "method": "FAST-FILL existing reviewed study-media handoff",
+    "visual_priority": "Use current exact-species study candidates where available; photo backfill may add stronger diagnostic macros later.",
+    "remaining_need": "Learner Photo Backfill visual polish is nonblocking."
+  },
+  "learner_role": "PROJECT_NATIVE",
+  "curation_status": {
+    "version": "1.1-texensis-male-gallery-field-finish-20261021",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "visual_reviewed": true,
+    "visual_status": "FIELD_READY_PHOTO_GAPS: male flower/leaf/habit photo views, 3 inherited genus male-structure arrows; diagnostic female verrucose fruit unphotographed, owner mobile QA pending.",
+    "last_reviewed": "2026-10-21",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. FINISHING PASS 2026-10-21: existing three-photo male gallery enriched with genus-reviewed anatomy panel and honest female-fruit photo gap. No new photo was installed or re-licensed.",
+  "images": [
+    {
+      "file": "images/croton-texensis-provisional-face.jpg",
+      "role": "Recognize · slender-leaved branching Croton in sandy ground; sex-specific structures not resolved",
+      "creator": "JerryFriedman",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Croton_texensis_male_habitus1.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-332782993.jpg",
+      "role": "Look closer · branching flowering stem with pale staminate flowers against dark background",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/332782993",
+      "observation_url": "https://www.inaturalist.org/observations/189902950",
+      "observation_id": "189902950",
+      "photo_id": "332782993",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/332782993/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-332783008.jpg",
+      "role": "Look closer · open male flowers with projecting stamens along densely hairy stems; female capsule not shown",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/332783008",
+      "observation_url": "https://www.inaturalist.org/observations/189902950",
+      "observation_id": "189902950",
+      "photo_id": "332783008",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/332783008/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-05",
+    "note": "Male diagnostic gallery is usable for field orientation; definitive female capsule/sex system not photo-demonstrated."
+  },
+  "photo_diagnostic_lesson": {
+    "title": "Texas croton: male stamens now; female warted fruit next",
+    "steps": [
+      {
+        "stage": "1 — WHOLE PLANT",
+        "look": "Openly branched annual with alternate narrow simple leaves",
+        "what": "Use the recorded full-plant image to learn the overall appearance. This clue is not sufficient by itself."
+      },
+      {
+        "stage": "2 — MALE FLOWERS",
+        "look": "Many pale projecting stamens in open, small flowers",
+        "what": "The installed Joey Santore macro shows actual staminate flowers and hairy stems. Male stamens are NOT female style branches."
+      },
+      {
+        "stage": "3 — FIND A FEMALE PLANT",
+        "look": "Separate pistillate flower clusters, without conspicuous male stamens",
+        "what": "This species is dioecious; check a DIFFERENT flowering individual and photograph the whole female cluster with a millimeter scale. Existing gallery is male-only."
+      },
+      {
+        "stage": "4 — MATURE FEMALE FRUIT",
+        "look": "Verrucose (wart-covered) three-part capsule",
+        "what": "Take a sharp side-on and top-down macro showing actual raised bumps on the fruit and its three lobes. This is the leading missing decisive photo."
+      },
+      {
+        "stage": "5 — RULE OUT SHRUBBY CROTON",
+        "look": "Persistent woody base, tiny serrations of leaf edge",
+        "what": "For C. fruticulosus, photograph woody crown and finely toothed margin; a leafy branch alone does not show the habit difference."
+      }
+    ],
+    "memory_rule": "TEXAS CROTON = NARROW ANNUAL + SEPARATE SEXES + WARTY FEMALE CAPSULE. Current photos show its MALE side only."
+  },
+  "visual_comparison": {
+    "title": "Texas croton — actual male flower structures, female-fruit evidence still needed",
+    "subtitle": "Three physically stored exact-species photos; a previously reviewed genus-panel's three real-structure arrows are reused. Never point an arrow at female styles or warty capsule in these male specimens.",
+    "items": [
+      {
+        "label": "1 · Texas croton — male plant habit",
+        "scientific_name": "Croton texensis",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-texensis/images/croton-texensis-provisional-face.jpg",
+        "image_fit": "contain",
+        "creator": "JerryFriedman",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Croton_texensis_male_habitus1.jpg",
+        "image_role": "Whole-plant male habit; coarse silhouette only",
+        "caption": "Exact-species male whole-plant photograph. Branching and general narrow foliage support first recognition, not a female-fruit confirmation.",
+        "why_it_matters": "Start with the whole plant before checking reproductive material.",
+        "markers": []
+      },
+      {
+        "label": "2 · Texas croton — Joey Santore leafy flowering branch",
+        "scientific_name": "Croton texensis",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-texensis/images/joey-inat-332782993.jpg",
+        "image_fit": "contain",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC 4.0",
+        "source_page": "https://www.inaturalist.org/photos/332782993",
+        "image_role": "Exact-source leafy male flowering shoot, no female capsule",
+        "caption": "Learn the slender hairy vegetative branch and flower-cluster location. No female fruit or style-count claim is made from this view.",
+        "why_it_matters": "Context view ahead of actual male-flower close-up.",
+        "markers": []
+      },
+      {
+        "label": "3 · Texas croton — Joey Santore actual male stamens",
+        "scientific_name": "Croton texensis",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-texensis/images/joey-inat-332783008.jpg",
+        "image_fit": "contain",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC 4.0",
+        "source_page": "https://www.inaturalist.org/photos/332783008",
+        "image_role": "Exact-taxon MALE staminate flowers; female wart-covered capsule not shown",
+        "caption": "White flowers with many projecting stamens on a hairy branching MALE C. texensis shoot. The diagnostic WARTY FEMALE capsule and separate female plant are NOT pictured. A male-only stem cannot independently demonstrate dioecy.",
+        "markers": [
+          {
+            "label": "Open male stamens",
+            "label_x": 78,
+            "label_y": 4,
+            "target_x": 83,
+            "target_y": 30
+          },
+          {
+            "label": "Closed flower buds",
+            "label_x": 5,
+            "label_y": 6,
+            "target_x": 20,
+            "target_y": 21
+          },
+          {
+            "label": "Hairy flowering stem",
+            "label_x": 74,
+            "label_y": 75,
+            "target_x": 73,
+            "target_y": 49
+          }
+        ],
+        "why_it_matters": "Reusable genus lesson: male stamens, closed buds and hairy stem have three previously placed anatomy arrows; none points to hypothetical female structures."
+      }
+    ],
+    "memory_rule": "MALE STAMENS pictured; FEMALE WARTED CAPSULE missing. Do not 'confirm' separate-sex biology from a single male plant image.",
+    "annotation_status": "Three arrows inherited without relocation from canonical Croton genus.json reviewed panel. Source-image coordinates were not independently rechecked in this continuation; owner mobile alignment QA remains pending. Whole-plant and secondary-shoot images intentionally carry no fabricated arrows.",
+    "part_examples": [
+      {
+        "title": "Male flower stamens (shown)",
+        "role": "staminate flower",
+        "anchor_species_id": "croton-texensis",
+        "image_file": "images/joey-inat-332783008.jpg",
+        "look_for": "Cream-white projecting stamens and tiny clustered buds",
+        "why_it_matters": "Confirms the pictured specimen is flowering male material."
+      },
+      {
+        "title": "Female warty capsule (needed)",
+        "role": "female fruit",
+        "status": "needs_photo",
+        "look_for": "Raised warts across the actual mature capsule with the 3-lobed outline, scale",
+        "why_it_matters": "Decisive structural check; not shown in currently installed male photos."
+      },
+      {
+        "title": "Leaf edge + woody base (needed for comparison)",
+        "role": "lookalike comparison",
+        "status": "needs_photo",
+        "look_for": "Texas entire margin side-by-side with minute teeth on C. fruticulosus and a woody base",
+        "why_it_matters": "Separates Texas croton from shrubby croton."
+      }
+    ]
+  },
+  "field_photo_quickcheck": {
+    "heading": "Croton texensis: male-flower learning card / female capsule still missing",
+    "featured_photo_indices": [
+      2,
+      1,
+      0
+    ],
+    "steps": [
+      "Observe a branched annual with alternate, narrow and generally entire leaves.",
+      "In the existing Joey photo, notice projecting MALE stamens; do not call these female styles.",
+      "Locate another reproductive plant: true pistillate material should lack stamens because this species is dioecious.",
+      "On a mature female capsule, document actual raised WARTS and a three-lobed outline. Female photo not in this gallery.",
+      "If woody base or tiny leaf-edge teeth are present, compare C. fruticulosus before settling on the ID."
+    ],
+    "field_rule": "Annual + dioecious + female warty capsule. Male-only field ID is tentative without independent supporting characters.",
+    "warning": "Existing photographic evidence is male-only. Dioecy and the distinctive female mature capsule are referenced from botanical treatments, not demonstrated by installed images.",
+    "owner_mobile_review": "PENDING"
+  },
+  "diagnostic_photo_targets": [
+    {
+      "role": "Exact C. texensis female plant with pistillate inflorescences, whole shoot and detail",
+      "status": "NEEDS_LICENSED_VERIFIED_PHOTO"
+    },
+    {
+      "role": "Mature female verrucose/warty 3-lobed capsule, sharp macro with 1 mm scale",
+      "status": "NEEDS_LICENSED_VERIFIED_MACRO"
+    },
+    {
+      "role": "Paired blade margins: C. texensis entire versus woody C. fruticulosus finely serrulate, same magnification",
+      "status": "NEEDS_LICENSED_VERIFIED_PAIR"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+PHOTO FAST-FILL 055 — Oenothera filiformis
+Date: 2026-10-08
+Source: https://commons.wikimedia.org/wiki/File:Oenothera_filiformis_-_Samuel_A._Schmid_01.jpg
+Direct image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Oenothera_filiformis_-_Samuel_A._Schmid_01.jpg/960px-Oenothera_filiformis_-_Samuel_A._Schmid_01.jpg
+Creator: Samuel A. Schmid, Ph.D.
+License: CC BY 4.0
+License URL: https://creativecommons.org/licenses/by/4.0/
+Study use: yes
+Public reuse: preserve creator credit and share-alike conditions if applicable
+Role and limits: Oenothera filiformis bloom, Mississippi county observational photo 313477240.
+Only visual learner metadata; taxonomy and range decisions unchanged.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:46:26.411120+00:00
+Oenothera filiformis (Small) W.L.Wagner & Hoch
+https://www.gbif.org/occurrence/6519813034
+Logan Stecker | CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+Target visual view (NOT YET verified): Asymmetrical four petals from side; floral tube and exserted style
+No anatomy arrows; no scientific or native-range changes.

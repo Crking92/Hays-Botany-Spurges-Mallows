@@ -1,0 +1,146 @@
+{
+  "id": "triadica-sebifera",
+  "entry_type": "species",
+  "family": "Euphorbiaceae",
+  "genus": "Triadica",
+  "species": "sebifera",
+  "scientific_name": "Triadica sebifera",
+  "authority": "(L.) Small",
+  "common_name": "Chinese tallow / popcorn tree",
+  "synonyms": [
+    "Sapium sebiferum (L.) Roxb.",
+    "Croton sebifer L."
+  ],
+  "taxonomic_note": "Accepted Chinese tallow species; historical Sapium sebiferum and Croton sebifer are synonyms of this taxon, not separate learner cards. Native to Asia and introduced/invasive in Texas.",
+  "look_here_first": "Check alternate diamond-shaped leaves with a long tapering tip and nearly smooth margins; inspect the leaf-blade base for small glands. Then look for slender flower spikes or a 3-lobed capsule that opens to three bright white wax-coated seeds.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Master Plant Pool source membership; crew identification comparison",
+    "target_zone_status": "FAIL_NONNATIVE",
+    "learner_role": "INVASIVE_COMPARISON",
+    "verified_target_counties": [],
+    "range_basis": "Completed deep review and Texas A&M Forest Service/NPSOT treat Chinese tallow as introduced and invasive in Texas; not a native target-zone species.",
+    "range_guardrail": "Presence in Texas, naturalization, and invasive occurrence do not establish native target-zone range."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "Deciduous tree with alternate, simple, broadly rhombic to triangular-ovate leaves",
+      "Leaves often have an elongated pointed tip, smooth to nearly smooth margin, and long slender petiole",
+      "Small glands near junction of petiole and leaf blade may be visible on close inspection",
+      "Terminal yellow-green flower spikes with numerous small flowers",
+      "Three-lobed/three-chambered capsules; opening fruit exposes three white waxy seeds resembling popcorn",
+      "Autumn leaves can turn red or yellow, but color is not diagnostic"
+    ],
+    "comparison_training": "Texas redbud has cordate leaves and pea-family pods rather than three-lobed capsules with white waxy seeds. Cottonwood/poplar seedlings have toothed triangular leaves and cottony seeds rather than popcorn-like white waxy seeds. Confirm leaf-base glands and fruit whenever possible."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Cercis canadensis",
+      "Populus deltoides",
+      "young native trees with triangular leaves"
+    ],
+    "key_distinctions": "Rhombic entire leaves plus paired petiole-base glands and 3-part capsules exposing white waxy seeds identify Chinese tallow; redbud pods and cottonwood catkins/cottony seeds are structurally different."
+  },
+  "tags": [
+    "Euphorbiaceae",
+    "Triadica",
+    "Chinese tallow",
+    "Introduced",
+    "Invasive comparison",
+    "Crew ID",
+    "Learner approved"
+  ],
+  "images": [
+    {
+      "file": "images/triadica-sebifera-leaf-fruit-provisional.jpg",
+      "role": "Leaves and immature green capsules",
+      "creator": "KENPEI",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Triadica_sebifera3.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa"
+    },
+    {
+      "file": "images/glass-root-garden-520384252-hanging-inflorescence.jpg",
+      "role": "Chinese tallow, NON-NATIVE comparison: hanging yellow-green flower spike with heart-shaped leaves",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/520384252",
+      "observation_url": "https://www.inaturalist.org/observations/289329652",
+      "observation_id": 289329652,
+      "photo_id": 520384252,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/520384252/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    },
+    {
+      "file": "images/glass-root-garden-647350130-diamond-leaf-venation.jpg",
+      "role": "Chinese tallow, NON-NATIVE comparison: diamond-to-heart-shaped pointed leaves and branching venation; seed capsules not featured",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/647350130",
+      "observation_url": "https://www.inaturalist.org/observations/354887217",
+      "observation_id": 354887217,
+      "photo_id": 647350130,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/647350130/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "photo_enriched_diagnostic_macros_pending",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-09",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "diagnostic_image_plan": [
+    "Whole tree habit and bark",
+    "Leaf outline and petiole-base glands macro",
+    "Terminal flower spike close-up",
+    "Three-lobed green capsule and mature dehiscence",
+    "White wax-coated seeds after capsule opens",
+    "Matched redbud and cottonwood leaf/fruit comparison"
+  ],
+  "curation_status": {
+    "version": "1.0-approved-fastfill-2026-10-08",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": false,
+    "lookalikes_reviewed": false,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-08",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "glass_root_garden_photo_install": "2026-10-14"
+  },
+  "curation_notes": "Reuses research-drafts/triadica-sebifera/draft.json and completed review disposition. Original reject_re_scout/range FAIL was scientific native-range classification, not a learner-admission rejection. Invasive comparison only.",
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Glass Root Garden owned-photo additions installed 2026-10-14; more diagnostic macros remain useful."
+}

@@ -1,0 +1,24 @@
+PHOTO FAST-FILL 049 — Croton lindheimerianus
+Date: 2026-10-06
+Source: https://w3.biosci.utexas.edu/prc/specimens/Euphorbiaceae.html
+Direct image: https://w3.biosci.utexas.edu/prc/specimens/img/147CrotoLinLin00357528.JPG
+Source attribution: UT Plant Resources Center / University of Texas Herbarium
+Specimen label: Croton lindheimerianus var. lindheimerianus
+Canonical learner concept: Croton lindheimerianus
+License/reuse: unverified
+Study use: yes
+Public reuse: review
+Role: whole voucher / habit and reproductive reference
+Media only; scientific status unchanged.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T02:42:54.540323+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/398847569
+https://www.inaturalist.org/observations/224994651
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T10:26:13.816867+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/398847609
+https://www.inaturalist.org/observations/224994651
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

@@ -1,0 +1,63 @@
+{
+  "id": "malva-parviflora",
+  "family": "Malvaceae",
+  "genus": "Malva",
+  "species": "parviflora",
+  "scientific_name": "Malva parviflora",
+  "common_name": "Small-flowered mallow",
+  "look_here_first": "Inspect round to shallowly lobed, scalloped leaves and the small pale flowers clustered at leaf axils; confirm the segmented disk-shaped fruit.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "manual_library_install_052": "2026-10-17"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:561830-1",
+  "images": [
+    {
+      "file": "images/inat-110447480.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) wbarrett, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/110447480",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/library-review052-2d8164ccb577ebb.jpg",
+      "role": "Recognize · low mallow plant and rounded lobed leaves; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Lobed to rounded foliage and low mallow habit",
+      "creator": "Linda Jo Conn",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6235213101",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/643118115/original.jpg",
+      "source_determination": "Malva parviflora",
+      "source_observation_id": "6235213101",
+      "library_release_tag": "hays-photo-library-mass-38993364540",
+      "library_archive_file": "staged_images/malva-parviflora/gbif-d0ea672cfc2779.jpg",
+      "archive_image_sha256": "5c02d1c767daeee4a62acceaa19adcb395171dffa05491058e01ed7ddef367c1",
+      "image_dimensions": [
+        1166,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

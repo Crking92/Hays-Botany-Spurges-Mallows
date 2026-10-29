@@ -1,0 +1,189 @@
+{
+  "id": "abutilon-theophrasti",
+  "entry_type": "species",
+  "family": "Malvaceae",
+  "genus": "Abutilon",
+  "species": "theophrasti",
+  "scientific_name": "Abutilon theophrasti",
+  "authority": "Medik.",
+  "common_name": "velvetleaf",
+  "look_here_first": "Go straight to the giant velvety leaves and mature fruit. Velvetleaf has a large ~15 × 20 mm schizocarp forming a conspicuous crown of mericarps with 3–6 mm divergent spines; the style is 13–15-branched.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "native_range_status": "COMPARISON",
+  "learner_admission_status": "APPROVED",
+  "learner_admission_basis": "approved_source_pool_membership",
+  "project_inclusion": {
+    "target_zone_status": "COMPARISON",
+    "range_basis": "POWO and Flora of North America treat the species as introduced/naturalized in Texas.",
+    "range_guardrail": "Learner comparison only; exclude from confirmed-native metrics."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "tall annual",
+      "very large velvety cordate leaves",
+      "pale yellow axillary flowers",
+      "13–15 style branches",
+      "large 15–20 mm schizocarp",
+      "many mericarps with long divergent beaks"
+    ],
+    "comparison_training": "Much larger-leaved and more strongly beaked than A. fruticosum; annual weed habit is also distinctive.",
+    "flower": "Calyx ~10 mm, lobes erect in fruit; pale-yellow petals 8–13 mm; staminal column glabrous; style 13–15-branched.",
+    "fruit_seed": "Schizocarp broadly ovoid, about 15 × 20 mm; mericarp apex spinose with divergent 3–6 mm spines; 3 seeds per mericarp, seeds 3–4 mm."
+  },
+  "comparisons": {
+    "key_distinctions": "Much larger-leaved and more strongly beaked than A. fruticosum; annual weed habit is also distinctive."
+  },
+  "photo_strategy": {
+    "method": "LEARNER FAST-FILL — science-first install",
+    "visual_priority": "Install learner card now; route exact-species project/user/Joey or licensed external media through Learner Photo Backfill.",
+    "remaining_need": "Habit, reproductive structure, and diagnostic close-up when practical."
+  },
+  "learner_role": "NON_NATIVE_COMPARISON",
+  "native_metrics_excluded": true,
+  "curation_status": {
+    "version": "1.0-source-pool-fast-fill",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "learner_admission_approved": true,
+    "visual_reviewed": false,
+    "visual_status": "photo-backfill-pending",
+    "last_reviewed": "2026-10-05",
+    "photo_metadata_count": 4,
+    "photo_files_present": 3,
+    "external_display_images_count": 1,
+    "last_visual_reviewed": "2026-10-11",
+    "manual_library_install_029": "2026-10-16"
+  },
+  "images": [
+    {
+      "file": "images/abutilon-theophrasti-provisional-face.jpg",
+      "role": "Whole plant / recognizable habit",
+      "creator": "St.Mons",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Abutilon_theophrasti.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Abutilon_theophrasti_fruit.jpg",
+      "role": "Reusable mature-fruit macro showing 14 long-beaked mericarps",
+      "creator": "Vibraison",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Abutilon_theophrasti_fruit.jpg",
+      "platform": "Wikimedia Commons",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution-sharealike",
+      "media_storage": "commons_redirect_url",
+      "scientific_name_verified": "Abutilon theophrasti",
+      "diagnostic_visibility": "Excellent fruit-top view; Commons description explicitly notes 14 mericarps and the long divergent tips are clearly visible."
+    },
+    {
+      "file": "images/library-review029-7d77f27ffa57091.jpg",
+      "role": "Yellow five-petaled mallow corolla and fuzzy leaf blades at close range; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Show introduced velvetleaf flower and characteristic leaf/fruit",
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/4954261253",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/397429059/original.jpeg",
+      "source_determination": "Abutilon theophrasti",
+      "source_observation_id": "4954261253",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/abutilon-theophrasti/gbif-7c4c04ea59f72a.jpg",
+      "archive_image_sha256": "fb741132e09fe2ab96327f4f84bb8c41a94bb69befb0ea31857754d0daeabd42",
+      "image_dimensions": [
+        1400,
+        931
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review029-185fdb96fe077ee.jpg",
+      "role": "Broad cordate leaf and developing segmented fruit/seed-capsule structure; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Show introduced velvetleaf flower and characteristic leaf/fruit",
+      "creator": "Bonnie Semmling",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/3860409377",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/207541925/original.jpg",
+      "source_determination": "Abutilon theophrasti",
+      "source_observation_id": "3860409377",
+      "library_release_tag": "hays-photo-library-mass-38762471564",
+      "library_archive_file": "staged_images/abutilon-theophrasti/gbif-2bc997af385e28.jpg",
+      "archive_image_sha256": "754b76f4cde136747aa6f01f879029201213ad0d22eddcf5c9997a5580786427",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "field_diagnostics": {
+    "single_best_trait": "Large wheel/crown fruit with long divergent mericarp spines.",
+    "fastest_traits": [
+      "Annual herb to 1+ m",
+      "Very large soft cordate leaves 8–15 cm",
+      "Pale yellow petals 8–13 mm",
+      "Staminal column glabrous",
+      "Style 13–15-branched",
+      "Fruit ~15 × 20 mm; mericarp spines 3–6 mm and divergent"
+    ],
+    "look_alikes": [
+      {
+        "taxon": "Abutilon fruticosum",
+        "distinction": "A. fruticosum is a woody-based subshrub with much smaller foliage, 6–9 style branches and a compact 8–9 mm fruit lacking long divergent spines."
+      },
+      {
+        "taxon": "Abutilon incanum",
+        "distinction": "A. incanum has only 5 style branches, a pubescent staminal column and a compact 7–9 mm cask-shaped fruit."
+      }
+    ],
+    "unreliable_alone": [
+      "yellow flower",
+      "cordate leaf shape"
+    ]
+  },
+  "diagnostic_photo_targets": [
+    "Mature fruit top view showing mericarp crown and count",
+    "Mature fruit side view with ruler showing 3–6 mm spines",
+    "Flower-center macro showing 13–15 style branches",
+    "Whole 8–15 cm velvety leaf with scale",
+    "Whole annual habit"
+  ],
+  "diagnostic_science_sources": [
+    {
+      "source": "Flora of North America",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200013684"
+    }
+  ],
+  "diagnostic_polish": {
+    "status": "text-polished-fruit-macro-added-style-macro-open",
+    "reviewed": "2026-10-11"
+  }
+}

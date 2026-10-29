@@ -1,0 +1,36 @@
+{
+  "id": "cochlospermum-wrightii",
+  "family": "Bixaceae",
+  "genus": "Cochlospermum",
+  "species": "wrightii",
+  "scientific_name": "Cochlospermum wrightii",
+  "common_name": "Cochlospermum wrightii",
+  "look_here_first": "Inspect the palmately divided leaf blades, large five-petaled flowers, prominent stamens and mature capsule.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Cochlospermum%20wrightii",
+  "images": [
+    {
+      "file": "images/inat-2730100.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Gerson Herrera, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/2730100",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

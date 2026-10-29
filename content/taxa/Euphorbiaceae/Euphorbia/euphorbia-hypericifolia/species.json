@@ -1,0 +1,536 @@
+{
+  "id": "euphorbia-hypericifolia",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "species": "hypericifolia",
+  "scientific_name": "Euphorbia hypericifolia",
+  "common_name": "Graceful spurge",
+  "look_here_first": "FIRST LOOK FOR SMALL ROUNDED HEADS, NOT A RED SPOT. Graceful sandmat (Euphorbia hypericifolia) is a GLABROUS upright-to-ascending annual whose tiny cyathia gather in DENSE TERMINAL AND AXILLARY HEADLIKE GLOMERULES with short/reduced bracts. Its opposite oblong leaves are mostly hairless and often finely toothed near the apex. At the nodes look for relatively large reddish TRIANGULAR stipule scales; FNA describes them as joined (connate), generally 1.5–2.2 mm, but the current photos prove their presence/shape better than the precise two-sided fusion seam. Compare E. nutans (leafier loose cyathial clusters, frequently short incurved stem hairs) and E. hyssopifolia (usually less compact/leafier reproductive clusters, smaller stipules). Smooth fruit alone is insufficient because all three may have glabrous fruit. Mature detached seed and definitive scaled smooth capsule macros still needed; nativity-by-county badge is NOT being promoted.",
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "visual_reviewed": true,
+    "photo_source_checked": true,
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "field_status": "FIELD_READY_WITH_FRUIT_SEED_AND_STIPULE_SCALE_GAPS",
+    "last_reviewed": "2026-10-21",
+    "visual_status": "FIELD_READY_DIAGNOSTIC_MICRO_GAPS",
+    "annotated_real_photo_count": 5,
+    "verified_arrow_count": 13
+  },
+  "photo_note": "FIVE CC BY or equivalent licensed exact-species physically saved photographs (one Duarte Frade iNaturalist, four M108t Wikimedia Commons) with THIRTEEN structure arrows already saved and reviewed. Source pixel review of both magnified stipule-position photographs completed October 21: reddish triangular stipule-like projections are visible at the nodes, but neither the exact 1.5–2.2mm size nor the fully connate connection is calibrated. Public image rights acceptable with attribution. Remaining scientifically meaningful photo gaps: measured mature 3-lobed smooth capsule, loose mature seed with surface sculpture, whole rooted plant with scale, and true same-node two-side stipule-fusion demonstration.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Euphorbia%20hypericifolia",
+  "images": [
+    {
+      "file": "images/inat-338600902.jpg",
+      "role": "Exact-species recognition shoot: opposite leaves and condensed heads; photo source previously manually verified",
+      "creator": "(c) Duarte Frade, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "source_page": "https://www.inaturalist.org/photos/338600902",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution required",
+      "caption": "The opposing leaves and clusters on branching reddish shoots are visible, but the exact fused stipule pattern, capsule hairs and seed texture cannot be assessed from this view.",
+      "anatomy_arrows": [
+        {
+          "label": "Opposite unequal leaves",
+          "target_fraction": [
+            0.45,
+            0.35
+          ]
+        },
+        {
+          "label": "Cluster of tiny cyathia",
+          "target_fraction": [
+            0.72,
+            0.44
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-20 actual previously installed JPEG retrieved and visually inspected via GitHub base64 readback. Arrowed only distinct external structures. Source imagery left untouched. No inferred calibrations or unstated fine-scale stipule fusion."
+    },
+    {
+      "file": "images/02-m108t-whole-habit.jpg",
+      "role": "Overall habit in the field; exact root/crown not necessarily resolved",
+      "creator": "M108t",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Habit_of_Euphorbia_hypericifolia_in_Ishigaki,_Okinawa.jpg",
+      "source_platform": "Wikimedia Commons exact-name wild-type photographic evidence",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "modifications": "Downscaled max 1700 px and converted to metadata-stripped JPEG for public educational website; original composition unchanged.",
+      "photo_review": "Source name, author and image-level CC BY 4.0 license verified by live Wikimedia Commons API. Photograph decoded, size and saved bytes checked; STRUCTURE ARROWS still require manual review of saved JPEG.",
+      "anatomy_arrows": [
+        {
+          "label": "Flower-bearing ascending shoot",
+          "target_fraction": [
+            0.47,
+            0.58
+          ]
+        },
+        {
+          "label": "Dense flowering heads",
+          "target_fraction": [
+            0.61,
+            0.46
+          ]
+        },
+        {
+          "label": "Opposite leaf pair",
+          "target_fraction": [
+            0.55,
+            0.52
+          ]
+        }
+      ],
+      "source_image_sha256": "709668ccbbcc0f0a57997144ae94bff490991e49f984e49112964e2284c77f47",
+      "original_image_dimensions": [
+        1920,
+        1440
+      ],
+      "saved_image_dimensions": [
+        1700,
+        1275
+      ],
+      "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Habit_of_Euphorbia_hypericifolia_in_Ishigaki%2C_Okinawa.jpg/1920px-Habit_of_Euphorbia_hypericifolia_in_Ishigaki%2C_Okinawa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_license_on_commons": "CC BY 4.0",
+      "caption": "This is a FIELD SHOOT view, not a calibrated whole-root habit photo. Follow the ascending flowering axis, opposite leaves and compact groups of cyathia.",
+      "manual_arrow_review": "2026-10-20 actual previously installed JPEG retrieved and visually inspected via GitHub base64 readback. Arrowed only distinct external structures. Source imagery left untouched. No inferred calibrations or unstated fine-scale stipule fusion."
+    },
+    {
+      "file": "images/03-m108t-dense-cyathia.jpg",
+      "role": "Terminal/axillary dense head-like cyathium glomerules; identify flower cluster position",
+      "creator": "M108t",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Inflorescece_of_Euphorbia_hypericifolia_in_Ishigaki,_Okinawa_1.jpg",
+      "source_platform": "Wikimedia Commons exact-name wild-type photographic evidence",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "modifications": "Downscaled max 1700 px and converted to metadata-stripped JPEG for public educational website; original composition unchanged.",
+      "photo_review": "Source name, author and image-level CC BY 4.0 license verified by live Wikimedia Commons API. Photograph decoded, size and saved bytes checked; STRUCTURE ARROWS still require manual review of saved JPEG.",
+      "anatomy_arrows": [
+        {
+          "label": "Dense axillary cyathium head",
+          "target_fraction": [
+            0.56,
+            0.47
+          ]
+        },
+        {
+          "label": "Second condensed cluster",
+          "target_fraction": [
+            0.7,
+            0.63
+          ]
+        },
+        {
+          "label": "Opposite oblong leaves",
+          "target_fraction": [
+            0.62,
+            0.65
+          ]
+        }
+      ],
+      "source_image_sha256": "cb435803b81ea6b0995c01ba368c51ea6cc00dded3d690390b7d511a6f9bb27b",
+      "original_image_dimensions": [
+        1920,
+        1440
+      ],
+      "saved_image_dimensions": [
+        1700,
+        1275
+      ],
+      "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Inflorescece_of_Euphorbia_hypericifolia_in_Ishigaki%2C_Okinawa_1.jpg/1920px-Inflorescece_of_Euphorbia_hypericifolia_in_Ishigaki%2C_Okinawa_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_license_on_commons": "CC BY 4.0",
+      "caption": "The head-like groups of tiny cyathia on short side branches stand out. Each head includes many reproductive units, not one ordinary multi-petaled flower. Paired oblong leaves are visible. Petal-like structures are gland appendages, not petals.",
+      "manual_arrow_review": "2026-10-21 actual source JPEG visually checked. Dense axillary flowering head/cyathium clusters and opposite oblong leaves clearly visible; three existing markers retained."
+    },
+    {
+      "file": "images/04-m108t-stipule-a.jpg",
+      "role": "Reddish triangular stipule-like protrusions at opposite leaf bases; both arrows visually reviewed; union/size unmeasured",
+      "creator": "M108t",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Stipule_of_Euphorbia_hypericifolia_in_Ishigaki,_Okinawa_1.jpg",
+      "source_platform": "Wikimedia Commons exact-name wild-type photographic evidence",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "modifications": "Downscaled max 1700 px and converted to metadata-stripped JPEG for public educational website; original composition unchanged.",
+      "photo_review": "Source name, author and image-level CC BY 4.0 license verified by live Wikimedia Commons API. Photograph decoded, size and saved bytes checked; STRUCTURE ARROWS still require manual review of saved JPEG.",
+      "anatomy_arrows": [
+        {
+          "label": "Reddish scale on left side",
+          "target_fraction": [
+            0.43,
+            0.52
+          ]
+        },
+        {
+          "label": "Reddish scale on right side",
+          "target_fraction": [
+            0.56,
+            0.45
+          ]
+        },
+        {
+          "label": "Opposite leaf junction",
+          "target_fraction": [
+            0.5,
+            0.53
+          ]
+        }
+      ],
+      "source_image_sha256": "d472e031b0cfbca2b097bf2dd2fcabea2ae2ac293198d20413da5f4110cc3b13",
+      "original_image_dimensions": [
+        1920,
+        1440
+      ],
+      "saved_image_dimensions": [
+        1700,
+        1275
+      ],
+      "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Stipule_of_Euphorbia_hypericifolia_in_Ishigaki%2C_Okinawa_1.jpg/1920px-Stipule_of_Euphorbia_hypericifolia_in_Ishigaki%2C_Okinawa_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_license_on_commons": "CC BY 4.0",
+      "caption": "Two short reddish triangular, scale-like protrusions at the opposite-leaf node are clearly visible. This view LOCATES stipules, but it does not supply a measurement or independent proof of fusion between the two sides.",
+      "manual_arrow_review": "2026-10-21 original saved source inspected: two reddish triangular pointed scales are identifiable around opposite leaf attachment, but photograph does not prove connate tissue between both scales or calibrated size."
+    },
+    {
+      "file": "images/05-m108t-stipule-b.jpg",
+      "role": "Second true node photograph: large reddish membrane-like stipule region, fusion geometry uncertain",
+      "creator": "M108t",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Stipule_of_Euphorbia_hypericifolia_in_Ishigaki,_Okinawa_2.jpg",
+      "source_platform": "Wikimedia Commons exact-name wild-type photographic evidence",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "modifications": "Downscaled max 1700 px and converted to metadata-stripped JPEG for public educational website; original composition unchanged.",
+      "photo_review": "Source name, author and image-level CC BY 4.0 license verified by live Wikimedia Commons API. Photograph decoded, size and saved bytes checked; STRUCTURE ARROWS still require manual review of saved JPEG.",
+      "anatomy_arrows": [
+        {
+          "label": "Pink triangular tissue at node",
+          "target_fraction": [
+            0.52,
+            0.53
+          ]
+        },
+        {
+          "label": "Leaf petiole joins stem",
+          "target_fraction": [
+            0.42,
+            0.7
+          ]
+        }
+      ],
+      "source_image_sha256": "0b882081e3063d8f7a166409e9c4b70a1cd53c78be0a22314b964abba8b6d3a1",
+      "original_image_dimensions": [
+        1920,
+        1440
+      ],
+      "saved_image_dimensions": [
+        1700,
+        1275
+      ],
+      "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Stipule_of_Euphorbia_hypericifolia_in_Ishigaki%2C_Okinawa_2.jpg/1920px-Stipule_of_Euphorbia_hypericifolia_in_Ishigaki%2C_Okinawa_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_license_on_commons": "CC BY 4.0",
+      "caption": "A large pink triangular membrane-like area extends across the node; the short green leaf petiole attaches just below. This is a useful stipule-location guide. Without a rotated dissection or scale, do not interpret the entire pink area as a reliably measured single stipule or claim exact fusion.",
+      "manual_arrow_review": "2026-10-21 original saved source inspected: reddish triangular leaf-base tissue and green petiole are visible. Two existing conservative pointers kept; do not assert 1.5–2.2mm size or precisely fused tips."
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "learner_fast_fill",
+    "image_count": 5,
+    "filled_at": "2026-10-17",
+    "note": "Five public eligible exact-species CC BY images, 13 structure arrows for condensed cyathium heads, opposite leaves and triangular stipule positions. Mature seed, independent capsule and measured stipule seam remain targeted holds.",
+    "annotated_source_count": 5,
+    "verified_arrow_count": 13
+  },
+  "authority": "L.",
+  "entry_type": "provisional_species",
+  "synonyms": [
+    "Chamaesyce hypericifolia (L.) Millsp.",
+    "Chamaesyce glomerifera Millsp.",
+    "Euphorbia glomerifera (Millsp.) L.C.Wheeler"
+  ],
+  "taxonomic_note": "Accepted Euphorbia hypericifolia L. in POWO and Flora of North America. Not to be confused with E. hyssopifolia or the historically misapplied E. nutans complex; do not substitute garden cultivar 'Diamond Frost' photographs for wild plants.",
+  "morphology_keys": {
+    "family_pattern": "Euphorbiaceae; Euphorbia sect. Anisophyllum: opposite unequal leaves, milky latex, cyathium (tiny special flower head), dry three-lobed capsule.",
+    "habit": "Annual taprooted herb; ascending/erect, 15–50 cm; shoots glabrous. New habit photograph is a potential example, not calibrated proof of height.",
+    "leaves": "Opposite, obliquely oblong to oblanceolate, 10–35 × 7–15 mm, asymmetric base, margins serrate/serrulate especially distally, glabrous; petioles 1–3 mm.",
+    "stipules": "Paired stipules at nodes fused into deltoid, usually entire scales (occasionally fringed apically), 1.5–2.2 mm, glabrous; often spreading away from stem. Need both-side node photo and scale before arrow labeling exact fusion.",
+    "inflorescence": "Cyathia crowded in dense, axillary or terminal headlike clusters (glomerules), with much-reduced bractlike leaves, NOT the leafy loosely spaced small cymes of E. nutans or E. hyssopifolia.",
+    "cyathium": "Four yellow-green/brown, often stipitate glands; white-pink petal-like gland appendages may be inconspicuous or absent from smaller glands. These are not true petals.",
+    "capsule": "Flattened-globose, smooth glabrous, approximately 1.3–1.4 × 1.1–1.5 mm.",
+    "seed": "About 0.9–1.1 × 0.5 mm; pale brown underneath a thin white mucilage coat; low smooth ridges and shallow irregular pits/depressions, not the 2–3 conspicuous transverse bars often seen in E. hyssopifolia.",
+    "best_field_traits": [
+      "dense terminal and axillary glomerules of many tiny cyathia",
+      "small, highly reduced bracts at cyathium heads",
+      "hairless stems and leaf surfaces (verify at basal node, not only at tips)",
+      "fused triangular nodal stipules about 1.5–2.2 mm",
+      "asymmetric opposite oblong leaves with finely serrate margins",
+      "smooth three-lobed capsules",
+      "seed sculpture if mature, with scale and confirmed exact species"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Euphorbia hyssopifolia",
+      "Euphorbia nutans",
+      "Euphorbia villifera"
+    ],
+    "key_distinctions": "Hypericifolia has glabrous stems AND dense head-like cyathia clusters with reduced bracts plus larger fused triangular stipules; hyssopifolia has generally smaller/leafier clusters and 0.5-1 mm lacerate stipules; nutans usually bears crinkled stem hairs and less condensed leafy cymes. Smooth capsules alone do not separate these species.",
+    "field_matrix": [
+      {
+        "character": "Cyathia arrangement",
+        "hypericifolia": "dense globose glomerules on short axes with reduced bracts",
+        "nutans": "solitary or small leafy terminal cymes",
+        "hyssopifolia": "solitary or small leafy cymes, sometimes congested"
+      },
+      {
+        "character": "Stems",
+        "hypericifolia": "glabrous throughout",
+        "nutans": "some short incurved/crinkled hairs usually present",
+        "hyssopifolia": "often pilose below, potentially glabrous at tips"
+      },
+      {
+        "character": "Stipules",
+        "hypericifolia": "fused deltoid scales, 1.5–2.2 mm",
+        "nutans": "irregularly toothed/fringed scales; variable basal fusion",
+        "hyssopifolia": "fused, irregularly lacerate scales 0.5–1 mm"
+      },
+      {
+        "character": "Seed sculpture",
+        "hypericifolia": "shallow irregular depressions/low smooth ridges",
+        "nutans": "fine irregular wrinkles, occasionally weak cross-ridges",
+        "hyssopifolia": "2–3 usually prominent transverse ridges or coarse pits"
+      },
+      {
+        "character": "Capsule",
+        "hypericifolia": "glabrous depressed-globose",
+        "nutans": "glabrous ovoid",
+        "hyssopifolia": "glabrous depressed-ovoid"
+      }
+    ]
+  },
+  "field_photo_quickcheck": {
+    "heading": "DENSE ROUNDED CYATHIUM HEADS + SMOOTH STEMS",
+    "featured_photo_indices": [
+      2,
+      3,
+      4,
+      1,
+      0
+    ],
+    "steps": [
+      "Look for the head-shaped clusters of many tiny cyathia at terminal and axillary short branches; don't call the entire round group one flower or fruit.",
+      "Locate opposite paired relatively broad green leaves on hairless stems, often with tiny apical marginal teeth.",
+      "At 10×–20× find the large pink-to-red triangular scales beside opposite leaf bases. Confirm actual stipule join from two angles if possible; current photos show location, NOT measured fusion extent.",
+      "Compare nodding spurge (E. nutans): its cyathia are generally solitary or small leafy clusters and stems may have short incurved hairs at nodes.",
+      "Compare E. hyssopifolia: it has smaller usually fringed/lacerate stipules and less condensed/leafier cymes; do not use one solitary head as species proof.",
+      "To finish the microscopic key, photograph a smooth mature 3-lobed capsule with ruler and the true detached 4-angled seed: FNA describes shallow irregular pits alternating with low ridges."
+    ],
+    "warning": "The five saved photos resolve flowers, opposite leaves and stipule LOCATIONS, not both-sided fusion at an accurately measured scale. The seed and mature fruit surfaces must be shown with additional exact-species licensed photos. Project county nativity remains unaudited."
+  },
+  "field_id_finalization": {
+    "stage": "FIELD_READY_WITH_FRUIT_SEED_AND_STIPULE_SCALE_PHOTO_GAPS",
+    "field_training_status": "CREW_READY_FOR_GLOMERULES_LEAF_ARRANGEMENT_AND_NODE_SCALE; CALIBRATED_STIPULE_AND_SEED_GAPS",
+    "date": "2026-10-20",
+    "canonical_photo_count": 5,
+    "photographic_arrow_status": "13 visible structure/location arrows manually checked against actual saved GitHub photos; no false microscopic-scale claims",
+    "remaining": [
+      "True full 10× mature glabrous 3-lobed capsule (not head of cyathia) with 1mm scale",
+      "Licensed true loose mature seed macro (shallow irregular pits/low ridges)",
+      "Actual same-node opposing faces showing connate triangular stipules at scale (existing photos prove red scales without exact seam)",
+      "Optional whole rooted 15–50cm habit with scale"
+    ],
+    "real_source_photos_annotated": 5,
+    "verified_anatomy_arrows": 13,
+    "photo_review": "Inspected face, habit/flowering shoot, headlike inflorescence and 2 real enlarged node photographs. Head-shaped inflorescence and reddened triangular stipule-like scales clear; full 2-sided fusion, dimensions and mature seed sculpture remain unverified.",
+    "review_date": "2026-10-21",
+    "closeout_note": "Five canonical CC BY source images already have thirteen individually inspected structure/placement arrows. Existing 2026-10-20 readback corroborated and two 2026-10-21 stipule originals reconfirmed. Removed stale 'photo needs manual arrow review' descriptions. Crew field-ready for glabrous stems, opposite leaves and dense headlike cyathia."
+  },
+  "science_reference_links": [
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242321438",
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242321439",
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242427660",
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:101671-2"
+  ],
+  "visual_comparison": {
+    "instance_id": "euphorbia-hypericifolia-four-licensed-views-20261020",
+    "title": "Graceful spurge — flowering heads, leaves and triangular stipule scales",
+    "subtitle": "Five actual GitHub JPEGs individually viewed and annotated with 13 structure/location arrows. Axillary heads and visible scales are field teaching points; exact stipule fusion and mature seeds remain science/photography gaps.",
+    "items": [
+      {
+        "scientific_name": "Euphorbia hypericifolia",
+        "label": "Original photo: opposite leaves and crowded small reproductive clusters",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-hypericifolia/images/inat-338600902.jpg",
+        "image_role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+        "caption": "The opposing leaves and clusters on branching reddish shoots are visible, but the exact fused stipule pattern, capsule hairs and seed texture cannot be assessed from this view.",
+        "image_fit": "contain",
+        "source_page": "https://www.inaturalist.org/photos/338600902",
+        "creator": "(c) Duarte Frade, some rights reserved (CC BY)",
+        "license": "CC BY",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "markers": [
+          {
+            "label": "Opposite unequal leaves",
+            "target_x": 45,
+            "target_y": 35,
+            "label_x": 12,
+            "label_y": 22
+          },
+          {
+            "label": "Cluster of tiny cyathia",
+            "target_x": 72,
+            "target_y": 44,
+            "label_x": 53,
+            "label_y": 66
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 actual previously installed JPEG retrieved and visually inspected via GitHub base64 readback. Arrowed only distinct external structures. Source imagery left untouched. No inferred calibrations or unstated fine-scale stipule fusion."
+      },
+      {
+        "scientific_name": "Euphorbia hypericifolia",
+        "label": "Flowering shoot in its natural surroundings",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-hypericifolia/images/02-m108t-whole-habit.jpg",
+        "image_role": "Overall habit in the field; exact root/crown not necessarily resolved",
+        "caption": "This is a FIELD SHOOT view, not a calibrated whole-root habit photo. Follow the ascending flowering axis, opposite leaves and compact groups of cyathia.",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Habit_of_Euphorbia_hypericifolia_in_Ishigaki,_Okinawa.jpg",
+        "creator": "M108t",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "markers": [
+          {
+            "label": "Flower-bearing ascending shoot",
+            "target_x": 47,
+            "target_y": 58,
+            "label_x": 4,
+            "label_y": 49
+          },
+          {
+            "label": "Dense flowering heads",
+            "target_x": 61,
+            "target_y": 46,
+            "label_x": 72,
+            "label_y": 24
+          },
+          {
+            "label": "Opposite leaf pair",
+            "target_x": 55,
+            "target_y": 52,
+            "label_x": 68,
+            "label_y": 72
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 actual previously installed JPEG retrieved and visually inspected via GitHub base64 readback. Arrowed only distinct external structures. Source imagery left untouched. No inferred calibrations or unstated fine-scale stipule fusion."
+      },
+      {
+        "scientific_name": "Euphorbia hypericifolia",
+        "label": "Condensed flower heads and opposing leaves",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-hypericifolia/images/03-m108t-dense-cyathia.jpg",
+        "image_role": "Terminal/axillary dense head-like cyathium glomerules; identify flower cluster position",
+        "caption": "The head-like groups of tiny cyathia on short side branches stand out. Each head includes many reproductive units, not one ordinary multi-petaled flower. Paired oblong leaves are visible. Petal-like structures are gland appendages, not petals.",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Inflorescece_of_Euphorbia_hypericifolia_in_Ishigaki,_Okinawa_1.jpg",
+        "creator": "M108t",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "markers": [
+          {
+            "label": "Dense axillary cyathium head",
+            "target_x": 56,
+            "target_y": 47,
+            "label_x": 43,
+            "label_y": 21
+          },
+          {
+            "label": "Second condensed cluster",
+            "target_x": 70,
+            "target_y": 63,
+            "label_x": 79,
+            "label_y": 84
+          },
+          {
+            "label": "Opposite oblong leaves",
+            "target_x": 62,
+            "target_y": 65,
+            "label_x": 58,
+            "label_y": 90
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 actual previously installed JPEG retrieved and visually inspected via GitHub base64 readback. Arrowed only distinct external structures. Source imagery left untouched. No inferred calibrations or unstated fine-scale stipule fusion."
+      },
+      {
+        "scientific_name": "Euphorbia hypericifolia",
+        "label": "Reddish nodal stipule scales",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-hypericifolia/images/04-m108t-stipule-a.jpg",
+        "image_role": "Opposite leaf node with spreading triangular connate stipules; arrow location awaits manual JPEG review",
+        "caption": "Two short reddish triangular, scale-like protrusions at the opposite-leaf node are clearly visible. This view LOCATES stipules, but it does not supply a measurement or independent proof of fusion between the two sides.",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Stipule_of_Euphorbia_hypericifolia_in_Ishigaki,_Okinawa_1.jpg",
+        "creator": "M108t",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "markers": [
+          {
+            "label": "Reddish scale on left side",
+            "target_x": 43,
+            "target_y": 52,
+            "label_x": 5,
+            "label_y": 58
+          },
+          {
+            "label": "Reddish scale on right side",
+            "target_x": 56,
+            "target_y": 45,
+            "label_x": 62,
+            "label_y": 25
+          },
+          {
+            "label": "Opposite leaf junction",
+            "target_x": 50,
+            "target_y": 53,
+            "label_x": 65,
+            "label_y": 79
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 actual previously installed JPEG retrieved and visually inspected via GitHub base64 readback. Arrowed only distinct external structures. Source imagery left untouched. No inferred calibrations or unstated fine-scale stipule fusion."
+      },
+      {
+        "scientific_name": "Euphorbia hypericifolia",
+        "label": "Second nodal angle: pink scale region",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-hypericifolia/images/05-m108t-stipule-b.jpg",
+        "image_role": "Second angle of true stipules; fusion architecture must be visually confirmed before arrow claims",
+        "caption": "A large pink triangular membrane-like area extends across the node; the short green leaf petiole attaches just below. This is a useful stipule-location guide. Without a rotated dissection or scale, do not interpret the entire pink area as a reliably measured single stipule or claim exact fusion.",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Stipule_of_Euphorbia_hypericifolia_in_Ishigaki,_Okinawa_2.jpg",
+        "creator": "M108t",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "markers": [
+          {
+            "label": "Pink triangular tissue at node",
+            "target_x": 52,
+            "target_y": 53,
+            "label_x": 8,
+            "label_y": 41
+          },
+          {
+            "label": "Leaf petiole joins stem",
+            "target_x": 42,
+            "target_y": 70,
+            "label_x": 66,
+            "label_y": 87
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 actual previously installed JPEG retrieved and visually inspected via GitHub base64 readback. Arrowed only distinct external structures. Source imagery left untouched. No inferred calibrations or unstated fine-scale stipule fusion."
+      }
+    ],
+    "overlay_note": "Duarte Frade (existing iNaturalist CC BY photo), M108t (4 newly installed Wikimedia Commons CC BY 4.0 photos). These are on-screen pointer coordinates on saved original image crops; no physical source JPEG pixel edits, license remains photo-specific."
+  }
+}

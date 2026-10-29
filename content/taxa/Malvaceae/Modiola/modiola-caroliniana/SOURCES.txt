@@ -1,0 +1,9 @@
+Approved source pool working taxon Modiola caroliniana; original source rows 725.
+Taxonomy search https://powo.science.kew.org/results?q=Modiola%20caroliniana
+Exact licensed image Commons file https://commons.wikimedia.org/wiki/File:Modiola_caroliniana_1.jpg
+Physical original download via https://commons.wikimedia.org/wiki/Special:Redirect/file/Modiola%20caroliniana%201.jpg
+Creator Krzysztof Ziarnek (Kenraiz)
+Image license CC BY-SA 4.0
+Photo provisional role Provisional plant and mallow flowers; mature segmenting fruits and epicalyx anatomy need closeups.
+Caution Out-of-region photographed individual; no BONAP county nativity asserted.
+Photo is an aid, not completed independent confirmation of all botanical parts or Hays-range nativity.

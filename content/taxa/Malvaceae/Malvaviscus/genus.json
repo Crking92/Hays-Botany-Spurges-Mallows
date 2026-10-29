@@ -1,0 +1,216 @@
+{
+  "rank": "genus",
+  "name": "Malvaviscus",
+  "family": "Malvaceae",
+  "common_group": "Turk's-cap / wax-mallows",
+  "project_scope": {
+    "selection_mode": "Parent-level source-pool concept plus one canonical infraspecific Central Texas entity",
+    "source_pool_names": [
+      "Malvaviscus arboreus",
+      "Malvaviscus arboreus var. drummondii"
+    ],
+    "canonical_species_ids": [
+      "malvaviscus-arboreus-var-drummondii"
+    ],
+    "source_pool_count": 2,
+    "canonical_count": 1,
+    "identity_rule": "Parent species M. arboreus is broader than var. drummondii, not a second species. Map definite Texas wild variety records to var. drummondii when morphology and provenance support it; do not automatically equate all broad or ornamental parent records with the local variety."
+  },
+  "shared_genus_recognition": {
+    "look_here_first": "Find the red or red-orange tubular FURLED corolla: the five petals remain overlapping and wrapped rather than flattening. The staminal column projects beyond the corolla, with the style/stigmas beyond. Flip the bloom over: look for 8–9 persistent involucellar bractlets below a five-lobed calyx. Follow fruit to a fleshy, red, five-part schizocarp.",
+    "shared_traits": [
+      "Malvaceae shrubs with alternate simple often cordate leaves; stellate hairs on petioles/stems are informative.",
+      "Axillary flowers with five petals, an involucel of usually 8–9 bractlets, long exserted staminal column, ten style branches and capitate stigmas.",
+      "The fruit is an erect fleshy schizocarpic berry made of five indehiscent mericarps, not a dry capsule typical of many Hibiscus."
+    ],
+    "learning_warning": "Do not mistake the exposed long staminal column for the style alone; identify the anthers along the column and distinct stigmatic branches at its tip."
+  },
+  "comparison_matrix": [
+    {
+      "character": "taxonomic meaning",
+      "M. arboreus (species-level source name)": "Broad species; may include var. drummondii or var. arboreus and needs better identification context",
+      "M. arboreus var. drummondii (canonical)": "The specifically identified Central Texas variety, not interchangeable with every broad parent record",
+      "M. arboreus var. arboreus (outside pool look-alike)": "Different, usually southern/tropical infraspecific concept; introduced/cultivated encounter in US according to FNA",
+      "weight": "TAXONOMY FIRST"
+    },
+    {
+      "character": "leaf lobes and proportions",
+      "M. arboreus (species-level source name)": "Cannot assign a consistent lobe count without determining variety",
+      "M. arboreus var. drummondii (canonical)": "Typically consistently broad, cordate and distinctly three-lobed leaves",
+      "M. arboreus var. arboreus (outside pool look-alike)": "Often entire/unlobed or only shallowly lobed, generally longer than broad",
+      "weight": "PRIMARY infraspecific comparison"
+    },
+    {
+      "character": "leaf base and tip",
+      "M. arboreus (species-level source name)": "Undetermined until variety and specimen studied",
+      "M. arboreus var. drummondii (canonical)": "Deeply cordate base, often blunt/obtuse lobes",
+      "M. arboreus var. arboreus (outside pool look-alike)": "Usually rounded to weakly cordate base, typically acute tip",
+      "weight": "SUPPORTING"
+    },
+    {
+      "character": "hairs on young stem and petiole",
+      "M. arboreus (species-level source name)": "Variation includes glabrate or densely hairy plants",
+      "M. arboreus var. drummondii (canonical)": "Often densely overlapping stellate hairs giving a velvety texture",
+      "M. arboreus var. arboreus (outside pool look-alike)": "Variable pubescence to almost hairless; less uniformly velvety",
+      "weight": "SUPPORTING paired macro"
+    },
+    {
+      "character": "vegetative spread / clonal habit",
+      "M. arboreus (species-level source name)": "Cannot conclude clonal variety from species-level label",
+      "M. arboreus var. drummondii (canonical)": "Often forms dense colonies through root proliferation",
+      "M. arboreus var. arboreus (outside pool look-alike)": "Not characteristically clone-forming in FNA treatment",
+      "weight": "ECOLOGICAL/STRUCTURAL support; do not dig roots for routine ID"
+    },
+    {
+      "character": "flower and fruit anatomy",
+      "M. arboreus (species-level source name)": "Furled tubular corolla + exserted staminal column + fleshy 5-mericarp schizocarp at genus level",
+      "M. arboreus var. drummondii (canonical)": "Shared genus flower; long staminal column, red fruit in mature material",
+      "M. arboreus var. arboreus (outside pool look-alike)": "Overlapping genus flower; cannot key varieties solely from red petals",
+      "weight": "GENUS LOCK, NOT VARIETY KEY"
+    }
+  ],
+  "look_here_first_sequence": [
+    {
+      "step": 1,
+      "inspect": "open flower and view beneath calyx",
+      "decision": "Verify 5 rolled petals plus 8–9 involucellar bractlets, projecting staminal column and stigmas: Malvaviscus."
+    },
+    {
+      "step": 2,
+      "inspect": "several mature leaves, upper and lower, with young stem at node",
+      "decision": "Consistently broad deeply cordate three-lobed leaves with dense stellate velvety hairs favor var. drummondii."
+    },
+    {
+      "step": 3,
+      "inspect": "mature leaf series on a noncultivated or garden specimen",
+      "decision": "Mostly unlobed/shallow lobes, elongate blades and rounded bases suggest var. arboreus or another ornamental form; do not force local-variety name."
+    },
+    {
+      "step": 4,
+      "inspect": "ripe fruit and surrounding branches",
+      "decision": "Confirm fleshy red five-part fruit. Dense root-derived colonizing stems can support var. drummondii, but do not excavate for ID."
+    },
+    {
+      "step": 5,
+      "inspect": "only parent-level photo/record or ornamental provenance",
+      "decision": "Retain M. arboreus sensu lato and flag variety unresolved. Do not automatically install parent as second canonical species."
+    }
+  ],
+  "scientific_cautions": [
+    "The Sheet's two source names are a broad parent and a particular variety; there is one separate local canonical infraspecific learner concept, not two species to install.",
+    "Native local var. drummondii is not equivalent to horticultural Malvaviscus arboreus parent without characters and source context.",
+    "FNA states var. arboreus appears introduced/rarely cultivated in the US; treat it as nonlocal comparison, not confirmed target-zone native.",
+    "Malvaviscus penduliflorus is a more robust planted look-alike with long drooping flowers and stamens often not fully protruding; verify identification and wild status instead of mistaking it for local Turk's cap.",
+    "Staminal column and style are different structures; use flower macro labels with individual stamens, anthers, style branches, stigmas.",
+    "Some cultivated forms change red/yellow flower appearance; color or bloom season alone cannot certify var. drummondii.",
+    "Don't convert county-native PASS or exact variety identification from a video caption alone; preserve the existing canonical decision and evidence."
+  ],
+  "local_lookalike_routing": [
+    {
+      "taxon": "Hibiscus spp. (Malvaceae)",
+      "separator": "Many Hibiscus open their five petals broadly and typically develop drier capsules; compare unopened/fresh flower and mature fruit, epicalyx arrangement and staminal column."
+    },
+    {
+      "taxon": "Malvaviscus penduliflorus (ornamental)",
+      "separator": "Larger drooping flowers, often 7 cm, column not fully exserted, often fruitless in cultivation; compare fresh flower pose and mature fruit."
+    },
+    {
+      "taxon": "M. arboreus var. arboreus",
+      "separator": "Mostly unlobed/weakly lobed, longer-than-wide leaves with rounded base and non-clonal growth, versus drummondii's broad deeply cordate three-lobed foliage."
+    },
+    {
+      "taxon": "Pavonia spp. and other local mallows",
+      "separator": "Check rolled tube-like 5 petals, conspicuously protruding column and fleshy five-mericarp fruit rather than a generic mallow resemblance."
+    }
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "priority": "critical",
+      "role": "flower side macro with labels",
+      "target": "var. drummondii",
+      "show": "overlapping furled five petals, protruding staminal column with anthers, style, 10 stigmatic branches"
+    },
+    {
+      "priority": "critical",
+      "role": "flower underside/epicalyx macro",
+      "target": "var. drummondii",
+      "show": "8–9 involucellar bractlets outside 5 true calyx lobes; arrow and count each structure"
+    },
+    {
+      "priority": "critical",
+      "role": "matched mature leaf and petiole/stem hairs",
+      "target": "var. drummondii vs var. arboreus comparison",
+      "show": "three broad lobes/cordate base/velvety stellate hairs versus variable longer unlobed leaves and less velvety hairs"
+    },
+    {
+      "priority": "high",
+      "role": "fleshy schizocarp fruit/section",
+      "target": "var. drummondii",
+      "show": "mature red fruit, five individual fleshy mericarps, not dry Hibiscus capsule"
+    },
+    {
+      "priority": "high",
+      "role": "clone-forming growth habit",
+      "target": "var. drummondii",
+      "show": "several natural stems from colony and mature leaf series, no digging"
+    },
+    {
+      "priority": "high",
+      "role": "ornamental look-alike matched flower",
+      "target": "Malvaviscus penduliflorus comparison",
+      "show": "pendulous large flower and partially enclosed stamens versus local upright furled flower"
+    }
+  ],
+  "existing_media_routing": {
+    "asset": "Saved Joey San Marcos River photo/frame routing in canonical species record; existing species image and family visual lesson",
+    "status": "reference only, genus lesson itself does not install or verify new imagery",
+    "policy": "Preserve video timestamp, source rights, study-use/public-reuse labeling and annotated overlay provenance."
+  },
+  "handoffs": [
+    {
+      "lane": "Taxonomy + Diagnostic Review / installer",
+      "target": "M. arboreus source parent name",
+      "question": "Resolve source records only when robust leaf, stem and geography evidence exists. Parent name is broader than local variety; do not install duplicate parent species by assumption."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "target": "var. drummondii genus macros",
+      "question": "Use Joey/user material where diagnostic, then exact-species rights-cleared shot of involucel, anthers versus stigma, leaf hairs and fleshy fruit; preserve license and credits."
+    },
+    {
+      "lane": "Species installer",
+      "target": "none",
+      "question": "var. drummondii already installed; no new canonical species required by this lesson."
+    }
+  ],
+  "scientific_sources": [
+    {
+      "source": "Flora of North America — Malvaviscus genus",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=119574",
+      "supports": "involucel, furled corolla, berry-like schizocarp, clone-forming drummondii vs typical arboreus"
+    },
+    {
+      "source": "Flora of North America — M. arboreus var. arboreus",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242423179",
+      "supports": "mostly unlobed leaves, longer-than-broad blade, nonclonal and southern cultivated status"
+    },
+    {
+      "source": "UT Austin Plant Resources Center — M. arboreus var. drummondii",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Malvaviscus%20arboreus%20drummondii.html",
+      "supports": "10 style branches, 8–10 epicalyx bractlets, fruit mericarps and floral parts"
+    },
+    {
+      "source": "Canonical learner species",
+      "path": "content/taxa/Malvaceae/Malvaviscus/malvaviscus-arboreus-var-drummondii/species.json",
+      "supports": "accepted local infraspecific taxon and settled target-zone range"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-genus-github-backfill",
+    "last_reviewed": "2026-10-11",
+    "structural_lesson": "genus characters plus parent-to-variety identity comparison",
+    "visual_status": "diagnostic macros not installed by this lane",
+    "scientific_decisions": "unchanged",
+    "species_installation": "none"
+  }
+}

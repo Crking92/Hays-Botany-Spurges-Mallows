@@ -1,0 +1,27 @@
+Ammannia auriculata Willd. — accepted species (Kew Plants of the World Online).
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30030870-2
+Morphology: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30030870-2/general-information
+Source-pool learner approved. Target-county range UNRESOLVED; Texas-native at state scale is not three-county proof.
+Diagnostic Photo Polish: exact-species leaf-base, flower cyme, calyx, and capsule photos needed. No image installed or public license verified; arrows pending.
+
+PROVISIONAL GBIF EXACT-SPECIMEN FIRST PHOTO 2026-10-15T13:14:57.154353+00:00
+Ammannia auriculata Willd.
+djwu
+CC BY-NC http://creativecommons.org/licenses/by-nc/4.0/
+https://www.gbif.org/occurrence/5062945731
+https://inaturalist-open-data.s3.amazonaws.com/photos/463042055/original.jpg
+Anatomy visual verification pending; no scientific taxon/range status changed.
+
+LIBRARY-FIRST IMAGE SELECTION 013 2026-10-16T16:38:47.310803+00:00
+Ammannia auriculata
+Creator: Sam Kieschnick; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6567434056
+Stored archive: hays-photo-library-mass-38760123960 :: staged_images/ammannia-auriculata/gbif-a37fb9c5eeafca.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 013 2026-10-16T16:38:47.310803+00:00
+Ammannia auriculata
+Creator: Sam Kieschnick; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6567434056
+Stored archive: hays-photo-library-mass-38760123960 :: staged_images/ammannia-auriculata/gbif-938be1918b1f60.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

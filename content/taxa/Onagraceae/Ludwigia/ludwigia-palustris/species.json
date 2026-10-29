@@ -1,0 +1,170 @@
+{
+  "id": "ludwigia-palustris",
+  "entry_type": "species",
+  "family": "Onagraceae",
+  "genus": "Ludwigia",
+  "species": "palustris",
+  "scientific_name": "Ludwigia palustris",
+  "authority": "(L.) Elliott",
+  "common_name": "Marsh seedbox / water purslane",
+  "look_here_first": "Both this species and Ludwigia repens have opposite leaves on creeping stems. Find an axillary flower: palustris has four green sepals and no yellow petals. Do not rely only on absent petals because repens may be apetalous or shed petals. Check the ovary/mature capsule: palustris typically has four longitudinal dark-green bands across its faces; repens does not.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Calvin-approved Master Plant Pool / Ludwigia source-pool genus review",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "STUDY_REFERENCE_NATIVE_STATUS_PENDING",
+    "verified_target_counties": [],
+    "range_basis": "Strict BONAP/NAPA and Hays/project-county range review was not completed in this quick visual install; source-pool admission is separate from native-range certification.",
+    "range_guardrail": "Do not count as confirmed Hays/target-zone native unless independently validated."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "morphology_keys": {
+    "habit": "Creeping/decumbent perennial of wet mud and shallow water; roots at nodes.",
+    "leaves": "Opposite, small elliptic to obovate, generally entire.",
+    "flower": "Minute axillary flowers with four usually green sepals; petals absent (not merely hidden). Usually four stamens.",
+    "fruit": "Short 2–5 mm 4-sided capsule with four green longitudinal bands, one across each face; compare with L. repens often longer 4–10 mm fruits that lack these characteristic bands. Fruit length overlaps and is supporting only.",
+    "best_field_traits": [
+      "opposite leaves on creeping rooting stems shared with L. repens",
+      "petal-less tiny flower with four green sepals (repens sometimes loses/lacks petals too)",
+      "four dark-green longitudinal bands on ovary/capsule are the strongest confirmed separation from L. repens",
+      "short 2–5 mm capsule, though size overlaps repens",
+      "avoid guessing species from vegetative aquatic mats only"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ludwigia octovalvis",
+      "Ludwigia repens",
+      "other Ludwigia spp.",
+      "Hygrophila polysperma"
+    ],
+    "key_distinctions": "Palustris usually lacks petals and has four green capsule bands. L. repens may show tiny yellow petals, BUT may sometimes lack them as well: its mature capsule lacks palustris' four green longitudinal bands. Opposite foliage/creeping growth by themselves are shared and non-diagnostic."
+  },
+  "images": [
+    {
+      "file": "images/images/01-ludwigia-palustris-licensed-source.jpg",
+      "role": "Opposite leaves with tiny green sepaled fruiting structures at nodes",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ludwigia_palustris_260984076.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with license terms"
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ludwigia_palustris_278592882.jpg",
+      "role": "true flower macro: four green sepals and absent yellow petals",
+      "caption": "A genuinely petal-less Ludwigia palustris flower, with four green sepals framing the reproductive center. This is NOT a mature striped capsule; compare the petalled L. repens flower and look for four longitudinal green stripes on mature palustris fruits.",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ludwigia_palustris_278592882.jpg",
+      "photo_id": "278592882",
+      "observation_id": "161186018",
+      "location": "Alachua County, Florida; not Hays",
+      "platform": "iNaturalist via Wikimedia Commons",
+      "study_use": true,
+      "public_reuse": "yes with CC BY 4.0 attribution",
+      "remote_only": true,
+      "photo_verified": "Original full-resolution photograph inspected visually 2026-10-11; sepal ring centered and in focus."
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Ludwigia_palustris_278592865.jpg",
+      "role": "opposite leaf node and short petioles on erect tip, supporting vegetative trait",
+      "caption": "Close-up of opposing leaf pairs and short petioles on a Ludwigia palustris shoot. The photo shows leaf architecture only; not a diagnostic flower, striped capsule or rooting stem node.",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ludwigia_palustris_278592865.jpg",
+      "photo_id": "278592865",
+      "observation_id": "161186018",
+      "location": "Alachua County, Florida; not Hays",
+      "platform": "iNaturalist via Wikimedia Commons",
+      "study_use": true,
+      "public_reuse": "yes with CC BY 4.0 attribution",
+      "remote_only": true,
+      "photo_verified": "Original full-resolution photograph inspected visually 2026-10-11; leaves at nodes in focus."
+    },
+    {
+      "file": "images/library-review036-62e19c22ef62f4d.jpg",
+      "role": "Close opposite wetland herb foliage on reddish stems growing among shallow water; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Distinct morphological view visually screened from exact-name archived source; ID and organ-level diagnostic certainty provisional",
+      "creator": "Jackie T",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6188535006",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/634257983/original.jpg",
+      "source_determination": "Ludwigia palustris",
+      "source_observation_id": "6188535006",
+      "library_release_tag": "hays-photo-library-mass-38951157448",
+      "library_archive_file": "staged_images/ludwigia-palustris/gbif-d96535fbe95250.jpg",
+      "archive_image_sha256": "56cd97d705a80ed57976ce09a82a56423abebc312f04a50e31df7995214341e7",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review036-7376103505cbdc1.jpg",
+      "role": "Compact wetland Ludwigia shoots and distinct opposite leaf-pair arrangement; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Distinct morphological view visually screened from exact-name archived source; ID and organ-level diagnostic certainty provisional",
+      "creator": "Sam Kieschnick",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6273725381",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/648365971/original.jpg",
+      "source_determination": "Ludwigia palustris",
+      "source_observation_id": "6273725381",
+      "library_release_tag": "hays-photo-library-mass-38951157448",
+      "library_archive_file": "staged_images/ludwigia-palustris/gbif-7d5118029835cd.jpg",
+      "archive_image_sha256": "56566d713289911a15fe743ada73c57353cebff61b7946eb13327546f46f2a13",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "note": "One licensed exact-species reference image installed; specialized reproductive and local macro comparison photos pending."
+  },
+  "diagnostic_image_plan": [
+    "Real close-up showing four vertical green bands on one mature capsule, preferably with scale. Not yet acquired.",
+    "Flower sepal ring macro present, exact species and creator checked (Alex Abair photo 278592882).",
+    "Opposite node and petiole view present (Alex Abair 278592865); add one true root-emergence node macro eventually."
+  ],
+  "curation_status": {
+    "version": "1.1-repens-palustris-diagnostic-polish",
+    "last_reviewed": "2026-10-11",
+    "user_approved": true,
+    "photo_metadata_count": 5,
+    "photo_files_present": 3,
+    "externally_linked_diagnostic_images": 2,
+    "visual_status": "green_sepal_flower_and_opposite_leaf_macros_live__striped_capsule_macro_pending",
+    "manual_library_install_036": "2026-10-16"
+  },
+  "source_notes": "Morphology from FNA Ludwigia key / Kew species treatments; source image file and license verified, not necessarily local native source.",
+  "diagnostic_photo_status": {
+    "flower": "licensed exact-species petal-less flower close-up verified",
+    "leaf_nodes": "licensed exact-species opposite leaf close-up verified",
+    "capsule_bands": "missing distinct true capsule stripe macro with scale",
+    "rooted_node": "missing exact-species rooted node macro"
+  },
+  "photo_note": "Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

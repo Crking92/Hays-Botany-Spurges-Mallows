@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Euphorbia%20eriantha
+Source research-grade observation: https://www.inaturalist.org/observations/107804004
+Photo: https://www.inaturalist.org/photos/181384310
+Attribution: (c) Eric Knight, some rights reserved (CC BY)
+License: CC BY; Attribution required
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

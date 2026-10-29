@@ -1,0 +1,34 @@
+# Deep Review sources — Oenothera triloba
+Reviewed: 2026-10-02
+Batch: deep-review-batch-007-oenothera-b003
+Status: READY_FOR_APPROVAL
+
+## Taxonomy
+Accepted: Oenothera triloba Nutt.
+Kew/POWO: https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A614152-1
+
+## Strict project-range evidence
+- Hays — https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html
+- Travis — https://w3.biosci.utexas.edu/prc/specimens/Onagraceae.html
+- Williamson — https://w3.biosci.utexas.edu/prc/K12/pages/Oenothera%20triloba.html
+Decision: PASS
+
+## Morphology
+- Williamson County treatment: https://w3.biosci.utexas.edu/prc/K12/pages/Oenothera%20triloba.html
+
+APPROVAL
+User explicitly approved canonical inclusion on 2026-10-02.
+
+LIBRARY-FIRST IMAGE SELECTION 011 2026-10-16T16:04:34.286924+00:00
+Oenothera triloba
+Creator: Sam Kieschnick; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6178296416
+Stored archive: hays-photo-library-mass-38760123960 :: staged_images/oenothera-triloba/gbif-98a38f08b6ea38.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 011 2026-10-16T16:04:34.286924+00:00
+Oenothera triloba
+Creator: Sue Ann Kendall; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6179082085
+Stored archive: hays-photo-library-mass-38760123960 :: staged_images/oenothera-triloba/gbif-8e8e2811ac0f72.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

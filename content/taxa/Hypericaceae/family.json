@@ -1,0 +1,143 @@
+{
+  "rank": "family",
+  "name": "Hypericaceae",
+  "common_name": "St. John's-wort family",
+  "lineage_context": {
+    "order": "Malpighiales",
+    "batch": "Malpighiales",
+    "close_project_families": [
+      "Malpighiaceae",
+      "Clusiaceae-type lookalikes",
+      "Linaceae"
+    ],
+    "teaching_goal": "Use opposite exstipulate gland-dotted leaves plus yellow 5-petal flowers with numerous stamens in bundles as the local Hypericum door."
+  },
+  "project_scope": {
+    "selection_mode": "Central Texas Hypericum-only family module",
+    "note": "Both project taxa are accepted Hypericum, so the family lesson can be highly visual and genus-focused."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Hold a leaf to light: local Hypericum commonly shows translucent punctate glands and sometimes black marginal dots. Then confirm opposite simple exstipulate leaves and a yellow 5-petal flower packed with many stamens, often in distinct bundles.",
+    "vegetative": "Herbs to shrubs. Local Hypericum has opposite simple leaves without stipules; translucent or dark gland dots/canals are highly useful.",
+    "reproductive": "Flowers usually radial with 5 sepals and 5 free petals. Stamens are numerous and commonly united at the base into several bundles around a superior ovary.",
+    "fruit": "Usually a capsule in local Hypericum; styles/stigmas commonly 3–5 depending on the species group.",
+    "field_tip": "Opposite leaves + no stipules + translucent/dark glands + yellow flower with many bundled stamens is a very strong local combination."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_007",
+    "teaching_order": "leaf glands → opposite exstipulate node → yellow 5-petal flower → stamen bundles → capsule/styles → species doors",
+    "intro": "St. John's-worts become much easier when you use the leaf like a transparency slide. The glands are there even before the flower opens.",
+    "steps": [
+      {
+        "title": "1 · Hold the leaf to light",
+        "photo_role": "backlit leaf macro",
+        "look_for": "Translucent dots or short glandular canals; some taxa also show dark/black marginal or internal glands.",
+        "why_it_matters": "One of the fastest and most memorable Hypericum clues.",
+        "status": "local_macro_pending"
+      },
+      {
+        "title": "2 · Check the opposite node",
+        "photo_role": "node macro",
+        "look_for": "Opposite simple leaves without stipules.",
+        "why_it_matters": "Pairs the gland clue with a structural character and separates several lookalikes.",
+        "status": "local_macro_pending"
+      },
+      {
+        "title": "3 · Count petals, then ignore the exact stamen count",
+        "photo_role": "flower face",
+        "look_for": "Usually five yellow petals surrounding a dense mass of many stamens.",
+        "why_it_matters": "Many stamens are more useful than trying to count an exact number.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "4 · See the stamens in bundles",
+        "photo_role": "flower-center macro",
+        "look_for": "Filaments united at their bases into distinct groups around the ovary.",
+        "why_it_matters": "This is a strong family/genus-level reproductive clue.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "5 · Finish with styles and capsule",
+        "photo_role": "ovary/style + mature capsule",
+        "look_for": "Superior ovary with multiple styles/stigmas, later becoming a dry capsule.",
+        "why_it_matters": "Confirms the family after petals and stamens are gone.",
+        "status": "macro_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Hypericaceae vs Linaceae",
+        "rule": "Both can be 5-petaled Malpighiales herbs, but Hypericum has opposite gland-dotted leaves and many stamens; local Linum usually has narrow leaves, only five fertile stamens and a five-style capsule plan."
+      },
+      {
+        "title": "Hypericaceae vs Malpighiaceae",
+        "rule": "Both may show glandular structures, but Malpighiaceae often has clawed petals, 10 stamens and external sepal oil glands; Hypericum has numerous bundled stamens and translucent/dark leaf glands."
+      }
+    ],
+    "caveat": "Global Hypericaceae includes forms that depart from the familiar yellow Hypericum pattern. This project contains Hypericum only."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Hypericum",
+        "taxa_count": 2,
+        "fast_cue": "opposite gland-dotted exstipulate leaves + yellow 5-petal flower + many bundled stamens",
+        "role": "sole project genus"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Hypericum hypericoides",
+    "Hypericum walteri"
+  ],
+  "taxonomy_notes": [
+    "Hypericum hypericoides and Hypericum walteri are both accepted under current Kew."
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "backlit translucent leaf glands",
+      "annotation_goal": "circle pellucid glands and any dark glands"
+    },
+    {
+      "priority": 1,
+      "structure": "bundled stamens",
+      "annotation_goal": "show filament groups around ovary"
+    },
+    {
+      "priority": 2,
+      "structure": "style/capsule sequence",
+      "annotation_goal": "connect flower-center architecture to fruit"
+    },
+    {
+      "priority": 2,
+      "structure": "Hypericaceae vs Linaceae flower card",
+      "annotation_goal": "many bundled stamens vs five-stamen flax"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Hypericaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001287-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Hypericum",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30002180-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Hypericum hypericoides",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30080839-2"
+    },
+    {
+      "source": "Plants of the World Online — Hypericum walteri",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:126401-2"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-007",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "family_structure_live_leaf_gland_stamen_bundle_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

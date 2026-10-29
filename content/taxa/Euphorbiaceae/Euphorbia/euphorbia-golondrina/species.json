@@ -1,0 +1,514 @@
+{
+  "id": "euphorbia-golondrina",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "species": "golondrina",
+  "scientific_name": "Euphorbia golondrina",
+  "common_name": "Swallow spurge / Boquillas sandmat",
+  "look_here_first": "LOOK FIRST AT A NARROW, HAIRLESS LEAF and one TINY flower-like cyathium at the DISTAL NODE. E. golondrina is a prostrate annual with opposite narrow oblong leaves 5–11.5 × 1–4 mm, UNEQUAL bases, ENTIRE edges (no teeth) and mostly just the midvein showing. Inspect a cyathium with 10–20× magnification: four deeply concave, round RED–PURPLE glands and conspicuous WHITE crescent/fan-shaped appendages. Fruit is smooth, three-lobed and glabrous. The decisive close match is E. simulans: it has more ELLIPTIC gland shapes and normally lacks the white appendages, plus slightly larger 1.5–2 mm seeds. E. golondrina seed 1.3–1.5 mm, barely transversely ridged; seed and stipules require macro. Not an ordinary Hays County encounter plant: documented chiefly southwestern TX Rio Grande region. The current field photo shows narrow hairless leaves and tiny distal cyathia, but NOT microscopic mature seed ridges.",
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "visual_reviewed": true,
+    "photo_source_checked": true,
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "field_status": "FIELD_READY_TEXT_MICRO_GAPS",
+    "last_reviewed": "2026-10-20",
+    "new_photo_source_verified_on": "2026-10-20",
+    "finished_field_id_pass": "FIELD_READY_PHOTO_GAPS",
+    "annotated_real_photo_count": 4,
+    "verified_arrow_count": 11
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. 2026-10-20 existing + 4 added valid photos; four directly reviewed, 11 cautious arrow targets saved; fifth source-valid image unannotated pending accessible pixel review; exact gland microcharacters and true seed macros remain unproven.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Euphorbia%20golondrina",
+  "images": [
+    {
+      "file": "images/inat-12575704.jpg",
+      "role": "Original exact-species Sam Kieschnick photo, slender reproductive shoot held over hand",
+      "creator": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "source_page": "https://www.inaturalist.org/photos/12575704",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution required",
+      "caption": "Opposite narrow leaves are visible on hairless-looking slender stems. Small reddish reproductive structures are scattered along upper branch nodes. This photo cannot verify exact cup-shaped gland dimensions, true seed ridges or microscopic stipule bases.",
+      "anatomy_arrows": [
+        {
+          "label": "Narrow ENTIRE-edged leaf",
+          "target_fraction": [
+            0.11,
+            0.31
+          ]
+        },
+        {
+          "label": "Opposite-leaf junction",
+          "target_fraction": [
+            0.47,
+            0.61
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-20 GitHub original source JPEG directly inspected. Arrow targets correspond only to photographed visible opposite leaves, midveins, cyathium white appendage regions and nodal clusters. Shape, seed size and stipule measurements not inferred."
+    },
+    {
+      "file": "images/inat-513362302-review.jpg",
+      "role": "Ian McFaul photograph showing entire-margined leaves, small nodal cyathia and white curved appendages",
+      "creator": "(c) Ian McFaul, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/513362302",
+      "observation_url": "https://www.inaturalist.org/observations/285601478",
+      "observation_id": 285601478,
+      "photo_id": 513362302,
+      "source_platform": "iNaturalist API exact accepted species; individual photo-level licence",
+      "study_use": "Botanical education",
+      "public_reuse": "yes",
+      "public_site_use_scope": "Creative Commons terms as stated",
+      "modifications": "Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
+      "photo_review": "OBSERVED identity exact species at research grade and PHOTO license independently verified by iNaturalist; downloaded original JPEG checked. Diagnostic structures and arrow placement NOT yet visually assessed.",
+      "anatomy_arrows": [
+        {
+          "label": "Opposite small entire leaves",
+          "target_fraction": [
+            0.49,
+            0.36
+          ]
+        },
+        {
+          "label": "White curved gland appendage",
+          "target_fraction": [
+            0.79,
+            0.43
+          ]
+        },
+        {
+          "label": "Leafy distal reproductive node",
+          "target_fraction": [
+            0.31,
+            0.63
+          ]
+        }
+      ],
+      "image_source_sha256": "6fa3e10a3fb6767e448a274811e3cc9c0af665498d70256a0d66b49836bc046e",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "image_dimensions": [
+        1350,
+        1800
+      ],
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/513362302/original.jpg",
+      "caption": "Multiple small individual cyathia occur near leaf-bearing branch tips. White curled gland-associated appendages are visible. The plant has narrow leaves with no obvious serrations; do not use a finger as a calibrated ruler. Brown twisted residual parts are not verified seeds.",
+      "manual_arrow_review": "2026-10-20 GitHub original source JPEG directly inspected. Arrow targets correspond only to photographed visible opposite leaves, midveins, cyathium white appendage regions and nodal clusters. Shape, seed size and stipule measurements not inferred."
+    },
+    {
+      "file": "images/inat-513369845-review.jpg",
+      "role": "Ian McFaul photograph showing paired oblong entire leaves plus red central structures with white appendages",
+      "creator": "(c) Ian McFaul, some rights reserved (CC BY)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/513369845",
+      "observation_url": "https://www.inaturalist.org/observations/285605474",
+      "observation_id": 285605474,
+      "photo_id": 513369845,
+      "source_platform": "iNaturalist API exact accepted species; individual photo-level licence",
+      "study_use": "Botanical education",
+      "public_reuse": "yes",
+      "public_site_use_scope": "Creative Commons terms as stated",
+      "modifications": "Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
+      "photo_review": "OBSERVED identity exact species at research grade and PHOTO license independently verified by iNaturalist; downloaded original JPEG checked. Diagnostic structures and arrow placement NOT yet visually assessed.",
+      "anatomy_arrows": [
+        {
+          "label": "Oblong leaf with prominent MIDVEIN",
+          "target_fraction": [
+            0.46,
+            0.3
+          ]
+        },
+        {
+          "label": "Opposite leaf junction",
+          "target_fraction": [
+            0.49,
+            0.48
+          ]
+        },
+        {
+          "label": "White cyathium gland appendages",
+          "target_fraction": [
+            0.78,
+            0.78
+          ]
+        }
+      ],
+      "image_source_sha256": "310c40c6342de12439716257498e93dfa70d04a84eb0f2116d0de9008df5bdc3",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "image_dimensions": [
+        1350,
+        1800
+      ],
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/513369845/original.jpg",
+      "caption": "A short, nearly hairless shoot lies against coarse sand. Note the opposite oblong leaves with a single conspicuous midvein, and the small white crescent-like appendages around darker central gland/reproductive tissue. The tiny gland outline is partly resolved but not measured; this is not a mature-seed photograph.",
+      "manual_arrow_review": "2026-10-20 GitHub original source JPEG directly inspected. Arrow targets correspond only to photographed visible opposite leaves, midveins, cyathium white appendage regions and nodal clusters. Shape, seed size and stipule measurements not inferred."
+    },
+    {
+      "file": "images/inat-282507362-review.jpg",
+      "role": "Mark Fishbein image of rocky substrate, leaves, reproductive units and white gland-like crescents",
+      "creator": "(c) Mark Fishbein, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/282507362",
+      "observation_url": "https://www.inaturalist.org/observations/163345016",
+      "observation_id": 163345016,
+      "photo_id": 282507362,
+      "source_platform": "iNaturalist API exact accepted species; individual photo-level licence",
+      "study_use": "Botanical education",
+      "public_reuse": "yes",
+      "public_site_use_scope": "noncommercial-only",
+      "modifications": "Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
+      "photo_review": "OBSERVED identity exact species at research grade and PHOTO license independently verified by iNaturalist; downloaded original JPEG checked. Diagnostic structures and arrow placement NOT yet visually assessed.",
+      "anatomy_arrows": [
+        {
+          "label": "Small white crescent appendage",
+          "target_fraction": [
+            0.57,
+            0.35
+          ]
+        },
+        {
+          "label": "Blunt entire-edged leaf",
+          "target_fraction": [
+            0.68,
+            0.27
+          ]
+        },
+        {
+          "label": "Opposite leaf node",
+          "target_fraction": [
+            0.31,
+            0.83
+          ]
+        }
+      ],
+      "image_source_sha256": "ddf96a9a40ea69f988e4f985a4c99f863c4212678991ec1aac07fea090e57f3e",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "image_dimensions": [
+        1350,
+        1800
+      ],
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/282507362/original.jpeg",
+      "caption": "The small red centers and white crescent shapes at nodes are visible on a smooth-looking plant, along with blunt leaves with entire edges. A larger green swelling is present, but this image alone does not prove capsule maturity or internal seed details. No seed anatomy arrow is drawn.",
+      "manual_arrow_review": "2026-10-20 GitHub original source JPEG directly inspected. Arrow targets correspond only to photographed visible opposite leaves, midveins, cyathium white appendage regions and nodal clusters. Shape, seed size and stipule measurements not inferred."
+    },
+    {
+      "file": "images/inat-280478731-review.jpg",
+      "role": "Exact taxon research-grade iNaturalist supplementary field view; anatomy role PENDING manual saved-pixel inspection",
+      "creator": "(c) Nathan Taylor, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/280478731",
+      "observation_url": "https://www.inaturalist.org/observations/162222174",
+      "observation_id": 162222174,
+      "photo_id": 280478731,
+      "source_platform": "iNaturalist API exact accepted species; individual photo-level licence",
+      "study_use": "Botanical education",
+      "public_reuse": "yes",
+      "public_site_use_scope": "noncommercial-only",
+      "modifications": "Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
+      "photo_review": "iNaturalist exact accepted species, research grade; full JPEG downloaded and decoded/verified by GitHub Action. Direct image readback to annotator failed, therefore image is supplementary public-licensed gallery only; no arrows, no fine morphological assertion, manual pixel review pending.",
+      "anatomy_arrows": [],
+      "image_source_sha256": "7665294b20bfbe1b4182b76a5a3c9b32065f823f787473f6e56eb5995a3c5549",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "image_dimensions": [
+        1350,
+        1800
+      ],
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/280478731/original.jpg"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "learner_fast_fill",
+    "image_count": 5,
+    "filled_at": "2026-10-19",
+    "note": "Five individually credited real images (3 CC BY and 2 CC BY-NC) with four directly inspected photo panels and 11 structure-only arrows. Tiny true stipules, mature seed and separately dissected capsule not photographed or measured.",
+    "annotated_source_count": 4,
+    "verified_arrow_count": 11
+  },
+  "entry_type": "provisional_species",
+  "authority": "L.C.Wheeler",
+  "synonyms": [
+    "Chamaesyce golondrina (L.C.Wheeler) Shinners"
+  ],
+  "taxonomic_note": "POWO/WCVP and Flora of North America accept Euphorbia golondrina L.C.Wheeler; Chamaesyce golondrina is a synonym. 'Golondrina' is also a common Spanish name for OTHER Euphorbia species (including E. hirta, E. thymifolia, E. hyssopifolia); never use common-name images as exact-species evidence.",
+  "morphology_keys": {
+    "family_pattern": "Euphorbiaceae; Euphorbia sect. Anisophyllum: opposite leaves, tiny specialized cyathia (not ordinary flowers), milky latex, three-lobed capsular fruit.",
+    "habit": "Annual with slender taproot. Prostrate slender stems 5–35 cm long, glabrous; in dry gravelly or sandy Rio Grande desert habitats. Do not call any single cropped shoot a whole rooted habit.",
+    "leaves": "Opposite, oblong to ovate-oblong or narrowly elliptic-oblong, 5–11.5 × 1–4 mm; bases asymmetric/cuneate-to-rounded, tip blunt, MARGINS ENTIRE sometimes rolled under when dried; glabrous, prominent midvein only.",
+    "stem_and_hairs": "Stems, petioles, blades, involucres, capsules glabrous. Red-tinged stems are possible but not decisive.",
+    "stipules": "Distinct, slender awl-shaped (SUBULATE) 0.5–0.8 mm, hairless; microscopic true nodal attachment required to verify rather than an incidental hair.",
+    "cyathium": "Usually solitary at distal nodes; short peduncle 0.9–1.5 mm. Involucre turbinate and hairless 0.9–1.5 × 0.8–1.3 mm; 4 (occasionally rudimentary) DEEPLY CONCAVE SUBCIRCULAR glands, red–purple 0.3–0.4 mm with WHITE crescent to small fan-shaped appendages roughly 0.1–0.3 × 0.5–0.8 mm.",
+    "capsule": "Broadly ovoid 1.7–2 × 1.5–1.6 mm, GLABROUS. Do not confuse smooth capsule lobes with the brightly colored glands on separate cyathia.",
+    "seed": "Narrow pyramidal-ovoid, sharply 4-angled in cross section; 1.3–1.5 × 0.6–0.7 mm, very weak/faint transverse ribs or wrinkles.",
+    "best_field_traits": [
+      "prostrate glabrous slender branches (5–35 cm) with tiny opposite entire-edged leaves",
+      "small oblong leaves 5–11.5 × 1–4 mm, only midvein prominent, asymmetric bases",
+      "solitary cyathia at distal nodes, round deeply cupped crimson-purple glands with clear white crescent-shaped appendages",
+      "smooth hairless 3-lobed fruit",
+      "distinct narrow 0.5–0.8 mm subulate stipules",
+      "1.3–1.5 mm mature 4-angled seeds with weak transverse ridges",
+      "E. simulans glands elliptic and without white appendages, 1.5–2 mm seeds; comparison best under hand lens"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Euphorbia simulans",
+      "Euphorbia serpens",
+      "Euphorbia glyptosperma",
+      "Euphorbia prostrata"
+    ],
+    "key_distinctions": "Against most likely close western FNA key partner E. simulans, compare the CIRCULAR deeply concave gland WITH white semilunate appendage of golondrina vs ELLIPTIC gland WITHOUT appendage in simulans; golondrina's mature seeds about 1.3–1.5 mm, simulans about 1.5–2 mm. E. serpens may be entirely smooth/hairless but roots at nodes, has BROAD fused triangular stipules, generally 0.7–1.1 mm SMOOTH seeds, and inconspicuous gland appendages. E. prostrata has hairy fruit keels and deeply transversely ribbed seeds. E. glyptosperma often has minutely serrulate leaf margins and irregular/fringed nodal stipules instead of golondrina's entire margin and distinct tiny awl-shaped stipules. All need enough structures for a secure determination.",
+    "field_matrix": [
+      {
+        "character": "Typical architecture",
+        "golondrina": "Prostrate hairless 5–35 cm stems; no general node-rooting trait noted",
+        "simulans": "Usually prostrate glabrous plant, overlapping habit",
+        "serpens": "Matted prostrate growth often roots at nodes",
+        "glyptosperma": "Loosely matted prostrate glabrous 5–40 cm"
+      },
+      {
+        "character": "Opposite leaf margins",
+        "golondrina": "ENTIRE; narrow oblong 5–11.5 × 1–4 mm",
+        "simulans": "Entire; rounded/orbiculate to oval leaves",
+        "serpens": "Entire; generally shorter and broader leaves",
+        "glyptosperma": "Minutely sparse teeth, especially near tip/asymmetric side"
+      },
+      {
+        "character": "Nodal stipules",
+        "golondrina": "DISTINCT awl-shaped 0.5–0.8 mm",
+        "simulans": "Distinct subulate or scalelike; photos needed",
+        "serpens": "BROAD, fused triangular scales",
+        "glyptosperma": "Usually distinct, linear-subulate, irregularly fringed/lobed 0.4–2 mm"
+      },
+      {
+        "character": "Cyathium glands/appendages",
+        "golondrina": "4 deeply concave SUBCIRCULAR red-purple glands WITH white crescent/fan appendages",
+        "simulans": "ELLIPTIC glands, appendages ABSENT",
+        "serpens": "Oblong glands and much smaller inconspicuous appendages",
+        "glyptosperma": "Oblong-elliptic gland, white/pink semilunate appendage with often crenulate edge"
+      },
+      {
+        "character": "Fruit hairs",
+        "golondrina": "Smooth GLABROUS capsule",
+        "simulans": "Glabrous capsule",
+        "serpens": "Glabrous capsule",
+        "glyptosperma": "Glabrous capsule"
+      },
+      {
+        "character": "Mature seed",
+        "golondrina": "Narrow 4-angle 1.3–1.5 mm; weak transverse wrinkles",
+        "simulans": "1.5–2 mm; faint ridges",
+        "serpens": "Smooth shorter 0.7–1.1 mm",
+        "glyptosperma": "Rougher/coarsely wrinkled ~1.2 mm"
+      }
+    ]
+  },
+  "field_photo_quickcheck": {
+    "heading": "Golondrina: narrow entire leaves, then the gland's white crescent",
+    "steps": [
+      "FIRST: photograph slender prostrate shoot with a 5-cm scale and confirm leaves grow opposite.",
+      "SECOND: use a 10–20× loupe for the UNEQUAL leaf base, ENTIRE margins and hairless surface.",
+      "THIRD: locate solitary cyathium at distal node; get front and side macros of one gland, ideally showing DEEPLY CUPPED round red gland plus white semicircular appendage.",
+      "FOURTH: turn the leaf junction over for distinct AWL-LIKE stipules 0.5–0.8 mm with millimeter scale.",
+      "FIFTH: inspect an actual ripe smooth 3-lobed capsule and true seed at known magnification; seed ~1.3–1.5 mm and very weak cross-ridges.",
+      "SIXTH: if FNA's E. simulans possibility remains, compare gland outline, appendage presence, and seed size, not merely red stems or creeping habit."
+    ],
+    "warning": "These photos show small opposite entire leaves and white cyathium appendages, NOT a calibrated diagnosis of individual 0.3–0.4mm circular gland outline or 0.5–0.8mm stipulated structures. Distinguish true mature seed from brown dried cyathium parts. Golondrina is NOT a generic folk-name identification and Hays county occurrence is NOT assumed.",
+    "featured_photo_indices": [
+      2,
+      3,
+      1,
+      0
+    ]
+  },
+  "field_id_finalization": {
+    "stage": "PASS_IN_PROGRESS",
+    "review_date": "2026-10-20",
+    "field_training_status": "FIELD_READY_PHOTOS_AND_E_SIMULANS_KEY; CALIBRATED_GLAND_STIPULE_SEED_GAPS",
+    "real_source_photos_annotated": 4,
+    "verified_anatomy_arrows": 11,
+    "remaining": [
+      "Separate close true cyathium showing and calibrating SUBCIRCULAR deeply concave reddish-purple gland AND white semilunate appendage (current photo supports appendage presence but not exact gland form/size)",
+      "True 0.5–0.8 mm subulate separate stipules distinguishable from branch scars under microscope",
+      "Smooth glabrous three-lobed capsule definitely identifiable as fruit rather than cyathium",
+      "Mature true 1.3–1.5 mm four-angled seed with faint transverse ribs + calibrated ruler",
+      "Full rooted annual habit with 5 cm scale",
+      "Direct image pixel QA on Nathan Taylor gallery source before adding arrows"
+    ],
+    "photo_review": "One original Sam Kieschnick and three iNaturalist source JPEGs directly visually inspected and annotated; 11 arrows are limited to narrow opposite entire-margined leaves, prominent midvein, white gland appendage REGION and distal reproductive nodes. Nathan Taylor fourth added photo binary independently validated but its direct image readback was unavailable; leaves unannotated. No measured microscopic structures asserted.",
+    "science_source_links": [
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101577",
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=318097",
+      "https://powo.science.kew.org/taxon/101562-2"
+    ],
+    "new_photo_source_count": 4,
+    "canonical_photo_count": 5,
+    "public_eligible_gallery_photos": 5,
+    "photo_rights": "Sam Kieschnick CC BY; two Ian McFaul CC BY; Mark Fishbein and Nathan Taylor CC BY-NC conditional on genuinely noncommercial learner. Each photo-specific source ID and CC license remains attached."
+  },
+  "visual_comparison": {
+    "instance_id": "euphorbia-golondrina-field-gland-photo-set-20261020",
+    "title": "Swallow spurge: narrow entire leaves and white cyathial crescents",
+    "subtitle": "Four verified photo views with 11 arrows to visible leaf and reproductive structures. Fifth image source-valid, direct anatomy pixel QA pending. Seed, stipules and exact gland dimensions still require true macro.",
+    "items": [
+      {
+        "scientific_name": "Euphorbia golondrina",
+        "label": "Opposite narrow leaves and reproductive nodes",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-golondrina/images/inat-12575704.jpg",
+        "image_role": "Original exact-species Sam Kieschnick photo, slender reproductive shoot held over hand",
+        "caption": "Opposite narrow leaves are visible on hairless-looking slender stems. Small reddish reproductive structures are scattered along upper branch nodes. This photo cannot verify exact cup-shaped gland dimensions, true seed ridges or microscopic stipule bases.",
+        "creator": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+        "license": "CC BY",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/12575704",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Narrow ENTIRE-edged leaf",
+            "label_x": 3,
+            "label_y": 8,
+            "target_x": 11,
+            "target_y": 31
+          },
+          {
+            "label": "Opposite-leaf junction",
+            "label_x": 6,
+            "label_y": 85,
+            "target_x": 47,
+            "target_y": 61
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 GitHub original source JPEG directly inspected. Arrow targets correspond only to photographed visible opposite leaves, midveins, cyathium white appendage regions and nodal clusters. Shape, seed size and stipule measurements not inferred."
+      },
+      {
+        "scientific_name": "Euphorbia golondrina",
+        "label": "Slim leaves and individual cyathia with white structures",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-golondrina/images/inat-513362302-review.jpg",
+        "image_role": "Ian McFaul photograph showing entire-margined leaves, small nodal cyathia and white curved appendages",
+        "caption": "Multiple small individual cyathia occur near leaf-bearing branch tips. White curled gland-associated appendages are visible. The plant has narrow leaves with no obvious serrations; do not use a finger as a calibrated ruler. Brown twisted residual parts are not verified seeds.",
+        "creator": "(c) Ian McFaul, some rights reserved (CC BY)",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/513362302",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Opposite small entire leaves",
+            "label_x": 51,
+            "label_y": 8,
+            "target_x": 49,
+            "target_y": 36
+          },
+          {
+            "label": "White curved gland appendage",
+            "label_x": 85,
+            "label_y": 49,
+            "target_x": 79,
+            "target_y": 43
+          },
+          {
+            "label": "Leafy distal reproductive node",
+            "label_x": 8,
+            "label_y": 78,
+            "target_x": 31,
+            "target_y": 63
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 GitHub original source JPEG directly inspected. Arrow targets correspond only to photographed visible opposite leaves, midveins, cyathium white appendage regions and nodal clusters. Shape, seed size and stipule measurements not inferred."
+      },
+      {
+        "scientific_name": "Euphorbia golondrina",
+        "label": "Best comparison: leaf midvein and white gland appendages",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-golondrina/images/inat-513369845-review.jpg",
+        "image_role": "Ian McFaul photograph showing paired oblong entire leaves plus red central structures with white appendages",
+        "caption": "A short, nearly hairless shoot lies against coarse sand. Note the opposite oblong leaves with a single conspicuous midvein, and the small white crescent-like appendages around darker central gland/reproductive tissue. The tiny gland outline is partly resolved but not measured; this is not a mature-seed photograph.",
+        "creator": "(c) Ian McFaul, some rights reserved (CC BY)",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/513369845",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Oblong leaf with prominent MIDVEIN",
+            "label_x": 39,
+            "label_y": 9,
+            "target_x": 46,
+            "target_y": 30
+          },
+          {
+            "label": "Opposite leaf junction",
+            "label_x": 26,
+            "label_y": 50,
+            "target_x": 49,
+            "target_y": 48
+          },
+          {
+            "label": "White cyathium gland appendages",
+            "label_x": 76,
+            "label_y": 87,
+            "target_x": 78,
+            "target_y": 78
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 GitHub original source JPEG directly inspected. Arrow targets correspond only to photographed visible opposite leaves, midveins, cyathium white appendage regions and nodal clusters. Shape, seed size and stipule measurements not inferred."
+      },
+      {
+        "scientific_name": "Euphorbia golondrina",
+        "label": "Close field view of small cyathia and glabrous-looking foliage",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-golondrina/images/inat-282507362-review.jpg",
+        "image_role": "Mark Fishbein image of rocky substrate, leaves, reproductive units and white gland-like crescents",
+        "caption": "The small red centers and white crescent shapes at nodes are visible on a smooth-looking plant, along with blunt leaves with entire edges. A larger green swelling is present, but this image alone does not prove capsule maturity or internal seed details. No seed anatomy arrow is drawn.",
+        "creator": "(c) Mark Fishbein, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/282507362",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Small white crescent appendage",
+            "label_x": 49,
+            "label_y": 23,
+            "target_x": 57,
+            "target_y": 35
+          },
+          {
+            "label": "Blunt entire-edged leaf",
+            "label_x": 70,
+            "label_y": 17,
+            "target_x": 68,
+            "target_y": 27
+          },
+          {
+            "label": "Opposite leaf node",
+            "label_x": 6,
+            "label_y": 89,
+            "target_x": 31,
+            "target_y": 83
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 GitHub original source JPEG directly inspected. Arrow targets correspond only to photographed visible opposite leaves, midveins, cyathium white appendage regions and nodal clusters. Shape, seed size and stipule measurements not inferred."
+      }
+    ],
+    "overlay_note": "Sam Kieschnick CC BY, Ian McFaul CC BY 4.0 (two photographs), Mark Fishbein CC BY-NC 4.0 (noncommercial site only). Nathan Taylor CC BY-NC 4.0 gallery photo remains unannotated until direct visual review. Overlay arrows leave original JPEG photo files unchanged."
+  }
+}

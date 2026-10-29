@@ -1,0 +1,20 @@
+PHOTO FAST-FILL 052 — Argythamnia humilis
+Date: 2026-10-06
+Source: https://w3.biosci.utexas.edu/prc/specimens/Euphorbiaceae.html
+Direct image: https://w3.biosci.utexas.edu/prc/specimens/img/147DitaxHumxxx00037446.JPG
+Source attribution: UT Plant Resources Center / Lundell Herbarium
+Historical specimen treatment: Ditaxis humilis
+Current canonical concept: Argythamnia humilis
+Individual photographer: not stated
+License/reuse: unverified
+Study use: yes
+Public reuse: review
+Role: whole voucher / habit and leaf reference
+Media only; scientific status unchanged.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T13:45:55.819646+00:00
+Argythamnia humilis (Engelm. & A.Gray) Müll.Arg.
+https://www.gbif.org/occurrence/6184799664
+Sam Kieschnick | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Petiole and axillary raceme; female and male flower structures
+No anatomy arrows; no scientific or native-range changes.

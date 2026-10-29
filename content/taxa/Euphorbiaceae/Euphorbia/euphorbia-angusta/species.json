@@ -1,0 +1,740 @@
+{
+  "id": "euphorbia-angusta",
+  "entry_type": "provisional_species",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "species": "angusta",
+  "scientific_name": "Euphorbia angusta",
+  "authority": "Engelm.",
+  "common_name": "Narrow-leaf spurge / Blackfoot sandmat",
+  "synonyms": [
+    "Chamaesyce angusta"
+  ],
+  "taxonomic_note": "Legacy Master Plant Pool name Chamaesyce angusta is normalized to the current accepted Euphorbia name.",
+  "look_here_first": "FIRST CHECK THE LEAVES: E. angusta (narrowleaf spurge) is an ERECT, narrow-leaved perennial, not a creeping sandmat. Upper leaves are extremely narrow—typically more than six times longer than wide. Look for short white appressed (strigose) hairs on leaves and stems, small reddish-brown stipule projections at nodes, and green hairy cyathial cups edged by toothed white gland appendages. FNA describes HAIRY CAPSULES and pale 4-angled lightly wrinkled mature seeds, but the currently licensed macro set proves hairy cyathial cups NOT independently a mature hairy capsule or a loose seed. Contrast with low rounded-leaved glabrous E. fendleri. Formal BONAP/NAPA county nativity decision stays on HOLD.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Hays-local legacy Chamaesyce source; current Kew accepts Euphorbia angusta, native from western Texas to Coahuila.",
+    "range_guardrail": "Installed for active visual learning; broader exact-county reconciliation deferred."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Euphorbia sect. Anisophyllum. In E. angusta, the combination of erect perennial habit, very narrow distal leaves, uniform strigose pubescence, and hairy fruit is unusually distinctive.",
+    "growth_form": "Perennial with moderately to strongly thickened rootstock; stems erect, about 12–43 cm.",
+    "stems": "Uniformly strigose.",
+    "leaves": "Opposite. Proximal blades ovate to ovate-elliptic; distal blades linear to elliptic-linear, about 7–41 × 2–5 mm and more than 6× as long as wide. Base asymmetric, cuneate to rounded; margins entire; apex acute; surfaces usually short-strigose.",
+    "stipules": "Distinct, linear-subulate or reduced to nodiform/papilliform structures, often reddish brown, about 0.1–0.7 mm, strigose.",
+    "cyathium": "Solitary at distal nodes. Involucre strigose; 4 narrow oblong green to yellow-green glands with relatively showy white flabellate appendages whose distal margins are shallowly and irregularly toothed.",
+    "fruit": "Capsule broadly ovoid, about 2–2.6 × 2.5–3 mm, strigose.",
+    "seed": "Seeds white, ovoid, 4-angled in cross section, about 1.7–2.2 × 1.1–1.2 mm, transversely low-ridged or wrinkled.",
+    "best_field_traits": [
+      "erect perennial from thickened rootstock",
+      "distal leaves linear to elliptic-linear and more than 6× as long as wide",
+      "uniformly strigose stems",
+      "usually short-strigose leaf surfaces",
+      "strigose involucre and capsule",
+      "showy white toothed gland appendages",
+      "white 4-angled low-ridged or wrinkled seed"
+    ],
+    "comparison_training": "Against E. fendleri, E. angusta is much taller and erect, with very narrow distal leaves and a hairy capsule; E. fendleri is a low clustered perennial with rounded entire glabrous leaves and glabrous capsule. Against the prostrate sandmats, the erect narrow-leaved silhouette is the quickest first split."
+  },
+  "curation_status": {
+    "version": "1.4-diagnostic-photo-polish-2026-10-08",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-21",
+    "photo_metadata_count": 9,
+    "photo_files_present": 9,
+    "visual_status": "FIELD_READY_WITH_CAPSULE_SEED_AND_WHOLE_ROOTED_PUBLIC_PHOTO_GAPS",
+    "field_status": "FIELD_READY_WITH_DIAGNOSTIC_PHOTO_GAPS"
+  },
+  "photo_note": "Nine physical exact-species image files; seven individually CC-licensed sources are suitable for genuinely noncommercial public educational site (one CC BY, six CC BY-NC). Two UT Austin field/voucher images lack public reuse clearance and must remain private/withheld from Pages. Fourteen visually inspected pointers on SEVEN CC-licensed image panels cover narrow leaves, short appressed hairs, nodal stipule projections, cyathial involucre hairs, white toothed gland appendages and a developing fruit. Former label of Becky Brenner's image as capsule hair macro corrected: it photographs the involucre. Actual independent hairy capsule and mature white ridged seed remain gaps.",
+  "images": [
+    {
+      "file": "images/euphorbia-angusta-provisional-face.jpg",
+      "role": "Whole plant / flowering habit recognizable face",
+      "creator": "Alison Northup",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_angusta_iNat-51852545.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "anatomy_arrows": [
+        {
+          "label": "Long, very narrow distal leaf",
+          "target_fraction": [
+            0.637,
+            0.286
+          ]
+        },
+        {
+          "label": "Round developing green fruit",
+          "target_fraction": [
+            0.513,
+            0.552
+          ]
+        },
+        {
+          "label": "White toothed cyathial gland appendage",
+          "target_fraction": [
+            0.624,
+            0.542
+          ]
+        }
+      ],
+      "caption": "Alison Northup's close-up reveals the long narrow leaves, a rounded developing green fruit, and a tiny white toothed gland appendage. The visible fruit outline does NOT provide sufficient resolution to prove capsule hairs; the photo also does not show the whole plant or woody crown.",
+      "manual_arrow_review": "2026-10-21 original GitHub photo pixels examined; three pointers to separately visible leaf, fruit and white reproductive appendage."
+    },
+    {
+      "file": "images/02-dolan-falls-field.jpg",
+      "role": "Field habit / erect narrow-leaved structure",
+      "creator": "William R. Carr",
+      "license": "reuse rights not asserted",
+      "source_page": "https://w3.biosci.utexas.edu/prc/DF/pages/EUAN2.html",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-travis-voucher.jpg",
+      "role": "Herbarium voucher / thickened rootstock and crown context",
+      "creator": "UT Plant Resources Center / University of Texas Herbarium",
+      "license": "reuse rights unverified",
+      "source_page": "https://w3.biosci.utexas.edu/prc/specimens/Euphorbiaceae.html",
+      "study_use": "yes",
+      "public_reuse": "review",
+      "caption": "Look at the lower center of this mounted plant: the dark thickened horizontal rootstock sits below the tuft of upright stems. The voucher supplies basal structural context with the original ruler retained; it does not establish living color, plant age or internal wood anatomy."
+    },
+    {
+      "file": "images/04-strigose-capsule.jpg",
+      "role": "Hairy green cyathial involucre and white toothed gland appendage; fruit hairs NOT proved",
+      "caption": "Correction after original source-pixel inspection 2026-10-21: this shows the hairy green CYATHIAL INVOLUCRE (the specialized cup) and toothed white gland appendage, NOT a diagnostic independent capsule-hair macro. Do not call this a mature fruit or a seed. True capsule pubescence is a remaining field photo target.",
+      "platform": "iNaturalist",
+      "observation_id": 85069092,
+      "photo_id": 139898376,
+      "creator": "Becky Brenner",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/85069092",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/139898376/original.jpeg",
+      "study_use": "yes",
+      "public_reuse": "yes, for genuinely noncommercial educational website under CC BY-NC only",
+      "verification": {
+        "taxon": "Euphorbia angusta",
+        "quality_grade": "research",
+        "binary_decoded": true,
+        "dimensions": [
+          1024,
+          768
+        ],
+        "git_blob_sha": "3b57ea7af0d1d290553b4feaf3036983467a0936",
+        "visually_checked_on": "2026-10-08",
+        "limits": "Look at the short pale hairs coating the three-lobed capsule near the center, and the toothed white gland appendages below it. This directly illustrates the hairy fruit surface; seed and rootstock are absent."
+      },
+      "anatomy_arrows": [
+        {
+          "label": "Short pale hairs on green involucre",
+          "target_fraction": [
+            0.533,
+            0.359
+          ]
+        },
+        {
+          "label": "White irregularly toothed gland appendage",
+          "target_fraction": [
+            0.697,
+            0.449
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-21 exact saved image inspected, photographed flask-like cyathial cup with white appendage; prior 'capsule' image role corrected as visually unsupportable.",
+      "public_site_use_scope": "noncommercial-only; must preserve source creator, link and CC BY-NC terms",
+      "rights_review_note": "2026-10-21: earlier project's internal public_reuse=no rule superseded for individually CC BY-NC-licensed photos only on explicitly noncommercial GitHub Pages learner; no claim of commercial reuse."
+    },
+    {
+      "file": "images/05-joey-narrow-leaves.jpg",
+      "role": "Joey Santore close-up / linear leaves and cyathium appendages",
+      "caption": "Look at the long narrow leaf blades beside the cyathium and the toothed white appendages around its glands. This exact-species field photo shows leaf shape and reproductive context; do not infer a measured length-to-width ratio without a scale.",
+      "platform": "iNaturalist",
+      "observation_id": 64696284,
+      "photo_id": 104051326,
+      "creator": "Joey Santore",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/64696284",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/104051326/original.jpeg",
+      "study_use": "yes",
+      "public_reuse": "yes, for genuinely noncommercial educational website under CC BY-NC only",
+      "verification": {
+        "taxon": "Euphorbia angusta",
+        "quality_grade": "research",
+        "binary_decoded": true,
+        "dimensions": [
+          1600,
+          1067
+        ],
+        "git_blob_sha": "d25fa76f51547382d4313bcbb3967118fc3de3a2",
+        "visually_checked_on": "2026-10-08",
+        "limits": "Look at the long narrow leaf blades beside the cyathium and the toothed white appendages around its glands. This exact-species field photo shows leaf shape and reproductive context; do not infer a measured length-to-width ratio without a scale."
+      },
+      "anatomy_arrows": [
+        {
+          "label": "Linear distal leaf blade",
+          "target_fraction": [
+            0.428,
+            0.204
+          ]
+        },
+        {
+          "label": "Pale gland appendages around cyathium",
+          "target_fraction": [
+            0.498,
+            0.551
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-21 original 1600x1067 source pixels checked; arrow to sharply pointed narrow blade and identifiable white reproductive appendages; no measurements inferred.",
+      "public_site_use_scope": "noncommercial-only; must preserve source creator, link and CC BY-NC terms",
+      "rights_review_note": "2026-10-21: earlier project's internal public_reuse=no rule superseded for individually CC BY-NC-licensed photos only on explicitly noncommercial GitHub Pages learner; no claim of commercial reuse."
+    },
+    {
+      "file": "images/06-leaf-hairs-macro.jpg",
+      "role": "Leaf-surface macro / resolved short hairs",
+      "caption": "Look at the short pale hairs lying close to the green leaf surface, with some tips curving away from it. This macro resolves individual hairs rather than relying on the plant's overall fuzzy appearance. Leaf side and magnification are not specified; do not use displayed image size to measure hair length.",
+      "platform": "iNaturalist",
+      "observation_id": 10884560,
+      "photo_id": 15287977,
+      "creator": "Nathan Taylor",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/10884560",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15287977/large.jpeg",
+      "study_use": "yes",
+      "public_reuse": "yes, for genuinely noncommercial educational website under CC BY-NC only",
+      "verification": {
+        "taxon": "Euphorbia angusta",
+        "quality_grade": "research",
+        "dimensions": [
+          1024,
+          959
+        ],
+        "git_blob_sha": "94a7f4b6efdb923aee6cd97c15b90045a6fb19e9",
+        "binary_decoded": true,
+        "download_variant": "large",
+        "visually_checked_on": "2026-10-08",
+        "limits": "Look at the short pale hairs lying close to the green leaf surface, with some tips curving away from it. This macro resolves individual hairs rather than relying on the plant's overall fuzzy appearance. Leaf side and magnification are not specified; do not use displayed image size to measure hair length."
+      },
+      "anatomy_arrows": [
+        {
+          "label": "Individual short appressed leaf hairs (strigose)",
+          "target_fraction": [
+            0.511,
+            0.578
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-21 saved macro visually checked: pale short hairs distinguishable from reflected leaf texture.",
+      "public_site_use_scope": "noncommercial-only; must preserve source creator, link and CC BY-NC terms",
+      "rights_review_note": "2026-10-21: earlier project's internal public_reuse=no rule superseded for individually CC BY-NC-licensed photos only on explicitly noncommercial GitHub Pages learner; no claim of commercial reuse."
+    },
+    {
+      "file": "images/07-node-hairs-macro.jpg",
+      "role": "Stem-node macro / resolved short hairs",
+      "caption": "Find the short pale hairs covering the reddish stem and leaf bases around the node. This is a close view of node pubescence. Small reddish structures are also visible, but this image is used for hairs rather than assigning a stipule measurement or claiming complete stipule architecture. No scale is supplied.",
+      "platform": "iNaturalist",
+      "observation_id": 10884560,
+      "photo_id": 15287986,
+      "creator": "Nathan Taylor",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/10884560",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15287986/large.jpeg",
+      "study_use": "yes",
+      "public_reuse": "yes, for genuinely noncommercial educational website under CC BY-NC only",
+      "verification": {
+        "taxon": "Euphorbia angusta",
+        "quality_grade": "research",
+        "dimensions": [
+          1024,
+          836
+        ],
+        "git_blob_sha": "1b9438b0d85fe335c139ab575f6fe64d67289656",
+        "binary_decoded": true,
+        "download_variant": "large",
+        "visually_checked_on": "2026-10-08",
+        "limits": "Find the short pale hairs covering the reddish stem and leaf bases around the node. This is a close view of node pubescence. Small reddish structures are also visible, but this image is used for hairs rather than assigning a stipule measurement or claiming complete stipule architecture. No scale is supplied."
+      },
+      "anatomy_arrows": [
+        {
+          "label": "Short pale hairs around stem node",
+          "target_fraction": [
+            0.632,
+            0.429
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-21 saved macro visually checked; no stipule architecture inferred from this hair-only panel.",
+      "public_site_use_scope": "noncommercial-only; must preserve source creator, link and CC BY-NC terms",
+      "rights_review_note": "2026-10-21: earlier project's internal public_reuse=no rule superseded for individually CC BY-NC-licensed photos only on explicitly noncommercial GitHub Pages learner; no claim of commercial reuse."
+    },
+    {
+      "file": "images/08-stipule-location-macro.jpg",
+      "role": "Stipule-location macro / reddish-brown projections and node hairs",
+      "caption": "Find the two dark reddish-brown projections at the leaf bases, contrasting with the pale hairs covering the surrounding stem and leaves. They occupy the stipule positions and fit the small, distinct, reddish-brown forms described for E. angusta. This close-up separates those structures from ordinary hairs. No scale is supplied; do not measure their length from the displayed image.",
+      "platform": "iNaturalist",
+      "observation_id": 21895584,
+      "photo_id": 33930688,
+      "creator": "Nathan Taylor",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/21895584",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33930688/large.jpeg",
+      "study_use": "yes",
+      "public_reuse": "yes, for genuinely noncommercial educational website under CC BY-NC only",
+      "verification": {
+        "taxon": "Euphorbia angusta",
+        "quality_grade": "needs_id",
+        "identification_status": "Single current species identification by photographer Nathan Taylor; no second identifier. Provisional expert-source learner photo; not promoted to Research Grade.",
+        "binary_decoded": true,
+        "dimensions": [
+          881,
+          837
+        ],
+        "git_blob_sha": "a45bbcf5e8026efeaeaf6ce43e82c68476f79c57",
+        "visually_checked_on": "2026-10-08",
+        "morphology_reference": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101551",
+        "limits": "No scale; single view; maturity/seed role not represented. Companion narrow-leaf/habit and reproductive images checked; expert attribution retained."
+      },
+      "anatomy_arrows": [
+        {
+          "label": "Reddish stipule on left leaf base",
+          "target_fraction": [
+            0.296,
+            0.393
+          ]
+        },
+        {
+          "label": "Reddish stipule on right leaf base",
+          "target_fraction": [
+            0.515,
+            0.4
+          ]
+        },
+        {
+          "label": "Short pale hairs around attachment",
+          "target_fraction": [
+            0.69,
+            0.668
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-21 exact saved Nathan Taylor source verified visually; two reddish rigid stipule-position projections distinguished from numerous much finer white hairs. Identification remains single-expert / needs_id; avoid declaring photo independently proven Research Grade.",
+      "public_site_use_scope": "noncommercial-only; must preserve source creator, link and CC BY-NC terms",
+      "rights_review_note": "2026-10-21: earlier project's internal public_reuse=no rule superseded for individually CC BY-NC-licensed photos only on explicitly noncommercial GitHub Pages learner; no claim of commercial reuse."
+    },
+    {
+      "file": "images/09-hairy-involucre-macro.jpg",
+      "role": "Cyathium side macro / resolved hairs on involucre",
+      "caption": "Find the pale hairs covering the green cup-shaped involucre beneath the pale gland appendages. This side view resolves involucre pubescence separately from the capsule hairs shown elsewhere in the gallery. No scale is supplied, and the side view does not show the complete gland arrangement.",
+      "platform": "iNaturalist",
+      "observation_id": 21895584,
+      "photo_id": 33930683,
+      "creator": "Nathan Taylor",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/21895584",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33930683/large.jpeg",
+      "study_use": "yes",
+      "public_reuse": "yes, for genuinely noncommercial educational website under CC BY-NC only",
+      "verification": {
+        "taxon": "Euphorbia angusta",
+        "quality_grade": "needs_id",
+        "identification_status": "Single current species identification by photographer Nathan Taylor; no second identifier. Provisional expert-source learner photo; not promoted to Research Grade.",
+        "binary_decoded": true,
+        "dimensions": [
+          1024,
+          818
+        ],
+        "git_blob_sha": "12bfcb3946919bd96b4d38916e3e08274fced886",
+        "visually_checked_on": "2026-10-08",
+        "morphology_reference": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101551",
+        "limits": "No scale; side view does not document the complete gland arrangement or mature seed. Companion narrow-leaf/habit and node images checked; expert attribution retained."
+      },
+      "anatomy_arrows": [
+        {
+          "label": "Strigose green cyathial involucre",
+          "target_fraction": [
+            0.391,
+            0.272
+          ]
+        },
+        {
+          "label": "White gland appendage at cup rim",
+          "target_fraction": [
+            0.183,
+            0.379
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-21 source pixel review: white hairs blanket flask-shaped green cyathial cup; do not mislabel as mature capsule. Single-expert source image kept provisional for taxon ID.",
+      "public_site_use_scope": "noncommercial-only; must preserve source creator, link and CC BY-NC terms",
+      "rights_review_note": "2026-10-21: earlier project's internal public_reuse=no rule superseded for individually CC BY-NC-licensed photos only on explicitly noncommercial GitHub Pages learner; no claim of commercial reuse."
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "seven_public_safe_diagnostic_photos_fourteen_checked_arrows",
+    "image_count": 9,
+    "public_suitable_image_count": 7,
+    "annotated_source_count": 7,
+    "verified_arrow_count": 14,
+    "note": "Crew can identify narrow-leaf growth, appressed pubescence, stipule locations and toothed white cyathial appendages. Exact capsule hairs, mature seed and publicly reusable whole-rooted habit remain photography gaps. Two UT photos withheld."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Euphorbia fendleri",
+      "Euphorbia villifera",
+      "Euphorbia serpens",
+      "Euphorbia prostrata"
+    ],
+    "key_distinctions": "The easiest field package is erect + narrow distal leaves + uniform short strigose hairs. The hairy capsule then confirms it against low glabrous-fruited perennial E. fendleri.",
+    "lookalike_matrix": [
+      {
+        "character": "Habit",
+        "Euphorbia angusta": "erect perennial, 12–43 cm",
+        "Euphorbia fendleri": "low clustered perennial, 5–12 cm",
+        "Euphorbia villifera": "usually erect/ascending, but smaller-leaved and not defined by linear distal leaves",
+        "Euphorbia serpens": "strictly prostrate rooted mat"
+      },
+      {
+        "character": "Distal leaves",
+        "Euphorbia angusta": "linear to elliptic-linear, >6× as long as wide",
+        "Euphorbia fendleri": "small orbiculate to ovate",
+        "Euphorbia villifera": "ovate",
+        "Euphorbia serpens": "tiny ovate/oblong/orbiculate"
+      },
+      {
+        "character": "Pubescence",
+        "Euphorbia angusta": "uniformly strigose stems; leaves usually short-strigose",
+        "Euphorbia fendleri": "glabrous",
+        "Euphorbia villifera": "usually villous but sometimes glabrous; papillate",
+        "Euphorbia serpens": "glabrous"
+      },
+      {
+        "character": "Capsule",
+        "Euphorbia angusta": "strigose",
+        "Euphorbia fendleri": "glabrous",
+        "Euphorbia villifera": "glabrous",
+        "Euphorbia serpens": "glabrous"
+      },
+      {
+        "character": "Seed",
+        "Euphorbia angusta": "white, 4-angled, 1.7–2.2 mm, low-ridged/wrinkled",
+        "Euphorbia fendleri": "white, prominently 4-angled, 1.7–2 mm, smooth/slightly wrinkled",
+        "Euphorbia villifera": "smaller, weakly 4-angled",
+        "Euphorbia serpens": "much smaller and smooth"
+      }
+    ]
+  },
+  "unreliable_characters": [
+    "dry rocky or limestone habitat by itself",
+    "narrow leaves without checking habit and pubescence",
+    "white gland appendages by themselves",
+    "overall plant size without structure"
+  ],
+  "diagnostic_image_needs": [
+    {
+      "role": "true mature strigose capsule",
+      "priority": "high",
+      "requirements": "One independent seed capsule outside involucral cup photographed and visibly pubescent; photograph beside distinct hairy cyathium for contrast; physically licensed exact species."
+    },
+    {
+      "role": "mature detached pale seed",
+      "priority": "high",
+      "requirements": "True white 4-angled seed and low transverse ridges with calibrated millimeter scale; NOT capsule or involucre."
+    },
+    {
+      "role": "public-safe whole rooted habit",
+      "priority": "medium",
+      "requirements": "Erect narrow distal leaves and thickened perennial crown, source individually redistributable under project noncommercial image rules."
+    }
+  ],
+  "photo_research": {
+    "status": "DIAGNOSTIC_PHOTO_POLISH_SPECIALIZED_GAPS_RETAINED",
+    "installed_roles": [
+      "Whole plant / flowering habit recognizable face",
+      "Field habit / erect narrow-leaved structure",
+      "Herbarium voucher / thickened rootstock and crown context",
+      "Capsule macro / short hairs and toothed gland appendages",
+      "Joey Santore close-up / linear leaves and cyathium appendages",
+      "Leaf-surface macro / resolved short hairs",
+      "Stem-node macro / resolved short hairs",
+      "Stipule-location macro / reddish-brown projections and node hairs",
+      "Cyathium side macro / resolved hairs on involucre"
+    ],
+    "next_priority": [
+      "mature white seed macro showing surface and angles"
+    ],
+    "updated_at": "2026-10-08",
+    "search_summary": "Screened licensed Research Grade observations from a targeted 100-observation sample per species; selected originals visually inspected. Installed only two complementary exact-species images. No substitutions or range changes. Specialty follow-up: original mounted voucher reviewed and basal structure located. All 34 photos in nine Nathan Taylor observations screened; no mature seed macro located. Follow-up 002: 288 older licensed Research Grade observations supplied 717 photo records; 634 small images downloaded and visually screened, 83 downloads failed. No extracted seed macro located in successfully retrieved photos. Two complementary Nathan Taylor leaf/node hair macros installed after full-size review.",
+    "optional_additional_views": [
+      "live rootstock/crown close-up"
+    ],
+    "specialty_search_checkpoint": {
+      "date": "2026-10-08",
+      "report": "reports/euphorbia-specialty-photo-search-002-2026-10-08.json",
+      "seed_gap_still_open": true
+    },
+    "latest_followup": "reports/euphorbia-specialty-photo-search-006-2026-10-08.json"
+  },
+  "field_photo_quickcheck": {
+    "heading": "START WITH LONG NARROW LEAVES; THEN CHECK HAIRS AND FLOWER CUPS",
+    "featured_photo_indices": [
+      0,
+      4,
+      5,
+      7,
+      8,
+      3,
+      6
+    ],
+    "steps": [
+      "Find an erect leafy plant; photograph its full branching habit and the position of the narrowest upper leaves (FNA: distal blades often >6× as long as wide).",
+      "At the node take paired upper leaves in focus, then look for short closely appressed white hairs with a macro view.",
+      "Under 10× look for two tiny reddish-brown stipule projections by leaf bases; they are distinct from ordinary pale hairs.",
+      "Find a tiny solitary cyathium at a branch tip: observe the GREEN HAIRY INVOLUCRE (cup) and toothed white gland appendages; these are not ordinary petals.",
+      "For a FULL identification, photograph a separate mature three-lobed fruit so capsule hairs can be identified independently of involucre hairs.",
+      "Optional final seed check: true detached white, 4-angled seed with low transverse wrinkles next to a millimeter ruler. Do not mistake capsule for seed."
+    ],
+    "warning": "Becky Brenner and Nathan Taylor cyathial views support involucre pubescence, not independent capsule hairs. No photographed mature white seed is currently present. Two UT images still have no verified public redistribution rights. Nathan's 08/09 photos are single-expert identified and carry a provisional identity warning."
+  },
+  "field_id_finalization": {
+    "review_date": "2026-10-21",
+    "stage": "FIELD_READY_WITH_PHOTO_GAPS",
+    "physical_source_images": 9,
+    "public_site_suitable_images": 7,
+    "annotated_real_photo_count": 7,
+    "checked_anatomy_arrows": 14,
+    "manual_source_pixel_review": true,
+    "major_botanical_correction": "Becky Brenner macro formerly captioned strigose capsule actually shows the strigose cyathial involucre; no incorrect capsule hair arrow added.",
+    "remaining": [
+      "Public-safe exact-species macro with actual separate hairy three-lobed mature CAPSULE",
+      "Mature detached white four-angled weakly transversely ridged SEED with mm scale",
+      "Public-safe whole rooted erect field habit showing perennial crown"
+    ],
+    "photo_rights": "Original individually CC BY / CC BY-NC records maintained. CC BY-NC permitted only on owner's noncommercial learner. UT Austin images not cleared for public publication.",
+    "taxon_caution": "Two Nathan Taylor detail photos remain expert-single-ID (needs_id); do not claim independently verified Research Grade.",
+    "range_guardrail": "Hays-county native status remains unreviewed per fast-mode scope."
+  },
+  "visual_comparison": {
+    "instance_id": "euphorbia-angusta-fendleri-20261021",
+    "title": "Narrowleaf spurge — narrow leaves, hairs and tiny stipules",
+    "subtitle": "Seven public-safe exact-taxon source photos now carry 14 inspected identification arrows. Mature capsule hair and detached seed still need unequivocal photos.",
+    "items": [
+      {
+        "label": "Whole plant / flowering habit recognizable face",
+        "scientific_name": "Euphorbia angusta",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-angusta/images/euphorbia-angusta-provisional-face.jpg",
+        "image_role": "Whole plant / flowering habit recognizable face",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_angusta_iNat-51852545.jpg",
+        "creator": "Alison Northup",
+        "license": "CC BY 4.0",
+        "license_url": "",
+        "caption": "Alison Northup's close-up reveals the long narrow leaves, a rounded developing green fruit, and a tiny white toothed gland appendage. The visible fruit outline does NOT provide sufficient resolution to prove capsule hairs; the photo also does not show the whole plant or woody crown.",
+        "anatomy_arrows": [
+          {
+            "label": "Long, very narrow distal leaf",
+            "target_fraction": [
+              0.637,
+              0.286
+            ]
+          },
+          {
+            "label": "Round developing green fruit",
+            "target_fraction": [
+              0.513,
+              0.552
+            ]
+          },
+          {
+            "label": "White toothed cyathial gland appendage",
+            "target_fraction": [
+              0.624,
+              0.542
+            ]
+          }
+        ],
+        "photo_warning": ""
+      },
+      {
+        "label": "Joey Santore close-up / linear leaves and cyathium appendages",
+        "scientific_name": "Euphorbia angusta",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-angusta/images/05-joey-narrow-leaves.jpg",
+        "image_role": "Joey Santore close-up / linear leaves and cyathium appendages",
+        "source_page": "https://www.inaturalist.org/observations/64696284",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "caption": "Look at the long narrow leaf blades beside the cyathium and the toothed white appendages around its glands. This exact-species field photo shows leaf shape and reproductive context; do not infer a measured length-to-width ratio without a scale.",
+        "anatomy_arrows": [
+          {
+            "label": "Linear distal leaf blade",
+            "target_fraction": [
+              0.428,
+              0.204
+            ]
+          },
+          {
+            "label": "Pale gland appendages around cyathium",
+            "target_fraction": [
+              0.498,
+              0.551
+            ]
+          }
+        ],
+        "photo_warning": ""
+      },
+      {
+        "label": "Leaf-surface macro / resolved short hairs",
+        "scientific_name": "Euphorbia angusta",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-angusta/images/06-leaf-hairs-macro.jpg",
+        "image_role": "Leaf-surface macro / resolved short hairs",
+        "source_page": "https://www.inaturalist.org/observations/10884560",
+        "creator": "Nathan Taylor",
+        "license": "CC BY-NC",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "caption": "Look at the short pale hairs lying close to the green leaf surface, with some tips curving away from it. This macro resolves individual hairs rather than relying on the plant's overall fuzzy appearance. Leaf side and magnification are not specified; do not use displayed image size to measure hair length.",
+        "anatomy_arrows": [
+          {
+            "label": "Individual short appressed leaf hairs (strigose)",
+            "target_fraction": [
+              0.511,
+              0.578
+            ]
+          }
+        ],
+        "photo_warning": ""
+      },
+      {
+        "label": "Stipule-location macro / reddish-brown projections and node hairs",
+        "scientific_name": "Euphorbia angusta",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-angusta/images/08-stipule-location-macro.jpg",
+        "image_role": "Stipule-location macro / reddish-brown projections and node hairs",
+        "source_page": "https://www.inaturalist.org/observations/21895584",
+        "creator": "Nathan Taylor",
+        "license": "CC BY-NC",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "caption": "Find the two dark reddish-brown projections at the leaf bases, contrasting with the pale hairs covering the surrounding stem and leaves. They occupy the stipule positions and fit the small, distinct, reddish-brown forms described for E. angusta. This close-up separates those structures from ordinary hairs. No scale is supplied; do not measure their length from the displayed image.",
+        "anatomy_arrows": [
+          {
+            "label": "Reddish stipule on left leaf base",
+            "target_fraction": [
+              0.296,
+              0.393
+            ]
+          },
+          {
+            "label": "Reddish stipule on right leaf base",
+            "target_fraction": [
+              0.515,
+              0.4
+            ]
+          },
+          {
+            "label": "Short pale hairs around attachment",
+            "target_fraction": [
+              0.69,
+              0.668
+            ]
+          }
+        ],
+        "photo_warning": "Expert single-ID source, needs independent taxon corroboration"
+      },
+      {
+        "label": "Cyathium side macro / resolved hairs on involucre",
+        "scientific_name": "Euphorbia angusta",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-angusta/images/09-hairy-involucre-macro.jpg",
+        "image_role": "Cyathium side macro / resolved hairs on involucre",
+        "source_page": "https://www.inaturalist.org/observations/21895584",
+        "creator": "Nathan Taylor",
+        "license": "CC BY-NC",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "caption": "Find the pale hairs covering the green cup-shaped involucre beneath the pale gland appendages. This side view resolves involucre pubescence separately from the capsule hairs shown elsewhere in the gallery. No scale is supplied, and the side view does not show the complete gland arrangement.",
+        "anatomy_arrows": [
+          {
+            "label": "Strigose green cyathial involucre",
+            "target_fraction": [
+              0.391,
+              0.272
+            ]
+          },
+          {
+            "label": "White gland appendage at cup rim",
+            "target_fraction": [
+              0.183,
+              0.379
+            ]
+          }
+        ],
+        "photo_warning": "Expert single-ID source, needs independent taxon corroboration"
+      },
+      {
+        "label": "Hairy green cyathial involucre and white toothed gland appendage; fruit hairs NOT proved",
+        "scientific_name": "Euphorbia angusta",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-angusta/images/04-strigose-capsule.jpg",
+        "image_role": "Hairy green cyathial involucre and white toothed gland appendage; fruit hairs NOT proved",
+        "source_page": "https://www.inaturalist.org/observations/85069092",
+        "creator": "Becky Brenner",
+        "license": "CC BY-NC",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "caption": "Correction after original source-pixel inspection 2026-10-21: this shows the hairy green CYATHIAL INVOLUCRE (the specialized cup) and toothed white gland appendage, NOT a diagnostic independent capsule-hair macro. Do not call this a mature fruit or a seed. True capsule pubescence is a remaining field photo target.",
+        "anatomy_arrows": [
+          {
+            "label": "Short pale hairs on green involucre",
+            "target_fraction": [
+              0.533,
+              0.359
+            ]
+          },
+          {
+            "label": "White irregularly toothed gland appendage",
+            "target_fraction": [
+              0.697,
+              0.449
+            ]
+          }
+        ],
+        "photo_warning": ""
+      },
+      {
+        "label": "Stem-node macro / resolved short hairs",
+        "scientific_name": "Euphorbia angusta",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-angusta/images/07-node-hairs-macro.jpg",
+        "image_role": "Stem-node macro / resolved short hairs",
+        "source_page": "https://www.inaturalist.org/observations/10884560",
+        "creator": "Nathan Taylor",
+        "license": "CC BY-NC",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "caption": "Find the short pale hairs covering the reddish stem and leaf bases around the node. This is a close view of node pubescence. Small reddish structures are also visible, but this image is used for hairs rather than assigning a stipule measurement or claiming complete stipule architecture. No scale is supplied.",
+        "anatomy_arrows": [
+          {
+            "label": "Short pale hairs around stem node",
+            "target_fraction": [
+              0.632,
+              0.429
+            ]
+          }
+        ],
+        "photo_warning": ""
+      }
+    ]
+  }
+}

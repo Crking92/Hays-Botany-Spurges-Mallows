@@ -1,0 +1,292 @@
+{
+  "id": "croton-capitatus",
+  "entry_type": "species",
+  "family": "Euphorbiaceae",
+  "genus": "Croton",
+  "species": "capitatus",
+  "scientific_name": "Croton capitatus",
+  "authority": "Michx.",
+  "common_name": "Texas goatweed",
+  "other_common_names": [
+    "Woolly croton"
+  ],
+  "synonyms": [],
+  "taxonomic_note": "True Croton capitatus is accepted, but historical Central Texas records under C. capitatus var. lindheimeri belong to accepted Croton lindheimeri. The learner card therefore remains concept-unresolved until true C. capitatus records are re-scouted under the modern split.",
+  "look_here_first": "LOOK HERE FIRST — TRUE CROTON CAPITATUS (TAXON CONCEPT HOLD): a pale woolly annual resembling C. lindheimeri. Inspect FEMALE flower sepals at and after anthesis: about 7–10 mm (up to 15 mm in fruit), spreading widely with tips RECURVED OUTWARD, versus straight/slightly incurved sepal tips of C. lindheimeri. SOME true C. capitatus leaves may be blunt-tipped or mucronate, not nearly all acute. These are supporting traits, not a safe identification from pale hair alone. The two labeled NC State CC0 images illustrate actual woolly floral and leaf habit but DO NOT photographically prove the mature outward-recurved female sepal pattern. The old combination C. capitatus var. lindheimeri IS A SYNONYM of C. lindheimeri, not evidence for strict C. capitatus in Hays County. The taxon-concept and native-range HOLD remain untouched.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED TAXON CONCEPT — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Texas state-level nativity is supported, but Central Texas records historically filed as C. capitatus var. lindheimeri are excluded because that concept now maps to C. lindheimeri. No three exact target-zone counties are assigned to strict C. capitatus.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Private learner inclusion is allowed while the taxon-concept HOLD remains explicit."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "TAXON_CONCEPT_RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "annual monoecious herb",
+      "stems and leaves densely stellate-hairy with whitish to pale-yellow woolly pubescence",
+      "leaves ovate to lanceolate-elliptic",
+      "some leaf tips obtuse, rounded, or mucronate",
+      "pistillate sepals usually 6–9 and relatively long",
+      "persistent pistillate sepal tips spreading or recurving outward after anthesis",
+      "3-locular capsule",
+      "three styles repeatedly divided"
+    ],
+    "comparison_training": "The highest-value split from C. lindheimeri is sepal posture plus leaf-tip shape: true C. capitatus tends toward outward-flaring/recurved pistillate sepals and may show blunt or mucronate leaves."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Croton lindheimeri",
+      "Croton heptalon (historical look-alike)",
+      "Croton lindheimerianus"
+    ],
+    "key_distinctions": "The FNA split: strict C. capitatus has some obtuse/mucronate leaf tips, long persistent FEMALE sepals (about 7–10 mm, to 15 mm in fruit) that flare/recurve outward, and less strongly decreasing petiole lengths up the stem. C. lindheimeri is typically acutely tipped, ochraceous when young, with shorter (5–7 mm) straight/slightly incurved female sepals. Historical C. capitatus var. lindheimeri is C. lindheimeri. NC State exact-label photographs cannot prove true local Hays strict capitatus.",
+    "field_matrix": [
+      {
+        "character": "Female sepals",
+        "lindheimeri": "5–7 mm; straight/slightly incurved at tips",
+        "capitatus": "7–10 mm (to 15 mm in fruit); flared and recurved outward"
+      },
+      {
+        "character": "Leaf apex",
+        "lindheimeri": "Mostly consistently sharp/acute",
+        "capitatus": "Some blunt or mucronate tips may occur"
+      },
+      {
+        "character": "Hair of new growth",
+        "lindheimeri": "Ochraceous/yellow-brown wool when young",
+        "capitatus": "Often paler/whitish; strong overlap"
+      },
+      {
+        "character": "Styles",
+        "lindheimeri": "Three styles each divided twice = often twelve tips",
+        "capitatus": "Three styles divided 2–3 times = commonly 12–18 (sometimes more); not a consistent split"
+      },
+      {
+        "character": "Historical name",
+        "lindheimeri": "Croton capitatus var. lindheimeri maps here",
+        "capitatus": "Do not include synonym-variety records as strict capitatus"
+      }
+    ],
+    "not_reliable_alone": [
+      "White/light wool cannot alone distinguish C. capitatus from C. lindheimeri.",
+      "Male stamens do not prove pistillate sepal posture.",
+      "One blunt or one pointed leaf is insufficient: sample upper and mature leaves.",
+      "Old plant names using capitatus var. lindheimeri do not document strict capitatus."
+    ]
+  },
+  "tags": [
+    "Euphorbiaceae",
+    "Croton",
+    "Taxon concept hold",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.1-capitatus-taxon-hold-photo-lesson-20261021",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-21",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "ncsu_cc0_first_photo_install": "2026-10-15",
+    "visual_status": "PROVISIONAL_TAXON_CONCEPT_HOLD: 2 CC0 photo panels with 2 inherited male/anatomy arrows, but strict diagnostic female sepal posture not photographed; never native-certify."
+  },
+  "diagnostic_image_needs": [
+    "whole habit",
+    "leaf-tip comparison",
+    "pistillate sepals at and after anthesis",
+    "mature fruit with persistent sepals",
+    "direct C. lindheimeri comparison"
+  ],
+  "photo_note": "Current image candidates are not sufficient to resolve the strict taxon concept; visual enrichment should prioritize sepal posture and leaf tips. NC State labeled Croton capitatus leaf and flower CC0 photos installed as provisional references; do NOT clear taxon-concept hold.",
+  "images": [
+    {
+      "file": "images/ncsu-croton-capitatus-cc0-flowers.jpg",
+      "role": "male and female flowers as labeled by NC State; photo-specific diagnostic confirmation pending",
+      "creator": "MCD Staff",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "NC State Extension Plant Toolbox",
+      "source_page": "https://plants.ces.ncsu.edu/plants/croton-capitatus/",
+      "downloaded_from": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Croton_capitatus_flo_KqnJuIIplXth.jpeg",
+      "source_filename": "Croton_capitatus_flo_KqnJuIIplXth.jpeg",
+      "image_dimensions": [
+        988,
+        768
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes, CC0",
+      "modifications": "resized JPEG; EXIF and metadata removed; no anatomical overlays",
+      "photo_review": "Plant toolbox source labels Croton capitatus and individual photo CC0; strict C. capitatus vs. C. lindheimeri visual split not yet independently confirmed"
+    },
+    {
+      "file": "images/ncsu-croton-capitatus-cc0-leaves.jpg",
+      "role": "leaves as labeled by NC State; photo-specific diagnostic confirmation pending",
+      "creator": "MCD Staff",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "NC State Extension Plant Toolbox",
+      "source_page": "https://plants.ces.ncsu.edu/plants/croton-capitatus/",
+      "downloaded_from": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Croton_capitatus_lea_Ha3oJnm0caWg.jpeg",
+      "source_filename": "Croton_capitatus_lea_Ha3oJnm0caWg.jpeg",
+      "image_dimensions": [
+        988,
+        768
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes, CC0",
+      "modifications": "resized JPEG; EXIF and metadata removed; no anatomical overlays",
+      "photo_review": "Plant toolbox source labels Croton capitatus and individual photo CC0; strict C. capitatus vs. C. lindheimeri visual split not yet independently confirmed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_taxon_concept_hold_photo_gaps",
+    "mode": "learner_fast_fill",
+    "image_count": 2,
+    "note": "NC State source labels verified and CC0; genus photo evidence for male flowers only; strict identity and local county status unresolved.",
+    "missing_diagnostic_views": [
+      "verified pistillate sepal posture close-up",
+      "confirmed strict taxon-concept comparison against Croton lindheimeri"
+    ]
+  },
+  "photo_diagnostic_lesson": {
+    "title": "True capitatus — look for OUTWARD recurved female sepals, not just wool",
+    "steps": [
+      {
+        "stage": "1 — WOOLLY ANNUAL",
+        "look": "Stout hairy annual with small creamy male and female flowers",
+        "what": "Existing NC State photos illustrate this broad habit only, not confirmed local strict identity."
+      },
+      {
+        "stage": "2 — LEAF TIP SERIES",
+        "look": "Look for SOME blunt, rounded or mucronate leaf tips",
+        "what": "Supporting clue; mature leaves and position matter."
+      },
+      {
+        "stage": "3 — FEMALE FLOWER",
+        "look": "Long 7–10 mm pistillate sepals flaring OUTWARD; may persist to 15 mm in fruit",
+        "what": "This is the key difference from C. lindheimeri; a paired stage-matched macro is needed."
+      },
+      {
+        "stage": "4 — PETIOLE PATTERN",
+        "look": "Petioles remain relatively similar length higher on stem",
+        "what": "Compare with the more marked decrease toward the tip in C. lindheimeri; secondary field character."
+      },
+      {
+        "stage": "5 — TAXON NAME CHECK",
+        "look": "Avoid 'capitatus var. lindheimeri' as evidence of true capitatus",
+        "what": "Those older records belong with accepted C. lindheimeri. Do not use them to clear the current native-range/taxon HOLD."
+      }
+    ],
+    "memory_rule": "STRICT CAPITATUS: FEMALE SEPALS FLARE OUT + some BLUNT LEAF TIPS. Historical var. lindheimeri is a different accepted species."
+  },
+  "visual_comparison": {
+    "title": "Strict capitatus — NC State CC0 photos with explicit taxon concept caution",
+    "subtitle": "Two physically stored photo-specific CC0 images; two existing validated genus arrows on the floral image reused, but NOT reinterpreted as female-sepal proof.",
+    "items": [
+      {
+        "label": "1 · NC State CC0 flowers — open male stamens",
+        "scientific_name": "Croton capitatus",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-capitatus/images/ncsu-croton-capitatus-cc0-flowers.jpg",
+        "image_fit": "contain",
+        "creator": "MCD Staff",
+        "license": "CC0 1.0",
+        "source_page": "https://plants.ces.ncsu.edu/plants/croton-capitatus/",
+        "image_role": "Licensed source-identified TRUE Croton capitatus specimen showing male stamens, woolly bracts; DOES NOT prove mature recurved female sepal tips and not certified Hays",
+        "caption": "NC State labels this Croton capitatus. The photo actually displays stamens and woolly flower structures; the taxonomically decisive mature female sepal tips are not demonstrably recurved here. No claim of local strict capitatus.",
+        "markers": [
+          {
+            "label": "Open male stamens",
+            "label_x": 2,
+            "label_y": 9,
+            "target_x": 35,
+            "target_y": 22
+          },
+          {
+            "label": "Woolly inflorescence",
+            "label_x": 65,
+            "label_y": 88,
+            "target_x": 60,
+            "target_y": 71
+          }
+        ]
+      },
+      {
+        "label": "2 · NC State CC0 leaves — broad woolly leaf recognition",
+        "scientific_name": "Croton capitatus",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-capitatus/images/ncsu-croton-capitatus-cc0-leaves.jpg",
+        "image_fit": "contain",
+        "creator": "MCD Staff",
+        "license": "CC0 1.0",
+        "source_page": "https://plants.ces.ncsu.edu/plants/croton-capitatus/",
+        "image_role": "Source-labeled leaf image; cannot score across multiple leaf tips from one reference view",
+        "caption": "Use the photo to recognize woolly leaves, not to conclude confirmed strict C. capitatus or to claim a recurved female sepal.",
+        "why_it_matters": "Distinguishes what the photo shows from the unphotographed scientific split.",
+        "markers": []
+      }
+    ],
+    "memory_rule": "STRICT CAPITATUS requires FEMALE SEPALS flared OUTWARD; woolly leaves and a male flower are not enough.",
+    "annotation_status": "Two prior genus arrows reused from same unchanged floral JPEG: male stamens and woolly inflorescence only; no imaginary sepal arrows; owner mobile QA pending.",
+    "part_examples": [
+      {
+        "title": "Real male stamens",
+        "role": "visible male reproductive structure",
+        "anchor_species_id": "croton-capitatus",
+        "image_file": "images/ncsu-croton-capitatus-cc0-flowers.jpg",
+        "look_for": "Open small white staminate flower",
+        "why_it_matters": "Field anatomy training, not female sepal identity."
+      },
+      {
+        "title": "Recurved pistillate sepals",
+        "role": "decisive strict taxon character",
+        "status": "needs_photo",
+        "look_for": "Female flower and mature fruit sepals flaring OUTWARD measured in mm",
+        "why_it_matters": "Needed before declaring a confident C. capitatus versus C. lindheimeri ID."
+      }
+    ]
+  },
+  "field_photo_quickcheck": {
+    "heading": "Strict Croton capitatus: unresolved local concept, use pistillate sepals",
+    "featured_photo_indices": [
+      0,
+      1
+    ],
+    "steps": [
+      "Recognize woolly annual as a candidate, not a definite species.",
+      "Study multiple mature leaf tips: some may be blunt or mucronate.",
+      "Observe FEMALE flower sepals opening/flaring outward at anthesis, staying recurved in fruit.",
+      "Compare paired mature FEMALE sepals with C. lindheimeri (straight/slightly inward).",
+      "Do not attach older C. capitatus var. lindheimeri records to strict capitatus nativity."
+    ],
+    "field_rule": "Pistillate sepals OUTWARD recurved + some blunt leaf tips supports strict C. capitatus, if taxonomy independently verified.",
+    "warning": "No installed images prove the key strict C. capitatus female sepal posture. Current target-zone concept remains unresolved and excluded from native certification.",
+    "owner_mobile_review": "PENDING"
+  },
+  "diagnostic_photo_targets": [
+    {
+      "role": "Strict accepted C. capitatus mature female sepals recurved outward side-by-side with C. lindheimeri",
+      "status": "TAXON_VERIFICATION_AND_MACRO_NEEDED"
+    },
+    {
+      "role": "Multiple leaf apices including blunt/mucronate tips on exact strict C. capitatus",
+      "status": "NEEDS_VERIFIED_PHOTO"
+    },
+    {
+      "role": "Same-stage sepal length measured in millimeters",
+      "status": "NEEDS_VERIFIED_MEASUREMENT"
+    }
+  ]
+}

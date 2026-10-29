@@ -1,0 +1,67 @@
+{
+  "id": "anoda-cristata",
+  "entry_type": "species",
+  "family": "Malvaceae",
+  "genus": "Anoda",
+  "species": "cristata",
+  "scientific_name": "Anoda cristata",
+  "common_name": "spurred anoda",
+  "synonyms": [
+    "Sida cristata"
+  ],
+  "look_here_first": "LOOK HERE FIRST: Find the mallow-like flower and, most importantly, a mature flattened disk-shaped fruit (schizocarp). Count the wedge-shaped segments (mericarps) and inspect their projecting points; do not identify this plant from a purple leaf blotch or flower color alone.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool row 77",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "native_metrics_excluded": true,
+    "notes": "Texas state-level native; three qualifying target counties not independently certified. Internal scientific metadata, not default public badge."
+  },
+  "morphology_keys": {
+    "habit": "Annual herb with spreading to upright branching stems; habit varies with disturbance and moisture.",
+    "leaves_attachment": "Alternate, petiolate leaves; lower leaves may be broader or lobed and upper leaves narrower. Variable purple marks are not diagnostic.",
+    "flower_reproductive": "Solitary five-petaled, mallow-type flowers with many stamens united into a central column; check calyx and flower attachment.",
+    "fruit_seed": "Flattened circular schizocarp breaks into approximately 10–19 wedge-shaped mericarps. Mature mericarp tips/spines are more decisive than flower color.",
+    "stem_bud": "Inspect leaf axils for flower and fruit stalks; note hairiness and alternate nodes."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Sida spp.",
+      "Abutilon spp."
+    ],
+    "key_distinctions": "Separate from Sida and Abutilon by mature fruit architecture and mericarp count/shape; a purple leaf center or pink petals alone cannot establish Anoda cristata."
+  },
+  "diagnostic_image_needs": [
+    "installed_candidate_role: flower + young fruit + alternate leaves (Commons AfroBrazilian, exact species; verify after Action)",
+    "installed_candidate_role: mature schizocarp face (Commons Denis.prévôt, exact species; verify after Action)",
+    "needs_photo: single detached mature mericarp showing tip/spines with millimeter scale",
+    "needs_photo: full plant habit with basal and upper leaf variation",
+    "annotation_pending: no arrows until photo-specific anatomical positions verified"
+  ],
+  "photo_status": "staged_sources_pending_installer_verification",
+  "images": [
+    {
+      "file": "images/anoda-cristata-flower-commons.jpg",
+      "role": "Flower and young fruit with alternate leaves",
+      "creator": "AfroBrazilian",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Anoda_cristata_01.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/anoda-cristata-mature-fruit-commons.jpg",
+      "role": "Mature disk-shaped schizocarp close-up",
+      "creator": "Denis.prévôt",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Anoda_cristata_-_Fruit.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    }
+  ],
+  "curation_status": {
+    "photo_metadata_count": 2,
+    "photo_files_present": 2
+  }
+}

@@ -1,0 +1,16 @@
+# Triadica sebifera — approved nonnative comparison
+Original completed scout/review: research-drafts/triadica-sebifera/draft.json
+Learner admission: approved Master Plant Pool. Scientific native-range: FAIL_NONNATIVE (introduced/invasive Texas).
+Texas A&M Forest Service: https://tfsweb.tamu.edu/trees/invasive-species/invasive-plants-and-trees/chinese-tallow/
+NPSOT invasive plant: https://www.npsot.org/posts/invasive-plant/triadica-sebifera/
+USFS FEIS: https://research.fs.usda.gov/feis/species-reviews/triseb
+Exact photo source: https://commons.wikimedia.org/wiki/File:Triadica_sebifera3.jpg
+Photographer KENPEI; CC BY-SA 3.0; photo shows leaves and immature green capsules; no annotation.
+No Texas native-range counties are claimed. Additional macro of white seeds needed.
+
+GLASS ROOT GARDEN DIRECT-PHOTOGRAPHER PHOTO INSTALL (2026-10-14)
+Public learner credit: Glass Root Garden. CC BY 4.0 licensed directly by photographer.
+iNaturalist observation/photo links and image files:
+- 520384252 https://www.inaturalist.org/photos/520384252 | 289329652 | images/glass-root-garden-520384252-hanging-inflorescence.jpg
+- 647350130 https://www.inaturalist.org/photos/647350130 | 354887217 | images/glass-root-garden-647350130-diamond-leaf-venation.jpg
+Original iNaturalist photo license state, when different, is retained in species images[] provenance; do not attribute the owner grant to iNaturalist.

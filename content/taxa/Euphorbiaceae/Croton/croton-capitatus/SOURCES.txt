@@ -1,0 +1,27 @@
+# Curation sources — Croton capitatus
+Reviewed through 2026-10-06
+Scientific status: UNRESOLVED TAXON CONCEPT / RANGE HOLD
+Learner admission: APPROVED
+
+Current concept
+True Croton capitatus is accepted, but historical Croton capitatus var. lindheimeri is not counted here.
+
+Plants of the World Online — Croton lindheimeri:
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60450445-2
+
+Plants of the World Online — Croton capitatus var. lindheimeri:
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:70003-2
+This historical variety maps to accepted Croton lindheimeri.
+
+Project draft:
+research-drafts/croton-capitatus/draft.json
+
+Decision
+Install for private learner comparison only while preserving TAXON/RANGE HOLD.
+Do not count legacy var. lindheimeri records toward strict C. capitatus.
+
+NC STATE EXTENSION CC0 PHOTOS 2026-10-15T02:19:30.751197+00:00
+https://plants.ces.ncsu.edu/plants/croton-capitatus/
+Croton_capitatus_flo_KqnJuIIplXth.jpeg — MCD Staff, CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+Croton_capitatus_lea_Ha3oJnm0caWg.jpeg — MCD Staff, CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+Exact species name as NC State labels it. Images need independent strict Croton capitatus vs C. lindheimeri verification. Do not infer target range or clear HOLD. Photo URLs stripped of expiring signatures.

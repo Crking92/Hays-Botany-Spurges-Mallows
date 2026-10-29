@@ -1,0 +1,23 @@
+Ludwigia leptocarpa — Provisional learner first-install source evidence
+Date: 2026-10-08
+Source-pool learner-admission basis: Ludwigia taxa in approved Master Plant Pool; no final target-zone range judgment.
+Primary scientific key: https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=119063
+Kew POWO Ludwigia genus: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:325872-2
+Project source comparison: content/taxa/Onagraceae/Ludwigia/genus.json
+Photo author: Franz Xaver
+License: CC BY-SA 3.0
+Photo source: https://commons.wikimedia.org/wiki/File:Ludwigia_leptocarpa_1.jpg
+Direct image: https://upload.wikimedia.org/wikipedia/commons/4/44/Ludwigia_leptocarpa_1.jpg
+Important: Costa Rica source; mature hairy capsule close-up still pending.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T02:44:22.091178+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/99149215
+https://www.inaturalist.org/observations/61922861
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T10:29:00.083630+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/99149223
+https://www.inaturalist.org/observations/61922861
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

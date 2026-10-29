@@ -1,0 +1,21 @@
+CALLIRHOE PEDATA — LEARNER FAST-FILL PHOTO SOURCES
+Prepared: 2026-10-05
+Media-only update; PASS taxonomy/range unchanged.
+
+Existing gallery used a remote iNaturalist URL with reuse still marked review. Fast-fill replaces it with two exact-species files whose licenses are independently verified on Wikimedia Commons.
+
+1) Callirhoe pedata 359070311.jpg
+Creator: lanechaffin
+iNaturalist photo: 359070311; observation: 203246195
+License: CC0 1.0
+Source: https://commons.wikimedia.org/wiki/File:Callirhoe_pedata_359070311.jpg
+Direct: https://upload.wikimedia.org/wikipedia/commons/8/8f/Callirhoe_pedata_359070311.jpg
+Role: purple-flowering plant/habit with multiple stems and buds.
+
+2) Callirhoe pedata 382056768.jpg
+Creator: giantcicada
+iNaturalist photo: 382056768; observation: 216053951
+License: CC BY 4.0
+Source: https://commons.wikimedia.org/wiki/File:Callirhoe_pedata_382056768.jpg
+Direct: https://upload.wikimedia.org/wikipedia/commons/0/07/Callirhoe_pedata_382056768.jpg
+Role: flower and pointed bud/calyx close context.

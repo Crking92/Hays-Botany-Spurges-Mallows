@@ -1,0 +1,99 @@
+{
+  "id": "oenothera-laciniata",
+  "entry_type": "species",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "species": "laciniata",
+  "scientific_name": "Oenothera laciniata",
+  "authority": "Hill",
+  "common_name": "Cutleaf Evening Primrose",
+  "look_here_first": "Start with the cut or lobed leaves and nocturnal yellow flowers. Cutleaf evening primrose is a low annual or short-lived perennial with alternate leaves that range from toothed to deeply cut-lobed, and 4-petaled yellow flowers that open around sunset.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Natural Purola flora lists O. laciniata. Travis — UT Plant Resources Center Onagraceae herbarium index includes O. laciniata. Williamson — dedicated county treatment documents O. laciniata.",
+    "range_guardrail": "Exact county evidence; reconciled historical synonyms only."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "annual or short-lived perennial from taproot",
+      "basal rosette plus cauline leaves",
+      "leaves variable from dentate to distinctly cut-lobed",
+      "4 yellow petals",
+      "flowers nocturnal, opening near sunset",
+      "long slender floral tube",
+      "stigma conspicuously 4-lobed",
+      "elongate 4-valved capsule"
+    ],
+    "comparison_training": "Unlike O. capillifolia, the leaves are much broader and commonly cut-lobed. Unlike the gaura-like species, flowers are radially symmetric and yellow rather than white/pink and strongly zygomorphic."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Oenothera capillifolia",
+      "Oenothera calcicola",
+      "Oenothera biennis",
+      "Oenothera filiformis"
+    ],
+    "key_distinctions": "Unlike O. capillifolia, the leaves are much broader and commonly cut-lobed. Unlike the gaura-like species, flowers are radially symmetric and yellow rather than white/pink and strongly zygomorphic."
+  },
+  "curation_status": {
+    "version": "1.0-b061",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/oenothera-laciniata-provisional-face.jpg",
+      "role": "Flowering plant recognizable face",
+      "creator": "Σ64",
+      "license": "CC BY 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Oenothera_laciniata_01.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-6131257855-360a50bb5.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Leaf incision, flower and capsule",
+      "creator": "chiuluan",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6131257855",
+      "gbif_occurrence_id": "6131257855",
+      "source_determination": "Oenothera laciniata Hill",
+      "accepted_target": "Oenothera laciniata",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/608885944/original.jpg",
+      "image_dimensions": [
+        1350,
+        1013
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,13 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Jatropha%20dioica
+Source research-grade observation: https://www.inaturalist.org/observations/216385082
+Photo: https://www.inaturalist.org/photos/382654450
+Attribution: (c) Rodolfo Maximiliano Gutiérrez-Sánchez, some rights reserved (CC BY)
+License: CC BY; Attribution required
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 047 2026-10-17T02:42:02.868524+00:00
+Jatropha dioica
+Creator: Jo Roberts; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6185832214
+Stored archive: hays-photo-library-mass-38993364540 :: staged_images/jatropha-dioica/gbif-b434e6f86650a2.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

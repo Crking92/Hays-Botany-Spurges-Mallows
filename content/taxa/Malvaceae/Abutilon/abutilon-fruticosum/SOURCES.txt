@@ -1,0 +1,11 @@
+Abutilon fruticosum (sweet Indian mallow) — existing canonical learner species, previously scientifically curated. Preserve user approval, Hays/Travis confirmed occurrences, third target county not certified: UNRESOLVED.
+Existing image: John Pavelka, Barton Creek, Austin, CC BY 2.0: https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum.jpg
+New flower: SAplants, CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum_1DS-II_3-2244.jpg
+New fruit side and alternate view: Krzysztof Ziarnek, Kenraiz, CC BY-SA 4.0:
+https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum_kz03.jpg
+https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum_kz04.jpg
+Scientific review: https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250071371
+UT Austin detailed Texas morphology: https://w3.biosci.utexas.edu/prc/K12/pdf/Abutilon%20fruticosum
+Kew alternative column hair descriptions: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326450-2/general-information
+Important conflict FNA calls staminal column glabrous, UT/Kew report some hair. Do NOT label that single character decisive. 6–9 style branches and 6–9(–10) fruit mericarps are safer morphological anchors.
+Also found Jim Conrad's Uvalde County exact-species public-domain fruit series for later: https://www.backyardnature.net/n/h/abutilon.htm (fruit files 130901ad.jpg and 130901ae.jpg); no claim those are installed in current batch.

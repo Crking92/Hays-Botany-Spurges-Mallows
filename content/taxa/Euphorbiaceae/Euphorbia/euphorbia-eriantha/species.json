@@ -1,0 +1,574 @@
+{
+  "id": "euphorbia-eriantha",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "species": "eriantha",
+  "scientific_name": "Euphorbia eriantha",
+  "common_name": "Beetle spurge / desert poinsettia",
+  "look_here_first": "LOOK FOR THE NEEDLE-LIKE LEAVES AND HAIRY FRUIT FIRST. Beetle spurge (Euphorbia eriantha) is an UPRIGHT or ascending desert spurge, not a creeping sandmat. Most main-stem leaves are ALTERNATE, linear or narrowly elliptic (20–55 × 1–3 mm) with only 2–4 tiny teeth near the tip. At the flowering ends, 2–3 linear green BRACTS are opposite or whorled; don't mistakenly call all stem foliage opposite. The fruit is surprisingly conspicuous: an oblong, commonly white-HAIRY 3-lobed capsule 4.4–4.9 mm long, often green/white mottled (photographed clearly). Tiny cyathia are clustered among fruits, with gland appendages described by Flora of North America as WHITISH, densely hairy, divided into 5–12 narrow fringes and curled INWARD over the glands; our existing photos show the hairy flowering clusters, but not individual inward-turning hairs/fringes with certainty. Compare E. exstipulata: usually conspicuous leaf teeth and white/pink appendages that do NOT fold over the gland. Genuine mature seeds are 2.8–4.1 mm, pitted/warty and carry a caruncle; do NOT point to a striped green CAPSULE and call it a seed. FNA western-desert ecology is not evidence of Hays County nativity; native-range review remains paused.",
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "visual_reviewed": true,
+    "photo_source_checked": true,
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "field_status": "FIELD_READY_WITH_GLAND_AND_SEED_MACRO_PHOTO_GAPS",
+    "annotated_real_photo_count": 5,
+    "verified_arrow_count": 13,
+    "new_photo_source_verified_on": "2026-10-21",
+    "last_reviewed": "2026-10-21"
+  },
+  "photo_note": "FIVE physically reviewed exact-species source JPEGs with THIRTEEN verified visible-structure arrows (Eric Knight CC BY; obatalov, debm, creamnosugar, yamstress photo-specific CC BY-NC). They teach slender leaves, narrow green upper bracts, hairy cyathial group, conspicuously larger striped hairy CAPSULES, and desert branching habit. Original source pixels checked 2026-10-21. Two diagnostic images still need independent licensed macro evidence: the precise 5–12 hairy gland-appendage fingers curved INWARD over the glands, and actual mature separated pitted/knobby seed with visible caruncle and 1-mm scale. Southwestern Arizona Flora Figure 26 has a seed plate, but the plate is a REFERENCE LINK only because its public website redistribution license is not established. No substitute image from another species will be used.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Euphorbia%20eriantha",
+  "images": [
+    {
+      "file": "images/inat-181384310.jpg",
+      "role": "Eric Knight exact-name field reproductive macro showing needle-like leaves, dense hairy cyathium groups and developing mottled, hairy fruits",
+      "creator": "(c) Eric Knight, some rights reserved (CC BY)",
+      "license": "CC BY",
+      "source_page": "https://www.inaturalist.org/photos/181384310",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution required",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "caption": "This real close-up shows extremely narrow foliage surrounding a small, densely hairy reproductive group and large mottled hairy fruit structures. Curved white gland appendage segments may be present within the cluster but cannot be individually diagnosed or measured from this photo. The patterned structures should not be labeled as detached mature seeds.",
+      "anatomy_arrows": [
+        {
+          "label": "Very narrow linear leaf",
+          "target_fraction": [
+            0.8,
+            0.48
+          ]
+        },
+        {
+          "label": "Dense hairy cyathium group",
+          "target_fraction": [
+            0.42,
+            0.55
+          ]
+        },
+        {
+          "label": "Developing mottled hairy fruit",
+          "target_fraction": [
+            0.53,
+            0.66
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-21 original exact-species JPEG visibly inspected; three markers for obvious leaf, central hairy cluster, and developing mottled fruit. White gland fringe morphology and true detached seed cannot be confidently resolved."
+    },
+    {
+      "file": "images/inat-753175091-review.jpg",
+      "role": "Green mottled hairy capsule and long linear bracts",
+      "creator": "(c) obatalov, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/753175091",
+      "observation_url": "https://www.inaturalist.org/observations/409609700",
+      "observation_id": 409609700,
+      "photo_id": 753175091,
+      "source_platform": "iNaturalist API exact accepted species; individual photo-level licence",
+      "study_use": "Botanical education",
+      "public_reuse": "yes",
+      "public_site_use_scope": "noncommercial-only",
+      "modifications": "Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
+      "photo_review": "OBSERVED identity exact species at research grade and PHOTO license independently verified by iNaturalist; downloaded original JPEG checked. Saved original photograph reviewed for coarse anatomy on 2026-10-21; critical gland fringe and detached seed not resolved.",
+      "anatomy_arrows": [
+        {
+          "label": "Very narrow green leaf/bract",
+          "target_fraction": [
+            0.62,
+            0.34
+          ]
+        },
+        {
+          "label": "Large hairy green capsule",
+          "target_fraction": [
+            0.46,
+            0.37
+          ]
+        },
+        {
+          "label": "Tiny clustered white-hairy cyathia",
+          "target_fraction": [
+            0.37,
+            0.45
+          ]
+        }
+      ],
+      "image_source_sha256": "2358f804aec3b0f8b963e5dc6ee3663f9c74c837975cbdadbe4abc8458878b81",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "image_dimensions": [
+        1350,
+        1800
+      ],
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/753175091/original.jpg",
+      "caption": "Close view of needle-like, entirely green leafy bracts, large green-striped hairy developing capsules and the much smaller whitish clustered cyathia between them. No detached seed or individual curled gland finger is separately identified.",
+      "manual_arrow_review": "2026-10-21 original physically installed exact-scientific-taxon GitHub JPEG read and visually examined; only resolvable green leaves, larger hairy developing fruit, clustered reproductive areas and stem architecture marked. Curled fine gland segments and detached seeds NOT identified."
+    },
+    {
+      "file": "images/inat-751280401-review.jpg",
+      "role": "Many needle-like leaves on branching fruiting stems",
+      "creator": "(c) debm, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/751280401",
+      "observation_url": "https://www.inaturalist.org/observations/408679301",
+      "observation_id": 408679301,
+      "photo_id": 751280401,
+      "source_platform": "iNaturalist API exact accepted species; individual photo-level licence",
+      "study_use": "Botanical education",
+      "public_reuse": "yes",
+      "public_site_use_scope": "noncommercial-only",
+      "modifications": "Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
+      "photo_review": "OBSERVED identity exact species at research grade and PHOTO license independently verified by iNaturalist; downloaded original JPEG checked. Saved original photograph reviewed for coarse anatomy on 2026-10-21; critical gland fringe and detached seed not resolved.",
+      "anatomy_arrows": [
+        {
+          "label": "Long linear foliage",
+          "target_fraction": [
+            0.64,
+            0.38
+          ]
+        },
+        {
+          "label": "Fruiting cluster",
+          "target_fraction": [
+            0.56,
+            0.5
+          ]
+        },
+        {
+          "label": "Spreading upper stems",
+          "target_fraction": [
+            0.33,
+            0.36
+          ]
+        }
+      ],
+      "image_source_sha256": "004fa6f1d097e9d0f44309dfc19cbb4f703bdb32459713f9d6c4aac464d45bbd",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "image_dimensions": [
+        1350,
+        1800
+      ],
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/751280401/original.jpg",
+      "caption": "Multiple ascending slender green stems carry linear narrow leaves, small hairy white reproductive clusters and larger mottled fruits. This shot shows architecture but is not a calibrated complete root-to-top plant.",
+      "manual_arrow_review": "2026-10-21 original physically installed exact-scientific-taxon GitHub JPEG read and visually examined; only resolvable green leaves, larger hairy developing fruit, clustered reproductive areas and stem architecture marked. Curled fine gland segments and detached seeds NOT identified."
+    },
+    {
+      "file": "images/inat-751049952-review.jpg",
+      "role": "Lateral hairy fruit near green leaf and red styles",
+      "creator": "(c) creamnosugar, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/751049952",
+      "observation_url": "https://www.inaturalist.org/observations/408565930",
+      "observation_id": 408565930,
+      "photo_id": 751049952,
+      "source_platform": "iNaturalist API exact accepted species; individual photo-level licence",
+      "study_use": "Botanical education",
+      "public_reuse": "yes",
+      "public_site_use_scope": "noncommercial-only",
+      "modifications": "Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
+      "photo_review": "OBSERVED identity exact species at research grade and PHOTO license independently verified by iNaturalist; downloaded original JPEG checked. Saved original photograph reviewed for coarse anatomy on 2026-10-21; critical gland fringe and detached seed not resolved.",
+      "anatomy_arrows": [
+        {
+          "label": "Developing mottled capsule",
+          "target_fraction": [
+            0.7,
+            0.38
+          ]
+        },
+        {
+          "label": "Linear green leaf",
+          "target_fraction": [
+            0.75,
+            0.72
+          ]
+        }
+      ],
+      "image_source_sha256": "1f56a755ef986a7d076b7e25defcdc94f948ffabd486d1e5de584c4f1b65e0a0",
+      "original_dimensions": [
+        2048,
+        1536
+      ],
+      "image_dimensions": [
+        1800,
+        1350
+      ],
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/751049952/original.jpg",
+      "caption": "The photographed oval striped/short-hairy developing capsule is near a branching junction and narrow leaves. Reddish slender styles are visible nearby, but curled gland-lobe identity cannot be distinguished from this view.",
+      "manual_arrow_review": "2026-10-21 original physically installed exact-scientific-taxon GitHub JPEG read and visually examined; only resolvable green leaves, larger hairy developing fruit, clustered reproductive areas and stem architecture marked. Curled fine gland segments and detached seeds NOT identified."
+    },
+    {
+      "file": "images/inat-749199014-review.jpg",
+      "role": "Eriantha in desert scrub: many branched needle-leaf stems",
+      "creator": "(c) yamstress, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/749199014",
+      "observation_url": "https://www.inaturalist.org/observations/407666347",
+      "observation_id": 407666347,
+      "photo_id": 749199014,
+      "source_platform": "iNaturalist API exact accepted species; individual photo-level licence",
+      "study_use": "Botanical education",
+      "public_reuse": "yes",
+      "public_site_use_scope": "noncommercial-only",
+      "modifications": "Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
+      "photo_review": "OBSERVED identity exact species at research grade and PHOTO license independently verified by iNaturalist; downloaded original JPEG checked. Saved original photograph reviewed for coarse anatomy on 2026-10-21; critical gland fringe and detached seed not resolved.",
+      "anatomy_arrows": [
+        {
+          "label": "Ascending leafy branches",
+          "target_fraction": [
+            0.5,
+            0.41
+          ]
+        },
+        {
+          "label": "Terminal fruit cluster",
+          "target_fraction": [
+            0.68,
+            0.58
+          ]
+        }
+      ],
+      "image_source_sha256": "3e590e50f94b131f9ed7860b372a733b2414ee21883a938c653eb5fb47aaf64f",
+      "original_dimensions": [
+        2048,
+        1536
+      ],
+      "image_dimensions": [
+        1800,
+        1350
+      ],
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/749199014/original.jpg",
+      "caption": "A wider desert scrub view shows ascending branches and very narrow leaves under open rocky conditions. Flower/fruit groups are near tips. The exact whole-plant height and basal taproot are not visible.",
+      "manual_arrow_review": "2026-10-21 original physically installed exact-scientific-taxon GitHub JPEG read and visually examined; only resolvable green leaves, larger hairy developing fruit, clustered reproductive areas and stem architecture marked. Curled fine gland segments and detached seeds NOT identified."
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "five_licensed_photo_13_verified_anatomy_arrows",
+    "image_count": 5,
+    "filled_at": "2026-10-18",
+    "note": "Five real checked licensed photographs teach alternate long narrow main stem leaves, opposite/whorled green terminal bracts, small woolly cyathia and conspicuously larger mottled woolly fruits. FNA's diagnostic folded fringed gland hood and mature carunculate seed remain photo holds.",
+    "annotated_source_count": 5,
+    "verified_arrow_count": 13
+  },
+  "entry_type": "provisional_species",
+  "authority": "Benth.",
+  "synonyms": [
+    "Poinsettia eriantha (Benth.) Rose & Standl.",
+    "Euphorbia exclusa S.Watson"
+  ],
+  "taxonomic_note": "Euphorbia eriantha Benth. is accepted in POWO. Distinct from creeping, opposite-leaved Euphorbia sect. Anisophyllum: this is an ascending desert Euphorbia in sect. Poinsettia, with alternate lower/midstem leaves, narrow green bracts and uniquely hairy, strongly incurved fringe-like gland appendages. State native TX; target county status remains unreviewed.",
+  "morphology_keys": {
+    "family_pattern": "Euphorbiaceae, Euphorbia sect. Poinsettia (subsect. Erianthae). Cyathia are tiny cup-like reproductive units, not ordinary true-petaled flowers; fruit is a capsular spurge.",
+    "habit": "Annual or short-lived perennial with taproot; erect to ascending 10–75 cm; curving branches. Rocky desert washes and slopes, not a presumed common Hays County species.",
+    "leaves": "Main stem leaves ALTERNATE (basal node may appear opposite), 20–55 × 1–3 mm linear to narrow linear-elliptic with pronounced midvein; 2–4 tiny teeth close to the apex or practically entire to naked eye. Lower face sometimes short soft hairs; upper face often nearly glabrous.",
+    "bracts": "Upper flowering bracts 2–3, OPPOSITE or WHORLED, linear green and leaf-like, subtending terminal few-cyathium branches; distinguish these from the actual alternate main stem leaves.",
+    "cyathia": "Terminal cymose group, tiny hairs cover the involucre; 2–5 commonly 4–5 green-maroon shallowly cupped glands, 0.5–0.6 mm wide, commonly hidden by WHITE/gray dense hairy appendages folded inward over glands.",
+    "gland_appendages": "Extraordinary whitish hood-like appendages 0.5–1 mm, cut into 5–12 long fine subulate fingers, densely whitish-hairy, CURLING OVER glands, vs E. exstipulata appendages that do not cover glands.",
+    "ovary_capsules": "Oblong-ovoid approx 4.4–4.9 × 3.5–4.1 mm 3-lobed fruit, canescent (covered in short white/gray hairs) with sometimes hairless patches; much larger and hairier than a tiny sandmat's fruit.",
+    "seeds": "Mature true seeds oblong or ovoid, 2.8–4.1 × 2–2.4 mm, mottled black and gray or light brown, flattened dorsiventrally, coarsely tuberculate/pitted, with an obvious pale caruncle at attachment end. Do not confuse developing capsule patterns with detached seed surfaces.",
+    "best_field_traits": [
+      "ALTERNATE, linear near-needlelike 2–5.5 cm × 1–3 mm leaves",
+      "Upper opposite/whorled GREEN leaf-like flowering bracts (not showy white bracts)",
+      "Tiny almost concealed terminal cyathia with HAIRY white appendages folded inward over glands",
+      "Large white-gray hairy, often mottled oblong 3-lobed capsules",
+      "Mature large 2.8–4.1mm visibly warted/mottled seeds with caruncle",
+      "Generally erect or ascending instead of creeping sandmat"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Euphorbia exstipulata",
+      "Euphorbia heterophylla",
+      "Euphorbia cyathophora",
+      "Euphorbia bicolor",
+      "Euphorbia marginata"
+    ],
+    "key_distinctions": "Use alternate very narrow whole-green main-stem leaves and very hairy, oblong 4.4–4.9 mm fruit to recognize E. eriantha. To separate the closest E. exstipulata: inspect visibly more toothed leaves and gland appendages that remain OUTWARD / not curled over its glands, versus eriantha densely hairy hood fringes that curve inward and obscure its glands; actual micro comparative photos not yet available. E. heterophylla has broader variable leaves and smooth capsules, E. cyathophora showier bracts; E. bicolor and E. marginata conspicuous white-bordered terminal bracts. No false Hays county native status.",
+    "matrix": [
+      {
+        "part": "Main leaves",
+        "eriantha": "ALTERNATE, 20–55 × 1–3 mm, smooth-looking or only few tiny distal teeth",
+        "exstipulata": "Opposite or some alternate with conspicuous serrations",
+        "heterophylla": "Broader, variable leaf forms"
+      },
+      {
+        "part": "Upper flowering bracts",
+        "eriantha": "Green, very narrow, opposite/whorled",
+        "exstipulata": "Green and usually narrowly toothed",
+        "heterophylla": "Broad green or partly colored forms"
+      },
+      {
+        "part": "Gland appendages",
+        "eriantha": "Whitish, finely finger-fringed, DENSELY HAIRY and inward-curved covering gland",
+        "exstipulata": "White/pink, often fingered but not curved over gland",
+        "heterophylla": "Typically not present as a curled hairy fringe"
+      },
+      {
+        "part": "Capsule",
+        "eriantha": "Large 4.4–4.9 mm, canescent hairy",
+        "exstipulata": "Small, angled/lobed, often sparsely hairy",
+        "heterophylla": "3-lobed and glabrous"
+      }
+    ],
+    "field_matrix": [
+      {
+        "character": "Mid-stem leaf arrangement / width",
+        "eriantha": "ALTERNATE linear leaves only 1–3mm wide, nearly entire except small tip teeth",
+        "exstipulata": "Leaves narrowly elliptic to ovate; usually conspicuously toothed (FNA)"
+      },
+      {
+        "character": "Terminal flowering bracts",
+        "eriantha": "Entirely green, 2–3 narrow bracts opposite/whorled",
+        "exstipulata": "Green bracts, leaflike; arrangement needs true plant context"
+      },
+      {
+        "character": "Gland appendages",
+        "eriantha": "DENSELY HAIRY white hood divided into 5–12 needlelike parts, curled INWARD covering gland (not yet photographed well)",
+        "exstipulata": "White or pink, sometimes lobed, but NOT curled over the actual gland; comparison photos needed"
+      },
+      {
+        "character": "Fruit",
+        "eriantha": "Oblong often mottled, conspicuously WOOLLY capsule ~4.4–4.9 mm; photographed",
+        "exstipulata": "Smaller ~2.7–3.3 mm capsule with fine appressed hairs usually on keels"
+      },
+      {
+        "character": "True seed",
+        "eriantha": "Large 2.8–4.1 mm, black-gray/light brown, pitted and tuberculate with larger caruncle; true macro pending",
+        "exstipulata": "Smaller 1.9–2.5 mm, pale/gray, tuberculate often with 2 ridges; tiny caruncle; macro pending"
+      }
+    ]
+  },
+  "field_photo_quickcheck": {
+    "heading": "BEETLE SPURGE — NEEDLE LEAVES, WOOLLY FRUIT, HIDDEN GLANDS",
+    "featured_photo_indices": [
+      0,
+      1,
+      3,
+      2,
+      4
+    ],
+    "steps": [
+      "Photograph a full erect/ascending plant, then trace middle STEM nodes: foliage is ALTERNATE. Two or three opposite/whorled leaflike parts higher up are reproductive BRACTS, not proof that all leaves are opposite.",
+      "Under a ruler check main leaves 20–55 mm long and only 1–3 mm wide; they often appear entire, with 2–4 tiny teeth near their tips.",
+      "On a terminal branch compare the LARGE elongated 4.4–4.9 mm WOOLLY 3-lobed CAPSULES against the much smaller white-hairy cyathial units. Our first two actual photographs show this size difference clearly.",
+      "At 20–30× isolate ONE cyathium: photograph a white hairy hood with 5–12 fine, inward-curved fringe segments lying over an actual gland; this remains a high-priority true diagnostic photo gap.",
+      "Find only a naturally released mature seed where permitted: check a distinct mottled, tuberculate/pitted seed with visible PALE CARUNCLE (2.8–4.1 mm according to Flora of North America). Do not call a striped hairy fruit a seed.",
+      "Compare E. exstipulata: more obviously toothed leaves; its white/pink gland appendages may be fringed but are not incurved across and hiding the glands. E. heterophylla has much broader leaves and glabrous fruit."
+    ],
+    "warning": "Current 13 photographic arrows resolve the coarse, highly recognizable characters only. The exact 5–12 curled fringes and actual ripe seed still lack independently rights-cleared images. This is western desert field-ID reference, not verified Hays native flora."
+  },
+  "field_id_finalization": {
+    "review_date": "2026-10-21",
+    "stage": "FIELD_READY_WITH_GLAND_FRINGE_AND_MATURE_SEED_PHOTO_GAPS",
+    "field_training_status": "FIELD_READY_COARSE_DIAGNOSTICS",
+    "real_source_photos_annotated": 5,
+    "verified_anatomy_arrows": 13,
+    "canonical_photo_count": 5,
+    "photo_review": "Five physically saved JPEGs directly inspected, 13 conservatively checked on-screen arrows; teach needle-like leaf, green paired/whorled flower bract, hairy cyathial cluster, large hairy mottled fruit and upright desert branching. Individual curled appendage strips and detached ripe warty seeds still invisible.",
+    "photo_rights": "Eric Knight originally credited CC BY, plus four iNaturalist observations with CC BY-NC 4.0 photo-specific credits, legally conditional on noncommercial educational site.",
+    "remaining": [
+      "Actual exact-species MACRO of one cyathium showing hairy white appendages divided into 5–12 inward-curved segments obscuring 4–5 glands, with scale.",
+      "True fully mature detached tuberculate/pitted seed 2.8–4.1mm with distinct pale caruncle and millimeter reference.",
+      "Optional full rooted 10–75 cm plant with known physical scale (existing branching photograph is not complete groundline-to-top).",
+      "Optional actual licensed E. exstipulata comparison panel; current anatomical matrix remains text-backed only."
+    ],
+    "new_photo_source_count": 4,
+    "public_gallery_photo_count": 5,
+    "closeout_note": "All five real licensed canonical source JPEGs reviewed against saved pixels; 13 existing conservative pointers match visually distinguishable leaves, hairy cyathia and distinctly striped, large hairy FRUITS. No incorrect seed or appendage micro arrows. Scientific FNA and Arizona Cooperative Extension documentation integrated. Release field-ready teaching while keeping micro-gaps clearly tagged.",
+    "macro_reference_only": "https://www.phytoneuron.net/2015Phytoneuron/26PhytoN-SWArizFlora13.pdf (Felger et al., E. eriantha Fig. 26 D seed plate; scientific reference, public reproduction not authorized here)"
+  },
+  "visual_comparison": {
+    "instance_id": "eriantha-beetle-spurge-original-macro-20261021",
+    "title": "Beetle spurge — very narrow leaves and unusually hairy fruit",
+    "subtitle": "Five physically verified licensed E. eriantha photographs with 13 accurate arrows show alternate needle leaves, conspicuously furry reproductive clusters and very large mottled, furry fruit. Individual curled gland-fringe pieces and true mature seed remain photo holds.",
+    "items": [
+      {
+        "scientific_name": "Euphorbia eriantha",
+        "label": "Narrow leaves and mottled hairy reproductive structures",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-eriantha/images/inat-181384310.jpg",
+        "image_role": "Eric Knight exact-name field reproductive macro showing needle-like leaves, dense hairy cyathium groups and developing mottled, hairy fruits",
+        "caption": "This real close-up shows extremely narrow foliage surrounding a small, densely hairy reproductive group and large mottled hairy fruit structures. Curved white gland appendage segments may be present within the cluster but cannot be individually diagnosed or measured from this photo. The patterned structures should not be labeled as detached mature seeds.",
+        "source_page": "https://www.inaturalist.org/photos/181384310",
+        "creator": "(c) Eric Knight, some rights reserved (CC BY)",
+        "license": "CC BY",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Very narrow linear leaf",
+            "label_x": 70,
+            "label_y": 18,
+            "target_x": 80,
+            "target_y": 48
+          },
+          {
+            "label": "Dense hairy cyathium group",
+            "label_x": 4,
+            "label_y": 45,
+            "target_x": 42,
+            "target_y": 55
+          },
+          {
+            "label": "Developing mottled hairy fruit",
+            "label_x": 57,
+            "label_y": 86,
+            "target_x": 53,
+            "target_y": 66
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 original exact-species JPEG visibly inspected; three markers for obvious leaf, central hairy cluster, and developing mottled fruit. White gland fringe morphology and true detached seed cannot be confidently resolved."
+      },
+      {
+        "scientific_name": "Euphorbia eriantha",
+        "label": "Green mottled hairy capsule and long linear bracts",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-eriantha/images/inat-753175091-review.jpg",
+        "image_role": "Green mottled hairy capsule and long linear bracts",
+        "caption": "Close view of needle-like, entirely green leafy bracts, large green-striped hairy developing capsules and the much smaller whitish clustered cyathia between them. No detached seed or individual curled gland finger is separately identified.",
+        "creator": "(c) obatalov, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/753175091",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Very narrow green leaf/bract",
+            "label_x": 75,
+            "label_y": 11,
+            "target_x": 62,
+            "target_y": 34
+          },
+          {
+            "label": "Large hairy green capsule",
+            "label_x": 75,
+            "label_y": 50,
+            "target_x": 46,
+            "target_y": 37
+          },
+          {
+            "label": "Tiny clustered white-hairy cyathia",
+            "label_x": 6,
+            "label_y": 40,
+            "target_x": 37,
+            "target_y": 45
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 original physically installed exact-scientific-taxon GitHub JPEG read and visually examined; only resolvable green leaves, larger hairy developing fruit, clustered reproductive areas and stem architecture marked. Curled fine gland segments and detached seeds NOT identified."
+      },
+      {
+        "scientific_name": "Euphorbia eriantha",
+        "label": "Many needle-like leaves on branching fruiting stems",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-eriantha/images/inat-751280401-review.jpg",
+        "image_role": "Many needle-like leaves on branching fruiting stems",
+        "caption": "Multiple ascending slender green stems carry linear narrow leaves, small hairy white reproductive clusters and larger mottled fruits. This shot shows architecture but is not a calibrated complete root-to-top plant.",
+        "creator": "(c) debm, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/751280401",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Long linear foliage",
+            "label_x": 76,
+            "label_y": 22,
+            "target_x": 64,
+            "target_y": 38
+          },
+          {
+            "label": "Fruiting cluster",
+            "label_x": 75,
+            "label_y": 55,
+            "target_x": 56,
+            "target_y": 50
+          },
+          {
+            "label": "Spreading upper stems",
+            "label_x": 5,
+            "label_y": 25,
+            "target_x": 33,
+            "target_y": 36
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 original physically installed exact-scientific-taxon GitHub JPEG read and visually examined; only resolvable green leaves, larger hairy developing fruit, clustered reproductive areas and stem architecture marked. Curled fine gland segments and detached seeds NOT identified."
+      },
+      {
+        "scientific_name": "Euphorbia eriantha",
+        "label": "Lateral hairy fruit near green leaf and red styles",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-eriantha/images/inat-751049952-review.jpg",
+        "image_role": "Lateral hairy fruit near green leaf and red styles",
+        "caption": "The photographed oval striped/short-hairy developing capsule is near a branching junction and narrow leaves. Reddish slender styles are visible nearby, but curled gland-lobe identity cannot be distinguished from this view.",
+        "creator": "(c) creamnosugar, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/751049952",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Developing mottled capsule",
+            "label_x": 43,
+            "label_y": 23,
+            "target_x": 70,
+            "target_y": 38
+          },
+          {
+            "label": "Linear green leaf",
+            "label_x": 72,
+            "label_y": 80,
+            "target_x": 75,
+            "target_y": 72
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 original physically installed exact-scientific-taxon GitHub JPEG read and visually examined; only resolvable green leaves, larger hairy developing fruit, clustered reproductive areas and stem architecture marked. Curled fine gland segments and detached seeds NOT identified."
+      },
+      {
+        "scientific_name": "Euphorbia eriantha",
+        "label": "Eriantha in desert scrub: many branched needle-leaf stems",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-eriantha/images/inat-749199014-review.jpg",
+        "image_role": "Eriantha in desert scrub: many branched needle-leaf stems",
+        "caption": "A wider desert scrub view shows ascending branches and very narrow leaves under open rocky conditions. Flower/fruit groups are near tips. The exact whole-plant height and basal taproot are not visible.",
+        "creator": "(c) yamstress, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/749199014",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Ascending leafy branches",
+            "label_x": 45,
+            "label_y": 20,
+            "target_x": 50,
+            "target_y": 41
+          },
+          {
+            "label": "Terminal fruit cluster",
+            "label_x": 66,
+            "label_y": 50,
+            "target_x": 68,
+            "target_y": 58
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 original physically installed exact-scientific-taxon GitHub JPEG read and visually examined; only resolvable green leaves, larger hairy developing fruit, clustered reproductive areas and stem architecture marked. Curled fine gland segments and detached seeds NOT identified."
+      }
+    ],
+    "overlay_note": "Eric Knight CC BY plus obatalov, debm, creamnosugar and yamstress source-individual CC BY-NC 4.0 (new sources permitted only while website is genuinely noncommercial). No fabricated micropoints to curled gland appendages or detached mature seeds."
+  },
+  "science_source_links": [
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101658",
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=318100",
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:101513-2",
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101659",
+    "https://yavapaiplants.extension.arizona.edu/euphorbia-eriantha",
+    "https://www.phytoneuron.net/2015Phytoneuron/26PhytoN-SWArizFlora13.pdf"
+  ]
+}

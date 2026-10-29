@@ -1,0 +1,43 @@
+{
+  "id": "oenothera-capillifolia-subsp-berlandieri",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "species": "capillifolia",
+  "entry_type": "infraspecific_taxon",
+  "infraspecific_rank": "subspecies",
+  "infraspecific_epithet": "berlandieri",
+  "scientific_name": "Oenothera capillifolia subsp. berlandieri",
+  "common_name": "Berlandier's sundrops",
+  "look_here_first": "Check spreading to shrubby perennial growth, serrate narrow leaves and sharply four-angled buds; examine yellow petal size, long styles, throat and stigma color to separate from subsp. capillifolia.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77133601-1",
+  "synonyms": [
+    "Oenothera capillifolia berlandieri"
+  ],
+  "photo_taxonomy_note": "Taxonomic source documents the observation name as a matching taxon concept at its recorded rank; retain alternative-backbone flags and check photo anatomy separately.",
+  "images": [
+    {
+      "file": "images/inat-4752897.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Nathan Taylor, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/4752897",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

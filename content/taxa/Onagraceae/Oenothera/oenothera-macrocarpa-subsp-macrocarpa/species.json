@@ -1,0 +1,125 @@
+{
+  "id": "oenothera-macrocarpa-subsp-macrocarpa",
+  "entry_type": "infraspecific_taxon",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "species": "macrocarpa",
+  "infraspecific_rank": "subspecies",
+  "infraspecific_epithet": "macrocarpa",
+  "scientific_name": "Oenothera macrocarpa subsp. macrocarpa",
+  "authority": "Nutt.",
+  "common_name": "Missouri primrose / bigfruit evening-primrose / fluttermill",
+  "synonyms": [
+    "Oenothera missouriensis Sims",
+    "Oenothera macrocarpa var. missouriensis (Sims) Carrière",
+    "Megapterium missouriense (Sims) Spach"
+  ],
+  "taxonomic_note": "Current Kew POWO accepts Oenothera macrocarpa subsp. macrocarpa. Historical Texas usage under Oenothera missouriensis or O. macrocarpa var. missouriensis folds here.",
+  "look_here_first": "Look for the low spreading habit, huge yellow evening-opening flowers, and especially the very large winged fruits. It is a dry limestone-prairie plant, not a tall riverbank primrose.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Master Plant Pool marks Oenothera macrocarpa Hays-local. Travis — UT Travis County Onagraceae index includes O. macrocarpa var. macrocarpa, matching the current subspecies concept. Williamson — UT Plant Resources Center provides a dedicated treatment of O. macrocarpa subsp. macrocarpa.",
+    "range_guardrail": "Historical var. macrocarpa / missouriensis names are mapped to the current accepted subspecies only when taxonomically equivalent."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "low perennial, often spreading to ascending",
+      "narrow gray-green leaves",
+      "very large yellow four-petaled flowers",
+      "long floral tube",
+      "very large winged capsules",
+      "dry calcareous prairie, limestone glades, and rocky hillsides"
+    ],
+    "comparison_training": "The oversized winged capsule is the strongest field clue. O. jamesii is taller and riparian; O. patriciae has much smaller white-to-rose gaura-like flowers and narrow fruits."
+  },
+  "curation_status": {
+    "version": "1.0-b087",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_012": "2026-10-16"
+  },
+  "images": [
+    {
+      "file": "images/oenothera-macrocarpa-subsp-macrocarpa-provisional-face.jpg",
+      "role": "Flowering plant / recognizable face",
+      "creator": "David J. Stang",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Oenothera_macrocarpa_0zz.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/library-review012-7cabea766636702.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Overall low herb and narrow leaf closeup to complement existing flowering structure",
+      "creator": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5104451459",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/478215826/original.jpeg",
+      "source_determination": "Oenothera macrocarpa subsp. macrocarpa",
+      "source_observation_id": "5104451459",
+      "library_release_tag": "hays-photo-library-mass-38760123960",
+      "library_archive_file": "staged_images/oenothera-macrocarpa-subsp-macrocarpa/gbif-a96431c163f0b1.jpg",
+      "archive_image_sha256": "d8ce26cde47865ccf27f2a5d48bcb367179d33ec96d5719f0e2e47afa3b2ec6b",
+      "image_dimensions": [
+        1400,
+        931
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review012-37d07b173c71426.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Overall low herb and narrow leaf closeup to complement existing flowering structure",
+      "creator": "ashleyrsteel",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5140727955",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/494662786/original.jpg",
+      "source_determination": "Oenothera macrocarpa subsp. macrocarpa",
+      "source_observation_id": "5140727955",
+      "library_release_tag": "hays-photo-library-mass-38760123960",
+      "library_archive_file": "staged_images/oenothera-macrocarpa-subsp-macrocarpa/gbif-5567e71036e1e1.jpg",
+      "archive_image_sha256": "de6724b5c2da36e64c544ceec31ddb980a098efc5bb72911d6a30a4f37902287",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

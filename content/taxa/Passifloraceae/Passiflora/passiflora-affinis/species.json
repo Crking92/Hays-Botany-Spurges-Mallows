@@ -1,0 +1,133 @@
+{
+  "id": "passiflora-affinis",
+  "entry_type": "species",
+  "family": "Passifloraceae",
+  "genus": "Passiflora",
+  "species": "affinis",
+  "scientific_name": "Passiflora affinis",
+  "authority": "Engelm.",
+  "common_name": "Bracted Passionflower / Yellow Passionflower",
+  "look_here_first": "FIRST flip a mature leaf: tiny NECTARY DOTS on UNDERSIDE = affinis; lutea has none. Both affinis and lutea lack PETIOLE glands, so don't confuse the structures. Next check small bracts under an open flower: affinis has them, lutea lacks them. Affinis's green-yellow flower is generally >25 mm wide, with wavy, clubbed outer corona tips (>10 mm). The broad cowboy-hat leaf is only a clue.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Bexar"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — published specimen/distribution records; Travis — UT Plant Resources Center Travis County herbarium index and Balcones Canyonlands Preserve list; Bexar — documented native occurrence in San Antonio/Bexar County and central Texas county distribution.",
+    "range_guardrail": "Exact county evidence only."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial tendrilled vine",
+      "leaves broader than long, usually 2–3 rounded lobes",
+      "floral bracts present",
+      "greenish-yellow flowers usually >25 mm diameter",
+      "outer corona filaments long and sinuous",
+      "nectaries present on abaxial leaf surface",
+      "purple-black berry"
+    ],
+    "comparison_training": "P. lutea lacks floral bracts and abaxial leaf nectaries and has smaller flowers. P. foetida is much hairier, foul-smelling when rubbed, and has a conspicuous cage of finely divided involucral bracts around the flower/fruit."
+  },
+  "curation_status": {
+    "version": "1.0-b063",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "photo_caption_verified": "2026-10-13",
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/passiflora-affinis-provisional-face.jpg",
+      "role": "Flowering vine / recognizable face",
+      "creator": "Turner Brockman",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_affinis_in_bloom.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "caption": "Confirmed bracted passionflower (*Passiflora affinis*) flowering shoot by Turner Brockman (CC BY-SA 4.0). Use for the small yellow-green flower, spreading corona, and broad lobed leaves where visible. This field photograph does NOT establish that underside leaf nectaries or tiny floral bracts can be resolved; those need dedicated close-ups.",
+      "diagnostic_roles": [
+        "small greenish-yellow flower",
+        "outer corona filaments",
+        "flowering shoot",
+        "broad lobed leaves where visible"
+      ]
+    },
+    {
+      "file": "images/gbif-manual-6184740083-08620c3e3.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Underside foliar nectary dots (NOT petiole glands); bracts under flower",
+      "creator": "Cody Stricker",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6184740083",
+      "gbif_occurrence_id": "6184740083",
+      "source_determination": "Passiflora affinis Engelm. ex A.Gray",
+      "accepted_target": "Passiflora affinis",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/631025865/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "comparisons": {
+    "confused_with": [
+      "Passiflora lutea",
+      "Passiflora tenuiloba"
+    ]
+  },
+  "diagnostic_photo_needs": [
+    {
+      "priority": "high",
+      "role": "leaf underside visible with genuine nectar dot and arrow",
+      "status": "needed or final-polish—verify already installed image suitability; do not draw unverified arrows"
+    },
+    {
+      "priority": "high",
+      "role": "petiole shows absence of glands; photograph attachment clearly",
+      "status": "needed or final-polish—verify already installed image suitability; do not draw unverified arrows"
+    },
+    {
+      "priority": "medium",
+      "role": "flower base lateral view showing tiny floral bracts",
+      "status": "needed or final-polish—verify already installed image suitability; do not draw unverified arrows"
+    },
+    {
+      "priority": "medium",
+      "role": "flower head side/front with ruler and outer corona filament tip",
+      "status": "needed or final-polish—verify already installed image suitability; do not draw unverified arrows"
+    }
+  ],
+  "visual_science_review": {
+    "reviewed_at": "2026-10-13",
+    "status": "morphology-first lesson refined; native target labels unchanged",
+    "photo_priority": [
+      "leaf underside visible with genuine nectar dot and arrow",
+      "petiole shows absence of glands; photograph attachment clearly"
+    ]
+  }
+}

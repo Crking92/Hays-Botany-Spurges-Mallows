@@ -1,0 +1,89 @@
+{
+  "id": "rotala-ramosior",
+  "family": "Lythraceae",
+  "genus": "Rotala",
+  "species": "ramosior",
+  "scientific_name": "Rotala ramosior",
+  "common_name": "Lowland toothcup",
+  "look_here_first": "Small wet-ground herb with opposite narrow leaves, four-parted tiny flowers in leaf axils and capsule fruits; inspect flower calyx close up.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_041": "2026-10-17"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30048022-2",
+  "images": [
+    {
+      "file": "images/inat-418043433.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Guillaume Léotard, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/418043433",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/library-review041-bbfb0e6b638547d.jpg",
+      "role": "Opposite narrow leaves on slender wetland stem with small axillary bud/fruit structures; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Distinct useful diagnostic plant part or reproductive structure after actual contact-sheet visual review; independent exact taxonomic validation remains pending",
+      "creator": "Sam Kieschnick",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5837888423",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/557092642/original.jpg",
+      "source_determination": "Rotala ramosior",
+      "source_observation_id": "5837888423",
+      "library_release_tag": "hays-photo-library-mass-38985269791",
+      "library_archive_file": "staged_images/rotala-ramosior/gbif-ed3c00c60e0a93.jpg",
+      "archive_image_sha256": "70c649f6dbc4dc5aa1c0800ee303aa1b9d393b9f25681d2b0b1f13cd5bfcc6e0",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review041-dbfddd82d4d5f8b.jpg",
+      "role": "Fine-stemmed Rotala with paired leaves, small reproductive nodes and fingertip for scale; source scientific-name determination provisional, anatomical expertise pending",
+      "requested_diagnostic_view": "Distinct useful diagnostic plant part or reproductive structure after actual contact-sheet visual review; independent exact taxonomic validation remains pending",
+      "creator": "Annika Lindqvist",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/4908709418",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/403383262/original.jpeg",
+      "source_determination": "Rotala ramosior",
+      "source_observation_id": "4908709418",
+      "library_release_tag": "hays-photo-library-mass-38985269791",
+      "library_archive_file": "staged_images/rotala-ramosior/gbif-0fc29a1773ac25.jpg",
+      "archive_image_sha256": "9c4d6e2a2f027e6c6fb0319f5f7b992e05ba23d296dcbf8382138efc72d888c7",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-16",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

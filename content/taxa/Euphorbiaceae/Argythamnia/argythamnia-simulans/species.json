@@ -1,0 +1,215 @@
+{
+  "id": "argythamnia-simulans",
+  "entry_type": "species",
+  "family": "Euphorbiaceae",
+  "genus": "Argythamnia",
+  "species": "simulans",
+  "scientific_name": "Argythamnia simulans",
+  "authority": "J.W.Ingram",
+  "common_name": "Plateau silverbush",
+  "synonyms": [
+    "Ditaxis simulans (J.W.Ingram) Radcl.-Sm. & Govaerts"
+  ],
+  "taxonomic_note": "Current POWO/WCVP accepts Argythamnia simulans; Ditaxis simulans is a homotypic synonym.",
+  "look_here_first": "Start with sessile leaves and a long 3.5–12 cm axillary inflorescence. The key split from A. aphoroides is that A. simulans inflorescences are bisexual, then confirm with only 7–8 stamens.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Hays and Travis are exact target-zone records. The older PASS label was inconsistent with the project's three-county rule; no third qualifying county is currently locked.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Learner inclusion is independent from native-range certification; correct stale PASS to two-county HOLD."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial or subshrub",
+      "petiole absent; leaves sessile",
+      "bisexual axillary inflorescences 3.5–12 cm",
+      "staminate flowers with 7–8 stamens and no staminodes",
+      "pistillate styles 1.5–2.1 mm, glabrous",
+      "capsules 3.5–9 mm, hispidulous",
+      "seeds 3.5–4.2 mm, faintly and irregularly alveolate"
+    ],
+    "comparison_training": "Use sessile leaves + long raceme to leave A. humilis behind, then use bisexual inflorescence + 7–8 stamens to separate from A. aphoroides.",
+    "petiole": "Absent; leaves sessile",
+    "inflorescence": "Bisexual; 3.5–12 cm",
+    "staminate_flower": "Sepals 4–5.3 mm; petals 2–4 mm; 7–8 stamens; 0 staminodes. Petal attachment to the androphore is variable and not a safe binary.",
+    "pistillate_flower": "Sepals 6–9 mm; styles 1.5–2.1 mm, glabrous; stigmas flattened",
+    "fruit_seed": "Capsules 3.5–9 mm, hispidulous; seeds 3.5–4.2 mm, faintly and irregularly alveolate"
+  },
+  "comparisons": {
+    "confused_with": [
+      "Argythamnia humilis",
+      "Argythamnia aphoroides"
+    ],
+    "key_distinctions": "Use sessile leaves + 3.5–12 cm raceme first. Then confirm that the inflorescence is bisexual and the staminate flower has 7–8 stamens; this separates it from unisexual, 10-stamen A. aphoroides."
+  },
+  "tags": [
+    "Euphorbiaceae",
+    "Argythamnia",
+    "Plateau silverbush",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.0-range-hold-correction-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-06",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "diagnostic_image_needs": [
+    "sessile leaf attachment",
+    "long axillary raceme",
+    "staminate flower",
+    "pistillate flower",
+    "capsule/seed"
+  ],
+  "photo_note": "Final diagnostic photo/license lock remains later polish. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "field_diagnostics": {
+    "single_best_trait": "Sessile leaves + long bisexual raceme + 7–8 stamens.",
+    "fastest_traits": [
+      "Petiole absent",
+      "Inflorescences bisexual, 3.5–12 cm",
+      "Staminate flowers with 7–8 stamens and no staminodes",
+      "Capsules 3.5–9 mm, hispidulous",
+      "Seeds 3.5–4.2 mm, faintly alveolate"
+    ],
+    "look_alikes": [
+      {
+        "taxon": "Argythamnia humilis",
+        "distinction": "A. humilis has a 2–10 mm petiole and tiny 0.7–0.9 cm raceme."
+      },
+      {
+        "taxon": "Argythamnia aphoroides",
+        "distinction": "Both have sessile leaves and long racemes. A. simulans has bisexual inflorescences and 7–8 stamens; A. aphoroides has unisexual inflorescences and 10 stamens."
+      }
+    ],
+    "unreliable_alone": [
+      "gray-green color",
+      "hairiness",
+      "long raceme without checking sex arrangement"
+    ]
+  },
+  "diagnostic_photo_targets": [
+    "Sessile leaf node with ruler",
+    "Entire 3.5–12 cm raceme with ruler",
+    "Bisexual raceme with staminate and pistillate flowers labeled",
+    "Staminate flower macro showing 7–8 stamens",
+    "Mature hispidulous capsule with scale",
+    "Seed macro showing alveolate surface"
+  ],
+  "diagnostic_reference_links": [
+    {
+      "source_page": "https://www.inaturalist.org/taxa/158648",
+      "role": "Exact-species observation pool",
+      "license_note": "Select individual photos only after verifying the photo-specific Creative Commons license."
+    }
+  ],
+  "diagnostic_science_sources": [
+    {
+      "source": "Flora of North America",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101530"
+    }
+  ],
+  "diagnostic_polish": {
+    "status": "text-polished-photo-targets-open",
+    "reviewed": "2026-10-11"
+  },
+  "images": [
+    {
+      "file": "images/joey-inat-260360106.jpg",
+      "role": "First-pass whole-plant/recognition candidate; exact diagnostic structures not checked",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/260360106",
+      "observation_url": "https://www.inaturalist.org/observations/150940377",
+      "observation_id": "150940377",
+      "photo_id": "260360106",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/260360106/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-260360121.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/260360121",
+      "observation_url": "https://www.inaturalist.org/observations/150940377",
+      "observation_id": "150940377",
+      "photo_id": "260360121",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/260360121/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-260360134.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/260360134",
+      "observation_url": "https://www.inaturalist.org/observations/150940377",
+      "observation_id": "150940377",
+      "photo_id": "260360134",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/260360134/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "note": "At least one Joey Santore photograph installed; fine diagnostic verification pending.",
+    "missing_diagnostic_views": [
+      "Review close-ups of the diagnostic plant parts"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://w3.biosci.utexas.edu/prc/wildflowers/flower/hibiscus-martianus
+Source research-grade observation: https://www.inaturalist.org/observations/194150029
+Photo: https://www.inaturalist.org/photos/341193151
+Attribution: (c) Joey Santore, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

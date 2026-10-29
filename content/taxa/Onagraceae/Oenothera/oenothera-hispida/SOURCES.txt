@@ -1,0 +1,12 @@
+
+EXTERNAL FIRST-PHOTO SOURCE 2026-10-15T02:08:54.683587+00:00
+iNaturalist photo contributor (CC0); CC0 1.0; https://creativecommons.org/publicdomain/zero/1.0/
+https://www.inaturalist.org/photos/274443155 | https://www.inaturalist.org/observations/158832636
+Image saved provisionally from exact-taxon Research Grade observation; photographic diagnostic ID unreviewed. EXIF removed.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:46:26.411120+00:00
+Oenothera hispida (Benth.) W.L.Wagner, Hoch & Zarucchi
+https://www.gbif.org/occurrence/2235476033
+Reid Hardin | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Hairy stem and swollen fruit, flower side view showing floral tube
+No anatomy arrows; no scientific or native-range changes.

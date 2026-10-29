@@ -1,0 +1,247 @@
+{
+  "rank": "family",
+  "name": "Lythraceae",
+  "common_name": "Loosestrife family",
+  "lineage_context": {
+    "order": "Myrtales",
+    "batch": "Myrtales",
+    "close_project_families": [
+      "Onagraceae",
+      "Myrtaceae"
+    ],
+    "teaching_goal": "Teach the project wetland herbs through a persistent perigynous floral tube/hypanthium surrounding a usually superior ovary, then split Ammannia, Lythrum and Rotala by leaf-base and inflorescence/flower architecture."
+  },
+  "project_scope": {
+    "selection_mode": "Project module across Ammannia, Lythrum and Rotala",
+    "note": "Five source taxa are represented: Ammannia coccinea, A. auriculata, Lythrum alatum, L. californicum and Rotala ramosior. Current Kew/FNA treatments retain these species concepts."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Inspect one flower from the side. The sepals form a persistent tubular or cup-shaped floral tube/hypanthium; petals arise near its rim, while the ovary in the project genera is superior and sits inside rather than being fused below the flower.",
+    "vegetative": "Mostly wetland or amphibious herbs in the project pool. Leaves simple and entire, commonly opposite, sometimes shifting toward alternate or whorled arrangements.",
+    "reproductive": "Flowers usually bisexual and 4–6-merous. Petals may be obvious, tiny, caducous or absent; stamens are inserted on the floral tube. Heterostyly occurs in Lythrum and elsewhere in the family.",
+    "fruit": "Usually a many-seeded capsule, often partly enclosed by the persistent floral tube; dehiscence may be valvate, septicidal, septifragal or irregular depending genus.",
+    "field_tip": "Look at the OVARY in a cut flower: in local Lythraceae it sits free INSIDE a floral cup (hypanthium); in Onagraceae the ovary is fused BELOW the floral tube. Then inspect the capsule, not flower color."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_015",
+    "teaching_order": "floral tube/hypanthium → superior ovary relationship → capsule → genus doors → Onagraceae/Myrtaceae comparison",
+    "intro": "Lythraceae is easiest once the learner sees that the cup around the ovary is floral tube, not an inferior ovary. That single side-view comparison separates it cleanly from close Myrtales relatives.",
+    "steps": [
+      {
+        "title": "1 · Find the persistent floral tube",
+        "photo_role": "side-view flower macro",
+        "look_for": "A ribbed or smooth cup/tube surrounding the ovary, with sepals at the rim and petals attached near the rim.",
+        "why_it_matters": "This is the central family architecture shared by the project genera.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "2 · Show that the ovary is superior",
+        "photo_role": "flower cutaway or labeled side view",
+        "look_for": "The ovary sits free inside the floral tube rather than being fused below the other flower parts.",
+        "why_it_matters": "This is the cleanest Lythraceae-vs-Onagraceae/Myrtaceae tie-breaker in the project.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "3 · Ammannia door",
+        "photo_role": "Ammannia leaf base + cyme + fruit",
+        "look_for": "Opposite leaves; in the flora area leaf bases often auriculate; small axillary cymes and a ribbed floral tube; capsule splits irregularly.",
+        "why_it_matters": "Auriculate leaf bases are especially useful against Rotala ramosior.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "4 · Lythrum door",
+        "photo_role": "Lythrum raceme + flower side view",
+        "look_for": "More obvious racemose purple flowers with a cylindrical floral tube; project species have 6 stamens and native North American Lythrum are distylous.",
+        "why_it_matters": "Makes the loosestrife architecture distinct from the tiny toothcup-type genera.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Rotala door",
+        "photo_role": "Rotala ramosior node + tiny axillary flower",
+        "look_for": "Opposite leaves with tapered—not auriculate—bases and tiny solitary axillary flowers; petals are often absent or minute.",
+        "why_it_matters": "This is the strongest project split from Ammannia.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "6 · Follow the flower to capsule",
+        "photo_role": "persistent tube around maturing capsule",
+        "look_for": "A dry many-seeded capsule remaining partly surrounded by the old floral tube.",
+        "why_it_matters": "Reinforces the family architecture after petals are gone.",
+        "status": "macro_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Lythraceae vs Onagraceae",
+        "rule": "Project Lythraceae usually has a superior ovary sitting inside a perigynous floral tube; Onagraceae has an inferior ovary below the floral tube/hypanthium."
+      },
+      {
+        "title": "Lythraceae vs Myrtaceae",
+        "rule": "Lythraceae project plants are wetland herbs with a floral tube, relatively few-to-moderate stamens and usually superior ovary; Myrtaceae project plant is woody with pellucid oil glands, an intramarginal vein, many stamens and an inferior ovary."
+      },
+      {
+        "title": "Ammannia vs Rotala",
+        "rule": "In the FNA flora area, Ammannia commonly has auriculate leaf bases; Rotala ramosior has tapered leaf bases and tiny solitary axillary flowers."
+      }
+    ],
+    "caveat": "Do not make petal presence, leaf arrangement or one capsule-opening pattern absolute. Those characters vary within Lythraceae; the floral-tube/ovary relationship is more transferable.",
+    "existing_media_teaching_references": [
+      {
+        "species_id": "ammannia-coccinea",
+        "installed_path": "content/taxa/Lythraceae/Ammannia/ammannia-coccinea/images/ammannia-coccinea-starr-flower-fruit.jpg",
+        "creator": "Forest & Kim Starr",
+        "license": "CC BY 3.0 US",
+        "reuse_status": "attribution required; species metadata says public reuse yes",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Starr-130322-3853-Ammannia_coccinea-flowers_and_fruit_forming-Hanalei_NWR-Kauai_(24914156820).jpg",
+        "diagnostic_role": "candidate flower/developing-fruit context; exact ovary/hypanthium not verified",
+        "visible_structure_verification": "species.json metadata only; image not independently examined",
+        "caption": "Ammannia coccinea flowering and developing fruit; obtain a side cutaway to demonstrate ovary position.",
+        "future_arrow_target": "hypanthium rim and ovary only after actual photo verification",
+        "annotation_status": "annotation_pending"
+      }
+    ],
+    "part_specific_photo_handoff": [
+      {
+        "plain": "flower cup and free seed chamber",
+        "formal": "hypanthium and superior ovary",
+        "need": "matched longitudinal flower sections, Lythraceae versus Onagraceae; label ovary position",
+        "status": "needs_verified_photo",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "plain": "little ears at the leaf base",
+        "formal": "auriculate leaf base",
+        "need": "Ammannia coccinea/auriculata versus Rotala ramosior complete leaf-base/node same scale",
+        "status": "needs_matched_macro",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "plain": "long and short pollen/stigma levels",
+        "formal": "heterostyly/distyly",
+        "need": "matched Lythrum short- and long-style flowers showing anthers and stigmas",
+        "status": "needs_reproductive_macro",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "plain": "old flower cup around seed pod",
+        "formal": "persistent hypanthium and capsule",
+        "need": "same-plant flower-to-mature-capsule sequence with exposed seeds",
+        "status": "needs_verified_macro",
+        "annotation_status": "annotation_pending"
+      }
+    ],
+    "representative_species": [
+      "ammannia-coccinea",
+      "ammannia-auriculata",
+      "lythrum-alatum",
+      "rotala-ramosior"
+    ]
+  },
+  "project_pool_genus_roadmap": {
+    "count": 3,
+    "genera": [
+      {
+        "genus": "Ammannia",
+        "taxa_count": 2,
+        "fast_cue": "wetland annual + opposite often auriculate-based leaves + axillary cymes + ribbed floral tube",
+        "role": "redstem/toothcup door"
+      },
+      {
+        "genus": "Lythrum",
+        "taxa_count": 2,
+        "fast_cue": "racemose purple flowers + cylindrical floral tube + distyly in native project species",
+        "role": "loosestrife door"
+      },
+      {
+        "genus": "Rotala",
+        "taxa_count": 1,
+        "fast_cue": "opposite tapered-base leaves + tiny solitary axillary flowers, petals often absent",
+        "role": "lowland-rotala door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Ammannia coccinea",
+    "Ammannia auriculata",
+    "Lythrum alatum",
+    "Lythrum californicum",
+    "Rotala ramosior"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Ammannia coccinea",
+      "current_name": "Ammannia coccinea",
+      "note": "Accepted; current Kew recognizes two accepted subspecies."
+    },
+    {
+      "source_name": "Ammannia auriculata",
+      "current_name": "Ammannia auriculata",
+      "note": "Accepted; current Kew recognizes infraspecific taxa."
+    },
+    {
+      "source_name": "Lythrum alatum",
+      "current_name": "Lythrum alatum",
+      "note": "Accepted; FNA recognizes two varieties and notes hybridization with related native species."
+    },
+    {
+      "source_name": "Lythrum californicum",
+      "current_name": "Lythrum californicum",
+      "note": "Accepted; native range includes Texas under current Kew."
+    },
+    {
+      "source_name": "Rotala ramosior",
+      "current_name": "Rotala ramosior",
+      "note": "Accepted; native New World species including Texas."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "perigynous floral tube + superior ovary",
+      "annotation_goal": "label tube, sepals, petals and free ovary in side view"
+    },
+    {
+      "priority": 1,
+      "structure": "Ammannia vs Rotala leaf base",
+      "annotation_goal": "auriculate versus tapered base"
+    },
+    {
+      "priority": 1,
+      "structure": "Lythrum floral tube / distylous flower",
+      "annotation_goal": "show floral tube and alternate style/stamen levels"
+    },
+    {
+      "priority": 1,
+      "structure": "flower-to-capsule sequence",
+      "annotation_goal": "persistent floral tube surrounding maturing many-seeded capsule"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Kew POWO — Lythraceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000194-2/general-information"
+    },
+    {
+      "source": "FNA — Lythraceae",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=10529"
+    },
+    {
+      "source": "FNA — Ammannia",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=101366"
+    },
+    {
+      "source": "FNA — Lythrum",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=119221"
+    },
+    {
+      "source": "FNA — Rotala",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=128789"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-015",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_floral_tube_ovary_genus_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

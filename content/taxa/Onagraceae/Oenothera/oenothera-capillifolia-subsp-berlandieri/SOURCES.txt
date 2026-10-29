@@ -1,0 +1,8 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77133601-1
+Taxonomic name-synonym evidence: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77133601-1
+Observed scientific name (accepted or documented alias): Oenothera capillifolia berlandieri
+Source research-grade observation: https://www.inaturalist.org/observations/4022375
+Photo: https://www.inaturalist.org/photos/4752897
+Attribution: (c) Nathan Taylor, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

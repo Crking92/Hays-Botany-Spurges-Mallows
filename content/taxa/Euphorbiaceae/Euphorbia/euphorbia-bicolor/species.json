@@ -1,0 +1,410 @@
+{
+  "id": "euphorbia-bicolor",
+  "entry_type": "species",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "species": "bicolor",
+  "scientific_name": "Euphorbia bicolor",
+  "authority": "Engelm. & A.Gray",
+  "common_name": "Snow-on-the-prairie",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew and Flora of North America treatments and native to Texas at state scale.",
+  "look_here_first": "START WITH THE TOP FACE (ADAXIAL SURFACE) OF A MATURE LEAF OR SHOWY WHITE-MARGINED BRACT: snow-on-the-prairie is conspicuously HAIRY ABOVE. Then inspect the LONG NARROW linear-to-narrowly oblanceolate bracts. Snow-on-the-mountain (E. marginata) generally has smooth/glabrous upper leaf and bract faces with broader elliptic/obovate bracts. BOTH species can be very white: amount, patchiness or continuity of white are NOT dependable diagnostic differences. Check these TWO independent characters together. Upper bracts are modified leaves, not petals; the actual flower-like inflorescence is a tiny cyathium; developing fruit is a three-lobed capsule. Hays-area learner admission remains RANGE_UNRESOLVED and excluded from native metrics even though the taxon is native to Texas at a state scale.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Hays is documented at Purola and Travis by multiple UT specimens. No third exact project target-zone county is locked.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Learner admission is independent from native-range certification; preserve the two-county HOLD."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "family_pattern": "Euphorbia: milky latex; true flowers are highly reduced and grouped in a cyathium; the showy white structures here are bracts and gland appendages, not ordinary petals.",
+    "growth_form": "Annual, taprooted, erect to suberect herb, commonly about 40–110 cm tall.",
+    "leaves": "Cauline leaves narrowly obovate/elliptic to lanceolate; uppermost leaves and bracts develop conspicuous white margins.",
+    "pubescence": "Stems, leaves, bracts, inflorescence, and capsules are conspicuously pilose/villous; hairs may be several millimeters long.",
+    "bracts": "Largest showy bracts are long and narrow, typically linear to narrowly oblanceolate rather than broadly elliptic.",
+    "cyathium": "Small flower-like cyathia with usually 4–5 nectar glands bearing white petal-like appendages.",
+    "fruit": "Three-lobed capsule, densely pilose.",
+    "latex": "White, copious latex when injured.",
+    "best_field_traits": [
+      "TEXAS native at state scale but Hays project native-range threshold still on HOLD; do not count as target-certified.",
+      "Annual erect/taprooted herb, often about 40–100 cm, occasionally branching; habitat/habit not species proof.",
+      "Ordinary stem leaves alternate; very narrow white-margined terminal bracts often linear or narrowly oblanceolate.",
+      "Upper (adaxial) leaf and bract surfaces have conspicuous soft hairs; key character versus *E. marginata*, which is usually glabrous on those surfaces.",
+      "Tiny true reduced flowers occur inside cyathia; rounded white gland appendages can look deceptively like petals.",
+      "Fruit a three-lobed capsule, densely soft-hairy; fruit hairiness alone will NOT distinguish *E. marginata*.",
+      "Both species can have abundant white foliage; *pattern of white* is unreliable without upper-surface hairs and bract shape.",
+      "A given inflorescence can carry both small narrow secondary bracts and longer primary bracts; use MATURE, largest bracts at matching developmental stages."
+    ],
+    "comparison_training": "Against E. marginata, prioritize two characters together: upper-surface hairiness and bract width. E. bicolor is the narrow-and-hairy plant; E. marginata is generally the broader-and-glabrous-above plant.",
+    "glossary_for_crew": {
+      "adaxial": "TOP of the blade; layman's term 'upper leaf surface.' This location matters more than whether the STEM is hairy.",
+      "bract": "Modified leaf associated with a flower cluster. The white stripe in these specimens belongs to the bract, not a petal.",
+      "cyathium": "Tiny cup-like Euphorbia inflorescence with extremely reduced flowers, nectar glands and white gland appendages.",
+      "oblanceolate": "Narrow leaf/bract widest nearer the tip rather than at the base.",
+      "pilose/villous": "Noticeable relatively soft hairs; confirm on the blade's UPPER surface with sharp magnification."
+    },
+    "photo_field_protocol": [
+      "1. Take a full erect flowering plant with the upper white canopy, include ruler or field reference.",
+      "2. Photograph a longest MATURE upper white-edged bract from above with a centimeter scale; label it a modified leaf.",
+      "3. Use strong side lighting and macro of bract UPPER face to record the surface hairs; hairs on stem or underside alone do not prove bicolor.",
+      "4. Photograph one entire cyathium from directly above: gland appendages versus true tiny reduced flowers.",
+      "5. Shoot a correctly source-identified three-lobed hairy capsule with a 1 mm scale if present.",
+      "6. Compare *E. marginata* on an equal-size bract and upper-face macro, not just the total amount of white."
+    ],
+    "safety": "Euphorbia latex may irritate skin and eyes; do not intentionally break stems for a class demonstration.",
+    "local_management": "Record the existing project Hays/Travis occurrence evidence as species presence, but preserve the user-approved native-range metric HOLD. Avoid treating white-bracted plants as inherently nonnative or as invasives from appearance."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Euphorbia marginata",
+      "Euphorbia corollata",
+      "Euphorbia graminea"
+    ],
+    "lookalike_matrix": [
+      {
+        "character": "Upper leaf/bract surface",
+        "Euphorbia bicolor": "conspicuously hairy, often densely so",
+        "Euphorbia marginata": "mostly glabrous above; hairs may occur elsewhere, especially lower surfaces/midrib"
+      },
+      {
+        "character": "Largest showy bracts",
+        "Euphorbia bicolor": "linear to narrowly oblanceolate; long and narrow",
+        "Euphorbia marginata": "broader, usually elliptic to obovate"
+      },
+      {
+        "character": "Overall white display",
+        "Euphorbia bicolor": "can be very showy",
+        "Euphorbia marginata": "can be equally showy",
+        "reliability": "poor separator by itself"
+      }
+    ],
+    "key_distinctions": "Two-part key: bicolor = visibly soft HAIRS on UPPER leaf/bract faces + long narrow (linear/narrowly oblanceolate) WHITE-MARGINED showy bracts. marginata = mostly smooth upper faces + typically broader (elliptic/obovate) bracts. Both vary, and small secondary marginata bracts may also be narrow. White abundance, blotches, and broad geography alone are not decisive.",
+    "field_comparison_matrix": [
+      {
+        "part": "Showy bracts at matching stage",
+        "bicolor": "Long, slender linear to narrowly oblanceolate",
+        "marginata": "Usually shorter, relatively broader elliptic to obovate, but secondary bracts overlap"
+      },
+      {
+        "part": "Upper face of MATURE leaf/bract",
+        "bicolor": "Clearly pilose/villous",
+        "marginata": "Mostly glabrous/smooth even if stem/under-leaf or fruit hairy"
+      },
+      {
+        "part": "Main stem",
+        "bicolor": "May be hairy",
+        "marginata": "May also be hairy",
+        "meaning": "NOT an independent reliable character"
+      },
+      {
+        "part": "Cyathia / capsules",
+        "bicolor": "white appendages, hairy 3-lobed capsules",
+        "marginata": "same general floral/fruit characters",
+        "meaning": "Teaching structures, not decisive species split"
+      },
+      {
+        "part": "Amount or patches of white",
+        "bicolor": "variable",
+        "marginata": "variable",
+        "meaning": "UNRELIABLE; don't identify from frostiness or patchiness"
+      }
+    ],
+    "field_fallback": "If photo shows only white bracts but not mature bract width with scale nor UPPER-surface hairs, report Euphorbia bicolor–marginata group."
+  },
+  "tags": [
+    "Euphorbiaceae",
+    "Euphorbia",
+    "Snow-on-the-prairie",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "2.0-source-annotated-pair",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-20",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "glass_root_garden_photo_install": "2026-10-14",
+    "finished_field_id_pass": "CREW_READY_WITH_UPPER_SURFACE_HAIR_PHOTO_GAP",
+    "annotated_real_photo_count": 3,
+    "verified_arrow_count": 6,
+    "required_to_finish": [
+      "Find upper-surface bract hairs macro with scale",
+      "Find E. marginata same-angle upper-surface glabrous macro",
+      "Optional true capsule and cyathium detail photos",
+      "Maintain learner range UNRESOLVED despite Texas state-native status"
+    ]
+  },
+  "diagnostic_image_needs": [
+    "whole flowering habit",
+    "upper canopy showing long narrow white-margined bracts",
+    "macro of upper leaf/bract surface showing hairs",
+    "side-by-side bract shape against E. marginata",
+    "cyathium close-up showing glands and white appendages",
+    "hairy developing/mature capsule",
+    "latex demonstration"
+  ],
+  "photo_note": "Detailed visual-ID pass started. First exact reusable habit/bract photo selected; targeted hair, bract-shape, cyathium, and capsule macros remain high-priority. Glass Root Garden owned-photo additions installed 2026-10-14; more diagnostic macros remain useful. 2026-10-21 arrow QA cleanup: demoted both Glass Root Garden shots to unannotated recognition and moved structure teaching to one closer source photograph with two checked targets. Need matched upper-bract-face hair macro and true capsule.",
+  "unreliable_characters": [
+    "amount of white coloration by itself",
+    "overall plant height",
+    "flowering habitat by itself",
+    "whether lower leaves have some hairs"
+  ],
+  "photo_research": {
+    "status": "POLISH_PASS_1",
+    "installed_first_pass": [
+      {
+        "role": "whole flowering plant / white-margined bracts and hairy habit",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_bicolor.jpg",
+        "creator": "Lisa Winnett-Pequeno",
+        "license": "CC BY 4.0",
+        "observation_id": "32075986",
+        "photo_id": "50272258"
+      }
+    ],
+    "next_priority": [
+      "matched upper-surface hair macro at similar scale",
+      "matched bract-shape close-up with scale"
+    ],
+    "polish_focus": "Upper leaf/bract surface hair placement + bract width/shape",
+    "matched_pair": "Euphorbia bicolor vs Euphorbia marginata",
+    "avoid": [
+      "generic white-flowering habit duplicates",
+      "using total plant hairiness instead of upper-surface hair placement"
+    ]
+  },
+  "images": [
+    {
+      "file": "images/01-habit-white-bracts.jpg",
+      "role": "Diagnostic close-up · single narrow white-margined bract and central group of tiny cyathia; upper-face hairs and capsule hairs NOT resolved",
+      "creator": "Lisa Winnett-Pequeno",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_bicolor.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "anatomy_arrows": [
+        {
+          "label": "One narrow white-edged bract",
+          "target_fraction": [
+            0.73,
+            0.53
+          ]
+        },
+        {
+          "label": "Central cyathium group",
+          "target_fraction": [
+            0.48,
+            0.56
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-21 source JPEG re-opened and examined at original resolution. Two arrows placed on clearly visible bract blade and cyathium group. This is a flowering-head overview, NOT a proven adaxial trichome/capsule macro.",
+      "caption": "Closer flowering-head view. Follow ONE long, narrow white-edged bract and then the small group of cyathia at the center. These are specialized reproductive structures, not one ordinary multi-petaled flower. This photograph does NOT resolve hairs on the upper bract surface or a mature capsule."
+    },
+    {
+      "file": "images/glass-root-garden-564413728-white-bracts-and-floral-clusters.jpg",
+      "role": "Recognition only · natural flowering canopy and repeating slender white-margined bracts, NO anatomy arrows",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/564413728",
+      "observation_url": "https://www.inaturalist.org/observations/312596696",
+      "observation_id": 312596696,
+      "photo_id": 564413728,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/564413728/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": [],
+      "manual_arrow_review": "2026-10-21 re-reviewed against screenshot and original JPEG. Removed both prior labels because pointers landed in overlapping white bracts and ambiguous reproductive clusters. This image is now unannotated field recognition, not an anatomy close-up.",
+      "caption": "Glass Root Garden field recognition photograph: repeated white-topped branch tips and many slender white-margined bracts. The tiny cyathia are present but too visually crowded for precise arrow placement; upper-surface leaf hairs cannot be resolved. Use the closer Lisa Winnett-Pequeno photo for reproductive anatomy."
+    },
+    {
+      "file": "images/glass-root-garden-562443428-whole-plant-flowering-habit.jpg",
+      "role": "Recognize · whole branching field plant and white-topped flowering habit; NO microanatomy pointers",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/562443428",
+      "observation_url": "https://www.inaturalist.org/observations/311563806",
+      "observation_id": 311563806,
+      "photo_id": 562443428,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/562443428/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": [],
+      "manual_arrow_review": "2026-10-21 kept as unannotated whole-plant context: the diagnostic specimen anatomy belongs on the dedicated closer flowering-head photograph.",
+      "caption": "Glass Root Garden whole-plant field photograph: see the upright annual's branching habit and repeated pale, narrow upper bracts. Broad habit image only: individual tiny gland structures and upper-surface bract hairs cannot be resolved."
+    }
+  ],
+  "visual_comparison": {
+    "instance_id": "euphorbia-bicolor-matched-pair-20261020",
+    "title": "Snow-on-the-prairie: first recognize the plant, then locate one bract and cyathia",
+    "subtitle": "One close reproductive-head photo has TWO visibly checked anatomical arrows. Both Glass Root Garden photographs are deliberately unannotated field-recognition views. No verified photo currently resolves upper/adaxial hairs or capsule pubescence.",
+    "items": [
+      {
+        "label": "Look closer: ONE narrow bract and the tiny central cyathia",
+        "scientific_name": "Euphorbia bicolor",
+        "image_role": "Closer reproductive-head view: precise field arrows for one bract and the center, NOT gland or hair microscopy",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-bicolor/images/01-habit-white-bracts.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_bicolor.jpg",
+        "creator": "Lisa Winnett-Pequeno",
+        "license": "CC BY 4.0",
+        "image_fit": "contain",
+        "caption": "Closer flowering-head view. Follow ONE long, narrow white-edged bract and then the small group of cyathia at the center. These are specialized reproductive structures, not one ordinary multi-petaled flower. This photograph does NOT resolve hairs on the upper bract surface or a mature capsule.",
+        "why_it_matters": "Use this photograph to locate an isolated narrow bract and the small central cyathia. Do not infer upper-surface hair or fruit capsule details from this image.",
+        "markers": [
+          {
+            "label": "Single slender white-margined bract",
+            "label_x": 60,
+            "label_y": 12,
+            "target_x": 73,
+            "target_y": 53
+          },
+          {
+            "label": "Small cyathium group",
+            "label_x": 7,
+            "label_y": 68,
+            "target_x": 48,
+            "target_y": 56
+          }
+        ]
+      },
+      {
+        "label": "Glass Root Garden: natural flowering canopy (recognition only)",
+        "scientific_name": "Euphorbia bicolor",
+        "image_role": "Unannotated overall recognition photograph",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-bicolor/images/glass-root-garden-564413728-white-bracts-and-floral-clusters.jpg",
+        "source_page": "https://www.inaturalist.org/photos/564413728",
+        "creator": "Glass Root Garden",
+        "license": "CC BY 4.0",
+        "image_fit": "contain",
+        "caption": "Glass Root Garden field recognition photograph: repeated white-topped branch tips and many slender white-margined bracts. The tiny cyathia are present but too visually crowded for precise arrow placement; upper-surface leaf hairs cannot be resolved. Use the closer Lisa Winnett-Pequeno photo for reproductive anatomy.",
+        "why_it_matters": "Recognize the repeating narrow-bract pattern on the living plant; switch to the closer anatomical photo for structure-level identification.",
+        "markers": []
+      },
+      {
+        "label": "Glass Root Garden: whole branching plant (recognition only)",
+        "scientific_name": "Euphorbia bicolor",
+        "image_role": "Unannotated whole-plant habit photo",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-bicolor/images/glass-root-garden-562443428-whole-plant-flowering-habit.jpg",
+        "source_page": "https://www.inaturalist.org/photos/562443428",
+        "creator": "Glass Root Garden",
+        "license": "CC BY 4.0",
+        "image_fit": "contain",
+        "caption": "Glass Root Garden whole-plant field photograph: see the upright annual's branching habit and repeated pale, narrow upper bracts. Broad habit image only: individual tiny gland structures and upper-surface bract hairs cannot be resolved.",
+        "why_it_matters": "Learn what the plant looks like at field distance before opening the individual reproductive structures.",
+        "markers": []
+      }
+    ],
+    "overlay_note": "Lisa Winnett-Pequeno CC BY 4.0 reproductive close-up contains the two checked arrows. Both Glass Root Garden CC BY 4.0 field photographs are kept unchanged with NO anatomy pointers. Adaxial hair and capsule macro are unresolved, not claimed."
+  },
+  "field_photo_quickcheck": {
+    "heading": "Recognize the white-topped canopy; then inspect ONE bract and tiny cyathia",
+    "featured_photo_indices": [
+      0,
+      1,
+      2
+    ],
+    "steps": [
+      "Photo 1: isolate ONE slender white-margined bract and the tiny central cyathia. The pale white tissue is a modified bract or cyathial structure, not a single giant flower.",
+      "Photos 2 and 3: learn the repeated white-topped canopy and upright whole-plant habit; these are RECOGNITION photos with no anatomical arrows.",
+      "The critical E. bicolor versus E. marginata distinction is hair on the UPPER (adaxial) surface of a mature bract or upper leaf; these photos do not show it at adequate resolution.",
+      "Bring a calibrated 10–20× upper-surface bract/leaf macro for bicolor, matched with upper surface from marginata.",
+      "If available, also photograph a separate mature three-lobed capsule, without mistaking white cyathial appendages or hairy stems for hairs on the capsule."
+    ],
+    "field_rule": "NARROW white-edged bracts + HAIRY upper bract/leaf surface = E. bicolor. Bract shape shown; actual leaf-top hair macro pending.",
+    "warning": "Arrow placement corrected 2026-10-21 after user review: broad Glass Root Garden field photos are unannotated. Only the closer photo points to one visible white-edged bract and a tiny reproductive group. Bract color/white patch alone is not diagnostic; true upper-surface hairs and mature capsule remain PHOTO-UNVERIFIED."
+  },
+  "field_id_finalization": {
+    "review_date": "2026-10-21",
+    "stage": "PASS_IN_PROGRESS",
+    "text_review": "FNA_EFLORAS_250101532_AND_UT_AUSTIN_PRC_KEY",
+    "photo_review": "Rechecked all three real photo binaries after user reported overlapping/misleading arrows. Cleaned crowded Glass Root Garden flowering-overview photograph to zero arrows; made whole-plant image unannotated recognition too. The closer Lisa Winnett-Pequeno image carries only TWO checked visible targets: one isolated white-margined bract and central cyathium group. Neither hairs on upper blade face nor a separate hairy capsule are resolved.",
+    "annotated_real_photos": 1,
+    "verified_anatomy_arrows": 2,
+    "crew_status": "CREW_READY_RECOGNITION_AND_CYATHIA; BR_ACT_ADAXIAL_HAIR_AND_CAPSULE_MACROS_PENDING",
+    "photo_rights": "User Glass Root Garden direct photo grant CC BY 4.0 already recorded. Do not infer that an iNaturalist all-rights-reserved label is CC without direct photo-owner license grant already documented in species record.",
+    "remaining": [
+      "Calibrated 10× or stronger bicolor adaxial bract/leaf hair macro with visibly individual hairs",
+      "Matched marginata smooth adaxial mature bract/leaf surface under equivalent scale/lighting",
+      "Actual mature E. bicolor three-lobed capsule macro with visible pubescence and independent identification",
+      "Preserve target-zone native-status HOLD without rerunning county-range audit"
+    ]
+  },
+  "diagnostic_photo_requirements": [
+    {
+      "role": "Whole flowering plant in local landscape",
+      "status": "PHOTO_VERIFIED_AND_ARROWED"
+    },
+    {
+      "role": "Long narrow white-margined bracts",
+      "status": "PHOTO_VERIFIED_AND_ARROWED"
+    },
+    {
+      "role": "White gland appendages at cyathium",
+      "status": "PHOTO_VERIFIED_AS_LARGE_WHITE_APPENDAGES_ONLY"
+    },
+    {
+      "role": "Hairy upper bract/leaf FACE at ~10×",
+      "status": "NEEDS_MACRO_DECISIVE"
+    },
+    {
+      "role": "Source-verified densely hairy three-lobed capsule",
+      "status": "NEEDS_MACRO"
+    },
+    {
+      "role": "Matched mature bracts at identical ruler scale versus marginata",
+      "status": "NEEDS_MATCHED_PAIR"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "one_anatomy_closeup_two_unannotated_recognition_photos",
+    "image_count": 3,
+    "annotated_photo_count": 1,
+    "verified_annotation_arrows": 2,
+    "note": "User-reported crowded pointers corrected. One close flowering-head photo has two precise structure arrows; the two Glass Root Garden photos are unannotated recognition/whole habit. Upper/adaxial hair and hairy capsule identification remain photo gaps."
+  },
+  "curated_sources": [
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101532",
+    "https://w3.biosci.utexas.edu/prc/K12/pdf/Euphorbia%20bicolor",
+    "https://www.inaturalist.org/posts/11153-euphorbia-marginata-snow-on-the-mountain-and-e-bicolor-snow-on-the-prairie",
+    "https://tpwmagazine.com/archive/2017/aug/scout3_florafact_euphorbia/"
+  ]
+}

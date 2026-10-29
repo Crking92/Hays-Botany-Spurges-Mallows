@@ -1,0 +1,163 @@
+{
+  "id": "passiflora-tenuiloba",
+  "entry_type": "species",
+  "family": "Passifloraceae",
+  "genus": "Passiflora",
+  "species": "tenuiloba",
+  "scientific_name": "Passiflora tenuiloba",
+  "authority": "Engelm.",
+  "common_name": "Birdwing passionflower",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO; native range is south Texas to northeastern Mexico. Passiflora bigelovii is a historical synonym.",
+  "look_here_first": "Find one PETIOLE with its small paired CUP-LIKE NECTAR GLANDS near blade, then inspect MULTIPLE leaves on the same vine: often narrow fingerlike/birdwing primary lobes with secondary lobes; size and lobing vary widely. Compare glandless P. lutea and its broad rounded lobes. Small greenish flowers have five sepals (6–10 mm long) but no petals; ripening small dark berries support.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Val Verde"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays County — UT Plant Resources Center has a dedicated Hays Flora page for Passiflora tenuiloba and Purola Preserve natural flora lists it as naturally occurring. Travis County — UT Plant Resources Center's Travis County Passifloraceae herbarium index includes Passiflora tenuiloba. Val Verde County — the Amistad National Recreation Area vascular flora documents P. tenuiloba with multiple vouchers on trees, shrubs, rock outcrops, ledges and cliffs.",
+    "range_guardrail": "Broad Edwards Plateau occurrence is not converted into county proof; the PASS uses exact county flora/herbarium documentation."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial prostrate or low-climbing vine with slender coiling tendrils",
+      "petiole glandular with paired saucer- or cup-shaped glands near the blade",
+      "leaf blades extremely variable but deeply 3–9-lobed",
+      "primary lobes narrow and acute; lateral lobes often long and spreading",
+      "primary lobes may themselves be lobed, creating a birdwing/handlike silhouette",
+      "leaf margins entire",
+      "flowers small and greenish",
+      "petals absent; five green sepals (each 6–10 mm long) and two whorls of corona filaments form the showy portion",
+      "ripe berries small, globose, dark blue to black"
+    ],
+    "comparison_training": "Passiflora lutea: P. lutea has glandless petioles and broad rounded 3-lobed leaves; P. tenuiloba has paired cuplike petiole glands and narrow deeply dissected lobes. Passiflora incarnata: Both have petiole glands, but P. incarnata has much broader serrated 3-lobed leaves, huge purple/white flowers and large green-yellow maypops. P. tenuiloba has narrow entire lobes and tiny petal-less green flowers. Passiflora affinis: Another small green-flowered Central/West Texas passionflower. Use leaf architecture and gland characters; P. tenuiloba typically has the distinctive narrow deeply divided birdwing leaves. Important: FNA says FIVE sepals, each 6–10 mm long; do not interpret the measurement as a sepal count."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Passiflora lutea",
+      "Passiflora affinis",
+      "Passiflora incarnata"
+    ],
+    "key_distinctions": "P. lutea has glandless petioles and broad rounded 3-lobed leaves; P. tenuiloba has paired cuplike petiole glands and narrow deeply dissected lobes. Both have petiole glands, but P. incarnata has much broader serrated 3-lobed leaves, huge purple/white flowers and large green-yellow maypops. P. tenuiloba has narrow entire lobes and tiny petal-less green flowers. Another small green-flowered Central/West Texas passionflower. Use leaf architecture and gland characters; P. tenuiloba typically has the distinctive narrow deeply divided birdwing leaves."
+  },
+  "tags": [
+    "Passifloraceae",
+    "Passiflora",
+    "Birdwing passionflower",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-bulk-approved-2026-10-03",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "photo_caption_verified": "2026-10-13",
+    "photo_install_verified": "2026-10-13",
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "images": [
+    {
+      "file": "images/passiflora-tenuiloba-provisional-face.jpg",
+      "role": "Flowering vine / recognizable face",
+      "creator": "Turner Brockman",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_tenuiloba_in_bloom.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "caption": "*P. tenuiloba* flowering shoot, photographed by Turner Brockman (CC BY-SA 4.0). Recognize thin, irregularly lobed birdwing leaves and the small greenish bloom. The paired cup glands on petiole remain too small to confirm in this shot.",
+      "diagnostic_roles": [
+        "flower front and corona",
+        "birdwing leaf silhouette",
+        "vine habit"
+      ]
+    },
+    {
+      "file": "images/02-many-leaf-shapes-same-species.jpg",
+      "role": "Exact P. tenuiloba leaf shape variation",
+      "creator": "Douglas Goldman",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Variety_of_Passiflora_tenuiloba_leaf_shapes.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "caption": "Multiple leaf shapes of *Passiflora tenuiloba*, arranged by Douglas Goldman (CC BY-SA 4.0; iNaturalist observation 34290361, image 53948120). Lobes vary tremendously, including broad and very narrow forms. Leaves are arranged for display; do NOT conclude these are all from one vine. Cup-shaped glands are not demonstrated here.",
+      "diagnostic_roles": [
+        "large variation in leaf outline",
+        "narrow and broad leaf lobes",
+        "lobing depth comparison"
+      ],
+      "source_photo_id": "53948120",
+      "source_observation_id": "34290361"
+    },
+    {
+      "file": "images/joey-inat-365014928.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/365014928",
+      "observation_url": "https://www.inaturalist.org/observations/206384428",
+      "observation_id": "206384428",
+      "photo_id": "365014928",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/365014928/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "photo_polish",
+    "image_count": 2,
+    "photo_files_present": 2,
+    "verified_at": "2026-10-13",
+    "note": "Two physically installed rights-cleared photos; original flowering face plus separately arranged true-species leaf variation image. Important petiole gland, flower macro and fruit views remain final-polish photo requirements."
+  },
+  "diagnostic_photo_needs": [
+    {
+      "priority": "high",
+      "role": "macro paired petiole cup glands with arrows",
+      "status": "needed or final-polish—verify already installed image suitability; do not draw unverified arrows"
+    },
+    {
+      "priority": "high",
+      "role": "three very different leaves from SAME plant to teach variability",
+      "status": "needed or final-polish—verify already installed image suitability; do not draw unverified arrows"
+    },
+    {
+      "priority": "medium",
+      "role": "one tiny flower with sepals and double corona ring",
+      "status": "needed or final-polish—verify already installed image suitability; do not draw unverified arrows"
+    },
+    {
+      "priority": "medium",
+      "role": "small dark blue-black fruit and tendril",
+      "status": "needed or final-polish—verify already installed image suitability; do not draw unverified arrows"
+    }
+  ],
+  "visual_science_review": {
+    "reviewed_at": "2026-10-13",
+    "status": "morphology-first lesson refined; native target labels unchanged",
+    "photo_priority": [
+      "macro paired petiole cup glands with arrows",
+      "three very different leaves from SAME plant to teach variability"
+    ]
+  }
+}

@@ -1,0 +1,502 @@
+{
+  "id": "euphorbia-maculata",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "species": "maculata",
+  "scientific_name": "Euphorbia maculata",
+  "common_name": "Spotted spurge",
+  "look_here_first": "STOP IDENTIFYING ALL RED-SPOTTED MATS AS EUPHORBIA MACULATA. Begin with small opposite leaves (often RED blotch, not necessary) on a low hairy spreading annual. Under magnification, confirm fine appressed HAIRS ACROSS the whole capsule FACES, not just along keels; E. prostrata has conspicuous hairs mainly on capsule KEELS. Mature E. maculata seeds have a few LOW TRANSVERSE ridges or shallow crosswise wrinkles, not lengthwise ribs; prostrata has STRONG sharp crosswise seed ridges; E. serpens has a GLABROUS capsule and a seed lacking strong ribs. Photograph the node and narrow stipules, but don't claim red spot or mat habit alone proves species. This learner has no completed BONAP county-native decision: county-range metrics stay excluded until reviewed.",
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "visual_reviewed": true,
+    "photo_source_checked": true,
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "field_id_status": "PROVISIONAL — NEEDS_DIAGNOSTIC_PHOTO — annotation_pending",
+    "commons_licensed_gallery_installed": "2026-10-20",
+    "version": "2.0-exact-photo-verified-three-way-sandmat",
+    "last_reviewed": "2026-10-21",
+    "morphology_reviewed": true,
+    "annotated_real_photo_count": 4,
+    "verified_arrow_count": 8,
+    "finished_field_id_pass": "CREW_READY; LOCAL_NATIVE_RANGE_AND_SCALE_MATCH_PENDING",
+    "required_to_finish": [
+      "Optional paired seeds at equal mm scale",
+      "Verify county inclusion through BONAP NAPA before scoring native ecosystem metrics"
+    ],
+    "field_status": "FIELD_READY_WITH_OPTIONAL_LOCAL_PHOTO_GAPS"
+  },
+  "photo_note": "Four public-safe, actual saved CC BY/CC BY-SA source photos already inspected 2026-10-20 with eight trustworthy arrows: spreading habit, spotted leaf, narrow stipule with hairy node, hairs EVENLY across the capsule faces, and shallow CROSSWISE true-seed furrows. Diagnostic photo coverage is crew-ready. One older CC BY-NC first-pass image is retained as study context rather than featured; no need to replace existing superior Commons photos. Hays provenance/native badge intentionally not asserted.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/347236-1",
+  "images": [
+    {
+      "file": "images/inat-91881491.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) Nate Hartley, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/91881491",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "no",
+      "photo_review": "Restricted CC BY-NC noncommercial learner reference, preserved under original creator attribution; NOT eligible for strict public Pages export."
+    },
+    {
+      "file": "images/02-harry-rose-habit.jpg",
+      "role": "Whole growing plant, leaves and mat habit (not local Hays County provenance)",
+      "creator": "Harry Rose",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_maculata_plant3_(16180597798).jpg",
+      "source_platform": "Wikimedia Commons exact species file page",
+      "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Euphorbia_maculata_plant3_%2816180597798%29.jpg/1920px-Euphorbia_maculata_plant3_%2816180597798%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+      "source_sha256": "332229047aca5713138ceacc1194d7a2c807198dec88edf44072304fca5904ca",
+      "original_image_dimensions": [
+        1920,
+        1440
+      ],
+      "image_dimensions": [
+        1700,
+        1275
+      ],
+      "public_reuse": "yes",
+      "modifications": "Downscaled for GitHub Pages, re-encoded JPEG, EXIF stripped; morphology untouched. Educational arrow overlays only in site UI.",
+      "anatomy_arrows": [
+        {
+          "label": "Spreading shoot",
+          "target_fraction": [
+            0.61,
+            0.39
+          ]
+        },
+        {
+          "label": "One red-blotched leaf",
+          "target_fraction": [
+            0.23,
+            0.59
+          ]
+        }
+      ],
+      "photo_review": "Identified as Euphorbia maculata by Wikimedia source file with named creator and verified CC license; exact saved photograph needs manual visual arrow QA. Manual pixel QA PASS 2026-10-20; actual macro content matches assigned photo role.",
+      "manual_arrow_review": "2026-10-20: original saved JPEG inspected; arrows correspond to clearly visible whole plant, stipule, hairs on capsule FACE, or shallow transverse seed furrows, and not inferred structures."
+    },
+    {
+      "file": "images/03-stefan-leaf-stipule.jpg",
+      "role": "Microscopic paired leaves, stipules and hairy stem at node",
+      "creator": "Stefan.lefnaer",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_maculata_sl13.jpg",
+      "source_platform": "Wikimedia Commons exact species file page",
+      "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Euphorbia_maculata_sl13.jpg/1920px-Euphorbia_maculata_sl13.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+      "source_sha256": "4974756d204ed821e64385e32c02020d0d888230c5589f59a15da08503151ac7",
+      "original_image_dimensions": [
+        1920,
+        2227
+      ],
+      "image_dimensions": [
+        1466,
+        1700
+      ],
+      "public_reuse": "yes",
+      "modifications": "Downscaled for GitHub Pages, re-encoded JPEG, EXIF stripped; morphology untouched. Educational arrow overlays only in site UI.",
+      "anatomy_arrows": [
+        {
+          "label": "Narrow pointed stipule",
+          "target_fraction": [
+            0.5,
+            0.42
+          ]
+        },
+        {
+          "label": "Fine stem hairs",
+          "target_fraction": [
+            0.35,
+            0.44
+          ]
+        }
+      ],
+      "photo_review": "Identified as Euphorbia maculata by Wikimedia source file with named creator and verified CC license; exact saved photograph needs manual visual arrow QA. Manual pixel QA PASS 2026-10-20; actual macro content matches assigned photo role.",
+      "manual_arrow_review": "2026-10-20: original saved JPEG inspected; arrows correspond to clearly visible whole plant, stipule, hairs on capsule FACE, or shallow transverse seed furrows, and not inferred structures."
+    },
+    {
+      "file": "images/04-stefan-fruit-entirely-hairy.jpg",
+      "role": "Infructescence and capsule hairs across the faces, unlike prostrata keel-concentrated hairs",
+      "creator": "Stefan.lefnaer",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_maculata_sl18.jpg",
+      "source_platform": "Wikimedia Commons exact species file page",
+      "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Euphorbia_maculata_sl18.jpg/1920px-Euphorbia_maculata_sl18.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+      "source_sha256": "1605b016f906cf1132a95bf9716108a2d42bc9131463cb69cb86185a94256b2d",
+      "original_image_dimensions": [
+        1920,
+        2140
+      ],
+      "image_dimensions": [
+        1525,
+        1700
+      ],
+      "public_reuse": "yes",
+      "modifications": "Downscaled for GitHub Pages, re-encoded JPEG, EXIF stripped; morphology untouched. Educational arrow overlays only in site UI.",
+      "anatomy_arrows": [
+        {
+          "label": "Hairs across fruit FACE",
+          "target_fraction": [
+            0.66,
+            0.35
+          ]
+        },
+        {
+          "label": "Hairy 3-lobed capsule",
+          "target_fraction": [
+            0.34,
+            0.52
+          ]
+        }
+      ],
+      "photo_review": "Identified as Euphorbia maculata by Wikimedia source file with named creator and verified CC license; exact saved photograph needs manual visual arrow QA. Manual pixel QA PASS 2026-10-20; actual macro content matches assigned photo role.",
+      "manual_arrow_review": "2026-10-20: original saved JPEG inspected; arrows correspond to clearly visible whole plant, stipule, hairs on capsule FACE, or shallow transverse seed furrows, and not inferred structures."
+    },
+    {
+      "file": "images/05-stefan-seeds-shallow-furrows.jpg",
+      "role": "Exact species seeds with LOW transverse ridges and shallow crosswise furrows; NOT longitudinal ribs",
+      "creator": "Stefan.lefnaer",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_maculata_sl20.jpg",
+      "source_platform": "Wikimedia Commons exact species file page",
+      "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Euphorbia_maculata_sl20.jpg/1920px-Euphorbia_maculata_sl20.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+      "source_sha256": "26f512e4f1a5978e24e85b40fbd4005c5c42926f229a0d5e87fbdf4e65a663d0",
+      "original_image_dimensions": [
+        1920,
+        1949
+      ],
+      "image_dimensions": [
+        1675,
+        1700
+      ],
+      "public_reuse": "yes",
+      "modifications": "Downscaled for GitHub Pages, re-encoded JPEG, EXIF stripped; morphology untouched. Educational arrow overlays only in site UI.",
+      "anatomy_arrows": [
+        {
+          "label": "Shallow crosswise seed furrows",
+          "target_fraction": [
+            0.78,
+            0.63
+          ]
+        },
+        {
+          "label": "Individual mature seed",
+          "target_fraction": [
+            0.19,
+            0.26
+          ]
+        }
+      ],
+      "photo_review": "Identified as Euphorbia maculata by Wikimedia source file with named creator and verified CC license; exact saved photograph needs manual visual arrow QA. Manual pixel QA PASS 2026-10-20; actual macro content matches assigned photo role.",
+      "manual_arrow_review": "2026-10-20: original saved JPEG inspected; arrows correspond to clearly visible whole plant, stipule, hairs on capsule FACE, or shallow transverse seed furrows, and not inferred structures."
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "four_public_licensed_diagnostic_images_eight_verified_arrows",
+    "image_count": 5,
+    "filled_at": "2026-10-17",
+    "note": "Four independently checked CC BY/CC BY-SA exact-species diagnostic images already establish leaf/habit, narrow stipule, evenly hairy capsule faces and shallow transverse seed furrows with eight source-pixel arrows. Optional local voucher and native-by-county BONAP/NAPA audit are outside field-ID closeout. Older CC BY-NC candidate remains withheld by card policy.",
+    "annotated_photo_count": 4,
+    "verified_arrow_count": 8
+  },
+  "morphology_keys": {
+    "life_cycle": "Annual with a taproot; stems usually lie flat and do not root at nodes.",
+    "leaves": "Opposite, asymmetric at base, 4–18 × 2.5–8 mm, often red-blotched but variable.",
+    "reproductive": "Tiny cup-shaped cyathia in leaf axils; hairy 3-lobed capsules and longitudinally ridged seeds are stronger tie-breakers than leaf color.",
+    "best_field_traits": [
+      "Low annual radiating creeping mat; long stems often prostrate and do not normally root at soil-contact nodes.",
+      "Opposite small leaves with unequal/asymmetric bases; minutely toothed margins, sometimes with dark midrib blotch; SPOT MAY BE ABSENT.",
+      "Narrow pointed stipules near leaf bases, not broad fused triangular scales of E. serpens.",
+      "Fine hairs across stems and leaf surfaces, especially below; also fine APPRESSED hairs evenly distributed over capsule faces.",
+      "Three-lobed capsules generally about 1.3–1.5 mm; surface pubescence all over, NOT mainly on raised keel ridges.",
+      "Seeds about 1 mm, angular, with a few LOW, INCONSPICUOUS TRANSVERSE ridges/wrinkles. Do NOT describe these as longitudinal ridges.",
+      "Fruit hair DISTRIBUTION versus E. prostrata is more immediately useful than dark leaf patches."
+    ],
+    "sources": [
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Euphorbia+maculata",
+      "https://www.minnesotawildflowers.info/flower/spotted-spurge"
+    ],
+    "family_pattern": "Euphorbiaceae / Euphorbia sect. Anisophyllum. Minute cyathia (cups containing reduced flowers), opposite leaves, three-lobed capsules. Exact species needs fruit and seed morphology.",
+    "seed": "Mature seeds oblong-ovoid, sharply angular, about 1–1.2 by 0.6–0.9 mm; FNA describes 3–4 low transverse ridges crossing angles, unlike stronger narrow cross-ribs on E. prostrata. Older project note describing lengthwise ridges was incorrect and is superseded.",
+    "fruit": "Fruit three-lobed and exserted, around 1.3–1.5 mm, fine appressed hairs scattered relatively evenly across the rounded faces. Unlike E. prostrata, which has more projecting or crisped hairs concentrated along keels.",
+    "leaf_base": "Leaf bases strongly asymmetric with one side more truncate and sometimes forming a rounded lobe/auricle. Photo of whole habit may not resolve it; a sharp close-up and orientation of single entire paired leaves is best.",
+    "crew_field_photography": [
+      "1. Photograph entire mat and opposite leaves; record both spotted and spotless leaves.",
+      "2. Get macro of paired leaf BASES at one node; include a 1 mm reference, check asymmetry and narrow stipules.",
+      "3. Find real THREE-LOBED CAPSULE, use 10× or stronger; look for pale tiny hairs across the middle of its FACE, not just projecting from edges.",
+      "4. Photograph mature released seeds with 1–2 mm scale, rotate seed, look for LOW CROSSWISE grooves. Compare to strongly ridged prostrata seed.",
+      "5. If only red spots or low mat habit photographed, label sandmat Euphorbia sp. until capsules/seeds can be documented."
+    ],
+    "crew_lesson": "Look at the fruit, not the spot! Maculata has fine hairs ALL OVER the capsule; prostrata is fuzzy along the edges/keels; serpens is bald. Maculata seeds have subtle crosswise wrinkles, prostrata seeds have bold crosswise ribs, serpens seeds look smooth.",
+    "habitat_and_safety": "Frequent in disturbed soil, cracks, lawn and path edges. Native to North America, but exact Hays county target approval must be checked with BONAP and is NOT assumed here. Milky latex may irritate skin/eyes; avoid unnecessary stem rupture."
+  },
+  "comparisons": {
+    "key_distinctions": "E. MACULATA has appressed hair spread across capsule faces and a few SHALLOW CROSSWISE seed furrows. E. PROSTRATA has longer crisped hair mainly on KEELS and strong sharp TRANSVERSE seed ridges. E. SERPENS has glabrous capsules, smooth seeds and broad fused stipule scales, often rooting at soil-contact nodes. Leaf spots alone are never sufficient.",
+    "photo_tie_breakers": "Four properly credited exact-species files now installed: whole mat, narrow stipule/hairy node, appressed capsule FACE hairs, and LOW transverse seed furrows. Older noncommercial photo is withheld from strict public distribution.",
+    "confused_with": [
+      "Euphorbia prostrata",
+      "Euphorbia serpens",
+      "Euphorbia humistrata",
+      "Euphorbia thymifolia",
+      "Euphorbia serpyllifolia",
+      "Euphorbia villifera"
+    ],
+    "three_way_matrix": [
+      {
+        "character": "Dark red blotch",
+        "maculata": "Often present; can be absent",
+        "prostrata": "Typically absent",
+        "serpens": "Typically absent",
+        "rule": "Supporting ONLY"
+      },
+      {
+        "character": "Capsule hairs",
+        "maculata": "Fine appressed hairs across all fruit FACES",
+        "prostrata": "Crisped/projecting hairs mainly along KEELS",
+        "serpens": "Glabrous/capsule bald",
+        "rule": "BEST PHOTO CHARACTER"
+      },
+      {
+        "character": "Seed sculpture",
+        "maculata": "Low weak transverse wrinkles/furrows",
+        "prostrata": "Strong raised transverse ridges",
+        "serpens": "Smooth without strong crosswise ridges",
+        "rule": "BEST CONFIRMATION"
+      },
+      {
+        "character": "Stipules",
+        "maculata": "Separate, narrow pointed",
+        "prostrata": "Narrow upper pair free, lower side fused",
+        "serpens": "Broad fused pink/white scale",
+        "rule": "Good at 10–20×; inspect sides"
+      },
+      {
+        "character": "Rooting at nodes",
+        "maculata": "Normally absent",
+        "prostrata": "Generally absent",
+        "serpens": "Common when contact soil",
+        "rule": "Check multiple nodes"
+      },
+      {
+        "character": "Leaf margin",
+        "maculata": "Usually minutely toothed",
+        "prostrata": "Minutely serrulate",
+        "serpens": "Typically entire",
+        "rule": "Small support trait"
+      }
+    ],
+    "note_on_seed_conflict": "Project earlier phrasing 'lengthwise rounded ridges' is inconsistent with Flora of North America; use FNA 3–4 LOW transverse ridges, distinguishing their prominence from E. prostrata."
+  },
+  "photo_strategy": {
+    "diagnostic_roles": [
+      "RECOGNIZE — entire prostrate mat: existing image role unverified",
+      "LOOK CLOSER — asymmetric leaf base and hairs: NEEDS_DIAGNOSTIC_PHOTO",
+      "CONFIRM — capsule hairs and longitudinal seed ridges: NEEDS_DIAGNOSTIC_PHOTO"
+    ],
+    "annotation_status": "annotation_pending; no arrow positions verified",
+    "public_photo_review": "Existing CC BY-NC photo retained; photo-level license version, anatomy and noncommercial public-display attribution need review."
+  },
+  "visual_comparison": {
+    "instance_id": "euphorbia-maculata-three-way-verified-20261020",
+    "title": "Spotted spurge — red spots are NOT enough",
+    "subtitle": "Four source-verified real public-reusable photographs with eight image-position arrows: habit, stipule/hairy stem, APPRESSED fruit-face hairs and shallow TRANSVERSE seed furrows.",
+    "items": [
+      {
+        "label": "Recognize the spreading mat and spotted leaves",
+        "scientific_name": "Euphorbia maculata",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-maculata/images/02-harry-rose-habit.jpg",
+        "image_role": "Exact species whole plant spreading over paving stones, opposite leaves, some with red center spots",
+        "caption": "Low branching mat with small pairs of opposite leaves. Some have red blotches but others are mostly green on the SAME specimen. Spots support recognition only, not species proof.",
+        "why_it_matters": "This photo begins a field search without teaching a false red-spot identification rule.",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_maculata_plant3_(16180597798).jpg",
+        "creator": "Harry Rose",
+        "license": "CC BY 2.0",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Spreading shoot",
+            "label_x": 69,
+            "label_y": 23,
+            "target_x": 61,
+            "target_y": 39
+          },
+          {
+            "label": "One red-blotched leaf",
+            "label_x": 8,
+            "label_y": 71,
+            "target_x": 23,
+            "target_y": 59
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 exact saved JPEG retrieved and visually inspected. No arrow for a structure absent from the image."
+      },
+      {
+        "label": "Look closer: narrow stipule and hairy stem",
+        "scientific_name": "Euphorbia maculata",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-maculata/images/03-stefan-leaf-stipule.jpg",
+        "image_role": "Source microscope photograph of narrow reddish pointed stipule, leaf attachments and fine hairs",
+        "caption": "The narrow reddish pointed appendage at the leaf base is a stipule; numerous small hairs project from the adjoining stem. The source includes a 5 mm scale. This view does not prove all leaf-base asymmetry or lack of node roots.",
+        "why_it_matters": "A real microscopic example of the structure normally skipped when someone guesses from leaf color.",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_maculata_sl13.jpg",
+        "creator": "Stefan.lefnaer",
+        "license": "CC BY-SA 4.0",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Narrow pointed stipule",
+            "label_x": 72,
+            "label_y": 31,
+            "target_x": 50,
+            "target_y": 42
+          },
+          {
+            "label": "Fine stem hairs",
+            "label_x": 10,
+            "label_y": 63,
+            "target_x": 35,
+            "target_y": 44
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 exact saved JPEG retrieved and visually inspected. No arrow for a structure absent from the image."
+      },
+      {
+        "label": "Confirm: short hairs spread across capsule faces",
+        "scientific_name": "Euphorbia maculata",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-maculata/images/04-stefan-fruit-entirely-hairy.jpg",
+        "image_role": "Close view of multiple actual three-lobed capsules with appressed fine pale hairs across the rounded faces",
+        "caption": "Unlike E. prostrata's hairs concentrated on capsule KEELS, E. maculata has fine appressed hairs scattered across the rounded FRUIT FACES as well. Pinkish styles at the fruit tips are not individual petals. Original source 5 mm scale.",
+        "why_it_matters": "This capsule hair placement is the best visible difference between two hairy sandmats.",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_maculata_sl18.jpg",
+        "creator": "Stefan.lefnaer",
+        "license": "CC BY-SA 4.0",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Hairs across fruit FACE",
+            "label_x": 68,
+            "label_y": 19,
+            "target_x": 66,
+            "target_y": 35
+          },
+          {
+            "label": "Hairy 3-lobed capsule",
+            "label_x": 8,
+            "label_y": 61,
+            "target_x": 34,
+            "target_y": 52
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 exact saved JPEG retrieved and visually inspected. No arrow for a structure absent from the image."
+      },
+      {
+        "label": "Confirm: shallow transverse seed furrows",
+        "scientific_name": "Euphorbia maculata",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-maculata/images/05-stefan-seeds-shallow-furrows.jpg",
+        "image_role": "Six individual mature seeds, some with visible shallow low crosswise grooves, original 2 mm scale",
+        "caption": "Subtle shallow grooves run ACROSS several seeds, easiest on the lower right seed. These are NOT lengthwise ribs. E. prostrata has MUCH stronger raised transverse ridges; E. serpens lacks prominent repeated crosswise ridges. Different source-photo scale bars mean do not compare seed size by screen display.",
+        "why_it_matters": "Corrects an earlier misleading longitudinal-ridge claim. A paired seed comparison is now possible.",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_maculata_sl20.jpg",
+        "creator": "Stefan.lefnaer",
+        "license": "CC BY-SA 4.0",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Shallow crosswise seed furrows",
+            "label_x": 64,
+            "label_y": 62,
+            "target_x": 78,
+            "target_y": 63
+          },
+          {
+            "label": "Individual mature seed",
+            "label_x": 9,
+            "label_y": 26,
+            "target_x": 19,
+            "target_y": 26
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 exact saved JPEG retrieved and visually inspected. No arrow for a structure absent from the image."
+      }
+    ],
+    "overlay_note": "Habit © Harry Rose CC BY 2.0. Macros © Stefan.lefnaer CC BY-SA 4.0. Original scale bars retained. Older Nate Hartley CC BY-NC iNaturalist image is kept as source-only research with original license intact, not added to public comparison photos."
+  },
+  "field_photo_quickcheck": {
+    "heading": "Spotted spurge: the capsule hair LOCATION makes the call",
+    "featured_photo_indices": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "steps": [
+      "Look at the 3-lobed fruit: is it hairy ACROSS the rounded capsule faces? That strongly supports E. maculata.",
+      "Compare the E. prostrata photo, where projecting hairs concentrate along keel edges. E. serpens has a hairless capsule.",
+      "See maculata's mature seed: it has SHALLOW CROSSWISE furrows, not strong ridges like prostrata.",
+      "Look back to the leaf node for narrow pointed stipules and hairy stems. The red spot is just a supporting clue."
+    ],
+    "field_rule": "Tiny appressed hairs across the WHOLE capsule + a few shallow transverse seed ridges = E. maculata. Red center spots alone are insufficient.",
+    "warning": "The original seed note in this project incorrectly said LONGITUDINAL ridges; corrected to FNA LOW TRANSVERSE ridges. Four new photos are from Australia/Austria, not local Hays County evidence."
+  },
+  "field_id_finalization": {
+    "review_date": "2026-10-21",
+    "stage": "FIELD_READY_WITH_OPTIONAL_LOCAL_SOURCE_GAPS",
+    "text_review": "PASS_FNA_EFLORAS_242321471",
+    "annotated_real_photos": 4,
+    "verified_anatomy_arrows": 8,
+    "field_training_status": "CREW_READY_CAPSULE_SEED_DIAGNOSTIC; COUNTY_NATIVE_ZONE_UNVERIFIED",
+    "photo_review": "Four actual saved credited JPGs were fetched from GitHub after install and visually inspected. Prostrate plant and spotted foliage, a narrow reddish pointed stipule amid stem hairs, appressed capsule face hairs, and seed LOW TRANSVERSE grooves are visible. Eight arrow endpoints recorded as image fractions. No invented node roots or exact seed dimension derived from onscreen pixels.",
+    "remaining": [
+      "Optional Hays-area photographed voucher using site-compatible image rights",
+      "Optional scale-matched maculata vs prostrata seed comparison",
+      "Independent BONAP/NAPA county-native audit paused; not an ID-card blocker"
+    ],
+    "closeout_note": "2026-10-21 reviewed mature diagnostic evidence and explicitly closed stale first-card/photo TODO. Original arrow coordinates and image attribution unchanged."
+  },
+  "diagnostic_photo_requirements": [
+    {
+      "role": "Whole spreading mat",
+      "status": "PHOTO_AND_ARROW_VERIFIED"
+    },
+    {
+      "role": "Narrow stipule at hairy stem node",
+      "status": "PHOTO_AND_ARROW_VERIFIED; leaf-base asymmetry not fully isolated"
+    },
+    {
+      "role": "Uniformly appressed hairy capsule faces",
+      "status": "PHOTO_AND_ARROW_VERIFIED"
+    },
+    {
+      "role": "Low crosswise seed wrinkles",
+      "status": "PHOTO_AND_ARROW_VERIFIED"
+    },
+    {
+      "role": "Same-mm-scale prostrata and serpens comparisons",
+      "status": "SEPARATE_SOURCE_PHOTOS_PRESENT_DIFFERENT_SCALE"
+    },
+    {
+      "role": "Hays County locally sourced voucher",
+      "status": "PENDING_NONESSENTIAL_FOR_GENERAL_ID"
+    },
+    {
+      "role": "County native-range qualification via BONAP/NAPA",
+      "status": "NOT_REVIEWED"
+    }
+  ],
+  "project_inclusion": {
+    "target_zone_status": "NOT_REVIEWED_COUNTY",
+    "range_basis": "Range review paused; North American native general status does not prove Hays/target-county BONAP inclusion.",
+    "range_guardrail": "No automatic native target-zone approval; retain in learner for crew visual ID."
+  },
+  "native_metrics_excluded": true,
+  "curated_sources": [
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242321471",
+    "https://gobotany.nativeplanttrust.org/species/euphorbia/maculata/",
+    "https://ipm.ucanr.edu/home-and-landscape/spotted-spurge-and-other-spurges/"
+  ]
+}

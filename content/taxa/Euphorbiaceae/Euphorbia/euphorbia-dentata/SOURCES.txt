@@ -1,0 +1,35 @@
+# Curation sources — Euphorbia dentata
+Reviewed through 2026-10-07
+Scientific status: PASS
+Learner role: PROJECT_NATIVE
+
+Taxonomy / morphology
+Plants of the World Online:
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30169241-2
+
+Flora of North America:
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242321404
+
+UT Austin detailed morphology:
+https://w3.biosci.utexas.edu/prc/K12/pages/Euphorbia%20dentata.html
+
+Diagnostic comparison
+Use abaxial hair texture, capsule size, and mature seed:
+E. dentata = longer weak filiform hairs; smaller capsules; smaller rounded-in-cross-section evenly minute-tuberculate seeds.
+E. davidii = shorter stiffer hairs; larger capsules/seeds; angular irregularly tuberculate seeds.
+
+Physical photo set — University of Arizona Yavapai County plant guide
+Source page:
+https://yavapaiplants.extension.arizona.edu/euphorbia-dentata
+Image credits and rights on source page:
+Flower and fruit — Max Licher / swbiodiversity.org — CC BY-SA
+Leaves — Max Licher / swbiodiversity.org — CC BY-SA
+Plant — Liz Makings / swbiodiversity.org — CC BY-SA
+Polish-pass private-study macros — MissouriPlants / S.R. Turner
+Source page:
+https://www.missouriplants.com/Euphorbia_dentata_page.html
+Abaxial leaf surface:
+https://www.missouriplants.com/images/Euphorbia_dentata_leaf2a.jpg
+Fruit and seeds:
+https://www.missouriplants.com/images/Euphorbia_dentata_fruits2.jpg
+Rights: copyright retained by S.R. Turner; study_use=yes, public_reuse=review. These files are for the private learner only unless permission is obtained.

@@ -1,0 +1,48 @@
+{
+  "id": "abelmoschus-esculentus",
+  "entry_type": "species",
+  "family": "Malvaceae",
+  "genus": "Abelmoschus",
+  "species": "esculentus",
+  "scientific_name": "Abelmoschus esculentus",
+  "authority": "(L.) Moench",
+  "common_name": "Okra",
+  "look_here_first": "LOOK HERE FIRST: inspect the central staminal column in the dark-centered five-petaled flower; then confirm the deeply lobed hairy leaves and long ridged upright pod.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "source_pool": "Master Plant Pool row 2",
+    "target_zone_status": "UNRESOLVED",
+    "native_metrics_excluded": true
+  },
+  "images": [
+    {
+      "file": "images/abelmoschus-esculentus-fredlyfish4.jpg",
+      "role": "provisional_flower_staminal_column",
+      "creator": "Fredlyfish4",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Abelmoschus_esculentus_flower.jpg",
+      "study_use": "private_educational",
+      "public_reuse": "CC_BY_SA_4_attribution_sharealike"
+    }
+  ],
+  "diagnostic_image_needs": [
+    "pod",
+    "leaf",
+    "epicalyx"
+  ],
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-17",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+}

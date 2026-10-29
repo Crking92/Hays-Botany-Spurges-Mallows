@@ -1,0 +1,11 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:776895-1
+Taxonomic name-synonym evidence: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:776895-1
+Observed scientific name (accepted or documented alias): Populus trichocarpa
+Wikimedia Commons reviewed source: https://commons.wikimedia.org/wiki/File:Populus_trichocarpa_new_leaves_in_spring_2.jpg
+Photo: https://commons.wikimedia.org/wiki/File:Populus_trichocarpa_new_leaves_in_spring_2.jpg
+Attribution: Thayne Tuason
+License: CC BY-SA 4.0; Credit author; image resized and metadata stripped; adapted image under CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+Photo license URL: https://creativecommons.org/licenses/by-sa/4.0/
+Photo public display scope: PUBLIC-WEB-CLEARED
+Photo alterations: Resized and JPEG re-encoded; all embedded EXIF/GPS metadata stripped
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

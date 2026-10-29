@@ -1,0 +1,37 @@
+# Curation sources — Argythamnia simulans
+Reviewed through 2026-10-06
+Scientific status: UNRESOLVED RANGE HOLD
+Learner admission: APPROVED
+
+POWO/WCVP:
+https://powo.science.kew.org/taxon/19032-2
+
+IPNI:
+https://www.ipni.org/n/19032-2
+
+Balcones Canyonlands Preserve flora:
+https://www.traviscountytx.gov/images/tnr/Docs/Plants.pdf
+
+Range correction
+Hays + Travis are locked. The prior PASS disposition is corrected to HOLD because the project requires three target-zone counties.
+
+Decision
+Install for learner use while preserving RANGE HOLD and excluding from confirmed-native metrics.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T01:54:50.939684+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/260360106
+https://www.inaturalist.org/observations/150940377
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T01:59:14.177044+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/260360121
+https://www.inaturalist.org/observations/150940377
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T02:18:07.459034+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/260360134
+https://www.inaturalist.org/observations/150940377
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

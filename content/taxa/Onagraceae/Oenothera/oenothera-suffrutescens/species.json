@@ -1,0 +1,115 @@
+{
+  "id": "oenothera-suffrutescens",
+  "entry_type": "species",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "species": "suffrutescens",
+  "scientific_name": "Oenothera suffrutescens",
+  "authority": "(Moc. & Sessé ex Ser.) W.L.Wagner & Hoch",
+  "common_name": "Scarlet beeblossom / scarlet gaura",
+  "synonyms": [
+    "Gaura coccinea Pursh",
+    "Gaura suffrutescens Moc. & Sessé ex Ser."
+  ],
+  "look_here_first": "Think gray-hairy rhizomatous gaura: narrow foliage and stems are usually covered with appressed gray hairs, and the small pale flowers fade pink to scarlet.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Williamson",
+    "Mason"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Travis — UT specimen index under Gaura coccinea. Williamson — UT county flora lists Oenothera suffrutescens. Mason — Mason Mountain WMA flora documents Gaura coccinea.",
+    "range_guardrail": "Historical Gaura coccinea records are mapped to current Oenothera suffrutescens."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "rhizomatous perennial",
+      "gray appressed hairs on foliage and stems",
+      "narrow leaves",
+      "small white to pink flowers often aging scarlet",
+      "fruit with thick stipe widest toward base",
+      "dry prairie and rocky grassland habit"
+    ],
+    "comparison_training": "Compared with O. sinuosa, O. suffrutescens is usually much grayer and hairier. Mature fruit structure is especially useful."
+  },
+  "curation_status": {
+    "version": "1.0-b088",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "images": [
+    {
+      "file": "images/oenothera-suffrutescens-provisional-face.jpg",
+      "role": "Flowering habit recognizable face",
+      "creator": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Gaura_coccinea_8.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-260991540.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/260991540",
+      "observation_url": "https://www.inaturalist.org/observations/151277531",
+      "observation_id": "151277531",
+      "photo_id": "260991540",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/260991540/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-260991548.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/260991548",
+      "observation_url": "https://www.inaturalist.org/observations/151277531",
+      "observation_id": "151277531",
+      "photo_id": "260991548",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/260991548/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,9 @@
+Source pool Phase3 (source rows 672); preflight still subject to independent accepted-taxonomy review.
+Taxon: Lythrum alatum
+Kew taxonomy search: https://powo.science.kew.org/results?q=Lythrum%20alatum
+Exact species Commons image page: https://commons.wikimedia.org/wiki/File:Lythrum_alatum_(20363896053).jpg
+Original/Commons bounded download: https://commons.wikimedia.org/wiki/Special:Redirect/file/Lythrum_alatum_%2820363896053%29.jpg
+Photographer: Joshua Mayer (wackybadger)
+License: CC BY-SA 2.0
+Image role: Provisional purple flower and foliage detail; square stem ridges need a closer view.
+Do not claim image proves Hays occurrence or complete anatomical diagnosis. Source image may depict a cultivated or out-of-region specimen. This initial learner card remains provisional.

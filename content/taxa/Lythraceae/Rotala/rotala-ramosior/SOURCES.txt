@@ -1,0 +1,20 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30048022-2
+Source research-grade observation: https://www.inaturalist.org/observations/235092150
+Photo: https://www.inaturalist.org/photos/418043433
+Attribution: (c) Guillaume Léotard, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 041 2026-10-17T00:19:54.189054+00:00
+Rotala ramosior
+Creator: Sam Kieschnick; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/5837888423
+Stored archive: hays-photo-library-mass-38985269791 :: staged_images/rotala-ramosior/gbif-ed3c00c60e0a93.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 041 2026-10-17T00:19:54.189054+00:00
+Rotala ramosior
+Creator: Annika Lindqvist; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/4908709418
+Stored archive: hays-photo-library-mass-38985269791 :: staged_images/rotala-ramosior/gbif-0fc29a1773ac25.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

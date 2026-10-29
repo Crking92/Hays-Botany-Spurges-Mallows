@@ -1,0 +1,13 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:561830-1
+Source research-grade observation: https://www.inaturalist.org/observations/68242464
+Photo: https://www.inaturalist.org/photos/110447480
+Attribution: (c) wbarrett, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.
+
+LIBRARY-FIRST IMAGE SELECTION 052 2026-10-17T18:38:12.007717+00:00
+Malva parviflora
+Creator: Linda Jo Conn; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6235213101
+Stored archive: hays-photo-library-mass-38993364540 :: staged_images/malva-parviflora/gbif-d0ea672cfc2779.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

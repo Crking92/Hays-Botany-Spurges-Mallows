@@ -1,0 +1,9 @@
+Approved source-pool Phase3 name Pavonia hastata source rows 837.
+Name reference: https://powo.science.kew.org/results?q=Pavonia%20hastata
+Exact Commons file page: https://commons.wikimedia.org/wiki/File:Pavonia_hastata_flower_NC20.jpg
+Original photo/direct Commons file redirect: https://commons.wikimedia.org/wiki/Special:Redirect/file/Pavonia%20hastata%20flower%20NC20.jpg
+Photo creator Harry Rose (Macleay Grass Man)
+License CC BY 2.0
+Visual role Provisional flower recognition view for Pavonia, not native area or cultivar certification.
+Caution South American species often grown or escaped in nonnative sites; Australian photo, not native Hays restoration recommendation.
+Do not assert Hays County, west/north counties or BONAP target-range nativity from out-of-area photos.

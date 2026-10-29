@@ -1,0 +1,415 @@
+{
+  "rank": "genus",
+  "name": "Acalypha",
+  "family": "Euphorbiaceae",
+  "included_species": [
+    "Acalypha persimilis",
+    "Acalypha phleoides",
+    "Acalypha radians"
+  ],
+  "lesson_scope": "Genus-comparison learner framework built only from settled canonical species material and the existing Euphorbiaceae family module. It does not reopen range decisions or resolve the outstanding A. persimilis nomenclatural question.",
+  "shared_genus_pattern": {
+    "what_they_share": "Copperleaf relatives with alternate serrate-to-crenate leaves and very small unisexual, apetalous flowers. The pistillate flowers are subtended by conspicuous bracts, styles are divided into narrow branches, and the fruit follows the Euphorbiaceae three-part capsule plan.",
+    "look_here_first": "Go straight to a reproductive stem. Find the pistillate flowers and their bracts, then inspect the divided styles. Use the position and organization of female versus male flowers before relying on leaf shape."
+  },
+  "comparison_matrix": [
+    {
+      "character": "Life history / plant sexes",
+      "persimilis": "Tall ANNUAL; monoecious",
+      "phleoides": "Erect PERENNIAL; monoecious",
+      "radians": "Low spreading PERENNIAL; DIOECIOUS (male/female plants separate)"
+    },
+    {
+      "character": "Male / female spike positions",
+      "persimilis": "Terminal FEMALE spikes and separate AXILLARY MALE spikes, same individual",
+      "phleoides": "ONE terminal MIXED spike; lower FEMALE bracts / upper MALE flowers",
+      "radians": "UNISEXUAL spikes on separate male versus female individuals"
+    },
+    {
+      "character": "Female bract crowding",
+      "persimilis": "LOOSE, rachis visible",
+      "phleoides": "LOOSE, rachis visible",
+      "radians": "CROWDED, rachis largely hidden"
+    },
+    {
+      "character": "Female bract lobe SHAPE and COUNT",
+      "persimilis": "Usually 13–17 long narrow LINEAR lobes (9–17)",
+      "phleoides": "Typically 5–7 triangular/tapered lobes (3–8)",
+      "radians": "Typically 8–10 broad spatulate/spoonlike lobes (7–13)"
+    },
+    {
+      "character": "Leaf outline",
+      "persimilis": "Large OVATE to heart-based, serrated, long petiole",
+      "phleoides": "Ovate/rhombic, serrated, more upright",
+      "radians": "Rounded KIDNEY-shaped, deeply scalloped margins"
+    },
+    {
+      "character": "Existing decisive photo evidence",
+      "persimilis": "Broad leaf/flowering habit, narrow female bract count NOT macro-photographed",
+      "phleoides": "Two new CC0 source-verified photos: male-above-female axis, pointed female bract and stalked gland; individual 5–7 lobe count needs additional sharp specimen",
+      "radians": "Low kidney-shaped habit shown; crowded spatulate bracts / independent sex plants NOT macro-proven"
+    }
+  ],
+  "species_key": [
+    "1. Low spreading plant; small rounded/kidney leaves with DEEP SCALLOPS; female spikes crowded with broad SPOON-lobed bracts. Male flowers on separate plant → Acalypha radians.",
+    "2. Erect perennial with one TERMINAL MIXED inflorescence: lower female bracts plus upper staminate flowers; female bracts LOOSE with 5–7 triangular teeth → Acalypha phleoides.",
+    "3. Taller ANNUAL with broadly ovate heart-based serrate leaves; FEMALE spike terminal and MALE spikes axillary; bracts LOOSE with 13–17 long narrow linear lobes → Acalypha persimilis (= A. ostryifolia current Kew synonym; name proposal remains pending).",
+    "Sterile or soft-focus uncertain? record Acalypha sp., photograph leaf base, stem, female bracts and exact flower-spike origin."
+  ],
+  "exact_structural_differences": [
+    "Sex system is the strongest first split: A. radians is dioecious; A. phleoides and the current A. persimilis concept are monoecious.",
+    "For A. phleoides, photograph the entire terminal bisexual spike so the lower pistillate and upper staminate zones are visible in one frame.",
+    "For A. radians, show the crowded deeply divided pistillate bracts and, when possible, document separate male and female plants.",
+    "A. persimilis should remain provisional at the fine-key level until bract dimensions/lobing, style branching, and exact reproductive-spike placement are independently verified."
+  ],
+  "overlap_and_cautions": [
+    "Do not identify these from leaf shape alone. Leaf form is useful only after reproductive architecture has narrowed the choice.",
+    "All three can present serrate/crenate foliage and inconspicuous flowers; sterile material may be unsafe to species.",
+    "Acalypha persimilis currently carries a nomenclatural note involving older A. ostryifolia usage. Keep that synonymy issue separate from the visual comparison and do not create a duplicate learner concept.",
+    "Color and overall habit are supporting context, not primary separators."
+  ],
+  "realistic_lookalikes": [
+    {
+      "taxon": "Croton",
+      "separate_by": "Look for stellate or scale-like hairs and the Croton reproductive pattern rather than Acalypha's conspicuous pistillate bracts with divided styles."
+    },
+    {
+      "taxon": "Euphorbia",
+      "separate_by": "Find a cyathium: the cup-like Euphorbia inflorescence is fundamentally different from an Acalypha pistillate bract/spike."
+    },
+    {
+      "taxon": "Tragia",
+      "separate_by": "Stinging hairs and Tragia habit are strong routing clues; confirm reproductive architecture rather than touching an unknown plant."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "priority": 1,
+      "role": "matched pistillate-bract macros",
+      "purpose": "Same-scale close-ups for all three species, with arrows to bract margin/lobes and divided styles. This is the most important comparison set."
+    },
+    {
+      "priority": 1,
+      "role": "whole reproductive-axis comparison",
+      "purpose": "Show where pistillate and staminate flowers occur. For A. phleoides, capture the lower-female/upper-male terminal spike in one frame; for A. radians, document unisexual inflorescences on separate plants."
+    },
+    {
+      "priority": 2,
+      "role": "leaf-shape and basal-venation comparison",
+      "purpose": "Same-scale representative leaves: A. persimilis basal 3–5 venation, A. phleoides rhombic-ovate/ovate serration, A. radians rounded-reniform deep crenation. Label as supporting, not decisive."
+    },
+    {
+      "priority": 2,
+      "role": "mature fruit macro",
+      "purpose": "Show the three-part capsule architecture; for A. radians, make the capsule pubescence visible."
+    },
+    {
+      "priority": 3,
+      "role": "sterile-material caution card",
+      "purpose": "Pair similar foliage and explicitly teach that reproductive material is needed for a confident species call."
+    }
+  ],
+  "media_guidance": "Reuse existing project/user/Joey media only when it clearly shows one of the diagnostic roles above. Do not acquire generic gallery photos in this lane; Diagnostic Photo Polish owns acquisition.",
+  "targeted_handoff": {
+    "lane": "Taxonomy + Diagnostic Review",
+    "taxon": "Acalypha persimilis",
+    "request": "Verify from an authoritative flora/specimen treatment the exact pistillate-bract dimensions and lobe/tooth pattern, style-branch characters, and precise staminate-versus-pistillate spike placement that safely separate A. persimilis from A. phleoides and A. radians. Reconcile those characters with current A. persimilis / older A. ostryifolia nomenclature before hardening the final key.",
+    "reason": "Canonical A. persimilis morphology is intentionally provisional; this genus lesson must not invent fine thresholds."
+  },
+  "curation_status": {
+    "version": "1.2-acalypha-three-species-field-key-five-photos-four-arrows-20261021",
+    "last_reviewed": "2026-10-21",
+    "status": "three cards field-ready with photo gaps; phleoides CC0 spike and bracts installed and annotated; other two macro comparisons pending",
+    "species_installation_changed": false,
+    "range_decisions_changed": false,
+    "genus_photo_panels": 5,
+    "photo_pixel_inspected": true,
+    "license_guardrail": "three existing source CC photos, original credits intact, no unverified permissions",
+    "nomenclature_caution": "2025 formal A. ostryifolia vs A. persimilis conservation proposal; user-approved learner card preserved",
+    "genus_anatomy_arrows": 4
+  },
+  "look_here_first": "START WITH A WHOLE FLOWERING STEM, THEN THE FEMALE BRACTS. These three installed Acalypha species are NOT reliably separated by green leaves alone. First ask whether male and female flowers share ONE terminal spike (A. phleoides: female lower, male above), occur on different parts of the SAME annual (A. persimilis/old name ostryifolia: female terminal, male axillary), or occur on SEPARATE plants (A. radians: dioecious). Then magnify FEMALE bracts: phleoides has loosely spaced 5–7 TRIANGULAR lobes; persimilis/ostryifolia has spaced 13–17 long LINEAR fingerlike lobes; radians has CROWDED 8–10 SPOON-SHAPED lobes on a low plant with deeply scalloped kidney leaves. The installed two new Gaiacoyote CC0 phleoides closeups now actually show the upper male vs lower female organs and lobed glandular bracts. The other two species still need equally clear female-bract macros; never invent those arrows or clear name HOLDs.",
+  "shared_traits": [
+    "Euphorbiaceae herbs with ALTERNATE, simple leaves and small reproductive flowers, commonly UNISEXUAL: a STAMINATE flower makes pollen and a PISTILLATE flower makes fruit. Arrangement of the two sexes on the stem is often decisive.",
+    "The female flower is supported by a developing/enlarging PISTILLATE BRACT (a modified leaf associated with an individual female flower); this bract is NOT the green fruit, a petal, or a sepal.",
+    "The usually THREE styles of a pistillate flower are split into many fine branches (MULTIFID/LACINIATE), giving a feathery/fringed appearance at the flower center. A photo must actually resolve the style branches before assigning an arrow.",
+    "Fruits of normal pistillate flowers are commonly 3-lobed, 3-carpellate capsules, often splitting into three fruit sections; some Acalypha species also bear ALLOMORPHIC female flowers/fruits with a different reduced carpel count.",
+    "Leaf silhouette and color alone are poor identifiers: compare spike SEX, terminal versus axillary attachment, bract-tooth shape and size, and mature capsule structure."
+  ],
+  "genus_diagnostics": {
+    "sex_system": "MONOECIOUS = male and female flowers on the SAME individual plant. DIOECIOUS = male and female flowers on DIFFERENT individual plants. RADIANS is dioecious; PHLEOIDES and PERSIMILIS/OSTRYIFOLIA concepts are monoecious. Seeing only female blooms in one image does not prove dioecy.",
+    "pistillate_bract": "Find the BRACT immediately beneath/surrounding one PISTILLATE flower/fruit, usually broadened and toothed or lobed. PHLEOIDES bracts are spaced apart with rachis often visible and ~5–7 tapering TRIANGULAR teeth, about 1/5–1/3 of total bract length. RADIANS has conspicuously CROWDED bracts, their axis usually hidden, with ~8–10 broad SPATULATE (spoon-like) deeply incised lobes to about HALF the bract length. PERSIMILIS/OSTRYIFOLIA concept has many narrow LINEAR divisions (~13–17, FNA historical ostryifolia), a different pattern. These are POST-ANTHESIS enlarged-bract descriptions; young immature bracts can mislead.",
+    "style": "STYLE = the connection above the ovary to its receptive STIGMA. MULTIFID/LACINIATE describes strongly divided, threadlike style branches. Never treat these as stamens (pollen-producing) or as leaf fringes. The existing full plant portraits do not consistently show individual branches in verified focus.",
+    "staminate_spike": "STAMINATE means male/pollen-producing. In PHLEOIDES the upper DISTAL part of one mixed terminal spike is typically male; below is the female/proximal zone. The historical PERSIMILIS/OSTRYIFOLIA concept commonly has separate AXILLARY male spikes and TERMINAL female spikes. RADIANS has male spikes on male plants, not an upper male zone over female bracts on the same individual.",
+    "leaf": "A leaf is SIMPLE (one blade), ALTERNATE, usually SERRATE (sharp sawtooth edges) in PERSIMILIS and PHLEOIDES. RADIANS has small suborbicular or RENIFORM blades (kidney-shaped) with deeply CRENATE (rounded-scalloped) margins. Count margins/veins only after seeing reproductive axes; positions and age change individual leaf shapes.",
+    "branch_habit": "PERSIMILIS is typically an erect ANNUAL; PHLEOIDES an erect perennial in rocky grasslands/limestone; RADIANS a low creeping or ascending PERENNIAL. Habitat is a context clue, not proof of county nativity.",
+    "capsule": "Usually superior three-carpellate, three-lobed CAPSULES (small fruits) with one ovule per locule in typical Euphorbiaceae. After maturity each carpel section may separate as a COCCUS/mericarp. The existing photos are habit-scale rather than reliable opened-capsule dissections.",
+    "allomorphic": "Some Acalypha (including ostryifolia/persimilis sensu older literature) produce additional ALLOMORPHIC PISTILLATE FLOWERS with atypical reduced carpels and fruit. This is an exception to simple 'every flower has 3 carpels' teaching. Collect specimen-stage and species concept before applying a strict key.",
+    "terms": "RACHIS = central stem of an inflorescence. AXILLARY = arising at a leaf/stem junction. TERMINAL = at shoot end. PROXIMAL = nearer plant base, DISTAL = farther out. SPATULATE = narrow at base, spoon-shaped wider tip. LACINIATE = divided into long narrow segments."
+  },
+  "comparison_cards": [
+    {
+      "title": "Shrubby copperleaf vs palmate copperleaf — phleoides / radians",
+      "taxon_ids": [
+        "acalypha-phleoides",
+        "acalypha-radians"
+      ],
+      "look_here_first": "The photograph-level HABIT contrast is strong: erect rhombic/ovate-toothed phleoides vs low spreading deeply lobed kidney-leaved radians. For confirmed reproductive ID: phleoides MONOECIOUS with one TERMINAL mixed spike (female lower, male upper), bracts 5–7 sharply tapering lobes with gaps; radians DIOECIOUS with separate-sex plants and densely overlapping ~8–10 SPATULATE bract lobes.",
+      "photo_requirements": [
+        "whole mixed phleoides spike showing lower pistillate/upper staminate parts at same time",
+        "radians separate photographed male and female plants + crowded female bract macro",
+        "female bract same-scale side by side with actual lobe count"
+      ],
+      "caution": "A photo of one female radians plant alone does not establish two-sex-plant biology; sex system comes from FNA scientific description."
+    },
+    {
+      "title": "Hophornbeam copperleaf vs shrubby copperleaf — persimilis / phleoides",
+      "taxon_ids": [
+        "acalypha-persimilis",
+        "acalypha-phleoides"
+      ],
+      "look_here_first": "PERSIMILIS/OSTRYIFOLIA (annual) has more conspicuous broad ovate 3–5-basally veined leaves, usually terminal female spikes and axillary male spikes, and narrow many-segmented female bracts. PHLEOIDES (perennial) has a mixed terminal axis and fewer (mostly 5–7) broader triangular bract lobes. Do not use an old name to create a duplicate species.",
+      "photo_requirements": [
+        "paired terminal female versus mixed terminal spike with originating axil",
+        "post-anthesis bract margin line drawing plus actual 1–2 cm macro",
+        "ripe seed/capsule verification"
+      ],
+      "caution": "A. persimilis nomenclature is currently under a published 2025 conservation proposal for the familiar A. ostryifolia name; keep the user-approved canonical entry pending scientific naming outcome."
+    },
+    {
+      "title": "Acalypha vs other local Euphorbiaceae",
+      "taxon_ids": [
+        "acalypha-persimilis",
+        "acalypha-phleoides",
+        "acalypha-radians"
+      ],
+      "look_here_first": "Acalypha uses a female flower's enlarging BRACT and divided STYLES. Euphorbia arranges highly reduced flowers into a specialized CUPLIKE CYATHIUM; Croton often has stellate/scaly HAIRS; Stillingia shows distinct lower female and upper male spike zones with a persistent gynobase.",
+      "photo_requirements": [
+        "Euphorbia cyathium face/side macro",
+        "Croton star-shaped hair microscope view",
+        "Stillingia mature 3-lobed gynobase",
+        "Acalypha bract and style paired macro"
+      ],
+      "caution": "These are genus routing cues, not absolute family-wide differences."
+    },
+    {
+      "title": "THREE copperleaf female bracts — triangular vs spatulate vs linear",
+      "taxon_ids": [
+        "acalypha-phleoides",
+        "acalypha-radians",
+        "acalypha-persimilis"
+      ],
+      "look_here_first": "For three-way identification, photograph the FEMALE spike and one bract at 5–10×. Phleoides: loosely spaced 5–7 pointed triangular lobes; radians: crowded 8–10 broadened SPOON-shaped lobes; persimilis/ostryifolia: loosely spaced 13–17 very NARROW finger-like linear lobes. First separate sex system/spike placement. Do not estimate lobe number from full-plant photos.",
+      "field_matrix": [
+        {
+          "character": "Bract lobes",
+          "phleoides": "5–7 triangular (spaced)",
+          "radians": "8–10 spatulate (crowded)",
+          "persimilis": "13–17 linear (spaced)"
+        },
+        {
+          "character": "Flower sexes",
+          "phleoides": "Male above female on ONE terminal axis",
+          "radians": "Separate plants (dioecious)",
+          "persimilis": "Male axillary, female terminal on same annual"
+        },
+        {
+          "character": "Photographic confirmation",
+          "phleoides": "Two Gaiacoyote CC0 photos installed with four structural arrows",
+          "radians": "Exact female lobe macro not installed",
+          "persimilis": "Exact narrow-bract macro not installed"
+        }
+      ],
+      "caution": "2025 published proposal could conserve name A. ostryifolia over A. persimilis; project biological card remains one concept. No source arrows claim the precise lobe count visible until a full-focus matched mature bract photograph is reviewed."
+    }
+  ],
+  "visual_comparison": {
+    "title": "Three Acalypha species — where male and female flowers grow, and how bracts differ",
+    "subtitle": "FIVE physical real-photo panels; TWO new public CC0 macro panels for A. phleoides with FOUR source-inspected structural arrows. Persimilis and radians bract closeups still needed; provenance/name holds preserved.",
+    "memory_rule": "PHLEOIDES = one TERMINAL male-over-female spike / 5–7 pointed lobes. RADIANS = deep kidney-leaf scallops / separate-sex plants / 8–10 broad spoon lobes. PERSIMILIS (ostryifolia) = annual / terminal female + axillary male / 13–17 skinny lobes.",
+    "items": [
+      {
+        "label": "Acalypha persimilis — broad leaves and spikes",
+        "scientific_name": "Acalypha persimilis",
+        "image_role": "annual leafy habit / terminal flowering spikes",
+        "image_url": "content/taxa/Euphorbiaceae/Acalypha/acalypha-persimilis/images/acalypha-persimilis-provisional-face.jpg",
+        "creator": "Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acalypha_persimilis_01.jpg",
+        "caption": "PIXEL-CHECKED: Broad serrated ovate leaves with 3–5 stronger veins radiating near the leaf base, and several green upright flowering spikes. The photo shows spike FORM, but does NOT prove which spike is male/female or resolve the ~13–17 narrow bract segments. The name A. ostryifolia in many floras corresponds to the project's persimilis concept; naming remains under review.",
+        "markers": [],
+        "visual_status": "physically_installed_exact_species; photograph_pixel_inspected; specialist_closeup_and_arrows_pending"
+      },
+      {
+        "label": "Acalypha phleoides — erect spike habit",
+        "scientific_name": "Acalypha phleoides",
+        "image_role": "limestone perennial habit and reproductive axes",
+        "image_url": "content/taxa/Euphorbiaceae/Acalypha/acalypha-phleoides/images/acalypha-phleoides-provisional-face.jpg",
+        "creator": "Gaiacoyote",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acalypha_phleoides_(1).jpg",
+        "caption": "PIXEL-CHECKED: Sparse upright/reclining branched perennial stems against a limestone wall, with narrow ascending spike-like reproductive axes and red-orange dried structures; leaves are relatively small and toothed. This is a genuine look-at-the-plant scene but NOT a verified macro of a 5–7-toothed pistillate bract or an opened capsule. Look for a fully mature fresh mixed terminal spike next.",
+        "markers": [],
+        "visual_status": "physically_installed_exact_species; photograph_pixel_inspected; specialist_closeup_and_arrows_pending"
+      },
+      {
+        "label": "Acalypha radians — low rounded leaves",
+        "scientific_name": "Acalypha radians",
+        "image_role": "low habit and reniform/deep crenate leaves",
+        "image_url": "content/taxa/Euphorbiaceae/Acalypha/acalypha-radians/images/acalypha-radians-provisional-face.jpg",
+        "creator": "DouglasGoldman",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acalypha_radians1.jpg",
+        "caption": "PIXEL-CHECKED: An entire LOW SPREADING plant in leaf litter with numerous small deep-SCALLOPED almost kidney-shaped leaf blades; excellent for low habit and rounded leaf outline. A photograph of one plant does NOT prove it has flowers of just one sex, and individual spatulate female-bract lobes are not confirmed at this scale.",
+        "markers": [],
+        "visual_status": "physically_installed_exact_species; photograph_pixel_inspected; specialist_closeup_and_arrows_pending"
+      },
+      {
+        "label": "4 · SHRUBBY COPPERLEAF — male ABOVE female, real CC0 arrowed spike",
+        "scientific_name": "Acalypha phleoides",
+        "image_url": "content/taxa/Euphorbiaceae/Acalypha/acalypha-phleoides/images/commons-gaiacoyote-cc0-mixed-spike.jpg",
+        "image_fit": "contain",
+        "creator": "Gaiacoyote",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acalypha_phleoides_(2).jpg",
+        "image_role": "Actually visible proximal female bracts and distal narrow male flowers in terminal mixed spike",
+        "caption": "SOURCE PHOTO VERIFIED: Gaiacoyote CC0 exact A. phleoides original 540×528 image. Upper narrow curving staminate segment (male) vs. lower foliaceous bracts surrounding pistillate flowers (female), both on ONE terminal spike. Arrow targets inspected against original; fine style branch count NOT claimed.",
+        "why_it_matters": "A real diagnostic reproductive closeup, replacing vague shape-only comparisons.",
+        "markers": [
+          {
+            "label": "Upper male-flower axis",
+            "label_x": 58,
+            "label_y": 4,
+            "target_x": 70,
+            "target_y": 14
+          },
+          {
+            "label": "Lower female bract",
+            "label_x": 2,
+            "label_y": 82,
+            "target_x": 42,
+            "target_y": 70
+          }
+        ],
+        "visual_status": "source-image inspected 2026-10-21; physical exact-source JPEG stored; four combined structures marked; mobile check pending"
+      },
+      {
+        "label": "5 · SHRUBBY COPPERLEAF — actual female bract and tiny gland arrows",
+        "scientific_name": "Acalypha phleoides",
+        "image_url": "content/taxa/Euphorbiaceae/Acalypha/acalypha-phleoides/images/commons-gaiacoyote-cc0-female-bracts.jpg",
+        "image_fit": "contain",
+        "creator": "Gaiacoyote",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acalypha_phleoides_(3).jpg",
+        "image_role": "Enlarging female bract lobes and marginal stalked glands, not leaf-blade teeth",
+        "caption": "SOURCE PHOTO VERIFIED: CC0 Gaiacoyote original 540×356 shows pointed lobes of enlarged FEMALE bracts and minute dark gland-heads on stalks. Arrows mark an actual bract lobe and an edge gland, NOT pistillate style branches or mature fruit.",
+        "why_it_matters": "A real diagnostic reproductive closeup, replacing vague shape-only comparisons.",
+        "markers": [
+          {
+            "label": "Female bract lobe",
+            "label_x": 3,
+            "label_y": 9,
+            "target_x": 31,
+            "target_y": 27
+          },
+          {
+            "label": "Stalked gland",
+            "label_x": 2,
+            "label_y": 83,
+            "target_x": 23,
+            "target_y": 49
+          }
+        ],
+        "visual_status": "source-image inspected 2026-10-21; physical exact-source JPEG stored; four combined structures marked; mobile check pending"
+      }
+    ],
+    "specialty_photo_targets": [
+      {
+        "priority": 1,
+        "taxa": [
+          "acalypha-persimilis",
+          "acalypha-phleoides",
+          "acalypha-radians"
+        ],
+        "part": "post-anthesis pistillate BRACT size/shape with mm scale",
+        "need": "Show persimilis ~13–17 narrow lobes, phleoides ~5–7 triangular/tapered lobes, radians ~8–10 broad spatulate deeply cleft lobes. Count from SHARP FOCUSED images on mature bracts only.",
+        "status": "PHLEOIDES_CC0_LOBED_BRACT_INSTALLED; PERSIMILIS_RADIANS_MACROS_MISSING"
+      },
+      {
+        "priority": 1,
+        "taxa": [
+          "acalypha-phleoides",
+          "acalypha-persimilis"
+        ],
+        "part": "male versus female FLOWER-SPIKE positions",
+        "need": "Same-stem phleoides terminal mixed spike with female base and male tip; historical persimilis/ostryifolia terminal pistillate versus axillary staminate spikes. Arrows only on verified individual flower sexes.",
+        "status": "PHLEOIDES_MIXED_SPIKE_CC0_INSTALLED; PERSIMILIS_AXILLARY_MALE_VS_TERMINAL_FEMALE_MISSING"
+      },
+      {
+        "priority": 1,
+        "taxa": [
+          "acalypha-radians"
+        ],
+        "part": "separate male and female plants",
+        "need": "Two documented individuals on same site, one staminate and one pistillate, with provenance/scale to demonstrate dioecy. Single existing plant photo does not show this.",
+        "status": "needs_sex_verified_pair"
+      },
+      {
+        "priority": 2,
+        "taxa": [
+          "acalypha-persimilis",
+          "acalypha-phleoides",
+          "acalypha-radians"
+        ],
+        "part": "multifid/laciniate style branches",
+        "need": "Same-scale extreme macro pointing to style, individual stigma branches and one bract; separate from pollen-bearing anthers.",
+        "status": "needs_macro"
+      },
+      {
+        "priority": 2,
+        "taxa": [
+          "acalypha-persimilis",
+          "acalypha-phleoides",
+          "acalypha-radians"
+        ],
+        "part": "opened 3-locular ripe capsule plus allomorphic fruit exception",
+        "need": "In-focus 3-carpellate fruit and dehiscent segments; compare an allomorphic reduced-carpel fruit ONLY when taxon/source-proven.",
+        "status": "needs_dissection"
+      }
+    ],
+    "taxonomy_guardrail": "FNA uses Acalypha ostryifolia; Kew currently lists it as a synonym of A. persimilis. A 2025 formal proposal seeks to conserve older widely used name ostryifolia against persimilis. Preserve current project nomenclature and unresolved species inclusion; do not choose a side via photograph.",
+    "annotation_policy": "Four newly installed photomarker coordinates only on source-viewed Gaiacoyote phleoides CC0 JPEGs (two mixed spike, two female bract/gland); no arbitrary arrows on the remaining three face photos, and no unsupported 5–7 tooth count from a distant view."
+  },
+  "scientific_sources": [
+    {
+      "title": "FNA Acalypha general treatment",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=100064",
+      "purpose": "sex systems, terminal/axillary positions, unusual allomorphic pistillate flowers, enlarged bracts"
+    },
+    {
+      "title": "FNA Acalypha phleoides",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101511",
+      "purpose": "5–7 bract lobes, mixed upper-male/lower-female terminal axis, monoecy"
+    },
+    {
+      "title": "FNA Acalypha radians",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101513",
+      "purpose": "dioecy, low habit, deep crenation, crowded spatulate bracts"
+    },
+    {
+      "title": "FNA Acalypha ostryifolia [current project persimilis]",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416005",
+      "purpose": "traditional name species concept, ~13–17 bract lobes and separate spikes"
+    },
+    {
+      "title": "TAXON 2025 nomenclature conservation proposal",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/tax.13337",
+      "purpose": "formal proposal for widespread name ostryifolia against persimilis, NOT evidence proposal outcome"
+    },
+    {
+      "title": "Kew POWO synonymy ostryifolia -> persimilis",
+      "url": "https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A60453017-2",
+      "purpose": "current alternative scientific nomenclatural view"
+    }
+  ]
+}

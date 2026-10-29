@@ -1,0 +1,9 @@
+Master pool Phase3 preflight source rows 838
+Taxonomy reference https://powo.science.kew.org/results?q=Pavonia%20lasiopetala
+Original exact source photo https://commons.wikimedia.org/wiki/File:Pavonia_lasiopetala.jpg
+Download direct https://commons.wikimedia.org/wiki/Special:Redirect/file/Pavonia%20lasiopetala.jpg
+Photo author Clarence A. Rechenthin / USDA NRCS Texas
+Photo license Public domain (US federal government)
+Role: Provisional Texas rock rose flower recognition; epicalyx bracts and fruits need macro images.
+Caution: Native-by-target-county status not asserted until BONAP range review.
+Local native status not inferred and botanical image roles provisional only.

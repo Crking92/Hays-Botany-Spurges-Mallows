@@ -1,0 +1,50 @@
+{
+  "id": "populus-tristis",
+  "family": "Salicaceae",
+  "genus": "Populus",
+  "species": "tristis",
+  "scientific_name": "Populus tristis",
+  "common_name": "Black cottonwood",
+  "look_here_first": "Find a tall riparian cottonwood with alternate, broadly ovate to heart-shaped finely serrated leaves (spring leaves may look narrower), sticky reddish-brown aromatic winter buds, and pale whitish leaf undersides. Confirm long hanging catkins, cottony seed capsules and twig/bud characters; separate from local Populus deltoides using blade shape, undersides, petiole and fine margin teeth.",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "taxonomy_source": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:776895-1",
+  "synonyms": [
+    "Populus trichocarpa"
+  ],
+  "taxonomic_note": "POWO/WCVP accepts Populus tristis Fisch. and treats Populus trichocarpa Torr. & A.Gray ex Hook. as a synonym; Flora of North America and USDA use Populus trichocarpa as the working accepted name. These refer to the same Western North American black cottonwood concept here; preserve BOTH scientific names and the alternative-taxonomy caution rather than silently dismissing the FNA treatment. Do not create a duplicate Populus trichocarpa card.",
+  "native_range_note": "POWO native range lists Alaska, Western Canada, western states, Baja California Norte; Texas not listed. Central Texas native-range or introduced/invasive badge has NOT been certified. County nativity research remains deferred.",
+  "photo_publication_rights": {
+    "scope": "PUBLIC-WEB-CLEARED",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "change_notice": "Resized and JPEG re-encoded; all embedded EXIF/GPS metadata stripped",
+    "commercial_use_allowed": true
+  },
+  "photo_observed_taxon": "Populus trichocarpa",
+  "photo_observed_taxon_relation": "commons_identified_exact_taxon",
+  "photo_taxonomy_note": "Wikimedia file-level exact-taxonomy image source (not a live iNaturalist RG taxon) or independently reviewed scientific synonym; taxon rank preserved, visual anatomy still provisional.",
+  "images": [
+    {
+      "file": "images/inat-commons-thayne-tuason-black-cottonwood-spring-2.jpg",
+      "role": "Provisional species recognition photograph; exact source taxon reviewed, diagnostic anatomy not visually certified",
+      "creator": "Thayne Tuason",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Populus_trichocarpa_new_leaves_in_spring_2.jpg",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Credit author; image resized and metadata stripped; adapted image under CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-19",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

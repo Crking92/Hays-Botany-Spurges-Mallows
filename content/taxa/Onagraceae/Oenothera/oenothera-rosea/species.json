@@ -1,0 +1,87 @@
+{
+  "id": "oenothera-rosea",
+  "entry_type": "species",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "species": "rosea",
+  "scientific_name": "Oenothera rosea",
+  "authority": "L'Hér. ex Aiton",
+  "common_name": "Rose evening-primrose / rose sundrops",
+  "look_here_first": "A small perennial with pink to rose-purple four-petaled flowers, often in moist or disturbed places.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "FAIL",
+    "range_basis": "Kew places the native U.S. range in southern California to southern Texas. Texas treatments place the species mainly in South Texas and the Trans-Pecos, outside the project's Central Texas target-zone set.",
+    "range_guardrail": "Broad Texas nativity is not treated as Central Texas county evidence.",
+    "native_metrics_excluded": true
+  },
+  "learner_role": "LOOKALIKE_COMPARISON",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial herb",
+      "pink to rose-purple flowers",
+      "four broad petals",
+      "many stems from a woody base",
+      "often moist or disturbed habitat"
+    ],
+    "comparison_training": "Keep as a comparison for pink-flowered Oenothera, but do not count it in the Central Texas native metrics."
+  },
+  "curation_status": {
+    "version": "1.0-b088",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "comparison_retained": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "images": [
+    {
+      "file": "images/oenothera-rosea-provisional-face.jpg",
+      "role": "Flowering habit recognizable face",
+      "creator": "Franz Xaver",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Oenothera_rosea_3.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/gbif-manual-5938313644-faacec5d3.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Flower plus mature capsule and leaf attachment; distinguish similarly colored taxa",
+      "creator": "jennylibe",
+      "license": "CC BY-NC",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/5938313644",
+      "gbif_occurrence_id": "5938313644",
+      "source_determination": "Oenothera rosea Aiton",
+      "accepted_target": "Oenothera rosea",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604735517/original.jpg",
+      "image_dimensions": [
+        759,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

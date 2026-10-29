@@ -1,0 +1,11 @@
+PHOTO FAST-FILL 028 — Passiflora lutea
+Date: 2026-10-06
+Temporary one-photo learner coverage from exact-species/current-taxonomic-concept reusable media.
+Source: https://commons.wikimedia.org/wiki/File:Passiflora_lutea.jpg
+License: CC BY 3.0
+Keep until stronger diagnostic gallery coverage replaces or supplements it.
+Media only; scientific status unchanged.
+
+2026-10-13 PHOTO ENRICHMENT (exact Commons names and license URLs recorded in image-sources.csv):
+- Passiflora_lutea_leaf.jpg (Brucewinter, CC BY-SA 4.0): Birmingham Alabama leaf on 2019-06-03; clear blade margins. Petiole gland omission needs separate macro.
+- Passiflora_lutea_bloom_and_fruit.jpg (Valis55, CC BY 3.0): 2009 Arkansas specimen photo; teaching shows berry supported on vine along with small bloom, NOT underside glands.

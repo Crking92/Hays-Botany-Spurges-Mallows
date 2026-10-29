@@ -1,0 +1,749 @@
+{
+  "id": "euphorbia-roemeriana",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "species": "roemeriana",
+  "scientific_name": "Euphorbia roemeriana",
+  "common_name": "Roemer's spurge",
+  "look_here_first": "LOOK AT THE PAIRED GREEN BRACTS, NOT A RED LEAF SPOT. E. roemeriana is a small annual upright or basally reclining spurge (15–30 cm) with hairless, entire, obovate-to-oblanceolate leaves. Each flowering branch repeatedly forks; in the center find a tiny cyathium framed by TWO rounded green dichasial bracts that are JOINED for about HALF their length, creating a shallow cup. Tiny bright yellow gland structures have SHORT somewhat convergent horns; a smooth, roundish 3-lobed capsule develops nearby. Against E. commutata, the key is CONSISTENT substantial bract fusion rather than distinct or only barely joined pairs. E. longicruris instead has numerous tightly OVERLAPPING cup/leaf-like terminal bracts; E. austrotexana has far narrower leaves and distinct non-overlapping bracts. Mature E. roemeriana seeds have randomly scattered DEEP BROAD PITS and a prominent caruncle; two photographed mature seeds now show pits and caruncles; their absolute size is not photo-calibrated. This taxon has published HAYS COUNTY records in spring-fed Edwards Plateau limestone stream valleys, but the project's formal native-by-county certification remains on hold.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Euphorbia%20roemeriana",
+  "images": [
+    {
+      "file": "images/inat-first-698576640.jpg",
+      "role": "Diagnostic close-up: broad green paired bracts, yellow horned cyathia and developing glabrous fruits",
+      "creator": "Turner Brockman",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/698576640",
+      "observation_url": "https://www.inaturalist.org/observations/381766464",
+      "photo_id": "698576640",
+      "observation_id": "381766464",
+      "source_recorded_photo_license_at_download": "cc-by-sa",
+      "source_recorded_photo_attribution_at_download": "(c) Turner Brockman, some rights reserved (CC BY-SA)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/698576640/large.jpg",
+      "image_dimensions": [
+        1024,
+        768
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes, attribution and ShareAlike terms apply",
+      "photo_review": "Automated source/license/Research Grade/identity match and image-byte verification; provisional, anatomical features unverified",
+      "anatomy_arrows": [
+        {
+          "label": "Rounded paired bracts form a cup",
+          "target_fraction": [
+            0.71,
+            0.52
+          ]
+        },
+        {
+          "label": "Yellow horned cyathial glands",
+          "target_fraction": [
+            0.74,
+            0.43
+          ]
+        },
+        {
+          "label": "Smooth, three-lobed developing capsule",
+          "target_fraction": [
+            0.91,
+            0.53
+          ]
+        }
+      ],
+      "caption": "Roemer's spurge has broad green rounded bracts around tiny yellow, horned cyathial structures; the paired bracts are fused low down into a shallow cup. Separate smooth, three-lobed developing capsules hang beside them. The photograph supports location of these structures, but does not measure precisely how much of the bracts is fused or show true seeds.",
+      "manual_arrow_review": "2026-10-21 original 1024×768 GitHub JPEG opened and inspected. The arrow targets are obvious green reproductive bracts, yellow cyathium, and a large developing 3-lobed capsule. Degree of fusion, exact individual gland horn shape and seed pits require dedicated scaled macro; current image not used for those measurements."
+    },
+    {
+      "file": "images/inat-698576687-review.jpg",
+      "role": "Branching flowering shoot — see repeated green cups",
+      "creator": "(c) Turner Brockman, some rights reserved (CC BY-SA)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/698576687",
+      "observation_url": "https://www.inaturalist.org/observations/381766464",
+      "observation_id": 381766464,
+      "photo_id": 698576687,
+      "source_platform": "iNaturalist API exact accepted species; individual photo-level licence",
+      "study_use": "Botanical education",
+      "public_reuse": "yes",
+      "public_site_use_scope": "Creative Commons terms as stated",
+      "modifications": "Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
+      "photo_review": "OBSERVED identity exact species at research grade and PHOTO license independently verified by iNaturalist; downloaded original JPEG checked. Diagnostic structures and arrow placement NOT yet visually assessed.",
+      "anatomy_arrows": [
+        {
+          "label": "Repeated rounded bract pair",
+          "target_fraction": [
+            0.7,
+            0.25
+          ]
+        },
+        {
+          "label": "Repeated branching flower tips",
+          "target_fraction": [
+            0.22,
+            0.51
+          ]
+        },
+        {
+          "label": "Smooth fruit beside yellow cyathium",
+          "target_fraction": [
+            0.82,
+            0.66
+          ]
+        }
+      ],
+      "image_source_sha256": "9ad7de836af3358dd2b5ffc3fe66380e9ea8ac7074077723cda9274116cafab0",
+      "original_dimensions": [
+        2048,
+        1536
+      ],
+      "image_dimensions": [
+        1800,
+        1350
+      ],
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/698576687/original.jpg",
+      "caption": "Turner Brockman's wider field view shows repeated terminal forks, oval ordinary leaves, rounded reproductive bracts, yellow cyathia and small green fruit. A side-to-side rootline, exact plant height and microscopic fused bract seam are NOT visible.",
+      "manual_arrow_review": "2026-10-21 exact saved JPEG visually reviewed. Pointers target larger clearly distinguishable paired green bracts, ordinary obovate leaf, separate green developing capsule or forking branch; never a not-resolved bract seam or seed pits."
+    },
+    {
+      "file": "images/inat-640357033-review.jpg",
+      "role": "Low creekside shoot with green cupped flowering bracts",
+      "creator": "(c) alyse925, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/640357033",
+      "observation_url": "https://www.inaturalist.org/observations/350934972",
+      "observation_id": 350934972,
+      "photo_id": 640357033,
+      "source_platform": "iNaturalist API exact accepted species; individual photo-level licence",
+      "study_use": "Botanical education",
+      "public_reuse": "yes",
+      "public_site_use_scope": "noncommercial-only",
+      "modifications": "Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
+      "photo_review": "OBSERVED identity exact species at research grade and PHOTO license independently verified by iNaturalist; downloaded original JPEG checked. Diagnostic structures and arrow placement NOT yet visually assessed.",
+      "anatomy_arrows": [
+        {
+          "label": "Rounded green bract cup",
+          "target_fraction": [
+            0.68,
+            0.3
+          ]
+        },
+        {
+          "label": "Smooth developing capsule",
+          "target_fraction": [
+            0.34,
+            0.25
+          ]
+        }
+      ],
+      "image_source_sha256": "88781891a8b891ec057b6ac0f46f662843dd9bc7ebf4756db0a0566b62b15dd1",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "image_dimensions": [
+        1350,
+        1800
+      ],
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/640357033/original.jpg",
+      "caption": "Alyse925's view shows a small plant among oak leaves and calcareous stones. Broad paired bright-green reproductive bracts frame the small yellow cyathia; developing capsules project on slender pedicels. The full root base and true seed are not identifiable.",
+      "manual_arrow_review": "2026-10-21 exact saved JPEG visually reviewed. Pointers target larger clearly distinguishable paired green bracts, ordinary obovate leaf, separate green developing capsule or forking branch; never a not-resolved bract seam or seed pits."
+    },
+    {
+      "file": "images/inat-635025906-review.jpg",
+      "role": "Ordinary obovate stem leaf versus green reproductive bracts",
+      "creator": "(c) Sara Schubert, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/635025906",
+      "observation_url": "https://www.inaturalist.org/observations/348212417",
+      "observation_id": 348212417,
+      "photo_id": 635025906,
+      "source_platform": "iNaturalist API exact accepted species; individual photo-level licence",
+      "study_use": "Botanical education",
+      "public_reuse": "yes",
+      "public_site_use_scope": "noncommercial-only",
+      "modifications": "Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
+      "photo_review": "OBSERVED identity exact species at research grade and PHOTO license independently verified by iNaturalist; downloaded original JPEG checked. Diagnostic structures and arrow placement NOT yet visually assessed.",
+      "anatomy_arrows": [
+        {
+          "label": "Broad ordinary leaf",
+          "target_fraction": [
+            0.71,
+            0.4
+          ]
+        },
+        {
+          "label": "Rounded reproductive bract cup",
+          "target_fraction": [
+            0.43,
+            0.55
+          ]
+        },
+        {
+          "label": "Developing green capsule",
+          "target_fraction": [
+            0.33,
+            0.53
+          ]
+        }
+      ],
+      "image_source_sha256": "7ef2e5f70a36a1804a66a2bf636e03e5ea0e5a4824149f2b3c6a97fcbe31de72",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "image_dimensions": [
+        1350,
+        1800
+      ],
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/635025906/original.jpg",
+      "caption": "Sara Schubert's photo separates an obovate ordinary leaf with rounded tip from the much rounder paired reproductive bracts, with a small yellow gland center and a green capsule on a stalk. The bract fusion length cannot be measured from this oblique angle.",
+      "manual_arrow_review": "2026-10-21 exact saved JPEG visually reviewed. Pointers target larger clearly distinguishable paired green bracts, ordinary obovate leaf, separate green developing capsule or forking branch; never a not-resolved bract seam or seed pits."
+    },
+    {
+      "file": "images/inat-634390191-review.jpg",
+      "role": "Fruit-bearing forks next to hand for field-size context",
+      "creator": "(c) Sage Osterling, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/634390191",
+      "observation_url": "https://www.inaturalist.org/observations/347892288",
+      "observation_id": 347892288,
+      "photo_id": 634390191,
+      "source_platform": "iNaturalist API exact accepted species; individual photo-level licence",
+      "study_use": "Botanical education",
+      "public_reuse": "yes",
+      "public_site_use_scope": "noncommercial-only",
+      "modifications": "Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
+      "photo_review": "OBSERVED identity exact species at research grade and PHOTO license independently verified by iNaturalist; downloaded original JPEG checked. Diagnostic structures and arrow placement NOT yet visually assessed.",
+      "anatomy_arrows": [
+        {
+          "label": "Rounded green reproductive bracts",
+          "target_fraction": [
+            0.44,
+            0.43
+          ]
+        },
+        {
+          "label": "Small developing capsule",
+          "target_fraction": [
+            0.21,
+            0.32
+          ]
+        }
+      ],
+      "image_source_sha256": "4b278d6fa43bc37ef775670adbfcf7d96b2e12d21c3823a00a8598b2c78d217d",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "image_dimensions": [
+        1350,
+        1800
+      ],
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/634390191/original.jpg",
+      "caption": "Sage Osterling's photograph shows slender forking branches with several rounded green flowering cups and small oval green developing capsules. The hand suggests scale but is NOT a ruler for diagnosing capsule/seed size; no mature seed is exposed.",
+      "manual_arrow_review": "2026-10-21 exact saved JPEG visually reviewed. Pointers target larger clearly distinguishable paired green bracts, ordinary obovate leaf, separate green developing capsule or forking branch; never a not-resolved bract seam or seed pits."
+    },
+    {
+      "file": "images/nathan-roemeriana-seed-34980021.jpg",
+      "role": "Exact-species documented detached seed macro from Nathan Taylor; pit and caruncle structures directly verified",
+      "creator": "(c) Nathan Taylor, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/34980021",
+      "source_platform": "iNaturalist, direct observation 22577311 linked in Nathan Taylor's 2019 Euphorbia seed journal",
+      "observation_url": "https://www.inaturalist.org/observations/22577311",
+      "photo_id": 34980021,
+      "observation_id": 22577311,
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "public_site_use_scope": "noncommercial-only",
+      "photo_review": "Exact-species individual photo rights and downloaded JPEG confirmed; source seed micrograph and two structure arrows inspected 2026-10-21. No calibrated seed length.",
+      "anatomy_arrows": [
+        {
+          "label": "Scattered deep seed pits",
+          "target_fraction": [
+            0.53,
+            0.43
+          ]
+        },
+        {
+          "label": "Pale caruncle at attachment end",
+          "target_fraction": [
+            0.15,
+            0.56
+          ]
+        }
+      ],
+      "source_sha256": "a03d85efb2f51bda30c95eead45c2a9f5bf238e0ecaaae7ff23b6822ce8a608f",
+      "image_dimensions": [
+        674,
+        446
+      ],
+      "original_dimensions": [
+        674,
+        446
+      ],
+      "caption": "Confirmed Euphorbia roemeriana seed from Nathan Taylor's published iNaturalist morphology lesson. Deep irregular brown pits interrupt the pale seed coat; a pale fleshy caruncle protrudes at the left. The tiny pits are NOT transverse stripes. No calibrated ruler is shown in the photograph.",
+      "manual_arrow_review": "2026-10-21 actual exact-source JPEG opened, pitted true seed and pale caruncle at left visually checked. Two overlays on unequivocal pitted seed coat and attachment-end caruncle; no millimeter calibration, chalaza direction or measured geometry claimed."
+    },
+    {
+      "file": "images/nathan-roemeriana-seed-34980028.jpg",
+      "role": "Exact-species documented detached seed macro from Nathan Taylor; pit and caruncle structures directly verified",
+      "creator": "(c) Nathan Taylor, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/34980028",
+      "source_platform": "iNaturalist, direct observation 22577311 linked in Nathan Taylor's 2019 Euphorbia seed journal",
+      "observation_url": "https://www.inaturalist.org/observations/22577311",
+      "photo_id": 34980028,
+      "observation_id": 22577311,
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "public_site_use_scope": "noncommercial-only",
+      "photo_review": "Exact-species individual photo rights and downloaded JPEG confirmed; source seed micrograph and two structure arrows inspected 2026-10-21. No calibrated seed length.",
+      "anatomy_arrows": [
+        {
+          "label": "Deep irregular pits",
+          "target_fraction": [
+            0.53,
+            0.36
+          ]
+        },
+        {
+          "label": "Pale fleshy caruncle",
+          "target_fraction": [
+            0.2,
+            0.52
+          ]
+        }
+      ],
+      "source_sha256": "f1bfdec4cee23498b96fe5a88a0782639c8f1a10069fbe5d4a4010969ed8386d",
+      "image_dimensions": [
+        678,
+        494
+      ],
+      "original_dimensions": [
+        678,
+        494
+      ],
+      "caption": "Different view of a Roemer's spurge seed showing widely separated dark pit depressions and the pale caruncle projecting on the left. The pale granular material is associated with the seed surface; no measured scale is provided. Don't call a seed a capsule.",
+      "manual_arrow_review": "2026-10-21 actual exact-source JPEG opened, pitted true seed and pale caruncle at left visually checked. Two overlays on unequivocal pitted seed coat and attachment-end caruncle; no millimeter calibration, chalaza direction or measured geometry claimed."
+    }
+  ],
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "visual_reviewed": true,
+    "photo_source_checked": true,
+    "photo_metadata_count": 7,
+    "photo_files_present": 7,
+    "external_first_photo_install": "2026-10-19",
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "field_status": "FIELD_READY_WITH_BRACT_FUSION_AND_SCALE_PHOTO_GAPS",
+    "last_reviewed": "2026-10-21",
+    "new_photo_source_verified_on": "2026-10-21",
+    "annotated_real_photo_count": 7,
+    "verified_arrow_count": 17,
+    "visual_status": "FIELD_READY_WITH_TRUE_SEED_MACROS; BRACT_SEAM_GAP"
+  },
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "seven_photo_field_key_plus_actual_seed_anatomy",
+    "image_count": 7,
+    "annotated_source_count": 7,
+    "verified_arrow_count": 17,
+    "note": "Seven inspected CC-licensed photos, 17 conservative pointers. Crucial pitted seed/caruncle evidence now installed and annotated in 2 Nathan Taylor micrographs; precise bract-half fusion seam and whole-rooted habit remain gaps."
+  },
+  "photo_note": "Seven exact-species licensed source photos are installed, including five field/anatomy views and two Nathan Taylor mature seed micrographs. Seventeen arrows teach visible bracts, leaves, branch forks, cyathia, developing fruit, true deep seed pits and the pale caruncle. Pointers do not assert a precise half-fused bract seam or seed size without a millimeter reference. Remaining high-value shots are an isolated fused bract seam and rooted whole plant with scale.",
+  "requested_photo_roles": [
+    "whole plant habit",
+    "cyathia and glands",
+    "capsule/seeds and leaf arrangement"
+  ],
+  "entry_type": "provisional_species",
+  "authority": "Scheele",
+  "synonyms": [
+    "Tithymalus roemerianus (Scheele) Small"
+  ],
+  "taxonomic_note": "Accepted Euphorbia roemeriana Scheele, Euphorbia subgenus Esula section Tithymalus, separate from unrelated Amorpha roemeriana, Senegalia roemeriana and Phlox roemeriana. FNA identifies partly fused dichasial bracts as diagnostic against E. commutata and others. Peirson et al. (2014) document specimens from Bandera, Comal, Edwards, Hays, Kerr and Travis; this bibliographic county evidence is retained as a lead, NOT a replacement for the paused BONAP/NAPA county-nativity audit.",
+  "morphology_keys": {
+    "family_pattern": "Euphorbiaceae, Euphorbia subg. Esula sect. Tithymalus. The yellow structures are tiny cyathia (specialized pseudanthia), not ordinary petals, and nearby smooth 3-lobed structures are developing fruits.",
+    "habit": "Annual taprooted small spring herb, erect or sometimes reclining near base, 15–30 cm, glabrous; limestone stream valleys, rich calcareous soils, spring-fed creek canyons and floodplain terraces of the eastern Edwards Plateau.",
+    "leaves": "Main leafy stem: alternate leaves, blade oblanceolate to obovate about 5–20 × 5–10 mm, entire margins, cuneate/attenuate base, rounded tip, hairless faces, pinnate veins; petioles 2–5 mm.",
+    "branching": "Terminal pleiochasium normally forks into 3 branches, repeatedly subdividing 1–4 times into 2-part branches; larger upper bracts similar in shape to obovate main leaves.",
+    "dichasial_bracts": "Key: each CYATHIUM sits between paired broad green reniform-to-semicircular bracts, FUSED to about 1/2 their length; no teeth, rounded or obtuse tips. Existing single closeup shows a cup-like pair but exact fusion percentage remains noncalibrated and partly overlapped.",
+    "cyathia": "Tiny terminal cup/involucre 1.5–2 × 1–1.6 mm, glabrous, with FOUR elliptic-to-trapezoid nectar glands 0.4–0.6 × 0.7–1.2 mm and short 0.1–0.3 mm slightly convergent horns. The prominent yellow parts are gland structures, not conventional flower petals.",
+    "capsules": "Smooth, glabrous, subglobose slightly 3-lobed capsule about 2–2.5 × 2.4–3 mm. The image has developing green fruit, but cannot establish the measured diameter.",
+    "seeds": "Brown oblong-ovoid seeds 1.6–1.8 × 1.4–1.5 mm, with widely scattered deep and broad pits rather than regular ridges. A conic- or kidney-shaped caruncle approximately 0.3–0.4 × 0.4–0.6 mm. Need confirmed ripe loose seed photograph with millimeter scale.",
+    "best_field_traits": [
+      "TWO green round/reniform dichasial bracts FUSED roughly HALF their length, forming cup below cyathium",
+      "Yellow horned gland structures at tiny cyathium (not true petals)",
+      "Glabrous obovate/oblanceolate small leaves with entire margins",
+      "Spring-flowering small 15–30cm annual of calcareous creekside habitat",
+      "Smooth 3-lobed capsule and brown mature seeds with DEEP SCATTERED PITS plus caruncle",
+      "Differentiate from E. commutata (separate or basally barely joined bracts) and E. longicruris (strongly overlapping terminal bracts)"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Euphorbia commutata",
+      "Euphorbia longicruris",
+      "Euphorbia austrotexana",
+      "Euphorbia spathulata"
+    ],
+    "key_distinctions": "E. commutata has paired dichasial bracts mostly separate or narrowly joined at the very base; E. roemeriana persistently has bracts connate about 1/2 length. E. longicruris makes very dense overlapping/IMBRICATE bract clusters and differs in seed morphology. E. austrotexana has much narrower linear to narrowly oblanceolate leaves with bracts distinct (not substantially fused). E. spathulata may have broad green bracts but bract pairs DISTINCT and often SERRULATE margins; glands without horns and capsule surface visibly WARTY; avoid relying on yellow alone.",
+    "field_matrix": [
+      {
+        "feature": "Paired dichasial bracts",
+        "roemeriana": "RENIFORM to semicircular, united about HALF length",
+        "commutata": "Separate or only barely basally united",
+        "longicruris": "Often loosely joined at base but STRONGLY overlapping/imbricate at shoot tips",
+        "austrotexana": "Distinct and not crowded",
+        "spathulata": "Distinct, often serrulate"
+      },
+      {
+        "feature": "Ordinary leaf shape",
+        "roemeriana": "Obovate/oblanceolate 5–20 × 5–10 mm",
+        "commutata": "Similar shape and width, weak separator",
+        "longicruris": "Wedge-shaped to spatulate 5–15 × 2–6 mm",
+        "austrotexana": "Near-linear 5–18 × 0.5–2.5 mm",
+        "spathulata": "Broader variable; can overlap"
+      },
+      {
+        "feature": "Cyathial glands",
+        "roemeriana": "Four glands with SHORT slightly converging horns",
+        "commutata": "Check mature cyathia; tiny structures require a close photo",
+        "longicruris": "More divergent and longer horns 0.5–0.8 mm",
+        "austrotexana": "Crescent glands and diverging horns ~0.5–0.7 mm",
+        "spathulata": "Usually without horns"
+      },
+      {
+        "feature": "Capsule",
+        "roemeriana": "Smooth, slightly 3-lobed",
+        "commutata": "Smooth, may overlap",
+        "longicruris": "Smooth, 3-lobed",
+        "austrotexana": "Smooth",
+        "spathulata": "Distinct verrucose / warty lobes"
+      },
+      {
+        "feature": "Seeds",
+        "roemeriana": "Brown, scattered DEEP BROAD PITS, 1.6–1.8 mm",
+        "commutata": "Seed differs by close detailed measurements; not inferred from current photos",
+        "longicruris": "Gray/purple-gray smaller 1.3–1.6 mm with small strong pits",
+        "austrotexana": "Whitish/gray shallow concavities, usually narrower",
+        "spathulata": "Often smooth/reticulate/weakly ridged, not scattered deep pits"
+      }
+    ]
+  },
+  "field_photo_quickcheck": {
+    "heading": "FIRST LOOK: do the green bracts actually join into one shallow cup?",
+    "featured_photo_indices": [
+      0,
+      5,
+      6,
+      3,
+      1,
+      2,
+      4
+    ],
+    "steps": [
+      "Find a spring-flowering plant on limestone or creek terrace and take whole habit + rooting/groundline shot.",
+      "Look under the yellow reproductive center: there are TWO broad green bracts. Follow the two margins down; do the bracts actually JOIN for a substantial distance (typically ~half)?",
+      "Contrast E. commutata: pairs mostly separate; contrast E. longicruris: terminal bracts strongly stacked/overlapping; contrast E. spathulata: separate/toothed bracts and warty capsule.",
+      "At 10×–20× inspect the yellow cyathium nectar glands with SHORT small horns, rather than confusing cyathium with petals.",
+      "Confirm a smooth, slightly lobed green capsule and photograph an actual ripe detached seed from two angles with a 1mm ruler; seek deep irregular pits + attached caruncle.",
+      "New seed panels: identify TRUE detached mature seeds with deep scattered dark pits; find the pale caruncle at the attachment end. These are not capsules or fruit surfaces. Do not infer absolute seed size from the photos because a scale is absent."
+    ],
+    "warning": "The paired green BR_ACT cup is photographed, but an isolated image proving its precise one-half fusion length is still missing; don't mark imaginary seams. Two real carunculate deep-pitted seeds are now photographed and arrowed, but do not measure 1.6–1.8mm without a ruler. Only FNA morphology supplies that size. County BONAP/NAPA badge still unreviewed."
+  },
+  "diagnostic_image_needs": [
+    {
+      "role": "whole plant in limestone creek habitat",
+      "priority": "high",
+      "requirements": "Rootline-to-inflorescence view with 5cm scale and repeat branching, ideally a Hays or Comal occurrence"
+    },
+    {
+      "role": "bract-pair fused base",
+      "priority": "highest",
+      "requirements": "Microscope/photo with both green paired bracts separated from background and visibly connected for ~1/2 length, 1 mm scale"
+    },
+    {
+      "role": "mature cyathium glands",
+      "priority": "high",
+      "requirements": "10–30× side/top view of 4 yellow glands and short horn orientation; distinguish floral organs from gland"
+    },
+    {
+      "role": "smooth mature 3-lobed capsule",
+      "priority": "medium",
+      "requirements": "Exact-species fruit lateral macro at 1mm scale"
+    },
+    {
+      "role": "optional calibrated seed size",
+      "priority": "medium",
+      "requirements": "Two Nathan Taylor seed macros now verify pits and caruncle. For actual length 1.6–1.8mm add true millimeter scale; do NOT resize these photos to pretend exact absolute measurement."
+    }
+  ],
+  "visual_comparison": {
+    "instance_id": "euphorbia-roemeriana-bract-cyathium-20261021",
+    "title": "Roemer's spurge — fused bract cups, yellow cyathia and true pitted seeds",
+    "subtitle": "Seven individually licensed exact-species photographs; 17 photographed-structure pointers. Includes two documented Nathan Taylor seed micrographs with true deep pits and caruncle. An isolated photographed half-fused bract seam and calibrated seed dimensions remain open.",
+    "items": [
+      {
+        "label": "Rounded bract cup, gland center and capsule",
+        "scientific_name": "Euphorbia roemeriana",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-roemeriana/images/inat-first-698576640.jpg",
+        "image_role": "Diagnostic close-up: broad green paired bracts, yellow horned cyathia and developing glabrous fruits",
+        "source_page": "https://www.inaturalist.org/photos/698576640",
+        "creator": "Turner Brockman",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "image_fit": "contain",
+        "caption": "Roemer's spurge has broad green rounded bracts around tiny yellow, horned cyathial structures; the paired bracts are fused low down into a shallow cup. Separate smooth, three-lobed developing capsules hang beside them. The photograph supports location of these structures, but does not measure precisely how much of the bracts is fused or show true seeds.",
+        "markers": [
+          {
+            "label": "Rounded paired bracts form a cup",
+            "label_x": 52,
+            "label_y": 68,
+            "target_x": 71,
+            "target_y": 52
+          },
+          {
+            "label": "Yellow horned cyathial glands",
+            "label_x": 67,
+            "label_y": 30,
+            "target_x": 74,
+            "target_y": 43
+          },
+          {
+            "label": "Smooth, three-lobed developing capsule",
+            "label_x": 77,
+            "label_y": 75,
+            "target_x": 91,
+            "target_y": 53
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 original 1024×768 GitHub JPEG opened and inspected. The arrow targets are obvious green reproductive bracts, yellow cyathium, and a large developing 3-lobed capsule. Degree of fusion, exact individual gland horn shape and seed pits require dedicated scaled macro; current image not used for those measurements."
+      },
+      {
+        "scientific_name": "Euphorbia roemeriana",
+        "label": "Branching flowering shoot — see repeated green cups",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-roemeriana/images/inat-698576687-review.jpg",
+        "image_role": "Branching flowering shoot — see repeated green cups",
+        "source_page": "https://www.inaturalist.org/photos/698576687",
+        "creator": "(c) Turner Brockman, some rights reserved (CC BY-SA)",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "image_fit": "contain",
+        "caption": "Turner Brockman's wider field view shows repeated terminal forks, oval ordinary leaves, rounded reproductive bracts, yellow cyathia and small green fruit. A side-to-side rootline, exact plant height and microscopic fused bract seam are NOT visible.",
+        "markers": [
+          {
+            "label": "Repeated rounded bract pair",
+            "label_x": 65,
+            "label_y": 15,
+            "target_x": 70,
+            "target_y": 25
+          },
+          {
+            "label": "Repeated branching flower tips",
+            "label_x": 6,
+            "label_y": 65,
+            "target_x": 22,
+            "target_y": 51
+          },
+          {
+            "label": "Smooth fruit beside yellow cyathium",
+            "label_x": 69,
+            "label_y": 73,
+            "target_x": 82,
+            "target_y": 66
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 exact saved JPEG visually reviewed. Pointers target larger clearly distinguishable paired green bracts, ordinary obovate leaf, separate green developing capsule or forking branch; never a not-resolved bract seam or seed pits."
+      },
+      {
+        "scientific_name": "Euphorbia roemeriana",
+        "label": "Low creekside shoot with green cupped flowering bracts",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-roemeriana/images/inat-640357033-review.jpg",
+        "image_role": "Low creekside shoot with green cupped flowering bracts",
+        "source_page": "https://www.inaturalist.org/photos/640357033",
+        "creator": "(c) alyse925, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "caption": "Alyse925's view shows a small plant among oak leaves and calcareous stones. Broad paired bright-green reproductive bracts frame the small yellow cyathia; developing capsules project on slender pedicels. The full root base and true seed are not identifiable.",
+        "markers": [
+          {
+            "label": "Rounded green bract cup",
+            "label_x": 76,
+            "label_y": 41,
+            "target_x": 68,
+            "target_y": 30
+          },
+          {
+            "label": "Smooth developing capsule",
+            "label_x": 18,
+            "label_y": 21,
+            "target_x": 34,
+            "target_y": 25
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 exact saved JPEG visually reviewed. Pointers target larger clearly distinguishable paired green bracts, ordinary obovate leaf, separate green developing capsule or forking branch; never a not-resolved bract seam or seed pits."
+      },
+      {
+        "scientific_name": "Euphorbia roemeriana",
+        "label": "Ordinary obovate stem leaf versus green reproductive bracts",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-roemeriana/images/inat-635025906-review.jpg",
+        "image_role": "Ordinary obovate stem leaf versus green reproductive bracts",
+        "source_page": "https://www.inaturalist.org/photos/635025906",
+        "creator": "(c) Sara Schubert, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "caption": "Sara Schubert's photo separates an obovate ordinary leaf with rounded tip from the much rounder paired reproductive bracts, with a small yellow gland center and a green capsule on a stalk. The bract fusion length cannot be measured from this oblique angle.",
+        "markers": [
+          {
+            "label": "Broad ordinary leaf",
+            "label_x": 76,
+            "label_y": 25,
+            "target_x": 71,
+            "target_y": 40
+          },
+          {
+            "label": "Rounded reproductive bract cup",
+            "label_x": 7,
+            "label_y": 64,
+            "target_x": 43,
+            "target_y": 55
+          },
+          {
+            "label": "Developing green capsule",
+            "label_x": 6,
+            "label_y": 41,
+            "target_x": 33,
+            "target_y": 53
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 exact saved JPEG visually reviewed. Pointers target larger clearly distinguishable paired green bracts, ordinary obovate leaf, separate green developing capsule or forking branch; never a not-resolved bract seam or seed pits."
+      },
+      {
+        "scientific_name": "Euphorbia roemeriana",
+        "label": "Fruit-bearing forks next to hand for field-size context",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-roemeriana/images/inat-634390191-review.jpg",
+        "image_role": "Fruit-bearing forks next to hand for field-size context",
+        "source_page": "https://www.inaturalist.org/photos/634390191",
+        "creator": "(c) Sage Osterling, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "caption": "Sage Osterling's photograph shows slender forking branches with several rounded green flowering cups and small oval green developing capsules. The hand suggests scale but is NOT a ruler for diagnosing capsule/seed size; no mature seed is exposed.",
+        "markers": [
+          {
+            "label": "Rounded green reproductive bracts",
+            "label_x": 52,
+            "label_y": 32,
+            "target_x": 44,
+            "target_y": 43
+          },
+          {
+            "label": "Small developing capsule",
+            "label_x": 21,
+            "label_y": 15,
+            "target_x": 21,
+            "target_y": 32
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 exact saved JPEG visually reviewed. Pointers target larger clearly distinguishable paired green bracts, ordinary obovate leaf, separate green developing capsule or forking branch; never a not-resolved bract seam or seed pits."
+      },
+      {
+        "scientific_name": "Euphorbia roemeriana",
+        "label": "Mature seed: scattered deep pits and caruncle",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-roemeriana/images/nathan-roemeriana-seed-34980021.jpg",
+        "image_role": "Exact-species documented detached seed macro from Nathan Taylor; pit and caruncle structures directly verified",
+        "source_page": "https://www.inaturalist.org/photos/34980021",
+        "creator": "Nathan Taylor",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "caption": "Confirmed Euphorbia roemeriana seed from Nathan Taylor's published iNaturalist morphology lesson. Deep irregular brown pits interrupt the pale seed coat; a pale fleshy caruncle protrudes at the left. The tiny pits are NOT transverse stripes. No calibrated ruler is shown in the photograph.",
+        "markers": [
+          {
+            "label": "Scattered deep seed pits",
+            "label_x": 63,
+            "label_y": 12,
+            "target_x": 53,
+            "target_y": 43
+          },
+          {
+            "label": "Pale caruncle at attachment end",
+            "label_x": 4,
+            "label_y": 81,
+            "target_x": 15,
+            "target_y": 56
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 actual exact-source JPEG opened, pitted true seed and pale caruncle at left visually checked. Two overlays on unequivocal pitted seed coat and attachment-end caruncle; no millimeter calibration, chalaza direction or measured geometry claimed."
+      },
+      {
+        "scientific_name": "Euphorbia roemeriana",
+        "label": "Another mature seed face: caruncle and deep irregular pits",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-roemeriana/images/nathan-roemeriana-seed-34980028.jpg",
+        "image_role": "Exact-species documented detached seed macro from Nathan Taylor; pit and caruncle structures directly verified",
+        "source_page": "https://www.inaturalist.org/photos/34980028",
+        "creator": "Nathan Taylor",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "caption": "Different view of a Roemer's spurge seed showing widely separated dark pit depressions and the pale caruncle projecting on the left. The pale granular material is associated with the seed surface; no measured scale is provided. Don't call a seed a capsule.",
+        "markers": [
+          {
+            "label": "Deep irregular pits",
+            "label_x": 58,
+            "label_y": 12,
+            "target_x": 53,
+            "target_y": 36
+          },
+          {
+            "label": "Pale fleshy caruncle",
+            "label_x": 3,
+            "label_y": 83,
+            "target_x": 20,
+            "target_y": 52
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 actual exact-source JPEG opened, pitted true seed and pale caruncle at left visually checked. Two overlays on unequivocal pitted seed coat and attachment-end caruncle; no millimeter calibration, chalaza direction or measured geometry claimed."
+      }
+    ],
+    "overlay_note": "Turner Brockman CC BY-SA (2); alyse925, Sara Schubert, Sage Osterling CC BY-NC (3); Nathan Taylor CC BY-NC (2). Original iNaturalist source and per-photo license preserved. For a genuinely noncommercial educational site only where NC applies. No source JPEG pixels modified by overlay."
+  },
+  "field_id_finalization": {
+    "review_date": "2026-10-21",
+    "stage": "PASS_IN_PROGRESS",
+    "field_training_status": "CREW_READY_SEVEN_PHOTOS_INCLUDING_TRUE_PITTED_SEEDS; BR_ACT_SEAM_SCALE_GAP",
+    "canonical_photo_count": 7,
+    "real_source_photos_annotated": 7,
+    "verified_anatomy_arrows": 17,
+    "photo_rights": "Two Turner Brockman CC BY-SA 4.0; three additional conditional CC BY-NC field photos (alyse925/Sara Schubert/Sage Osterling); two Nathan Taylor CC BY-NC 4.0 TRUE seed macro photographs from observation 22577311. Each source/creator/license preserved; NC images only on genuinely noncommercial educational site.",
+    "photo_review": "Seven exact-species original JPEGs inspected; 17 markers for visible reproductive bracts, branching, ordinary leaves, yellow cyathia, smooth green capsule plus TWO genuine detached pitted mature seeds and a pale caruncle. The published source specifically identifies both seed images as Euphorbia roemeriana. The bract fusion seam and calibrated scale remain unverified.",
+    "range_note": "Peirson et al. 2014 documents Hays plus five surrounding Central Texas counties. This is evidence in learning notes only. BONAP/NAPA native-by-county certification remains UNREVIEWED per current project fast-mode scope.",
+    "remaining": [
+      "Isolated paired dichasial bracts proving exact approx half-length seam/fusion with millimeter reference",
+      "Whole plant with actual ground line and ruler showing 15–30cm habit",
+      "Optional gland horn side profile showing 0.1–0.3mm short convergence",
+      "Seed absolute 1.6–1.8mm size still requires a scale; pit pattern and caruncle now photographed"
+    ],
+    "new_photo_source_count": 4,
+    "seed_photo_source_status": "Two licensed and physically verified detached-seed photographs installed; four seed-pit/caruncle arrows manually checked 2026-10-21; absolute seed length uncalibrated."
+  },
+  "science_source_links": [
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101642",
+    "https://deepblue.lib.umich.edu/bitstream/handle/2027.42/107503/boj12167.pdf",
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416539",
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101635"
+  ]
+}

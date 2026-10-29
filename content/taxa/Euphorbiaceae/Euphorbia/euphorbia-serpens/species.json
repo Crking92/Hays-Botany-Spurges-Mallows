@@ -1,0 +1,472 @@
+{
+  "id": "euphorbia-serpens",
+  "entry_type": "provisional_species",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "species": "serpens",
+  "scientific_name": "Euphorbia serpens",
+  "authority": "Kunth",
+  "common_name": "Matted sandmat / creeping spurge",
+  "synonyms": [
+    "Chamaesyce serpens"
+  ],
+  "taxonomic_note": "Legacy Master Plant Pool name Chamaesyce serpens is normalized to the current accepted Euphorbia name.",
+  "look_here_first": "START at a stem NODE: E. serpens is often a creeping plant that produces ADVENTITIOUS ROOTS at nodes in contact with soil. Look for a BROAD fused white-to-pink triangular stipule scale. Independent photo-proved characters: glabrous THREE-LOBED capsules and a smooth SEED without strong crosswise ribs. Contrast E. prostrata's hairy capsule KEELS and strongly transversely ridged seed. The installed 'flowering mat' image actually shows a CYATHIUM macro, not a full-plant mat. Node-root macro has noncommercial/source-restricted reuse and must be kept out of public website copy.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Hays-local legacy Chamaesyce source; current Kew treats Chamaesyce serpens as a synonym of accepted Euphorbia serpens, native in Texas.",
+    "range_guardrail": "Installed for active visual learning; broader exact-county reconciliation deferred."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Euphorbia sect. Anisophyllum sandmat: opposite leaves, milky latex, tiny cyathia, and 3-lobed capsules; habit, stipules, hairiness, fruit, and seed are the most useful field structures.",
+    "growth_form": "Annual with slender taproot; stems strictly prostrate, frequently mat-forming and rooting at nodes, about 15–50 cm, glabrous. The local Williamson County treatment notes adventitious roots are commonly 1 or 2 per rooted node.",
+    "leaves": "Opposite; blades ovate, oblong, or orbiculate, usually 2–7(–9) × 2–6 mm; base asymmetric and rounded to subcordate; margins entire; apex rounded; surfaces glabrous and without a red blotch.",
+    "stipules": "Stipules are paired and fused across the node into conspicuous broad-deltate, white-to-pink membranous scales about 0.5–1(–1.2) mm; this fused scale is a major contrast with E. prostrata's upper-free/lower-fused pattern and E. villifera's distinct filiform stipules.",
+    "cyathium": "Cyathia solitary at distal nodes; 4 yellow oblong glands with small equal white-to-pink appendages forming a narrow rim at the gland edge.",
+    "fruit": "Capsule broadly ovoid, oblate, or subglobose, about 1.3–1.4 × 1.3–1.7 mm, glabrous.",
+    "seed": "Seeds white to gray or light pink, ovoid, bluntly 3–4 angled in cross section, about 0.7–1.1 × 0.4–0.7 mm, smooth.",
+    "best_field_traits": [
+      "Strictly prostrate, low spreading annual with small opposite rounded leaves; not all photographed flower macros show mat habit.",
+      "Stems often put out adventitious ROOTS where nodes touch ground; evidence exists in historical research photo but that CC BY-NC-SA item is NOT eligible for public web distribution.",
+      "Broad triangular white-to-pink STIPULE SCALES are fused across nodes, unlike prostrata's partly free narrow stipules.",
+      "Stems and fruit essentially GLABROUS (without conspicuous hairs).",
+      "Three-lobed glabrous capsule around 1.3–1.7 mm across.",
+      "Seeds approximately 0.7–1.1 mm with no strong transverse ridges; original 1 mm scale source photo covers surface.",
+      "Tiny cyathia with dark nectar glands and small white appendages; don't mistake them for four separate petals.",
+      "Texas-native state-level recognition does not resolve this project's county target-zone hold."
+    ],
+    "comparison_training": "Against E. prostrata: check a node first—serpens frequently roots there and has fused broad-deltate stipule scales; prostrata does not root at nodes and has an upper-free/lower-fused stipule pattern. Serpens is also glabrous with glabrous capsules and smooth seeds, while prostrata is crisped-villous with hairy capsule keels and ridged seeds. Against E. villifera, serpens is a glabrous rooted mat with fused scales; villifera is usually erect/ascending with distinct filiform stipules and papillate surfaces.",
+    "crew_field_protocol": [
+      "Recognize a tiny creeping Euphorbia by opposite small leaves; don't guess from red spots.",
+      "Look at multiple SOIL-CONTACT nodes for rooting and inspect pale stipules from both stem sides.",
+      "Photograph a 3-lobed fruit, noting whether the raised KEELS are hairy or glabrous.",
+      "Photograph a released mature SEED with 1–2 mm ruler, compare transverse ridges.",
+      "If only a low mat/flower photo, identify to sandmat group rather than force species."
+    ],
+    "county_range_note": "Learner card remains PROVISIONAL; native target-zone threshold not yet certified and metrics excluded."
+  },
+  "curation_status": {
+    "version": "2.0-photo-verified-sandmat-pair",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-21",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "visual_status": "diagnostic-gallery-polished-private-study",
+    "annotated_real_photo_count": 4,
+    "verified_arrow_count": 8,
+    "finished_field_id_pass": "CREW_READY; NODE_AND_RANGE_HOLDS",
+    "required_to_finish": [
+      "Legally reusable rooted-node closeup exact E. serpens",
+      "True full-plant mat photo, because 01 shows cyathium closeup",
+      "Paired 2-sided stipule and node-rooting comparison with E. prostrata"
+    ],
+    "field_status": "FIELD_READY_WITH_ROOTED_NODE_PUBLIC_PHOTO_GAP"
+  },
+  "photo_note": "Diagnostic gallery now adds a true rooted-node view to the existing stipule, fruit, seed, and flowering-mat images. The rooted-node image is exact-species study material with public reuse disabled; the four Commons images remain publicly reusable under their recorded licenses. 2026-10-20: original face rechecked: macro cyathium, NOT whole mat. Node-root image remains CC BY-NC-SA public_reuse=no and must be omitted from Pages.",
+  "images": [
+    {
+      "file": "images/euphorbia-serpens-provisional-face.jpg",
+      "role": "Individual tiny cyathium flower-like cup, NOT an entire flowering mat",
+      "creator": "Rahooda",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_serpens_flower.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "anatomy_arrows": [
+        {
+          "label": "Four dark nectar glands",
+          "target_fraction": [
+            0.7,
+            0.28
+          ]
+        },
+        {
+          "label": "White gland appendages",
+          "target_fraction": [
+            0.39,
+            0.45
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-20: actual canonical source JPEG pixel image visually inspected; precise arrows only on visible botanical parts; original source scale preserved."
+    },
+    {
+      "file": "images/02-stipules.jpg",
+      "role": "Stem/node macro / fused deltate stipules",
+      "creator": "Stefan.lefnaer",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_serpens_sl36.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "anatomy_arrows": [
+        {
+          "label": "Broad fused stipule scale",
+          "target_fraction": [
+            0.45,
+            0.35
+          ]
+        },
+        {
+          "label": "Swollen smooth node",
+          "target_fraction": [
+            0.5,
+            0.5
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-20: actual canonical source JPEG pixel image visually inspected; precise arrows only on visible botanical parts; original source scale preserved."
+    },
+    {
+      "file": "images/03-fruit.jpg",
+      "role": "Fruit/capsule macro / glabrous capsule",
+      "creator": "Rahooda",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_serpens_fruit.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "anatomy_arrows": [
+        {
+          "label": "Hairless capsule face",
+          "target_fraction": [
+            0.46,
+            0.47
+          ]
+        },
+        {
+          "label": "Three-lobed fruit",
+          "target_fraction": [
+            0.55,
+            0.61
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-20: actual canonical source JPEG pixel image visually inspected; precise arrows only on visible botanical parts; original source scale preserved."
+    },
+    {
+      "file": "images/04-seed.jpg",
+      "role": "Mature seed macro / smooth seed surface",
+      "creator": "Stefan.lefnaer",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_serpens_sl58.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "anatomy_arrows": [
+        {
+          "label": "No strong transverse ridges",
+          "target_fraction": [
+            0.51,
+            0.49
+          ]
+        },
+        {
+          "label": "One mature seed",
+          "target_fraction": [
+            0.58,
+            0.61
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-20: actual canonical source JPEG pixel image visually inspected; precise arrows only on visible botanical parts; original source scale preserved."
+    },
+    {
+      "file": "images/05-node-rooting.jpg",
+      "role": "Stem node macro / adventitious root emerging from node",
+      "creator": "Nathan Taylor",
+      "license": "CC BY-NC-SA",
+      "source_page": "https://www.inaturalist.org/guide_taxa/354763",
+      "study_use": "yes",
+      "public_reuse": "no"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "four_real_source_verified_photo_panels_eight_arrows",
+    "image_count": 5,
+    "filled_at": "2026-10-07",
+    "note": "Four CC BY-SA real macro panels with 8 verified source-pixel pointers demonstrate distinctive FUSED broad stipule scale, hairless fruit and relatively smooth true seed. Rooting at soil-contact nodes is botanically important but current node-rooting source remains excluded under separate rights/identity review; don't imply it is published.",
+    "annotated_photo_count": 4,
+    "verified_arrow_count": 8
+  },
+  "comparisons": {
+    "confused_with": [
+      "Euphorbia prostrata",
+      "Euphorbia maculata",
+      "Euphorbia humistrata",
+      "Euphorbia albomarginata",
+      "Euphorbia villifera"
+    ],
+    "lookalike_matrix": [
+      {
+        "character": "Habit",
+        "Euphorbia serpens": "strictly prostrate, often mat-forming and rooting at nodes",
+        "Euphorbia prostrata": "prostrate/decumbent, usually not tightly mat-forming",
+        "Euphorbia villifera": "usually erect to ascending"
+      },
+      {
+        "character": "Node rooting",
+        "Euphorbia serpens": "frequently roots at nodes; often 1–2 adventitious roots per rooted node",
+        "Euphorbia prostrata": "does not root at nodes",
+        "Euphorbia villifera": "usually erect/ascending; node-rooting is not the defining growth pattern"
+      },
+      {
+        "character": "Stipule architecture",
+        "Euphorbia serpens": "pairs connate into conspicuous broad-deltate membranous scales",
+        "Euphorbia prostrata": "upper-side pair free; lower-side pair fused across node",
+        "Euphorbia villifera": "distinct, filiform stipules"
+      },
+      {
+        "character": "Hairiness",
+        "Euphorbia serpens": "glabrous",
+        "Euphorbia prostrata": "crisped-villous on stems/leaves; fruit hairy on keels",
+        "Euphorbia villifera": "usually conspicuously villous"
+      },
+      {
+        "character": "Leaf margin",
+        "Euphorbia serpens": "entire",
+        "Euphorbia prostrata": "serrulate at least distally",
+        "Euphorbia villifera": "entire or serrulate"
+      },
+      {
+        "character": "Stipules",
+        "Euphorbia serpens": "connate into conspicuous deltate scale",
+        "Euphorbia prostrata": "triangular-subulate, lower side connate/upper side often distinct",
+        "Euphorbia villifera": "distinct, filiform"
+      },
+      {
+        "character": "Capsule",
+        "Euphorbia serpens": "glabrous",
+        "Euphorbia prostrata": "hairy along keels/base",
+        "Euphorbia villifera": "glabrous"
+      },
+      {
+        "character": "Seed",
+        "Euphorbia serpens": "smooth, bluntly 3–4 angled",
+        "Euphorbia prostrata": "sharply 4-angled with transverse ridges",
+        "Euphorbia villifera": "weakly 4-angled, smooth to faintly rugose"
+      }
+    ],
+    "key_distinctions": "The fastest split is a node: adventitious root + fused deltate stipule scale strongly favors E. serpens. Complete glabrousness, a glabrous capsule, and a smooth seed provide independent confirmation.",
+    "crew_key": [
+      "Prostrata: HAIRY capsule keels + STRONGLY RIDGED seeds.",
+      "Serpens: GLABROUS capsule + SMOOTH seed without strong crosswise ribs.",
+      "Prostrata: upper-side stipules free and lower fused; serpens: broad, fused triangular scales.",
+      "Serpens OFTEN roots at contact nodes, prostrata usually does not. Absence of a root in ONE view is not proof.",
+      "Without capsule or seed, label E. prostrata–serpens group."
+    ],
+    "unreliable_traits": [
+      "Red leaf spots (variable even in E. maculata)",
+      "Low mat habit alone",
+      "Late-season stem redness",
+      "Seed apparent size on phone screen without real scale"
+    ]
+  },
+  "unreliable_characters": [
+    "prostrate habit by itself",
+    "small leaf size by itself",
+    "disturbed habitat",
+    "stem color"
+  ],
+  "diagnostic_image_needs": [
+    "whole rooted mat habit",
+    "fused stipule macro",
+    "fruit/capsule macro",
+    "mature seed macro",
+    "matched E. prostrata fruit comparison"
+  ],
+  "photo_research": {
+    "status": "POLISHED_DIAGNOSTIC_GALLERY_MIXED_REUSE",
+    "installed_roles": [
+      "flowering mat",
+      "fused stipules",
+      "fruit/capsule",
+      "mature seed",
+      "node-rooting macro"
+    ],
+    "next_priority": [
+      "matched E. serpens vs E. prostrata fruit plate"
+    ]
+  },
+  "visual_comparison": {
+    "instance_id": "euphorbia-serpens-verified-field-20261020",
+    "title": "Euphorbia serpens — smooth fruit and seed",
+    "subtitle": "Four verified exact-species CC/Commons photos with eight anatomy arrows on actual saved source images. Source restrictions preserved, and no invisible root/nonroot photo claims.",
+    "items": [
+      {
+        "label": "Not a whole mat: tiny Euphorbia cyathium",
+        "scientific_name": "Euphorbia serpens",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-serpens/images/euphorbia-serpens-provisional-face.jpg",
+        "image_role": "Real macro of a tiny flower-like cyathium with four purple glands and white appendages",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_serpens_flower.jpg",
+        "creator": "Rahooda",
+        "license": "CC BY-SA 4.0",
+        "caption": "This is a close-up of a single CYATHIUM, NOT a whole mat. Four dark glands with small white petal-like appendages surround highly reduced flowers; these are not four ordinary petals.",
+        "why_it_matters": "Crew learns to distinguish the whole reproductive cup from a three-lobed fruit.",
+        "markers": [
+          {
+            "label": "Four dark nectar glands",
+            "label_x": 66,
+            "label_y": 12,
+            "target_x": 70,
+            "target_y": 28
+          },
+          {
+            "label": "White gland appendages",
+            "label_x": 5,
+            "label_y": 58,
+            "target_x": 39,
+            "target_y": 45
+          }
+        ]
+      },
+      {
+        "label": "The broad fused stipule scale",
+        "scientific_name": "Euphorbia serpens",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-serpens/images/02-stipules.jpg",
+        "image_role": "Microscopic node with wide pale/pink fused triangular membranous scale",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_serpens_sl36.jpg",
+        "creator": "Stefan.lefnaer",
+        "license": "CC BY-SA 4.0",
+        "caption": "The pale/pink membrane wraps across the node like one broad triangular scale; the green stem is smooth-looking. The original 2 mm photo bar is preserved. This is not a root.",
+        "why_it_matters": "The fused broad-deltate stipules support E. serpens more than prostrata's narrow, partly free ones.",
+        "markers": [
+          {
+            "label": "Broad fused stipule scale",
+            "label_x": 8,
+            "label_y": 30,
+            "target_x": 45,
+            "target_y": 35
+          },
+          {
+            "label": "Swollen smooth node",
+            "label_x": 69,
+            "label_y": 59,
+            "target_x": 50,
+            "target_y": 50
+          }
+        ]
+      },
+      {
+        "label": "Glabrous three-lobed capsule",
+        "scientific_name": "Euphorbia serpens",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-serpens/images/03-fruit.jpg",
+        "image_role": "Actual ripe-looking capsule with smooth surfaces and visible lobe grooves",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_serpens_fruit.jpg",
+        "creator": "Rahooda",
+        "license": "CC BY-SA 4.0",
+        "caption": "The green capsule has three rounded lobes and appears completely glabrous. Compare the sharp projecting hairs on prostrata's capsule keel.",
+        "why_it_matters": "One of the simplest small-character distinctions using a real macro.",
+        "markers": [
+          {
+            "label": "Hairless capsule face",
+            "label_x": 8,
+            "label_y": 20,
+            "target_x": 46,
+            "target_y": 47
+          },
+          {
+            "label": "Three-lobed fruit",
+            "label_x": 64,
+            "label_y": 81,
+            "target_x": 55,
+            "target_y": 61
+          }
+        ]
+      },
+      {
+        "label": "Smooth-looking mature seed",
+        "scientific_name": "Euphorbia serpens",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-serpens/images/04-seed.jpg",
+        "image_role": "Single genuine yellowish seed without strong repeated transverse ridges",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_serpens_sl58.jpg",
+        "creator": "Stefan.lefnaer",
+        "license": "CC BY-SA 4.0",
+        "caption": "Unlike E. prostrata's seed, this one has no conspicuous crosswise RIBS. Fine surface texture is visible; 'smooth' here means lacking the strong transverse ridges, not perfectly glasslike. Source original scale bar 1 mm.",
+        "why_it_matters": "Makes the seed comparison honest at real photographic resolution.",
+        "markers": [
+          {
+            "label": "No strong transverse ridges",
+            "label_x": 6,
+            "label_y": 35,
+            "target_x": 51,
+            "target_y": 49
+          },
+          {
+            "label": "One mature seed",
+            "label_x": 63,
+            "label_y": 76,
+            "target_x": 58,
+            "target_y": 61
+          }
+        ]
+      }
+    ],
+    "overlay_note": "Cyathium and fruit © Rahooda CC BY-SA 4.0; stipule and seed © Stefan.lefnaer CC BY-SA 4.0. Restricted Nathan Taylor node-root photo retained as private study metadata and not displayed in public annotated views."
+  },
+  "field_photo_quickcheck": {
+    "heading": "Matted sandmat: FUSED stipule, SMOOTH fruit and seed",
+    "featured_photo_indices": [
+      1,
+      2,
+      3,
+      0
+    ],
+    "steps": [
+      "Find a broad fused membranous stipule scale at a leaf node.",
+      "Compare the distinctly smooth three-lobed capsule with E. prostrata's hairy capsule keels.",
+      "Find the mature smoothish seed: lacks repeated bold transverse ridges shown in the prostrata macro.",
+      "Check for little adventitious roots at real soil-contact nodes; the original study photo exists but is NOT a public training illustration."
+    ],
+    "field_rule": "Glabrous capsule, mature seed without strong crosswise ribs and broad fused stipule scale support E. serpens.",
+    "warning": "The strongest node-root image is rights restricted; do not present it as a public photo. Absence of strong seed ridges does not mean the photo must look featureless."
+  },
+  "field_id_finalization": {
+    "review_date": "2026-10-21",
+    "stage": "FIELD_READY_WITH_ROOTING_AND_HABIT_PHOTO_GAPS",
+    "reviewed_source_photo_count": 4,
+    "verified_anatomy_arrows": 8,
+    "field_training_status": "CREW_READY_FOR_FRUIT_AND_SEED_RECOGNITION; ROOT_AND_NODE_PHOTO_GAPS",
+    "source_review": "Four physical canonical licensed JPEG files individually fetched and visually inspected; 8 markers on exact photographed habit/cyathium, stipule, fruit and seed; no other photos relabeled or rights broadened.",
+    "missing": [
+      "License-and-source-verified full spreading/creeping mat habit (current face is CYATHIUM only)",
+      "Source-cleared true rooting-at-node macro; existing research reference must remain unfeatured",
+      "Optional paired 2-sided node/stipule comparison against E. prostrata"
+    ],
+    "native_range_hold": "PROVISIONAL and native_metrics_excluded kept unchanged",
+    "closeout_note": "2026-10-21 diagnostic fused stipule, smooth fruit, and smooth true seed support field training; do not represent the CC BY-NC-SA study photo as released to site."
+  },
+  "diagnostic_photo_requirements": [
+    {
+      "role": "Legally reusable rooted-node closeup exact E. serpens",
+      "status": "OPEN"
+    },
+    {
+      "role": "True full-plant mat photo, because 01 shows cyathium closeup",
+      "status": "OPEN"
+    },
+    {
+      "role": "Paired 2-sided stipule and node-rooting comparison with E. prostrata",
+      "status": "OPEN"
+    }
+  ],
+  "curated_sources": [
+    "https://w3.biosci.utexas.edu/prc/K12/pages/Euphorbia%20prostrata.html",
+    "https://w3.biosci.utexas.edu/prc/K12/pages/Euphorbia%20serpens.html",
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=318097"
+  ]
+}

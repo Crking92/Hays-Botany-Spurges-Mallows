@@ -1,0 +1,37 @@
+{
+  "id": "pavonia-hastata",
+  "family": "Malvaceae",
+  "genus": "Pavonia",
+  "species": "hastata",
+  "scientific_name": "Pavonia hastata",
+  "common_name": "Spearleaf swampmallow (introduced comparison)",
+  "look_here_first": "Look for a shrubby mallow with spear-shaped or hastate leaves and five pale pink petals marked with darker centers; inspect staminal column, calyx and epicalyx bracts.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Pavonia%20hastata",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "South American species often grown or escaped in nonnative sites; Australian photo, not native Hays restoration recommendation.",
+  "images": [
+    {
+      "file": "images/commons-pavonia-hastata.jpg",
+      "role": "Provisional flower recognition view for Pavonia, not native area or cultivar certification.",
+      "creator": "Harry Rose (Macleay Grass Man)",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pavonia_hastata_flower_NC20.jpg",
+      "study_use": "Noncommercial visual botanical learner",
+      "public_reuse": "Attribution to photographer/source and original CC license required"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

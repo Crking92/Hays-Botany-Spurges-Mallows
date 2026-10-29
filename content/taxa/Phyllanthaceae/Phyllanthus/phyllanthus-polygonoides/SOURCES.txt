@@ -1,0 +1,11 @@
+Source: approved Master Plant Pool (learner inclusion only).
+Observation: https://www.inaturalist.org/observations/270810177
+Photo: https://www.inaturalist.org/photos/487073350
+Original identification requires deeper review; county native status not asserted.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-16T12:18:49.674527+00:00
+Phyllanthus polygonoides Nutt. ex Spreng.
+https://www.gbif.org/occurrence/5938529380
+sonoresmore | CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+Target visual view (NOT YET verified): Branchlet phyllotaxy, tiny axillary flowers and seed capsule
+No anatomy arrows; no scientific or native-range changes.

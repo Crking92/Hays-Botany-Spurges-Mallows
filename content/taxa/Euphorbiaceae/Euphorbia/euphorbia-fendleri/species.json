@@ -1,0 +1,664 @@
+{
+  "id": "euphorbia-fendleri",
+  "entry_type": "provisional_species",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "species": "fendleri",
+  "scientific_name": "Euphorbia fendleri",
+  "authority": "Torr. & A.Gray",
+  "common_name": "Fendler's sandmat / Fendler's spurge",
+  "synonyms": [
+    "Chamaesyce fendleri"
+  ],
+  "taxonomic_note": "Legacy Master Plant Pool name Chamaesyce fendleri is normalized to the current accepted Euphorbia name.",
+  "look_here_first": "START WITH LOW, SMOOTH, AND ROUND. Fendler's sandmat (E. fendleri) is a small perennial with clustered prostrate to ascending GLABROUS stems from a woody thickened crown (woody root not photographed in any cleared public photo yet). Leaves are opposite, small, broad and rounded-to-ovate, with ENTIRE margins rather than the narrow linear blades of E. angusta. Look closely for glabrous 3-lobed green capsule and distinct linear stipules. True photographed detached seeds are pale and strongly FOUR-ANGLED, with slight wrinkles and occasional depressions, NOT regular prominent transverse seed ridges. Compare E. serpens (tiny annual mat with fused scale stipules) and E. angusta (erect, narrow, strigose leaves); cyathial gland appendage size and color are highly variable and should not lead the identification. Formal BONAP/NAPA native-by-county badge remains on hold.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Hays-local legacy Chamaesyce source; current Kew explicitly treats Chamaesyce fendleri as a synonym of Euphorbia fendleri.",
+    "range_guardrail": "Installed for active visual learning; broader exact-county reconciliation deferred."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Euphorbia sect. Anisophyllum sandmat. Habit longevity, stipules, leaf margins, capsule surface, and seed form are more reliable than gland-appendage shape.",
+    "growth_form": "Perennial with woody, thickened taproot; stems usually prostrate, decumbent, or ascending, very rarely erect, densely clustered from the woody crown, about 5–12 cm.",
+    "stems": "Glabrous.",
+    "leaves": "Usually opposite, rarely whorled; blades typically orbiculate to ovate, rarely almost lanceolate, about 3–8 × 2.5–7 mm; base slightly asymmetric and slightly cordate to rounded/obtuse; margins entire; surfaces glabrous.",
+    "stipules": "Distinct, narrowly linear, about 0.5–1 mm, glabrous.",
+    "cyathium": "Solitary at distal nodes. Four yellow-green to reddish glands; appendages absent or white/pink and highly variable in size/shape, so appendage form should not be used as a primary ID character.",
+    "fruit": "Capsule depressed-globose, about 2–2.4 × 2.2–2.5 mm, glabrous.",
+    "seed": "Seeds white, ovoid-pyramidal, prominently 4-angled in cross section, about 1.7–2 × 1–1.2 mm, smooth to slightly wrinkled.",
+    "best_field_traits": [
+      "perennial with woody thickened taproot/crown",
+      "dense cluster of very low glabrous stems",
+      "small orbiculate-to-ovate entire glabrous leaves",
+      "distinct narrow-linear stipules",
+      "glabrous depressed-globose capsule",
+      "large white prominently 4-angled seed"
+    ],
+    "comparison_training": "Against the tiny annual sandmats, the woody perennial base is a major clue. Against E. angusta, E. fendleri stays low and has short rounded leaves; E. angusta is erect with very narrow distal leaves. Do not lean heavily on involucral gland appendage shape because it is variable in E. fendleri."
+  },
+  "curation_status": {
+    "version": "1.4-diagnostic-photo-polish-2026-10-08",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-21",
+    "photo_metadata_count": 8,
+    "photo_files_present": 8,
+    "visual_status": "FIELD_READY_WITH_ROOTED_CROWN_AND_STIPULE_PUBLIC_MACRO_GAPS",
+    "field_status": "FIELD_READY_WITH_MINOR_PHOTO_GAPS",
+    "visual_reviewed": true,
+    "photo_source_checked": true
+  },
+  "photo_note": "Eight saved exact-species photos. FIVE photo files have individually traceable Commons CC BY-SA or CC BY-NC licensing for a genuinely noncommercial educational public learner, and all FIVE now have 14 manually verified structure annotations on actual saved source pixels (oval entire leaves, smooth stems, cyathial gland appendages, smooth three-lobed capsule with styles, dissected fruit versus true loose seed, four-angled pale seed and authored scale divisions). THREE UT Austin composite/voucher/stipule images lack explicit public-reuse clearance and remain withheld; historical internal descriptions may still refer to them. Woody perennial rooted crown still lacks a legally reusable photo; maturity of the isolated seeds is not certified.",
+  "images": [
+    {
+      "file": "images/euphorbia-fendleri-provisional-face.jpg",
+      "role": "Close flowering-shoot recognition: rounded leaves, smooth reddish stems, white cyathial gland appendages (NOT full rooted habit)",
+      "creator": "Stan Shebs",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_fendleri_3.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "caption": "Stan Shebs' licensed close view shows pairs of broad rounded-to-ovate leaves along smooth reddish branching stems and white-to-cream cyathial gland appendages. This is NOT a rooted whole-plant image; the woody perennial crown is not visible.",
+      "anatomy_arrows": [
+        {
+          "label": "Broad rounded leaf blade",
+          "target_fraction": [
+            0.326,
+            0.321
+          ]
+        },
+        {
+          "label": "White gland appendage around cyathium",
+          "target_fraction": [
+            0.587,
+            0.415
+          ]
+        },
+        {
+          "label": "Smooth pinkish branch",
+          "target_fraction": [
+            0.668,
+            0.586
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-21 visually inspected canonical real JPEG: leaf, white decorative gland appendage, and glabrous pink stem are all visible; no claim of entire plant/crown."
+    },
+    {
+      "file": "images/02-hays-diagnostic-composite.jpg",
+      "role": "Diagnostic composite / habit, leaves and cyathia",
+      "creator": "UT Austin / Bob Harms",
+      "license": "reuse rights unverified",
+      "source_page": "https://w3.biosci.utexas.edu/prc/HaysFlora/pages/CHFE3.html",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/03-travis-voucher.jpg",
+      "role": "Herbarium voucher / thickened rootstock and crown context",
+      "creator": "UT Plant Resources Center / University of Texas Herbarium",
+      "license": "reuse rights unverified",
+      "source_page": "https://w3.biosci.utexas.edu/prc/specimens/Euphorbiaceae.html",
+      "study_use": "yes",
+      "public_reuse": "review",
+      "caption": "Look at the central and lower-left mounted plants, where several stems meet a thickened crown and a taproot extends below it. The voucher supplies crown/rootstock context with the original ruler retained; it does not establish living color, plant age or internal wood anatomy."
+    },
+    {
+      "file": "images/04-glabrous-capsule-leaves.jpg",
+      "role": "Capsule and leaf close-up / smooth fruit and rounded entire leaves",
+      "caption": "Eric Keith's close view directly shows a GLABROUS smooth three-lobed green capsule, tiny forked styles above it, rounded smooth-edged opposite foliage and a glabrous reddish shoot. Compare against E. angusta's extremely narrow hairy leaves. This image does not show a woody rootstock or seed.",
+      "platform": "iNaturalist",
+      "observation_id": 118457114,
+      "photo_id": 200140775,
+      "creator": "Eric Keith",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/118457114",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/200140775/original.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes, for genuinely noncommercial educational GitHub Pages under CC BY-NC only",
+      "verification": {
+        "taxon": "Euphorbia fendleri",
+        "quality_grade": "research",
+        "binary_decoded": true,
+        "dimensions": [
+          1495,
+          1600
+        ],
+        "git_blob_sha": "f19ed2f45997549f78b3854fff7aa481d6f9ca46",
+        "visually_checked_on": "2026-10-08",
+        "limits": "Look at the smooth green capsule above the cyathium and the small opposite rounded leaves. Narrow appendages at some nodes provide context but do not securely demonstrate the complete linear-stipule architecture. Rootstock and seed are absent."
+      },
+      "public_site_use_scope": "noncommercial-only with author credit and source CC BY-NC 4.0 link",
+      "rights_review_note": "2026-10-21: prior strict public_reuse=no internal filter updated only for individually CC BY-NC-licensed source under confirmed noncommercial educational use.",
+      "anatomy_arrows": [
+        {
+          "label": "Smooth three-lobed green capsule",
+          "target_fraction": [
+            0.494,
+            0.262
+          ]
+        },
+        {
+          "label": "Two-branched style tips above fruit",
+          "target_fraction": [
+            0.495,
+            0.188
+          ]
+        },
+        {
+          "label": "Entire rounded leaf",
+          "target_fraction": [
+            0.767,
+            0.369
+          ]
+        },
+        {
+          "label": "Smooth pink stem",
+          "target_fraction": [
+            0.706,
+            0.509
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-21 original 1495×1600 JPEG previously opened and visually checked; four pointers to independently visible fruit, style tips, leaf and bare stem."
+    },
+    {
+      "file": "images/05-extracted-seed-capsule.jpg",
+      "role": "Extracted pale seed and opened capsule / surface and form reference",
+      "caption": "Andrey Zharkikh's photographed dissections show one isolated pale seed at upper right and an opened green capsule segment at upper center. A further opened fruit piece is below. Do not use the printed grid as calibrated seed-length evidence; the units and physiological maturity were not independently established.",
+      "platform": "iNaturalist",
+      "observation_id": 246629613,
+      "photo_id": 440327480,
+      "creator": "Andrey Zharkikh",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/246629613",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/440327480/original.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes, noncommercial educational GitHub Pages only with CC BY-NC attribution",
+      "verification": {
+        "taxon": "Euphorbia fendleri",
+        "quality_grade": "research",
+        "binary_decoded": true,
+        "dimensions": [
+          1199,
+          1600
+        ],
+        "git_blob_sha": "63d72b068466fa8772f96e5dcdf93da0a64f8150",
+        "visually_checked_on": "2026-10-08",
+        "limits": "Look at the isolated pale seed at upper right beside the opened green capsule pieces. Its form and low surface relief are visible. Physiological maturity and grid units are not established by this photo, so do not use it to certify mature seed color or size."
+      },
+      "anatomy_arrows": [
+        {
+          "label": "Detached pale seed (not capsule)",
+          "target_fraction": [
+            0.783,
+            0.36
+          ]
+        },
+        {
+          "label": "Opened green capsule segment",
+          "target_fraction": [
+            0.461,
+            0.202
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-21 actual saved source photograph visually examined. One marker clearly targets detached pale seed, and another one opened green pericarp segment; no claimed millimeter size.",
+      "public_site_use_scope": "genuinely noncommercial educational site; credit creator, source and preserve original individual CC BY-NC license",
+      "rights_review_note": "2026-10-21 internal public_reuse=no policy flag changed for individually CC BY-NC licensed media consistent with the project's actual site policy; no commercial rights granted."
+    },
+    {
+      "file": "images/06-stipule-macro.jpg",
+      "role": "Stipule macro / narrow paired stipules with upper branches",
+      "caption": "Find the pale narrow stipules rising close together at the leaf bases. Their upper portions have hairlike branches. Compare these with the broad fused scale in E. serpens; closeness alone does not demonstrate fusion. The original 1 mm scale bar is retained.",
+      "platform": "UT Austin",
+      "creator": "UT Austin / Bob Harms",
+      "license": "reuse rights unverified",
+      "source_page": "https://w3.biosci.utexas.edu/prc/CHAMA-D/html/CHFE3.html",
+      "direct_image_url": "https://w3.biosci.utexas.edu/prc/CHAMA-D/html/lrg/CHFE3/CHFE3-stipl-3x-w.jpg",
+      "study_use": "yes",
+      "public_reuse": "review",
+      "verification": {
+        "taxon": "Euphorbia fendleri",
+        "binary_decoded": true,
+        "dimensions": [
+          864,
+          846
+        ],
+        "git_blob_sha": "9d22e88c3ee2a01eb3a1923eda6b8bcd40d3d76b",
+        "visually_checked_on": "2026-10-08",
+        "limits": "Find the pale narrow stipules rising close together at the leaf bases. Their upper portions have hairlike branches. Compare these with the broad fused scale in E. serpens; closeness alone does not demonstrate fusion. The original 1 mm scale bar is retained.",
+        "source_context": "UT exact-species Chamaesyce fendleri page labels stipules approximate, often with hairlike branches toward the top; approximate means close together."
+      }
+    },
+    {
+      "file": "images/07-seeds-calibrated.jpg",
+      "role": "Seed macro / multiple faces and calibrated scale",
+      "caption": "Nathan Taylor's photographed exact-species seed series shows several faces of pale four-angled seeds, a prominent longitudinal edge, variable shallow circular depressions and faintly netted surface. The author identifies 0.5 mm scale divisions in this observation. A close photo should NOT be mistaken for many evenly spaced transverse ridges or a fruit capsule; specimen maturity is not independently certified.",
+      "platform": "iNaturalist",
+      "observation_id": 2727778,
+      "photo_id": 4689920,
+      "creator": "Nathan Taylor",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/2727778",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4689920/large.jpeg",
+      "study_use": "yes",
+      "public_reuse": "yes, noncommercial educational GitHub Pages only with CC BY-NC attribution",
+      "verification": {
+        "taxon": "Euphorbia fendleri",
+        "binary_decoded": true,
+        "dimensions": [
+          1000,
+          649
+        ],
+        "git_blob_sha": "f1fab08a4c48455fe19bb581fe03a097916d70fb",
+        "visually_checked_on": "2026-10-08",
+        "limits": "Compare the four pale seeds on the dark background: different faces reveal the angular form and low surface relief. The author specifies 0.5 mm scale divisions. Fine surface texture is visible at this magnification; do not confuse it with the strong transverse ridges of E. prostrata. Physiological maturity is not explicitly documented.",
+        "quality_grade": "research",
+        "download_variant": "large",
+        "scale_units_source": "Observation author: scale for seeds in 0.5 mm"
+      },
+      "anatomy_arrows": [
+        {
+          "label": "Pale four-angled seed, side view",
+          "target_fraction": [
+            0.731,
+            0.674
+          ]
+        },
+        {
+          "label": "Longitudinal angular seed edge",
+          "target_fraction": [
+            0.705,
+            0.764
+          ]
+        },
+        {
+          "label": "Scale divisions (author states 0.5 mm)",
+          "target_fraction": [
+            0.781,
+            0.913
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-21 original 1000×649 JPEG visually checked: pale seeds, longitudinal angular edge, visible ruler ticks at image bottom; external observation's half-mm claim kept as author's statement.",
+      "public_site_use_scope": "genuinely noncommercial educational site; credit creator, source and preserve original individual CC BY-NC license",
+      "rights_review_note": "2026-10-21 internal public_reuse=no policy flag changed for individually CC BY-NC licensed media consistent with the project's actual site policy; no commercial rights granted."
+    },
+    {
+      "file": "images/08-seed-face-calibrated.jpg",
+      "role": "Seed face macro / angular outline and low surface relief",
+      "caption": "Nathan Taylor's complementary seed face macro shows a pale, markedly angled seed with several scattered darker surface depressions and fine microscopic skin texture. It is a TRUE SEED, not a three-lobed fruit; avoid saying the depressions are uniform transverse ridges.",
+      "platform": "iNaturalist",
+      "observation_id": 2727778,
+      "photo_id": 4689921,
+      "creator": "Nathan Taylor",
+      "license": "CC BY-NC",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/observations/2727778",
+      "direct_image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4689921/large.jpeg",
+      "study_use": "yes",
+      "public_reuse": "yes, noncommercial educational GitHub Pages only with CC BY-NC attribution",
+      "verification": {
+        "taxon": "Euphorbia fendleri",
+        "binary_decoded": true,
+        "dimensions": [
+          1000,
+          857
+        ],
+        "git_blob_sha": "4f79e28f4dcd2e97f5aa2f041f89e0a76f40ae63",
+        "visually_checked_on": "2026-10-08",
+        "limits": "Look at the pale seed above the scale: its angular outline and face texture are visible. The observation author specifies 0.5 mm scale divisions. This complementary angle belongs to the same identified seed series; physiological maturity is not explicitly documented.",
+        "quality_grade": "research",
+        "download_variant": "large",
+        "scale_units_source": "Observation author: scale for seeds in 0.5 mm"
+      },
+      "anatomy_arrows": [
+        {
+          "label": "Seed coat with discrete surface depressions",
+          "target_fraction": [
+            0.527,
+            0.355
+          ]
+        },
+        {
+          "label": "Pointed angular seed end",
+          "target_fraction": [
+            0.905,
+            0.349
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-21 actual 1000×857 saved photo inspected; two pointers limited to conspicuous pitted seed coat and pointed end; seed maturity and absolute size not inferred from displayed pixels.",
+      "public_site_use_scope": "genuinely noncommercial educational site; credit creator, source and preserve original individual CC BY-NC license",
+      "rights_review_note": "2026-10-21 internal public_reuse=no policy flag changed for individually CC BY-NC licensed media consistent with the project's actual site policy; no commercial rights granted."
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "five_public_safe_sources_fourteen_verified_arrows",
+    "image_count": 8,
+    "public_suitable_photo_count": 5,
+    "annotated_source_count": 5,
+    "verified_arrow_count": 14,
+    "note": "Real public-license close-ups show leaf, stem, cyathia, fruit, capsule pieces, pale four-angled seeds and observation-author scale; wooded root crown and clearly isolated paired stipule remain unphotographed under shareable license."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Euphorbia angusta",
+      "Euphorbia serpens",
+      "Euphorbia villifera"
+    ],
+    "key_distinctions": "Woody perennial crown + low glabrous clustered stems + tiny entire rounded leaves + linear stipules is the strongest field package.",
+    "lookalike_matrix": [
+      {
+        "character": "Longevity/base",
+        "Euphorbia fendleri": "perennial; woody thickened taproot/crown",
+        "Euphorbia angusta": "perennial; strongly thickened rootstock",
+        "Euphorbia serpens": "annual slender taproot",
+        "Euphorbia villifera": "annual or perennial; sometimes woody rootstock"
+      },
+      {
+        "character": "Habit",
+        "Euphorbia fendleri": "5–12 cm, usually prostrate/decumbent/ascending in dense crown cluster",
+        "Euphorbia angusta": "erect, 12–43 cm",
+        "Euphorbia serpens": "strictly prostrate, often node-rooting",
+        "Euphorbia villifera": "usually erect/ascending"
+      },
+      {
+        "character": "Leaves",
+        "Euphorbia fendleri": "small rounded/ovate, entire, glabrous",
+        "Euphorbia angusta": "distal leaves linear, >6× as long as wide",
+        "Euphorbia serpens": "tiny rounded entire glabrous leaves",
+        "Euphorbia villifera": "ovate, papillate, usually villous"
+      },
+      {
+        "character": "Stipules",
+        "Euphorbia fendleri": "distinct, narrowly linear",
+        "Euphorbia angusta": "linear-subulate or tiny nodiform/papilliform",
+        "Euphorbia serpens": "fused deltate scale",
+        "Euphorbia villifera": "distinct filiform"
+      },
+      {
+        "character": "Seed",
+        "Euphorbia fendleri": "white, prominently 4-angled, 1.7–2 mm, smooth/slightly wrinkled",
+        "Euphorbia angusta": "white, 4-angled, 1.7–2.2 mm, low-ridged/wrinkled",
+        "Euphorbia serpens": "much smaller, smooth",
+        "Euphorbia villifera": "smaller, weakly 4-angled"
+      }
+    ]
+  },
+  "unreliable_characters": [
+    "gland appendage presence, size, or shape by itself",
+    "red stem coloration",
+    "dry rocky habitat alone",
+    "prostrate habit alone"
+  ],
+  "diagnostic_image_needs": [
+    {
+      "role": "publicly redistributable woody crown/whole-plant rooted habit",
+      "priority": "medium",
+      "requirements": "Source shows numerous stems from single woody crown with roots visible under natural exposure; do not damage restoration sites."
+    },
+    {
+      "role": "same-node pair of linear stipules",
+      "priority": "medium",
+      "requirements": "CC-licensed exact-species close view of both separate 0.5–1mm stipules with scale, not a nearby leaf tooth or hair."
+    },
+    {
+      "role": "independently mature detached seed",
+      "priority": "optional",
+      "requirements": "Source reports ripe seed or dry dehiscing capsule and millimeter reference; current true-seed series enough for provisional form and surface teaching."
+    }
+  ],
+  "photo_research": {
+    "status": "DIAGNOSTIC_PHOTO_POLISH_SPECIALIZED_GAPS_RETAINED",
+    "installed_roles": [
+      "Whole plant / flowering mat recognizable face",
+      "Diagnostic composite / habit, leaves and cyathia",
+      "Herbarium voucher / thickened rootstock and crown context",
+      "Capsule and leaf close-up / smooth fruit and rounded entire leaves",
+      "Extracted pale seed and opened capsule / surface and form reference",
+      "Stipule macro / narrow paired stipules with upper branches",
+      "Seed macro / multiple faces and calibrated scale",
+      "Seed face macro / angular outline and low surface relief"
+    ],
+    "next_priority": [
+      "seed series explicitly documenting physiological maturity"
+    ],
+    "updated_at": "2026-10-08",
+    "search_summary": "Screened licensed Research Grade observations from a targeted 100-observation sample per species; selected originals visually inspected. Installed only two complementary exact-species images. No substitutions or range changes. Specialty follow-up: original mounted voucher reviewed and basal structure located. UT exact-species stipule macro and Nathan Taylor observation 2727778 seed series verified; author specifies 0.5 mm scale. Two seed angles installed; maturity qualification retained.",
+    "optional_additional_views": [
+      "live rootstock/crown close-up"
+    ]
+  },
+  "taxonomy_source": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101570",
+  "field_photo_quickcheck": {
+    "heading": "ROUND SMOOTH LEAVES + SMOOTH CAPSULE + FOUR-ANGLED SEED",
+    "featured_photo_indices": [
+      3,
+      0,
+      6,
+      7,
+      4
+    ],
+    "steps": [
+      "Find dense LOW sprawling or ascending stems with small opposite, broadly rounded-to-ovate leaf pairs; entire margins and smooth leaf surfaces should be visible.",
+      "Get a 10× close-up of one green fruit. Identify the smooth slightly flattened THREE-LOBED CAPSULE and its divided style arms; do not confuse the cyathium with a capsule.",
+      "At the leaf base, look for two SEPARATE narrow linear stipules (often 0.5–1 mm), not the broad fused scale seen in E. serpens; a public-license macro of the actual attachment is still needed.",
+      "Check loose seed versus opened fruit using the real photo panel; mature seeds are pale, 4-angled, and approximately 1.7–2 mm per FNA, but don't claim maturity from our source photographs.",
+      "Look for multiple shoots arising from a persistent thickened woody crown if disturbance or naturally exposed root-base allows; do not dig up a plant solely to teach this trait.",
+      "Compare against E. angusta (erect long thin pubescent leaves) and E. villifera (often hairy/papillate, different stipules); white gland appendage shape alone is not diagnostic."
+    ],
+    "warning": "Only five of eight reference photo sources may display under the existing public educational license policy. UT Austin voucher and stipule close-ups are private/reference-only. The publicly available photographs do not demonstrate the living woody crown or isolate the 0.5–1mm separated stipule; maturity of pictured seeds not fully proved."
+  },
+  "field_id_finalization": {
+    "review_date": "2026-10-21",
+    "stage": "FIELD_READY_WITH_MINOR_PHOTO_GAPS",
+    "canonical_real_photo_count": 8,
+    "public_site_suitable_photo_count": 5,
+    "annotated_public_photo_count": 5,
+    "verified_anatomy_arrow_count": 14,
+    "science_source": "Flora of North America and UT Austin Williamson County vascular flora",
+    "completed": [
+      "Real rounded glabrous leaves",
+      "Smooth reddish stems",
+      "Three-lobed hairless capsule and styles",
+      "Cyathial nectar gland appendage photo",
+      "True pale detached seed versus opened fruit",
+      "Four-angled pale seed with source-authored half-millimeter divisions",
+      "Reciprocal comparison versus Euphorbia angusta"
+    ],
+    "remaining": [
+      "A public-clear photo of the perennial woody basal crown",
+      "Public-clear separated linear paired stipules at the same node",
+      "Optional independently documented mature detached seed"
+    ],
+    "licensing": "5 exact-species photos: Stan Shebs CC BY-SA, Eric Keith/Andrey Zharkikh/Nathan Taylor CC BY-NC for noncommercial teaching. Three UT photos rights not established: exclude from public rendering.",
+    "county_nativeness": "not audited, unchanged"
+  },
+  "visual_comparison": {
+    "instance_id": "euphorbia-fendleri-smooth-20261021",
+    "title": "Fendler's sandmat — smooth fruit, rounded leaves and real seed faces",
+    "subtitle": "Five CC-licensed source photographs with fourteen manually checked anatomy arrows. Woody crown and separate stipules still need publishable macrophotos.",
+    "items": [
+      {
+        "label": "Capsule and leaf close-up / smooth fruit and rounded entire leaves",
+        "scientific_name": "Euphorbia fendleri",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-fendleri/images/04-glabrous-capsule-leaves.jpg",
+        "image_role": "Capsule and leaf close-up / smooth fruit and rounded entire leaves",
+        "source_page": "https://www.inaturalist.org/observations/118457114",
+        "creator": "Eric Keith",
+        "license": "CC BY-NC",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "caption": "Eric Keith's close view directly shows a GLABROUS smooth three-lobed green capsule, tiny forked styles above it, rounded smooth-edged opposite foliage and a glabrous reddish shoot. Compare against E. angusta's extremely narrow hairy leaves. This image does not show a woody rootstock or seed.",
+        "anatomy_arrows": [
+          {
+            "label": "Smooth three-lobed green capsule",
+            "target_fraction": [
+              0.494,
+              0.262
+            ]
+          },
+          {
+            "label": "Two-branched style tips above fruit",
+            "target_fraction": [
+              0.495,
+              0.188
+            ]
+          },
+          {
+            "label": "Entire rounded leaf",
+            "target_fraction": [
+              0.767,
+              0.369
+            ]
+          },
+          {
+            "label": "Smooth pink stem",
+            "target_fraction": [
+              0.706,
+              0.509
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Close flowering-shoot recognition: rounded leaves, smooth reddish stems, white cyathial gland appendages (NOT full rooted habit)",
+        "scientific_name": "Euphorbia fendleri",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-fendleri/images/euphorbia-fendleri-provisional-face.jpg",
+        "image_role": "Close flowering-shoot recognition: rounded leaves, smooth reddish stems, white cyathial gland appendages (NOT full rooted habit)",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_fendleri_3.jpg",
+        "creator": "Stan Shebs",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "caption": "Stan Shebs' licensed close view shows pairs of broad rounded-to-ovate leaves along smooth reddish branching stems and white-to-cream cyathial gland appendages. This is NOT a rooted whole-plant image; the woody perennial crown is not visible.",
+        "anatomy_arrows": [
+          {
+            "label": "Broad rounded leaf blade",
+            "target_fraction": [
+              0.326,
+              0.321
+            ]
+          },
+          {
+            "label": "White gland appendage around cyathium",
+            "target_fraction": [
+              0.587,
+              0.415
+            ]
+          },
+          {
+            "label": "Smooth pinkish branch",
+            "target_fraction": [
+              0.668,
+              0.586
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seed macro / multiple faces and calibrated scale",
+        "scientific_name": "Euphorbia fendleri",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-fendleri/images/07-seeds-calibrated.jpg",
+        "image_role": "Seed macro / multiple faces and calibrated scale",
+        "source_page": "https://www.inaturalist.org/observations/2727778",
+        "creator": "Nathan Taylor",
+        "license": "CC BY-NC",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "caption": "Nathan Taylor's photographed exact-species seed series shows several faces of pale four-angled seeds, a prominent longitudinal edge, variable shallow circular depressions and faintly netted surface. The author identifies 0.5 mm scale divisions in this observation. A close photo should NOT be mistaken for many evenly spaced transverse ridges or a fruit capsule; specimen maturity is not independently certified.",
+        "anatomy_arrows": [
+          {
+            "label": "Pale four-angled seed, side view",
+            "target_fraction": [
+              0.731,
+              0.674
+            ]
+          },
+          {
+            "label": "Longitudinal angular seed edge",
+            "target_fraction": [
+              0.705,
+              0.764
+            ]
+          },
+          {
+            "label": "Scale divisions (author states 0.5 mm)",
+            "target_fraction": [
+              0.781,
+              0.913
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seed face macro / angular outline and low surface relief",
+        "scientific_name": "Euphorbia fendleri",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-fendleri/images/08-seed-face-calibrated.jpg",
+        "image_role": "Seed face macro / angular outline and low surface relief",
+        "source_page": "https://www.inaturalist.org/observations/2727778",
+        "creator": "Nathan Taylor",
+        "license": "CC BY-NC",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "caption": "Nathan Taylor's complementary seed face macro shows a pale, markedly angled seed with several scattered darker surface depressions and fine microscopic skin texture. It is a TRUE SEED, not a three-lobed fruit; avoid saying the depressions are uniform transverse ridges.",
+        "anatomy_arrows": [
+          {
+            "label": "Seed coat with discrete surface depressions",
+            "target_fraction": [
+              0.527,
+              0.355
+            ]
+          },
+          {
+            "label": "Pointed angular seed end",
+            "target_fraction": [
+              0.905,
+              0.349
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Extracted pale seed and opened capsule / surface and form reference",
+        "scientific_name": "Euphorbia fendleri",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-fendleri/images/05-extracted-seed-capsule.jpg",
+        "image_role": "Extracted pale seed and opened capsule / surface and form reference",
+        "source_page": "https://www.inaturalist.org/observations/246629613",
+        "creator": "Andrey Zharkikh",
+        "license": "CC BY-NC",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "caption": "Andrey Zharkikh's photographed dissections show one isolated pale seed at upper right and an opened green capsule segment at upper center. A further opened fruit piece is below. Do not use the printed grid as calibrated seed-length evidence; the units and physiological maturity were not independently established.",
+        "anatomy_arrows": [
+          {
+            "label": "Detached pale seed (not capsule)",
+            "target_fraction": [
+              0.783,
+              0.36
+            ]
+          },
+          {
+            "label": "Opened green capsule segment",
+            "target_fraction": [
+              0.461,
+              0.202
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

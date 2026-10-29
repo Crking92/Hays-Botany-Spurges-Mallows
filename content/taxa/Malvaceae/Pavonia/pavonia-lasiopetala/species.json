@@ -1,0 +1,37 @@
+{
+  "id": "pavonia-lasiopetala",
+  "family": "Malvaceae",
+  "genus": "Pavonia",
+  "species": "lasiopetala",
+  "scientific_name": "Pavonia lasiopetala",
+  "common_name": "Rock rose",
+  "look_here_first": "Look for five rose-pink hibiscus-like petals and a protruding fused staminal column; inspect hairy leaves, epicalyx bractlets, calyx and mature fruit.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Pavonia%20lasiopetala",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Native-by-target-county status not asserted until BONAP range review.",
+  "images": [
+    {
+      "file": "images/commons-pavonia-lasiopetala.jpg",
+      "role": "Provisional Texas rock rose flower recognition; epicalyx bracts and fruits need macro images.",
+      "creator": "Clarence A. Rechenthin / USDA NRCS Texas",
+      "license": "Public domain (US federal government)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pavonia_lasiopetala.jpg",
+      "study_use": "Noncommercial visual learner",
+      "public_reuse": "Public domain/CC0; preserve credit"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

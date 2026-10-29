@@ -1,0 +1,142 @@
+{
+  "rank": "family",
+  "name": "Bixaceae",
+  "common_name": "Annatto / yellowshow family",
+  "lineage_context": {
+    "order": "Malvales",
+    "batch": "Rosid residuals",
+    "close_project_families": [
+      "Malvaceae"
+    ],
+    "teaching_goal": "Teach Cochlospermum wrightii through its tuberous geophyte habit, palmately lobed leaves, showy 5-petaled yellow flowers with numerous free stamens and capsules full of woolly-haired seeds."
+  },
+  "project_scope": {
+    "selection_mode": "Cochlospermum wrightii one-species module",
+    "note": "Accepted current name; native range begins in southwest Texas and extends southward."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with the flower: five large yellow petals surround a dense mass of numerous free stamens rather than a mallow-style staminal column.",
+    "vegetative": "Project plant is a tuberous geophyte/seasonal herb with alternate palmately lobed leaves and caducous stipules.",
+    "reproductive": "Showy bisexual 5-merous flowers, free petals, numerous free stamens; superior ovary with many ovules.",
+    "fruit": "Multi-valved capsule with many curved/reniform seeds clothed in long soft white hairs.",
+    "field_tip": "Palmately lobed seasonal plant + huge yellow 5-petaled flower + many free stamens + woolly seeds = project Bixaceae/Cochlospermum."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_030",
+    "teaching_order": "tuberous habit → palmately lobed leaf → giant yellow flower → free stamens → capsule → woolly seed → Malvaceae comparison",
+    "intro": "Yellowshow can look mallow-like from a distance, but the flower center and fruit settle it: the stamens stay free, and the capsule releases woolly seeds.",
+    "steps": [
+      {
+        "title": "1 · Show the seasonal geophyte body plan",
+        "photo_role": "whole plant + underground organ diagram",
+        "look_for": "Above-ground shoots arising from a persistent tuberous underground system.",
+        "why_it_matters": "Explains survival in seasonally dry habitat.",
+        "status": "habit_visual_pending"
+      },
+      {
+        "title": "2 · Read the palmate leaf",
+        "photo_role": "leaf face",
+        "look_for": "Deeply palmately lobed blade on a long petiole.",
+        "why_it_matters": "Strong supporting vegetative cue.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Look into the yellow flower center",
+        "photo_role": "flower macro",
+        "look_for": "Five broad yellow petals and many separate stamens.",
+        "why_it_matters": "Separates it from local Malvaceae's fused staminal column.",
+        "status": "highest_priority_macro_pending"
+      },
+      {
+        "title": "4 · Open the capsule",
+        "photo_role": "fruit dehiscence sequence",
+        "look_for": "Three- to five-valved dry capsule opening to expose many seeds.",
+        "why_it_matters": "Adds strong post-flower confirmation.",
+        "status": "sequence_pending"
+      },
+      {
+        "title": "5 · Zoom into a woolly seed",
+        "photo_role": "seed macro",
+        "look_for": "Curved/reniform seed wrapped in fine long white hairs.",
+        "why_it_matters": "One of the best family/genus visual signatures.",
+        "status": "highest_priority_macro_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Bixaceae vs Malvaceae",
+        "rule": "Both can be showy and palmately veined, but project Cochlospermum has numerous free stamens and a woolly-seeded capsule; local Malvaceae commonly has stamens fused into a conspicuous central column."
+      }
+    ],
+    "caveat": "Do not use yellow flower + palmate leaf alone. The free stamens and woolly seeds make the project Bixaceae lesson reliable."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Cochlospermum",
+        "taxa_count": 1,
+        "fast_cue": "tuberous geophyte + palmate leaf + giant yellow flower with many free stamens + woolly seeds",
+        "role": "yellowshow door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Cochlospermum wrightii"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Cochlospermum wrightii",
+      "current_name": "Cochlospermum wrightii",
+      "note": "Accepted; native range includes southwest Texas."
+    },
+    {
+      "source_name": "Amoreuxia wrightii",
+      "current_name": "Cochlospermum wrightii",
+      "note": "Homotypic synonym retained as searchable provenance."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "free stamens",
+      "annotation_goal": "show separate filaments vs Malvaceae staminal column"
+    },
+    {
+      "priority": 1,
+      "structure": "woolly seed",
+      "annotation_goal": "label seed and long white hairs"
+    },
+    {
+      "priority": 1,
+      "structure": "capsule dehiscence",
+      "annotation_goal": "label valves and seed mass"
+    },
+    {
+      "priority": 2,
+      "structure": "tuberous geophyte habit",
+      "annotation_goal": "above/below-ground diagram"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "POWO — Bixaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126586-1/general-information"
+    },
+    {
+      "source": "POWO — Cochlospermum",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:331501-2/general-information"
+    },
+    {
+      "source": "POWO — Cochlospermum wrightii",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77184208-1"
+    }
+  ],
+  "joey_media_note": "Saved Joey routing checked first; no direct Bixaceae frame is currently indexed.",
+  "curation_status": {
+    "version": "1.0-lineage-batch-030",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_free_stamens_woolly_seed_visuals_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

@@ -1,0 +1,21 @@
+PHOTO FAST-FILL 028 — Oenothera macrocarpa subsp. macrocarpa
+Date: 2026-10-06
+Temporary one-photo learner coverage from exact-species/current-taxonomic-concept reusable media.
+Source: https://commons.wikimedia.org/wiki/File:Oenothera_macrocarpa_0zz.jpg
+License: CC BY-SA 4.0
+Keep until stronger diagnostic gallery coverage replaces or supplements it.
+Media only; scientific status unchanged.
+
+LIBRARY-FIRST IMAGE SELECTION 012 2026-10-16T16:10:15.446021+00:00
+Oenothera macrocarpa subsp. macrocarpa
+Creator: Michelle W. （鍾偉瑋）; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/5104451459
+Stored archive: hays-photo-library-mass-38760123960 :: staged_images/oenothera-macrocarpa-subsp-macrocarpa/gbif-a96431c163f0b1.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 012 2026-10-16T16:10:15.446021+00:00
+Oenothera macrocarpa subsp. macrocarpa
+Creator: ashleyrsteel; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/5140727955
+Stored archive: hays-photo-library-mass-38760123960 :: staged_images/oenothera-macrocarpa-subsp-macrocarpa/gbif-5567e71036e1e1.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

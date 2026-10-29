@@ -1,0 +1,9 @@
+EUPHORBIA SANDMAT MACRO POLISH 002 — Euphorbia serpens
+Scientific/range state preserved from the canonical learner record.
+Morphology anchors:
+- Flora of North America: https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242321518
+- UT Williamson County flora: https://w3.biosci.utexas.edu/prc/K12/pages/Euphorbia%20serpens.html
+New diagnostic media:
+- iNaturalist Texas sandmat guide taxon page: https://www.inaturalist.org/guide_taxa/354763
+- Guide/photo credits: https://www.inaturalist.org/guides/2412
+The new rooted-node image is treated conservatively as private-study/non-public reuse because the guide credit is CC BY-NC-SA.

@@ -1,0 +1,63 @@
+# Curation sources — Euphorbia nutans
+Reviewed through 2026-10-07
+Project range status: PROVISIONAL
+Learner inclusion: APPROVED
+
+Morphology
+Flora of North America:
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242427660
+
+UT Austin Chamaesyce diagnostic page:
+https://w3.biosci.utexas.edu/prc/CHAMA-D/html/CHNU9.html
+
+Key characters
+- ascending to erect annual, branch tips often arched
+- relatively large opposite oblong leaves
+- strongly asymmetric leaf bases and serrulate margins
+- red blotch common but not required
+- glabrous capsule
+- dark finely wrinkled seeds
+
+Physical photo set
+Kenraiz — CC BY-SA 4.0
+https://commons.wikimedia.org/wiki/File:Euphorbia_nutans_kz01.jpg
+
+HermannSchachner — CC0 1.0
+https://commons.wikimedia.org/wiki/File:Euphorbia_nutans_(Nickend-Wolfsmilch)_IMG_8819.JPG
+
+UT Austin / Bob Harms diagnostic image — reuse rights unverified; private study only
+https://w3.biosci.utexas.edu/prc/CHAMA-D/html/CHNU9.html
+
+Range status unchanged.
+
+## Diagnostic photo polish — 2026-10-08
+
+images/04-node-stipule-hairs.jpg
+Douglas Goldman; CC BY-SA; https://creativecommons.org/licenses/by-sa/4.0/
+Observation 168810838; photo 292606258
+https://www.inaturalist.org/observations/168810838
+https://inaturalist-open-data.s3.amazonaws.com/photos/292606258/original.jpg
+Role: Node macro / stipule location and petiole hairs
+Limit: Look at the small pale-to-pink membrane at the right-hand leaf attachment beside the green stem. Fine curled hairs on the leaf stalk and blade margin are resolved. This single view locates the stipule; it does not show the complete two-sided fusion pattern.
+Study use: yes; public reuse: yes
+
+images/05-mature-seed-wrinkles.jpg
+Dale Lee Denham-Logsdon; CC BY-NC; https://creativecommons.org/licenses/by-nc/4.0/
+Observation 3470010; photo 4031288
+https://www.inaturalist.org/observations/3470010
+https://inaturalist-open-data.s3.amazonaws.com/photos/4031288/original.JPG
+Role: Mature seed macro / wrinkled seed surface
+Limit: Look at the dark seeds and their low irregular wrinkles across the faces. Compare surface sculpture rather than the displayed size; the grid spacing is not independently calibrated in this photograph.
+Study use: yes; public reuse: no
+
+Remaining: two-sided stipule macro showing fusion/segmentation.
+
+## Supplementary microscope detail — 2026-10-08
+
+images/06-leaf-base-microscope-detail.jpg
+Creator: Joel Galván
+Source: https://www.inaturalist.org/observations/19572934
+Direct image: https://inaturalist-open-data.s3.amazonaws.com/photos/30129386/original.jpg
+License: CC BY-NC; private study yes; public reuse no.
+Photographer describes microscope details from observation 18868781. Macro observation has current Euphorbia nutans identifications by Nathan Taylor and Joel Galván. Linked plant observation remains needs_id; do not promote its grade.
+Visual limit: Supplementary leaf-base detail, not verified complete stipule architecture; no scale, partly obscured attachment, low native resolution.

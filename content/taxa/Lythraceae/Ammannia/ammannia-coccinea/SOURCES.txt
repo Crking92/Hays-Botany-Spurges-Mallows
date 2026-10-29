@@ -1,0 +1,21 @@
+Ammannia coccinea Rottb. — Master Plant Pool row 53; Hays local and user iNaturalist source. Accepted taxon; target county native range UNRESOLVED.
+POWO accepted taxonomy: https://powo.science.kew.org/taxon/552672-1
+UT Austin morphology: https://w3.biosci.utexas.edu/prc/K12/pages/Ammannia%20coccinea.html
+Lythraceae family lesson: content/taxa/Lythraceae/family.json
+Exact-species photo: https://commons.wikimedia.org/wiki/File:Starr-130322-3853-Ammannia_coccinea-flowers_and_fruit_forming-Hanalei_NWR-Kauai_(24914156820).jpg
+Forest & Kim Starr, CC BY 3.0 US, Flickr 24914156820. Nonlocal Kauai specimen; not target-zone range evidence.
+Diagnostic Photo Polish handoff: leaf-base, cyme, calyx appendages, mature capsule, matched A. auriculata comparison. Arrows annotation_pending.
+
+LIBRARY-FIRST IMAGE SELECTION 012 2026-10-16T16:10:15.446021+00:00
+Ammannia coccinea
+Creator: saltyhiker; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6567191711
+Stored archive: hays-photo-library-mass-38760123960 :: staged_images/ammannia-coccinea/gbif-d65d5ff68f2ade.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 012 2026-10-16T16:10:15.446021+00:00
+Ammannia coccinea
+Creator: Miguel A. C.; License shorthand: CC BY-SA
+Original source: https://www.gbif.org/occurrence/5110491267
+Stored archive: hays-photo-library-mass-38760123960 :: staged_images/ammannia-coccinea/plantnet-via-gbif-fb8392c2b17d9f.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

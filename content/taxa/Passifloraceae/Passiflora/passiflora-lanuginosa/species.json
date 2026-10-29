@@ -1,0 +1,165 @@
+{
+  "id": "passiflora-lanuginosa",
+  "entry_type": "species",
+  "family": "Passifloraceae",
+  "genus": "Passiflora",
+  "species": "lanuginosa",
+  "scientific_name": "Passiflora lanuginosa",
+  "authority": "(Killip) H.T.Svoboda",
+  "common_name": "Scarletfruit passionflower",
+  "synonyms": [
+    "Passiflora foetida var. lanuginosa Killip"
+  ],
+  "taxonomic_note": "Reviewed accepted species treatment elevated from P. foetida var. lanuginosa in 2023; historical P. foetida sensu lato observations must not be silently mapped to this taxon.",
+  "look_here_first": "Introduced scarletfruit passionflower comparison (not confirmed native to your target counties). Look first for an actual RIPE FRUIT: usually smooth and vivid red in the documented P. lanuginosa concept, versus greenish/yellow-green fruit in the locally reviewed P. foetida concept. Then inspect finely divided bract cage, hairy leaf and stem, and often more sharply pointed/angular leaf lobes. Older P. foetida var. lanuginosa specimens require taxonomic reconciliation; don't identify it by flower color or a fruit photo alone.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Approved Master Plant Pool",
+    "target_zone_status": "FAIL_TARGET_ZONE",
+    "learner_role": "NON_NATIVE_COMPARISON",
+    "verified_target_counties": [],
+    "range_basis": "Completed deep review cites Kew/POWO native range eastern Mexico to Guatemala; Texas observations treated as introduced. No native target-zone county evidence.",
+    "range_guardrail": "Do not count introduced Bexar/San Antonio observations as evidence of target-zone nativity; historical P. foetida var. lanuginosa records require concept reconciliation."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "morphology_keys": {
+    "best_field_traits": [
+      "Tendrilled climbing or scrambling passionflower with bracts enclosing flower/fruit",
+      "Leaves commonly darker and more angular or pointed-lobed than local P. foetida comparison",
+      "Flowers often pinkish; flower color alone insufficient",
+      "Fruit smooth and ripening red in the reviewed species concept",
+      "Verify bract structure, leaf shape, fruit surface and maturity together"
+    ],
+    "comparison_training": "Contrast fruit surface/color and leaf-lobe shape against canonical P. foetida; do not identify only from pink flowers or a single photograph. Use a full flower/fruit-bract view and mature fruit close-up."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Passiflora foetida",
+      "Passiflora ciliata"
+    ],
+    "key_distinctions": "P. foetida in the local learner has rounded 3-lobed leaves, strong fetid odor, dense soft pubescence, a finely divided sticky-bracted cage, and green-to-yellow-green fruit in the reviewed Texas concept; P. lanuginosa tends toward more angular/pointed leaves and smooth red-ripe fruit. The P. ciliata name has also been applied to introduced lookalikes in the San Antonio area; verify the current taxon concept rather than assuming every nonnative foetida-like plant is P. lanuginosa."
+  },
+  "images": [
+    {
+      "file": "images/glass-root-466064726-first-photo.jpg",
+      "role": "Deeply divided bracts surrounding buds or fruit, foliage and tendril; open flower absent",
+      "creator": "Glass Root Garden",
+      "license": "Owner-authorized private study",
+      "license_basis": "Direct photo-owner authorization in current project chat, 2026-10-14. Private learner use approved despite stale source metadata; no public CC grant inferred.",
+      "license_url": "https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/glass-root-inat/OWNER_PERMISSION_2026-10-14.md",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/466064726",
+      "observation_url": "https://www.inaturalist.org/observations/259612062",
+      "observation_id": 259612062,
+      "photo_id": 466064726,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/466064726/large.jpg",
+      "image_dimensions": [
+        768,
+        1024
+      ],
+      "photo_review": "Exact Research Grade observation checked; image visually inspected; first-pass recognition only.",
+      "anatomy_arrows": "none; detailed anatomy pending"
+    },
+    {
+      "file": "images/joey-inat-668477272.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/668477272",
+      "observation_url": "https://www.inaturalist.org/observations/366107505",
+      "observation_id": "366107505",
+      "photo_id": "668477272",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/668477272/large.jpg",
+      "image_dimensions": [
+        768,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-668477369.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/668477369",
+      "observation_url": "https://www.inaturalist.org/observations/366107505",
+      "observation_id": "366107505",
+      "photo_id": "668477369",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/668477369/large.jpg",
+      "image_dimensions": [
+        768,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "note": "Private owner-authorized first-photo coverage; fine diagnostic views remain pending."
+  },
+  "diagnostic_image_plan": [
+    "Habit and tendrils with leaf attachment",
+    "Leaf outline and pubescence macro with scale",
+    "Involucral bract cage around flower/fruit",
+    "Flower face and side showing corona/bracts",
+    "Smooth mature red fruit with scale",
+    "Matched diagnostic comparison against P. foetida"
+  ],
+  "curation_notes": "Reused research-drafts/passiflora-lanuginosa/draft.json and canonical passiflora-foetida/species.json. Accepted taxon; FAIL_TARGET_ZONE preserved.",
+  "diagnostic_photo_needs": [
+    {
+      "role": "exact-concept flower and sticky bract cage",
+      "status": "needs taxon-vouchered photo and reuse rights"
+    },
+    {
+      "role": "smooth red fully ripe fruit",
+      "status": "needs taxon-vouchered rights-cleared macro"
+    },
+    {
+      "role": "leaf base/lobes and hair texture with both plant taxa",
+      "status": "needs same-scale comparison"
+    },
+    {
+      "role": "P. foetida vs P. lanuginosa fully ripe fruit",
+      "status": "needs matched photo plus trusted determinations"
+    }
+  ],
+  "visual_science_review": {
+    "reviewed_at": "2026-10-13",
+    "status": "morphology-first lesson refined; FAIL_TARGET_ZONE preserved; not installed image",
+    "photo_priority": [
+      "ripe red fruit",
+      "bract cage"
+    ],
+    "license_note": "Image source search found taxon pages but no fully verified exact-species reusable and direct downloadable photograph; do not substitute a generic Passiflora foetida photo."
+  },
+  "curation_status": {
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "glass_root_garden_photo_install": "2026-10-14",
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Private owner-authorized Glass Root Garden photo physically installed 2026-10-14; source API rights retained separately. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}

@@ -1,0 +1,261 @@
+{
+  "id": "abutilon-fruticosum",
+  "entry_type": "species",
+  "family": "Malvaceae",
+  "genus": "Abutilon",
+  "species": "fruticosum",
+  "scientific_name": "Abutilon fruticosum",
+  "authority": "Guill. & Perr.",
+  "common_name": "sweet Indian mallow / pelotazo",
+  "look_here_first": "Texas sweet Indian mallow: small yellow 5-petal mallow flower, small hairy heart-based leaves, and a compact dry fruit with about 6–9(–10) unspined mericarps. For A. incanum lookalike count 6–9 style branches instead of 5. DO NOT require a hairless staminal tube: FNA and UT/Kew disagree.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Kerr"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "native_range_status": "PASS",
+  "learner_admission_status": "APPROVED",
+  "learner_admission_basis": "approved_source_pool_membership",
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Prior Hays and Travis native-range support preserved. Kerr — Singhurst et al. (2010), Kerr Wildlife Management Area natural vascular flora, Abutilon fruticosum vouchers JS 10658, FG 8256a, LS 3799, LS 4538. Three project target counties: Hays, Travis, Kerr. Williamson is out-of-zone and not counted.",
+    "range_guardrail": "Learner admission remains independent; native metrics count these three reviewed approved counties only, not Williamson or cultivated observations.",
+    "native_range_reconciliation": {
+      "reviewed_at": "2026-10-14",
+      "decision": "PASS",
+      "confidence": "high",
+      "accepted_scientific_name": "Abutilon fruticosum Guill. & Perr.",
+      "taxon_note": "Texas species-level material falls within species; POWO var. fruticosum native in Texas, do not assign a source row to variety without determination.",
+      "verified_target_counties": [
+        "Hays",
+        "Travis",
+        "Kerr"
+      ],
+      "new_evidence_url": "https://tpwd.texas.gov/huntwild/wild/research/highlights/taxa/publications/Singhurst_etal_2010_KerrWMA.pdf",
+      "taxonomic_source_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326450-2",
+      "new_vouchers": [
+        "JS 10658",
+        "FG 8256a",
+        "LS 3799",
+        "LS 4538"
+      ],
+      "reason": "Kerr WMA wild collection independently fills third county after correction excluding Williamson."
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "woody-based subshrub",
+      "stellate-tomentulose gray-green stems and leaves",
+      "ovate-cordate serrate leaves",
+      "plain yellow flowers",
+      "compact cask-shaped schizocarp",
+      "Yellow 5-petaled flower with 6–9 style/stigma branches",
+      "Compact 6–9(–10)-mericarp schizocarp with short, not long-spined segment tips"
+    ],
+    "comparison_training": "Separate from velvetleaf (A. theophrasti) by the smaller leaves and compact fruit; separate from A. incanum by plain yellow flowers and more style branches.",
+    "flower": "5 yellow or yellow-orange petals, 5–10 mm long (FNA). Style commonly 6–9 branches. FNA reports glabrous staminal column, but detailed Texas material says some stellate hairs and Kew treatments report hair; do not rely on absence of hair.",
+    "fruit_seed": "Schizocarp cask-shaped, 8–9 × 8–9 mm; mericarp apex acute/apiculate, tomentulose; 3 seeds per mericarp, seeds ~2 mm."
+  },
+  "comparisons": {
+    "key_distinctions": "A. fruticosum has about 6–9 style branches (usually corresponding to 6–9, sometimes 10, fruit segments) versus A. incanum 5; historic Texas reports of A. incanum often represent fruticosum. Velvetleaf has 13–15 styles and many 3–6 mm long-pointed mericarps. Column pubescence is disputed between authoritative floras; not a strict distinction."
+  },
+  "photo_strategy": {
+    "method": "LEARNER FAST-FILL — science-first install",
+    "visual_priority": "Install learner card now; route exact-species project/user/Joey or licensed external media through Learner Photo Backfill.",
+    "remaining_need": "Habit, reproductive structure, and diagnostic close-up when practical."
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": false,
+  "curation_status": {
+    "version": "1.3-four-physical-images-three-species-panels",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "learner_admission_approved": true,
+    "visual_reviewed": true,
+    "visual_status": "Four physically installed exact-species images including 2 mature fruits, 1 flower, 1 Austin face; pending exact style-count macro and arrow placements",
+    "last_reviewed": "2026-10-05",
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "external_display_images_count": 0,
+    "last_visual_reviewed": "2026-10-13",
+    "last_science_reviewed": "2026-10-13",
+    "science_caution": "FNA vs UT/Kew column pubescence discrepancy; style/fruit count prioritized"
+  },
+  "images": [
+    {
+      "file": "images/abutilon-fruticosum-provisional-face.jpg",
+      "role": "Austin flowering habit and heart-shaped leaves",
+      "creator": "John Pavelka",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution"
+    },
+    {
+      "file": "images/02-yellow-flower.jpg",
+      "role": "Five-petaled yellow flower and central staminal column",
+      "creator": "SAplants",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum_1DS-II_3-2244.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution"
+    },
+    {
+      "file": "images/03-compact-fruit-side.jpg",
+      "role": "Exact Abutilon fruticosum ripe fruit with short mericarp tips, Jordan",
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum_kz03.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution"
+    },
+    {
+      "file": "images/04-compact-fruit-oblique.jpg",
+      "role": "Exact Abutilon fruticosum ripe fruit second view, Jordan",
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum_kz04.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "diagnostic_photo_intro_ready",
+    "mode": "learner_photo_polish",
+    "image_count": 4,
+    "note": "Exact licensed gallery of plant, flower and two mature fruits; do not conflate external origin images with local specimens."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "field_diagnostics": {
+    "single_best_trait": "6–9 style/stigma branches and corresponding 6–9(–10) unspined mericarps in a compact fruit; compare 5 in A. incanum.",
+    "fastest_traits": [
+      "Yellow throughout; petals 5–10 mm",
+      "Staminal column hair CONTRADICTORY across FNA (glabrous), UT Austin (some stellate hairs), Kew (hairy); not decisive",
+      "Style 6–9-branched",
+      "Calyx 3–5 mm, reflexed in fruit",
+      "Cask-shaped schizocarp ~8–9 × 8–9 mm",
+      "Mericarp apices acute/apiculate, not long-spined"
+    ],
+    "look_alikes": [
+      {
+        "taxon": "Abutilon incanum",
+        "distinction": "A. incanum has 5 style branches, whereas A. fruticosum typically has 6–9; reports of Texas A. incanum may be misidentifications. Column hair is not a reliable binary because botanical treatments conflict."
+      },
+      {
+        "taxon": "Abutilon theophrasti",
+        "distinction": "Velvetleaf is annual with very large 8–15 cm leaves, 13–15 style branches and a much larger 15 × 20 mm fruit with long 3–6 mm divergent spines."
+      }
+    ],
+    "unreliable_alone": [
+      "gray-green foliage",
+      "yellow flower",
+      "cordate leaf shape",
+      "staminal-column hair absent/present"
+    ]
+  },
+  "diagnostic_photo_targets": [
+    "Flower-center macro showing glabrous staminal column and style branches",
+    "Mature fruit top/side with ruler",
+    "Mericarp apex macro",
+    "Matched flower beside A. incanum",
+    "Whole leaf with scale",
+    "Mature fruit top showing 6–9(–10) mericarp segments clearly counted",
+    "A visible stigma branch/count shot; annotations NOT on yellow anthers"
+  ],
+  "diagnostic_reference_links": [
+    {
+      "source_page": "https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum_kz03.jpg",
+      "role": "Exact-species fruit source candidate",
+      "note": "Verify final license metadata and fruit diagnostic visibility before promotion."
+    }
+  ],
+  "diagnostic_science_sources": [
+    {
+      "source": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250071371"
+    }
+  ],
+  "diagnostic_polish": {
+    "status": "text-polished-flower-reference-added-fruit-and-style-macros-open",
+    "reviewed": "2026-10-11"
+  },
+  "scientific_disagreement": {
+    "character": "Staminal-column pubescence",
+    "evidence": [
+      {
+        "authority": "FNA North America",
+        "statement": "glabrous",
+        "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250071371"
+      },
+      {
+        "authority": "UT Austin A. C. Gibson Williamson County",
+        "statement": "some stellate hairs on staminal column",
+        "url": "https://w3.biosci.utexas.edu/prc/K12/pdf/Abutilon%20fruticosum"
+      },
+      {
+        "authority": "Kew POWO Flora Zambesiaca/Flora Tropical East Africa",
+        "statement": "stellate-hairy/hairy above",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326450-2/general-information"
+      }
+    ],
+    "field_policy": "Use 6–9 style branches and 6–9(–10) fruit mericarps; never automatically require hairless column; source conflict remains open."
+  },
+  "visual_comparison": {
+    "title": "Sweet Indian mallow — identifying the flower and its segmented fruit",
+    "subtitle": "Four local image files including Austin field habit; these three reproduction closeups are exact-species, licensed, and physically installed.",
+    "look_here_first": "A compact short-tipped 6–9(–10)-mericarps fruit, not a large spiny velvetleaf crown. For incanum use styles and 5 versus 6–9 segments.",
+    "items": [
+      {
+        "label": "YELLOW MALLOW FLOWER",
+        "scientific_name": "Abutilon fruticosum",
+        "image_url": "content/taxa/Malvaceae/Abutilon/abutilon-fruticosum/images/02-yellow-flower.jpg",
+        "image_fit": "contain",
+        "caption": "Look at the 5 petals, fused staminal column and stigmas. STYLE count needs a sharper flower-center macro.",
+        "creator": "SAplants",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum_1DS-II_3-2244.jpg",
+        "markers": [],
+        "annotation_status": "Correct source and target species confirmed. Needs original-pixel verification before adding arrows to styles or individual mericarps."
+      },
+      {
+        "label": "SHORT-TIPPED FRUIT · FIRST VIEW",
+        "scientific_name": "Abutilon fruticosum",
+        "image_url": "content/taxa/Malvaceae/Abutilon/abutilon-fruticosum/images/03-compact-fruit-side.jpg",
+        "image_fit": "contain",
+        "caption": "One entire fruit is a SCHIZOCARP; each wedge-shaped segment is a MERICARP. Compare the short unspined segment tips with velvetleaf's much longer spines.",
+        "creator": "Krzysztof Ziarnek, Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum_kz03.jpg",
+        "markers": [],
+        "annotation_status": "Correct source and target species confirmed. Needs original-pixel verification before adding arrows to styles or individual mericarps."
+      },
+      {
+        "label": "SHORT-TIPPED FRUIT · SECOND VIEW",
+        "scientific_name": "Abutilon fruticosum",
+        "image_url": "content/taxa/Malvaceae/Abutilon/abutilon-fruticosum/images/04-compact-fruit-oblique.jpg",
+        "image_fit": "contain",
+        "caption": "A second exact-species fruit view to see the arrangement of wedge-like segments. Use a mm ruler and count real segments on final arrow pass.",
+        "creator": "Krzysztof Ziarnek, Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum_kz04.jpg",
+        "markers": [],
+        "annotation_status": "Correct source and target species confirmed. Needs original-pixel verification before adding arrows to styles or individual mericarps."
+      }
+    ]
+  },
+  "photo_next_pass": {
+    "priority": [
+      "True same-scale 6–9 style/stigma branches in A. fruticosum vs five in A. incanum",
+      "Counted mature 6–9(–10)-segment A. fruticosum fruit, true mm scale",
+      "Uvalde County Jim Conrad public-domain schizocarp side/top images 130901ad.jpg and 130901ae.jpg, confirm retrieval before installation",
+      "Final precise arrows: total schizocarp, one mericarp, short apex; no guesswork"
+    ],
+    "external_reference_page": "https://www.backyardnature.net/n/h/abutilon.htm",
+    "licensed_photos_retained": true
+  }
+}

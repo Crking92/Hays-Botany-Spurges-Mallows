@@ -1,0 +1,456 @@
+{
+  "id": "euphorbia-prostrata",
+  "entry_type": "provisional_species",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "species": "prostrata",
+  "scientific_name": "Euphorbia prostrata",
+  "authority": "Aiton",
+  "common_name": "Prostrate spurge / prostrate sandmat",
+  "synonyms": [
+    "Chamaesyce prostrata"
+  ],
+  "taxonomic_note": "Legacy Master Plant Pool name Chamaesyce prostrata is normalized to the current accepted Euphorbia name.",
+  "look_here_first": "LOOK FIRST at the little three-lobed FRUIT: Euphorbia prostrata has HAIRS concentrated along raised capsule keels and base. Then inspect the SEED: repeated raised CROSSWISE ridges. Check a stem NODE (usually no adventitious roots) and the stipules (upper-side free, lower-side fused), but a photo from one side cannot prove fusion or absence of roots. E. serpens has glabrous capsules, smooth seeds, and often roots at nodes with broad fused stipule scales. Do not identify a sandmat from leaf red spots or flat habit.",
+  "county_occurrences_target_zone": [
+    "Hays"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_metrics_excluded": true,
+  "project_inclusion": {
+    "target_zone_status": "PROVISIONAL",
+    "range_basis": "Hays-local legacy Chamaesyce source; current Kew explicitly treats Chamaesyce prostrata as a synonym of accepted Euphorbia prostrata Aiton.",
+    "range_guardrail": "Installed for active visual learning; broader exact-county reconciliation deferred."
+  },
+  "learner_role": "PROVISIONAL_LEARNER",
+  "morphology_keys": {
+    "family_pattern": "Euphorbia sect. Anisophyllum sandmat: opposite leaves, milky latex, tiny axillary cyathia, and a 3-lobed capsule; hair placement, stipules, capsule pubescence, and seed sculpture are high-value characters.",
+    "growth_form": "Annual with taproot; stems prostrate to decumbent, about 10–30 cm. In the local Williamson County treatment it is mat-forming but does not root at the nodes, unlike E. serpens.",
+    "stems": "Stems crisped-villous to nearly glabrous proximally; hairs are much more evident than in the essentially glabrous E. serpens.",
+    "leaves": "Opposite; blades broadly elliptic to elliptic-oblong, ovate-spatulate, or ovate, usually about 3–11(–15) × 3–6(–8) mm; base slightly asymmetric and rounded to slightly cordate/oblique; margins serrulate at least distally.",
+    "stipules": "Four stipules are associated with each opposite-leaf node: on the upper side of the stem the pair is free; on the lower side the pair is fused across the node. They are triangular-subulate/acuminate, under about 1 mm, often lacerate or fringed distally.",
+    "cyathium": "Cyathia solitary or in small cymose clusters; 4 reddish glands with rudimentary white-to-pink appendages.",
+    "fruit": "Capsule broadly ovoid, about 1.2–2 × 1.4–1.5 mm; crisped-villous along the keels and toward the base, often glabrous between the keels.",
+    "seed": "Seeds about 0.8–1.1 × 0.5–0.7 mm, sharply 4-angled in cross section, with several narrow, sharp, slightly irregular transverse ridges.",
+    "best_field_traits": [
+      "Prostrate mat and opposite leaves are genus-group clues, not final species ID.",
+      "Stems with curly (crisped) hairs; prostrata generally fails to root at ordinary nodes, unlike serpens.",
+      "At nodes: upper stem-side stipules free and lower pair fused, per local UT Williamson account; needs two angles to photograph.",
+      "Green three-lobed capsules with hairs concentrated along KEELS and base, usually smoother between raised edges.",
+      "Mature seeds with conspicuously raised narrow TRANSVERSE ridges (around 1 mm, use photo scale).",
+      "Stems can be reddish but red coloration and leaf blotches are not identifying features.",
+      "Native-target review still PROVISIONAL; not counted in project's native metrics."
+    ],
+    "comparison_training": "Against E. serpens: check a node first—prostrata does not root there and has an upper-free/lower-fused stipule pattern; serpens frequently roots at nodes and has conspicuous fused deltate stipule scales. Then use fruit/seed: prostrata has hairy capsule keels and ridged seeds, while serpens has glabrous capsules and smooth seeds. Against E. villifera: prostrata is prostrate rather than usually erect/ascending and has hairy capsule keels; villifera has distinct filiform stipules, papillate surfaces, and glabrous capsules.",
+    "crew_field_protocol": [
+      "Recognize a tiny creeping Euphorbia by opposite small leaves; don't guess from red spots.",
+      "Look at multiple SOIL-CONTACT nodes for rooting and inspect pale stipules from both stem sides.",
+      "Photograph a 3-lobed fruit, noting whether the raised KEELS are hairy or glabrous.",
+      "Photograph a released mature SEED with 1–2 mm ruler, compare transverse ridges.",
+      "If only a low mat/flower photo, identify to sandmat group rather than force species."
+    ],
+    "county_range_note": "Learner card remains PROVISIONAL; native target-zone threshold not yet certified and metrics excluded."
+  },
+  "curation_status": {
+    "version": "2.0-photo-verified-sandmat-pair",
+    "taxonomy_reviewed": true,
+    "range_reviewed": false,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "provisional": true,
+    "last_reviewed": "2026-10-21",
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "visual_status": "diagnostic-gallery-polished",
+    "annotated_real_photo_count": 4,
+    "verified_arrow_count": 8,
+    "finished_field_id_pass": "CREW_READY; NODE_AND_RANGE_HOLDS",
+    "required_to_finish": [
+      "Lifted node photo with observable lack of adventitious roots",
+      "Two-sided stipule attachment pictures of the SAME node",
+      "Optional matched same-magnification capsule and seed plate"
+    ],
+    "field_status": "FIELD_READY_WITH_OPTIONAL_NODE_VIEW_GAPS"
+  },
+  "photo_note": "Diagnostic gallery now covers whole habit, hairy capsule keels, ridged mature seed, and an exact-species stem/stipule macro. The new stipule view directly supports the node-first prostrata-vs-serpens comparison.",
+  "images": [
+    {
+      "file": "images/euphorbia-prostrata-provisional-face.jpg",
+      "role": "Whole plant / prostrate mat recognizable face",
+      "creator": "Harry Rose",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_prostrata_plant.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "anatomy_arrows": [
+        {
+          "label": "Prostrate branching shoot",
+          "target_fraction": [
+            0.72,
+            0.27
+          ]
+        },
+        {
+          "label": "Opposite leaf pair",
+          "target_fraction": [
+            0.8,
+            0.78
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-20: actual canonical source JPEG pixel image visually inspected; precise arrows only on visible botanical parts; original source scale preserved."
+    },
+    {
+      "file": "images/02-fruit-hairy-keels.jpg",
+      "role": "Fruit macro / capsule keel pubescence",
+      "creator": "Stefan.lefnaer",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_prostrata_sl26.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "anatomy_arrows": [
+        {
+          "label": "Hairs on capsule keel",
+          "target_fraction": [
+            0.22,
+            0.63
+          ]
+        },
+        {
+          "label": "Green capsule face",
+          "target_fraction": [
+            0.58,
+            0.52
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-20: actual canonical source JPEG pixel image visually inspected; precise arrows only on visible botanical parts; original source scale preserved."
+    },
+    {
+      "file": "images/03-seeds-ridged.jpg",
+      "role": "Mature seed macro / 4-angled transverse ridges",
+      "creator": "Stefan.lefnaer",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_prostrata_sl29.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "anatomy_arrows": [
+        {
+          "label": "Strong transverse ridges",
+          "target_fraction": [
+            0.16,
+            0.42
+          ]
+        },
+        {
+          "label": "Another ridged seed",
+          "target_fraction": [
+            0.61,
+            0.43
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-20: actual canonical source JPEG pixel image visually inspected; precise arrows only on visible botanical parts; original source scale preserved."
+    },
+    {
+      "file": "images/04-stem-stipules.jpg",
+      "role": "Stem/node macro / upper-free and lower-fused stipule architecture",
+      "creator": "Stefan.lefnaer",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_prostrata_sl15.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "anatomy_arrows": [
+        {
+          "label": "Pale pointed stipule",
+          "target_fraction": [
+            0.59,
+            0.53
+          ]
+        },
+        {
+          "label": "Curly stem hairs",
+          "target_fraction": [
+            0.31,
+            0.7
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-20: actual canonical source JPEG pixel image visually inspected; precise arrows only on visible botanical parts; original source scale preserved."
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "four_real_source_verified_photo_panels_eight_arrows",
+    "image_count": 4,
+    "filled_at": "2026-10-07",
+    "note": "Four source-verified licensed photos and 8 visually checked arrows already show prostrate habit, diagnostic hairs ON CAPSULE KEELS, prominent raised TRANSVERSE seed ridges and narrow stipules with curly stem hairs. Two-sided node architecture and a comparison frame at matching magnification are optional follow-up, not evidence to fabricate.",
+    "annotated_photo_count": 4,
+    "verified_arrow_count": 8
+  },
+  "comparisons": {
+    "confused_with": [
+      "Euphorbia serpens",
+      "Euphorbia maculata",
+      "Euphorbia humistrata",
+      "Euphorbia villifera",
+      "Euphorbia thymifolia"
+    ],
+    "lookalike_matrix": [
+      {
+        "character": "Habit",
+        "Euphorbia prostrata": "prostrate to decumbent; usually not a tightly rooting mat",
+        "Euphorbia serpens": "strictly prostrate, frequently mat-forming and rooting at nodes",
+        "Euphorbia villifera": "usually erect to ascending, rarely prostrate"
+      },
+      {
+        "character": "Node rooting",
+        "Euphorbia prostrata": "does not root at nodes",
+        "Euphorbia serpens": "frequently roots at nodes; often 1–2 adventitious roots per rooted node",
+        "Euphorbia villifera": "usually erect/ascending; node-rooting is not the defining growth pattern"
+      },
+      {
+        "character": "Stipule architecture",
+        "Euphorbia prostrata": "upper-side pair free; lower-side pair fused across node; triangular-subulate/acuminate",
+        "Euphorbia serpens": "pairs connate into conspicuous broad-deltate membranous scales",
+        "Euphorbia villifera": "distinct, filiform stipules"
+      },
+      {
+        "character": "Hairiness",
+        "Euphorbia prostrata": "crisped-villous on stems/abaxial leaves; fruit hairy on keels",
+        "Euphorbia serpens": "glabrous",
+        "Euphorbia villifera": "usually conspicuously villous over stems and leaves"
+      },
+      {
+        "character": "Leaf margin",
+        "Euphorbia prostrata": "serrulate at least distally",
+        "Euphorbia serpens": "entire",
+        "Euphorbia villifera": "entire or serrulate"
+      },
+      {
+        "character": "Capsule",
+        "Euphorbia prostrata": "hairy along keels/base",
+        "Euphorbia serpens": "glabrous",
+        "Euphorbia villifera": "glabrous"
+      },
+      {
+        "character": "Seed",
+        "Euphorbia prostrata": "sharply 4-angled with transverse ridges",
+        "Euphorbia serpens": "smooth, bluntly 3–4 angled",
+        "Euphorbia villifera": "weakly 4-angled; smooth/faintly rugose or inconspicuously ridged"
+      }
+    ],
+    "key_distinctions": "Start with the node: no node-rooting + upper-free/lower-fused stipules separates E. prostrata from the rooted, fused-scale mat of E. serpens. Then confirm with the hairy capsule keels and sharply ridged seed.",
+    "crew_key": [
+      "Prostrata: HAIRY capsule keels + STRONGLY RIDGED seeds.",
+      "Serpens: GLABROUS capsule + SMOOTH seed without strong crosswise ribs.",
+      "Prostrata: upper-side stipules free and lower fused; serpens: broad, fused triangular scales.",
+      "Serpens OFTEN roots at contact nodes, prostrata usually does not. Absence of a root in ONE view is not proof.",
+      "Without capsule or seed, label E. prostrata–serpens group."
+    ],
+    "unreliable_traits": [
+      "Red leaf spots (variable even in E. maculata)",
+      "Low mat habit alone",
+      "Late-season stem redness",
+      "Seed apparent size on phone screen without real scale"
+    ]
+  },
+  "unreliable_characters": [
+    "red stem color by itself",
+    "disturbed habitat",
+    "prostrate habit alone",
+    "leaf size alone"
+  ],
+  "diagnostic_image_needs": [
+    "whole prostrate habit",
+    "serrulate asymmetric leaf close-up",
+    "capsule macro showing hairy keels",
+    "seed macro showing transverse ridges",
+    "matched E. serpens fruit comparison"
+  ],
+  "photo_research": {
+    "status": "POLISHED_DIAGNOSTIC_GALLERY",
+    "installed_roles": [
+      "whole prostrate habit",
+      "fruit/capsule macro",
+      "mature seed macro",
+      "stem/node stipule macro"
+    ],
+    "next_priority": [
+      "matched E. prostrata vs E. serpens capsule plate"
+    ]
+  },
+  "visual_comparison": {
+    "instance_id": "euphorbia-prostrata-verified-field-20261020",
+    "title": "Euphorbia prostrata — hairy fruit keels and ridged seeds",
+    "subtitle": "Four verified exact-species CC/Commons photos with eight anatomy arrows on actual saved source images. Source restrictions preserved, and no invisible root/nonroot photo claims.",
+    "items": [
+      {
+        "label": "Whole mat: spreading shoots and opposite leaves",
+        "scientific_name": "Euphorbia prostrata",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-prostrata/images/euphorbia-prostrata-provisional-face.jpg",
+        "image_role": "Actual prostrate mat and small opposite leaves",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_prostrata_plant.jpg",
+        "creator": "Harry Rose",
+        "license": "CC BY 2.0",
+        "caption": "Spreading stems and pairs of leaves visible; this photo cannot show whether every node roots below soil.",
+        "why_it_matters": "Begin by finding a typical sandmat, then look for discriminating tiny fruit and seed.",
+        "markers": [
+          {
+            "label": "Prostrate branching shoot",
+            "label_x": 70,
+            "label_y": 15,
+            "target_x": 72,
+            "target_y": 27
+          },
+          {
+            "label": "Opposite leaf pair",
+            "label_x": 63,
+            "label_y": 66,
+            "target_x": 80,
+            "target_y": 78
+          }
+        ]
+      },
+      {
+        "label": "Hairy three-lobed capsule: look at keels",
+        "scientific_name": "Euphorbia prostrata",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-prostrata/images/02-fruit-hairy-keels.jpg",
+        "image_role": "Actual fruit with crisped hairs concentrated along raised lobe edges",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_prostrata_sl26.jpg",
+        "creator": "Stefan.lefnaer",
+        "license": "CC BY-SA 4.0",
+        "caption": "Crisped hairs project from the KEELS of the green three-lobed capsule; comparatively smooth faces lie between. Original scale bar 2 mm; this is a fruit, not a seed.",
+        "why_it_matters": "Strong practical split from the glabrous E. serpens capsule.",
+        "markers": [
+          {
+            "label": "Hairs on capsule keel",
+            "label_x": 8,
+            "label_y": 30,
+            "target_x": 22,
+            "target_y": 63
+          },
+          {
+            "label": "Green capsule face",
+            "label_x": 65,
+            "label_y": 17,
+            "target_x": 58,
+            "target_y": 52
+          }
+        ]
+      },
+      {
+        "label": "Mature seeds: transverse ridges",
+        "scientific_name": "Euphorbia prostrata",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-prostrata/images/03-seeds-ridged.jpg",
+        "image_role": "Four genuine seeds with prominent crosswise raised ridges",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_prostrata_sl29.jpg",
+        "creator": "Stefan.lefnaer",
+        "license": "CC BY-SA 4.0",
+        "caption": "Several strong ridges CROSS each seed; source's 2 mm bar remains present. E. serpens seed lacks this conspicuous ridging.",
+        "why_it_matters": "Seed morphology is an excellent independent confirmation.",
+        "markers": [
+          {
+            "label": "Strong transverse ridges",
+            "label_x": 7,
+            "label_y": 73,
+            "target_x": 16,
+            "target_y": 42
+          },
+          {
+            "label": "Another ridged seed",
+            "label_x": 64,
+            "label_y": 78,
+            "target_x": 61,
+            "target_y": 43
+          }
+        ]
+      },
+      {
+        "label": "Hairy node and pale stipule",
+        "scientific_name": "Euphorbia prostrata",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-prostrata/images/04-stem-stipules.jpg",
+        "image_role": "One side of node showing pale pointed stipule among many curled hairs",
+        "image_fit": "contain",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_prostrata_sl15.jpg",
+        "creator": "Stefan.lefnaer",
+        "license": "CC BY-SA 4.0",
+        "caption": "This one-sided view locates a pale pointed stipule (at leaf-stalk junction), and dense curved stem hairs. It does NOT prove the arrangement on the opposite stem face, nor absence of roots below ground.",
+        "why_it_matters": "Teaches exactly which tiny structure to inspect while avoiding false fusion claims.",
+        "markers": [
+          {
+            "label": "Pale pointed stipule",
+            "label_x": 69,
+            "label_y": 68,
+            "target_x": 59,
+            "target_y": 53
+          },
+          {
+            "label": "Curly stem hairs",
+            "label_x": 7,
+            "label_y": 63,
+            "target_x": 31,
+            "target_y": 70
+          }
+        ]
+      }
+    ],
+    "overlay_note": "Habit © Harry Rose CC BY 2.0; macro photos © Stefan.lefnaer CC BY-SA 4.0. Scale bars visible in original source files."
+  },
+  "field_photo_quickcheck": {
+    "heading": "Prostrate sandmat: HAIRY capsule, RIDGED seed",
+    "featured_photo_indices": [
+      1,
+      2,
+      3,
+      0
+    ],
+    "steps": [
+      "Locate a green capsule with 3 lobes. Projecting hairs on its raised keels point to prostrata.",
+      "See several repeated ridges crossing a mature seed in the verified 2 mm scale macro.",
+      "At the plant node, find the pale stipule amid curled hairs; inspect both stem sides in the field.",
+      "Gently lift several nodes to check for adventitious roots, using capsule and seed traits as confirmation."
+    ],
+    "field_rule": "Hairs along 3-lobed capsule keels and strong seed ridges support E. prostrata; confirm with node anatomy.",
+    "warning": "No source photograph proves the plant never roots at a node, or reveals the upper-free/lower-fused stipule arrangement from two sides. Those remain explicit photo needs."
+  },
+  "field_id_finalization": {
+    "review_date": "2026-10-21",
+    "stage": "FIELD_READY_WITH_OPTIONAL_NODE_GAPS",
+    "reviewed_source_photo_count": 4,
+    "verified_anatomy_arrows": 8,
+    "field_training_status": "CREW_READY_FOR_FRUIT_AND_SEED_RECOGNITION; ROOT_AND_NODE_PHOTO_GAPS",
+    "source_review": "Four physical canonical licensed JPEG files individually fetched and visually inspected; 8 markers on exact photographed habit/cyathium, stipule, fruit and seed; no other photos relabeled or rights broadened.",
+    "missing": [
+      "Optional two-sided close-up of stipules at the SAME node to resolve asymmetric fusion",
+      "Optional matched prostrata versus maculata seed views at same measured scale",
+      "Do not claim absence of nodal roots from any one photograph; assess several nodes in field"
+    ],
+    "native_range_hold": "PROVISIONAL and native_metrics_excluded kept unchanged",
+    "closeout_note": "2026-10-21 existing fruit-keel, ribbed seed, stipule and habit photo claims independently corroborated by Flora of North America. Existing checked arrow positions retained. Diagnostic fruit/seed lesson field-ready."
+  },
+  "diagnostic_photo_requirements": [
+    {
+      "role": "Lifted node photo with observable lack of adventitious roots",
+      "status": "OPEN"
+    },
+    {
+      "role": "Two-sided stipule attachment pictures of the SAME node",
+      "status": "OPEN"
+    },
+    {
+      "role": "Optional matched same-magnification capsule and seed plate",
+      "status": "OPEN"
+    }
+  ],
+  "curated_sources": [
+    "https://w3.biosci.utexas.edu/prc/K12/pages/Euphorbia%20prostrata.html",
+    "https://w3.biosci.utexas.edu/prc/K12/pages/Euphorbia%20serpens.html",
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=318097"
+  ]
+}

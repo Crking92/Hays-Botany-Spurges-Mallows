@@ -1,0 +1,342 @@
+{
+  "id": "croton-monanthogynus",
+  "entry_type": "species",
+  "family": "Euphorbiaceae",
+  "genus": "Croton",
+  "species": "monanthogynus",
+  "scientific_name": "Croton monanthogynus",
+  "authority": "Michx.",
+  "common_name": "Prairie Tea",
+  "look_here_first": "LOOK HERE FIRST — PRAIRIE TEA: A low, repeatedly branching annual Croton with small, entire-edged leaves, pale stellate-hairy underside, and tiny clustered flowers. THE DECISIVE MICRO-CLUES are (A) abaxial dark-BROWN-CENTERED stellate hairs that look like little brown dots with a lens and (B) two female styles, each bifid, giving FOUR terminal style arms. The unusual fruit has one functional seed. Croton lindheimerianus can have nearly the same low branching habit, but its leaf underside lacks the brown-centered hair effect and it has THREE bifid styles / SIX terminal arms. Do NOT claim the exact hairs or style count can be seen in these present whole-plant photos; photograph multiple undersides and an open female flower with a scale.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Kerr"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Corrected exact target-zone PASS: Hays, Travis, Kerr. Williamson is not counted toward the project threshold.",
+    "range_guardrail": "Exact project target-zone county evidence only; Williamson excluded from threshold."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "small annual often branching near the base",
+      "dark-centered stellate hairs on lower leaf surface",
+      "short congested racemes",
+      "two deeply bifid styles with four terminal branches",
+      "effectively one-seeded capsule"
+    ],
+    "comparison_training": "LOOK HERE FIRST: on a sharp underside macro, dark-centered stellate hairs can appear as brown specks; check multiple leaves. On a flowering female plant, count two deeply divided styles producing four terminal branches, and inspect mature fruit for the characteristically reduced one-seeded condition. Croton lindheimerianus has different leaf indumentum and typically three styles divided into six tips; C. texensis generally has narrow foliage and separate male/female plants with warty fruit. Do not identify from low bushy habit or pale flowers alone."
+  },
+  "comparisons": {
+    "key_distinctions": "LOOK HERE FIRST: on a sharp underside macro, dark-centered stellate hairs can appear as brown specks; check multiple leaves. On a flowering female plant, count two deeply divided styles producing four terminal branches, and inspect mature fruit for the characteristically reduced one-seeded condition. Croton lindheimerianus has different leaf indumentum and typically three styles divided into six tips; C. texensis generally has narrow foliage and separate male/female plants with warty fruit. Do not identify from low bushy habit or pale flowers alone.",
+    "confused_with": [
+      "Croton lindheimerianus",
+      "Croton texensis",
+      "Croton lindheimeri",
+      "Croton glandulosus (outside installed scope)"
+    ],
+    "field_matrix": [
+      {
+        "taxon": "Croton monanthogynus",
+        "quick_rule": "Brown-centered stellate hair underside + TWO bifid styles / FOUR tips",
+        "vegetative": "Very low, repeatedly branching, small entire leaves; not decisive alone",
+        "fruit": "One functioning seed, smooth follicle-like fruit"
+      },
+      {
+        "taxon": "Croton lindheimerianus",
+        "quick_rule": "No dark-brown-centered star hairs; THREE bifid styles / SIX tips",
+        "vegetative": "Also low branched, hairy broad leaf blade",
+        "fruit": "Smooth generally three-chambered capsule"
+      },
+      {
+        "taxon": "Croton texensis",
+        "quick_rule": "Male and female on separate plants; warty mature female capsule",
+        "vegetative": "Usually more upright with narrow leaves and long internodes",
+        "fruit": "Verrucose/wart-covered capsule"
+      }
+    ],
+    "not_reliable_alone": [
+      "Little bushy Croton habit: monanthogynus and lindheimerianus overlap.",
+      "Gray leaf fuzz is not proof of brown-CENTERED star-shaped hair.",
+      "A male flower with stamens cannot show the number of female style branches.",
+      "Individual leaf pairs near a cluster can look opposite; the mature Croton leaf arrangement is alternate."
+    ]
+  },
+  "photo_strategy": {
+    "method": "FAST-FILL existing reviewed study-media handoff",
+    "visual_priority": "Use current exact-species study candidates where available; photo backfill may add stronger diagnostic macros later.",
+    "remaining_need": "Learner Photo Backfill visual polish is nonblocking."
+  },
+  "learner_role": "PROJECT_NATIVE",
+  "curation_status": {
+    "version": "1.1-monanthogynus-three-verified-gallery-20261021",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "visual_reviewed": true,
+    "visual_status": "FIELD_READY_PHOTO_GAPS: 3 exact species locally stored photographs, 8 actual visually checkable arrow placements. Diagnostic abaxial brown-centered stellate hairs, pistillate FOUR tips and true one-seeded fruit not photographed at needed magnification; no taxon/range status changed.",
+    "last_reviewed": "2026-10-21",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "glass_root_garden_photo_install": "2026-10-14"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Glass Root Garden owned-photo additions installed 2026-10-14; more diagnostic macros remain useful. NEEDS_DIAGNOSTIC_PHOTO: calibrated underside stellate-hair macro, style branches, and mature fruit/seed; existing three views show habit and leaves, not those microscopic tie-breakers. annotation_pending until actual pixels and rights verified.",
+  "images": [
+    {
+      "file": "images/croton-monanthogynus-provisional-face.jpg",
+      "role": "Recognize · low leafy branched plant with numerous small pale green oval leaves and tiny clustered flowers; trichomes not resolved",
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Croton_monanthogynus_kz01.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/glass-root-garden-665835725-leaves-and-tiny-flowers.jpg",
+      "role": "Croton monanthogynus: leafy branching shoots and small developing flower clusters; leaf shape and plant architecture visible, minute hairs require macro",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/665835725",
+      "observation_url": "https://www.inaturalist.org/observations/364722824",
+      "observation_id": 364722824,
+      "photo_id": 665835725,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/665835725/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    },
+    {
+      "file": "images/glass-root-garden-573574571-low-bushy-habit.jpg",
+      "role": "Croton monanthogynus: low rounded branching habit with many narrow leaves in open rocky-ground vegetation; whole-plant recognition",
+      "creator": "Glass Root Garden",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_basis": "Direct license from photographer confirmed in user conversation 2026-10-14",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/573574571",
+      "observation_url": "https://www.inaturalist.org/observations/317421804",
+      "observation_id": 317421804,
+      "photo_id": 573574571,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/573574571/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "photo_review": "hand-reviewed and exact-species observation verified",
+      "anatomy_arrows": "not yet installed; only label directly observed structures"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_diagnostic_lesson": {
+    "title": "Prairie tea: low bush first, then hairs and four tips",
+    "steps": [
+      {
+        "stage": "1 — HABIT",
+        "look": "Small entire leaves on widely branched low annual",
+        "what": "Use whole-plant photos to recognize it; near-ground branches and small clusters visible. Habit overlaps three-seed croton."
+      },
+      {
+        "stage": "2 — FLIP LEAF",
+        "look": "Dark-centered STELLATE HAIRS on underside",
+        "what": "Use 10–20× lens or stacked smartphone macro of the BACK of several leaves. Brown-dot centers should be actual stellate hair disks, not dirt, fungal spots or green tissue flecks. NOT photo-proven here."
+      },
+      {
+        "stage": "3 — FIND FEMALE",
+        "look": "Two BIFID styles with FOUR terminal ends",
+        "what": "Locate pistillate flower/early fruit; focus from above/oblique and count four endpoints. A male stamen cluster is not countable female style evidence. NOT photo-proven here."
+      },
+      {
+        "stage": "4 — FRUIT",
+        "look": "Smooth effectively ONE-SEEDED capsule",
+        "what": "Photograph mature fruit and seeds with millimeter ruler, show the one fertile locule if dissecting. Not shown by existing gallery."
+      }
+    ],
+    "memory_rule": "SMALL BUSH + BROWN-DOTTED STAR HAIRS + FOUR FEMALE STYLE TIPS = PRAIRIE TEA."
+  },
+  "visual_comparison": {
+    "title": "Prairie tea: small branches, tiny flowers, missing microproof",
+    "subtitle": "Three physically present CC-authorized exact species photographs, EIGHT image-pixel checked tissue arrows. The key dark-centered underside hairs and FOUR style arms remain specific photo macro gaps, not fabricated annotations.",
+    "items": [
+      {
+        "label": "1 · Prairie tea — low branching plant",
+        "scientific_name": "Croton monanthogynus",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-monanthogynus/images/croton-monanthogynus-provisional-face.jpg",
+        "image_fit": "contain",
+        "creator": "Krzysztof Ziarnek, Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Croton_monanthogynus_kz01.jpg",
+        "image_role": "Source-correct real prairie tea whole plant, NOT dark-centered stellate-hair microscope",
+        "caption": "A low annual branches repeatedly, carrying numerous pale small leaves and minute cream flower clusters. The brown-dotted underside and precisely four style tips are NOT visible at this scale.",
+        "why_it_matters": "Teaches prairie tea's branching silhouette, which can overlap C. lindheimerianus; do not identify on shape alone.",
+        "markers": [
+          {
+            "label": "Many basal/side branches",
+            "label_x": 3,
+            "label_y": 84,
+            "target_x": 45,
+            "target_y": 63
+          },
+          {
+            "label": "Simple oval leaf",
+            "label_x": 2,
+            "label_y": 35,
+            "target_x": 29,
+            "target_y": 37
+          },
+          {
+            "label": "Tiny flower cluster",
+            "label_x": 65,
+            "label_y": 7,
+            "target_x": 64,
+            "target_y": 30
+          }
+        ]
+      },
+      {
+        "label": "2 · Prairie tea — Glass Root Garden leafy stems",
+        "scientific_name": "Croton monanthogynus",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-monanthogynus/images/glass-root-garden-665835725-leaves-and-tiny-flowers.jpg",
+        "image_fit": "contain",
+        "creator": "Glass Root Garden",
+        "license": "CC BY 4.0",
+        "source_page": "https://www.inaturalist.org/photos/665835725",
+        "image_role": "Owner's exact-source greenery and developing inflorescences, star hair centers unresolvable",
+        "caption": "Owner photo shows alternating short-stalked leaves of variable size along slender branches and small clusters of greenish flowers. The leaf underside texture is NOT magnified enough to prove a brown-centered star hair.",
+        "why_it_matters": "Good real-world look of the stem-leaf architecture in local-style mixed growth.",
+        "markers": [
+          {
+            "label": "Elliptical leaf blade",
+            "label_x": 2,
+            "label_y": 48,
+            "target_x": 27,
+            "target_y": 49
+          },
+          {
+            "label": "Flower cluster on branch",
+            "label_x": 60,
+            "label_y": 80,
+            "target_x": 52,
+            "target_y": 73
+          },
+          {
+            "label": "Slender branching axis",
+            "label_x": 66,
+            "label_y": 51,
+            "target_x": 52,
+            "target_y": 52
+          }
+        ]
+      },
+      {
+        "label": "3 · Prairie tea — Glass Root Garden full low habit",
+        "scientific_name": "Croton monanthogynus",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-monanthogynus/images/glass-root-garden-573574571-low-bushy-habit.jpg",
+        "image_fit": "contain",
+        "creator": "Glass Root Garden",
+        "license": "CC BY 4.0",
+        "source_page": "https://www.inaturalist.org/photos/573574571",
+        "image_role": "Owner's true source specimen full annual bushy habit on rocky ground",
+        "caption": "The plant occupies a low rounded mound of many short densely leafy branches; flowers are tiny. The photographed base is partly hidden and no individual stellate-hair centers or female style branches can be counted.",
+        "why_it_matters": "Crew first-recognition photo, not a diagnostic specimen at microscale.",
+        "markers": [
+          {
+            "label": "Low mound of leafy shoots",
+            "label_x": 60,
+            "label_y": 10,
+            "target_x": 45,
+            "target_y": 34
+          },
+          {
+            "label": "Repeated branching",
+            "label_x": 66,
+            "label_y": 75,
+            "target_x": 53,
+            "target_y": 67
+          }
+        ]
+      }
+    ],
+    "memory_rule": "PRAIRIE TEA = low branchy annual + dark-centered star hairs underside + FOUR female style tips. Current images show ONLY the broad habit and leaves.",
+    "annotation_status": "Whole-plant photos individually inspected for arrow target placement; no microscopic hair center or style count false claims; owner mobile QA still pending.",
+    "part_examples": [
+      {
+        "title": "Low spreading bush and small leaves",
+        "role": "field recognition",
+        "anchor_species_id": "croton-monanthogynus",
+        "image_file": "images/glass-root-garden-573574571-low-bushy-habit.jpg",
+        "look_for": "Low rounded bush covered in small leaves",
+        "why_it_matters": "Separates from taller and shrubbier crotons, but not enough for C. lindheimerianus alone."
+      },
+      {
+        "title": "Flip the leaf — need brown-centered star hairs",
+        "role": "abaxial stellate hairs",
+        "status": "needs_photo",
+        "look_for": "Actual brown center at focus under 10–20× magnification, compared with non-brown-centered lindheimerianus",
+        "why_it_matters": "Highest value exact-species split."
+      },
+      {
+        "title": "Count four female style tips",
+        "role": "pistillate flower",
+        "status": "needs_photo",
+        "look_for": "Two forked styles with FOUR clear free ends on a true exact-species female flower",
+        "why_it_matters": "Distinguishes from three-seed croton's SIX ends."
+      }
+    ]
+  },
+  "field_photo_quickcheck": {
+    "heading": "Croton monanthogynus: see the habit, then check underside",
+    "featured_photo_indices": [
+      2,
+      1,
+      0
+    ],
+    "steps": [
+      "Locate a small many-branched annual with alternating simple entire leaves.",
+      "Flip a leaf: seek actual BROWN-CENTERED star hairs at 10–20×. Current images do NOT resolve those centers.",
+      "Find a female flower and count FOUR style tips (two bifid styles); a male white staminate flower cannot prove it.",
+      "Compare with C. lindheimerianus: overlapping habit but lacking the brown-dot hair character and with SIX female tips."
+    ],
+    "field_rule": "Habit is provisional. Brown-centered hairs and female four tips should confirm when measurable; otherwise record Croton sp.",
+    "warning": "The three real images show low habit/leaf/flower clusters only. Brown-centered hairs and style counts are scientifically documented but NOT visually demonstrated.",
+    "owner_mobile_review": "PENDING"
+  },
+  "diagnostic_photo_targets": [
+    {
+      "role": "underside of several leaves showing dark BROWN-CENTERED stellar hairs",
+      "status": "NEEDS_LICENSED_MACRO"
+    },
+    {
+      "role": "full-focus pistillate head with 2 bifid styles / FOUR ends",
+      "status": "NEEDS_LICENSED_MACRO"
+    },
+    {
+      "role": "one-seeded mature capsule and seed size with 1mm scale",
+      "status": "NEEDS_LICENSED_MACRO"
+    }
+  ]
+}

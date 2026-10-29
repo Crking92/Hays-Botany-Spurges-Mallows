@@ -1,0 +1,191 @@
+{
+  "id": "argythamnia-aphoroides",
+  "entry_type": "species",
+  "family": "Euphorbiaceae",
+  "genus": "Argythamnia",
+  "species": "aphoroides",
+  "scientific_name": "Argythamnia aphoroides",
+  "authority": "Müll.Arg.",
+  "common_name": "Hill Country wild-mercury",
+  "synonyms": [
+    "Ditaxis aphoroides (Müll.Arg.) Pax"
+  ],
+  "taxonomic_note": "Current Kew/POWO treatment accepts Argythamnia aphoroides; Ditaxis aphoroides is retained as a homotypic synonym.",
+  "look_here_first": "Start with sessile leaves and a 3–8 cm axillary inflorescence. The strongest split from A. simulans is that A. aphoroides inflorescences are unisexual; then confirm with 10 stamens and a relatively large 7–9 mm woolly capsule.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Comal",
+    "Bexar"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Deep Review B independently documented Hays, Comal, and Bexar using federal/TPWD-linked county evidence.",
+    "range_guardrail": "Edwards Plateau habitat is supportive context only; the PASS uses exact county records."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "low perennial herb or subshrub",
+      "limestone-derived Edwards Plateau grassland/open oak-juniper habitat",
+      "small unisexual flowers in axillary racemes",
+      "proximal pistillate and distal staminate flowers",
+      "non-muricate 3-carpellate capsule",
+      "seeds lacking a caruncle"
+    ],
+    "comparison_training": "Separate from A. humilis and A. simulans with inflorescence, flower, capsule, and seed characters; habit and habitat alone are not secure.",
+    "petiole": "Absent; leaves sessile",
+    "inflorescence": "Unisexual; 3–8 cm",
+    "staminate_flower": "Sepals 4–5.5 mm; petals 3.3–4 mm, free from androphore; 10 stamens; 0 staminodes",
+    "pistillate_flower": "Sepals 6–7 mm; styles 1.5–3 mm, tomentose; stigmas flattened",
+    "fruit_seed": "Capsules 7–9 mm, tomentose to lanulose; seeds 3.7–5 mm, smooth to lightly tuberculate or striate"
+  },
+  "comparisons": {
+    "confused_with": [
+      "Argythamnia humilis",
+      "Argythamnia simulans"
+    ],
+    "key_distinctions": "Reproductive architecture and fruit/seed characters should drive identification rather than general low stature or limestone habitat."
+  },
+  "tags": [
+    "Euphorbiaceae",
+    "Argythamnia",
+    "Hill Country",
+    "Edwards Plateau",
+    "Reproductive characters"
+  ],
+  "curation_status": {
+    "version": "1.0-pass-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-04",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "external_first_photo_install": "2026-10-15",
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "diagnostic_image_needs": [
+    "whole habit",
+    "leaf/stem close-up",
+    "staminate and pistillate flower macro",
+    "mature capsule",
+    "seed"
+  ],
+  "photo_note": "Final diagnostic flower/fruit image selection and image-specific license verification remain later polish. First-pass CC-licensed observation photo installed; precise anatomy and image quality require visual review. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling.",
+  "field_diagnostics": {
+    "single_best_trait": "Sessile leaves + 3–8 cm unisexual inflorescences.",
+    "fastest_traits": [
+      "Petiole absent",
+      "Inflorescences unisexual, 3–8 cm",
+      "Staminate flowers with 10 stamens and no staminodes",
+      "Styles 1.5–3 mm and tomentose",
+      "Capsules 7–9 mm, tomentose to lanulose",
+      "Seeds 3.7–5 mm"
+    ],
+    "look_alikes": [
+      {
+        "taxon": "Argythamnia humilis",
+        "distinction": "A. humilis has a 2–10 mm petiole and extremely short 0.7–0.9 cm raceme; its capsules and seeds are much smaller."
+      },
+      {
+        "taxon": "Argythamnia simulans",
+        "distinction": "Both are sessile and long-racemed. A. aphoroides has unisexual inflorescences and 10 stamens; A. simulans has bisexual inflorescences and 7–8 stamens."
+      }
+    ],
+    "unreliable_alone": [
+      "low perennial habit",
+      "hairiness",
+      "Edwards Plateau habitat"
+    ]
+  },
+  "diagnostic_photo_targets": [
+    "Sessile leaf node with ruler",
+    "Entire 3–8 cm raceme with ruler",
+    "Unisexual raceme showing one sex only",
+    "Staminate flower macro showing 10 stamens",
+    "Mature 7–9 mm woolly capsule with scale",
+    "Seed macro with scale"
+  ],
+  "diagnostic_reference_links": [
+    {
+      "source_page": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:339338-1/images",
+      "role": "Exact-species Kew herbarium reference",
+      "license_note": "POWO lists Kew herbarium catalogue images under CC BY 3.0; verify the individual image credit before public export."
+    },
+    {
+      "source_page": "https://data.huh.harvard.edu/databases/specimen_search.php?family=Euphorbiaceae&limit=5000&mode=search&start=0",
+      "role": "Harvard exact-species type/isotype specimen pool — Lindheimer 686, Upper Guadalupe, Texas",
+      "license_note": "Use as source pool; verify individual specimen-image rights before reuse."
+    }
+  ],
+  "diagnostic_science_sources": [
+    {
+      "source": "Flora of North America",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101517"
+    }
+  ],
+  "diagnostic_polish": {
+    "status": "text-polished-photo-targets-open",
+    "reviewed": "2026-10-11"
+  },
+  "images": [
+    {
+      "file": "images/inat-first-717973641.jpg",
+      "role": "Exact-taxon first-pass recognition photo; visible diagnostic parts not yet personally verified",
+      "creator": "Eric Knight",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/717973641",
+      "observation_url": "https://www.inaturalist.org/observations/391813984",
+      "photo_id": "717973641",
+      "observation_id": "391813984",
+      "source_recorded_photo_license_at_download": "cc-by",
+      "source_recorded_photo_attribution_at_download": "(c) Eric Knight, some rights reserved (CC BY)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/717973641/large.jpg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes, attribution required",
+      "photo_review": "Automated source/license/Research Grade/identity match and image-byte verification; provisional, anatomical features unverified",
+      "anatomy_arrows": "none; targets unverified"
+    },
+    {
+      "file": "images/gbif-manual-6490988647-1d5eb074d.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Sessile leaf base and long unisexual axillary raceme; woolly fruit",
+      "creator": "Washington State University Marion Ownbey Herbarium (WS-WS)",
+      "license": "CC BY-NC",
+      "license_url": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6490988647",
+      "gbif_occurrence_id": "6490988647",
+      "source_determination": "Argythamnia aphoroides Müll.Arg.",
+      "accepted_target": "Argythamnia aphoroides",
+      "media_source_url": "https://intermountainbiota.org/media/intermt/WS/00416/WS068331.JPG",
+      "image_dimensions": [
+        900,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "note": "One exact-taxon Research Grade photo provisionally installed; morphological teaching views need visual review.",
+    "missing_diagnostic_views": [
+      "Species-diagnostic macros and visually checked morphology"
+    ]
+  }
+}

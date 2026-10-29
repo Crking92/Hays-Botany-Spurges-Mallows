@@ -1,0 +1,270 @@
+{
+  "rank": "genus",
+  "family": "Lythraceae",
+  "name": "Lythrum",
+  "common_group": "Loosestrifes",
+  "project_scope": {
+    "source": "Master Plant Pool and Lythraceae family module, 2026-10-14",
+    "source_pool_species": [
+      "Lythrum alatum",
+      "Lythrum californicum"
+    ],
+    "canonical_species_ids": [],
+    "status": "genus lesson only; both species not manifest-backed",
+    "note": "Source-pool admission is separate from native-range certification. Do not install taxa or count as native from this genus module."
+  },
+  "look_here_first": "LOOK HERE FIRST: find a mature flowering shoot and compare leaf width and placement on its lower versus upper nodes. Both have slender raceme-like upper flowering axes and a persistent narrow floral tube. L. californicum usually has more open branching, gray-glaucous foliage and very narrow upper leaves (often linear, 1–7 mm wide); L. alatum tends to have less uniformly linear leaves and conspicuous stem angles or wings. Turn one flower sideways to inspect the floral tube and epicalyx; do not identify by purple flower color.",
+  "shared_genus_traits": [
+    "Wetland or moist-soil perennial herbs with simple entire leaves; lower leaves may be opposite and upper leaves alternate.",
+    "Small flowers borne singly or in small groups along elongated leafy flowering axes; each flower has a narrow persistent floral tube (hypanthium), six stamens in the project pair, and a superior ovary.",
+    "Dry many-seeded capsules mature inside the persistent floral tube. Flowers can have differing relative style and stamen lengths (distyly); one flower view does not represent all morphs."
+  ],
+  "species_comparison_matrix": [
+    {
+      "character": "Upper leaf width and outline — primary",
+      "alatum": "Often oblong to lanceolate, variable across varieties; not uniformly threadlike.",
+      "californicum": "Upper blades mostly linear or linear-oblong; FNA reports 7–60 × 1–7 mm across positions.",
+      "how_to_check": "Photograph 5 fully grown lower and upper leaves on a ruler; do not use one reduced bract."
+    },
+    {
+      "character": "Vegetative branching",
+      "alatum": "Often relatively less open, but variable.",
+      "californicum": "Often more open with much distal branching.",
+      "how_to_check": "Whole flowering shoot including main axis and branches; use only in combination with leaf morphology."
+    },
+    {
+      "character": "Stem surface",
+      "alatum": "Usually distinctly 4-angled, sometimes winged.",
+      "californicum": "Ridged or angled stems may occur; not an exclusive character.",
+      "how_to_check": "Macro of mid-stem cross-section/angles; never use wings alone."
+    },
+    {
+      "character": "Floral tube / hypanthium",
+      "alatum": "Cylindrical tube, measure against regional key; overlap expected.",
+      "californicum": "FNA: cylindrical floral tube 5–7 × 1–1.5 mm.",
+      "how_to_check": "Side-on intact flower macro with mm scale, show base to sepals; avoid conflating petal length and tube length."
+    },
+    {
+      "character": "Petal size",
+      "alatum": "Often around 3–7 mm in regional descriptions, variable.",
+      "californicum": "FNA: petals 4–6 × 2–4.5 mm.",
+      "how_to_check": "Measure intact flat petal; overlap makes this secondary."
+    },
+    {
+      "character": "Reproductive style/stamen morphs",
+      "alatum": "Distyly occurs in native Lythrum; check multiple flowers.",
+      "californicum": "FNA describes distylous flowers, 6 stamens.",
+      "how_to_check": "Compare flower centers across individuals; do not key species solely by style length."
+    },
+    {
+      "character": "Mature fruit",
+      "alatum": "Many-seeded capsule inside persistent floral tube.",
+      "californicum": "Capsule splits septicidally or septifragally; seeds numerous.",
+      "how_to_check": "Attached ripe capsule and dissected seed/valve view; genus confirmation, not primary species split."
+    }
+  ],
+  "quick_key": [
+    "1. Verify Lythraceae by the persistent tubular floral cup around a superior ovary, rather than treating the cup as an inferior ovary.",
+    "2. Check multiple upper stem leaves: very narrow linear blades and open glaucous branching support L. californicum.",
+    "3. Broader variable lanceolate leaves with strongly 4-angled/winged stems support L. alatum; check infraspecific variation.",
+    "4. Measure floral tube, petals, epicalyx and mature fruit with magnification; if characters conflict, retain Lythrum sp. and request a regional-key review."
+  ],
+  "genus_diagnostics": {
+    "look_here_first": "Whole shoot → upper leaf blade with scale → side-on floral tube → epicalyx/sepals → mature capsule.",
+    "shared_structure_examples": [
+      {
+        "term": "hypanthium / floral tube",
+        "plain": "A narrow cup-like tube around the flower's seed-forming ovary.",
+        "photo_role": "side-on intact flower with petals and sepals visible",
+        "where_to_look": "Follow the narrow tube from the stalk to the sepal teeth.",
+        "why": "Shared genus/family clue; compare its length and shape without confusing it with the pedicel.",
+        "status": "needs_photo"
+      },
+      {
+        "term": "epicalyx appendages and sepals",
+        "plain": "Small pointed projections near the mouth of the floral tube.",
+        "photo_role": "flower base macro at 10× with mm ruler",
+        "where_to_look": "Count true sepal tips and alternating accessory projections separately.",
+        "why": "Useful regional-key structures, not obvious in a distant flower photo.",
+        "status": "needs_photo"
+      },
+      {
+        "term": "opposite-to-alternate leaf transition",
+        "plain": "Leaves lower on a shoot can come in pairs while higher leaves occur singly.",
+        "photo_role": "complete shoot plus two successive leaf-node close-ups",
+        "where_to_look": "Photograph lower and upper nodes on the SAME shoot.",
+        "why": "Shared pattern; upper leaf width is more useful for the two-species comparison.",
+        "status": "needs_photo"
+      },
+      {
+        "term": "capsule",
+        "plain": "Dry fruit with many small seeds, enclosed by the old floral tube.",
+        "photo_role": "attached mature capsule and dissected fruit",
+        "where_to_look": "Trace the capsule back to the persistent floral cup.",
+        "why": "Reinforces Lythraceae identification after petals fall.",
+        "status": "needs_photo"
+      }
+    ]
+  },
+  "study_strategy": {
+    "teaching_order": [
+      "Photograph full flowering shoot and upper/lower leaves.",
+      "Measure multiple upper leaf blades, not tiny bracts.",
+      "Compare branch openness and stem angles, with overlap caution.",
+      "Turn one flower side-on; identify floral tube, sepals and epicalyx.",
+      "Follow a fruit into maturity; verify capsule inside persistent tube."
+    ],
+    "warning": "FNA explicitly notes problematic intermediates between L. alatum varieties and L. californicum, including in eastern Texas. Do not turn upper-leaf width or purple flower color into a single-character absolute key."
+  },
+  "comparison_cards": [
+    {
+      "title": "Narrow upper leaves versus broader variable leaves",
+      "taxon_ids": [
+        "lythrum-alatum",
+        "lythrum-californicum"
+      ],
+      "look_here_first": "L. californicum tends toward linear upper blades 1–7 mm wide; L. alatum is often less uniformly linear.",
+      "photo_requirements": [
+        "same-scale complete upper shoots and upper leaves of both species"
+      ],
+      "caution": "L. alatum var. lanceolatum can approach californicum; verify a regional key."
+    },
+    {
+      "title": "The floral tube is not the stalk",
+      "taxon_ids": [
+        "lythrum-alatum",
+        "lythrum-californicum"
+      ],
+      "look_here_first": "Identify the persistent tube with sepal and epicalyx tips; distinguish from the short pedicel.",
+      "photo_requirements": [
+        "matched side-on flower bases, mm scale and fruiting tube"
+      ],
+      "caution": "Petal length and tube length overlap; verify both species using more than one character."
+    },
+    {
+      "title": "Lythrum versus Ammannia and Rotala",
+      "taxon_ids": [
+        "lythrum-alatum",
+        "lythrum-californicum"
+      ],
+      "look_here_first": "Lythrum has more conspicuous flowers along slender flowering axes; Ammannia has small axillary cymes and often auriculate leaf bases; Rotala ramosior has tiny axillary flowers and tapered leaf bases.",
+      "photo_requirements": [
+        "matched Lythrum flower axis and Ammannia/Rotala node-flower views"
+      ],
+      "caution": "Do not infer genus from color or leaf arrangement alone; check floral tube and fruit."
+    }
+  ],
+  "local_lookalikes": [
+    {
+      "taxon": "Ammannia auriculata / A. coccinea",
+      "why_confusable": "Wetland herbs with small flowers and persistent floral tubes.",
+      "separate": "Ammannia tends to small axillary cymes and often auriculate clasping leaves; compare intact nodes and mature capsules."
+    },
+    {
+      "taxon": "Rotala ramosior",
+      "why_confusable": "Small wetland Lythraceae with opposite leaves.",
+      "separate": "Tapered leaf bases and very small solitary axillary flowers; check mature floral tube."
+    },
+    {
+      "taxon": "Lythrum salicaria (non-native comparison)",
+      "why_confusable": "Purple flowers and wet habitat.",
+      "separate": "Dense showy spikes versus more open native project pair; verify taxon before invasive labeling or range decisions."
+    }
+  ],
+  "diagnostic_photo_checklist": [
+    {
+      "role": "matched_upper_leaf_width",
+      "targets": [
+        "lythrum-alatum",
+        "lythrum-californicum"
+      ],
+      "status": "needs_photo",
+      "need": "Whole shoot plus 5 measured mature upper blades per species; ruler and node positions."
+    },
+    {
+      "role": "stem_angle_and_branching",
+      "targets": [
+        "lythrum-alatum",
+        "lythrum-californicum"
+      ],
+      "status": "needs_photo",
+      "need": "Same-scale branching architecture and stem angle/wing close-ups."
+    },
+    {
+      "role": "floral_tube_epicalyx",
+      "targets": [
+        "lythrum-alatum",
+        "lythrum-californicum"
+      ],
+      "status": "needs_photo",
+      "need": "Side-view floral tubes with scale, separate sepal and epicalyx tips; future arrows annotation_pending."
+    },
+    {
+      "role": "style_stamen_morphs",
+      "targets": [
+        "lythrum-alatum",
+        "lythrum-californicum"
+      ],
+      "status": "needs_photo",
+      "need": "Clear flower-center views across individuals; avoid inferring morph from one obscured flower."
+    },
+    {
+      "role": "capsule",
+      "targets": [
+        "lythrum-alatum",
+        "lythrum-californicum"
+      ],
+      "status": "needs_photo",
+      "need": "Attached fruit and opened capsule with seeds, ruler and attribution."
+    }
+  ],
+  "visual_comparison": {
+    "title": "Lythrum — two source-pool species awaiting diagnostic photographs",
+    "subtitle": "No exact-species canonical galleries exist for these two source-pool concepts. No images are claimed installed or verified.",
+    "items": [],
+    "photo_gaps": [
+      "Same-scale upper leaf blade and complete shoot for both species",
+      "Floral tube, sepals and epicalyx side views",
+      "Mature capsules and style/stamen morphology"
+    ],
+    "overlay_note": "All arrow targets annotation_pending until exact images and pixel coordinates are verified."
+  },
+  "handoffs": [
+    {
+      "lane": "Approved Taxa Installer",
+      "task": "Both source-pool species lack canonical species cards; confirm accepted concepts and install separately. This genus module does not promote either."
+    },
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "task": "Verify regional separating key for L. alatum varieties versus L. californicum, especially eastern Texas intermediate plants; do not make width or floral tube length exclusive."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "task": "Acquire rights-cleared exact-species matched leaf, flowering shoot, floral tube and fruit macros; record creator/license/permissions and verify actual arrow targets."
+    }
+  ],
+  "scientific_sources": [
+    {
+      "source": "Flora of North America — Lythrum californicum",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250130017",
+      "supports": "5–7 mm floral tube, 1–7 mm upper leaf width, distyly and intermediates"
+    },
+    {
+      "source": "Flora of North America — Lythrum genus",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=119221",
+      "supports": "genus key and comparison"
+    },
+    {
+      "source": "Project Lythraceae family module",
+      "path": "content/taxa/Lythraceae/family.json",
+      "supports": "project genus doors, floral tube and ovary relationship"
+    }
+  ],
+  "curation_status": {
+    "status": "genus_framework_built_photo_pending",
+    "date": "2026-10-14",
+    "visual_complete": false,
+    "canonical_species_installed": false,
+    "range_decisions_unchanged": true
+  }
+}

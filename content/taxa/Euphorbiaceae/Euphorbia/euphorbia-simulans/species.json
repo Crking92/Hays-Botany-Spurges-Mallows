@@ -1,0 +1,722 @@
+{
+  "id": "euphorbia-simulans",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "species": "simulans",
+  "scientific_name": "Euphorbia simulans",
+  "common_name": "Similar spurge / mimicking sandmat",
+  "look_here_first": "LEAVES FIRST, BUT THE SEEDS FINISH THE ID. Euphorbia simulans is a low, largely glabrous desert sandmat with very short opposing ROUND to oval entire leaves (1–3.2 mm long) with near-symmetric bases. The small red-purple cyathial glands are ELLIPTIC and lack the white crescents of E. golondrina; Nathan Taylor's licensed true gland photograph now shows their shape. The smooth green THREE-LOBED capsule is photographed too. The decisive look-alike E. theriaca can look almost identical above ground: true SIMULANS SEEDS are generally 1.5–2 mm with 5–7 WEAK interrupted transverse wrinkles or pits, while THERIACA has smaller seeds with usually 2–4 MUCH DEEPER clear grooves. Both real seed macro photographs and author-stated 0.5mm calibration are now in the genus comparison. Still missing: independently measured same-node 0.5–0.7 mm stipules. FNA records simulans in Brewster, Hudspeth and Presidio; NOT validated as native to Hays or a local crew weed.",
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "visual_reviewed": true,
+    "photo_source_checked": true,
+    "photo_metadata_count": 8,
+    "photo_files_present": 8,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "last_reviewed": "2026-10-21",
+    "field_status": "FIELD_READY_SEED_FRUIT_GLAND_PHOTOS_COMPLETE_STIPULE_MACRO_GAP",
+    "new_photo_source_verified_on": "2026-10-21",
+    "annotated_real_photo_count": 8,
+    "verified_arrow_count": 18
+  },
+  "photo_note": "8 actual exact-E. simulans public-eligible CC BY-NC photographs: previous five habit/round leaf images with 11 checked arrows, plus three NEW Nathan Taylor micromorphology images with 7 checked arrows showing elliptical reddish appendage-free cyathial glands, smooth three-lobed fruit, and true weakly ridged pale mature seeds with author's HALF-MILLIMETER calibration. E. theriaca deeply ridged seed image kept in genus COMPARISON-MEDIA ONLY, explicitly labeled different taxon. No fabricated stipule closeup or Hays range promotion. Genuine mature E. simulans and E. theriaca seed photos are individually credited by photographer and correctly separated between canonical species and genus comparison.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Euphorbia%20simulans",
+  "images": [
+    {
+      "file": "images/inat-2830467.jpg",
+      "role": "Overall sandy, rocky mat context with tiny opposite leaves and prostrate reddish branches. Flower heads visible but gland shape or ripe seeds cannot be distinguished.",
+      "creator": "(c) Nathan Taylor, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/2830467",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "caption": "Existing photo shows prostrate branches and very small opposite leaves but no gland or seed detail",
+      "anatomy_arrows": [
+        {
+          "label": "Prostrate reddish branch",
+          "target_fraction": [
+            0.27,
+            0.53
+          ]
+        },
+        {
+          "label": "Opposite small leaf pair",
+          "target_fraction": [
+            0.77,
+            0.31
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-21 JPEG visually examined. Only photographed habit, stem and opposed leaf structures arrowed; no microscopic gland, stipule, capsule or seed claim."
+    },
+    {
+      "file": "images/inat-745462002-review.jpg",
+      "role": "Close paired rounded grayish-green entire leaves on pink-tinged prostrate stems; damaged dried leaf edges are NOT seed ridges or mature fruit.",
+      "creator": "(c) annieliveoak, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/745462002",
+      "observation_url": "https://www.inaturalist.org/observations/405813351",
+      "observation_id": 405813351,
+      "photo_id": 745462002,
+      "source_platform": "iNaturalist API exact accepted species; individual photo-level licence",
+      "study_use": "Botanical education",
+      "public_reuse": "yes",
+      "public_site_use_scope": "noncommercial-only",
+      "modifications": "Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
+      "photo_review": "OBSERVED identity exact species at research grade and PHOTO license independently verified by iNaturalist; downloaded original JPEG checked. Only habit and leaf structures inspected visually on 2026-10-21;  microscopic character claims remain pending.",
+      "anatomy_arrows": [
+        {
+          "label": "Rounded entire leaf",
+          "target_fraction": [
+            0.7,
+            0.29
+          ]
+        },
+        {
+          "label": "Opposite leaf pair",
+          "target_fraction": [
+            0.28,
+            0.44
+          ]
+        },
+        {
+          "label": "Creeping pinkish stem",
+          "target_fraction": [
+            0.54,
+            0.74
+          ]
+        }
+      ],
+      "image_source_sha256": "01b4b5fa998b71e94c39adb046ae068e27d1c9c65eafff9caea5bf7afd530b58",
+      "original_dimensions": [
+        1365,
+        2048
+      ],
+      "image_dimensions": [
+        1200,
+        1800
+      ],
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/745462002/original.jpg",
+      "caption": "Opposite, nearly circular entire-margined leaf blades on reclining pink stems. Dried structures are not confirmed fruits or seeds",
+      "manual_arrow_review": "2026-10-21 JPEG visually examined. Only photographed habit, stem and opposed leaf structures arrowed; no microscopic gland, stipule, capsule or seed claim."
+    },
+    {
+      "file": "images/inat-743054404-review.jpg",
+      "role": "Whole plant with many rounded opposite leaf pairs and creeping pink stems, reproductive tips present but unresolved below 10×.",
+      "creator": "(c) Hatim Albalawi, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/743054404",
+      "observation_url": "https://www.inaturalist.org/observations/404605876",
+      "observation_id": 404605876,
+      "photo_id": 743054404,
+      "source_platform": "iNaturalist API exact accepted species; individual photo-level licence",
+      "study_use": "Botanical education",
+      "public_reuse": "yes",
+      "public_site_use_scope": "noncommercial-only",
+      "modifications": "Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
+      "photo_review": "OBSERVED identity exact species at research grade and PHOTO license independently verified by iNaturalist; downloaded original JPEG checked. Only habit and leaf structures inspected visually on 2026-10-21;  microscopic character claims remain pending.",
+      "anatomy_arrows": [
+        {
+          "label": "Sprawling branch",
+          "target_fraction": [
+            0.25,
+            0.67
+          ]
+        },
+        {
+          "label": "Tiny rounded leaf pair",
+          "target_fraction": [
+            0.74,
+            0.13
+          ]
+        }
+      ],
+      "image_source_sha256": "e01fdd88adcd2f9d1e9c2f872fe59d699b2f17fa1c62dda7a0aa0516a5e32458",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "image_dimensions": [
+        1350,
+        1800
+      ],
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/743054404/original.jpg",
+      "caption": "Many rounded pairs on a sprawling mat, with red-green reproductive tips too small for microscopic gland diagnosis",
+      "manual_arrow_review": "2026-10-21 JPEG visually examined. Only photographed habit, stem and opposed leaf structures arrowed; no microscopic gland, stipule, capsule or seed claim."
+    },
+    {
+      "file": "images/inat-731098437-review.jpg",
+      "role": "Wider rounded-leaved sprawling mat among rocks; true gland appendage state and seeds not visible.",
+      "creator": "(c) Roberto González, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/731098437",
+      "observation_url": "https://www.inaturalist.org/observations/398545849",
+      "observation_id": 398545849,
+      "photo_id": 731098437,
+      "source_platform": "iNaturalist API exact accepted species; individual photo-level licence",
+      "study_use": "Botanical education",
+      "public_reuse": "yes",
+      "public_site_use_scope": "noncommercial-only",
+      "modifications": "Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
+      "photo_review": "OBSERVED identity exact species at research grade and PHOTO license independently verified by iNaturalist; downloaded original JPEG checked. Only habit and leaf structures inspected visually on 2026-10-21;  microscopic character claims remain pending.",
+      "anatomy_arrows": [
+        {
+          "label": "Prostrate branching habit",
+          "target_fraction": [
+            0.8,
+            0.65
+          ]
+        },
+        {
+          "label": "Tiny paired leaves",
+          "target_fraction": [
+            0.3,
+            0.35
+          ]
+        }
+      ],
+      "image_source_sha256": "f9ffbd7b6c509983efe7c66d92cda6ad9669a67e7e9ce3e7cdd983e8eda7f10d",
+      "original_dimensions": [
+        2048,
+        1365
+      ],
+      "image_dimensions": [
+        1800,
+        1200
+      ],
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/731098437/original.jpg",
+      "caption": "Wide mat habit against stones, tiny dark green leaves; neither cyathium glands nor seed textures resolved",
+      "manual_arrow_review": "2026-10-21 JPEG visually examined. Only photographed habit, stem and opposed leaf structures arrowed; no microscopic gland, stipule, capsule or seed claim."
+    },
+    {
+      "file": "images/inat-719752552-review.jpg",
+      "role": "Prostrate plant next to hand for rough context only; no calibrated leaf measurement, cyathial gland macro, ripe seed or stipule.",
+      "creator": "(c) Mary Keenan, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/719752552",
+      "observation_url": "https://www.inaturalist.org/observations/392725740",
+      "observation_id": 392725740,
+      "photo_id": 719752552,
+      "source_platform": "iNaturalist API exact accepted species; individual photo-level licence",
+      "study_use": "Botanical education",
+      "public_reuse": "yes",
+      "public_site_use_scope": "noncommercial-only",
+      "modifications": "Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
+      "photo_review": "OBSERVED identity exact species at research grade and PHOTO license independently verified by iNaturalist; downloaded original JPEG checked. Only habit and leaf structures inspected visually on 2026-10-21;  microscopic character claims remain pending.",
+      "anatomy_arrows": [
+        {
+          "label": "Opposite leaves",
+          "target_fraction": [
+            0.54,
+            0.58
+          ]
+        },
+        {
+          "label": "Fine prostrate stem",
+          "target_fraction": [
+            0.51,
+            0.75
+          ]
+        }
+      ],
+      "image_source_sha256": "73ef8c4fd100949333ffa0de93d80b22030206414bc5484c4ad0ebb1b070e4a3",
+      "original_dimensions": [
+        1536,
+        2048
+      ],
+      "image_dimensions": [
+        1350,
+        1800
+      ],
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/719752552/original.jpg",
+      "caption": "The leaf pairs and branching are visible near the hand; finger size is approximate context only",
+      "manual_arrow_review": "2026-10-21 JPEG visually examined. Only photographed habit, stem and opposed leaf structures arrowed; no microscopic gland, stipule, capsule or seed claim."
+    },
+    {
+      "file": "images/nathan-5336725-true-elliptic-glands.jpg",
+      "role": "Macro of separate red-purple elliptical gland pads around a cyathium; no white crescent appendages visible",
+      "caption": "Nathan Taylor's exact-species cyathium has red-purple elliptical to oval gland pads directly surrounding its tiny central reproductive cavity. No white petal-like gland crescents are visible. The little reproductive unit in back is not a seed.",
+      "creator": "(c) Nathan Taylor, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/5336725",
+      "observation_url": "https://www.inaturalist.org/observations/4434982",
+      "observation_id": 4434982,
+      "photo_id": 5336725,
+      "source_photo_sha256": "82e1e7afabeb6f670ad0f8d0a14ee51d1fdd4f4b5a873ed0b3564088d48c421c",
+      "public_reuse": "yes, ONLY if site is genuinely noncommercial; photographer attribution and original photo-level CC BY-NC must be preserved",
+      "public_site_use_scope": "noncommercial educational GitHub Pages only",
+      "photo_review": "2026-10-21 saved source 5336725 visually inspected. Red/purple gland at upper right and central cyathial space identified; gland dimension cannot be calibrated from enlarged image.",
+      "manual_arrow_review": "2026-10-21 saved source 5336725 visually inspected. Red/purple gland at upper right and central cyathial space identified; gland dimension cannot be calibrated from enlarged image.",
+      "anatomy_arrows": [
+        {
+          "label": "One of four reddish cyathial gland pads",
+          "target_fraction": [
+            0.683,
+            0.377
+          ]
+        },
+        {
+          "label": "Central cyathial reproductive cavity",
+          "target_fraction": [
+            0.517,
+            0.362
+          ]
+        }
+      ]
+    },
+    {
+      "file": "images/nathan-5336727-smooth-three-lobed-fruit.jpg",
+      "role": "True smooth green three-lobed capsule beside separate reddish cyathial cup",
+      "caption": "Rounded green THREE-LOBED capsule at left is the developing fruit, distinct from the reddish gland-bearing cyathial cup at right. The fruit's photographed surface is smooth, without conspicuous hairs; tiny stipule placement is not marked here.",
+      "creator": "(c) Nathan Taylor, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/5336727",
+      "observation_url": "https://www.inaturalist.org/observations/4434982",
+      "observation_id": 4434982,
+      "photo_id": 5336727,
+      "source_photo_sha256": "883563bb40d1c8afb591fe4e94c7eb26e6dce8ae252611cd36042740ebf85756",
+      "public_reuse": "yes, ONLY if site is genuinely noncommercial; photographer attribution and original photo-level CC BY-NC must be preserved",
+      "public_site_use_scope": "noncommercial educational GitHub Pages only",
+      "photo_review": "2026-10-21 saved JPEG 5336727 read visually: fruit lobes left and cyathial glands right directly distinguishable. No claim of mature seed or measurable microscopic stipules.",
+      "manual_arrow_review": "2026-10-21 saved JPEG 5336727 read visually: fruit lobes left and cyathial glands right directly distinguishable. No claim of mature seed or measurable microscopic stipules.",
+      "anatomy_arrows": [
+        {
+          "label": "Three-lobed smooth green fruit",
+          "target_fraction": [
+            0.307,
+            0.449
+          ]
+        },
+        {
+          "label": "Red-purple gland-bearing cyathium",
+          "target_fraction": [
+            0.743,
+            0.174
+          ]
+        }
+      ]
+    },
+    {
+      "file": "images/nathan-5336967-mature-weakly-wrinkled-seeds.jpg",
+      "role": "TRUE pale red-brown 4-angled seeds with shallow irregular transverse wrinkles and source-calibrated half-millimeter scale",
+      "caption": "Five true Euphorbia simulans seeds photographed by Nathan Taylor. Their pale-coated faces have weak scattered transverse wrinkles/pits; compare with the much deeper three transverse furrows on E. theriaca seeds. Black calibration bar visible at bottom; observation author states divisions are HALF millimeters, not a pixel-based guess.",
+      "creator": "(c) Nathan Taylor, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/5336967",
+      "observation_url": "https://www.inaturalist.org/observations/4434982",
+      "observation_id": 4434982,
+      "photo_id": 5336967,
+      "source_photo_sha256": "dfc521e60defd1d52b0725279a078fd8bf56831d9d56511b0295847758595f14",
+      "public_reuse": "yes, ONLY if site is genuinely noncommercial; photographer attribution and original photo-level CC BY-NC must be preserved",
+      "public_site_use_scope": "noncommercial educational GitHub Pages only",
+      "photo_review": "2026-10-21 seed pixel QA: original photographed true seeds and uneven shallow seedcoat depressions visible; black ruler along bottom and observation owner states 'Scale in half millimeters'. No single exact measurement calculated from pixels.",
+      "manual_arrow_review": "2026-10-21 seed pixel QA: original photographed true seeds and uneven shallow seedcoat depressions visible; black ruler along bottom and observation owner states 'Scale in half millimeters'. No single exact measurement calculated from pixels.",
+      "anatomy_arrows": [
+        {
+          "label": "Shallow broken wrinkles on upper-right seed",
+          "target_fraction": [
+            0.789,
+            0.203
+          ]
+        },
+        {
+          "label": "Weak low ridges on central seed",
+          "target_fraction": [
+            0.484,
+            0.557
+          ]
+        },
+        {
+          "label": "Author's half-millimeter scale divisions",
+          "target_fraction": [
+            0.488,
+            0.943
+          ]
+        }
+      ]
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "8_verified_source_photos_18_anatomical_arrows",
+    "image_count": 8,
+    "filled_at": "2026-10-19",
+    "note": "Two actual source-seed datasets compared, but theriaca images used only on genus look-alike panel. Remaining one high-value gap is exact calibrated true leaf-node stipules.",
+    "annotated_source_count": 8,
+    "verified_arrow_count": 18
+  },
+  "entry_type": "provisional_species",
+  "authority": "(L.C.Wheeler) Warnock & M.C.Johnst.",
+  "synonyms": [
+    "Euphorbia polycarpa var. simulans L.C.Wheeler",
+    "Chamaesyce simulans (L.C.Wheeler) Mayfield",
+    "Chamaesyce polycarpa var. simulans (L.C.Wheeler) Shinners"
+  ],
+  "taxonomic_note": "Accepted Euphorbia simulans per POWO and Flora of North America. Not interchangeable with E. polycarpa or E. theriaca; older varietal names can complicate photo searches. FNA reports Texas records from Brewster, Hudspeth and Presidio counties; do not present as a documented Hays plant.",
+  "morphology_keys": {
+    "family_pattern": "Euphorbiaceae, Euphorbia sect. Anisophyllum: opposite usually unequal leaves, cyathia rather than ordinary flowers, and 3-lobed capsule that dries and releases seeds.",
+    "habit": "Annual or short-lived perennial; usually slender taproot/rootstock; prostrate to reclining glabrous branches about 5–40 cm, growing in arid desert scrub and rocky or sandy ground.",
+    "leaves": "Opposite, ORBICULATE, OVAL or very short oblong, 1–3.2 × 1.5–5 mm; margins entire, rounded base usually SUBSYMMETRIC (unusual for many sandmats), tip rounded or occasionally notched, glabrous. Usually only midvein conspicuous.",
+    "stipules": "Distinct thin awl-shaped (subulate) glabrous scales, 0.5–0.7 mm, at leaf junctions. Distinguish from hairs under a strong lens; existing habit photograph cannot prove individual stipules.",
+    "cyathia": "Usually solitary at distal nodes on 0.3–0.7 mm stalks. Cup-like involucre 0.8–1.2 × 0.7–1 mm glabrous; 4 RED TO PURPLE slightly concave ELLIPTIC glands roughly 0.2–0.3 × 0.4–0.5 mm; appendages ABSENT. No white petal-like crescents expected.",
+    "capsules": "Broadly ovoid 3-lobed glabrous capsules 1.3–1.8 × 1.5–2 mm; this is compatible with golondrina and cannot resolve both species alone.",
+    "seeds": "WHITISH COAT OVER REDDISH-BROWN underneath; narrowly oblong, distinctly 4-angled, 1.5–2 × 1.3–1.8 mm, usually 5–7 FAINT shallow transverse ridges/wrinkles. E. theriaca var. theriaca commonly has smaller seeds with 2–4 PROMINENT transverse ridges. Mature seed macro with calibrated scale needed.",
+    "best_field_traits": [
+      "Very tiny opposite nearly ROUND, entire-margined hairless leaves (1–3.2 mm long)",
+      "Prostrate to reclining hairless branches",
+      "Subsymmetrical rounded leaf bases unlike strongly oblique leaves of many Chamaesyce",
+      "Cyathium at distal node, purple ELLIPTIC glands with NO white appendages",
+      "Distinct thin 0.5–0.7 mm glabrous subulate stipules",
+      "Smooth/hairless 3-lobed capsule",
+      "Mature 1.5–2 mm 4-angled seed with 5–7 weak transverse ridges; essential for close E. theriaca comparison"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Euphorbia golondrina",
+      "Euphorbia theriaca",
+      "Euphorbia serpens",
+      "Euphorbia prostrata"
+    ],
+    "key_distinctions": "FIRST leaf shape for golondrina: simulans tiny nearly ROUND entire leaves 1–3.2 mm long versus golondrina generally longer OBONG narrow 5–11.5 mm, with white semilunate gland appendages. Then independently check microscopic elliptic purple glands without appendages in simulans. The closest western species E. theriaca var. theriaca cannot reliably be separated from simulans by ordinary habit photos: simulated 1.5–2 mm mature seeds with 5–7 FAINT transverse wrinkles versus theriaca 0.8–1.2 mm seeds with usually three DEEP cross ridges. E. serpens has fused broad triangular stipules and can root at nodes; E. prostrata has capsule KEEL hairs and strong seed ridges. No genus photo may be relabeled across species.",
+    "field_matrix": [
+      {
+        "trait": "Leaf",
+        "simulans": "Oval to orbiculate 1–3.2 mm long; subsymmetric rounded base",
+        "golondrina": "Narrow oblong 5–11.5 mm long; asymmetric base",
+        "theriaca": "Close overlap; leaf alone weak"
+      },
+      {
+        "trait": "Cyathium gland",
+        "simulans": "RED-PURPLE ELLIPTIC, no appendages",
+        "golondrina": "Red-purple subcircular DEEPLY CUPPED with white crescent appendage",
+        "theriaca": "May resemble simulans; check ripe seed"
+      },
+      {
+        "trait": "Stipules",
+        "simulans": "Free needlelike 0.5–0.7 mm",
+        "golondrina": "Free awl-shaped 0.5–0.8 mm",
+        "theriaca": "Micro required; no easy assumption"
+      },
+      {
+        "trait": "Capsule",
+        "simulans": "Smooth glabrous",
+        "golondrina": "Smooth glabrous",
+        "theriaca": "Smooth; not decisive"
+      },
+      {
+        "trait": "Mature seeds",
+        "simulans": "Large 1.5–2 mm, 4-angled seeds with 5–7 WEAK shallow transverse ridges or wrinkles",
+        "golondrina": "1.3–1.5 mm; faint wrinkles; compare glands and leaf dimensions",
+        "theriaca": "Typically 0.8–1.2 mm; (2–)3(–4) prominent transverse ridges (var. theriaca), not merely faint surface wrinkling"
+      }
+    ]
+  },
+  "field_photo_quickcheck": {
+    "heading": "Tiny rounded leaves → elliptical glands without white crescents → true weakly ridged 1.5–2mm seed",
+    "featured_photo_indices": [
+      7,
+      5,
+      6,
+      1,
+      2,
+      0,
+      3,
+      4
+    ],
+    "steps": [
+      "Find reddish low MAT habit and extremely small opposite near-round entire leaf blades; avoid confusing with similarly small seedlings.",
+      "Study a real cyathium under 10–20x: E. simulans elliptical RED-PURPLE glands lack petal-like WHITE crescents; compare E. golondrina whose gland pads have white crescents.",
+      "Check the real SMOOTH THREE-LOBED green fruit, not the gland-bearing cyathial involucre cup.",
+      "To rule out E. theriaca, compare detached seed faces with a half-millimeter ruler: SIMULANS about 1.5–2mm and faint irregular 5–7 ridges, versus THERIACA fewer/deeper (usually 3) furrows.",
+      "Get a true same-node 0.5–0.7mm separate threadlike stipule pair for optional close confirmation; not clearly resolved in current images."
+    ],
+    "warning": "The theriaca photograph belongs ONLY to the genus look-alike comparison and is never presented as an E. simulans species photo. Nathan's stated half-millimeter marks are author-calibrated; no independent pixel-derived dimensions claimed. Hays County nativity is not proven."
+  },
+  "field_id_finalization": {
+    "stage": "FIELD_READY_WITH_MINOR_STIPULE_MACRO_GAP",
+    "review_date": "2026-10-21",
+    "field_training_status": "FIELD_READY: REAL_GLAND_FRUIT_AND_SIMULANS_THERIACA_RIPE_SEED_PHOTOS; OPTIONAL_STIPULE_MACRO_MISSING",
+    "real_source_photos_annotated": 8,
+    "verified_anatomy_arrows": 18,
+    "remaining": [
+      "Optional in-focus same-node separate subulate stipule pair, source-calibrated 0.5–0.7 mm.",
+      "No local Hays County range promotion; FNA Trans-Pecos published distribution only."
+    ],
+    "photo_review": "All five original image panels plus three Nathan Taylor actual JPEG macro photos manually inspected. Real photographed elliptical purplish glands without obvious white crescents, three-lobed glabrous capsule and mature four-angled weakly wrinkled seeds now documented; true theriaca ridge comparator safely separate and labeled in genus. No pixel-to-mm measurement inferred.",
+    "new_photo_source_count": 3,
+    "canonical_photo_count": 8,
+    "photo_rights": "All 8 exact-species photographs are individually credited CC BY-NC and limited to truly noncommercial educational display; a ninth photographed seed comparator in genus is independently licensed CC BY-NC but taxonomically E. theriaca, not E. simulans.",
+    "review_status": "8_SOURCE_PHOTOS_18_CHECKED_ARROWS_MATURE_SEED_TIE_BREAK_COMPLETE",
+    "seed_resolution": "PASS: Nathan Taylor E. simulans photograph 5336967 vs separately named E. theriaca photograph 5337479; true pale mature seeds and differing wrinkle-depth visible, author half-millimeter-scale marks preserved.",
+    "gland_resolution": "PASS: Nathan Taylor 5336725 visibly presents red-purple unappendaged cyathial gland pads.",
+    "fruit_resolution": "PASS: Nathan Taylor 5336727 smooth three-lobed fruit separately shown next to a cyathium."
+  },
+  "science_source_links": [
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101613",
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:101994-2"
+  ],
+  "visual_comparison": {
+    "instance_id": "euphorbia-simulans-five-source-field-20261021",
+    "title": "Similar spurge — tiny round opposite leaves and spreading stems",
+    "subtitle": "Eight real exact-species CC BY-NC source photos with 18 manually checked arrow targets now include true cyathial glands, true glabrous capsules and calibrated pale weakly wrinkled SEEDS. Stipules remain a small targeted gap.",
+    "items": [
+      {
+        "scientific_name": "Euphorbia simulans",
+        "label": "Prostrate colony among rocks",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-simulans/images/inat-2830467.jpg",
+        "image_role": "Overall sandy, rocky mat context with tiny opposite leaves and prostrate reddish branches. Flower heads visible but gland shape or ripe seeds cannot be distinguished.",
+        "caption": "Existing photo shows prostrate branches and very small opposite leaves but no gland or seed detail",
+        "source_page": "https://www.inaturalist.org/photos/2830467",
+        "creator": "(c) Nathan Taylor, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Prostrate reddish branch",
+            "label_x": 10,
+            "label_y": 65,
+            "target_x": 27,
+            "target_y": 53
+          },
+          {
+            "label": "Opposite small leaf pair",
+            "label_x": 80,
+            "label_y": 14,
+            "target_x": 77,
+            "target_y": 31
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 JPEG visually examined. Only photographed habit, stem and opposed leaf structures arrowed; no microscopic gland, stipule, capsule or seed claim."
+      },
+      {
+        "scientific_name": "Euphorbia simulans",
+        "label": "Rounded opposite leaves at nodes",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-simulans/images/inat-745462002-review.jpg",
+        "image_role": "Close paired rounded grayish-green entire leaves on pink-tinged prostrate stems; damaged dried leaf edges are NOT seed ridges or mature fruit.",
+        "caption": "Opposite, nearly circular entire-margined leaf blades on reclining pink stems. Dried structures are not confirmed fruits or seeds",
+        "source_page": "https://www.inaturalist.org/photos/745462002",
+        "creator": "(c) annieliveoak, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Rounded entire leaf",
+            "label_x": 67,
+            "label_y": 22,
+            "target_x": 70,
+            "target_y": 29
+          },
+          {
+            "label": "Opposite leaf pair",
+            "label_x": 7,
+            "label_y": 44,
+            "target_x": 28,
+            "target_y": 44
+          },
+          {
+            "label": "Creeping pinkish stem",
+            "label_x": 67,
+            "label_y": 88,
+            "target_x": 54,
+            "target_y": 74
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 JPEG visually examined. Only photographed habit, stem and opposed leaf structures arrowed; no microscopic gland, stipule, capsule or seed claim."
+      },
+      {
+        "scientific_name": "Euphorbia simulans",
+        "label": "Small rounded leaves on extensive sprawling branches",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-simulans/images/inat-743054404-review.jpg",
+        "image_role": "Whole plant with many rounded opposite leaf pairs and creeping pink stems, reproductive tips present but unresolved below 10×.",
+        "caption": "Many rounded pairs on a sprawling mat, with red-green reproductive tips too small for microscopic gland diagnosis",
+        "source_page": "https://www.inaturalist.org/photos/743054404",
+        "creator": "(c) Hatim Albalawi, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Sprawling branch",
+            "label_x": 3,
+            "label_y": 65,
+            "target_x": 25,
+            "target_y": 67
+          },
+          {
+            "label": "Tiny rounded leaf pair",
+            "label_x": 64,
+            "label_y": 11,
+            "target_x": 74,
+            "target_y": 13
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 JPEG visually examined. Only photographed habit, stem and opposed leaf structures arrowed; no microscopic gland, stipule, capsule or seed claim."
+      },
+      {
+        "scientific_name": "Euphorbia simulans",
+        "label": "Very fine mat on rocky gravel",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-simulans/images/inat-731098437-review.jpg",
+        "image_role": "Wider rounded-leaved sprawling mat among rocks; true gland appendage state and seeds not visible.",
+        "caption": "Wide mat habit against stones, tiny dark green leaves; neither cyathium glands nor seed textures resolved",
+        "source_page": "https://www.inaturalist.org/photos/731098437",
+        "creator": "(c) Roberto González, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Prostrate branching habit",
+            "label_x": 72,
+            "label_y": 70,
+            "target_x": 80,
+            "target_y": 65
+          },
+          {
+            "label": "Tiny paired leaves",
+            "label_x": 17,
+            "label_y": 25,
+            "target_x": 30,
+            "target_y": 35
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 JPEG visually examined. Only photographed habit, stem and opposed leaf structures arrowed; no microscopic gland, stipule, capsule or seed claim."
+      },
+      {
+        "scientific_name": "Euphorbia simulans",
+        "label": "Hand shows tiny size, not calibrated ruler",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-simulans/images/inat-719752552-review.jpg",
+        "image_role": "Prostrate plant next to hand for rough context only; no calibrated leaf measurement, cyathial gland macro, ripe seed or stipule.",
+        "caption": "The leaf pairs and branching are visible near the hand; finger size is approximate context only",
+        "source_page": "https://www.inaturalist.org/photos/719752552",
+        "creator": "(c) Mary Keenan, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Opposite leaves",
+            "label_x": 59,
+            "label_y": 49,
+            "target_x": 54,
+            "target_y": 58
+          },
+          {
+            "label": "Fine prostrate stem",
+            "label_x": 29,
+            "label_y": 80,
+            "target_x": 51,
+            "target_y": 75
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 JPEG visually examined. Only photographed habit, stem and opposed leaf structures arrowed; no microscopic gland, stipule, capsule or seed claim."
+      },
+      {
+        "scientific_name": "Euphorbia simulans",
+        "label": "Real gland macro — no white appendage",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-simulans/images/nathan-5336725-true-elliptic-glands.jpg",
+        "image_role": "Macro of separate red-purple elliptical gland pads around a cyathium; no white crescent appendages visible",
+        "caption": "Nathan Taylor's exact-species cyathium has red-purple elliptical to oval gland pads directly surrounding its tiny central reproductive cavity. No white petal-like gland crescents are visible. The little reproductive unit in back is not a seed.",
+        "source_page": "https://www.inaturalist.org/photos/5336725",
+        "creator": "(c) Nathan Taylor, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "One of four reddish cyathial gland pads",
+            "target_x": 68,
+            "target_y": 38,
+            "label_x": 8,
+            "label_y": 15
+          },
+          {
+            "label": "Central cyathial reproductive cavity",
+            "target_x": 52,
+            "target_y": 36,
+            "label_x": 61,
+            "label_y": 39
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 saved source 5336725 visually inspected. Red/purple gland at upper right and central cyathial space identified; gland dimension cannot be calibrated from enlarged image."
+      },
+      {
+        "scientific_name": "Euphorbia simulans",
+        "label": "True three-lobed glabrous capsule",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-simulans/images/nathan-5336727-smooth-three-lobed-fruit.jpg",
+        "image_role": "True smooth green three-lobed capsule beside separate reddish cyathial cup",
+        "caption": "Rounded green THREE-LOBED capsule at left is the developing fruit, distinct from the reddish gland-bearing cyathial cup at right. The fruit's photographed surface is smooth, without conspicuous hairs; tiny stipule placement is not marked here.",
+        "source_page": "https://www.inaturalist.org/photos/5336727",
+        "creator": "(c) Nathan Taylor, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Three-lobed smooth green fruit",
+            "target_x": 31,
+            "target_y": 45,
+            "label_x": 8,
+            "label_y": 15
+          },
+          {
+            "label": "Red-purple gland-bearing cyathium",
+            "target_x": 74,
+            "target_y": 17,
+            "label_x": 61,
+            "label_y": 39
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 saved JPEG 5336727 read visually: fruit lobes left and cyathial glands right directly distinguishable. No claim of mature seed or measurable microscopic stipules."
+      },
+      {
+        "scientific_name": "Euphorbia simulans",
+        "label": "Mature pale seeds — shallow wrinkles",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-simulans/images/nathan-5336967-mature-weakly-wrinkled-seeds.jpg",
+        "image_role": "TRUE pale red-brown 4-angled seeds with shallow irregular transverse wrinkles and source-calibrated half-millimeter scale",
+        "caption": "Five true Euphorbia simulans seeds photographed by Nathan Taylor. Their pale-coated faces have weak scattered transverse wrinkles/pits; compare with the much deeper three transverse furrows on E. theriaca seeds. Black calibration bar visible at bottom; observation author states divisions are HALF millimeters, not a pixel-based guess.",
+        "source_page": "https://www.inaturalist.org/photos/5336967",
+        "creator": "(c) Nathan Taylor, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "image_fit": "contain",
+        "markers": [
+          {
+            "label": "Shallow broken wrinkles on upper-right seed",
+            "target_x": 79,
+            "target_y": 20,
+            "label_x": 8,
+            "label_y": 15
+          },
+          {
+            "label": "Weak low ridges on central seed",
+            "target_x": 48,
+            "target_y": 56,
+            "label_x": 61,
+            "label_y": 39
+          },
+          {
+            "label": "Author's half-millimeter scale divisions",
+            "target_x": 49,
+            "target_y": 94,
+            "label_x": 8,
+            "label_y": 63
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 seed pixel QA: original photographed true seeds and uneven shallow seedcoat depressions visible; black ruler along bottom and observation owner states 'Scale in half millimeters'. No single exact measurement calculated from pixels."
+      }
+    ],
+    "overlay_note": "Nathan Taylor, annieliveoak, Hatim Albalawi, Roberto González and Mary Keenan, five source-specific CC BY-NC original licences. Strictly noncommercial learner website only."
+  }
+}

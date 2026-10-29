@@ -1,0 +1,172 @@
+{
+  "id": "passiflora-foetida",
+  "entry_type": "species",
+  "family": "Passifloraceae",
+  "genus": "Passiflora",
+  "species": "foetida",
+  "scientific_name": "Passiflora foetida",
+  "authority": "L.",
+  "common_name": "Fetid passionflower",
+  "synonyms": [],
+  "taxonomic_note": "Current Kew accepts Passiflora foetida and several varieties; Texas is included in the native range. Local San Antonio-area records require caution because introduced lookalikes are commonly confused with it.",
+  "look_here_first": "Locate the conspicuous FEATHERY/STICKY THREE-BRACT CAGE just below a flower or around a developing fruit. Then inspect downy stems/leaves, coarse lobing, and odor if safely handled. Compare mature fruit texture/color carefully with introduced scarletfruit P. lanuginosa. Don't ID the local/native-concept plant using any globally labeled P. foetida photo alone.",
+  "county_occurrences_target_zone": [
+    "Bexar"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Bexar is the only exact project target-zone county locked confidently in the current review.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Learner admission is independent from native-range certification. Preserve the scientific HOLD and the San Antonio misidentification warning."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "tendrilled vine",
+      "dense soft pubescence",
+      "strong fetid odor when foliage is rubbed",
+      "3-lobed leaves with rounded lobes",
+      "finely divided glandular involucral bracts forming a cage",
+      "white to pale flowers with purple-blue corona",
+      "green to yellow-green fruit in the native Texas concept"
+    ],
+    "comparison_training": "The sticky finely divided bract cage plus dense hairiness and odor are stronger than flower color alone. San Antonio-area lookalikes can be introduced P. ciliata/lanuginosa-type plants."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Passiflora lanuginosa",
+      "Passiflora ciliata"
+    ],
+    "key_distinctions": "Use the bract cage, dense pubescence, odor, leaf form, and fruit together; do not accept casual San Antonio IDs without checking these characters."
+  },
+  "tags": [
+    "Passifloraceae",
+    "Passiflora",
+    "Fetid passionflower",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.0-range-hold-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-06",
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "photo_install_verified": "2026-10-13"
+  },
+  "diagnostic_image_needs": [
+    "whole vine",
+    "leaf pubescence",
+    "bract cage",
+    "flower face",
+    "fruit within bracts",
+    "comparison with introduced lookalikes"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "images": [
+    {
+      "file": "images/passiflora-foetida-provisional-face.jpg",
+      "role": "Lobed leaf shape and hairy bracts enclosing fruit; flower not shown.",
+      "creator": "Marco Schmidt",
+      "license": "CC BY-SA 2.5",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_foetida_MS_4736.JPG",
+      "study_use": "yes",
+      "public_reuse": "cc_by_sa",
+      "caption": "Marco Schmidt, CC BY-SA 2.5: existing foetida-type hairy fruit and bract cage. A worldwide named P. foetida specimen does NOT establish the native Texas variety concept.",
+      "diagnostic_roles": [
+        "flower/leaf context",
+        "corona or floral structure"
+      ]
+    },
+    {
+      "file": "images/02-finley-divided-sticky-bracts.jpg",
+      "role": "Finely divided sticky involucral bracts around reproductive shoot",
+      "creator": "Filo gèn'",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_foetida_Bract.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes, attribution/share-alike when applicable",
+      "caption": "Filo gèn', CC BY-SA 4.0: dissected feathery floral BRacts (the 'sticky cage'). Look at narrow glandular divisions, not the flower petals. Do not infer local native status from this global image.",
+      "diagnostic_roles": [
+        "floral bract cage"
+      ]
+    },
+    {
+      "file": "images/03-flower-face-corona.jpg",
+      "role": "Open flower front showing corona filaments, petals, stamens and stigmas",
+      "creator": "Florimagix",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:FM-Passiflora.foetida_Flower_close-up.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes, attribution/share-alike when applicable",
+      "caption": "Florimagix, CC BY-SA 4.0: flower face with pale petals and contrasting CORONA fringe. Identify sepals/petals, corona, anthers, stigmas separately. Local foetida/lanuginosa species-complex interpretation remains cautious.",
+      "diagnostic_roles": [
+        "flower/leaf context",
+        "corona or floral structure"
+      ]
+    },
+    {
+      "file": "images/04-sticky-bract-cage-fruit.jpg",
+      "role": "Developing fruit wrapped by glandular dissected bracts; sticky hairs evident",
+      "creator": "Florimagix",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:FM-Passiflora.foetida_Fruit.JPG",
+      "study_use": "yes",
+      "public_reuse": "yes, attribution/share-alike when applicable",
+      "caption": "Florimagix, CC BY-SA 4.0: fruit nestled inside divided glandular bracts; look for tiny sticky bract divisions. This is a developing fruit—not evidence for ripe-fruit color in a Texas specimen.",
+      "diagnostic_roles": [
+        "fruit"
+      ]
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "photo_polish",
+    "image_count": 4,
+    "photo_files_present": 4,
+    "verified_at": "2026-10-13",
+    "note": "4 exact-name source-licensed photographs physically installed and source-provenance preserved. New images show selected traits, but key small nectary/gland macros and exact annotated arrows remain final-polish. Native-range decisions unchanged."
+  },
+  "diagnostic_photo_needs": [
+    {
+      "priority": "high",
+      "role": "sticky finely divided bract cage around developing fruit",
+      "status": "needed or final-polish—verify already installed image suitability; do not draw unverified arrows"
+    },
+    {
+      "priority": "high",
+      "role": "flower front with corona detail",
+      "status": "needed or final-polish—verify already installed image suitability; do not draw unverified arrows"
+    },
+    {
+      "priority": "medium",
+      "role": "hairy stem/leaf closeup",
+      "status": "needed or final-polish—verify already installed image suitability; do not draw unverified arrows"
+    },
+    {
+      "priority": "medium",
+      "role": "mature fruit surface including enclosing bracts",
+      "status": "needed or final-polish—verify already installed image suitability; do not draw unverified arrows"
+    }
+  ],
+  "visual_science_review": {
+    "reviewed_at": "2026-10-13",
+    "status": "morphology-first lesson refined; native target labels unchanged",
+    "photo_priority": [
+      "sticky finely divided bract cage around developing fruit",
+      "flower front with corona detail"
+    ]
+  }
+}

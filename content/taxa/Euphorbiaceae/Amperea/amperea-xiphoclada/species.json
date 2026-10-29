@@ -1,0 +1,117 @@
+{
+  "id": "amperea-xiphoclada",
+  "entry_type": "species",
+  "family": "Euphorbiaceae",
+  "genus": "Amperea",
+  "species": "xiphoclada",
+  "scientific_name": "Amperea xiphoclada",
+  "authority": "(Sieber ex Spreng.) Druce",
+  "common_name": "Broom spurge",
+  "look_here_first": "LOOK HERE FIRST: find stiff, sharply angled green stems that appear almost leafless; inspect the nodes for clusters of tiny separate male or female flowers. Confirm minute alternate scale-like upper leaves and reddish fringed stipules rather than assuming the green shoots are grass blades.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_SOURCE_POOL",
+    "target_zone_status": "COMPARISON_NON_NATIVE",
+    "learner_role": "NONLOCAL_COMPARISON",
+    "native_metrics_excluded": true,
+    "notes": "Australian native, not a confirmed Hays/target-zone native. Included solely because learner source-pool admission is independent of native-range certification."
+  },
+  "taxonomy_notes": "Accepted species under the Australian Plant Census and VicFlora; Leptomeria xiphoclada is a synonym. Several varieties occur in Australia; source-pool species-level concept is not an extra card for a variety.",
+  "morphology_keys": {
+    "habit": "Erect broomlike subshrub about 20–90 cm tall; stems rigid, smooth and angular, sometimes nearly leafless.",
+    "leaves_attachment": "Leaves alternate and sessile when present; lower leaves small (about 5–15 mm), often toothed; upper leaves narrow or scale-like. Look at a stem node for reddish-brown fringed stipules.",
+    "flower_reproductive": "Small flowers clustered at nodes, usually male and female on separate plants (dioecious). Male flowers have a 4–5-lobed calyx and 6–9 free stamens; female flowers have a 5-lobed calyx and short styles. Do not label sex of the photographed cluster without a closer verified view.",
+    "fruit_seed": "Small 2–4 mm capsule; glossy dark ovoid seeds about 1.5–2.5 mm, with roughened surface."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Juncus spp. (rushes; superficial grasslike green shoots)",
+      "Ephedra spp. (green jointed stems, different reproductive structures)",
+      "leaf-reduced Euphorbiaceae (family-level resemblance, not a local Amperea species)"
+    ],
+    "key_distinctions": "Rushes carry grasslike flowers/fruit rather than small Euphorbiaceae flowers clustered along angular woody stems. Ephedra has opposite/whorled scale leaves and seed-bearing cones, not Amperea's alternate small leaves, fringed stipules and capsules. These are shape comparisons only: Amperea is Australian and not a local encounter claim."
+  },
+  "diagnostic_image_needs": [
+    "installed_candidate: exact-species Melburnian Commons view of angular green stems and small flower clusters; check actual installed file before upgrading to installed_verified.",
+    "needs_photo: node macro with alternate scale-like leaf and reddish fringed stipules; where to look is at a stem node.",
+    "needs_photo: male flowers with calyx and free stamens; sex determination annotation_pending.",
+    "needs_photo: female flower and young capsule; verify styles and ovary before arrows.",
+    "needs_photo: ripe capsule and dark seeds with scale; comparison to rush stems optional."
+  ],
+  "images": [
+    {
+      "file": "images/amperea-xiphoclada-flower-clusters-melburnian.jpg",
+      "role": "Green angular stems and small nodal flower clusters",
+      "creator": "Melburnian",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Amperea_xiphoclada_8547.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes_with_attribution_and_sharealike"
+    },
+    {
+      "file": "images/library-review013-43c44fc2f2e02c0.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Rushlike plant habit plus twiggy inflorescence/flowers; provisional exact source-name photo",
+      "creator": "Billie",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6236077570",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/645840060/original.jpg",
+      "source_determination": "Amperea xiphoclada",
+      "source_observation_id": "6236077570",
+      "library_release_tag": "hays-photo-library-mass-38760123960",
+      "library_archive_file": "staged_images/amperea-xiphoclada/gbif-f7378b82aa8911.jpg",
+      "archive_image_sha256": "443158fef6a856fa726129df1d9dc5988b6ccb544502f7766d4bd488a4c37681",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review013-e28eeff2e96e2e9.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Rushlike plant habit plus twiggy inflorescence/flowers; provisional exact source-name photo",
+      "creator": "grampianshiker",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6398682088",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/677017025/original.jpg",
+      "source_determination": "Amperea xiphoclada",
+      "source_observation_id": "6398682088",
+      "library_release_tag": "hays-photo-library-mass-38760123960",
+      "library_archive_file": "staged_images/amperea-xiphoclada/gbif-21b5c4b4e133e4.jpg",
+      "archive_image_sha256": "f42de5f18b5d2bf4188fd47f7019d5bc6c642c95a05773d2251b342812147623",
+      "image_dimensions": [
+        1400,
+        1050
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "curation_status": {
+    "source_pool_approved": true,
+    "user_approved": true,
+    "taxonomy_reviewed": true,
+    "provisional": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_013": "2026-10-16"
+  },
+  "learner_visual_status": {
+    "status": "provisional_photo_candidate",
+    "note": "One exact-species photo staged; stem and flower clusters visible but close-up anatomy not verified. Other views assigned to Diagnostic Photo Polish; no arrows yet."
+  },
+  "photo_note": "Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

@@ -1,0 +1,147 @@
+{
+  "id": "passiflora-lutea",
+  "entry_type": "species",
+  "family": "Passifloraceae",
+  "genus": "Passiflora",
+  "species": "lutea",
+  "scientific_name": "Passiflora lutea",
+  "authority": "L.",
+  "common_name": "Yellow passionflower",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO. Regional Texas treatments may use Passiflora lutea var. glabriflora; the learner remains species-level.",
+  "look_here_first": "LOOK for a broad shallow 3-lobed LEAF with entire margins, then check the PETIOLE: no glands. Flip the leaf underside: no extra-floral nectar dots; P. affinis has underside nectar dots and floral bracts (both have glandless petioles). At flower base P. lutea lacks floral bracts and small flowers are <25 mm across with straight thin unclubbed corona filaments.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays County — UT Plant Resources Center's Purola Preserve natural flora lists Passiflora lutea among plants occurring naturally and not introduced. Travis County — UT Plant Resources Center's Travis County Passifloraceae herbarium index includes Passiflora lutea. Williamson County — UT Plant Resources Center provides a field-based treatment of Passiflora lutea var. glabriflora within the local flora.",
+    "range_guardrail": "Cultivated vines and garden escapes are not used as native-county evidence."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial climbing or trailing vine with axillary tendrils",
+      "petioles eglandular — no paired extrafloral nectary bumps",
+      "leaf blades shallowly to moderately 3-lobed, usually wider than long",
+      "lobes broad and rounded to obtuse; margins entire rather than serrate",
+      "fine veins prominently raised on the lower leaf surface",
+      "floral bracts absent",
+      "flowers small and inconspicuous, roughly 2–2.5 cm across in regional material",
+      "sepals green; petals pale green-yellow; corona pale green/white to yellow",
+      "ripe berries small, purple-black, roughly 8–15 mm"
+    ],
+    "comparison_training": "Passiflora tenuiloba: P. tenuiloba has petiole glands and very narrow, deeply divided 3–9-lobed 'birdwing' leaves; P. lutea has glandless petioles and broad rounded 3-lobed leaves. Passiflora incarnata: P. incarnata has two conspicuous petiole glands, deeply 3-lobed serrate leaves, much larger flowers, and large maypop fruits. P. lutea has glandless petioles, entire leaf margins and tiny flowers/fruits."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Passiflora affinis",
+      "Passiflora tenuiloba",
+      "Passiflora incarnata"
+    ],
+    "key_distinctions": "P. tenuiloba has petiole glands and very narrow, deeply divided 3–9-lobed 'birdwing' leaves; P. lutea has glandless petioles and broad rounded 3-lobed leaves. P. incarnata has two conspicuous petiole glands, deeply 3-lobed serrate leaves, much larger flowers, and large maypop fruits. P. lutea has glandless petioles, entire leaf margins and tiny flowers/fruits."
+  },
+  "tags": [
+    "Passifloraceae",
+    "Passiflora",
+    "Yellow passionflower",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-bulk-approved-2026-10-03",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "photo_install_verified": "2026-10-13"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "images": [
+    {
+      "file": "images/passiflora-lutea-provisional-face.jpg",
+      "role": "Flowering vine / recognizable face",
+      "creator": "Valis55",
+      "license": "CC BY 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_lutea.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "caption": "Original exact-species flower 'face' by Valis55, CC BY 3.0. Shows small yellow-green corolla and broad leaf context. The underside nectaries are not visible here.",
+      "diagnostic_roles": [
+        "flower/leaf context",
+        "corona or floral structure"
+      ]
+    },
+    {
+      "file": "images/02-leaf-three-lobes.jpg",
+      "role": "Mature shallow three-lobed entire-margin leaf—diagnostic silhouette, not proof of glandlessness",
+      "creator": "Brucewinter",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_lutea_leaf.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes, attribution/share-alike when applicable",
+      "caption": "Brucewinter, CC BY-SA 4.0: mature P. lutea shallow three-lobed leaf. Look at broad rounded lobes and ENTIRE margins. This is a leaf-face example, not proof that underside nectar dots are absent.",
+      "diagnostic_roles": [
+        "leaf blade shape",
+        "leaf margin"
+      ]
+    },
+    {
+      "file": "images/03-flower-and-fruit.jpg",
+      "role": "Small green-yellow flower and purple-black berry together on stem",
+      "creator": "Valis55",
+      "license": "CC BY 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_lutea_bloom_and_fruit.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes, attribution/share-alike when applicable",
+      "caption": "Valis55, CC BY 3.0: yellow-green flower with small berry on one shoot. Compare fruit size and support; a leaf underside view is still needed for the affinis split.",
+      "diagnostic_roles": [
+        "fruit"
+      ]
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "photo_polish",
+    "image_count": 3,
+    "photo_files_present": 3,
+    "verified_at": "2026-10-13",
+    "note": "3 exact-name source-licensed photographs physically installed and source-provenance preserved. New images show selected traits, but key small nectary/gland macros and exact annotated arrows remain final-polish. Native-range decisions unchanged."
+  },
+  "diagnostic_photo_needs": [
+    {
+      "priority": "high",
+      "role": "mature leaf upper surface and petiole attachment",
+      "status": "needed or final-polish—verify already installed image suitability; do not draw unverified arrows"
+    },
+    {
+      "priority": "high",
+      "role": "leaf underside showing absence of nectar dots contrasted with P. affinis",
+      "status": "needed or final-polish—verify already installed image suitability; do not draw unverified arrows"
+    },
+    {
+      "priority": "medium",
+      "role": "small flower and fruit on one shoot",
+      "status": "needed or final-polish—verify already installed image suitability; do not draw unverified arrows"
+    },
+    {
+      "priority": "medium",
+      "role": "flower base without bracts and corona filament tip detail",
+      "status": "needed or final-polish—verify already installed image suitability; do not draw unverified arrows"
+    }
+  ],
+  "visual_science_review": {
+    "reviewed_at": "2026-10-13",
+    "status": "morphology-first lesson refined; native target labels unchanged",
+    "photo_priority": [
+      "mature leaf upper surface and petiole attachment",
+      "leaf underside showing absence of nectar dots contrasted with P. affinis"
+    ]
+  }
+}

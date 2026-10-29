@@ -1,0 +1,122 @@
+{
+  "id": "oenothera-capillifolia",
+  "entry_type": "species",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "species": "capillifolia",
+  "scientific_name": "Oenothera capillifolia",
+  "authority": "Scheele",
+  "common_name": "Berlandier's Sundrops / Square-bud Primrose",
+  "look_here_first": "Start with the foliage and bud shape. Berlandier's sundrops has very narrow linear leaves, a low spreading perennial/subshrub habit, bright yellow 4-petaled flowers, and distinctly 4-angled/square flower buds.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Hays — Natural Purola flora records the old synonym Calylophus berlandieri subsp. pinifolius. Travis — UT herbarium index records Calylophus berlandieri var. pinifolius. Williamson — dedicated treatment documents Oenothera capillifolia subsp. capillifolia. Current Kew places these Calylophus concepts under O. capillifolia.",
+    "range_guardrail": "Exact county evidence; reconciled historical synonyms only."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial herb to small subshrub",
+      "several spreading to ascending stems",
+      "very narrow linear leaves",
+      "bright yellow 4-petaled flowers",
+      "buds and floral tube strongly 4-angled",
+      "inferior ovary",
+      "capsule narrow and 4-valved",
+      "flowers generally diurnal compared with classic evening primroses"
+    ],
+    "comparison_training": "O. laciniata has much broader cut-lobed leaves. O. capillifolia is the fine-leaved yellow sundrop concept historically called Calylophus."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Oenothera laciniata",
+      "Oenothera calcicola",
+      "Oenothera biennis",
+      "Oenothera filiformis"
+    ],
+    "key_distinctions": "O. laciniata has much broader cut-lobed leaves. O. capillifolia is the fine-leaved yellow sundrop concept historically called Calylophus."
+  },
+  "curation_status": {
+    "version": "1.0-b061",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "images": [
+    {
+      "file": "images/oenothera-capillifolia-provisional-face.jpg",
+      "role": "Whole flowering plant recognizable face",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Oenothera_capillifolia_subsp._capillifolia_(syn-_O._berlandieri_subsp._pinifolia,_Calylophus_berlandieri_subsp._pinifolius).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-369357035.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/369357035",
+      "observation_url": "https://www.inaturalist.org/observations/208743051",
+      "observation_id": "208743051",
+      "photo_id": "369357035",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/369357035/large.jpeg",
+      "image_dimensions": [
+        768,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-369801008.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/369801008",
+      "observation_url": "https://www.inaturalist.org/observations/208983865",
+      "observation_id": "208983865",
+      "photo_id": "369801008",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/369801008/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "rank": "genus",
+  "family": "Euphorbiaceae",
+  "name": "Tragia",
+  "project_scope": {
+    "species_ids": [
+      "tragia-betonicifolia",
+      "tragia-brevispica",
+      "tragia-nigricans",
+      "tragia-ramosa"
+    ],
+    "species_count": 4
+  },
+  "shared_traits": [
+    "Stinging hairs on vegetative parts",
+    "Small unisexual, petal-less flowers borne on racemes",
+    "Usually female flower(s) lower on the axis and male flowers above",
+    "Three-lobed capsules"
+  ],
+  "look_here_first": "Avoid touching the stinging plant. Photograph an intact reproductive raceme with scale, then examine leaf base, male-flower count and persistent pedicel stubs; confirm with mature capsule.",
+  "comparison_matrix": {
+    "columns": [
+      "species",
+      "leaf",
+      "reproductive axis",
+      "persistent male pedicel bases",
+      "mature capsule width"
+    ],
+    "rows": [
+      [
+        "betonicifolia",
+        "Triangular-ovate serrate; truncate to cordate base",
+        "Many male flowers distally clustered",
+        "0.3–0.6 mm",
+        "7–9 mm"
+      ],
+      [
+        "brevispica",
+        "Variable; insufficient for a secure split",
+        "Short reproductive spike; inspect bracts and pedicels",
+        "0.4–1.5 mm; overlaps T. ramosa",
+        "6.5–7 mm; overlaps T. ramosa"
+      ],
+      [
+        "nigricans",
+        "Oblong to oblanceolate, coarsely serrate",
+        "Usually 2–5 male flowers",
+        "0.2–0.4 mm",
+        "6–7 mm"
+      ],
+      [
+        "ramosa",
+        "Linear-lanceolate to narrowly ovate; truncate to weakly cordate",
+        "About 2–20 male flowers",
+        "Check against matched specimens",
+        "6–8 mm"
+      ]
+    ]
+  },
+  "species_differences": [
+    {
+      "species": "Tragia betonicifolia",
+      "leaf": "Triangular-ovate serrate; truncate to cordate base",
+      "raceme": "Many male flowers distally clustered",
+      "pedicel": "0.3–0.6 mm",
+      "capsule": "7–9 mm"
+    },
+    {
+      "species": "Tragia brevispica",
+      "leaf": "Variable; insufficient for a secure split",
+      "raceme": "2–8(–10) staminate flowers; bracts 1–1.8 mm (FNA). Examine stigmatic surface and mature carpel count.",
+      "pedicel": "Persistent staminate pedicel base 0.4–1.5 mm (FNA); entirely overlaps T. ramosa, so not diagnostic alone.",
+      "capsule": "6.5–7 mm wide (FNA); often only 1 of 3 carpels matures; capsule width overlaps T. ramosa (6–8 mm)."
+    },
+    {
+      "species": "Tragia nigricans",
+      "leaf": "Oblong to oblanceolate, coarsely serrate",
+      "raceme": "Usually 2–5 male flowers",
+      "pedicel": "0.2–0.4 mm",
+      "capsule": "6–7 mm"
+    },
+    {
+      "species": "Tragia ramosa",
+      "leaf": "Linear-lanceolate to narrowly ovate; truncate to weakly cordate",
+      "raceme": "About 2–20 male flowers",
+      "pedicel": "Check against matched specimens",
+      "capsule": "6–8 mm"
+    }
+  ],
+  "overlap_cautions": [
+    "Male-flower counts and capsule sizes overlap; do not identify from one number alone.",
+    "Dark stem color is supporting evidence for T. nigricans, not proof.",
+    "FNA verifies T. brevispica staminate bracts 1–1.8 mm, persistent male pedicel bases 0.4–1.5 mm, and capsules 6.5–7 mm wide; pedicel bases and capsule widths overlap T. ramosa. Often only one capsule carpel matures, but this is not obligatory.",
+    "Do not handle stinging hairs barehanded.",
+    "FNA's strongest T. brevispica vs T. ramosa combination: often one mature carpel versus usually three; T. brevispica stigmas subpapillate to undulate and variable broad leaves, T. ramosa stigmas smooth to undulate and typically longer-than-wide narrower leaves. Stigma states overlap at undulate; fruit carpel condition is not obligatory."
+  ],
+  "lookalikes": [
+    "Acalypha: pistillate bracts and divided styles rather than Tragia-style stinging racemes",
+    "Croton: stellate/scaly hairs and different inflorescence architecture",
+    "Euphorbia: cyathia instead of separate conventional unisexual flowers",
+    "Tragia urticifolia: compare persistent male pedicels and flower distribution"
+  ],
+  "diagnostic_photo_checklist": [
+    "Whole raceme, scale bar, female base and distal male flowers labeled",
+    "Matched leaf-base close-ups for all four species",
+    "Macro of persistent staminate pedicel bases with millimeter scale",
+    "Matched mature capsules with width scale",
+    "Whole-plant habit only as secondary context",
+    "Bract and pedicel detail of T. brevispica for diagnostic-review handoff",
+    "T. brevispica vs T. ramosa: matched stigmatic surface micro-macros, mature capsule showing 1 versus 3 developed carpels, and same-scale full leaf blades; provenance required before display."
+  ],
+  "handoffs": [
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "target": "Tragia brevispica",
+      "question": "FNA bract/pedicel/capsule measurements are now verified and copied into species_differences. Next: lock matched exact-species macro photographs of stigmas and mature 1- versus 3-carpel fruit; retain overlap warnings."
+    },
+    {
+      "lane": "diagnostic-photo",
+      "target": "Tragia four-species genus lesson",
+      "request": "Use permanent photo library first; obtain licensed exact-species matched raceme, pedicel-base, stigma and mature carpel macros. Confirm pixels, credits and rights before annotating. No generic photo harvest requested by this lane."
+    },
+    {
+      "lane": "taxonomy-diagnostic-review",
+      "target": "Tragia brevispica versus T. ramosa",
+      "request": "Review ambiguous specimens against FNA key using combined leaf, stigma and developed-carpel evidence; preserve existing taxonomic/range decisions."
+    },
+    {
+      "lane": "approved-installer",
+      "target": "Tragia",
+      "request": "No new installs requested: all four genus scope species are present in the current canonical manifest."
+    }
+  ],
+  "curation_status": {
+    "version": "1.1-genus-photo-led-recovery-20261015",
+    "last_reviewed": "2026-10-15",
+    "note": "Scientific comparison reconciled against FNA for brevispica/ramosa; existing canonical species, approvals, and native-range decisions unchanged.",
+    "lesson_status": "genus comparison published; diagnostic photo roles pending; no new media installed"
+  },
+  "scientific_sources": [
+    "Flora of North America, Tragia brevispica: https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101934",
+    "Flora of North America, Tragia ramosa: https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242417369"
+  ],
+  "look_here_first_sequence": [
+    {
+      "step": 1,
+      "inspect": "The entire flowering raceme, without touching the stinging hairs",
+      "decision": "Find the lower pistillate flower(s), upper staminate flowers, bracts, and any remaining male-flower pedicel bases. Take a scaled side view."
+    },
+    {
+      "step": 2,
+      "inspect": "Mature leaf shape and leaf base, with ruler",
+      "decision": "Compare triangular/cordate versus narrower blades; leaves alone cannot settle T. brevispica versus T. ramosa."
+    },
+    {
+      "step": 3,
+      "inspect": "Male flower pedicel stubs and stigma surface, magnified",
+      "decision": "Measure the persistent bases; note stigma smooth, undulate, or papillate, recognizing overlap."
+    },
+    {
+      "step": 4,
+      "inspect": "A mature, undamaged capsule",
+      "decision": "Count developed carpels and measure capsule width; often one developed in T. brevispica versus usually three in T. ramosa, not an absolute rule."
+    }
+  ],
+  "shared_morphology_explained": [
+    {
+      "term": "stinging trichomes",
+      "plain": "tiny irritating hairs",
+      "caution": "Handle using photographs or protection; stinging hairs alone do not identify the species."
+    },
+    {
+      "term": "staminate and pistillate flowers",
+      "plain": "pollen-producing and seed-producing flowers",
+      "caution": "Usually on the same raceme with female lower and male upper; photograph a complete reproductive axis."
+    },
+    {
+      "term": "pedicel and persistent base",
+      "plain": "short flower stalk and the part left after the male flower falls",
+      "caution": "The remnant length is measured in millimeters and overlaps between species."
+    },
+    {
+      "term": "tricarpellate capsule",
+      "plain": "fruit built from three carpels",
+      "caution": "Some species may mature fewer than three; count developed carpels on several ripe fruits."
+    }
+  ],
+  "anatomy_lessons": [
+    {
+      "title": "1 · Read the raceme from bottom to top",
+      "term": "raceme, pistillate and staminate flowers",
+      "look_for": "Lower female flowers or fruits and distal pollen-bearing flowers, including subtending bracts.",
+      "why_it_matters": "Shows that the green structures are separate unisexual flowers, not a Euphorbia cyathium.",
+      "photo_role": "complete intact raceme, side view, mm scale; compare four exact-species specimens",
+      "status": "needs_diagnostic_photo",
+      "annotation_status": "pending_verified_pixels"
+    },
+    {
+      "title": "2 · Measure the fallen male-flower stalks",
+      "term": "persistent staminate pedicel bases",
+      "look_for": "Small pedicel remnants on the reproductive axis, with a 1-mm ruler; T. brevispica 0.4–1.5 mm and T. ramosa 0.4–1.5 mm overlap.",
+      "why_it_matters": "A useful structural measurement but NOT a stand-alone brevispica/ramosa separator.",
+      "photo_role": "paired male-flower stub macros of brevispica and ramosa at same scale",
+      "status": "needs_diagnostic_photo",
+      "annotation_status": "pending_verified_pixels"
+    },
+    {
+      "title": "3 · Inspect the female stigma",
+      "term": "styles and stigmatic surface",
+      "look_for": "T. brevispica subpapillate-to-undulate versus T. ramosa smooth-to-undulate; undulate is shared.",
+      "why_it_matters": "Use in combination with leaf and fruit characters, not as a binary character.",
+      "photo_role": "paired side/top macro of pistillate flower with magnification",
+      "status": "needs_diagnostic_photo",
+      "annotation_status": "pending_verified_pixels"
+    },
+    {
+      "title": "4 · Count the ripe fruit carpels",
+      "term": "capsule, carpel, coccus",
+      "look_for": "T. brevispica often matures one of three carpels; T. ramosa usually three. Compare mature fruit widths (6.5–7 mm versus 6–8 mm, overlapping).",
+      "why_it_matters": "Carpel maturity is a stronger combined clue than fruit width alone, but not obligatory.",
+      "photo_role": "matched mature fruit faces and opened fruit with scale; one- versus three-developed-carpel examples",
+      "status": "needs_diagnostic_photo",
+      "annotation_status": "pending_verified_pixels"
+    }
+  ],
+  "comparison_cards": [
+    {
+      "title": "T. brevispica vs T. ramosa — the hard pair",
+      "species_ids": [
+        "tragia-brevispica",
+        "tragia-ramosa"
+      ],
+      "look_here_first": "Inspect leaf proportions, mature capsule carpel development, stigma texture and inflorescence together.",
+      "key_contrast": "T. brevispica 2–8(–10) staminate flowers and often one developed carpel; T. ramosa 2–20 flowers and usually three. Counts and sizes overlap.",
+      "caution": "Do not use 0.4–1.5 mm persistent pedicel bases or 6–8 mm capsules as binary splits.",
+      "photo_status": "matched_macros_needed"
+    },
+    {
+      "title": "T. betonicifolia vs T. nigricans — leaf and raceme",
+      "species_ids": [
+        "tragia-betonicifolia",
+        "tragia-nigricans"
+      ],
+      "look_here_first": "Compare triangular-ovate versus oblong/oblanceolate leaves, distribution of male flowers and measured stalk remnants.",
+      "key_contrast": "Betonicifolia tends to many distal male flowers and 0.3–0.6 mm bases; nigricans often 2–5 male flowers and 0.2–0.4 mm bases.",
+      "caution": "Leaf variation and measurement overlap require intact flowering racemes.",
+      "photo_status": "matched_macros_needed"
+    },
+    {
+      "title": "Noseburn versus other spurges",
+      "species_ids": [
+        "tragia-betonicifolia",
+        "tragia-brevispica",
+        "tragia-nigricans",
+        "tragia-ramosa"
+      ],
+      "look_here_first": "Confirm separate unisexual flowers in racemes; compare Acalypha female bracts, Croton hairs and Euphorbia cyathia.",
+      "key_contrast": "Stinging hairs + distinct male/female flowers + three-carpel capsule support Tragia; genus look-alikes require reproductive verification.",
+      "caution": "Do not identify from stinging sensation or leaf alone.",
+      "photo_status": "family_genus_comparison_macros_needed"
+    }
+  ],
+  "photo_evidence_and_rights": {
+    "status_rule": "Species-record image metadata is not proof of verified anatomy, physical file inspection or public reuse clearance. No new images or arrows installed in this genus pass.",
+    "existing_species_record_examples": [
+      {
+        "species_id": "tragia-betonicifolia",
+        "recorded_file": "images/gbif-manual-4904243122-0e556db65.jpg",
+        "creator": "Nathan Aaron",
+        "license": "CC BY",
+        "source_page": "https://www.gbif.org/occurrence/4904243122",
+        "status": "recorded_in_species_gallery; diagnostic anatomy not independently verified"
+      },
+      {
+        "species_id": "tragia-brevispica",
+        "recorded_file": "images/gbif-manual-2609229303-5511f4d55.jpg",
+        "creator": "Cleveland Powell",
+        "license": "CC BY",
+        "status": "recorded_in_species_gallery; diagnostic anatomy not independently verified"
+      },
+      {
+        "species_id": "tragia-nigricans",
+        "recorded_file": "images/inat-first-444535061.jpg",
+        "creator": "Reid Hardin",
+        "license": "CC BY 4.0",
+        "source_page": "https://www.inaturalist.org/photos/444535061",
+        "status": "recorded_in_species_gallery; diagnostic anatomy not independently verified"
+      },
+      {
+        "species_id": "tragia-ramosa",
+        "recorded_file": "images/joey-inat-212371469.jpg",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC 4.0",
+        "status": "recorded_in_species_gallery; noncommercial license, diagnostic anatomy not independently verified"
+      }
+    ],
+    "restricted_examples": "UT Plant Resources Center provisional face images in species records say 'reuse rights unverified'; do not treat as publicly reusable. Joey Santore's CC BY-NC is noncommercial and not interchangeable with CC BY. Source images and candidate-library entries must be individually verified before public display.",
+    "photo_roles": [
+      {
+        "role": "full reproductive raceme",
+        "priority": "critical",
+        "status": "needs_photo",
+        "targets": [
+          "tragia-betonicifolia",
+          "tragia-brevispica",
+          "tragia-nigricans",
+          "tragia-ramosa"
+        ]
+      },
+      {
+        "role": "persistent male pedicel base, measured",
+        "priority": "critical",
+        "status": "needs_photo",
+        "targets": [
+          "tragia-brevispica",
+          "tragia-ramosa"
+        ]
+      },
+      {
+        "role": "stigmatic surface, magnified",
+        "priority": "high",
+        "status": "needs_photo",
+        "targets": [
+          "tragia-brevispica",
+          "tragia-ramosa"
+        ]
+      },
+      {
+        "role": "mature capsule carpels, counted and measured",
+        "priority": "critical",
+        "status": "needs_photo",
+        "targets": [
+          "tragia-brevispica",
+          "tragia-ramosa"
+        ]
+      }
+    ]
+  }
+}

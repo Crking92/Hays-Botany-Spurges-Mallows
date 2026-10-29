@@ -1,0 +1,9 @@
+Approved source pool working taxon Viola affinis; original source rows 1253.
+Taxonomy search https://powo.science.kew.org/results?q=Viola%20affinis
+Exact licensed image Commons file https://commons.wikimedia.org/wiki/File:Viola_affinis_(4585479901).jpg
+Physical original download via https://commons.wikimedia.org/wiki/Special:Redirect/file/Viola%20affinis%20(4585479901).jpg
+Creator Joshua Mayer (wackybadger)
+Image license CC BY-SA 2.0
+Photo provisional role Provisional violet flowering view; petal hairs, spur and leaf undersides need closeups.
+Caution Viola species and subspecies can be hard to distinguish; source from Wisconsin, verify local taxonomy before final visual ID.
+Photo is an aid, not completed independent confirmation of all botanical parts or Hays-range nativity.

@@ -1,0 +1,97 @@
+{
+  "id": "ludwigia-peploides",
+  "entry_type": "species",
+  "family": "Onagraceae",
+  "genus": "Ludwigia",
+  "species": "peploides",
+  "scientific_name": "Ludwigia peploides",
+  "authority": "(Kunth) P.H.Raven",
+  "common_name": "Floating primrose-willow / creeping water-primrose",
+  "look_here_first": "Creeping or floating mat of alternate glossy broad leaves, with typically 5 showy yellow petals and 10 stamens.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Calvin-approved Master Plant Pool / Ludwigia source-pool genus review",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "STUDY_REFERENCE_NATIVE_STATUS_PENDING",
+    "verified_target_counties": [],
+    "range_basis": "Strict BONAP/NAPA and Hays/project-county range review was not completed in this quick visual install; source-pool admission is separate from native-range certification.",
+    "range_guardrail": "Do not count as confirmed Hays/target-zone native unless independently validated."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "morphology_keys": {
+    "habit": "Aquatic perennial with floating or creeping stems often rooting at nodes.",
+    "leaves": "Alternate or fascicled; usually shiny elliptic to obovate petiolate blades.",
+    "flower": "Typically 5 broad yellow petals and 10 stamens; flower borne in leaf axil.",
+    "fruit": "Cylindrical or slightly angular capsule, usually thicker-walled; details vary across geographic subspecies.",
+    "best_field_traits": [
+      "Creeping or floating mat of alternate glossy broad leaves, with typically 5 showy yellow petals and 10 stamens.",
+      "Aquatic perennial with floating or creeping stems often rooting at nodes.",
+      "Typically 5 broad yellow petals and 10 stamens; flower borne in leaf axil.",
+      "Cylindrical or slightly angular capsule, usually thicker-walled; details vary across geographic subspecies."
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ludwigia octovalvis",
+      "Ludwigia repens",
+      "other Ludwigia spp."
+    ],
+    "key_distinctions": "Against L. repens/palustris, leaves alternate rather than opposite. Against erect hairy leptocarpa, peploides usually forms floating shiny-leaved mats. Subspecies need finer capsule, bracteole and petiole review."
+  },
+  "images": [
+    {
+      "file": "images/images/01-ludwigia-peploides-licensed-source.jpg",
+      "role": "Floating stem, alternate shiny leaves and five-petaled yellow flower (subsp. peploides)",
+      "creator": "Eugene Zelenko",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ludwigia_peploides_peploides-6.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with license terms"
+    },
+    {
+      "file": "images/gbif-manual-6129831642-edef2dfdd.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Floating stem/node and 5-petaled yellow flower, capsule and leaf attachment",
+      "creator": "Cody Hinchliff",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/6129831642",
+      "gbif_occurrence_id": "6129831642",
+      "source_determination": "Ludwigia peploides (Kunth) P.H.Raven",
+      "accepted_target": "Ludwigia peploides",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/606297160/original.jpg",
+      "image_dimensions": [
+        1012,
+        1350
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "note": "One licensed exact-species reference image installed; specialized reproductive and local macro comparison photos pending."
+  },
+  "diagnostic_image_plan": [
+    "California photograph is subsp. peploides, not proof of subspecies identity in Hays.",
+    "Sharp close-up of distinctive stem node/leaf attachment.",
+    "Measured, fully mature capsule and flower-stamen macro."
+  ],
+  "curation_status": {
+    "version": "1.0-source-pool-quick-install",
+    "last_reviewed": "2026-10-08",
+    "user_approved": true,
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "gbif_manual_photo_enrichment": "2026-10-16"
+  },
+  "source_notes": "Morphology from FNA Ludwigia key / Kew species treatments; source image file and license verified, not necessarily local native source.",
+  "photo_note": "Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

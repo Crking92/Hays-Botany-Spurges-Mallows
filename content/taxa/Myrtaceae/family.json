@@ -1,0 +1,162 @@
+{
+  "rank": "family",
+  "name": "Myrtaceae",
+  "common_name": "Myrtle family",
+  "lineage_context": {
+    "order": "Myrtales",
+    "batch": "Myrtales",
+    "close_project_families": [
+      "Lythraceae",
+      "Onagraceae"
+    ],
+    "teaching_goal": "Use the single project Feijoa concept to teach opposite entire gland-dotted leaves with an intramarginal vein, many conspicuous stamens, inferior ovary and fleshy berry, while clearly marking it as a nonlocal cultivated comparison."
+  },
+  "project_scope": {
+    "selection_mode": "Feijoa sellowiana one-species comparison module",
+    "note": "The current project pool contains Feijoa sellowiana. Current Kew accepts Feijoa sellowiana and treats Acca sellowiana as a synonym. Its native range is southern Brazil to northeastern Argentina/Uruguay; it is not a Central Texas native anchor."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Start with a leaf held to light: look for pellucid oil-gland dots and an intramarginal vein running just inside the leaf edge. In flower, confirm many conspicuous stamens surrounding a single style above an inferior ovary.",
+    "vegetative": "Woody shrubs or trees; leaves simple, entire, exstipulate and commonly opposite. Pellucid gland dots and an intramarginal collecting vein are strong family clues.",
+    "reproductive": "Flowers usually 4–5-merous with a well-developed hypanthium and usually numerous stamens. Ovary commonly inferior or semi-inferior with a single style.",
+    "fruit": "Capsule, berry or drupe across the family. Feijoa produces a fleshy green berry with many seeds.",
+    "field_tip": "For this project: woody + opposite entire gland-dotted leaves + intramarginal vein + many stamens + inferior ovary = Myrtaceae."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_015",
+    "teaching_order": "leaf oil glands → intramarginal vein → many stamens → inferior ovary → Feijoa fruit → Myrtales comparison",
+    "intro": "Myrtaceae gives the learner a powerful leaf-plus-flower combination: translucent oil glands and a near-edge vein on the leaf, then a flower dominated by a brush of stamens.",
+    "steps": [
+      {
+        "title": "1 · Backlight the oil glands",
+        "photo_role": "backlit leaf macro",
+        "look_for": "Small pellucid translucent dots scattered through the blade.",
+        "why_it_matters": "A high-value family clue that separates Myrtaceae from many opposite-leaved woody families.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "2 · Trace the intramarginal vein",
+        "photo_role": "leaf venation macro",
+        "look_for": "A collecting vein running roughly parallel to the margin just inside the leaf edge.",
+        "why_it_matters": "Pairs with the oil glands to make the vegetative family door much stronger.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "3 · Count 'many' stamens",
+        "photo_role": "Feijoa flower face",
+        "look_for": "A conspicuous brush of long red/crimson stamens with yellow anthers surrounding the style.",
+        "why_it_matters": "The androecium is far more diagnostic than flower color or petal shape alone.",
+        "status": "comparison_visual_pending"
+      },
+      {
+        "title": "4 · Locate the inferior ovary",
+        "photo_role": "flower side view/cutaway",
+        "look_for": "Petals and stamens arise above an ovary embedded below the flower.",
+        "why_it_matters": "Connects Myrtaceae to Myrtales while separating it from project Lythraceae's usually superior ovary.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "5 · Feijoa whole-plant door",
+        "photo_role": "leaf + flower + fruit card",
+        "look_for": "Opposite leathery leaves, dark glossy upper surface, densely pale/white-tomentose underside, showy many-stamen flower and oblong green berry.",
+        "why_it_matters": "A compact genus/species recognition card for the only project Myrtaceae taxon.",
+        "status": "comparison_visual_pending"
+      },
+      {
+        "title": "6 · Mark it as nonlocal",
+        "photo_role": "native-range/comparison card",
+        "look_for": "Feijoa sellowiana is South American in origin; project use is ornamental/comparison rather than Central Texas native anchor.",
+        "why_it_matters": "Prevents family recognition from accidentally becoming a native-plant recommendation.",
+        "status": "taxonomy_card_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Myrtaceae vs Lythraceae",
+        "rule": "Myrtaceae project plant is woody, gland-dotted, intramarginal-veined, many-stamened and inferior-ovaried. Lythraceae project plants are wetland herbs with a persistent floral tube and usually superior ovary."
+      },
+      {
+        "title": "Myrtaceae vs Onagraceae",
+        "rule": "Both commonly have inferior ovaries in Myrtales, but Onagraceae project plants are herbs with a much smaller fixed stamen set and often a 4-lobed stigma; Myrtaceae is woody with oil glands, intramarginal veins and many stamens."
+      },
+      {
+        "title": "Myrtaceae vs Rutaceae",
+        "rule": "Both can show pellucid oil glands. Project Myrtaceae has opposite simple leaves, many stamens and an inferior ovary; project Rutaceae has mostly alternate leaves, fewer stamens, a floral disk and a superior ovary."
+      }
+    ],
+    "caveat": "Do not use aroma by crushing as a required crew test; backlit gland dots, intramarginal venation and reproductive characters are safer. Family-level Myrtaceae is diverse, so the module intentionally centers on the single project Feijoa concept."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 1,
+    "genera": [
+      {
+        "genus": "Feijoa",
+        "taxa_count": 1,
+        "fast_cue": "opposite leathery gland-dotted leaves + white-tomentose underside + many red stamens + green berry",
+        "role": "nonlocal cultivated comparison"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Feijoa sellowiana"
+  ],
+  "taxonomy_reconciliation": [
+    {
+      "source_name": "Feijoa sellowiana",
+      "current_name": "Feijoa sellowiana",
+      "note": "Accepted by current Kew."
+    },
+    {
+      "source_name": "Acca sellowiana",
+      "current_name": "Feijoa sellowiana",
+      "note": "Current Kew treats Acca sellowiana as a homotypic synonym; retain Acca as searchable provenance only."
+    }
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "pellucid leaf glands",
+      "annotation_goal": "circle translucent oil glands in backlit leaf"
+    },
+    {
+      "priority": 1,
+      "structure": "intramarginal vein",
+      "annotation_goal": "trace the collecting vein just inside leaf margin"
+    },
+    {
+      "priority": 1,
+      "structure": "many-stamen flower",
+      "annotation_goal": "label stamens, style, petals and inferior ovary relationship"
+    },
+    {
+      "priority": 1,
+      "structure": "Feijoa leaf underside",
+      "annotation_goal": "compare glossy upper surface with densely white-tomentose lower surface"
+    },
+    {
+      "priority": 2,
+      "structure": "Feijoa sellowiana / Acca sellowiana taxonomy card",
+      "annotation_goal": "accepted current name plus synonym provenance"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Kew POWO — Myrtaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000056-2/general-information"
+    },
+    {
+      "source": "Kew POWO — Feijoa sellowiana",
+      "url": "https://powo.science.kew.org/taxon/596467-1"
+    },
+    {
+      "source": "Kew POWO — Acca sellowiana synonym record",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1733-2"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-015",
+    "last_reviewed": "2026-10-04",
+    "visual_lock": "family_structure_live_gland_vein_stamen_ovary_macros_pending",
+    "family_backfill_phase": "recognition module built; comparison species only"
+  }
+}

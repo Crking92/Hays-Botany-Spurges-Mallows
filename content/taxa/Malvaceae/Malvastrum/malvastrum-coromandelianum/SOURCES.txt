@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Malvastrum%20coromandelianum
+Source research-grade observation: https://www.inaturalist.org/observations/42009794
+Photo: https://www.inaturalist.org/photos/66673354
+Attribution: (c) Dewald du Plessis, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

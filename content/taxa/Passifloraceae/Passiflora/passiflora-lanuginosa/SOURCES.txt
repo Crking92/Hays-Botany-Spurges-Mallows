@@ -1,0 +1,24 @@
+Reviewed draft: research-drafts/passiflora-lanuginosa/draft.json (B063).
+Kew/POWO accepted species and Mexico-Guatemala native range recorded in completed review. Texas introduced; scientific FAIL_TARGET_ZONE.
+Historical synonym: Passiflora foetida var. lanuginosa. Do not transfer old P. foetida observations without taxon-concept review.
+Morphology and lookalikes: completed draft and canonical content/taxa/Passifloraceae/Passiflora/passiflora-foetida/species.json.
+Exact-species photo pending; images[] intentionally empty and provisional.
+
+Additional historical-name voucher candidate (external viewing only, NOT cleared/installed): Muséum national d'Histoire naturelle Paris P00604274, determined in 1924 by Killip as Passiflora foetida var. lanuginosa, collector Bourgeau 2438, Orizaba, Mexico. Source https://science.mnhn.fr/institution/mnhn/collection/p/item/p00604274 . Kew treats that historical variety as synonym of accepted P. lanuginosa: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77324795-1 . Original photo reuse permission and direct downloadable media were NOT confirmed; do not install or claim diagnostic photo completion from this source. Image would show a dried voucher, not living plant flower/fruit structure.
+
+OWNER-AUTHORIZED PRIVATE PHOTO, 2026-10-14
+Glass Root Garden; https://www.inaturalist.org/photos/466064726; observation 259612062.
+Direct photo-owner authorization in current project chat, 2026-10-14. Private learner use approved despite stale source metadata; no public CC grant inferred.
+Source API license: none_recorded; public_reuse=no. EXIF/GPS stripped.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T01:59:14.177044+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/668477272
+https://www.inaturalist.org/observations/366107505
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T02:18:07.459034+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/668477369
+https://www.inaturalist.org/observations/366107505
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

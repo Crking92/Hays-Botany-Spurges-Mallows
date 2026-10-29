@@ -1,0 +1,1070 @@
+{
+  "rank": "genus",
+  "family": "Euphorbiaceae",
+  "name": "Croton",
+  "common_group": "Crotons, goatweeds and prairie tea",
+  "lesson_scope": "Morphology-first comparison of six canonical learner species. Genus lesson enrichment only: preserve all existing species, image attributions, source decisions, range HOLDs, and taxonomy concepts. No new species added.",
+  "project_scope": {
+    "canonical_species_ids": [
+      "croton-monanthogynus",
+      "croton-lindheimerianus",
+      "croton-texensis",
+      "croton-fruticulosus",
+      "croton-lindheimeri",
+      "croton-capitatus"
+    ],
+    "canonical_species_count": 6,
+    "species_count_note": "All six already occur in data/manifest.json; installed does not imply certified target-zone native.",
+    "range_labels": {
+      "croton-monanthogynus": "PASS (Hays, Travis, Kerr)",
+      "croton-lindheimerianus": "PASS (Llano, Medina, Travis)",
+      "croton-texensis": "PASS (Travis, Kerr, Llano)",
+      "croton-fruticulosus": "PASS (Travis, Comal, Kerr)",
+      "croton-lindheimeri": "UNRESOLVED (only Travis locked; approved learner comparison)",
+      "croton-capitatus": "UNRESOLVED TAXON CONCEPT (no locked target-zone county count; approved learner comparison)"
+    }
+  },
+  "shared_genus_pattern": {
+    "look_here_first": "Inspect the lower leaf surface with magnification for stellate (star-shaped) or scalelike hairs, then find a pistillate flower or capsule. On a flowering plant, check if male and female flowers share the same plant, the number/division of styles, pistillate sepal posture and whether capsules are smooth or warty.",
+    "vegetative": "Herbs through shrubs, usually alternate simple leaves; leaf outlines vary widely. Stellate or lepidote hairs are an important Croton clue. Gray-looking leaves alone do not make a species ID.",
+    "reproductive": "Flowers generally small and unisexual, often with lower pistillate and upper staminate flowers along mixed inflorescences in monoecious species. Dioecious species have male and female flowers on separate plants.",
+    "fruit": "Usually a three-part capsule in the current group; prairie tea is exceptional: two locules with only one fertile, yielding an apparently one-seeded, follicle-like fruit.",
+    "family_tie_breaker": "Against Euphorbia, look for Croton's stellate/scalelike hairs and ordinary separate tiny unisexual flowers rather than cyathia. Against Acalypha, inspect reproductive spikes and the characteristic Acalypha pistillate bracts rather than relying on leaf outline."
+  },
+  "central_texas_look_here_first": [
+    "ONE: Identify a WOODY basal stem versus an annual. Shrubby C. fruticulosus should have woody basal growth + minutely serrulate leaves, not merely a leafy green tip.",
+    "TWO: A narrow-leaved annual with SEPARATE male/female plants and warted fruit likely C. texensis; male stamens in existing photos do NOT prove female fruit.",
+    "THREE: Low branchy annuals → FLIP LEAF, 10–20×: DARK-CENTERED stellate hair underside + 2 forked styles/FOUR tips = C. monanthogynus.",
+    "FOUR: Low branchy annual WITHOUT brown-centered hairs + 3 forked styles/SIX tips = C. lindheimerianus. Do not count any visible male stamens as female style ends.",
+    "FIVE: Tall woolly annuals → use mature female sepal tips and acute/blunt leaf tips to separate C. lindheimeri from TRUE C. capitatus, maintaining both existing range/taxon HOLDs."
+  ],
+  "comparison_matrix": [
+    {
+      "character": "Growth form",
+      "monanthogynus": "Small annual; often many branches near base.",
+      "lindheimerianus": "Small annual; often dichotomous branching near base.",
+      "texensis": "Annual; loosely branching toward upper stem.",
+      "fruticulosus": "Woody, much-branched shrub/subshrub.",
+      "lindheimeri": "Larger annual, commonly with stronger upright main axis.",
+      "capitatus": "Woolly annual, variable; habit alone insufficient."
+    },
+    {
+      "character": "Sex system",
+      "monanthogynus": "Monoecious; sometimes pistillate-only racemes.",
+      "lindheimerianus": "Monoecious.",
+      "texensis": "Dioecious; separate male and female plants.",
+      "fruticulosus": "Monoecious.",
+      "lindheimeri": "Monoecious.",
+      "capitatus": "Monoecious."
+    },
+    {
+      "character": "Leaf margins / tips",
+      "monanthogynus": "Entire; shapes vary along stem.",
+      "lindheimerianus": "Entire; variable lanceolate to almost round.",
+      "texensis": "Entire, generally relatively narrow.",
+      "fruticulosus": "Finely serrulate; ovate to ovate-lanceolate.",
+      "lindheimeri": "Entire, usually consistently acute tips.",
+      "capitatus": "Entire; some leaves obtuse or mucronate."
+    },
+    {
+      "character": "Leaf undersides and young hairs",
+      "monanthogynus": "Some stellate hairs DARK-CENTERED, creating brown-dot effect abaxially.",
+      "lindheimerianus": "Stellate hairs without brown dot effect.",
+      "texensis": "Pale, appressed stellate hairs.",
+      "fruticulosus": "Stellate hairs; inspect woody stems and serrulation.",
+      "lindheimeri": "Ochraceous yellow-brown woolly hairs on young growth; no brown-dot effect.",
+      "capitatus": "Pale whitish to yellowish stellate wool; no brown-dot effect."
+    },
+    {
+      "character": "Pistillate styles (count division)",
+      "monanthogynus": "Two styles, each bifid: FOUR terminal segments.",
+      "lindheimerianus": "Three styles, each bifid: SIX terminal segments.",
+      "texensis": "Three strongly multifid styles: 12–32+ terminal segments.",
+      "fruticulosus": "Three bifid styles: SIX terminal segments.",
+      "lindheimeri": "Three repeatedly forked styles: typically TWELVE terminal segments.",
+      "capitatus": "Three repeatedly forked styles: typically 12–18 or more terminal segments."
+    },
+    {
+      "character": "Pistillate sepals / fruit",
+      "monanthogynus": "Five relatively short sepals; essentially one-seeded smooth capsule.",
+      "lindheimerianus": "Five to six short sepals, about 3 mm; smooth three-locular capsule.",
+      "texensis": "Short sepals; distinctly WARTY (verrucose) capsule.",
+      "fruticulosus": "Five short sepals, about 2.2 mm; smooth capsule.",
+      "lindheimeri": "Seven to eight woolly sepals about 5–7 mm; tips straight or slightly incurved, not recurved.",
+      "capitatus": "Six to nine long persistent sepals, often 7–10 mm or longer in fruit, tips flaring or recurved outward."
+    },
+    {
+      "character": "Source status / cautions",
+      "monanthogynus": "PASS; brown-dot hairs + four style tips strongest.",
+      "lindheimerianus": "PASS; distinguish from C. monanthogynus by underside and style count.",
+      "texensis": "PASS; sex system and warty fruit first.",
+      "fruticulosus": "PASS; woody base and leaf serrulation first.",
+      "lindheimeri": "RANGE UNRESOLVED; not counted native; old C. capitatus var. lindheimeri resolves here.",
+      "capitatus": "TAXON-CONCEPT UNRESOLVED locally; older C. capitatus var. lindheimeri records DO NOT certify true C. capitatus."
+    }
+  ],
+  "head_to_head": [
+    {
+      "pair": [
+        "croton-monanthogynus",
+        "croton-lindheimerianus"
+      ],
+      "look_here_first": "Underside hairs and female styles.",
+      "split": "Prairie tea: dark-centered stars look brown-dotted, two bifid styles/four tips, effectively one seed. Lindheimer's croton: no brown dots, three bifid styles/six tips, three-locular capsule.",
+      "sterile_caution": "If a leaf underside is too small to resolve with a field lens and no female flowers/fruit are present, leave the species tentative."
+    },
+    {
+      "pair": [
+        "croton-monanthogynus",
+        "croton-texensis"
+      ],
+      "look_here_first": "Brown-dot hairs versus dioecious flowers / warty fruit.",
+      "split": "Prairie tea monoecious with one-seeded smooth fruit; Texas croton dioecious with narrow leaves and wart-covered three-part capsules.",
+      "sterile_caution": "A lone male Texas croton plant cannot establish dioecy by itself; seek a female plant or fruit before asserting the distinction."
+    },
+    {
+      "pair": [
+        "croton-lindheimeri",
+        "croton-capitatus"
+      ],
+      "look_here_first": "Female sepals on mature inflorescences, backed by leaf tips and young-stem color.",
+      "split": "C. lindheimeri has more ochraceous young wool, mostly acute leaf apices, and straight to slightly incurved sepals; true C. capitatus more often has some blunt/mucronate leaves and long sepals recurving outward after anthesis.",
+      "sterile_caution": "Historical 'C. capitatus var. lindheimeri' belongs with C. lindheimeri; do not show a mislabeled historical voucher as proof of true C. capitatus. Both scientific statuses stay unresolved for target-zone metrics."
+    },
+    {
+      "pair": [
+        "croton-fruticulosus",
+        "croton-texensis"
+      ],
+      "look_here_first": "Stem base and teeth along leaf margin, then sex system/fruit.",
+      "split": "C. fruticulosus has woody stems, finely serrulate foliage, and bisexual racemes on one plant. C. texensis is an herbaceous dioecious annual with largely entire narrow leaves and warty fruit.",
+      "sterile_caution": "Photograph the basal woody portion; a shoot-tip closeup does not prove shrub versus annual."
+    },
+    {
+      "pair": [
+        "croton-lindheimerianus",
+        "croton-lindheimeri"
+      ],
+      "look_here_first": "Female sepal length and style branching.",
+      "split": "C. lindheimerianus has short pistillate sepals (~3 mm) and styles with six ultimate tips; C. lindheimeri has longer woolly sepals (~5–7 mm) and repeatedly forked styles, often twelve ultimate tips.",
+      "sterile_caution": "Leaf fuzz alone can overlap; use a magnified female flower."
+    }
+  ],
+  "photo_requirements": [
+    {
+      "priority": 1,
+      "taxa": [
+        "croton-monanthogynus",
+        "croton-lindheimerianus"
+      ],
+      "role": "Matched abaxial leaf hair macros",
+      "detail": "Same-magnification close-ups, one with dark brown-centered stellate trichomes and one lacking dark centers; annotate actual trichomes with arrows, not random leaf texture.",
+      "status": "missing_verified_macro_pair"
+    },
+    {
+      "priority": 1,
+      "taxa": [
+        "croton-monanthogynus",
+        "croton-lindheimerianus"
+      ],
+      "role": "Female flower style-count pair",
+      "detail": "Full-focus front/oblique close-ups showing 2 bifid styles/4 tips versus 3 bifid styles/6 tips; arrows point to style branches.",
+      "status": "missing_verified_macro_pair"
+    },
+    {
+      "priority": 1,
+      "taxa": [
+        "croton-lindheimeri",
+        "croton-capitatus"
+      ],
+      "role": "Mature pistillate sepals head-to-head",
+      "detail": "Same developmental stage, side-on angle, with scale: sepals straight/incurved versus outward flaring/recurved; taxonomy and exact ID must be independently confirmed.",
+      "status": "missing_verified_macro_pair"
+    },
+    {
+      "priority": 1,
+      "taxa": [
+        "croton-texensis"
+      ],
+      "role": "Female warty capsule plus male/female whole inflorescences",
+      "detail": "Close-up in focus on verrucose fruit; separate correctly sexed plant photos.",
+      "status": "missing_verified_macro"
+    },
+    {
+      "priority": 2,
+      "taxa": [
+        "croton-fruticulosus"
+      ],
+      "role": "Woody basal stem and serrulate leaf edge",
+      "detail": "Two precise diagnostic photos rather than merely another upper-shoot view. Two CC0 structural photos were added for female flower and underside hairs, but neither substitutes for ground-level woody crown and actual edge serrulation.",
+      "status": "still_missing_critical_pair"
+    },
+    {
+      "priority": 2,
+      "taxa": [
+        "croton-monanthogynus"
+      ],
+      "role": "One-seeded fruit and dark-centered underside",
+      "detail": "Mature fruit with size reference and true microscopic/hair close-up.",
+      "status": "missing_verified_macro"
+    },
+    {
+      "priority": 2,
+      "taxa": [
+        "croton-lindheimerianus"
+      ],
+      "role": "Three-part smooth capsule and 6 style tips",
+      "detail": "Separate macro of both structures, ideally with ruler or metric scale.",
+      "status": "missing_verified_macro"
+    },
+    {
+      "priority": 2,
+      "taxa": [
+        "croton-capitatus"
+      ],
+      "role": "Exact-concept first photo",
+      "detail": "Current NC State public-domain exact species photo is physically installed, but does not confirm full mature outward-recurving pistillate sepals; local taxon concept still unresolved.",
+      "status": "EXACT_SOURCE_NCSU_CC0_PHYSICAL_PHOTO_PRESENT_DIAGNOSTIC_MATURE_SEPAL_MACRO_MISSING"
+    },
+    {
+      "priority": 2,
+      "taxa": [
+        "croton-lindheimeri"
+      ],
+      "role": "Young ochraceous hair and acute leaf-tip photo",
+      "detail": "Exact species ID and source license required; existing photo is remote-only.",
+      "status": "physical_image_backfill_needed"
+    }
+  ],
+  "visual_comparison": {
+    "title": "Six Crotons — actual hair, reproductive and leaf photos with explicit missing diagnostic views",
+    "subtitle": "Eleven genus photo panels including two physically installed shrubby croton CC0 macros; arrows point only to visible parts. Female sepal posture for woolly pair and woody base / leaf teeth still need exact photographic proofs.",
+    "memory_rule": "BROWN-DOT HAIR + FOUR style tips = prairie tea. NO brown dots + SIX tips = three-seed. Narrow dioecious + WARTY fruit = Texas Croton. WOODY + minute leaf teeth = shrubby. Woolly pair: compare mature FEMALE sepal posture, not wool color alone.",
+    "items": [
+      {
+        "label": "1 · Prairie tea — low branching plant",
+        "scientific_name": "Croton monanthogynus",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-monanthogynus/images/croton-monanthogynus-provisional-face.jpg",
+        "image_fit": "contain",
+        "creator": "Krzysztof Ziarnek, Kenraiz",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Croton_monanthogynus_kz01.jpg",
+        "image_role": "Source-correct real prairie tea whole plant, NOT dark-centered stellate-hair microscope",
+        "caption": "A low annual branches repeatedly, carrying numerous pale small leaves and minute cream flower clusters. The brown-dotted underside and precisely four style tips are NOT visible at this scale.",
+        "why_it_matters": "Teaches prairie tea's branching silhouette, which can overlap C. lindheimerianus; do not identify on shape alone.",
+        "markers": [
+          {
+            "label": "Many basal/side branches",
+            "label_x": 3,
+            "label_y": 84,
+            "target_x": 45,
+            "target_y": 63
+          },
+          {
+            "label": "Simple oval leaf",
+            "label_x": 2,
+            "label_y": 35,
+            "target_x": 29,
+            "target_y": 37
+          },
+          {
+            "label": "Tiny flower cluster",
+            "label_x": 65,
+            "label_y": 7,
+            "target_x": 64,
+            "target_y": 30
+          }
+        ]
+      },
+      {
+        "label": "2 · Prairie tea — Glass Root Garden leafy stems",
+        "scientific_name": "Croton monanthogynus",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-monanthogynus/images/glass-root-garden-665835725-leaves-and-tiny-flowers.jpg",
+        "image_fit": "contain",
+        "creator": "Glass Root Garden",
+        "license": "CC BY 4.0",
+        "source_page": "https://www.inaturalist.org/photos/665835725",
+        "image_role": "Owner's exact-source greenery and developing inflorescences, star hair centers unresolvable",
+        "caption": "Owner photo shows alternating short-stalked leaves of variable size along slender branches and small clusters of greenish flowers. The leaf underside texture is NOT magnified enough to prove a brown-centered star hair.",
+        "why_it_matters": "Good real-world look of the stem-leaf architecture in local-style mixed growth.",
+        "markers": [
+          {
+            "label": "Elliptical leaf blade",
+            "label_x": 2,
+            "label_y": 48,
+            "target_x": 27,
+            "target_y": 49
+          },
+          {
+            "label": "Flower cluster on branch",
+            "label_x": 60,
+            "label_y": 80,
+            "target_x": 52,
+            "target_y": 73
+          },
+          {
+            "label": "Slender branching axis",
+            "label_x": 66,
+            "label_y": 51,
+            "target_x": 52,
+            "target_y": 52
+          }
+        ]
+      },
+      {
+        "label": "3 · Prairie tea — Glass Root Garden full low habit",
+        "scientific_name": "Croton monanthogynus",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-monanthogynus/images/glass-root-garden-573574571-low-bushy-habit.jpg",
+        "image_fit": "contain",
+        "creator": "Glass Root Garden",
+        "license": "CC BY 4.0",
+        "source_page": "https://www.inaturalist.org/photos/573574571",
+        "image_role": "Owner's true source specimen full annual bushy habit on rocky ground",
+        "caption": "The plant occupies a low rounded mound of many short densely leafy branches; flowers are tiny. The photographed base is partly hidden and no individual stellate-hair centers or female style branches can be counted.",
+        "why_it_matters": "Crew first-recognition photo, not a diagnostic specimen at microscale.",
+        "markers": [
+          {
+            "label": "Low mound of leafy shoots",
+            "label_x": 60,
+            "label_y": 10,
+            "target_x": 45,
+            "target_y": 34
+          },
+          {
+            "label": "Repeated branching",
+            "label_x": 66,
+            "label_y": 75,
+            "target_x": 53,
+            "target_y": 67
+          }
+        ]
+      },
+      {
+        "label": "1 · Three-seed croton — Joey's flower & leaf macro",
+        "scientific_name": "Croton lindheimerianus",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-lindheimerianus/images/joey-inat-398847569.jpg",
+        "image_fit": "contain",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/398847569",
+        "image_role": "Real source-correct flower branch and densely hairy broad leaves; separate 6 styles not visible",
+        "caption": "The broad leaf's pale star-hair texture, hairy stem, several small rounded buds/developing flowers and a WHITE STAMINATE flower with projecting stamens are visible. DO NOT label the nearby pale protrusions as six countable female style tips; they are overlapping.",
+        "why_it_matters": "Shows micro-hair coverage and small sexual flower structures. Hair centers and true style count require greater resolution and right angle.",
+        "markers": [
+          {
+            "label": "Dense leaf pubescence",
+            "label_x": 3,
+            "label_y": 10,
+            "target_x": 29,
+            "target_y": 22
+          },
+          {
+            "label": "Open male flower with stamens",
+            "label_x": 70,
+            "label_y": 4,
+            "target_x": 63,
+            "target_y": 20
+          },
+          {
+            "label": "Dense small flower cluster",
+            "label_x": 76,
+            "label_y": 67,
+            "target_x": 64,
+            "target_y": 43
+          }
+        ]
+      },
+      {
+        "label": "2 · Three-seed croton — Joey's flowering nodes",
+        "scientific_name": "Croton lindheimerianus",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-lindheimerianus/images/joey-inat-398847609.jpg",
+        "image_fit": "contain",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/398847609",
+        "image_role": "Real source-correct paired-looking leaf cluster from SHORT close internodes, tiny clustered flowers and fuzzy axis",
+        "caption": "Pale furry leaves crowd close to tiny pistillate/staminate flower structures. One green left leaf and one green right leaf can LOOK opposite because crowded at a branch node; Croton leaves are normally ALTERNATE. Neither star-hair dark centers nor six style-tip branches can be reliably counted here.",
+        "why_it_matters": "Shows how crowded Croton inflorescence leaves can fool a novice into calling leaf arrangement opposite.",
+        "markers": [
+          {
+            "label": "Fuzzy broad blade",
+            "label_x": 3,
+            "label_y": 16,
+            "target_x": 31,
+            "target_y": 42
+          },
+          {
+            "label": "Minute flower structures",
+            "label_x": 64,
+            "label_y": 7,
+            "target_x": 57,
+            "target_y": 39
+          },
+          {
+            "label": "Fuzzy axis",
+            "label_x": 55,
+            "label_y": 86,
+            "target_x": 48,
+            "target_y": 71
+          }
+        ]
+      },
+      {
+        "label": "TEXAS CROTON — actual male staminate flowers",
+        "scientific_name": "Croton texensis",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-texensis/images/joey-inat-332783008.jpg",
+        "image_fit": "contain",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC 4.0",
+        "source_page": "https://www.inaturalist.org/photos/332783008",
+        "image_role": "Exact-taxon MALE staminate flowers; female wart-covered capsule not shown",
+        "caption": "White flowers with many projecting stamens on a hairy branching MALE C. texensis shoot. The diagnostic WARTY FEMALE capsule and separate female plant are NOT pictured. A male-only stem cannot independently demonstrate dioecy.",
+        "markers": [
+          {
+            "label": "Open male stamens",
+            "label_x": 78,
+            "label_y": 4,
+            "target_x": 83,
+            "target_y": 30
+          },
+          {
+            "label": "Closed flower buds",
+            "label_x": 5,
+            "label_y": 6,
+            "target_x": 20,
+            "target_y": 21
+          },
+          {
+            "label": "Hairy flowering stem",
+            "label_x": 74,
+            "label_y": 75,
+            "target_x": 73,
+            "target_y": 49
+          }
+        ]
+      },
+      {
+        "label": "SHRUBBY CROTON — leafy stem and actual flowers",
+        "scientific_name": "Croton fruticulosus",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-fruticulosus/images/glass-root-garden-623379901-branch.jpg",
+        "image_fit": "contain",
+        "creator": "Glass Root Garden",
+        "license": "CC BY 4.0",
+        "source_page": "https://www.inaturalist.org/photos/623379901",
+        "image_role": "Exact-taxon leafy branches, individual female/male small flowers, not the woody crown or microleaf teeth",
+        "caption": "Actual Glass Root Garden Croton fruticulosus branch in rocky terrain. Simple elliptic-ovate leaves and little whitish flowers show well; basal WOODY crown and very fine leaf-margin SERRULATIONS are not resolvable at this scale.",
+        "markers": [
+          {
+            "label": "Elliptic simple leaf",
+            "label_x": 5,
+            "label_y": 57,
+            "target_x": 29,
+            "target_y": 53
+          },
+          {
+            "label": "Small whitish flower",
+            "label_x": 70,
+            "label_y": 47,
+            "target_x": 63,
+            "target_y": 43
+          }
+        ]
+      },
+      {
+        "label": "TRUE CAPITATUS — a licensed flowering comparison, taxon HOLD",
+        "scientific_name": "Croton capitatus",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-capitatus/images/ncsu-croton-capitatus-cc0-flowers.jpg",
+        "image_fit": "contain",
+        "creator": "MCD Staff",
+        "license": "CC0 1.0",
+        "source_page": "https://plants.ces.ncsu.edu/plants/croton-capitatus/",
+        "image_role": "Licensed source-identified TRUE Croton capitatus specimen showing male stamens, woolly bracts; DOES NOT prove mature recurved female sepal tips and not certified Hays",
+        "caption": "NCSU CC0 source-labeled C. capitatus, showing one open staminate flower and a thick woolly inflorescence with closed organs. The deciding pistillate SEPALS AFTER ANTHESIS are not visible with enough certainty to score recurving. Local target-zone TAXON CONCEPT remains unresolved.",
+        "markers": [
+          {
+            "label": "Open male stamens",
+            "label_x": 2,
+            "label_y": 9,
+            "target_x": 35,
+            "target_y": 22
+          },
+          {
+            "label": "Woolly inflorescence",
+            "label_x": 65,
+            "label_y": 88,
+            "target_x": 60,
+            "target_y": 71
+          }
+        ]
+      },
+      {
+        "label": "LINDHEIMER'S WOOLLY CROTON — remote CC reference; sepals unresolved",
+        "scientific_name": "Croton lindheimeri",
+        "image_role": "Real CC BY source-credited remote image, NOT a confirmed diagnostic mature-female-sepal macro",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Croton_lindheimeri.jpg/576px-Croton_lindheimeri.jpg",
+        "caption": "Source-credited Alison Northup C. lindheimeri external CC BY photograph shows hairy shoots and leaf habit. True mature female sepal tips and direct C. capitatus comparison still require taxon-correct measured images. RANGE HOLD unchanged.",
+        "creator": "Alison Northup",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Croton_lindheimeri.jpg"
+      },
+      {
+        "label": "SHRUBBY CROTON — CC0 true female flower and curving styles",
+        "scientific_name": "Croton fruticulosus",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-fruticulosus/images/commons-gaiacoyote-cc0-female-flower.jpg",
+        "image_fit": "contain",
+        "creator": "Gaiacoyote",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Croton_fruticulosus_(2).jpg",
+        "image_role": "Female flower with visible curved styles and surrounding buds; exact ultimate style-tip count NOT photo-proven",
+        "caption": "Actual Gaiacoyote CC0 macro showing a female Croton fruticulosus flower. Two new arrows aim at the visible curved style tissue and female flower body. The image should NOT be used to assert all SIX terminal style tips are individually countable; not a woody-base or margin-tooth proof.",
+        "why_it_matters": "A real close female flower makes sex-specific structures visible rather than incorrectly treating male stamens as female styles.",
+        "markers": [
+          {
+            "label": "Curved female style branch",
+            "label_x": 66,
+            "label_y": 5,
+            "target_x": 58,
+            "target_y": 13
+          },
+          {
+            "label": "Pistillate flower body",
+            "label_x": 2,
+            "label_y": 67,
+            "target_x": 47,
+            "target_y": 42
+          }
+        ]
+      },
+      {
+        "label": "SHRUBBY CROTON — CC0 leaf underside star hairs",
+        "scientific_name": "Croton fruticulosus",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-fruticulosus/images/commons-gaiacoyote-cc0-underside-hairs.jpg",
+        "image_fit": "contain",
+        "creator": "Gaiacoyote",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Croton_fruticulosus_(3).jpg",
+        "image_role": "Abaxial leaf surface with stellate hairs; source identified, fine marginal teeth not necessarily pictured",
+        "caption": "Source-proven leaf underside with stellate hair texture; NOT a verified tooth-by-tooth margin macro",
+        "why_it_matters": "Shows a structural detail missing from the two initial owner field views; do not pretend this proves woody crown or leaf-edge teeth.",
+        "markers": []
+      }
+    ],
+    "overlay_note": "Six species are included in this lesson; only five have existing photo references. True C. capitatus has NO verified exact-concept photo, so no look-alike image has been substituted. The existing five photographs are provisional introductions, not the requested diagnostic hair, style, sepal and fruit micrographs. Two UT-provenance photos are restricted to private study pending public-reuse permission.",
+    "study_only_intro": "Diagnostic source-photo research updated 2026-10-12. Linked photos are for source-site study, not installed or annotated diagnostic images. Do not count unclear 4/6 style-tip photos as confirmed. Keep copyright/CC BY-NC restrictions and source-specific photographer credits. The image from Jim Conrad in Uvalde is a real local pistillate-ovary and star-hair microscope reference, but does not prove all four terminal tips or the brown-center hair character unambiguously. The ASU photograph page names C. lindheimerianus while the source file includes 'lindheimeri'; specimen identity remains on hold.",
+    "study_only_photo_links": [
+      {
+        "label": "Prairie tea — leaf UNDERSIDE close-up (DETenaglia, MissouriPlants)",
+        "url": "https://missouriplants.com/images/Croton_monanthogynus_abaxial_leaf.jpg",
+        "look_for": "Confirmed leaf-abaxial photo candidate. Tiny star-shaped hairs and scattered brown centers are visible; resolution may not support precise arrowing of dark trichome centers. Source site copyright, not reuse cleared.",
+        "reuse": "source-site study only; photographer DETenaglia; no open reuse license identified"
+      },
+      {
+        "label": "Prairie tea — pistillate flower macro (DETenaglia, MissouriPlants)",
+        "url": "https://missouriplants.com/images/Croton_monanthogynus_pistillate_flower.jpg",
+        "look_for": "Actual female flower photographed up close; split whitish style branches visible but individual four tips may need a higher-resolution or alternate-angle image for unambiguous labeling.",
+        "reuse": "source-site study only; photographer DETenaglia; no open reuse license identified"
+      },
+      {
+        "label": "Prairie tea — male and female inflorescence in one labeled photo (SRTurner)",
+        "url": "https://missouriplants.com/images/Croton_monanthogynus_inflorescence.jpg",
+        "look_for": "Labeled staminate-versus-pistillate flower positions; diagnostic contextual lesson, not a terminal-tip count macro.",
+        "reuse": "source-site study only; photographer SRTurner; no open reuse license identified"
+      },
+      {
+        "label": "Prairie tea — Texas pistillate close-up (Nathan Taylor iNaturalist study)",
+        "url": "https://www.inaturalist.org/observations/4427442",
+        "look_for": "Close-up of flowering/fruiting head, expert-linked from Crotons of the Trans-Pecos. Verify photograph-specific license before reuse.",
+        "reuse": "iNaturalist observation, individual photo license not yet verified"
+      },
+      {
+        "label": "Three-seed croton — verified species observation, Richard Reynolds",
+        "url": "https://www.inaturalist.org/observations/515698",
+        "look_for": "Exact-species C. lindheimerianus flower/head photo linked by Nathan Taylor's species comparison. Female flowers visible; six terminal tips not individually resolved at available display resolution. Verify photo license.",
+        "reuse": "iNaturalist observation, individual photo license not yet verified"
+      },
+      {
+        "label": "Three-seed croton — Arizona Extension flower photo (ASU Vascular Plant Herbarium)",
+        "url": "https://yavapaiplants.extension.arizona.edu/croton-lindheimerianus",
+        "look_for": "Detailed flower/leaf/herbarium-scale candidate; page labels species C. lindheimerianus but underlying image filename says C. lindheimeri: MUST crosscheck taxon identity before installing or counting style tips.",
+        "reuse": "CC BY-NC per source page; hold due to filename/species ambiguity"
+      },
+      {
+        "label": "Three-seed croton — Texas photographed plant (Taylor County)",
+        "url": "https://catnapin.com/WildFlowers/Weed/wzEuphorbCroton.htm",
+        "look_for": "Exact-name Texas photographic reference; zoom and diagnostic structure unverified, copyright unverified.",
+        "reuse": "source-site study only; rights unverified"
+      },
+      {
+        "label": "Prairie tea — local Uvalde County pistillate OVARY with style arms (Jim Conrad, 2013)",
+        "url": "https://www.backyardnature.net/n/13/130811cv.jpg",
+        "look_for": "Confirmed exact-species Uvalde County fruiting ovary photograph. Multiple pale style branches show well, but image angle does not independently resolve four endpoints, so DO NOT place four tip-count arrows.",
+        "reuse": "Jim Conrad / Backyard Nature, usage license not located; source-site link only"
+      },
+      {
+        "label": "Prairie tea — Uvalde County microscope photo of STELLATE leaf hairs (Jim Conrad, 2013)",
+        "url": "https://www.backyardnature.net/n/13/130811ct.jpg",
+        "look_for": "Real microscope view sharply reveals separate star-shaped hairs, valuable for teaching what 'stellate' means. Does NOT resolve dark brown hair centers, so should not be used as proof of the brown-dot split.",
+        "reuse": "Jim Conrad / Backyard Nature, usage license not located; source-site link only"
+      },
+      {
+        "label": "Three-seed croton — Richard Reynolds exact-species image displayed in Nathan Taylor's Croton guide",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/657233/large.jpg?1391093802=",
+        "look_for": "Direct 750×1000 observation image shows several flower/fruiting heads and leaf arrangement, but individual six style tips remain too small/overlapping to annotate. Source identification linked to iNaturalist observation 515698.",
+        "reuse": "Photographer Richard Reynolds; iNaturalist photo license unverified; link only"
+      },
+      {
+        "label": "Prairie tea — UT BIO406D foliage showing clearly flipped leaf undersides",
+        "url": "https://www.bio.utexas.edu/courses/bio406d/images/pics/eup/Croton%20monanthogynus%20leafundersides.jpg",
+        "look_for": "Good exact-species leaf underside ORIENTATION image, but not a microscope photo of dark-centered stellate hairs.",
+        "reuse": "UT Austin BIO406D; photographer/reuse permission unverified; source-site link only"
+      },
+      {
+        "label": "Prairie tea — 2024 published SEM micrographs of pistillate flower (figure 3)",
+        "url": "https://www.researchgate.net/figure/Morphology-of-pistillate-flowers-of-Croton-monanthogynus-a-A-young-inflorescence-with_fig1_383520914",
+        "look_for": "Scientific plate explicitly captions two fused carpels and two bifid styles, valuable for identifying anatomy; photo is laboratory SEM / developmental series, not a comparable field macro. No redistribution without permission.",
+        "reuse": "Thaowetsuwan, Riina & Ronse De Craene (2024); publisher copyright; source-site link only"
+      }
+    ],
+    "annotation_status": "No false FOUR/SIX tip or female capsule count; all provided coordinates visually checked against actual image pixels. Joey CC BY-NC 4.0 remains noncommercial-only, user owner Glass Root photos CC BY 4.0, true capitatus NC State CC0. Two UT use-rights-unverified source photos no longer embedded as public visual panels. iPhone/mobile overlay QA pending.",
+    "part_examples": [
+      {
+        "title": "1 — Prairie tea low annual branching",
+        "role": "habit",
+        "anchor_species_id": "croton-monanthogynus",
+        "image_file": "images/glass-root-garden-573574571-low-bushy-habit.jpg",
+        "look_for": "Whole low rounded branched plant",
+        "why_it_matters": "Good start, but not enough to decide prairie vs three-seed."
+      },
+      {
+        "title": "2 — Three-seed croton true flowering anatomy",
+        "role": "male staminate flower",
+        "anchor_species_id": "croton-lindheimerianus",
+        "image_file": "images/joey-inat-398847569.jpg",
+        "look_for": "White male stamens and fuzzy leaf blade",
+        "why_it_matters": "Learn what cannot be counted as female styles."
+      },
+      {
+        "title": "3 — Texas croton male flowers",
+        "role": "stamens on male plant",
+        "anchor_species_id": "croton-texensis",
+        "image_file": "images/joey-inat-332783008.jpg",
+        "look_for": "Several white male flowers with exserted stamens",
+        "why_it_matters": "Later need female plant and warted capsules."
+      },
+      {
+        "title": "4 — Need brown-centered trichome comparison",
+        "role": "leaf underside stellate hairs",
+        "status": "needs_photo",
+        "look_for": "True focus stacked microscope photos, matched scale, prairie tea dark hair centers versus three-seed pale centers",
+        "why_it_matters": "Crucial split."
+      },
+      {
+        "title": "5 — Need female style four-versus-six tips",
+        "role": "pistillate reproductive macro",
+        "status": "needs_photo",
+        "look_for": "Two bifid versus three bifid style arms, visible free ends",
+        "why_it_matters": "Strong taxonomic separation."
+      },
+      {
+        "title": "6 — Need mature woolly pair female sepals",
+        "role": "sepals",
+        "status": "needs_photo",
+        "look_for": "True mature C. lindheimeri versus concept-secure C. capitatus female sepal posture side by side",
+        "why_it_matters": "Avoid historical capitatus variety confusion."
+      }
+    ]
+  },
+  "study_cautions": [
+    "Most Croton leaves are alternate, yet leaves crowd near some inflorescences; do not call the apparent leaf clusters a reliable opposite-leaf arrangement.",
+    "Look at pistillate (female) flowers to count the style branches; a male-only stem cannot show them.",
+    "The terms 'goatweed', 'doveweed' and 'croton' are reused across species and are not diagnostic.",
+    "Brown-dotted underside refers to dark centers in star-shaped hairs, not disease or reddish glands.",
+    "Croton capitatus and Croton lindheimeri historical synonymy is a real trap; never silently merge or count them both from the same old voucher.",
+    "Installed learner taxa do not all meet the three-county native certification criterion; do not convert two unresolved records into target-native PASS.",
+    "Existing images are provisional faces; do not label these as diagnostic micrographs when the key trait is not visibly resolved."
+  ],
+  "authoritative_references": [
+    {
+      "source": "Flora of North America — Croton genus and species key",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=108445"
+    },
+    {
+      "source": "FNA Croton monanthogynus",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416383"
+    },
+    {
+      "source": "FNA Croton lindheimerianus",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416381"
+    },
+    {
+      "source": "FNA Croton lindheimeri",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250102011"
+    },
+    {
+      "source": "FNA Croton capitatus",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416379"
+    },
+    {
+      "source": "FNA Croton texensis",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416384"
+    },
+    {
+      "source": "FNA Croton fruticulosus",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101912"
+    },
+    {
+      "source": "Texas A&M AgriLife prairie tea treatment",
+      "url": "https://rangeplants.tamu.edu/plant/annual-croton-one-seed-croton/nggallery/slideshow"
+    }
+  ],
+  "targeted_handoff": {
+    "next_species_photo_tasks": [
+      {
+        "priority": 1,
+        "focus": "Croton monanthogynus × Croton lindheimerianus",
+        "task": "Pair of exact-license 10–20× abaxial dark-centered star hairs / pale hairs, plus female styles FOUR vs SIX free tips at real 1-mm reference."
+      },
+      {
+        "priority": 2,
+        "focus": "Croton texensis",
+        "task": "Actual female warty capsule, exact source, licence and scale (currently male stamens only)."
+      },
+      {
+        "priority": 2,
+        "focus": "Croton fruticulosus",
+        "task": "Clearly woody basal trunk and one 1-mm serrulate leaf-edge close-up."
+      },
+      {
+        "priority": 3,
+        "focus": "Croton lindheimeri × Croton capitatus",
+        "task": "Exact taxon-concept paired mature pistillate sepals showing incurved versus recurved tips. Leave local status HOLD."
+      }
+    ],
+    "publication_note": "Photo rights filter required; source-uncleared UT vouchers must not be used in public visual lesson."
+  },
+  "curation_status": {
+    "version": "1.4-croton-photo-first-six-card-key-20261021",
+    "last_reviewed": "2026-10-21",
+    "status": "SIX_SPECIES_PRACTICAL_COMPARISON_GENUS_READY_DIAGNOSTIC_MACROS_PENDING",
+    "species_installation_changed": false,
+    "range_decisions_changed": false,
+    "photo_panels": 9,
+    "arrow_overlays": 21,
+    "photo_safety": "No UT photo with unverified public-use license in visual_comparison, while original source records kept. Joey CC BY-NC for standalone noncommercial use; owner photos copyright credited.",
+    "visual_lesson_standard": "Genus now has nine real photo panels and FOUR site-rendered comparison_cards field matrices. Direct photographed anatomy arrows point to actual leaf blade, male stamens, flowers and habit; no unverified style count/brown centered hair points.",
+    "visual_status": "SIX_CROTON_GENUS_PHOTO_KEY_11_PANELS_FEMALE_CC0_ADDED; woolly sepal macro hold and shrub crown/teeth gaps remain"
+  },
+  "genus_diagnostics": {
+    "hair_character": "Stellate (star-shaped) or scale-like hairs on at least some foliage or stems; check a true hair structure with a hand lens.",
+    "leaves": "Simple mostly alternate leaves; margins and habit vary across species.",
+    "flowers": "Small unisexual flowers; pistillate and staminate parts on one monoecious plant or on separate dioecious plants, depending on species.",
+    "female_parts": "Female styles and their branching are a particularly strong species-level character: 4 versus 6 versus many terminal arms.",
+    "fruits": "Usually a three-part capsule; C. monanthogynus is an exceptional one-fertile-locule species that appears one-seeded."
+  },
+  "study_strategy": {
+    "shared_traits": [
+      "Look for star-shaped/scalelike hairs; generic gray fuzz or a brown stem is not sufficient.",
+      "Check small unisexual flowers, often on a common mixed inflorescence, then inspect the female style branches.",
+      "Leaves are usually alternate and simple, but leaf shape, tooth pattern and woody versus annual growth vary by species.",
+      "Most have a multi-part capsule; prairie tea has a distinctive effectively one-seeded capsule."
+    ],
+    "priority": [
+      "1. Woody perennial/subshrub base and finely serrulate leaf edges → C. fruticulosus.",
+      "2. Female versus male plants and distinct warty capsule → C. texensis.",
+      "3. Dark-brown-centered stellate hairs on lower leaf surface; four style tips → C. monanthogynus.",
+      "4. Lower surface without dark dots; six style tips → C. lindheimerianus.",
+      "5. Woolly robust pair: female sepal curvature, young-hair color, and mature leaf tips → C. lindheimeri vs true C. capitatus.",
+      "6. Do not count C. lindheimeri or C. capitatus as target-zone-certified natives until scientific holds are resolved."
+    ],
+    "warning": "CAUTION: C. capitatus and C. lindheimeri have historic synonym/variety confusion. Their learner admission does not certify local nativity; do not reuse a C. capitatus var. lindheimeri specimen as evidence of true C. capitatus."
+  },
+  "quick_key": [
+    {
+      "if": "Woody basal stems; finely serrulate ovate foliage",
+      "then": "Croton fruticulosus"
+    },
+    {
+      "if": "Annual; male/female flowers on separate plants, warty capsules",
+      "then": "Croton texensis"
+    },
+    {
+      "if": "Annual; abaxial dark-brown-centered stellate hairs + only 4 style tips",
+      "then": "Croton monanthogynus"
+    },
+    {
+      "if": "Small annual; no brown-dot underside + 6 style tips",
+      "then": "Croton lindheimerianus"
+    },
+    {
+      "if": "Robust ochraceous-woolly annual; acute leaves, pistillate sepals straight/slightly incurved",
+      "then": "Croton lindheimeri (range HOLD)"
+    },
+    {
+      "if": "Woolly annual; some obtuse/mucronate leaves, long mature pistillate sepals recurve outward",
+      "then": "Croton capitatus (taxon-concept HOLD)"
+    }
+  ],
+  "diagnostic_photo_candidate_review_2026_10_12": {
+    "status": "PARTIAL_REAL_PHOTO_CANDIDATES_FOUND_NOT_FULLY_VISUALLY_LOCKED",
+    "species": [
+      "croton-monanthogynus",
+      "croton-lindheimerianus"
+    ],
+    "found": [
+      {
+        "species": "Croton monanthogynus",
+        "role": "abaxial leaf macro",
+        "source": "MissouriPlants DETenaglia",
+        "status": "GOOD_SOURCE_PHOTO_REVIEW_DARK_CENTER_RESOLUTION",
+        "source_url": "https://missouriplants.com/images/Croton_monanthogynus_abaxial_leaf.jpg",
+        "license": "copyrighted/source-site link only until permission"
+      },
+      {
+        "species": "Croton monanthogynus",
+        "role": "pistillate female flower macro",
+        "source": "MissouriPlants DETenaglia",
+        "status": "GOOD_SOURCE_PHOTO_REVIEW_FOUR_TIP_VISIBILITY",
+        "source_url": "https://missouriplants.com/images/Croton_monanthogynus_pistillate_flower.jpg",
+        "license": "copyrighted/source-site link only until permission"
+      },
+      {
+        "species": "Croton monanthogynus",
+        "role": "flower/fruit closeup Texas",
+        "source": "Nathan Taylor iNaturalist",
+        "status": "PROMISING_EXACT_SPECIES_CANDIDATE",
+        "source_url": "https://www.inaturalist.org/observations/4427442",
+        "license": "observation photo license not checked"
+      },
+      {
+        "species": "Croton lindheimerianus",
+        "role": "reproductive head, 6 style tip target",
+        "source": "Richard Reynolds observation cited in Nathan Taylor's Crotons of the Trans-Pecos",
+        "status": "SPECIES_LINKED_BUT_STYLE_TIPS_NOT_COUNTABLE",
+        "source_url": "https://www.inaturalist.org/observations/515698",
+        "license": "observation photo license not checked"
+      },
+      {
+        "species": "Croton lindheimerianus",
+        "role": "floral/leaf candidate with scale",
+        "source": "Arizona Extension / ASU Herbarium",
+        "status": "IDENTITY_HOLD_PHOTO_FILENAME_SAYS_C_LINDHEIMERI",
+        "source_url": "https://yavapaiplants.extension.arizona.edu/croton-lindheimerianus",
+        "license": "CC BY-NC as labeled on page"
+      }
+    ],
+    "hard_missing": [
+      "A fully resolving licensed photograph that unambiguously shows C. monanthogynus dark-centered stellate trichome centers in focus.",
+      "A fully resolving licensed close-up of C. lindheimerianus leaf underside that confirms absence of dark trichome centers.",
+      "A fully resolving licensed image with FOUR countable terminal style tips in C. monanthogynus.",
+      "A fully resolving licensed image with SIX countable terminal style tips in C. lindheimerianus."
+    ],
+    "instruction": "Retain previous installed provisional face photos; do NOT call this photo pass completed or annotate unclear traits. Source-site link-only references are allowed in genus lesson; reuse/install only after verifying license and image subject."
+  },
+  "diagnostic_photo_search_round_2_2026_10_12": {
+    "status": "ACTUAL_PHOTOS_VISUALLY_INSPECTED_PARTIAL_DONT_OVERCLAIM",
+    "scope": "Croton monanthogynus vs Croton lindheimerianus",
+    "new_visual_evidence": [
+      {
+        "species": "Croton monanthogynus",
+        "role": "local pistillate ovary/style",
+        "source": "Jim Conrad / Backyard Nature, Uvalde County Texas 2013",
+        "source_url": "https://www.backyardnature.net/n/13/130811cv.jpg",
+        "visual_check": "Female ovary in focus with obvious projecting pale style branches; only some arms discernible from camera angle; cannot safely arrow/count four tips.",
+        "license": "unverified; link only",
+        "priority": "high study candidate"
+      },
+      {
+        "species": "Croton monanthogynus",
+        "role": "local microscope stellate hairs",
+        "source": "Jim Conrad / Backyard Nature, Uvalde County Texas 2013",
+        "source_url": "https://www.backyardnature.net/n/13/130811ct.jpg",
+        "visual_check": "True starlike trichomes individually resolved. Dark-centered trichomes are not clearly resolved.",
+        "license": "unverified; link only",
+        "priority": "supporting morphology"
+      },
+      {
+        "species": "Croton lindheimerianus",
+        "role": "flowers/fruits on identified plant",
+        "source": "Richard Reynolds / iNaturalist 515698 cited by Nathan Taylor",
+        "source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/657233/large.jpg?1391093802=",
+        "visual_check": "Plant and several inflorescences in focus; six style tips cannot be independently counted at available size.",
+        "license": "unverified; link only",
+        "priority": "context not diagnostic macro"
+      },
+      {
+        "species": "Croton lindheimerianus",
+        "role": "female flower with scale",
+        "source": "Arizona State University Vascular Plant Herbarium / Arizona Cooperative Extension",
+        "source_url": "https://yavapaiplants.extension.arizona.edu/croton-lindheimerianus",
+        "visual_check": "A ruler and female reproductive clusters visible, but not close enough for counting 6 style-tip endpoints. Filename uses lindheimeri; verify accession/specimen label first.",
+        "license": "CC BY-NC on site; hold subject verification",
+        "priority": "taxon identity hold"
+      },
+      {
+        "species": "Croton monanthogynus",
+        "role": "laboratory pistillate flower anatomy",
+        "source": "Thaowetsuwan, Riina & Ronse De Craene 2024, Journal of Plant Research",
+        "source_url": "https://www.researchgate.net/figure/Morphology-of-pistillate-flowers-of-Croton-monanthogynus-a-A-young-inflorescence-with_fig1_383520914",
+        "visual_check": "Figure 3 captions two bifid styles, useful anatomical study reference, not a clean matched field photograph.",
+        "license": "publisher copyrighted, link only",
+        "priority": "anatomy reference"
+      }
+    ],
+    "actual_work_done": "Viewed live source photos and excluded similarly named Croton lindheimeri from the C. lindheimerianus photo pool. Added field-credible Uvalde County photos, UT underside orientation image, and directly linked iNaturalist study photo to genotype-specific teaching notes without redistributing unlicensed sources.",
+    "outstanding": [
+      "Licensed or permissioned C. monanthogynus leaf-underside macro with unequivocal brown-centered individual stellate hairs.",
+      "Licensed or permissioned C. lindheimerianus leaf-underside macro showing absence of brown-centered stellate hairs.",
+      "Licensed or permissioned C. monanthogynus pistillate macro with four terminal style tips all visible from same specimen.",
+      "Licensed or permissioned C. lindheimerianus pistillate macro with six terminal style tips all visibly separable."
+    ],
+    "reuse_policy": "Preserve existing provisional gallery images; no unlicensed files installed. Image arrows only after actual targeted microstructure visibly verified."
+  },
+  "comparison_cards": [
+    {
+      "title": "Prairie tea vs three-seed croton — brown centers and 4 vs 6",
+      "species_ids": [
+        "croton-monanthogynus",
+        "croton-lindheimerianus"
+      ],
+      "look_here_first": "START on the lower surface of several leaves. Prairie tea has DARK-CENTERED star hairs, while three-seed croton lacks that brown-dot look. Then inspect an actual FEMALE flower: 2 bifid styles = FOUR tips in prairie tea; 3 bifid styles = SIX tips in three-seed. Both current image sets teach habit/flowers but DO NOT resolve these microscale counts.",
+      "field_matrix": [
+        {
+          "character": "Star hair centers under leaf",
+          "prairie_tea": "DARK brown centers make brown speck effect",
+          "three_seed": "No brown-centered effect at same magnification",
+          "strength": "Strong IF actual stellate centers can be resolved"
+        },
+        {
+          "character": "Female style ends",
+          "prairie_tea": "2 once-forked styles → FOUR free ends",
+          "three_seed": "3 once-forked styles → SIX free ends",
+          "strength": "Strong, count true female on exact plant"
+        },
+        {
+          "character": "Fruit",
+          "prairie_tea": "Functionally ONE fertile seed, follicle-like fruit",
+          "three_seed": "THREE locules, smooth capsule",
+          "strength": "Strong at ripe/dissected stage"
+        },
+        {
+          "character": "Growth habit",
+          "prairie_tea": "Usually low, branched close to ground",
+          "three_seed": "Also low, repeatedly dichotomous annual",
+          "strength": "Weak; nearly identical"
+        }
+      ],
+      "caution": "The verified available photography DOES NOT show true dark hair centers or exactly 4/6 female style tips. The old UT voucher file has unverified public reuse rights and is not featured. Need species-exact legal microscope macros, NOT generic Croton images."
+    },
+    {
+      "title": "Texas croton vs shrubby croton — male vs woody base",
+      "species_ids": [
+        "croton-texensis",
+        "croton-fruticulosus"
+      ],
+      "look_here_first": "Texas croton is a dioecious annual: male and female on different plants, narrow leaf blades, warty capsule. Shrubby croton has a genuinely persistent woody base and tiny serrations at leaf margins. Existing photos show male stamens and leaves, not diagnostic female fruit/crown.",
+      "field_matrix": [
+        {
+          "character": "Duration",
+          "texensis": "Annual, nonwoody",
+          "fruticulosus": "Woody shrub or subshrub",
+          "strength": "Excellent when basal stems visible"
+        },
+        {
+          "character": "Leaves",
+          "texensis": "Narrow, mostly entire",
+          "fruticulosus": "Often broader ovate to ovate-lanceolate, MINUTELY serrulate",
+          "strength": "Magnification on edge recommended"
+        },
+        {
+          "character": "Sex/fruit",
+          "texensis": "Male/female plants separate; female capsules distinctly WARTY",
+          "fruticulosus": "Monoecious mixed flower racemes; fruit not warty in comparable way",
+          "strength": "Good with both stages"
+        },
+        {
+          "character": "A toothed but ANNUAL look-alike",
+          "texensis": "C. texensis usually narrow and entire",
+          "fruticulosus": "C. glandulosus can ALSO have serrulate leaves, but lacks a lasting woody crown",
+          "strength": "Use full plant base; teeth alone are not a species identity"
+        }
+      ],
+      "caution": "The showcased Texas photo is MALE flowers only; it cannot show a warty female capsule or prove dioecy alone. Shrubby photo also hides the woody basal trunk. A serrulate ANNUAL Croton glandulosus (comparison-only) is another possible look-alike: woody crown is essential. The new Gaiacoyote CC0 female flower and underside hairs are now physically installed; the true basal crown and individual marginal teeth remain photographic gaps."
+    },
+    {
+      "title": "Woolly crotons — lindheimeri versus true capitatus",
+      "species_ids": [
+        "croton-lindheimeri",
+        "croton-capitatus"
+      ],
+      "look_here_first": "DO NOT use wool coloration alone. In mature FEMALE flowers C. lindheimeri typically has long straight/slightly INCURVED sepals and acute leaf tips; TRUE C. capitatus long sepals tend to RECURVE outward. Historical C. capitatus var. lindheimeri usually belongs under C. lindheimeri, not proof of capitatus.",
+      "field_matrix": [
+        {
+          "character": "Female sepal tips after anthesis",
+          "lindheimeri": "Straight or slightly inward",
+          "capitatus": "Recurved outward",
+          "strength": "Strong with same stage and correct taxon"
+        },
+        {
+          "character": "Leaf tip",
+          "lindheimeri": "Consistently acute",
+          "capitatus": "Some blunt/mucronate possible",
+          "strength": "Supporting, overlap"
+        },
+        {
+          "character": "Young wool",
+          "lindheimeri": "Often ochraceous yellow-brown",
+          "capitatus": "Often whitish to pale wool",
+          "strength": "Unreliable as sole separator"
+        }
+      ],
+      "caution": "Lindheimeri county-native status UNRESOLVED; true capitatus taxon concept/local count UNRESOLVED. NCSU CC0 photo only proves male flower and hairy plant; does not prove final female sepal split. Do not certify nativity."
+    },
+    {
+      "title": "Six-Croton field orientation (one first clue each)",
+      "species_ids": [
+        "croton-monanthogynus",
+        "croton-lindheimerianus",
+        "croton-texensis",
+        "croton-fruticulosus",
+        "croton-lindheimeri",
+        "croton-capitatus"
+      ],
+      "look_here_first": "All six have canonical cards. Begin by woody vs annual, then dioecious vs monoecious, then lens on leaf H A I R S and female styles. Photos illustrate real structures and explicit gaps; source-state native HOLDs unchanged.",
+      "field_matrix": [
+        {
+          "character": "Croton monanthogynus",
+          "first_clue": "Low, brown-dot underside star hairs",
+          "confirm": "FOUR female style tips, one-seeded fruit"
+        },
+        {
+          "character": "Croton lindheimerianus",
+          "first_clue": "Low, no brown-dot underside star hairs",
+          "confirm": "SIX female tips, smooth 3-part fruit"
+        },
+        {
+          "character": "Croton texensis",
+          "first_clue": "Narrow annual leaves + separate sexes",
+          "confirm": "WARTY female capsule"
+        },
+        {
+          "character": "Croton fruticulosus",
+          "first_clue": "Persistent WOODY base",
+          "confirm": "Fine serrulation of leaf edges"
+        },
+        {
+          "character": "Croton lindheimeri",
+          "first_clue": "Tall ochraceous woolly annual",
+          "confirm": "Straight/slightly incurved female sepals; RANGE HOLD"
+        },
+        {
+          "character": "Croton capitatus",
+          "first_clue": "Woolly annual",
+          "confirm": "Outward-recurved female sepals; TAXON CONCEPT HOLD"
+        }
+      ],
+      "caution": "This is a six-card CURRENT PROJECT scope, not a claim these are the only Croton species in Hays County. Photographically unresolved cases should stay Croton sp., preserving nativity decisions."
+    }
+  ]
+}

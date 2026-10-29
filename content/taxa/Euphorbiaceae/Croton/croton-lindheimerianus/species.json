@@ -1,0 +1,316 @@
+{
+  "id": "croton-lindheimerianus",
+  "entry_type": "species",
+  "family": "Euphorbiaceae",
+  "genus": "Croton",
+  "species": "lindheimerianus",
+  "scientific_name": "Croton lindheimerianus",
+  "authority": "Scheele",
+  "common_name": "Lindheimer's croton",
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current treatments. Modern Croton section Heptallon work recognizes infraspecific structure; this learner remains at species rank unless local material is confidently assigned below species.",
+  "look_here_first": "LOOK HERE FIRST — THREE-SEED CROTON: low branched hairy Croton similar to prairie tea; its lower leaf surface does NOT look brown-dotted from dark-centered stellate hairs (the hairs are pale). On a clearly exposed PISTILLATE flower, count THREE BIFID styles with SIX terminal arms; its ovary is three-locular and mature capsule smooth. Existing Joey Santore licensed photos show true fine hairy leaf blades, green closed structures and WHITE MALE STAMENS, but the key 6 female tips and underside hair-center absence are NOT directly measurable. Confirm on multiple leaves and female flowers; do not mistake this for C. lindheimeri, the more robust woolly croton (distinct species).",
+  "county_occurrences_target_zone": [
+    "Llano",
+    "Medina",
+    "Travis"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "A modern revision of Croton section Heptallon documents representative C. lindheimerianus var. lindheimerianus material from Llano (Enchanted Rock), Medina (near Devine), and Travis (Austin/Colorado River), all inside the project target zone.",
+    "range_guardrail": "Do not reuse the previously considered Williamson evidence for the project threshold; the locked three-county set is Llano, Medina, and Travis."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "annual monoecious herb",
+      "often low and dichotomously branched",
+      "dense stellate-tomentose pubescence",
+      "leaves lanceolate to suborbiculate",
+      "lower leaf surface lacks the dark brown-dot effect of C. monanthogynus",
+      "pistillate sepals usually 5–6 and broadest toward their tips",
+      "three bifid styles yielding six terminal segments"
+    ],
+    "comparison_training": "Croton monanthogynus has dark-centered stellate hairs that create a brown-dotted lower leaf surface, two styles/four terminal branches, and an effectively one-seeded fruit. Croton lindheimeri is generally more robust with much larger yellowish-woolly pistillate sepals."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Croton monanthogynus",
+      "Croton lindheimeri"
+    ],
+    "key_distinctions": "No brown-dot effect beneath the leaves plus three bifid styles/six terminal branches separate C. lindheimerianus from C. monanthogynus; its smaller pistillate sepals help separate it from C. lindheimeri.",
+    "field_matrix": [
+      {
+        "taxon": "Croton lindheimerianus",
+        "quick_rule": "Pale star hairs without dark centers and THREE bifid styles / SIX tips",
+        "status": "Six styles stated from botanical key but NOT measured in current photographs"
+      },
+      {
+        "taxon": "Croton monanthogynus",
+        "quick_rule": "DARK CENTERED stellate hairs below leaf; TWO bifid styles / FOUR tips",
+        "status": "Need brown-dot macro"
+      },
+      {
+        "taxon": "Croton lindheimeri",
+        "quick_rule": "Bigger upright woolly species with long female sepals and repeatedly branching (~12) tips",
+        "status": "Distinct species; do not treat names as synonyms"
+      }
+    ],
+    "not_reliable_alone": [
+      "White projecting MALE stamens are not female six-tip style evidence.",
+      "Hair fuzz in two current photos is not an underside dark-center microscale proof.",
+      "The UT Plant Resources Center voucher has reuse rights unverified and is excluded from public photo lessons."
+    ]
+  },
+  "tags": [
+    "Euphorbiaceae",
+    "Croton",
+    "Lindheimer's croton",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.1-lindheimerianus-joey-two-panel-20261021",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-21",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15",
+    "visual_reviewed": true,
+    "visual_status": "FIELD_READY_PHOTO_GAPS: 2 photo-verified exact-taxon Joey Santore licensed close-ups with six visible arrows; unlicensed UT voucher file retained in historical media but excluded from public teaching panel. Female SIX tips, abaxial dark-center contrast, whole habit and capsule need measured photos."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "images": [
+    {
+      "file": "images/croton-lindheimerianus-provisional-face.jpg",
+      "role": "Whole voucher / habit and reproductive reference",
+      "creator": "UT Plant Resources Center / University of Texas Herbarium (source attribution; individual photographer not stated)",
+      "license": "reuse rights unverified",
+      "source_page": "https://w3.biosci.utexas.edu/prc/specimens/Euphorbiaceae.html",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/joey-inat-398847569.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/398847569",
+      "observation_url": "https://www.inaturalist.org/observations/224994651",
+      "observation_id": "224994651",
+      "photo_id": "398847569",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/398847569/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-398847609.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/398847609",
+      "observation_url": "https://www.inaturalist.org/observations/224994651",
+      "observation_id": "224994651",
+      "photo_id": "398847609",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/398847609/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-06",
+    "note": "3 physical files but one UT voucher's public-reuse rights unverified. Only 2 CC BY-NC Joey photos selected for annotated public field lesson. Preserve NC noncommercial site condition."
+  },
+  "photo_diagnostic_lesson": {
+    "title": "Three-seed croton: inspect a female, not only the stamens",
+    "steps": [
+      {
+        "stage": "1 — SMALL ANNUAL",
+        "look": "Low often much-branched croton",
+        "what": "Joey photographs are close shots of flower clusters and foliage; they do not establish whole mature habit."
+      },
+      {
+        "stage": "2 — HAIRS",
+        "look": "No dark brown hair centers below leaves",
+        "what": "Use a focused leaf UNDERSIDE macro beside confirmed prairie tea. The present images show pale fuzzy blades but NOT decisive absence of microscopic brown hair centers."
+      },
+      {
+        "stage": "3 — FEMALE",
+        "look": "Three bifid styles; SIX tips",
+        "what": "Find the female flower, take a high-magnification overhead photograph and count six free style segments. Joey images contain projecting MALE STAMENS and rounded structures but do not resolve a valid six-arm count."
+      },
+      {
+        "stage": "4 — FRUIT",
+        "look": "Smooth three-locular capsule",
+        "what": "Photograph ripe fruit laterally with 1mm ruler, distinguish from one-seeded prairie tea and warty dioecious Texas croton."
+      }
+    ],
+    "memory_rule": "LOW BUSH, NO BROWN DOTS + SIX FEMALE STYLE TIPS = THREE-SEED CROTON."
+  },
+  "visual_comparison": {
+    "title": "Three-seed croton: white stamens, furry leaves, six-tip challenge",
+    "subtitle": "Two physically stored and individually licensed Joey Santore CC BY-NC 4.0 photos contain real useful flower/leaf evidence and SIX visible anatomy arrow markers. The older UT voucher photo remains an original restricted source record but is EXCLUDED from these public teaching panels. Six female style tips remain an actual missing macro.",
+    "items": [
+      {
+        "label": "1 · Three-seed croton — Joey's flower & leaf macro",
+        "scientific_name": "Croton lindheimerianus",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-lindheimerianus/images/joey-inat-398847569.jpg",
+        "image_fit": "contain",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/398847569",
+        "image_role": "Real source-correct flower branch and densely hairy broad leaves; separate 6 styles not visible",
+        "caption": "The broad leaf's pale star-hair texture, hairy stem, several small rounded buds/developing flowers and a WHITE STAMINATE flower with projecting stamens are visible. DO NOT label the nearby pale protrusions as six countable female style tips; they are overlapping.",
+        "why_it_matters": "Shows micro-hair coverage and small sexual flower structures. Hair centers and true style count require greater resolution and right angle.",
+        "markers": [
+          {
+            "label": "Dense leaf pubescence",
+            "label_x": 3,
+            "label_y": 10,
+            "target_x": 29,
+            "target_y": 22
+          },
+          {
+            "label": "Open male flower with stamens",
+            "label_x": 70,
+            "label_y": 4,
+            "target_x": 63,
+            "target_y": 20
+          },
+          {
+            "label": "Dense small flower cluster",
+            "label_x": 76,
+            "label_y": 67,
+            "target_x": 64,
+            "target_y": 43
+          }
+        ]
+      },
+      {
+        "label": "2 · Three-seed croton — Joey's flowering nodes",
+        "scientific_name": "Croton lindheimerianus",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-lindheimerianus/images/joey-inat-398847609.jpg",
+        "image_fit": "contain",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/398847609",
+        "image_role": "Real source-correct paired-looking leaf cluster from SHORT close internodes, tiny clustered flowers and fuzzy axis",
+        "caption": "Pale furry leaves crowd close to tiny pistillate/staminate flower structures. One green left leaf and one green right leaf can LOOK opposite because crowded at a branch node; Croton leaves are normally ALTERNATE. Neither star-hair dark centers nor six style-tip branches can be reliably counted here.",
+        "why_it_matters": "Shows how crowded Croton inflorescence leaves can fool a novice into calling leaf arrangement opposite.",
+        "markers": [
+          {
+            "label": "Fuzzy broad blade",
+            "label_x": 3,
+            "label_y": 16,
+            "target_x": 31,
+            "target_y": 42
+          },
+          {
+            "label": "Minute flower structures",
+            "label_x": 64,
+            "label_y": 7,
+            "target_x": 57,
+            "target_y": 39
+          },
+          {
+            "label": "Fuzzy axis",
+            "label_x": 55,
+            "label_y": 86,
+            "target_x": 48,
+            "target_y": 71
+          }
+        ]
+      }
+    ],
+    "memory_rule": "THREE styles split once each → SIX female tips, not the stamens visible in some current photographs.",
+    "annotation_status": "Both CC BY-NC 4.0 Joey originals visually inspected, 6 true visible targets. The older photo with 'reuse rights unverified' stays out of annotated/public genus views. No false count of six style tips; mobile check pending.",
+    "part_examples": [
+      {
+        "title": "Staminate flower and visible stamens",
+        "role": "male flower",
+        "anchor_species_id": "croton-lindheimerianus",
+        "image_file": "images/joey-inat-398847569.jpg",
+        "look_for": "Open tiny flower with white projecting stamens near the green clustered developing structures",
+        "why_it_matters": "Teaches that this is MALE and can't confirm six female style tips."
+      },
+      {
+        "title": "Stellate fuzzy leaf (not brown-center proof)",
+        "role": "hairy leaf surface",
+        "anchor_species_id": "croton-lindheimerianus",
+        "image_file": "images/joey-inat-398847609.jpg",
+        "look_for": "Dense pale pubescence around elliptic leaf blades and branch",
+        "why_it_matters": "You need a closer view of UNDERSIDE hair centers."
+      },
+      {
+        "title": "Need six-tip pistillate macro",
+        "role": "female reproductive key",
+        "status": "needs_photo",
+        "look_for": "Three twice? NO—THREE once-bifid styles → SIX separate tips at female flower, measured at 1mm scale",
+        "why_it_matters": "Key separation from prairie tea's four female tips."
+      }
+    ]
+  },
+  "field_photo_quickcheck": {
+    "heading": "Croton lindheimerianus — count the female styles",
+    "featured_photo_indices": [
+      0,
+      1
+    ],
+    "steps": [
+      "Look at the actual dense pale hairs on elliptic leaves and clustered green reproductive bodies.",
+      "A flowering stem can show tiny WHITE projecting stamens; these are male reproductive parts, NOT female style branches.",
+      "Turn over a leaf with a lens; absence of dark brown-centered stellate hairs supports three-seed croton.",
+      "Use a FEMALE flower macro to count SIX style tips from THREE once-forked styles. Without the female head, keep Croton sp."
+    ],
+    "field_rule": "Six terminal female style tips + non-brown-dotted stellate hairs. Low branching annual by itself overlaps prairie tea.",
+    "warning": "Do not use the existing UT voucher image in public photo lessons: its reuse permission is not verified. The two Joey images are CC BY-NC for noncommercial educational use only.",
+    "owner_mobile_review": "PENDING"
+  },
+  "diagnostic_photo_targets": [
+    {
+      "role": "sharply focused leaf UNDERSIDE with pale stellate hairs no dark centers at same scale as prairie tea",
+      "status": "NEEDS_LICENSED_MACRO"
+    },
+    {
+      "role": "three once-forked female styles, SIX tips, exposed in one exact-source head",
+      "status": "NEEDS_LICENSED_MACRO"
+    },
+    {
+      "role": "entire low branching habit on known C. lindheimerianus",
+      "status": "NEEDS_PUBLIC_PHOTO"
+    },
+    {
+      "role": "smooth 3-locular mature capsule with 1mm rule",
+      "status": "NEEDS_MACRO"
+    }
+  ]
+}

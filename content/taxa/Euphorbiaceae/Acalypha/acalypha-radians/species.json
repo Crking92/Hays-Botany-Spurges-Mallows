@@ -1,0 +1,288 @@
+{
+  "id": "acalypha-radians",
+  "entry_type": "species",
+  "family": "Euphorbiaceae",
+  "genus": "Acalypha",
+  "species": "radians",
+  "scientific_name": "Acalypha radians",
+  "authority": "Torr.",
+  "common_name": "Cardinal's Feather, Cardinal Feather",
+  "look_here_first": "LOOK HERE FIRST — Acalypha radians: low spreading to ascending PERENNIAL, often in deep sand, with small, rounded or kidney-shaped leaves whose edges are deeply CRENATE (rounded scallops). Species is DIOECIOUS: male and female flowers occur on different plants, never presume an individual female cluster proves this alone. Female spikes have very CROWDED bracts with axis hidden between them, typically 8–10 SPOON-SHAPED (spatulate) lobes, extending about half the bract length, and many-branched styles. Versus A. phleoides: erect perennial with more pointed serrate ovate leaves and terminal MIXED (lower female, upper male) spikes with spaced triangular bracts; versus A. persimilis: broad heart-based leaves and annual habit, many narrow bract lobes.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Bexar",
+    "Medina"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Approved Deep Review exact-county PASS; see preserved research draft and SOURCES.txt.",
+    "range_guardrail": "Exact target-zone county evidence only."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial prostrate to ascending herb or subshrub",
+      "dioecious",
+      "reniform to suborbiculate deeply crenate leaves",
+      "unisexual inflorescences",
+      "crowded pistillate bracts with many spatulate lobes",
+      "multifid styles",
+      "pubescent-hirsute capsule"
+    ],
+    "comparison_training": "Acalypha phleoides is monoecious with a terminal bisexual spike; A. persimilis is annual and has different reproductive architecture.",
+    "source_references": [
+      "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101513"
+    ]
+  },
+  "comparisons": {
+    "key_distinctions": "Acalypha radians: Kidney-like deeply scalloped leaves; dioecious and crowded female bracts; 8–10 spatulate lobes | Acalypha phleoides: Erect perennial, pointed leaves, mixed terminal spike; 5–7 triangular lobes, spaced bracts | Acalypha persimilis / ostryifolia: Taller annual with larger heart-based serrate leaves and mostly 13–17 narrow female bract lobes | Acalypha monostachya (look-alike only): Smaller rounded leaves but shallower scallops and female bract lobes only about quarter length; species-concept/range not assessed here",
+    "confused_with": [
+      "Acalypha radians",
+      "Acalypha phleoides",
+      "Acalypha persimilis / ostryifolia",
+      "Acalypha monostachya (look-alike only)"
+    ],
+    "field_matrix": [
+      {
+        "taxon": "Acalypha radians",
+        "split": "Kidney-like deeply scalloped leaves; dioecious and crowded female bracts; 8–10 spatulate lobes"
+      },
+      {
+        "taxon": "Acalypha phleoides",
+        "split": "Erect perennial, pointed leaves, mixed terminal spike; 5–7 triangular lobes, spaced bracts"
+      },
+      {
+        "taxon": "Acalypha persimilis / ostryifolia",
+        "split": "Taller annual with larger heart-based serrate leaves and mostly 13–17 narrow female bract lobes"
+      },
+      {
+        "taxon": "Acalypha monostachya (look-alike only)",
+        "split": "Smaller rounded leaves but shallower scallops and female bract lobes only about quarter length; species-concept/range not assessed here"
+      }
+    ],
+    "not_reliable_alone": [
+      "Leaf color or general hairiness",
+      "One flower or a single reproductive plant as proof of the whole species sex system",
+      "Estimating female bract lobes from an unfocused whole-plant image"
+    ]
+  },
+  "photo_strategy": {
+    "method": "FAST-FILL existing reviewed study-media handoff",
+    "visual_priority": "Use current exact-species study candidates where available; photo backfill may add stronger diagnostic macros later.",
+    "remaining_need": "Learner Photo Backfill visual polish is nonblocking."
+  },
+  "learner_role": "PROJECT_NATIVE",
+  "curation_status": {
+    "version": "1.1-acalypha-field-diagnostic-pass-20261021",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "visual_reviewed": true,
+    "visual_status": "FIELD_READY_PHOTO_GAPS: morphology/reproductive diagnosis and look-alikes refreshed; original licensed gallery linked; exact high-confidence bract/style arrows not yet available",
+    "last_reviewed": "2026-10-21",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/acalypha-radians-provisional-face.jpg",
+      "role": "Whole plant / flowering habit recognizable face",
+      "creator": "DouglasGoldman",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acalypha_radians1.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-186058235.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/186058235",
+      "observation_url": "https://www.inaturalist.org/observations/110307825",
+      "observation_id": "110307825",
+      "photo_id": "186058235",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/186058235/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-98626909.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/98626909",
+      "observation_url": "https://www.inaturalist.org/observations/61623629",
+      "observation_id": "61623629",
+      "photo_id": "98626909",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/98626909/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "filled_at": "2026-10-05",
+    "note": "Species field-key upgraded while preserving original source photo rights; precision reproductive macros still missing."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "photo_diagnostic_lesson": {
+    "title": "Cardinal feather — deeply scalloped leaves and crowded female bracts",
+    "steps": [
+      {
+        "stage": "1 — LOW HABIT",
+        "look": "Spreading perennial branches",
+        "what": "Check soil-level sprawling or ascending growth; do not confuse with an erect shrubby copperleaf."
+      },
+      {
+        "stage": "2 — LEAVES",
+        "look": "Kidney shaped + deep rounded scallops",
+        "what": "Photograph leaf face from above; use scale for typical 0.5–1.5 cm blades."
+      },
+      {
+        "stage": "3 — FEMALE BRACTS",
+        "look": "Overlapping bracts hide flowering axis",
+        "what": "Find a pistillate spike: crowded bracts with about 8–10 broad spoonlike lobes extending roughly halfway."
+      },
+      {
+        "stage": "4 — CHECK MALE",
+        "look": "Different plants bear male flowers",
+        "what": "Compare separate flowering plants; a single female branch cannot prove dioecy."
+      },
+      {
+        "stage": "5 — SEPARATE MONOSTACHYA",
+        "look": "Deep crenations vs shallow crenations",
+        "what": "Acalypha monostachya look-alike has shallower leaf scallops and shorter female bract lobes."
+      }
+    ],
+    "memory_rule": "Spreading perennial branches → Kidney shaped + deep rounded scallops → Overlapping bracts hide flowering axis"
+  },
+  "visual_comparison": {
+    "title": "Cardinal feather — deeply scalloped leaves and crowded female bracts — real existing photographs with honest macro limitations",
+    "subtitle": "3 existing exact-source image records (no new photos installed in this species-card pass). Female bract diagnostic counts are FNA descriptions; existing image arrows not fabricated.",
+    "items": [
+      {
+        "label": "1 · whole-plant recognition",
+        "scientific_name": "Acalypha radians",
+        "image_url": "content/taxa/Euphorbiaceae/Acalypha/acalypha-radians/images/acalypha-radians-provisional-face.jpg",
+        "image_fit": "contain",
+        "creator": "DouglasGoldman",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acalypha_radians1.jpg",
+        "image_role": "Whole plant / flowering habit recognizable face",
+        "caption": "Existing exact-source photograph; useful for recognition, but female-bract lobe number and plant sex are not asserted without a visible structure.",
+        "why_it_matters": "Real photo for field comparison; pending precise anatomy review.",
+        "markers": []
+      },
+      {
+        "label": "2 · existing additional source view",
+        "scientific_name": "Acalypha radians",
+        "image_url": "content/taxa/Euphorbiaceae/Acalypha/acalypha-radians/images/joey-inat-186058235.jpg",
+        "image_fit": "contain",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC 4.0",
+        "source_page": "https://www.inaturalist.org/photos/186058235",
+        "image_role": "Additional exact-taxon view; anatomical role pending visual inspection",
+        "caption": "Existing exact-source photograph; useful for recognition, but female-bract lobe number and plant sex are not asserted without a visible structure.",
+        "why_it_matters": "Real photo for field comparison; pending precise anatomy review.",
+        "markers": []
+      },
+      {
+        "label": "3 · existing additional source view",
+        "scientific_name": "Acalypha radians",
+        "image_url": "content/taxa/Euphorbiaceae/Acalypha/acalypha-radians/images/joey-inat-98626909.jpg",
+        "image_fit": "contain",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC 4.0",
+        "source_page": "https://www.inaturalist.org/photos/98626909",
+        "image_role": "Additional exact-taxon view; anatomical role pending visual inspection",
+        "caption": "Existing exact-source photograph; useful for recognition, but female-bract lobe number and plant sex are not asserted without a visible structure.",
+        "why_it_matters": "Real photo for field comparison; pending precise anatomy review.",
+        "markers": []
+      }
+    ],
+    "memory_rule": "Locate the position and sex of flower spikes, then magnify FEMALE BRACT teeth.",
+    "annotation_status": "Initial existing gallery overview; no new arrows until actual photo pixel targets verified.",
+    "part_examples": [
+      {
+        "title": "Female spike broad spatulate 8–10 overlapping bract lobes",
+        "role": "Female spike broad spatulate 8–10 overlapping bract lobes",
+        "status": "needs_photo",
+        "look_for": "lobe bases and ends with scale",
+        "why_it_matters": "Strongest reproductive species identification"
+      },
+      {
+        "title": "Male flowering plant independent of female plant",
+        "role": "Male flowering plant independent of female plant",
+        "status": "needs_photo",
+        "look_for": "sex-separated plants in same population",
+        "why_it_matters": "Shows dioecy rather than simply asserting it"
+      },
+      {
+        "title": "Deep kidney-shaped scalloped leaves",
+        "role": "Deep kidney-shaped scalloped leaves",
+        "status": "needs_photo",
+        "look_for": "leaf photographed flat next to metric reference",
+        "why_it_matters": "Early recognition and monostachya comparison"
+      }
+    ]
+  },
+  "field_photo_quickcheck": {
+    "heading": "Cardinal feather — deeply scalloped leaves and crowded female bracts",
+    "featured_photo_indices": [
+      0,
+      1,
+      2
+    ],
+    "steps": [
+      "Check soil-level sprawling or ascending growth; do not confuse with an erect shrubby copperleaf.",
+      "Photograph leaf face from above; use scale for typical 0.5–1.5 cm blades.",
+      "Find a pistillate spike: crowded bracts with about 8–10 broad spoonlike lobes extending roughly halfway.",
+      "Compare separate flowering plants; a single female branch cannot prove dioecy.",
+      "Acalypha monostachya look-alike has shallower leaf scallops and shorter female bract lobes."
+    ],
+    "field_rule": "LOOK HERE FIRST — Acalypha radians: low spreading to ascending PERENNIAL, often in deep sand, with small, rounded or kidney-shaped leaves whose edges are deeply CRENATE (rounded scallops). Species is DIOECIOUS: male and female flowers occur on different plants, never presume an individual female cluster proves this alone. Female spikes have very CROWDED bracts with axis hidden between them, typically 8–10 SPOON-SHAPED (spatulate) lobes, extending about half the bract length, and many-branched styles. Versus A. phleoides: erect perennial with more pointed serrate ovate leaves and terminal MIXED (lower female, upper male) spikes with spaced triangular bracts; versus A. persimilis: broad heart-based leaves and annual habit, many narrow bract lobes.",
+    "warning": "Photos show accepted species observations but the female bract individual lobe positions and the separate-sex rule require actual matched macro specimens.",
+    "owner_mobile_review": "PENDING"
+  },
+  "diagnostic_photo_targets": [
+    {
+      "role": "Female spike broad spatulate 8–10 overlapping bract lobes",
+      "status": "NEEDS_LICENSED_VERIFIED_MACRO"
+    },
+    {
+      "role": "Male flowering plant independent of female plant",
+      "status": "NEEDS_LICENSED_VERIFIED_MACRO"
+    },
+    {
+      "role": "Deep kidney-shaped scalloped leaves",
+      "status": "NEEDS_LICENSED_VERIFIED_MACRO"
+    }
+  ]
+}

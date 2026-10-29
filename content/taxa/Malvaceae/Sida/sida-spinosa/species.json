@@ -1,0 +1,147 @@
+{
+  "id": "sida-spinosa",
+  "entry_type": "species",
+  "family": "Malvaceae",
+  "genus": "Sida",
+  "species": "spinosa",
+  "scientific_name": "Sida spinosa",
+  "authority": "L.",
+  "common_name": "prickly sida / prickly fanpetals",
+  "look_here_first": "Erect plant: inspect several stem nodes just BELOW the leaf stalk for a tiny spur-like TUBERCLE (not a true spine; it can be absent). Then inspect minute star-shaped hairs and, on mature fruit, five mericarps with paired short beaks. Flower color alone is not diagnostic.",
+  "county_occurrences_target_zone": [
+    "Travis"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "native_range_status": "UNRESOLVED",
+  "learner_admission_status": "APPROVED",
+  "learner_admission_basis": "approved_source_pool_membership",
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "Travis is the currently locked target-zone voucher county. Broader Texas nativity is supported, but the project three-county native-certification threshold is not yet met.",
+    "range_guardrail": "Range unresolved does not block learner use; exclude from confirmed-native metrics until later evidence changes the label."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "erect herb or subshrub",
+      "minute stellate hairs",
+      "ovate to lanceolate leaves serrate toward the base",
+      "small spinelike tubercle often present below petiole",
+      "yellow axillary flowers",
+      "five spined mericarps"
+    ],
+    "comparison_training": "Compare with Sida abutilifolia: spreading/procumbent stems and crenate leaves versus usually upright S. spinosa. Compare with Sida rhombifolia: often rhombic leaves with teeth concentrated distally; inspect multiple nodes for the characteristic small tubercle immediately below the petiole in S. spinosa. Absence of a visible tubercle in one photograph is not decisive. For confirmation inspect mature schizocarps: S. spinosa typically has five mericarps with two apical awns/beaks each; count and photograph the mericarps rather than relying on yellow flowers alone."
+  },
+  "comparisons": {
+    "key_distinctions": "S. abutilifolia has long, flexible, usually prostrate stems, evenly distributed crenate leaves and a mixture of stellate and longer simple hairs. S. spinosa is usually erect, with minute stellate hairs, often a small infrapetiolar tubercle (not a true spine, sometimes absent), and a mature fruit of five beaked mericarps. S. rhombifolia commonly has 7–14 mericarps and leaves often toothed more strongly distally; confirm on fruit, not leaf outline alone."
+  },
+  "photo_strategy": {
+    "method": "LEARNER FAST-FILL — science-first install",
+    "visual_priority": "Install learner card now; route exact-species project/user/Joey or licensed external media through Learner Photo Backfill.",
+    "remaining_need": "Habit, reproductive structure, and diagnostic close-up when practical.",
+    "diagnostic_review_plan": [
+      {
+        "priority": 1,
+        "view": "Whole plant and stem arrangement",
+        "existing_candidate": "Current provisional face photo",
+        "status": "photo_present; inspect pixels before calling diagnostic"
+      },
+      {
+        "priority": 1,
+        "view": "Petiole-base tubercle with intact node and 1 mm scale",
+        "existing_candidate": "Joey Santore photos already installed; anatomy role unknown",
+        "status": "NEEDS_VISUAL_INSPECTION; no arrow coordinates authorized"
+      },
+      {
+        "priority": 1,
+        "view": "Mature schizocarp split into mericarps with visible tips",
+        "existing_candidate": "No current image metadata confirms this structure",
+        "status": "NEEDS_DIAGNOSTIC_PHOTO; no arrow coordinates authorized"
+      }
+    ],
+    "arrow_rule": "Do not annotate until exact installed pixels show the named structure; preserve source creator and image reuse/adaptation permissions.",
+    "source_reference": "Flora of North America Sida species key, https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=130307"
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "curation_status": {
+    "version": "1.0-source-pool-fast-fill",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "learner_admission_approved": true,
+    "visual_reviewed": false,
+    "visual_status": "photo-backfill-pending",
+    "last_reviewed": "2026-10-05",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/sida-spinosa-provisional-face.jpg",
+      "role": "Whole plant / habit recognizable face",
+      "creator": "NY State IPM Program at Cornell University",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sida_spinosa_-_whole_plant_(18875885170).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-367088472.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/367088472",
+      "observation_url": "https://www.inaturalist.org/observations/207524574",
+      "observation_id": "207524574",
+      "photo_id": "367088472",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/367088472/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-367088489.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/367088489",
+      "observation_url": "https://www.inaturalist.org/observations/207524574",
+      "observation_id": "207524574",
+      "photo_id": "367088489",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/367088489/large.jpeg",
+      "image_dimensions": [
+        683,
+        1024
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Field-ID finishing: NEEDS_DIAGNOSTIC_PHOTO: sharply focused stem-node/petiole-base view with scale and mature dry fruit showing mericarps and beaks. annotation_pending: do not mark arrows until the actual structure is visibly verified in the exact licensed image. FNA-confirmed priority: paired whole-plant and node closeups, then count five mature mericarps; a missing node tubercle does NOT rule out S. spinosa. PHOTO REVIEW 2026-10-20: three gallery entries currently recorded; none has a confirmed node/hair or fruit diagnostic role. Keep all existing licensed images; prioritize image-level visual audit before downloading duplicates."
+}

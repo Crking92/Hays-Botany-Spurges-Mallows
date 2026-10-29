@@ -1,0 +1,6 @@
+Approved Master Plant Pool preflight; accepted species: https://powo.science.kew.org/results?q=Euphorbia%20simulans
+Source research-grade observation: https://www.inaturalist.org/observations/2526221
+Photo: https://www.inaturalist.org/photos/2830467
+Attribution: (c) Nathan Taylor, some rights reserved (CC BY-NC)
+License: CC BY-NC; Attribution; noncommercial only
+Diagnostic photo appearance and look-alikes: further visual review required. Native county research deferred.

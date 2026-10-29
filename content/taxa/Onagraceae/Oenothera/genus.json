@@ -1,0 +1,465 @@
+{
+  "rank": "genus",
+  "family": "Onagraceae",
+  "name": "Oenothera",
+  "authority": "L.",
+  "common_group": "Evening primroses and former gauras",
+  "project_scope": {
+    "selection_mode": "historical eight-species B061 teaching cohort plus current canonical roster; comparison groups are not a comprehensive species key",
+    "species_ids": [
+      "oenothera-biennis",
+      "oenothera-calcicola",
+      "oenothera-capillifolia",
+      "oenothera-curtiflora",
+      "oenothera-filiformis",
+      "oenothera-hispida",
+      "oenothera-jamesii",
+      "oenothera-laciniata",
+      "oenothera-lindheimeri",
+      "oenothera-macrocarpa",
+      "oenothera-macrocarpa-subsp-macrocarpa",
+      "oenothera-patriciae",
+      "oenothera-rosea",
+      "oenothera-sinuosa",
+      "oenothera-speciosa",
+      "oenothera-suffrutescens",
+      "oenothera-suffulta",
+      "oenothera-triloba"
+    ],
+    "species_count": 18,
+    "holds": [
+      "Calylophus drummondii source spelling unresolved; do not auto-map",
+      "Oenothera capillifolia subspecies source concept requires voucher"
+    ],
+    "note": "Manifest audit 2026-10-17: 18 canonical Oenothera records including both O. macrocarpa species-level and subsp. macrocarpa IDs; these are manifest entries, not necessarily 18 distinct species concepts. Historical B061 county-range HOLD notes remain preserved in diagnostic_science_review_20261009; learner admission does not require county-range PASS.",
+    "historical_teaching_cohort_count": 8
+  },
+  "study_strategy": {
+    "shared_traits": [
+      "inferior ovary",
+      "4-parted flowers common",
+      "hypanthium/floral tube often diagnostic",
+      "fruit morphology important"
+    ],
+    "priority": [
+      "flower symmetry",
+      "flower color",
+      "annual/biennial/perennial habit",
+      "leaf width and lobing",
+      "former Gaura/Calylophus architecture",
+      "floral tube",
+      "fruit/capsule shape"
+    ],
+    "warning": "Do not rely on petal color alone. Modern Oenothera contains very different-looking former Gaura and Calylophus lineages."
+  },
+  "quick_key": [
+    {
+      "if": "large radial pink/white 4-petaled flowers on a spreading rhizomatous plant",
+      "then": "Oenothera speciosa"
+    },
+    {
+      "if": "tall airy perennial with former-Gaura flowers and long exserted stamens",
+      "then": "Oenothera lindheimeri"
+    },
+    {
+      "if": "tall densely velveteen annual with extremely tiny flowers",
+      "then": "Oenothera curtiflora"
+    },
+    {
+      "if": "annual with larger white former-Gaura flowers and chunky 4-lobed fruit",
+      "then": "Oenothera suffulta"
+    },
+    {
+      "if": "flat stemless rosette with large yellow flower on an extremely long sharply 4-angled tube",
+      "then": "Oenothera triloba"
+    },
+    {
+      "if": "low yellow evening primrose with broader cut-lobed leaves",
+      "then": "Oenothera laciniata"
+    },
+    {
+      "if": "very narrow linear leaves + yellow sundrop flowers + strongly 4-angled buds",
+      "then": "Oenothera capillifolia"
+    },
+    {
+      "if": "perennial limestone gaura with white flowers fading pink/red",
+      "then": "Oenothera calcicola"
+    },
+    {
+      "if": "tall yellow biennial",
+      "then": "compare Oenothera biennis — target-zone HOLD"
+    },
+    {
+      "if": "tall airy white-to-pink former-Gaura annual/biennial",
+      "then": "compare Oenothera filiformis — target-zone HOLD"
+    }
+  ],
+  "curation_status": {
+    "version": "1.1-b061",
+    "last_reviewed": "2026-10-17",
+    "diagnostic_science_review": "2026-10-09",
+    "visual_status": "18 manifest entries reconciled; four anatomy steps and three comparisons; specific macros and annotation pending",
+    "new_photo_binaries": 0
+  },
+  "diagnostic_science_review_20261009": {
+    "lane": "scientific-taxonomy-diagnostic-review",
+    "scope_note": "Comparison enrichment only; no canonical installation or gallery backfill. Genus project_scope's eight-species B061 cohort is historical, NOT the full canonical roster. Manifest audit on 2026-10-09: 17 installed Oenothera IDs. Sheet Genus Study Index's 20 curated rows include synonyms/parent concepts; those are source rows, not 20 unique canonical species.",
+    "look_here_first": [
+      "Sort the specimen by flower architecture: classic radial primrose, minute-flowered former-Gaura spike, showier former-Gaura spike, or yellow sundrop (former Calylophus).",
+      "Inspect flower and bud side views, including hypanthium, sepal tips, and inferior ovary; do not classify from petal color.",
+      "For former-Gaura spikes compare flowering-axis hairs at magnification, open-flower diameter, and mature indehiscent fruit proportions.",
+      "For sundrops compare lower versus upper leaves, bud tip length, sepal keels, hypanthium, and stigma; verify the subspecies concept before merging historical names.",
+      "Confirm using mature capsule/fruit and multiple organs. A single worn flower, color, habitat, or photo without scale is not a safe separator."
+    ],
+    "comparison_groups": [
+      {
+        "pair": [
+          "oenothera-curtiflora",
+          "oenothera-suffulta"
+        ],
+        "title": "Minute velvet gaura versus larger-flowered roadside gaura",
+        "diagnostics": [
+          {
+            "organ": "open flower diameter",
+            "curtiflora": "approximately 3 mm",
+            "suffulta": "12–19 mm",
+            "weight": "strong when freshly open and measured; never compare unopened buds"
+          },
+          {
+            "organ": "flowering axis pubescence",
+            "curtiflora": "densely short-hirsute/velveteen with additional longer hairs",
+            "suffulta": "essentially glabrous flowering spike, even though vegetative stems/leaves can be villous",
+            "weight": "strong; check flowering axis, not just leaf hairs"
+          },
+          {
+            "organ": "mature indehiscent fruit",
+            "curtiflora": "narrow ca. 8 × 2.7–3 mm, short-pilose",
+            "suffulta": "short thick 4-lobed 6–7 × 4–6 mm, glabrous",
+            "weight": "strong in mature material; confirm organ and scale"
+          }
+        ],
+        "unreliable": [
+          "Both are annual taprooted former-Gaura plants and may have hairy vegetative foliage; overall hairiness alone overlaps.",
+          "White-to-rose petals and tall raceme habit are shared and not diagnostic."
+        ],
+        "photo_roles": [
+          "Matched flowering-spike axes at equal magnification to show hair distribution",
+          "Matched fresh open flowers with millimeter ruler, side and face views",
+          "Matched mature indehiscent fruits, lateral and apical views with scale"
+        ],
+        "sources": [
+          "https://w3.biosci.utexas.edu/prc/K12/pages/Oenothera%20curtiflora.html",
+          "https://w3.biosci.utexas.edu/prc/K12/pages/Oenothera%20suffulta.html"
+        ]
+      },
+      {
+        "pair": [
+          "oenothera-capillifolia",
+          "Oenothera capillifolia subsp. berlandieri (source alias Calylophus berlandieri)"
+        ],
+        "title": "Former Calylophus subspecies identity — DO NOT AUTO-MERGE",
+        "diagnostics": [
+          {
+            "organ": "accepted-name mapping",
+            "detail": "POWO accepts O. capillifolia subsp. berlandieri for Calylophus berlandieri Spach; separately accepts O. capillifolia subsp. capillifolia. Species-level O. capillifolia learner is not evidence of subspecies identity."
+          },
+          {
+            "organ": "local morphological anchor",
+            "detail": "UT Williamson County subsp. capillifolia has narrow leaves about 20–75 × 1.2–3 mm, conspicuously four-sided buds, and 28–40 mm open flowers; these are an anchor, not a validated dichotomous separator from berlandieri."
+          },
+          {
+            "organ": "FNA subsp. capillifolia",
+            "detail": "FNA gives 30–80 cm erect/ascending stems, leaves 2.5–9 × 0.2–1 cm, free bud tips 0.5–4 mm, and keeled sepals. These ranges overlap some sundrops and are not an independent diagnosis without full key."
+          }
+        ],
+        "unreliable": [
+          "A dark purple floral tube or stigma occurs in FNA-documented subsp. capillifolia populations from Hays and neighboring counties: DO NOT use dark tube/stigma color to force berlandieri.",
+          "Texas nativity at the species/subspecies level does not establish a project three-county native PASS for an unidentified source record.",
+          "Source label 'Calylophus berlandieri' must not automatically be attached to a photograph labeled subsp. capillifolia."
+        ],
+        "photo_roles": [
+          "Voucher-linked flowering plant with source-confirmed subspecies",
+          "Matched stem habit and lower/upper leaf series with scale",
+          "Bud side macro measuring free sepal tips and keel",
+          "Hypanthium and stigma close-ups, labeled as variable-color support only"
+        ],
+        "sources": [
+          "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77133601-1",
+          "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77231171-1",
+          "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250130573",
+          "https://w3.biosci.utexas.edu/prc/K12/pages/Oenothera%20capillifolia%20capillifolia.html"
+        ]
+      },
+      {
+        "pair": [
+          "Calylophus drummondii (unresolved source spelling)",
+          "Oenothera serrulata",
+          "Oenothera drummondii"
+        ],
+        "title": "Historical Calylophus name trap",
+        "diagnostics": [
+          {
+            "organ": "nomenclature",
+            "detail": "POWO treats Calylophus drummondiana Spach as a synonym of Oenothera serrulata Nutt.; Oenothera drummondii Hook. is a separate accepted species. The source spelling 'Calylophus drummondii' is not resolved to either without original voucher/taxon ID."
+          },
+          {
+            "organ": "handoff",
+            "detail": "Preserve source-pool learner admission but mark exact mapping HOLD; do not create a new canonical card, silently fold the name into O. serrulata, or infer native PASS."
+          }
+        ],
+        "unreliable": [
+          "Shared epithet 'drummondii' is not evidence of synonymy; spellings and author citations matter.",
+          "Common names and generic yellow flower images cannot resolve this historical source label."
+        ],
+        "photo_roles": [
+          "Original source observation screenshot or herbarium voucher showing taxon ID and author",
+          "Voucher-linked leaf, bud, flower and capsule series once mapping resolved"
+        ],
+        "sources": [
+          "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:611301-1",
+          "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:173388-2",
+          "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:294786-2"
+        ]
+      },
+      {
+        "pair": [
+          "oenothera-triloba",
+          "other large-flowered radial Oenothera"
+        ],
+        "title": "Stemless long-tube rosette",
+        "diagnostics": [
+          {
+            "organ": "habit",
+            "detail": "Acaulescent flat basal rosette with stem concealed at ground level, unlike tall leafy stems of many other primroses."
+          },
+          {
+            "organ": "floral tube",
+            "detail": "Very long, sharply four-angled hypanthium to approximately 97 mm in UT Williamson County description; trace it all the way to the inferior ovary."
+          },
+          {
+            "organ": "stamens",
+            "detail": "UT Williamson County detailed dissection reports four stamens; use as a corroborating dissected-flower feature, not a stand-alone identification when counts conflict across sources."
+          }
+        ],
+        "unreliable": [
+          "Yellow petals and lobed leaves are shared by multiple Oenothera.",
+          "Stamen counts from a photo or non-dissected worn flower are error-prone."
+        ],
+        "photo_roles": [
+          "Full basal rosette with scale and stem position labeled",
+          "Whole intact flower side view with ruler spanning hypanthium",
+          "Flower dissection clearly exposing stamens and inferior ovary"
+        ],
+        "sources": [
+          "https://w3.biosci.utexas.edu/prc/K12/pages/Oenothera%20triloba.html"
+        ]
+      }
+    ],
+    "media_priority": "Use existing user/Calvin observations, Joey video frames, and already linked project images first; only log exact-species voucher-linked diagnostic candidates with creator/license/URL. No generic gallery download in this lane.",
+    "range_and_approval_guard": "Scientific HOLD/FAIL/UNRESOLVED and learner admission are separate. Preserve all existing canonical, learner, and range statuses. No READY markers.",
+    "updated": "2026-10-09"
+  },
+  "visual_lesson": {
+    "title": "Evening primroses and former gauras: identify the floral architecture",
+    "status": "structural_photo_roles_ready; selected_gallery_anchors_exist; macro_anatomy_and_arrows_pending",
+    "intro": "LOOK HERE FIRST: sort by radial primrose, airy former-Gaura spike, or former-Calylophus sundrop. On an intact fresh flower trace petals and sepals down the hypanthium to the inferior ovary; then compare flowering-axis hairs and mature fruit. Do not identify from pink/yellow color alone.",
+    "teaching_order": "whole flowering architecture → intact hypanthium and ovary → flowering-axis hairs and open flower size → ripe fruit shape and bud/sepal keels",
+    "steps": [
+      {
+        "title": "1 · Sort the flowering architecture",
+        "botanical_terms": [
+          "radial symmetry",
+          "former-Gaura raceme",
+          "hypanthium"
+        ],
+        "photo_role": "matched flowering stalks of radial primrose, former-Gaura, and sundrop; not interchangeable generic blooms",
+        "look_for": "A spreading radial O. speciosa flower, an airy former-Gaura spike, and a yellow sundrop may all belong to Oenothera. Trace the flower attachment and entire flowering axis before choosing a comparison group.",
+        "why_it_matters": "Modern Oenothera includes former Gaura and Calylophus; petals alone hide these very different structural groups.",
+        "status": "needs_matched_photo_series",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "title": "2 · Follow the flower tube to the ovary",
+        "botanical_terms": [
+          "hypanthium",
+          "inferior ovary",
+          "sepal",
+          "free sepal tip"
+        ],
+        "anchor_species_id": "oenothera-triloba",
+        "anchor_image_index": 1,
+        "image_file": "images/library-review011-5a8f62211ab98a1.jpg",
+        "photo_role": "installed exact-species reference, tube anatomy not visually certified; complete scaled side macro needed",
+        "look_for": "In O. triloba, a basal rosette supports a very long sharply four-angled floral tube; photograph the entire side view including where the ovary sits below the perianth. Compare free sepal tips and keels in sundrops.",
+        "why_it_matters": "A complete side profile distinguishes the extremely long-tubed rosette group from many stemmed primroses; the floral tube is not the ovary.",
+        "status": "installed_reference_anatomy_unverified",
+        "annotation_status": "annotation_pending",
+        "image_credit": "Sam Kieschnick · CC BY (version and exact reuse terms to reconfirm)"
+      },
+      {
+        "title": "3 · Compare hairs on the FLOWERING axis",
+        "botanical_terms": [
+          "inflorescence axis",
+          "hirsute",
+          "glabrous",
+          "indehiscent fruit"
+        ],
+        "anchor_species_id": "oenothera-curtiflora",
+        "anchor_image_index": 1,
+        "image_file": "images/glass-root-508886200-first-photo.jpg",
+        "photo_role": "installed exact-species private-study reference; matched hair macro needed",
+        "look_for": "At 10×, O. curtiflora has a densely velvety flowering axis and flowers around 3 mm wide; O. suffulta has an essentially glabrous flowering axis and 12–19 mm flowers. Do not judge hairs on leaves alone.",
+        "why_it_matters": "These separate similar former-Gaura annuals even when both have hairy vegetative stems and white-to-pink petals.",
+        "status": "installed_reference_anatomy_unverified",
+        "annotation_status": "annotation_pending",
+        "image_credit": "Glass Root Garden · direct owner authorization for private study only; no public CC grant"
+      },
+      {
+        "title": "4 · Measure ripe fruits and sundrop buds",
+        "botanical_terms": [
+          "indehiscent fruit",
+          "capsule",
+          "sepal keel",
+          "bud tip"
+        ],
+        "photo_role": "matched ripe O. curtiflora/O. suffulta fruits plus voucher-confirmed O. capillifolia bud side macros with millimeter scale",
+        "look_for": "O. curtiflora fruit approximately 8 × 2.7–3 mm, narrow and hairy; O. suffulta 6–7 × 4–6 mm, thick four-lobed and glabrous. For former Calylophus, photograph intact bud side and free sepal tip without assuming subspecies from tube color.",
+        "why_it_matters": "Mature fruit proportions and bud structure resolve look-alikes that overlap in flower color and general habit.",
+        "status": "needs_photo",
+        "annotation_status": "annotation_pending"
+      }
+    ],
+    "photo_priority": [
+      "matched fresh open former-Gaura flowers with mm ruler and flowering-axis hairs at 10×",
+      "complete hypanthium/ovary side view for O. triloba",
+      "ripe O. curtiflora and O. suffulta fruits in matched face and side views",
+      "voucher-confirmed O. capillifolia bud sepal-keel and free-tip macros"
+    ]
+  },
+  "comparison_cards": [
+    {
+      "title": "Minute velvet gaura versus larger roadside gaura",
+      "look_here_first": "Measure fully open flowers and flowering-axis hairs, then ripe fruits.",
+      "field_matrix": [
+        {
+          "character": "Flower diameter",
+          "curtiflora": "~3 mm",
+          "suffulta": "12–19 mm"
+        },
+        {
+          "character": "Flowering axis",
+          "curtiflora": "dense short hairs plus longer hairs",
+          "suffulta": "essentially glabrous"
+        },
+        {
+          "character": "Mature fruit",
+          "curtiflora": "~8 × 2.7–3 mm, short-pilose",
+          "suffulta": "6–7 × 4–6 mm, four-lobed, glabrous"
+        }
+      ],
+      "caution": "Do not compare unopened buds or infer flowering-axis hairiness from vegetative leaves. Both have white-to-pink flowers."
+    },
+    {
+      "title": "Stemless long-tube rosette versus ordinary stemmed primrose",
+      "look_here_first": "Check the basal rosette and trace the complete tube down to its inferior ovary.",
+      "field_matrix": [
+        {
+          "character": "Habit",
+          "triloba": "flat, essentially stemless rosette",
+          "stemmed_primroses": "visible leafy flowering stems"
+        },
+        {
+          "character": "Tube",
+          "triloba": "sharply four-angled, reported to ~97 mm",
+          "stemmed_primroses": "variable; compare measured intact specimen"
+        },
+        {
+          "character": "Best confirmation",
+          "triloba": "whole side profile and basal rosette",
+          "stemmed_primroses": "flower side view, stem and ripe fruit"
+        }
+      ],
+      "caution": "Yellow petals and lobed leaves are not decisive; stamen counts from worn flowers are unreliable."
+    },
+    {
+      "title": "Former-Calylophus name trap",
+      "look_here_first": "Use voucher-confirmed subspecies, not purple floral tube or old label alone.",
+      "field_matrix": [
+        {
+          "character": "O. capillifolia subsp. capillifolia",
+          "diagnostic": "narrow leaves, four-angled buds; free sepal tips reported 0.5–4 mm"
+        },
+        {
+          "character": "subsp. berlandieri",
+          "diagnostic": "separate accepted subspecies; no validated shortcut from color alone"
+        },
+        {
+          "character": "Calylophus drummondii",
+          "diagnostic": "unresolved source spelling; not automatically O. serrulata or O. drummondii"
+        }
+      ],
+      "caution": "Species-level installed O. capillifolia does not establish a subspecies identity. Preserve unresolved historical labels for taxonomy review."
+    }
+  ],
+  "media_references": [
+    {
+      "species_id": "oenothera-curtiflora",
+      "file": "content/taxa/Onagraceae/Oenothera/oenothera-curtiflora/images/glass-root-508886200-first-photo.jpg",
+      "creator": "Glass Root Garden",
+      "license": "Owner-authorized private study",
+      "source_page": "https://www.inaturalist.org/photos/508886200",
+      "status": "recorded_installed_local_file; diagnostic_axis_hairs_unverified; annotation_pending",
+      "public_reuse": "no"
+    },
+    {
+      "species_id": "oenothera-curtiflora",
+      "file": "content/taxa/Onagraceae/Oenothera/oenothera-curtiflora/images/joey-inat-185092681.jpg",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "source_page": "https://www.inaturalist.org/photos/185092681",
+      "status": "recorded_installed_local_file; anatomy_unverified",
+      "public_reuse": "noncommercial only with attribution"
+    },
+    {
+      "species_id": "oenothera-suffulta",
+      "file": "content/taxa/Onagraceae/Oenothera/oenothera-suffulta/images/glass-root-644561237-first-photo.jpg",
+      "creator": "Glass Root Garden",
+      "license": "Owner-authorized private study",
+      "source_page": "https://www.inaturalist.org/photos/644561237",
+      "status": "recorded_installed_local_file; anatomy_unverified",
+      "public_reuse": "no"
+    },
+    {
+      "species_id": "oenothera-triloba",
+      "file": "content/taxa/Onagraceae/Oenothera/oenothera-triloba/images/library-review011-5a8f62211ab98a1.jpg",
+      "creator": "Sam Kieschnick",
+      "license": "CC BY (version pending confirmation)",
+      "source_page": "https://www.gbif.org/occurrence/6178296416",
+      "status": "recorded_installed_local_file; full_tube_unverified",
+      "public_reuse": "attribution; reconfirm license version"
+    },
+    {
+      "species_id": "oenothera-capillifolia",
+      "file": "content/taxa/Onagraceae/Oenothera/oenothera-capillifolia/images/oenothera-capillifolia-provisional-face.jpg",
+      "creator": "sonnia hill",
+      "license": "CC BY 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Oenothera_capillifolia_subsp._capillifolia_(syn-_O._berlandieri_subsp._pinifolia,_Calylophus_berlandieri_subsp._pinifolius).jpg",
+      "status": "recorded_installed_local_file; voucher_subspecies_label_not_independently_verified",
+      "public_reuse": "yes with attribution"
+    }
+  ],
+  "handoffs": [
+    {
+      "lane": "Diagnostic Photo Polish",
+      "request": "From permanent photo library and existing local galleries, select and pixel-verify matched axis hair macros and ripe O. curtiflora/O. suffulta fruits; full O. triloba tube/ovary; voucher-confirmed O. capillifolia buds. No generic harvest in genus lane."
+    },
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "request": "Resolve Calylophus drummondii source spelling and O. capillifolia subspecies using source voucher; do not infer subspecies from dark tube color. Review coexistence of canonical O. macrocarpa parent and subsp. macrocarpa concepts; no silent merge."
+    },
+    {
+      "lane": "Approved Taxa Installer",
+      "request": "All 18 IDs listed in project_scope are manifest-backed, including biennis and filiformis. Do not reinstall or promote unresolved historical aliases from the source pool."
+    }
+  ]
+}

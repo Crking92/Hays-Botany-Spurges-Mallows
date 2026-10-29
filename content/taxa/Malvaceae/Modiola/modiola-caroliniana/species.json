@@ -1,0 +1,37 @@
+{
+  "id": "modiola-caroliniana",
+  "family": "Malvaceae",
+  "genus": "Modiola",
+  "species": "caroliniana",
+  "scientific_name": "Modiola caroliniana",
+  "common_name": "Carolina bristlemallow",
+  "look_here_first": "Look for a creeping mallow with rounded lobed leaves, small reddish-orange five-petaled flowers and a ring of beaked fruit segments; inspect the epicalyx bractlets and stem hairs.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Modiola%20caroliniana",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Out-of-region photographed individual; no BONAP county nativity asserted.",
+  "images": [
+    {
+      "file": "images/commons-modiola-caroliniana.jpg",
+      "role": "Provisional plant and mallow flowers; mature segmenting fruits and epicalyx anatomy need closeups.",
+      "creator": "Krzysztof Ziarnek (Kenraiz)",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Modiola_caroliniana_1.jpg",
+      "study_use": "Noncommercial plant visual field learner",
+      "public_reuse": "Attribution to creator and source and ShareAlike requirements for adaptations"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": "bernardia-myricifolia",
+  "entry_type": "species",
+  "family": "Euphorbiaceae",
+  "genus": "Bernardia",
+  "species": "myricifolia",
+  "scientific_name": "Bernardia myricifolia",
+  "authority": "(Scheele) S.Watson",
+  "common_name": "Mouse's eye",
+  "other_common_names": [
+    "Oreja de Ratón"
+  ],
+  "synonyms": [
+    "Tyria myricifolia Scheele",
+    "Ricinella myricifolia (Scheele) Müll.Arg.",
+    "Bernardia myricifolia var. incanoides M.C.Johnst."
+  ],
+  "taxonomic_note": "POWO/WCVP and Flora of North America accept Bernardia myricifolia. Older reports outside its core southern-Texas range may involve B. incana or B. obovata, so the learner retains those comparison cautions.",
+  "look_here_first": "Look for a shrub with small crenate leaves that are densely gray-white beneath from stellate hairs. Then confirm dioecious flowers and the 3-lobed capsule; stipule and stamen characters help separate close Bernardia species.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Uvalde",
+    "Medina"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Deep Review B locked Travis and Uvalde from herbarium records and Medina from a botanical survey.",
+    "range_guardrail": "The PASS uses exact county records; do not extend range from generalized Edwards Plateau habitat."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "shrub to about 3 m",
+      "broadly elliptic to orbiculate leaves with revolute crenate margins",
+      "abaxial leaf surface grayish-white and densely stellate-pubescent",
+      "caducous green-to-straw stipules lacking dark resinous exudate",
+      "dioecious reproductive presentation",
+      "staminate thyrses about 5–15 mm",
+      "usually 12–15 stamens",
+      "3-carpellate pistil with three styles densely penicillate adaxially",
+      "3-lobed capsule about 7–8 mm"
+    ],
+    "comparison_training": "B. incana has persistent darkened resinous stipule bases and fewer stamens; B. obovata is greener and more sparsely stellate beneath with a 2-carpellate pistil. Do not identify Bernardia from stellate hairs alone because Croton can look similar."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Bernardia incana",
+      "Bernardia obovata",
+      "Croton spp."
+    ],
+    "key_distinctions": "Dense gray-white abaxial pubescence plus caducous non-resinous stipules, higher stamen count, and a 3-carpellate pistil are the strongest combination."
+  },
+  "tags": [
+    "Euphorbiaceae",
+    "Bernardia",
+    "Mouse's eye",
+    "Stellate hairs",
+    "Dioecious shrub",
+    "Central Texas"
+  ],
+  "curation_status": {
+    "version": "1.0-pass-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-04",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "diagnostic_image_needs": [
+    "abaxial stellate hairs and veins",
+    "stipule base",
+    "staminate thyrse",
+    "pistillate flower/styles",
+    "3-lobed capsule"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "images": [
+    {
+      "file": "images/bernardia-myricifolia-provisional-face.jpg",
+      "role": "Whole voucher / branch and leaf reference",
+      "creator": "UT Plant Resources Center / University of Texas Herbarium (source attribution; individual photographer not stated)",
+      "license": "reuse rights unverified",
+      "source_page": "https://w3.biosci.utexas.edu/prc/specimens/Euphorbiaceae.html",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/joey-inat-101950044.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/101950044",
+      "observation_url": "https://www.inaturalist.org/observations/63517964",
+      "observation_id": "63517964",
+      "photo_id": "101950044",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/101950044/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-101950071.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/101950071",
+      "observation_url": "https://www.inaturalist.org/observations/63517964",
+      "observation_id": "63517964",
+      "photo_id": "101950071",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/101950071/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

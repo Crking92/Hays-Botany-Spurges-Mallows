@@ -1,0 +1,453 @@
+{
+  "rank": "genus",
+  "name": "Callirhoe",
+  "family": "Malvaceae",
+  "common_group": "poppymallows / winecups",
+  "project_scope": {
+    "selection_mode": "Four already installed canonical species; genus lesson backfill only",
+    "species_ids": [
+      "callirhoe-digitata",
+      "callirhoe-involucrata",
+      "callirhoe-leiocarpa",
+      "callirhoe-pedata"
+    ],
+    "species_count": 4,
+    "source_pool": "Genus Study Index row 68; existing species records in content/taxa/Malvaceae/Callirhoe"
+  },
+  "shared_genus_recognition": {
+    "look_here_first": "First turn a flower bud sideways and examine the calyx/extra bractlet region. The epicalyx (involucel) of C. involucrata is well-documented, but DO NOT use a blanket 'involucel absent in pedata' rule: FNA says absent, while UT's Williamson County C. pedata treatment says three bracteoles. Mark pedata anatomy taxonomic-review pending. Then inspect whether bud sepal tips converge or diverge, trailing versus erect habit, leaf stipules, and mature segmented fruit rather than relying on flower color.",
+    "shared_traits": [
+      "Mallow flowers with five petals and many stamens fused into a staminal column around the style; alternate stipulate leaves.",
+      "Leaves can be deeply palmately lobed, but leaf division alone does not reliably split the erect species.",
+      "Dry segmented schizocarps composed of individual mericarps; mericarp dehiscence, beaks and collar shape are highly informative.",
+      "Presence/absence of involucellar bractlets, bud calyx behavior and fruit architecture provide more confidence than flower color."
+    ],
+    "visual_glossary": "The involucel is an extra ring of typically three small bracts outside and just beneath the true five-lobed calyx; it is NOT a sixth sepal or a petal."
+  },
+  "species_comparison_matrix": [
+    {
+      "character": "involucellar bractlets directly below calyx",
+      "Callirhoe involucrata": "3 present, easily seen on intact bud (occasionally flattened against sepals)",
+      "Callirhoe digitata": "absent",
+      "Callirhoe leiocarpa": "absent",
+      "Callirhoe pedata": "SOURCE CONFLICT: FNA describes absent; UT Austin's Williamson County treatment records three bracteoles. Verify accepted specimen concept and matched bud macro before asserting absent.",
+      "weight": "FIRST SPLIT for involucrata, PEDATA SOURCE-CONCEPT CAUTION"
+    },
+    {
+      "character": "calyx lobes in bud",
+      "Callirhoe involucrata": "Divergent in bud, NOT forming a pointed apex",
+      "Callirhoe digitata": "Valvate/meeting, forming pointed bud",
+      "Callirhoe leiocarpa": "Valvate/meeting, pointed bud",
+      "Callirhoe pedata": "Valvate/meeting, pointed bud",
+      "weight": "SUPPORTS involucel observation"
+    },
+    {
+      "character": "life history and stem habit",
+      "Callirhoe involucrata": "Perennial, often spreading/decumbent with low stems",
+      "Callirhoe digitata": "Tall erect perennial from thickened root",
+      "Callirhoe leiocarpa": "Annual or sometimes biennial, erect to weakly erect",
+      "Callirhoe pedata": "Erect or weakly erect perennial with storage taproot",
+      "weight": "IMPORTANT second branch; verify root/life history safely"
+    },
+    {
+      "character": "inflorescence and stipules",
+      "Callirhoe involucrata": "Racemose; persistent ovate to ovate-lanceolate stipules",
+      "Callirhoe digitata": "Paniculate; stipules usually caducous (shed early)",
+      "Callirhoe leiocarpa": "Racemose; persistent distinctly auriculate stipules",
+      "Callirhoe pedata": "FNA: racemose, narrow persistent stipules; UT Williamson County treatment: panicle, wider asymmetric often persistent stipules. Conflicting source descriptions require specimen/concept reconciliation.",
+      "weight": "SUPPORTING, conflicting pedata sources"
+    },
+    {
+      "character": "leaf lobes",
+      "Callirhoe involucrata": "Usually 3–5-lobed, roundish outline",
+      "Callirhoe digitata": "Typically (3–)5–10 lobes, often narrowed/dissected",
+      "Callirhoe leiocarpa": "3–7 lobes, variable along stem",
+      "Callirhoe pedata": "3–5 main lobes, sometimes further divided",
+      "weight": "SUPPORTING; considerable overlap"
+    },
+    {
+      "character": "mature mericarp openings, beaks and collars",
+      "Callirhoe involucrata": "Usually indehiscent with weak/nonprominent beaks; 2-lobed collar",
+      "Callirhoe digitata": "Indehiscent, glabrous, beaks not prominent",
+      "Callirhoe leiocarpa": "Dehiscent, conspicuous beaks ca. 1–2 mm and well-developed 3-lobed collars",
+      "Callirhoe pedata": "Indehiscent, beaks variable; collar absent or weakly developed",
+      "weight": "CRITICAL FRUIT confirmation"
+    }
+  ],
+  "look_here_first_sequence": [
+    {
+      "step": 1,
+      "structure": "flower bud side view, both calyx and just-below-calyx region",
+      "decision": "C. involucrata: three epicalyx bractlets and widely separated bud calyx lobes plus trailing habit. Do NOT force pedata exclusion solely from epicalyx presence/absence because FNA and UT descriptions disagree."
+    },
+    {
+      "step": 2,
+      "structure": "stem/root and ripe mericarps if involucel absent",
+      "decision": "Annual/biennial and mericarps with prominent beaks, 3-lobed collars and dehiscence → C. leiocarpa branch. Immature fruit is not enough."
+    },
+    {
+      "step": 3,
+      "structure": "stipules, branching arrangement of flower stalks and fully expanded leaves",
+      "decision": "Tall erect perennial, caducous stipules, paniculate flowering and more numerous narrow leaf lobes → C. digitata candidate, subject to nonlocal-range caution."
+    },
+    {
+      "step": 4,
+      "structure": "stem nodes, inflorescence and mature fruit",
+      "decision": "Perennial, persistent narrow stipules, racemose inflorescence and 3–5-lobed foliage → C. pedata candidate."
+    },
+    {
+      "step": 5,
+      "structure": "conflicting characters or absent bud/mature fruit",
+      "decision": "Record Callirhoe sp.; photograph involucel, stipules, habit and fruit instead of guessing from a pink/purple cup-shaped flower."
+    }
+  ],
+  "overlap_and_cautions": [
+    "C. digitata is retained as a comparison/teaching concept: existing canonical species record notes current Kew/FNA ranges place true C. digitata outside Texas. Do NOT infer project-target nativity from its presence in this module.",
+    "C. pedata and C. digitata have both been confused in historical literature, including the name C. digitata var. stipulata; accepted-concept mapping belongs to taxonomy lane.",
+    "C. leiocarpa has historical misidentifications as C. pedata; mature dehiscent mericarps and annual habit are safer than petal color.",
+    "C. involucrata is variable at variety level; do not force an infraspecific ID from flower shade.",
+    "Involucel bractlets can lie flat against sepals, especially in open flowers; check unopened buds and take a lateral close-up.",
+    "Leaf lobes and stem height overlap across species and mowing may affect habit; preserve juvenile-versus-adult context.",
+    "Do not handle rare/nonlocal comparison taxa as locally confirmed natives without independent county evidence. Species range labels already in the canonical records are unchanged.",
+    "BOTANICAL SOURCE DISAGREEMENT: FNA C. pedata lacks involucellar bractlets and has racemose inflorescences, while UT Williamson County description reports three bracteoles under the calyx and paniculate flowers. The genus key must not force presence/absence based on this concept until verified independently."
+  ],
+  "local_lookalike_routing": [
+    {
+      "taxon": "Callirhoe scabriuscula (regional genus comparison, not canonical here)",
+      "separator": "Erect and densely stellate-hairy; inspect involucel and fruit rather than assuming any tall winecup is C. pedata or C. leiocarpa."
+    },
+    {
+      "taxon": "Malva / Abutilon / Sida spp. (Malvaceae)",
+      "separator": "Confirm number and arrangement of involucellar bracts, calyx, staminal column, leaf shape and mature schizocarp mericarps; some have superficially mallow-like flowers and hairy foliage."
+    },
+    {
+      "taxon": "Hibiscus spp. and other large-flowered mallows",
+      "separator": "Show fruit and calyx/epicalyx detail: Hibiscus often has a true capsule rather than Callirhoe's dry mericarp ring; color alone is misleading."
+    }
+  ],
+  "diagnostic_photo_requirements": [
+    {
+      "priority": "critical",
+      "role": "matched flower bud, side-on, calyx base",
+      "targets": [
+        "all four"
+      ],
+      "show": "three extra bractlets of C. involucrata compared with no involucel in other three; label involucel vs calyx"
+    },
+    {
+      "priority": "critical",
+      "role": "bud calyx-lobe architecture",
+      "targets": [
+        "all four"
+      ],
+      "show": "divergent lobes in winecup vs valvate pointed bud in other three; arrows at lobe tips"
+    },
+    {
+      "priority": "critical",
+      "role": "same-scale ripe mericarp close-ups, dorsal and lateral",
+      "targets": [
+        "C. leiocarpa",
+        "C. pedata",
+        "C. digitata",
+        "C. involucrata"
+      ],
+      "show": "dehiscent vs indehiscent, beak and 3-lobed vs weak/2-lobed collar; ruler"
+    },
+    {
+      "priority": "high",
+      "role": "stipule pair and inflorescence architecture",
+      "targets": [
+        "C. digitata",
+        "C. pedata",
+        "C. leiocarpa"
+      ],
+      "show": "caducous vs persistent narrow vs persistent auriculate stipules; panicle vs raceme"
+    },
+    {
+      "priority": "high",
+      "role": "habit plus representative leaf",
+      "targets": [
+        "all four"
+      ],
+      "show": "trailing vs erect, annual vs perennial context, 3–5 vs 5–10 lobes; note growth stage"
+    },
+    {
+      "priority": "high",
+      "role": "paired mature fruit release sequence",
+      "targets": [
+        "C. leiocarpa",
+        "C. pedata"
+      ],
+      "show": "open dehiscent mericarp vs closed indehiscent mericarp; do not use immature fruit"
+    },
+    {
+      "priority": "secondary",
+      "role": "family-to-genus annotated flower dissection",
+      "targets": [
+        "C. involucrata"
+      ],
+      "show": "five petals, fused staminal column, calyx, involucel, ovary to schizocarp sequence"
+    }
+  ],
+  "visual_status": {
+    "existing_species_photos": "Existing canonical species.json images preserved unchanged; no new genus-level image selected or verified during this backfill.",
+    "photo_lock": "pending matched involucel, stipule and ripe-mericarps comparisons",
+    "overlay_policy": "Label learner arrows as new overlays; never imply arrows appear on original source."
+  },
+  "handoffs": [
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "target": "C. digitata vs C. pedata",
+      "question": "Preserve existing nonlocal C. digitata teaching role; verify unusual Texas reports and accepted-name synonym routing rather than adding unverified Texas-native claim."
+    },
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "target": "C. leiocarpa vs C. pedata",
+      "question": "Check intermediate historic identifications against annuality, auriculate stipules, mericarp dehiscence and 3-lobed collar."
+    },
+    {
+      "lane": "Diagnostic Photo Polish",
+      "target": "all four Callirhoe",
+      "question": "Lock exact same-scale bud involucel comparison, persistent/caducous stipules, and mature mericarp beak/collar macros; no generic color-only glamour images."
+    },
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "target": "Callirhoe pedata FNA versus UT Williamson description",
+      "question": "FNA C. pedata lists involucellar bractlets absent and racemose flowers, but A.C. Gibson Williamson County treatment says 3 bracteoles beneath calyx and a panicle. Reconcile name concept, voucher, page with recent Flora; avoid an involucel-presence-only ID key until conflict addressed."
+    },
+    {
+      "lane": "Taxonomy + Diagnostic Review",
+      "target": "Callirhoe involucrata/pedata target-zone PASS audit",
+      "question": "Both species' approved three-county PASS records count Williamson County, which is outside the project's allowed 24 counties. Exact verified in-zone counts appear 2 (involucrata Travis and Tom Green; pedata Hays and Travis). Audit eligible third county and scientific PASS without changing learner admission."
+    }
+  ],
+  "scientific_sources": [
+    {
+      "title": "Flora of North America — Callirhoe key",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=105128",
+      "supports": "involucel, fruit and stipule comparison"
+    },
+    {
+      "title": "Flora of North America — C. pedata",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101037",
+      "supports": "persistent narrow stipules, racemose flowers, indehiscent mericarps"
+    },
+    {
+      "title": "Flora of North America — C. leiocarpa",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101038",
+      "supports": "annual, auriculate stipules, dehiscent mericarps and 3-lobed collars"
+    },
+    {
+      "title": "Flora of North America — C. involucrata",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416215",
+      "supports": "three involucellar bractlets, divergent calyx lobes and habit"
+    },
+    {
+      "title": "Canonical project species descriptions",
+      "path": "content/taxa/Malvaceae/Callirhoe/{species-id}/species.json",
+      "supports": "existing preserved range/taxonomy and diagnostic treatment of all four"
+    },
+    {
+      "title": "UT Austin A.C. Gibson Williamson County Callirhoe pedata",
+      "url": "https://w3.biosci.utexas.edu/prc/K12/pages/Callirhoe%20pedata.html",
+      "supports": "local conflicting bracteole and panicle description; audit against FNA"
+    },
+    {
+      "title": "FWS Texas poppy-mallow 5-year status review",
+      "url": "https://ecos.fws.gov/docs/five_year_review/doc6178.pdf",
+      "supports": "contrast winecup vs leiocarpa and involucel/habit differences"
+    }
+  ],
+  "curation_status": {
+    "version": "1.1-five-installed-photo-callirhoe-lessons",
+    "last_reviewed": "2026-10-13",
+    "structural_lesson": "complete",
+    "visual_lock": "genus-level matched diagnostic macro set pending",
+    "species_installation": "none; preserve canonical concept and range statuses",
+    "photo_examples_installed": 5,
+    "visual_species_installed": [
+      "callirhoe-involucrata",
+      "callirhoe-pedata"
+    ],
+    "external_species_only": [
+      "callirhoe-digitata",
+      "callirhoe-leiocarpa"
+    ],
+    "arrow_status": "needs_visually_verified_annotations",
+    "diagnostic_conflict_status": "FNA pedata no involucel versus UT Williamson pedata three bracteoles; needs review",
+    "source_concept_conflict_review_required": true
+  },
+  "look_here_first": "FIRST turn a bud/flower SIDEWAYS and inspect the region immediately UNDER the true five-lobed CALYX for an extra ring of tiny BRACTLETS (INVOLUCEL/EPICALYX). On C. involucrata, three bractlets are strongly supported and buds have separated sepal tips. BUT do not use 'bractlets absent' as an unqualified C. pedata veto: FNA describes them absent, whereas UT's detailed Williamson County treatment describes three bracteoles on a plant identified C. pedata. This conflict needs independent taxonomic/specimen-photo review. SECOND check trailing versus erect habit and leaf/stipule characters. THIRD confirm annuality and ripe MERICARP anatomy (dehiscent vs indehiscent; beak/collar). Petal color is not sufficient.",
+  "genus_diagnostics": {
+    "flower": "Find five separate PETALS and the many ANTHERS carried on a central fused STAMINAL COLUMN. The central projection is NOT a single giant stamen and the cup-shaped whole flower does not distinguish species.",
+    "calyx": "Inspect the green five-lobed CALYX immediately below the five colored petals. In C. involucrata its calyx lobes are usually divergent in bud (tips remain separated); in many congeners calyx lobe tips meet, creating a pointed VALVATE bud. A side-view of an unopened bud is a necessary confirmation.",
+    "involucel": "An INVOLUCEL (also called EPICALYX) is an extra ring of usually three smaller BRACTLETS below the CALYX, not part of the true sepal ring. FNA documents bractlets in C. involucrata and no bractlets in C. pedata/leiocarpa; HOWEVER a UT Williamson County description explicitly reports three bracteoles in C. pedata, so the C. pedata polarity is an authoritative-source conflict. Do not force an ID using a supposed absence unless a voucher/photo confirms the concept.",
+    "leaves": "Look at the alternating, stipulate leaves. Individual blades are commonly PALMATELY LOBED (veins and lobes radiate from one point); lobe number overlaps. C. pedata has persistent stipules, and C. digitata often loses stipules; C. leiocarpa typically has auriculate stipules. A leaf picture seldom proves stipule form on its own.",
+    "habit": "C. involucrata is typically spreading or decumbent (trailing). C. leiocarpa is usually an annual/biennial, upright or weakly erect. C. pedata and digitata are perennials with often erect stems. Flowering posture can be affected by mowing, grazing and site conditions.",
+    "fruit": "The mallow ovary matures as a dry SCHIZOCARP: a ring of individual wedge-like MERICARPS. Leiocarpa usually has fruit segments that OPEN (dehiscent), with beaks and prominent collars; pedata and involucrata are usually indehiscent. Only a ripe, focused fruit macro can verify the distinction; a developing green fruit photo cannot.",
+    "stipules": "STIPULES are small appendages in PAIRS at the base of each leaf petiole, not the same as flower bractlets under the calyx. On digitata they are usually early-shed; on leiocarpa often broader and auriculate (earlike base); on pedata persistent and generally narrow—note UT Williamson records wider asymmetric stipules and panicles, complicating this historical concept.",
+    "stem": "Alternate leaf-bearing mallow stems; strongly trailing stems support winecup while taller erect/branching stems point to pedata/leiocarpa/digitata but never prove them."
+  },
+  "shared_traits": [
+    "Mallow flowers with five petals and many stamens fused into a staminal column around the style; alternate stipulate leaves.",
+    "Leaves can be deeply palmately lobed, but leaf division alone does not reliably split the erect species.",
+    "Dry segmented schizocarps composed of individual mericarps; mericarp dehiscence, beaks and collar shape are highly informative.",
+    "Presence/absence of involucellar bractlets, bud calyx behavior and fruit architecture provide more confidence than flower color.",
+    "The extra involucel/epicalyx bractlets are not the same as STIPULES at a foliage leaf base; this distinction is a high-value family-versus-genus terminology lesson."
+  ],
+  "visual_comparison": {
+    "title": "Callirhoe: under the calyx, then the bud and ripe fruit",
+    "subtitle": "Five physical exact-species learner photographs illustrate flower, whole habit, foliage, developing fruits and bud context. Missing C. digitata and C. leiocarpa rights-safe installed images are NOT silently replaced by external copyrighted photos.",
+    "memory_rule": "PETALS → CALYX (five green sepals) → possible INVOLUCEL (extra bractlets beneath) → LEAF STIPULES (different structure) → ripe MERICARPS. C. involucrata is typically trailing and bractleted. Other local species require bud/stipule/fruit confirmation; C. pedata involucel descriptions conflict between references.",
+    "items": [
+      {
+        "label": "Trailing winecup: whole patch and palmate foliage",
+        "scientific_name": "Callirhoe involucrata",
+        "image_role": "spreading/decumbent habit + deeply lobed leaves",
+        "image_url": "content/taxa/Malvaceae/Callirhoe/callirhoe-involucrata/images/02-spreading-habit.jpg",
+        "creator": "Stan Shebs",
+        "license": "CC BY-SA 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Callirhoe_involucrata_group.jpg",
+        "caption": "Find stems spreading sideways through the patch, with multiple palmately lobed leaves. This shows HABIT rather than the critical involucel close-up; do not treat trailing habit alone as decisive.",
+        "markers": [],
+        "visual_status": "installed_verified_exact_species; fine_anatomical_structure_or_arrows_pending"
+      },
+      {
+        "label": "Winecup: five petals and central column",
+        "scientific_name": "Callirhoe involucrata",
+        "image_role": "open blossom / staminal column overview",
+        "image_url": "content/taxa/Malvaceae/Callirhoe/callirhoe-involucrata/images/01-flower.jpg",
+        "creator": "Clinton & Charles Robertson",
+        "license": "CC BY-SA 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Purple_Poppymallow_(Callirhoe_involucrata)_(129866999).jpg",
+        "caption": "Five showy magenta PETALS form the cup. The pale center is the column of fused STAMENS and styles common to local mallows. A straight-on front view is poor for counting the tiny bractlets UNDER the calyx.",
+        "markers": [],
+        "visual_status": "installed_verified_exact_species; fine_anatomical_structure_or_arrows_pending"
+      },
+      {
+        "label": "Winecup: leaves with developing fruit",
+        "scientific_name": "Callirhoe involucrata",
+        "image_role": "palmate leaf lobes / fruiting stems",
+        "image_url": "content/taxa/Malvaceae/Callirhoe/callirhoe-involucrata/images/03-foliage-fruit.jpg",
+        "creator": "Nadiatalent",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Callirhoe_involucrata_plants_with_fruit.jpg",
+        "caption": "Find the leaf outline with lobes radiating from its base. Fruiting material is present with foliage but the photograph does not serve as a verified dissection of ripe mericarps, their beaks, or collars.",
+        "markers": [],
+        "visual_status": "installed_verified_exact_species; fine_anatomical_structure_or_arrows_pending"
+      },
+      {
+        "label": "Palmleaf poppymallow: upright flowers and foliage",
+        "scientific_name": "Callirhoe pedata",
+        "image_role": "flowering plant habit / divided leaves",
+        "image_url": "content/taxa/Malvaceae/Callirhoe/callirhoe-pedata/images/01-purple-flowering-habit.jpg",
+        "creator": "lanechaffin",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Callirhoe_pedata_359070311.jpg",
+        "caption": "Compare the taller upright to weakly erect flower-bearing stems and divided palmately lobed leaves against trailing C. involucrata. The leaf can have narrow segments; its silhouette can overlap digitata.",
+        "markers": [],
+        "visual_status": "installed_verified_exact_species; fine_anatomical_structure_or_arrows_pending"
+      },
+      {
+        "label": "Palmleaf poppymallow: flower and bud",
+        "scientific_name": "Callirhoe pedata",
+        "image_role": "flower and unopened bud side context",
+        "image_url": "content/taxa/Malvaceae/Callirhoe/callirhoe-pedata/images/02-flower-bud-close-context.jpg",
+        "creator": "giantcicada",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Callirhoe_pedata_382056768.jpg",
+        "caption": "Find an OPEN flower and a neighboring BUD. Bud shape is the next diagnostic clue: confirm whether the CALYX tips meet at the top. This installed photograph is context, NOT an audited involucel/bractlet macro; competing descriptions of pedata need review.",
+        "markers": [],
+        "visual_status": "installed_verified_exact_species; fine_anatomical_structure_or_arrows_pending"
+      }
+    ],
+    "photo_roles_pending": [
+      {
+        "priority": "highest",
+        "taxa": [
+          "callirhoe-involucrata",
+          "callirhoe-pedata"
+        ],
+        "structure": "involucel/epicalyx, true calyx, and calyx tips",
+        "need": "matched unopened flower buds side-on with scale and precise noninvented labels; reconcile FNA versus UT pedata bractlet conflict",
+        "status": "needs_photo_and_taxonomic_review"
+      },
+      {
+        "priority": "high",
+        "taxa": [
+          "callirhoe-leiocarpa",
+          "callirhoe-digitata"
+        ],
+        "structure": "exact-species habit, leaf and flower photos",
+        "need": "licensed downloadable image or original photo to install physically. Current species records only link to external copyright-controlled source-site pictures; do NOT treat them as installed.",
+        "status": "external_reference_only_not_installed"
+      },
+      {
+        "priority": "high",
+        "taxa": [
+          "callirhoe-leiocarpa",
+          "callirhoe-pedata",
+          "callirhoe-involucrata",
+          "callirhoe-digitata"
+        ],
+        "structure": "mature dry mericarps, beak and collar",
+        "need": "two matched sides of RIPE fruit with ruler; demonstrate dehiscent vs indehiscent and beak/collar",
+        "status": "needs_exact_species_macro"
+      },
+      {
+        "priority": "medium",
+        "taxa": [
+          "callirhoe-pedata",
+          "callirhoe-digitata",
+          "callirhoe-leiocarpa"
+        ],
+        "structure": "stipules and branching arrangement",
+        "need": "low-node opposite? No: ALTERNATE leaves, paired stipules at leaf base; show shed vs persistent stipules, raceme vs panicle with source-concept caution",
+        "status": "needs_exact_species_macro"
+      }
+    ],
+    "unverified_annotations_note": "All `markers` intentionally empty. A nearby or visible reproductive structure is not grounds to invent an arrow target. The UT Pedata / FNA discrepancy must be resolved before visual ID logic demands a definitive bractlet-absence arrow."
+  },
+  "comparison_cards": [
+    {
+      "title": "C. involucrata vs C. pedata",
+      "taxon_ids": [
+        "callirhoe-involucrata",
+        "callirhoe-pedata"
+      ],
+      "look_here_first": "Spreading perennial versus commonly erect perennial: compare WHOLE PLANT first, then buds and ripe fruits. C. involucrata has a documented three-bractlet epicalyx and nonpointed separated calyx tips. FNA says pedata has no involucel, BUT UT Williamson County records pedata with three bracteoles; mark that particular separator uncertain until a voucher and photo review.",
+      "photo_requirements": [
+        "same-scale flower bud side views exposing true calyx/epicalyx",
+        "side-by-side full habit and leaf/stipule photos",
+        "ripe segmented fruit heads"
+      ],
+      "caution": "Do not overcall a pedata ID from apparent involucel absence; authoritative conflict under review."
+    },
+    {
+      "title": "C. leiocarpa vs C. pedata",
+      "taxon_ids": [
+        "callirhoe-leiocarpa",
+        "callirhoe-pedata"
+      ],
+      "look_here_first": "Erect annual/biennial versus perennial; find the leaf's pair of STIPULES, then ripe fruit MERICARPS. Leiocarpa's distinct opening dehiscent mericarps, beak and collar are a stronger split than flower color.",
+      "photo_requirements": [
+        "external-reference-only plants need new licensed installed exact photos",
+        "ripe dehiscent vs indehiscent mericarps with ruler"
+      ],
+      "caution": "Unlicensed external nursery images are not installed photographs; stage and rights must be respected."
+    },
+    {
+      "title": "C. digitata vs C. pedata",
+      "taxon_ids": [
+        "callirhoe-digitata",
+        "callirhoe-pedata"
+      ],
+      "look_here_first": "Both may have fingerlike divided leaves. Digitata is an out-of-target-range comparison with more narrowed many-lobed foliage and commonly early-shed stipules. Pedata's accepted concept typically has persistent stipules; historic Texas usage can overlap names and descriptions.",
+      "photo_requirements": [
+        "exact approved species photographs with vouchers",
+        "leaf base stipules; mature fruit; overall inflorescence from wild accession"
+      ],
+      "caution": "C. digitata is a nonlocal comparison, not a confirmed Texas-target-zone native."
+    }
+  ]
+}

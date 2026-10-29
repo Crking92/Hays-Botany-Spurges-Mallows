@@ -1,0 +1,58 @@
+LUDWIGIA REPENS — CURATION SOURCES
+Reviewed: 2026-10-02
+Status: PASS / APPROVED FOR INSTALL
+
+TAXONOMY
+Kew POWO accepted Ludwigia repens J.R.Forst.: https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A30121490-2
+Flora of North America: https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416801
+IPNI conserved name record: https://www.ipni.org/n/30121490-2
+
+STRICT TARGET-ZONE RANGE
+Hays — San Marcos River survey identifies Ludwigia repens as native: https://apms.org/wp-content/uploads/japm-39-01-075.pdf
+Travis — UT PRC Travis County Onagraceae specimen index: https://w3.biosci.utexas.edu/prc/specimens/Onagraceae.html
+Williamson — UT PRC Vascular Plants of Williamson County: https://w3.biosci.utexas.edu/prc/K12/pages/Ludwigia%20repens.html
+
+MORPHOLOGY
+FNA and UT PRC Williamson treatment: creeping aquatic perennial, roots at nodes, opposite leaves, glossy elliptic/obovate blades, small axillary flowers.
+
+LOOKALIKE WARNING
+Hygrophila polysperma has historically been confused with L. repens in the San Marcos/Comal systems. Treat submerged vegetative ID cautiously when flowers/fruits are absent.
+
+JOEY SPECIES LAYER
+Video Hr3nBxvgCv4 — Aquatic Plants on the San Marcos River
+003 @ 00:10:04.8 — source-labeled submerged/creeping habit.
+Rights: private-study frame; public reuse not assumed.
+
+SAVED VIDEO FRAME INSTALLATION — 2026-10-04
+Joey Santore / Crime Pays But Botany Doesn't — Aquatic Plants on the San Marcos River
+https://www.youtube.com/watch?v=Hr3nBxvgCv4
+ludwigia-repens_submerged-habit-source-label_00-10-04.8.jpg @ 00:10:04.8
+River habitat overview from Joey's Ludwigia repens sequence. Submerged vegetation is visible, but this wide view does not resolve diagnostic leaf or flower details.
+Rights: private study only; public reuse not cleared. User confirms private learner. Original JPEG decoded and visually inspected. Existing scientific/range status preserved.
+
+VISUAL ID POLISH — 2026-10-08
+UT Plant Resources Center local detail: https://w3.biosci.utexas.edu/prc/K12/pages/Ludwigia%20repens.html
+Flora of North America species-wide account: https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416801
+Verified licensed opposite-leaf nodal photo (David J. Stang, CC BY-SA 4.0): https://commons.wikimedia.org/wiki/File:Ludwigia_repens_3zz.jpg
+Verified licensed four-petaled flower + inferior ovary close-up (Kevin Thiele, CC BY 2.0): https://commons.wikimedia.org/wiki/File:Ludwigia_repens_-_Flickr_-_Kevin_Thiele.jpg
+New external images are linked only, not copied into repo. The Stang photograph is from cultivated water-garden material in Maryland; the Thiele specimen locality has not been verified. The root-at-node macro and mature 6–7.5 mm bell-shaped capsule with ruler remain pending; county status stays unchanged. The existing Joey frame is private study only.
+
+REPENS/PALUSTRIS CORRECTION — 2026-10-11
+Confirmed FNA: https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416801
+Corroborating concise identification: https://auth1.dpr.ncparks.gov/flora/species_account.php?id=2038
+Ludwigia repens has four tiny yellow petals when present, but some flowers lack petals and otherwise they are shed rapidly. Do not force a petal-less plant to L. palustris. Palustris' four longitudinal green capsule stripes are not present on repens; capsule size overlaps.
+Existing Kevin Thiele, CC BY 2.0 petalled flower photo is annotated accurately in genus. Root emerging from a true repens stem node and measured fruit photo remain missing. Hays/Travis/Williamson PASS scientific record unchanged.
+
+LIBRARY-FIRST IMAGE SELECTION 036 2026-10-16T19:03:08.503320+00:00
+Ludwigia repens
+Creator: Jo Roberts; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6184844444
+Stored archive: hays-photo-library-mass-38951157448 :: staged_images/ludwigia-repens/gbif-93300971f2d5bd.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 036 2026-10-16T19:03:08.503320+00:00
+Ludwigia repens
+Creator: saltyhiker; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/6480325857
+Stored archive: hays-photo-library-mass-38951157448 :: staged_images/ludwigia-repens/gbif-ad440bad3297e5.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

@@ -1,0 +1,179 @@
+{
+  "rank": "family",
+  "name": "Passifloraceae",
+  "common_name": "Passionflower family",
+  "project_scope": {
+    "selection_mode": "Passiflora-centered vine reference module",
+    "note": "Built around axillary tendrils and the corona/androgynophore flower."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "At several leafy nodes of local Passiflora, locate a single tendril originating in the leaf axil, then examine the open flower: a corona of filaments surrounds an elevated androgynophore carrying five stamens and a superior ovary, commonly with three styles. Fruit with multiple arillate seeds is a further confirmation. Leaf lobing and flower size vary; a detached coiled tendril does not prove its insertion.",
+    "leaves": "Alternate, often lobed, with stipules; petiolar glands may occur.",
+    "flower": "5 sepals + 5 petals around a conspicuous corona; stamens and ovary elevated on an androgynophore/gynophore.",
+    "fruit": "Berry-like or capsular with arillate seeds.",
+    "field_tip": "Passiflora: leaf-axillary tendril + corona + elevated reproductive column. Compare node insertion against grape (leaf-opposed), greenbrier (paired petiole-base tendrils) and cucurbits (lateral tendril); confirm flower anatomy when attachment is unclear.",
+    "look_here_first_sequence": [
+      "Inspect a complete node for a leaf-axillary tendril; a coiled tendril without its attachment is not sufficient proof.",
+      "Inspect the open flower for corona filaments and an elevated androgynophore bearing stamens and the superior ovary.",
+      "Confirm a fruit with multiple seeds and fleshy arils; distinguish from dry Convolvulaceae capsules."
+    ]
+  },
+  "visual_lesson": {
+    "status": "first_visual_lock",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "Passionflowers practically label themselves once you know where to look: axillary tendril, corona, and the elevated reproductive column.",
+    "steps": [
+      {
+        "title": "1 · Start with the flower",
+        "photo_role": "corona + reproductive column",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Passiflora%20lutea.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_lutea.jpg",
+        "image_label": "Passiflora lutea flower",
+        "image_credit": "CC BY 3.0",
+        "look_for": "A conspicuous corona surrounding the elevated stamens and ovary.",
+        "why_it_matters": "The flower architecture is one of the most distinctive local family signatures.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "2 · See flower and fruit together",
+        "photo_role": "flower + fruit on stem",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Passiflora%20lutea%20bloom%20and%20fruit.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_lutea_bloom_and_fruit.jpg",
+        "image_label": "Passiflora lutea flower and fruit",
+        "image_credit": "CC BY 3.0",
+        "look_for": "Flower architecture and developing berry-like fruit on the same vine.",
+        "why_it_matters": "Connects flower morphology to reproductive outcome.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "3 · Read the leaf and node",
+        "photo_role": "leaf architecture",
+        "image_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Passiflora%20lutea%20leaf.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_lutea_leaf.jpg",
+        "image_label": "Passiflora lutea leaf",
+        "image_credit": "CC BY-SA 4.0",
+        "look_for": "Alternate leaf plus tendril arising from the axil.",
+        "why_it_matters": "Separates passionflower vines from grape vines before flowering.",
+        "status": "rights_cleared_family_reference"
+      },
+      {
+        "title": "4 · Count the styles",
+        "photo_role": "3 styles/stigmas",
+        "look_for": "Three prominent styles/stigmas above the stamens.",
+        "why_it_matters": "A high-value Passiflora confirmation.",
+        "status": "diagram_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Passifloraceae vs Vitaceae",
+        "rule": "Passiflora tendrils are axillary and flowers are showy with corona + reproductive column; Vitis tendrils/inflorescences are commonly opposite the leaf and flowers are tiny."
+      },
+      {
+        "title": "Passifloraceae vs Convolvulaceae",
+        "rule": "Morning-glories twine with the stem and have a plicate fused corolla; Passiflora uses axillary tendrils and a corona/androgynophore."
+      },
+      {
+        "title": "Passifloraceae vs Cucurbitaceae",
+        "rule": "Passiflora flower has a superior ovary on an elevated column; typical female cucurbit flower has an inferior ovary. Tendrils alone overlap."
+      },
+      {
+        "title": "Passifloraceae vs Smilacaceae",
+        "rule": "Smilax typically has a pair of tendrils from the petiole-base region and small unisexual flowers with six tepals; local Passiflora usually has one axillary tendril and a corona with elevated stamens/ovary. Confirm on an intact node, not a detached tendril."
+      }
+    ],
+    "caveat": "This is a Passiflora-centered local module, not a claim that all Passifloraceae are tendrilled vines. Passiflora foetida's finely divided sticky bracts and P. tenuiloba's highly variable leaf outlines are species-level traits, not universal family characters. A flower-front photograph alone may not establish the ovary's superior position or the base of the androgynophore.",
+    "diagnostic_photo_needs": [
+      "Intact Passiflora node showing axillary tendril origin and stipules",
+      "Side-on open flower showing corona, androgynophore, five stamens, three styles and superior ovary",
+      "Matched grape leaf-opposed tendril and cucurbit tendril insertion at comparable scale",
+      "Fruit section showing fleshy arils around seeds",
+      "Matched same-scale intact-node macros: Passiflora axillary tendril, Vitaceae leaf-opposed tendril, Smilax paired petiole-base tendrils and Cucurbitaceae lateral tendril.",
+      "Opened fruit with individually resolved seeds and fleshy arils; label seed, aril and fruit wall only after visual inspection."
+    ],
+    "part_specific_photo_handoff": [
+      {
+        "species_reference": "Passiflora lutea",
+        "plain": "three lobes of one leaf and a coiled tendril",
+        "formal": "leaf lamina lobing; tendril (axillary insertion unverified)",
+        "photo_role": "leaf-blade and tendril coil; separate intact-node macro needed to prove insertion",
+        "installed_path": "content/taxa/Passifloraceae/Passiflora/passiflora-lutea/images/02-leaf-three-lobes.jpg",
+        "creator": "Brucewinter",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_lutea_leaf.jpg",
+        "caption": "Three lobes belong to one leaf; the coil is a tendril, but this view does not prove where it arises.",
+        "media_status": "installed_file_verified",
+        "annotation_status": "annotation_pending",
+        "media_verification": "Species image metadata and file presence verified on GitHub main; exact arrow coordinates and tendril insertion not verified."
+      },
+      {
+        "species_reference": "Passiflora foetida",
+        "plain": "fringe inside the flower and three stigma tips",
+        "formal": "corona filaments; stigmas; elevated reproductive column",
+        "photo_role": "flower-face macro; separate side/dissection view needed for androgynophore base, five stamens and superior ovary",
+        "installed_path": "content/taxa/Passifloraceae/Passiflora/passiflora-foetida/images/03-flower-face-corona.jpg",
+        "creator": "Florimagix",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:FM-Passiflora.foetida_Flower_close-up.jpg",
+        "caption": "The filament fringe is the corona; the raised flower center carries the reproductive structures. Count stamens on a clearer side/dissection view.",
+        "media_status": "installed_file_verified",
+        "annotation_status": "annotation_pending",
+        "media_verification": "Species image metadata and file presence verified on GitHub main; anther count and column base not established from this view."
+      },
+      {
+        "species_reference": "Passiflora foetida",
+        "plain": "lacy outer cage around a developing fruit",
+        "formal": "finely dissected involucral bracts versus berry wall",
+        "photo_role": "fruit and subtending bract cage; separate close-up needed to prove sticky glandular secretion",
+        "installed_path": "content/taxa/Passifloraceae/Passiflora/passiflora-foetida/images/04-sticky-bract-cage-fruit.jpg",
+        "creator": "Florimagix",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:FM-Passiflora.foetida_Fruit.JPG",
+        "caption": "The finely divided bracts surround the developing berry; they are not corona filaments or part of the ovary wall.",
+        "media_status": "installed_file_verified",
+        "annotation_status": "annotation_pending",
+        "media_verification": "Species image metadata and file presence verified on GitHub main; gland secretion not independently demonstrated."
+      },
+      {
+        "species_reference": "Passiflora lutea",
+        "plain": "small flower and separate round berries",
+        "formal": "flower-to-fruit sequence; berry development",
+        "photo_role": "flower and developing/mature fruits on same vine; separate opened fruit macro needed for individual arillate seeds",
+        "installed_path": "content/taxa/Passifloraceae/Passiflora/passiflora-lutea/images/03-flower-and-fruit.jpg",
+        "creator": "Valis55",
+        "license": "CC BY 3.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_lutea_bloom_and_fruit.jpg",
+        "caption": "A small passionflower and its round berries occur together; this photograph does not show the arils around individual seeds.",
+        "media_status": "installed_file_verified",
+        "annotation_status": "annotation_pending",
+        "media_verification": "Species image metadata and file presence verified on GitHub main; axillary attachment and arils not independently demonstrated."
+      }
+    ],
+    "genus_routing": {
+      "scope": "Project pool is Passiflora-centered; these are species-level cues, not universal family characters.",
+      "routes": [
+        {
+          "taxon": "Passiflora lutea",
+          "cue": "small greenish flowers, usually shallow three-lobed leaves and small dark berries; inspect node and flower"
+        },
+        {
+          "taxon": "Passiflora foetida",
+          "cue": "finely divided bracts envelop flower/fruit; corona visible in flower; do not assume all passionflowers have a bract cage"
+        },
+        {
+          "taxon": "Passiflora incarnata",
+          "cue": "large maypop flower and relatively large fleshy fruit; confirm with flower architecture"
+        },
+        {
+          "taxon": "Passiflora tenuiloba",
+          "cue": "leaf blades may be narrow or variably lobed on one species; confirm with flower and node"
+        }
+      ]
+    }
+  },
+  "curation_status": {
+    "version": "1.0-visual-family-module",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "reference_first_pass"
+  }
+}

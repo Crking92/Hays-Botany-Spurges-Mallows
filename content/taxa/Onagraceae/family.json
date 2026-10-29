@@ -1,0 +1,155 @@
+{
+  "rank": "family",
+  "name": "Onagraceae",
+  "common_name": "Evening-primrose family",
+  "project_scope": {
+    "selection_mode": "Central Texas Oenothera visual breadth module",
+    "note": "The canonical set spans both classic primrose and former-Gaura forms, making it unusually good for teaching family variation."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Look below the petals. The ovary sits beneath the sepals/petals/stamens, commonly with an obvious floral tube above it.",
+    "floral_pattern": "Usually 4 sepals + 4 petals + 4 or 8 stamens in the local Oenothera set; stigma commonly 4-lobed.",
+    "ovary": "Inferior, commonly 4-loculed.",
+    "fruit": "Can be a many-seeded dehiscent capsule or a hard few-seeded indehiscent fruit in former-Gaura lineages.",
+    "field_tip": "Inferior ovary + floral tube + repeated 4-part architecture beats flower color every time."
+  },
+  "visual_lesson": {
+    "status": "first_visual_lock",
+    "teaching_order": "whole plant → high-value structure → reproductive confirmation → tie-breaker",
+    "intro": "This family is perfect for learning that one structural plan can produce wildly different-looking flowers.",
+    "steps": [
+      {
+        "title": "1 · Learn the classic primrose form",
+        "photo_role": "open radial flower",
+        "anchor_species_id": "oenothera-speciosa",
+        "anchor_image_index": 0,
+        "look_for": "Four broad petals arranged radially, with a conspicuous 4-lobed stigma.",
+        "why_it_matters": "Shows the easy-to-recognize classic Onagraceae form.",
+        "status": "photo_present_anatomy_unverified",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "title": "2 · Look below the petals",
+        "photo_role": "long floral tube / inferior ovary",
+        "anchor_species_id": "oenothera-triloba",
+        "anchor_image_index": 0,
+        "look_for": "An extraordinarily long floral tube leading down to the ovary below the flower.",
+        "why_it_matters": "Makes inferior ovary + hypanthium impossible to miss.",
+        "status": "botanical_illustration_not_photo_anatomy_unverified",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "title": "3 · Break the 8-stamen rule",
+        "photo_role": "4-stamen exception",
+        "anchor_species_id": "oenothera-triloba",
+        "anchor_image_index": 0,
+        "look_for": "The same 4-part flower plan but only four stamens.",
+        "why_it_matters": "Prevents memorizing 'Onagraceae = eight stamens.'",
+        "status": "botanical_illustration_not_photo_anatomy_unverified",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "title": "4 · Learn the former-Gaura form",
+        "photo_role": "one-sided zygomorphic flower",
+        "anchor_species_id": "oenothera-lindheimeri",
+        "anchor_image_index": 0,
+        "look_for": "Petals held mostly to one side with long exserted stamens.",
+        "why_it_matters": "Shows that Onagraceae is not always radially symmetric.",
+        "status": "photo_present_anatomy_unverified",
+        "annotation_status": "annotation_pending"
+      },
+      {
+        "title": "5 · Follow flower to hard fruit",
+        "photo_role": "former-Gaura hard indehiscent fruit",
+        "anchor_species_id": "oenothera-suffulta",
+        "anchor_image_index": 0,
+        "look_for": "A hard few-seeded 4-lobed fruit rather than a typical opening capsule.",
+        "why_it_matters": "Fruit architecture is the second major axis of variation in the family.",
+        "status": "image_missing_rights_review_pending",
+        "annotation_status": "annotation_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Onagraceae vs Lythraceae",
+        "rule": "Both can have 4-merous flowers and a floral cup. Onagraceae has an inferior ovary; Lythraceae is usually superior."
+      },
+      {
+        "title": "Classic vs former-Gaura Oenothera",
+        "rule": "Classic forms are often radial with showy 4-petaled flowers and many-seeded capsules; former-Gaura forms may be one-sided with exserted stamens and hard few-seeded fruit."
+      }
+    ],
+    "caveat": "Do not use flower color as the family ID; local species can be yellow, pink, white, or white aging pink/red.",
+    "diagnostic_photo_needs": [
+      "Oenothera triloba real side-view flower showing hypanthium and inferior ovary",
+      "Oenothera suffulta licensed installed hard-fruit photo; current reference path missing",
+      "Matched Onagraceae inferior versus Lythraceae superior ovary longitudinal sections"
+    ]
+  },
+  "curation_status": {
+    "version": "family-confusion-polish-20261008",
+    "last_reviewed": "2026-10-08",
+    "visual_lock": "family_comparison_text_complete_diagnostic_photos_pending"
+  },
+  "family_confusion_cleanup": {
+    "version": "1.0-family-confusion-polish",
+    "updated": "2026-10-08",
+    "field_question": "What exact floral or fruit structure confirms this family, and which nearby family could mimic it?",
+    "look_here_first": [
+      "Turn the flower sideways and trace the floral tube to the inferior ovary below the perianth.",
+      "Inspect 4-part floral plan and lobed stigma, allowing 4 or 8 stamens.",
+      "Confirm fruit as a capsule or modified hard indehiscent fruit in former-Gaura forms."
+    ],
+    "comparison_matrix": [
+      {
+        "confusable": "Lythraceae",
+        "separate": "Both can have a conspicuous floral tube and 4-part flowers; Onagraceae has inferior ovary whereas typical Lythraceae has superior ovary within a floral cup."
+      },
+      {
+        "confusable": "Rosaceae",
+        "separate": "Both may have a floral cup; use ovary position, carpel structure and fruit rather than tube alone."
+      },
+      {
+        "confusable": "Other four-petaled wildflowers",
+        "separate": "Count actual floral parts and locate ovary; four petals or pink/yellow color alone is not a family ID."
+      }
+    ],
+    "genus_routing_cues": [
+      "Oenothera radial forms: 4 broad petals, 4-lobed stigma, and often capsular fruits.",
+      "Former-Gaura Oenothera: asymmetric/one-sided flowers, long exserted stamens, hard few-seeded fruits.",
+      "Oenothera triloba: unusually long floral tube; check stamen count rather than assuming eight."
+    ],
+    "diagnostic_visual_roles": [
+      {
+        "priority": 1,
+        "shot": "labeled flower side-section: tube vs inferior ovary",
+        "status": "diagnostic_photo_polish_pending"
+      },
+      {
+        "priority": 1,
+        "shot": "matched Onagraceae/Lythraceae ovary cutaways",
+        "status": "diagnostic_photo_polish_pending"
+      },
+      {
+        "priority": 1,
+        "shot": "stigma lobes and 4-vs-8 stamen count macros",
+        "status": "diagnostic_photo_polish_pending"
+      },
+      {
+        "priority": 2,
+        "shot": "radial vs former-Gaura asymmetric flower pair",
+        "status": "diagnostic_photo_polish_pending"
+      },
+      {
+        "priority": 2,
+        "shot": "capsule vs hard indehiscent fruit with seeds",
+        "status": "diagnostic_photo_polish_pending"
+      }
+    ],
+    "exception_locks": [
+      "Do not rely on flower color or overall resemblance; confirm reproductive structures.",
+      "Treat individual genus characters as routing clues, not universal family definitions."
+    ],
+    "taxonomy_handoff": "No species range decisions changed; any uncertain species-level separator remains in Taxonomy + Diagnostic Review."
+  }
+}

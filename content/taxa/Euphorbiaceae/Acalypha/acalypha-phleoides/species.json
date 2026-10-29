@@ -1,0 +1,374 @@
+{
+  "id": "acalypha-phleoides",
+  "entry_type": "species",
+  "family": "Euphorbiaceae",
+  "genus": "Acalypha",
+  "species": "phleoides",
+  "scientific_name": "Acalypha phleoides",
+  "authority": "Cav.",
+  "common_name": "shrubby copperleaf",
+  "look_here_first": "LOOK HERE FIRST — Acalypha phleoides: erect PERENNIAL with hairy stems and ovate to rhombic-ovate SERRATE leaves; most importantly a TERMINAL bisexual flower spike with pistillate (FEMALE) bracts LOW on the same axis and male flowers HIGHER. Female bracts are loosely spaced (axis visible), normally 5–7 elongated TRIANGULAR lobes (sometimes 3–8) with occasional long stalked glands; pistillate styles are finely many-branched and often red. Contrast A. radians: rounded deeply CRENATE foliage, low spreading and DIOECIOUS separate-sex flowers; its crowded female bracts have about 8–10 spoon-shaped lobes. Contrast annual hophornbeam copperleaf A. persimilis (= A. ostryifolia): FEMALE spikes terminal but MALE spikes axillary and narrow comb-like bract lobes mostly 13–17. Use flower spike + bract morphology, not reddish color alone.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis",
+    "Kerr"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Corrected exact target-zone PASS: Hays, Travis, Kerr. Williamson is not counted toward the project threshold.",
+    "range_guardrail": "Exact project target-zone county evidence only; Williamson excluded from threshold."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial monoecious herb",
+      "rhombic-ovate to ovate serrate leaves",
+      "terminal bisexual spike",
+      "pistillate section below staminate section",
+      "loosely arranged 5–7-lobed pistillate bracts",
+      "conspicuous multifid styles"
+    ],
+    "comparison_training": "Acalypha radians is dioecious with rounded deeply crenate leaves and crowded deeply lobed pistillate bracts; A. persimilis is annual with different spike placement.",
+    "source_references": [
+      "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101511"
+    ]
+  },
+  "comparisons": {
+    "key_distinctions": "Acalypha phleoides: Erect perennial; SAME terminal spike female below male, female bracts spaced 5–7 triangular lobes | Acalypha radians: Low perennial, deeply crenate kidney leaves, DIOECIOUS, crowded female bracts 8–10 spatulate lobes | Acalypha persimilis / ostryifolia: Taller annual, female terminal/male axillary separate spikes, bracts 13–17 narrow linear lobes",
+    "confused_with": [
+      "Acalypha phleoides",
+      "Acalypha radians",
+      "Acalypha persimilis / ostryifolia"
+    ],
+    "field_matrix": [
+      {
+        "taxon": "Acalypha phleoides",
+        "split": "Erect perennial; SAME terminal spike female below male, female bracts spaced 5–7 triangular lobes"
+      },
+      {
+        "taxon": "Acalypha radians",
+        "split": "Low perennial, deeply crenate kidney leaves, DIOECIOUS, crowded female bracts 8–10 spatulate lobes"
+      },
+      {
+        "taxon": "Acalypha persimilis / ostryifolia",
+        "split": "Taller annual, female terminal/male axillary separate spikes, bracts 13–17 narrow linear lobes"
+      }
+    ],
+    "not_reliable_alone": [
+      "Leaf color or general hairiness",
+      "One flower or a single reproductive plant as proof of the whole species sex system",
+      "Estimating female bract lobes from an unfocused whole-plant image"
+    ]
+  },
+  "photo_strategy": {
+    "method": "FAST-FILL existing reviewed study-media handoff",
+    "visual_priority": "Use current exact-species study candidates where available; photo backfill may add stronger diagnostic macros later.",
+    "remaining_need": "Learner Photo Backfill visual polish is nonblocking."
+  },
+  "learner_role": "PROJECT_NATIVE",
+  "curation_status": {
+    "version": "1.2-acalypha-phleoides-cc0-four-arrows-20261021",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "visual_reviewed": true,
+    "visual_status": "FIELD_READY_PHOTO_GAPS: 5 exact-species local photos, 4 source-image verified arrow targets (upper male spike, lower female bracts, bract lobe, stalked gland). Direct female styles/capsule and matched other species bracts remain macro targets.",
+    "last_reviewed": "2026-10-21",
+    "photo_metadata_count": 5,
+    "photo_files_present": 5,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/acalypha-phleoides-provisional-face.jpg",
+      "role": "Recognize · branched low plant on rocky limestone with slender leaves and reddish terminal flower spikes",
+      "creator": "Gaiacoyote",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acalypha_phleoides_(1).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-201289425.jpg",
+      "role": "Look closer · dense reddish terminal spike with many minute pale projecting floral parts; sex-specific structures need independent macro review",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/201289425",
+      "observation_url": "https://www.inaturalist.org/observations/119095675",
+      "observation_id": "119095675",
+      "photo_id": "201289425",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/201289425/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-201289453.jpg",
+      "role": "Look closer · near-repeat view of reddish spike and small pale floral parts; useful for shape but not a distinct confirming structure",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/201289453",
+      "observation_url": "https://www.inaturalist.org/observations/119095675",
+      "observation_id": "119095675",
+      "photo_id": "201289453",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/201289453/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/commons-gaiacoyote-cc0-mixed-spike.jpg",
+      "role": "Terminal bisexual spike: visible upper male flowering portion and lower female bracts",
+      "creator": "Gaiacoyote",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acalypha_phleoides_(2).jpg",
+      "downloaded_from": "https://upload.wikimedia.org/wikipedia/commons/3/39/Acalypha_phleoides_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_dimensions": [
+        540,
+        528
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "modifications": "JPEG recompression with EXIF/GPS removed, no artificial content",
+      "photo_review": "Original photo-specific Commons exact taxon, author, CC0 and image bytes verified; no additional photo arrow without pixel review"
+    },
+    {
+      "file": "images/commons-gaiacoyote-cc0-female-bracts.jpg",
+      "role": "Female bracts with sharp broad teeth and stalked gland hairs",
+      "creator": "Gaiacoyote",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acalypha_phleoides_(3).jpg",
+      "downloaded_from": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Acalypha_phleoides_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "image_dimensions": [
+        540,
+        356
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "modifications": "JPEG recompression with EXIF/GPS removed, no artificial content",
+      "photo_review": "Original photo-specific Commons exact taxon, author, CC0 and image bytes verified; no additional photo arrow without pixel review"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "learner_fast_fill",
+    "image_count": 5,
+    "filled_at": "2026-10-05",
+    "note": "Species field-key upgraded while preserving original source photo rights; precision reproductive macros still missing."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Installed physically verified two CC0 Gaiacoyote reproductive closeups 2026-10-21.",
+  "photo_diagnostic_lesson": {
+    "title": "Shrubby copperleaf — one mixed terminal spike",
+    "steps": [
+      {
+        "stage": "1 — FIND TERMINAL SPIKE",
+        "look": "Terminal mixed spike",
+        "what": "Check for a spike at tip of upright stem; the lower part should contain female bracts, upper part male flowers."
+      },
+      {
+        "stage": "2 — LOOK LOWER",
+        "look": "Spaced bracts with 5–7 pointed lobes",
+        "what": "With lens follow rachis through lower portion; individual bracts do not completely hide the axis."
+      },
+      {
+        "stage": "3 — LOOK HIGHER",
+        "look": "Small staminate flowers on the same axis",
+        "what": "Photograph upper fertile segment and the lower bract-bearing segment together; male pollen/anthers are NOT female stigmas."
+      },
+      {
+        "stage": "4 — STUDY STYLES",
+        "look": "Fine branched often reddish female styles",
+        "what": "Closeup female bracts and styles with scale, not merely red hairs."
+      },
+      {
+        "stage": "5 — COMPARE",
+        "look": "Not rounded-leaved dioecious radians",
+        "what": "Radian's female bracts densely overlap and its leaf margin deeply scalloped; do not infer separate-sex plant from one closeup."
+      }
+    ],
+    "memory_rule": "Terminal mixed spike → Spaced bracts with 5–7 pointed lobes → Small staminate flowers on the same axis"
+  },
+  "visual_comparison": {
+    "title": "Shrubby copperleaf — three field views plus two verified CC0 flower-anatomy panels",
+    "subtitle": "Five recorded local images, two true CC0 reproductive closeups, FOUR new pixel-targeted anatomy arrows on Gaiacoyote original photographs; inherited Joey views remain unannotated pending separate full-resolution review.",
+    "items": [
+      {
+        "label": "1 · whole-plant recognition",
+        "scientific_name": "Acalypha phleoides",
+        "image_url": "content/taxa/Euphorbiaceae/Acalypha/acalypha-phleoides/images/acalypha-phleoides-provisional-face.jpg",
+        "image_fit": "contain",
+        "creator": "Gaiacoyote",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acalypha_phleoides_(1).jpg",
+        "image_role": "Recognize · branched low plant on rocky limestone with slender leaves and reddish terminal flower spikes",
+        "caption": "Existing exact-source photograph; useful for recognition, but female-bract lobe number and plant sex are not asserted without a visible structure.",
+        "why_it_matters": "Real photo for field comparison; pending precise anatomy review.",
+        "markers": []
+      },
+      {
+        "label": "2 · existing additional source view",
+        "scientific_name": "Acalypha phleoides",
+        "image_url": "content/taxa/Euphorbiaceae/Acalypha/acalypha-phleoides/images/joey-inat-201289425.jpg",
+        "image_fit": "contain",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC 4.0",
+        "source_page": "https://www.inaturalist.org/photos/201289425",
+        "image_role": "Look closer · dense reddish terminal spike with many minute pale projecting floral parts; sex-specific structures need independent macro review",
+        "caption": "Existing exact-source photograph; useful for recognition, but female-bract lobe number and plant sex are not asserted without a visible structure.",
+        "why_it_matters": "Real photo for field comparison; pending precise anatomy review.",
+        "markers": []
+      },
+      {
+        "label": "3 · existing additional source view",
+        "scientific_name": "Acalypha phleoides",
+        "image_url": "content/taxa/Euphorbiaceae/Acalypha/acalypha-phleoides/images/joey-inat-201289453.jpg",
+        "image_fit": "contain",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC 4.0",
+        "source_page": "https://www.inaturalist.org/photos/201289453",
+        "image_role": "Look closer · near-repeat view of reddish spike and small pale floral parts; useful for shape but not a distinct confirming structure",
+        "caption": "Existing exact-source photograph; useful for recognition, but female-bract lobe number and plant sex are not asserted without a visible structure.",
+        "why_it_matters": "Real photo for field comparison; pending precise anatomy review.",
+        "markers": []
+      },
+      {
+        "label": "CC0 verified flower anatomy: mixed-sex spike",
+        "scientific_name": "Acalypha phleoides",
+        "image_url": "content/taxa/Euphorbiaceae/Acalypha/acalypha-phleoides/images/commons-gaiacoyote-cc0-mixed-spike.jpg",
+        "image_fit": "contain",
+        "creator": "Gaiacoyote",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acalypha_phleoides_(2).jpg",
+        "image_role": "Actually visible proximal female bracts and distal narrow male flowers in terminal mixed spike",
+        "caption": "SOURCE PHOTO VERIFIED: Gaiacoyote CC0 exact A. phleoides original 540×528 image. Upper narrow curving staminate segment (male) vs. lower foliaceous bracts surrounding pistillate flowers (female), both on ONE terminal spike. Arrow targets inspected against original; fine style branch count NOT claimed.",
+        "why_it_matters": "A real diagnostic reproductive closeup, replacing vague shape-only comparisons.",
+        "markers": [
+          {
+            "label": "Upper male-flower axis",
+            "label_x": 58,
+            "label_y": 4,
+            "target_x": 70,
+            "target_y": 14
+          },
+          {
+            "label": "Lower female bract",
+            "label_x": 2,
+            "label_y": 82,
+            "target_x": 42,
+            "target_y": 70
+          }
+        ]
+      },
+      {
+        "label": "CC0 verified flower anatomy: female bract glands",
+        "scientific_name": "Acalypha phleoides",
+        "image_url": "content/taxa/Euphorbiaceae/Acalypha/acalypha-phleoides/images/commons-gaiacoyote-cc0-female-bracts.jpg",
+        "image_fit": "contain",
+        "creator": "Gaiacoyote",
+        "license": "CC0 1.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Acalypha_phleoides_(3).jpg",
+        "image_role": "Enlarging female bract lobes and marginal stalked glands, not leaf-blade teeth",
+        "caption": "SOURCE PHOTO VERIFIED: CC0 Gaiacoyote original 540×356 shows pointed lobes of enlarged FEMALE bracts and minute dark gland-heads on stalks. Arrows mark an actual bract lobe and an edge gland, NOT pistillate style branches or mature fruit.",
+        "why_it_matters": "A real diagnostic reproductive closeup, replacing vague shape-only comparisons.",
+        "markers": [
+          {
+            "label": "Female bract lobe",
+            "label_x": 3,
+            "label_y": 9,
+            "target_x": 31,
+            "target_y": 27
+          },
+          {
+            "label": "Stalked gland",
+            "label_x": 2,
+            "label_y": 83,
+            "target_x": 23,
+            "target_y": 49
+          }
+        ]
+      }
+    ],
+    "memory_rule": "Locate the position and sex of flower spikes, then magnify FEMALE BRACT teeth.",
+    "annotation_status": "Original 540×528 and 540×356 CC0 images viewed at source resolution. Two mixed-spike arrows and two female-bract/gland arrows target actual visible organs; photo body is identical aspect to uncropped stored JPEG; owner mobile position QA remains pending.",
+    "part_examples": [
+      {
+        "title": "Same entire terminal axis showing male ABOVE female",
+        "role": "Same entire terminal axis showing male ABOVE female",
+        "status": "needs_photo",
+        "look_for": "male fertile portion above female bract-bearing segment",
+        "why_it_matters": "Decisive reproductive layout"
+      },
+      {
+        "title": "5–7 narrow triangular female bract lobes with axis gaps",
+        "role": "5–7 narrow triangular female bract lobes with axis gaps",
+        "status": "needs_photo",
+        "look_for": "measure a bract; identify margin lobes and axis",
+        "why_it_matters": "Most important direct comparison with radians"
+      },
+      {
+        "title": "Actual style branches vs gland-bearing bract",
+        "role": "Actual style branches vs gland-bearing bract",
+        "status": "needs_photo",
+        "look_for": "separate red styles from pedicellate glands",
+        "why_it_matters": "Avoid confusing reproductive structures"
+      }
+    ]
+  },
+  "field_photo_quickcheck": {
+    "heading": "Shrubby copperleaf — one mixed terminal spike",
+    "featured_photo_indices": [
+      0,
+      1,
+      2
+    ],
+    "steps": [
+      "Check for a spike at tip of upright stem; the lower part should contain female bracts, upper part male flowers.",
+      "With lens follow rachis through lower portion; individual bracts do not completely hide the axis.",
+      "Photograph upper fertile segment and the lower bract-bearing segment together; male pollen/anthers are NOT female stigmas.",
+      "Closeup female bracts and styles with scale, not merely red hairs.",
+      "Radian's female bracts densely overlap and its leaf margin deeply scalloped; do not infer separate-sex plant from one closeup."
+    ],
+    "field_rule": "LOOK HERE FIRST — Acalypha phleoides: erect PERENNIAL with hairy stems and ovate to rhombic-ovate SERRATE leaves; most importantly a TERMINAL bisexual flower spike with pistillate (FEMALE) bracts LOW on the same axis and male flowers HIGHER. Female bracts are loosely spaced (axis visible), normally 5–7 elongated TRIANGULAR lobes (sometimes 3–8) with occasional long stalked glands; pistillate styles are finely many-branched and often red. Contrast A. radians: rounded deeply CRENATE foliage, low spreading and DIOECIOUS separate-sex flowers; its crowded female bracts have about 8–10 spoon-shaped lobes. Contrast annual hophornbeam copperleaf A. persimilis (= A. ostryifolia): FEMALE spikes terminal but MALE spikes axillary and narrow comb-like bract lobes mostly 13–17. Use flower spike + bract morphology, not reddish color alone.",
+    "warning": "Only full spike and magnified bracts can confirm the 5–7 pointed lobes; existing Joey closeups not independently tissue-labeled in this pass.",
+    "owner_mobile_review": "PENDING"
+  },
+  "diagnostic_photo_targets": [
+    {
+      "role": "Same entire terminal axis showing male ABOVE female",
+      "status": "PHOTO_INSTALLED_WITH_ARROWS_DETAIL_COUNT_UNPROVEN"
+    },
+    {
+      "role": "5–7 narrow triangular female bract lobes with axis gaps",
+      "status": "PHOTO_INSTALLED_WITH_ARROWS_DETAIL_COUNT_UNPROVEN"
+    },
+    {
+      "role": "Actual style branches vs gland-bearing bract",
+      "status": "NEEDS_LICENSED_VERIFIED_MACRO"
+    }
+  ]
+}

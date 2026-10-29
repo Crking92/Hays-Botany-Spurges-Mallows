@@ -1,0 +1,15 @@
+
+PROVISIONAL GBIF EXACT-SPECIMEN FIRST PHOTO 2026-10-15T13:06:24.687176+00:00
+Oenothera patriciae W.L.Wagner & Hoch
+Laura Tancredi
+CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+https://www.gbif.org/occurrence/1675768299
+https://collections.nmnh.si.edu/media/?i=12630331&h=2000
+Anatomy visual verification pending; no scientific taxon/range status changed.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:53:55.608078+00:00
+Oenothera patriciae W.L.Wagner & Hoch
+https://www.gbif.org/occurrence/1453538391
+Andy Newman | CC BY-NC http://creativecommons.org/licenses/by-nc/4.0/
+Target visual view (NOT YET verified): Gaura-type flower side-view showing long stamens/style, narrow hairy foliage, fruit
+No anatomy arrows; no scientific or native-range changes.

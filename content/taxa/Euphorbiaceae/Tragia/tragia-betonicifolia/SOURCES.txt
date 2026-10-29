@@ -1,0 +1,17 @@
+PHOTO FAST-FILL 049 — Tragia betonicifolia
+Date: 2026-10-06
+Source: https://w3.biosci.utexas.edu/prc/specimens/Euphorbiaceae.html
+Direct image: https://w3.biosci.utexas.edu/prc/specimens/img/147TragiBetxxx00036263.JPG
+Source attribution: UT Plant Resources Center / University of Texas Herbarium
+License/reuse: unverified
+Study use: yes
+Public reuse: review
+Role: whole voucher / leaf and inflorescence reference
+Media only; scientific status unchanged.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:37:03.298890+00:00
+Tragia betonicifolia Nutt.
+https://www.gbif.org/occurrence/4904243122
+Nathan Aaron | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Leaf bases, male-flower distal cluster and pedicel bases, fine stinging hairs
+No anatomy arrows; no scientific or native-range changes.

@@ -1,0 +1,296 @@
+{
+  "id": "croton-lindheimeri",
+  "entry_type": "species",
+  "family": "Euphorbiaceae",
+  "genus": "Croton",
+  "species": "lindheimeri",
+  "scientific_name": "Croton lindheimeri",
+  "authority": "(Engelm. & A.Gray) Alph.Wood",
+  "common_name": "Lindheimer's doveweed",
+  "other_common_names": [
+    "Woolly croton"
+  ],
+  "synonyms": [
+    "Croton capitatus var. lindheimeri (Engelm. & A.Gray) Müll.Arg."
+  ],
+  "taxonomic_note": "Accepted as a distinct species by current POWO and Flora of North America. Older Central Texas material commonly appears under Croton capitatus var. lindheimeri.",
+  "look_here_first": "LOOK HERE FIRST — LINDHEIMER'S DOVEWEED / WOOLLY CROTON: a robust MONOECIOUS annual with young yellow-brown (ochraceous) woolly hairs, predominantly ACUTE leaf tips and some rounded or heart-shaped leaf bases. The key distinction from true C. capitatus is in FEMALE flowers: 7–8 long woolly sepals (about 5–7 mm) with tips STRAIGHT or only slightly INCURVED, NOT flaring strongly outward after flowering. Three styles branch twice, often 12 terminal branches. The source-licensed existing habit and flowering photos cannot confirm actual mature sepal posture; keep this image gap. Do not confuse C. lindheimeri with C. lindheimerianus, the much smaller low annual with short female sepals and only SIX style ends.",
+  "county_occurrences_target_zone": [
+    "Travis"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Travis is locked under the modern species concept through synonym-reconciled herbarium evidence. Williamson evidence is outside the project target zone and is not counted.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Learner admission is independent from native-range certification. Preserve the one-county HOLD."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "annual monoecious herb",
+      "ochraceous yellow-brown pubescence on young growth",
+      "ovate-lanceolate leaves with consistently acute tips",
+      "pistillate sepals usually 7–8",
+      "pistillate sepals yellowish woolly-tomentose",
+      "sepal tips straight to slightly incurved rather than recurved outward",
+      "three styles repeatedly divided"
+    ],
+    "comparison_training": "Separate from true C. capitatus with young pubescence color, consistently acute leaves, and non-recurving pistillate sepals."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Croton capitatus",
+      "Croton heptalon (comparison-only; historically confused)",
+      "Croton lindheimerianus",
+      "Croton fruticulosus"
+    ],
+    "key_distinctions": "C. lindheimeri tends toward ochraceous young growth, acute leaf tips, female sepals 5–7 mm whose tips stay straight to slightly incurved, with styles divided TWICE (often 12 ends). Strict C. capitatus often has SOME blunt/mucronate leaves and female sepals 7–10 mm that flare outward/recurve at or after anthesis. In contrast C. lindheimerianus is a smaller low-branched annual with 3 mm pistillate sepals and styles only once-forked (six ends). Similar color/fuzz alone does not identify any species.",
+    "field_matrix": [
+      {
+        "character": "Female sepals",
+        "lindheimeri": "5–7 mm; straight/slightly incurved at tips",
+        "capitatus": "7–10 mm (to 15 mm in fruit); flared and recurved outward"
+      },
+      {
+        "character": "Leaf apex",
+        "lindheimeri": "Mostly consistently sharp/acute",
+        "capitatus": "Some blunt or mucronate tips may occur"
+      },
+      {
+        "character": "Hair of new growth",
+        "lindheimeri": "Ochraceous/yellow-brown wool when young",
+        "capitatus": "Often paler/whitish; strong overlap"
+      },
+      {
+        "character": "Styles",
+        "lindheimeri": "Three styles each divided twice = often twelve tips",
+        "capitatus": "Three styles divided 2–3 times = commonly 12–18 (sometimes more); not a consistent split"
+      },
+      {
+        "character": "Historical name",
+        "lindheimeri": "Croton capitatus var. lindheimeri maps here",
+        "capitatus": "Do not include synonym-variety records as strict capitatus"
+      }
+    ],
+    "not_reliable_alone": [
+      "Young wool color, which varies with light and age",
+      "A single sharp-tipped leaf",
+      "An open male flower; compare actual FEMALE sepals",
+      "The label 'C. capitatus var. lindheimeri' on an older herbarium specimen"
+    ]
+  },
+  "tags": [
+    "Euphorbiaceae",
+    "Croton",
+    "Lindheimer's doveweed",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.1-lindheimeri-woolly-comparison-20261021",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-21",
+    "photo_metadata_count": 3,
+    "photo_files_present": 2,
+    "glass_root_garden_photo_install": "2026-10-14",
+    "joey_inat_photo_install": "2026-10-15",
+    "visual_status": "FIELD_READY_PHOTO_GAPS / RANGE_HOLD: source-licensed habit photo lesson; no verified mature pistillate sepal macro; excludes private-only owner photo from public panels."
+  },
+  "diagnostic_image_needs": [
+    "young ochraceous pubescence",
+    "acute leaf tips",
+    "pistillate sepals at mature fruit",
+    "whole robust habit",
+    "direct C. capitatus comparison"
+  ],
+  "photo_note": "One CC BY 4.0 remotely hosted habit and leaf photograph; pistillate sepal macro still needed. Private owner-authorized Glass Root Garden photo physically installed 2026-10-14; source API rights retained separately. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending.",
+  "images": [
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Croton_lindheimeri.jpg/576px-Croton_lindheimeri.jpg",
+      "role": "Habit, narrow acute-tipped leaves and hairy shoots",
+      "creator": "Alison Northup",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Croton_lindheimeri.jpg",
+      "source_record_id": "iNaturalist photo 96147802",
+      "study_use": true,
+      "public_reuse": true
+    },
+    {
+      "file": "images/glass-root-707831621-first-photo.jpg",
+      "role": "Gray-hairy leaves and terminal flower clusters; close-up stellate hairs and fruit still needed",
+      "creator": "Glass Root Garden",
+      "license": "Owner-authorized private study",
+      "license_basis": "Direct photo-owner permission in project chat, 2026-10-14, for private learner use. Original API null license and all-rights-reserved attribution retained separately; no public CC grant inferred.",
+      "license_url": "https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/glass-root-inat/OWNER_PERMISSION_2026-10-14.md",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/707831621",
+      "observation_url": "https://www.inaturalist.org/observations/386583995",
+      "observation_id": 386583995,
+      "photo_id": 707831621,
+      "source_recorded_photo_license_at_download": "none_recorded",
+      "source_recorded_photo_attribution_at_download": "(c) Calvin King, all rights reserved",
+      "downloaded_from": "https://static.inaturalist.org/photos/707831621/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "photo_review": "Exact Research Grade observation checked; image visually inspected; first-pass recognition only.",
+      "anatomy_arrows": "none; detailed anatomy pending"
+    },
+    {
+      "file": "images/joey-inat-428021910.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/428021910",
+      "observation_url": "https://www.inaturalist.org/observations/240258220",
+      "observation_id": "240258220",
+      "photo_id": "428021910",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/428021910/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps_range_hold",
+    "mode": "learner_fast_fill",
+    "image_count": 3,
+    "note": "Public-safe candidate views; decisive female sepal macro missing; one Glass Root Garden private-use-only photo excluded from public panels."
+  },
+  "photo_diagnostic_lesson": {
+    "title": "Woolly croton: Lindheimer's without outward-flaring female sepals",
+    "steps": [
+      {
+        "stage": "1 — RECOGNIZE THE ANNUAL",
+        "look": "Robust annual with a main shoot and hairy branches, not persistently woody",
+        "what": "Do not mistake its tall annual habit for shrub C. fruticulosus."
+      },
+      {
+        "stage": "2 — STUDY YOUNG WOOL",
+        "look": "Ochraceous golden-brown young stellate hairs",
+        "what": "Supports a tentative Lindheimer's ID; hue alone does not split it from C. capitatus."
+      },
+      {
+        "stage": "3 — LEAF APEX",
+        "look": "Mostly sharply acute leaf tips, variable rounded to heart-shaped bases",
+        "what": "Compare several mature and upper leaves rather than one. Not every leaf is diagnostic."
+      },
+      {
+        "stage": "4 — FIND A FEMALE FLOWER",
+        "look": "5–7 mm persistent woolly sepals, mostly straight or slightly turned inward",
+        "what": "Take side view at anthesis and fruit. True C. capitatus typically shows long sepals flaring outward or recurved."
+      },
+      {
+        "stage": "5 — DON'T COUNT MALE STAMENS",
+        "look": "Female styles branch twice to around twelve ultimate tips",
+        "what": "Only true exposed pistillate flowers allow this. Existing photo views do not count the tips."
+      }
+    ],
+    "memory_rule": "LINDHEIMER'S: acute leaves + ochraceous young wool + female sepal tips that DON'T FLARE OUT."
+  },
+  "visual_comparison": {
+    "title": "Lindheimer's woolly croton — useful habit, female-sepal macro not yet proven",
+    "subtitle": "Source-attributed CC BY Wikimedia photograph and exact-species Joey CC BY-NC noncommercial photograph. Private-only owner photo is intentionally excluded; no invented microscopic arrows.",
+    "items": [
+      {
+        "label": "1 · Woolly Lindheimer's croton — Alison Northup",
+        "scientific_name": "Croton lindheimeri",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Croton_lindheimeri.jpg/576px-Croton_lindheimeri.jpg",
+        "image_fit": "contain",
+        "creator": "Alison Northup",
+        "license": "CC BY 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Croton_lindheimeri.jpg",
+        "image_role": "Species-identified woolly leaf and flowering habit; mature female sepal posture unverified",
+        "caption": "Recognize the hairy foliage and general annual habit. The deciding mature pistillate sepal orientation is not resolved.",
+        "why_it_matters": "Helps recognize the candidate without promoting an unverified taxon trait.",
+        "markers": []
+      },
+      {
+        "label": "2 · Lindheimer's woolly croton — Joey Santore",
+        "scientific_name": "Croton lindheimeri",
+        "image_url": "content/taxa/Euphorbiaceae/Croton/croton-lindheimeri/images/joey-inat-428021910.jpg",
+        "image_fit": "contain",
+        "creator": "Joey Santore",
+        "license": "CC BY-NC 4.0",
+        "source_page": "https://www.inaturalist.org/photos/428021910",
+        "image_role": "Exact-source licensed additional view; anatomy/photo role remains unverified",
+        "caption": "Additional exact-observation comparison. Do not claim an individual female sepal or 12 style ends without a full-resolution diagnostic check.",
+        "why_it_matters": "Provides a second real view while the female-flower macro is missing.",
+        "markers": []
+      }
+    ],
+    "memory_rule": "DO NOT diagnose from wool alone; acute leaves help, mature female sepals are decisive.",
+    "annotation_status": "No anatomy arrows placed where species-specific structures are not reliably resolved. Source image 2 licensed CC BY-NC for this noncommercial educational site; publication still passes rights filter.",
+    "part_examples": [
+      {
+        "title": "Young ochraceous hairs",
+        "role": "supporting character",
+        "status": "needs_photo",
+        "look_for": "Fine hairs on actively growing apex with true color reference",
+        "why_it_matters": "Supporting only; overlaps true capitatus."
+      },
+      {
+        "title": "Female sepals NOT recurved outward",
+        "role": "decisive comparison",
+        "status": "needs_photo",
+        "look_for": "Mature pistillate sepals side-on, ruler",
+        "why_it_matters": "The highest-confidence separation from strict capitatus."
+      }
+    ]
+  },
+  "field_photo_quickcheck": {
+    "heading": "Croton lindheimeri: actual female sepal posture determines the split",
+    "featured_photo_indices": [
+      0,
+      1
+    ],
+    "steps": [
+      "Observe a robust woolly annual with acute foliage.",
+      "Check young shoot hairs: often ochraceous rather than clean-white, but not decisive.",
+      "Find pistillate flowers and compare sepal tips at anthesis and mature fruit: STRAIGHT/SLIGHTLY INWARD.",
+      "Photograph clear leaf apices and bases with a scale; compare strict C. capitatus.",
+      "Do not count old C. capitatus var. lindheimeri reports as true C. capitatus."
+    ],
+    "field_rule": "Ochraceous young wool + predominantly acute leaves + female sepals NOT outward-recurved supports C. lindheimeri.",
+    "warning": "Current images do not independently prove sepal orientation or ultimate style-tip counts. Preserve county native-range hold.",
+    "owner_mobile_review": "PENDING"
+  },
+  "diagnostic_photo_targets": [
+    {
+      "role": "Female sepal position near anthesis and fruit: 5–7 mm, straight to slightly incurved",
+      "status": "NEEDS_EXACT_SPECIES_LICENSED_MACRO"
+    },
+    {
+      "role": "Head-to-head female C. lindheimeri vs strict C. capitatus same stage",
+      "status": "NEEDS_VERIFIED_COMPARISON_PAIR"
+    },
+    {
+      "role": "Young ochraceous hairs and acute leaf tips in adequate light",
+      "status": "NEEDS_PHOTO_REVIEW"
+    }
+  ]
+}

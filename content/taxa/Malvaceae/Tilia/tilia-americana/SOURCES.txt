@@ -1,0 +1,9 @@
+Source pool Phase3 accepted/preflight candidate; source row(s) 1176, 1177.
+Taxonomy working-name reference https://powo.science.kew.org/results?q=Tilia%20americana
+Exact source photograph https://commons.wikimedia.org/wiki/File:Tilia_americana.jpg
+Direct photo download https://commons.wikimedia.org/wiki/Special:Redirect/file/Tilia%20americana.jpg
+Original photo creator Patrick Brown
+Photo file-level license CC BY-SA 4.0
+Provisional photo role Provisional leaf and fruit-bearing bract recognition; twig and flower details remain incomplete.
+Caution Toronto photograph, no inference about Hays County nativity. Preserve regional local range screening.
+No county nativity inference. Photo shows nonlocal or cultivated material when noted; do not claim locally native provenance.

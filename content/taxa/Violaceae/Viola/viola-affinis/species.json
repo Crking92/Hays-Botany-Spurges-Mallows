@@ -1,0 +1,37 @@
+{
+  "id": "viola-affinis",
+  "family": "Violaceae",
+  "genus": "Viola",
+  "species": "affinis",
+  "scientific_name": "Viola affinis",
+  "common_name": "Sand violet / blue violet",
+  "look_here_first": "Look for low spring violets with heart-shaped leaves and blue-purple five-petaled irregular flowers; inspect spur shape, petal hairs, leaf pubescence and calyx to separate similar violets.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Viola%20affinis",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "identification_caution": "Viola species and subspecies can be hard to distinguish; source from Wisconsin, verify local taxonomy before final visual ID.",
+  "images": [
+    {
+      "file": "images/commons-viola-affinis.jpg",
+      "role": "Provisional violet flowering view; petal hairs, spur and leaf undersides need closeups.",
+      "creator": "Joshua Mayer (wackybadger)",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Viola_affinis_(4585479901).jpg",
+      "study_use": "Noncommercial plant visual field learner",
+      "public_reuse": "Attribution to creator and source and ShareAlike requirements for adaptations"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

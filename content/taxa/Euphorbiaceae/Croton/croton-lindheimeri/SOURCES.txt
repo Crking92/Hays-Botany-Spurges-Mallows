@@ -1,0 +1,37 @@
+# Curation sources — Croton lindheimeri
+Reviewed through 2026-10-06
+Scientific status: UNRESOLVED RANGE HOLD
+Learner admission: APPROVED
+
+Taxonomy
+Plants of the World Online:
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60450445-2
+
+Legacy synonym
+Croton capitatus var. lindheimeri:
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:70003-2
+
+Morphology
+Flora of North America:
+https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250102011
+
+Exact project range
+Travis is retained under the current species concept.
+Williamson is outside the project's target-county list and is not counted.
+
+Project draft:
+research-drafts/croton-lindheimeri/draft.json
+
+Decision
+Install for private learner use while preserving RANGE HOLD.
+
+OWNER-AUTHORIZED PRIVATE PHOTO, 2026-10-14
+Glass Root Garden; https://www.inaturalist.org/photos/707831621; observation 386583995.
+Direct photo-owner permission in project chat, 2026-10-14, for private learner use. Original API null license and all-rights-reserved attribution retained separately; no public CC grant inferred.
+Source API license: none_recorded; public_reuse=no. EXIF/GPS stripped.
+
+JOEY SANTORE PROVISIONAL FIRST-PASS PHOTO 2026-10-15T10:25:04.300390+00:00
+Photo: Joey Santore; CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+https://www.inaturalist.org/photos/428021910
+https://www.inaturalist.org/observations/240258220
+Noncommercial educational use with credit; actual diagnostic structure not yet verified. EXIF/GPS stripped.

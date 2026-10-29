@@ -1,0 +1,25 @@
+PHOTO FAST-FILL 044 — Croton fruticulosus
+Date: 2026-10-06
+Temporary one-photo learner coverage from an exact-species UT Austin BIO406D PlantPics image already retained and user-approved in project research.
+Source: https://www.bio.utexas.edu/courses/bio406d/images/pics/eup/croton_fruticulosus.htm
+Direct image: https://www.bio.utexas.edu/courses/bio406d/images/pics/eup/Croton%20fruticulosus%20maleflw.jpg
+Source attribution: UT Austin BIO406D PlantPics
+Individual photographer: not stated in retained provenance
+License/reuse: unverified
+Study use: yes
+Public reuse: review
+Role: male flowers + leaf/stem close-up
+Keep until stronger licensed diagnostic gallery coverage replaces or supplements it.
+Media only; scientific status unchanged.
+
+GLASS ROOT GARDEN DIRECT-PHOTOGRAPHER PHOTO INSTALL (2026-10-14)
+Public learner credit: Glass Root Garden. CC BY 4.0 licensed directly by photographer.
+iNaturalist observation/photo links and image files:
+- 573059048 https://www.inaturalist.org/photos/573059048 | 317149183 | images/glass-root-garden-573059048-leaf-shoot.jpg
+- 623379901 https://www.inaturalist.org/photos/623379901 | 342332092 | images/glass-root-garden-623379901-branch.jpg
+Original iNaturalist photo license state, when different, is retained in species images[] provenance; do not attribute the owner grant to iNaturalist.
+
+2026-10-21 TWO COMMONS GAIACOYOTE CC0 EXACT-SPECIES PHOTO ENRICHMENT
+File:Croton fruticulosus (2).jpg / CC0 1.0 / photographer Gaiacoyote
+File:Croton fruticulosus (3).jpg / CC0 1.0 / photographer Gaiacoyote
+License individually checked against Wikimedia Commons imageinfo before download. No change to target-zone nativity or taxonomy.

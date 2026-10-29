@@ -1,0 +1,123 @@
+{
+  "id": "sphaeralcea-lindheimeri",
+  "entry_type": "species",
+  "family": "Malvaceae",
+  "genus": "Sphaeralcea",
+  "species": "lindheimeri",
+  "scientific_name": "Sphaeralcea lindheimeri",
+  "authority": "A.Gray",
+  "common_name": "woolly globemallow",
+  "look_here_first": "Decumbent whitish stems, unusually soft long pubescence, distinctly white/silvery lower leaf surfaces, and red to red-pink flowers.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "native_range_status": "UNRESOLVED",
+  "learner_admission_status": "APPROVED",
+  "learner_admission_basis": "approved_source_pool_membership",
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "POWO supports Texas nativity at state scale, while FNA describes the species as usually near the Texas coast. No exact project target-zone county is currently locked.",
+    "range_guardrail": "Retained because it is in the approved source pool; label range unresolved and do not count it as confirmed target-zone native."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial with decumbent stems",
+      "long soft woolly pubescence",
+      "deltate-ovate leaves unlobed or shallowly 3-lobed",
+      "white to silvery leaf undersides",
+      "broadly crenate margins",
+      "red to red-pink mallow flowers"
+    ],
+    "comparison_training": "Use the very soft long hairs, silvery abaxial surface, decumbent habit, and distribution together; flower color alone is not enough."
+  },
+  "comparisons": {
+    "key_distinctions": "Use the very soft long hairs, silvery abaxial surface, decumbent habit, and distribution together; flower color alone is not enough."
+  },
+  "photo_strategy": {
+    "method": "LEARNER FAST-FILL — science-first install",
+    "visual_priority": "Install learner card now; route exact-species project/user/Joey or licensed external media through Learner Photo Backfill.",
+    "remaining_need": "Habit, reproductive structure, and diagnostic close-up when practical."
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "curation_status": {
+    "version": "1.0-source-pool-fast-fill",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "learner_admission_approved": true,
+    "visual_reviewed": false,
+    "visual_status": "photo-backfill-pending",
+    "last_reviewed": "2026-10-05",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/sphaeralcea-lindheimeri-provisional-face.jpg",
+      "role": "Coral-red flower + silvery woolly foliage / recognizable face",
+      "creator": "Lone Star Nursery (source attribution; individual photographer not stated)",
+      "license": "reuse rights unverified",
+      "source_page": "https://lonestarnursery.com/products/globemallow-woolly",
+      "study_use": "yes",
+      "public_reuse": "review"
+    },
+    {
+      "file": "images/joey-inat-357354000.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/357354000",
+      "observation_url": "https://www.inaturalist.org/observations/202347429",
+      "observation_id": "202347429",
+      "photo_id": "357354000",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/357354000/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-357354015.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/357354015",
+      "observation_url": "https://www.inaturalist.org/observations/202347429",
+      "observation_id": "202347429",
+      "photo_id": "357354015",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/357354015/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}

@@ -1,0 +1,156 @@
+{
+  "id": "malvaviscus-arboreus-var-drummondii",
+  "entry_type": "species",
+  "family": "Malvaceae",
+  "genus": "Malvaviscus",
+  "species": "arboreus",
+  "variety": "drummondii",
+  "scientific_name": "Malvaviscus arboreus var. drummondii",
+  "authority": "(Torr. & A.Gray) Schery",
+  "common_name": "Turk's cap / Drummond wax mallow",
+  "synonyms": [
+    "Malvaviscus drummondii Torr. & A.Gray",
+    "Pavonia drummondii (Torr. & A.Gray) Torr. & A.Gray"
+  ],
+  "taxonomic_note": "Current Kew/POWO and ITIS accept Malvaviscus arboreus var. drummondii at variety rank. Joey's source overlay uses Malvaviscus arboreus; the project reconciles the local Central Texas plant to var. drummondii.",
+  "look_here_first": "Look for the flower architecture: five red petals remain tightly furled rather than spreading flat, while the staminal column and style project conspicuously beyond them. Then confirm the stellate-hairy, cordate to shallowly 3-lobed leaves.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "2026-10-14 corrected two-county status: Hays, Travis inside 24-county zone; Williamson outside. Third accepted native county not yet established. Original evidence retained in range_audit.",
+    "range_guardrail": "The local Joey frame is morphology evidence, not the sole native-range basis.",
+    "range_audit": {
+      "date": "2026-10-14",
+      "prior_classification": "PASS",
+      "decision": "UNRESOLVED",
+      "valid_target_counties": [
+        "Hays",
+        "Travis"
+      ],
+      "excluded_counties": [
+        "Williamson"
+      ],
+      "confidence": "high for target-zone membership; historic county-locality citations retained, not independently re-vouchered",
+      "reason": "Third project county not actually verified. Does not mean native absence from other target counties.",
+      "original_range_basis": "Hays — project Hays-local source pool records Malvaviscus arboreus var. drummondii as local/native. Travis — UT Plant Resources Center Travis County Malvaceae specimen index includes var. drummondii. Williamson — UT Plant Resources Center provides a detailed Vascular Plants of Williamson County treatment.",
+      "source_document": "content/taxa/Malvaceae/Malvaviscus/malvaviscus-arboreus-var-drummondii/SOURCES.txt"
+    },
+    "native_range_last_reviewed": "2026-10-14"
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "many-stemmed native shrub",
+      "alternate cordate leaves, often shallowly 3-lobed",
+      "stellate hairs on stems and leaf veins",
+      "bright red hibiscus-like flowers whose petals remain tightly furled",
+      "prominent projecting staminal column",
+      "inferior? no — superior multi-carpellate ovary typical of Malvaceae; avoid confusing the projecting staminal column with the style alone",
+      "fleshy red segmented fruit at maturity"
+    ],
+    "flower": "Five petals stay wrapped/furled; numerous stamens are united into a conspicuous staminal column surrounding the style.",
+    "leaf_morphology": "Broadly ovate to cordate, often shallowly 3-lobed, coarsely serrate-crenate, palmately veined and stellate-hairy.",
+    "fruit": "Fleshy red schizocarp-like fruit composed of multiple mericarps.",
+    "joey_field_notes": [
+      "Joey's San Marcos River video first shows the whole shrub and leaf form, then a close-up labeling the stigma, stamens, and staminal column.",
+      "This is one of the strongest local teaching examples for the Malvaceae staminal column."
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Hibiscus spp.",
+      "cultivated Malvaviscus forms"
+    ],
+    "key_distinctions": "Turk's cap flowers do not open flat like most Hibiscus; the petals remain rolled around the reproductive column. Local wild material should be kept separate from ornamental color forms unless provenance is known."
+  },
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "Hr3nBxvgCv4",
+      "timestamp": "00:06:06.4",
+      "record_id": "jvid-Hr3nBxvgCv4-001",
+      "role": "whole shrub habit / leaf shape / source label",
+      "rights": "private study; public reuse not assumed"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "Hr3nBxvgCv4",
+      "timestamp": "00:06:21.4",
+      "record_id": "jvid-Hr3nBxvgCv4-002",
+      "role": "stigma / stamens / staminal column close-up",
+      "rights": "private study; public reuse not assumed"
+    }
+  ],
+  "tags": [
+    "Malvaceae",
+    "Malvaviscus",
+    "Turk's cap",
+    "Hays County",
+    "San Marcos River",
+    "Staminal column",
+    "Joey-enhanced"
+  ],
+  "curation_status": {
+    "version": "1.0-joey-smr",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "joey_enhanced": true,
+    "last_reviewed": "2026-10-02",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "manual_library_install_013": "2026-10-16"
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending.",
+  "images": [
+    {
+      "file": "images/malvaviscus-arboreus-var-drummondii-provisional-face.jpg",
+      "role": "Flower and foliage / recognizable face",
+      "creator": "Dinesh Valke",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Malvaviscus_arboreus_var._drummondii_(331692361).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/library-review013-3e34ff48a26a133.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Leaves and vegetative growth habit; complements existing red pendant flower",
+      "creator": "Brandon Corder",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/4852193343",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/370410948/original.jpg",
+      "source_determination": "Malvaviscus arboreus var. drummondii",
+      "source_observation_id": "4852193343",
+      "library_release_tag": "hays-photo-library-mass-38760123960",
+      "library_archive_file": "staged_images/malvaviscus-arboreus-var-drummondii/gbif-7fcb8947ac6308.jpg",
+      "archive_image_sha256": "0982243fc88cd2b9fbe5e7ef3b7f88409a47711038c71dae8fe062d1d3b1d98f",
+      "image_dimensions": [
+        1050,
+        1400
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-06",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "native_metrics_excluded": true
+}

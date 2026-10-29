@@ -1,0 +1,156 @@
+{
+  "rank": "family",
+  "name": "Salicaceae",
+  "common_name": "Willow / cottonwood family",
+  "lineage_context": {
+    "order": "Malpighiales",
+    "batch": "Malpighiales",
+    "close_project_families": [
+      "Phyllanthaceae",
+      "Euphorbiaceae",
+      "Violaceae",
+      "Passifloraceae"
+    ],
+    "teaching_goal": "For the local Salix/Populus pool, teach dioecious catkins, a 1-locular ovary with parietal placentation, and capsules releasing many comose seeds."
+  },
+  "project_scope": {
+    "selection_mode": "Central Texas Salix + Populus family module",
+    "note": "The modern broad Salicaceae is diverse, but the project pool is entirely the classic temperate Salix/Populus branch, so the visual lesson centers on that architecture."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "On a woody plant, look for unisexual catkins. In female flowers, confirm a single superior 1-locular ovary with parietal placentation; the fruit becomes a 2–4-valved capsule packed with many tiny seeds bearing long silky hairs.",
+    "vegetative": "Trees or shrubs with alternate simple leaves and usually small deciduous stipules. Local Salix leaves tend narrower; Populus leaves are broader and buds have several visible outer scales.",
+    "reproductive": "Plants are dioecious in the local pool. Flowers are extremely reduced and packed into catkins; perianth is absent in Salix and Populus, with one or more nectary/disc glands present.",
+    "fruit": "A dry capsule opening by 2–4 valves and releasing numerous minute seeds with a conspicuous coma of long hairs.",
+    "field_tip": "Catkin + one-celled parietal ovary + cottony seed capsule is the local Salicaceae machine."
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_007",
+    "teaching_order": "catkin → naked unisexual flower → 1-locular/parietal ovary → capsule + cottony seeds → Salix-vs-Populus",
+    "intro": "Willows and cottonwoods are not just 'catkin trees.' Their best confirmation is what the female catkin turns into: a one-celled capsule full of silky-haired seeds.",
+    "steps": [
+      {
+        "title": "1 · Start with the catkin",
+        "photo_role": "male/female catkin pair",
+        "look_for": "Dense unisexual catkins on a woody plant, often before or with expanding leaves.",
+        "why_it_matters": "Moves immediately toward the classic Salix/Populus branch of Salicaceae.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "2 · Notice how reduced each flower is",
+        "photo_role": "single catkin flower macro",
+        "look_for": "No ordinary petals or sepals in local Salix/Populus; each flower is subtended by a bract and accompanied by nectary/disc tissue.",
+        "why_it_matters": "Explains why these flowers look unlike most showy Malpighiales.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "3 · Read the female ovary",
+        "photo_role": "pistillate flower dissection/diagram",
+        "look_for": "One chamber with multiple ovules borne on parietal placentas rather than three closed locules around a center.",
+        "why_it_matters": "This is the high-value split from Euphorbiaceae and Phyllanthaceae.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "4 · Confirm with cottony seeds",
+        "photo_role": "opened capsule + comose seeds",
+        "look_for": "A dry capsule opening into valves and releasing many tiny seeds carried by long silky hairs.",
+        "why_it_matters": "One of the most memorable family-level fruit/seed characters in the whole project.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "5 · Salix vs Populus",
+        "photo_role": "bud + leaf + catkin comparison",
+        "look_for": "Salix usually has a single outer bud scale and narrower leaves; Populus has several bud scales, broader mature leaves and different catkin proportions.",
+        "why_it_matters": "Cleanly hands family recognition into the project's two genera.",
+        "status": "comparison_card_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Salicaceae vs Phyllanthaceae",
+        "rule": "Salicaceae female flowers have a 1-locular ovary with parietal placentation and many ovules; Phyllanthaceae commonly has a multi-locular ovary with two ovules per locule and a schizocarp/columella fruit plan."
+      },
+      {
+        "title": "Salicaceae vs Euphorbiaceae",
+        "rule": "Euphorbiaceae commonly has a 3-locular ovary with one ovule per locule and a central columella; local Salix/Populus has one chamber with parietal placentas and many ovules."
+      },
+      {
+        "title": "Salicaceae vs Betulaceae/Fagaceae-style catkins",
+        "rule": "Catkins alone are not enough. Salix/Populus confirm with their naked flowers, one-celled parietal ovary and silky-haired capsule seeds."
+      }
+    ],
+    "caveat": "Modern Salicaceae includes many former Flacourtiaceae genera that do not look like Salix or Populus. This module is explicitly the project's local Salix/Populus door."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 2,
+    "genera": [
+      {
+        "genus": "Salix",
+        "taxa_count": 1,
+        "fast_cue": "narrower leaves + one outer bud scale + willow catkins + cottony seed capsules",
+        "role": "willow door"
+      },
+      {
+        "genus": "Populus",
+        "taxa_count": 3,
+        "fast_cue": "broader mature leaves + several bud scales + cottonwood catkins/capsules",
+        "role": "cottonwood door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Salix nigra",
+    "Populus deltoides",
+    "Populus trichocarpa",
+    "Populus deltoides subsp. deltoides"
+  ],
+  "taxonomy_notes": [
+    "Populus deltoides subsp. deltoides is an accepted infraspecific taxon under current Kew; keep it distinct from the species-level source row without treating them as unrelated species."
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "female catkin ovary",
+      "annotation_goal": "show one chamber and parietal placentation"
+    },
+    {
+      "priority": 1,
+      "structure": "opened capsule + comose seeds",
+      "annotation_goal": "label valves and silky seed hairs"
+    },
+    {
+      "priority": 1,
+      "structure": "Salix vs Populus bud scale",
+      "annotation_goal": "one outer scale vs several scales"
+    },
+    {
+      "priority": 2,
+      "structure": "Salicaceae vs Euphorbiaceae/Phyllanthaceae ovary diagram",
+      "annotation_goal": "parietal one chamber vs axile multi-locular"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Salicaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30002644-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Salix",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:325916-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Populus",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:328417-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Populus deltoides subsp. deltoides",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77231547-1"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-007",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "family_structure_live_catkin_ovary_seed_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "id": "ludwigia-octovalvis",
+  "entry_type": "species",
+  "family": "Onagraceae",
+  "genus": "Ludwigia",
+  "species": "octovalvis",
+  "scientific_name": "Ludwigia octovalvis",
+  "authority": "(Jacq.) P.H.Raven",
+  "common_name": "Mexican primrose-willow / shrubby water primrose",
+  "synonyms": [
+    "Jussiaea octovalvis (Jacq.) Sw.",
+    "Oenothera octovalvis Jacq."
+  ],
+  "taxonomic_note": "Current Kew/POWO accepts Ludwigia octovalvis; Central Texas material is commonly treated as subsp. octovalvis, also accepted by Kew.",
+  "look_here_first": "Locate several stem nodes: leaves alternate, typically narrow and softly hairy on upright branched shoreline shoots. At flowering, see a showy four-petaled yellow corolla and the conspicuously long inferior ovary BELOW the sepals; usually eight stamens. Compare L. repens opposite nodes and tiny four-stamen flowers.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "24-county boundary audit 2026-10-14: Hays, Travis qualify; Williamson are out-of-zone and cannot count toward PASS. Prior citation/evidence text preserved in range_audit; third native county not verified.",
+    "range_guardrail": "Subspecies records are reconciled to the accepted species concept without inventing additional counties.",
+    "native_range_last_reviewed": "2026-10-14",
+    "range_audit": {
+      "date": "2026-10-14",
+      "decision": "UNRESOLVED",
+      "confidence": "high for exclusion of counties not in project zone; prior county-locality evidence retained without fresh specimen reinspection",
+      "prior_status": "PASS",
+      "prior_count": 3,
+      "prior_counties": [
+        "Hays",
+        "Travis",
+        "Williamson"
+      ],
+      "valid_target_counties": [
+        "Hays",
+        "Travis"
+      ],
+      "excluded_counties": [
+        "Williamson"
+      ],
+      "reason": "Old PASS counted an excluded county. UNRESOLVED is not FAIL or proof of absence; verify a third accepted county before PASS.",
+      "original_range_basis": "Hays — UT Plant Resources Center Purola Preserve flora lists Ludwigia octovalvis as naturally occurring. Travis — UT PRC Travis County Onagraceae index includes Ludwigia octovalvis. Williamson — UT PRC provides a detailed Ludwigia octovalvis subsp. octovalvis treatment.",
+      "source_document": "content/taxa/Onagraceae/Ludwigia/ludwigia-octovalvis/SOURCES.txt",
+      "rule_source": "PROJECT_RULES.md — Target zone; three qualifying native counties"
+    }
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "alternate narrow leaves up upright branched stem",
+      "large four-petaled yellow flower with eight stamens",
+      "long inferior ovary / elongated seed capsule",
+      "local stems usually five-ridged; confirm rather than assume"
+    ],
+    "stem": "Local Williamson County specimens have strongly five-ridged, usually hairy stems; Flora of North America allows terete or ridged stems across the species.",
+    "flower": "Usually four broad showy yellow petals; locally around 23–39 mm across and commonly eight stamens in two sets (rarely five sepals/petals and ten stamens).",
+    "ovary": "Inferior, distinctly elongated and often low eight-ribbed on four-sided base; distinguish from Ludwigia repens very short four-angled inferior ovary.",
+    "fruit": "Long narrow cylindrical to club-shaped many-seeded capsule, 38–45 mm in Williamson specimens; local plants typically show 8 valve splits, but FNA describes 4–8 valves across broader species.",
+    "joey_field_note": "Joey explicitly uses this plant to teach an inferior ovary, showing the ovary below the visible flower parts at close range.",
+    "habit": "Erect, much-branched, often taprooted wetland herb/subshrub, usually growing on moist shorelines; forms can vary.",
+    "leaf_arrangement": "Alternate helically, one leaf per successive node; contrast the opposite pairs of Ludwigia repens.",
+    "leaves": "Usually narrow oblanceolate to oblong-lanceolate, mostly entire, with very short petioles; often short hairy and not glossy."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ludwigia repens",
+      "other Ludwigia spp."
+    ],
+    "key_distinctions": "L. octovalvis: alternate narrow usually hairy leaves on erect branched shoreline stems, large 8-stamen yellow flowers and an elongated ovary/capsule. L. repens: opposite leaves on creeping node-rooting stems, about 6 mm yellow 4-stamen flowers and short bell-shaped fruits."
+  },
+  "study_media": [
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "Hr3nBxvgCv4",
+      "timestamp": "00:36:29.0",
+      "record_id": "jvid-Hr3nBxvgCv4-025",
+      "role": "source-labeled flower / habit",
+      "rights": "private study; public reuse not assumed"
+    },
+    {
+      "source": "Joey Santore / Crime Pays But Botany Doesn't",
+      "video_id": "Hr3nBxvgCv4",
+      "timestamp": "00:37:29.0",
+      "record_id": "jvid-Hr3nBxvgCv4-026",
+      "role": "Inferior ovary position at the flower base.",
+      "rights": "private study; public reuse not assumed",
+      "source_taxon": "Ludwigia octovalvis",
+      "source_confidence": "source-explicit video context",
+      "library_frame": "/Hays Botany ID/Joey Santore/video-frames/Hr3nBxvgCv4/ludwigia-octovalvis_inferior-ovary_00-37-29.0.jpg"
+    }
+  ],
+  "tags": [
+    "Onagraceae",
+    "Ludwigia",
+    "Primrose-willow",
+    "San Marcos River",
+    "Inferior ovary",
+    "Joey-enhanced"
+  ],
+  "curation_status": {
+    "version": "1.1-ludwigia-visual-polish",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "joey_enhanced": true,
+    "last_reviewed": "2026-10-08",
+    "photo_metadata_count": 5,
+    "photo_files_present": 2,
+    "visual_status": "fruit_reference_added__true_measured_mature_photo_and_rooted_node_macro_pending",
+    "photo_updated_at": "2026-10-04",
+    "externally_linked_diagnostic_images": 3
+  },
+  "photo_note": "The previously installed flower frame is retained, and the preserved Joey Santore inferior-ovary frame is now added for private study. Together they provide a much stronger flower-plus-ovary teaching set; public-reuse restrictions are preserved.",
+  "images": [
+    {
+      "file": "images/ludwigia-octovalvis_flower-source-label_00-36-29.0.jpg",
+      "role": "Source-labeled Ludwigia octovalvis with four-petaled flowers, narrow leaves and upright stems. Look at the flower and leaf arrangement together.",
+      "caption": "Source-labeled Ludwigia octovalvis with four-petaled flowers, narrow leaves and upright stems. Look at the flower and leaf arrangement together.",
+      "diagnostic_roles": [
+        "source-labeled flower and habit"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=Hr3nBxvgCv4",
+      "source_record_id": "jvid-Hr3nBxvgCv4-025",
+      "timestamp": "00:36:29.0",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained."
+    },
+    {
+      "file": "images/ludwigia-octovalvis_inferior-ovary_00-37-29.0.jpg",
+      "role": "Inferior ovary position at the flower base.",
+      "caption": "Ludwigia octovalvis flower-base close-up highlighting the inferior ovary below the sepals and petals, an excellent Onagraceae teaching character.",
+      "diagnostic_roles": [
+        "inferior ovary",
+        "flower base",
+        "ovary position"
+      ],
+      "creator": "Joey Santore / Crime Pays But Botany Doesn't",
+      "license": "Private study only; public reuse not cleared",
+      "source_page": "https://www.youtube.com/watch?v=Hr3nBxvgCv4",
+      "source_record_id": "jvid-Hr3nBxvgCv4-026",
+      "timestamp": "00:37:29.0",
+      "study_use": true,
+      "public_reuse": false,
+      "changes": "Unmodified saved video frame; original on-image labels retained where present."
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ludwigia_octovalvis_%28Onagraceae%29_-_Flower_and_leaves.jpg/960px-Ludwigia_octovalvis_%28Onagraceae%29_-_Flower_and_leaves.jpg",
+      "role": "alternate narrow leaves, flower side and budding stem",
+      "caption": "Mexican primrose-willow: successive alternate narrow leaves and a side-on large flower. This photo shows buds, not a confirmed mature capsule.",
+      "creator": "Juan Carlos Fonseca Mata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ludwigia_octovalvis_(Onagraceae)_-_Flower_and_leaves.jpg",
+      "location": "Guanajuato, Mexico",
+      "platform": "Wikimedia Commons",
+      "public_reuse": "yes with CC BY-SA terms",
+      "study_use": true,
+      "remote_only": true,
+      "photo_verified": "species identity/license/source checked 2026-10-08"
+    },
+    {
+      "file": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ludwigia_octovalvis_%28Onagraceae%29_-_Flower.jpg/1280px-Ludwigia_octovalvis_%28Onagraceae%29_-_Flower.jpg",
+      "role": "open large four-petaled flower close-up",
+      "caption": "Four large broad yellow petals of Ludwigia octovalvis. Use plant-based stamen count from UT PRC; this photo does not conclusively show every stamen.",
+      "creator": "Juan Carlos Fonseca Mata",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ludwigia_octovalvis_(Onagraceae)_-_Flower.jpg",
+      "location": "Guanajuato, Mexico",
+      "platform": "Wikimedia Commons",
+      "public_reuse": "yes with CC BY-SA terms",
+      "study_use": true,
+      "remote_only": true,
+      "photo_verified": "species identity/license/source checked 2026-10-08"
+    },
+    {
+      "file": "images/public-alex-abair-ludwigia-fruit.jpg",
+      "role": "Diagnostic fruit: elongated narrow ridged developing capsule with persistent sepals",
+      "caption": "Actual L. octovalvis capsule from Florida, long and ribbed beneath four persistent sepals. The fruit is green and developing, not an opened mature seed pod, and no ruler is present.",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ludwigia_octovalvis_50612016.jpg",
+      "observation_id": "32278449",
+      "photo_id": "50612016",
+      "platform": "iNaturalist via Wikimedia Commons",
+      "study_use": true,
+      "public_reuse": "yes — individual CC BY 4.0 source verified with attribution",
+      "local_file_present": true,
+      "photo_verified": "source species, photographer and license verified; content shows developing ridged fruit",
+      "original_remote_photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Ludwigia_octovalvis_50612016.jpg",
+      "source_photo_id": "50612016",
+      "inaturalist_photo_page": "https://www.inaturalist.org/photos/50612016",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/50612016/large.jpg",
+      "source_file_sha256": "0acf221328ce08788dabc3ae673981cfb66ee88fa97cfe1c65f5049af89f68cd",
+      "published_jpeg_sha256": "2d58733dde15efd35313205fa9214ed7fd9b2265a096be6a0de3dafe4dcd3fe1",
+      "published_jpeg_dimensions": [
+        768,
+        1024
+      ],
+      "modifications": "Original iNaturalist image resized for learner and reencoded as JPEG with EXIF/GPS removed; no arrows applied.",
+      "photo_review": "Original iNaturalist photo page verified exact photographer, CC BY, observation identity on 2026-10-20; no detailed floral/fruit anatomy arrow approval.",
+      "annotation_pending": true
+    }
+  ],
+  "diagnostic_image_needs": [
+    "Measured ripe dry fruit showing length and valve split (current licensed photo shows developing ribbed fruit).",
+    "Macro of stem cross-section and alternate leaf attachment; ideally local.",
+    "Close view with all stamens in focus."
+  ],
+  "diagnostic_comparison": {
+    "partner": "ludwigia-repens",
+    "look_first": "Alternate narrow leaves on upright stems vs opposite paired leaves on creeping stem.",
+    "strong_reproductive_split": "Octovalvis ca. 23–39 mm corolla and typically eight stamens; repens ca. 6 mm flower and four stamens.",
+    "strong_fruit_split": "Octovalvis narrow capsule often 38–45 mm long in Williamson vs repens bell-shaped capsule 6–7.5 mm long.",
+    "caution": "These lengths describe Williamson County specimens; field dimensions can vary. Five stem ridges are characteristic of locally described material but not universal."
+  },
+  "native_metrics_excluded": true
+}

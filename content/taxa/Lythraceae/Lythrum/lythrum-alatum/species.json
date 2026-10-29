@@ -1,0 +1,36 @@
+{
+  "id": "lythrum-alatum",
+  "family": "Lythraceae",
+  "genus": "Lythrum",
+  "species": "alatum",
+  "scientific_name": "Lythrum alatum",
+  "common_name": "Winged loosestrife",
+  "look_here_first": "Check slender often four-angled or slightly winged stems, narrow leaves and small purple flowers; inspect calyx teeth, petal count and floral tube.",
+  "taxonomy_source": "https://powo.science.kew.org/results?q=Lythrum%20alatum",
+  "curation_status": {
+    "taxonomy_reviewed": false,
+    "visual_reviewed": false,
+    "photo_source_checked": true,
+    "photo_metadata_count": 1,
+    "photo_files_present": 1
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "images": [
+    {
+      "file": "images/commons-lythrum-alatum.jpg",
+      "role": "Provisional purple flower and foliage detail; square stem ridges need a closer view.",
+      "creator": "Joshua Mayer (wackybadger)",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lythrum_alatum_(20363896053).jpg",
+      "study_use": "Noncommercial visual botanical learner",
+      "public_reuse": "Attribution and ShareAlike required"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-18",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  }
+}

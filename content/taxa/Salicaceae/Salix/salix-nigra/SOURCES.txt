@@ -1,0 +1,9 @@
+Source-pool Phase3 accepted/preflight concept Salix nigra; reference row(s) 1013
+Accepted-name query: https://powo.science.kew.org/results?q=Salix%20nigra
+Photograph original: https://commons.wikimedia.org/wiki/File:Salix_nigra4.jpg
+Image direct Commons redirect: https://commons.wikimedia.org/wiki/Special:Redirect/file/Salix%20nigra4.jpg
+Photographer: DouglasGoldman
+Individual file license: CC BY-SA 4.0
+Photo role: Provisional willow fruit detail; leaf margins, buds, and whole tree are not covered by this image.
+Caution: North Carolina original photograph shows fruit; individual species diagnosis needs willow catkin and foliage comparisons.
+Original Commons page licensing checked before staging. One visual provisional learner only; no Hays or target-county nativity assertion.

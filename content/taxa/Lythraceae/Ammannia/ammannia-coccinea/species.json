@@ -1,0 +1,120 @@
+{
+  "id": "ammannia-coccinea",
+  "entry_type": "species",
+  "family": "Lythraceae",
+  "genus": "Ammannia",
+  "species": "coccinea",
+  "scientific_name": "Ammannia coccinea",
+  "authority": "Rottb.",
+  "common_name": "Scarlet toothcup",
+  "look_here_first": "Inspect opposite clasping leaves, four-angled stem and small axillary flower clusters. Check the floral tube, calyx appendages and capsule against A. auriculata; color alone is insufficient.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED_FROM_MASTER_PLANT_POOL",
+    "source_row": 53,
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "RANGE_UNRESOLVED",
+    "native_metrics_excluded": true,
+    "range_basis": "Texas native at state/subspecies level, three target counties not independently verified."
+  },
+  "morphology_keys": {
+    "habit": "Erect annual wetland herb, often reddish four-angled stems.",
+    "leaves": "Opposite, sessile, narrow, clasping or auriculate bases.",
+    "flowers": "Small axillary flowers with persistent floral tube and calyx appendages.",
+    "fruit": "Many-seeded capsule surrounded by persistent floral tube."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ammannia auriculata",
+      "Ammannia robusta",
+      "Rotala ramosior"
+    ],
+    "key_distinctions": "A. auriculata often has longer slender cyme peduncles and smaller flowers. Rotala leaf bases taper; check calyx and fruit to confirm Ammannia."
+  },
+  "diagnostic_image_needs": [
+    "Leaf-base macro needs_photo",
+    "Floral tube and developing fruit photo candidate",
+    "Mature capsule and calyx appendages needs_photo",
+    "Matched A. auriculata comparison needs_photo",
+    "Arrows annotation_pending"
+  ],
+  "images": [
+    {
+      "file": "images/ammannia-coccinea-starr-flower-fruit.jpg",
+      "role": "flower and developing fruit (nonlocal)",
+      "creator": "Forest & Kim Starr",
+      "license": "CC BY 3.0 US",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr-130322-3853-Ammannia_coccinea-flowers_and_fruit_forming-Hanalei_NWR-Kauai_(24914156820).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with attribution"
+    },
+    {
+      "file": "images/library-review012-8b478f858d35467.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Wetland stem and flowering habit plus reddish branching fruit/flower nodes; complements existing close view",
+      "creator": "saltyhiker",
+      "license": "CC BY",
+      "license_url": "https://creativecommons.org/licenses/by/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/6567191711",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/740029824/original.jpg",
+      "source_determination": "Ammannia coccinea",
+      "source_observation_id": "6567191711",
+      "library_release_tag": "hays-photo-library-mass-38760123960",
+      "library_archive_file": "staged_images/ammannia-coccinea/gbif-d65d5ff68f2ade.jpg",
+      "archive_image_sha256": "83d1d26dfdf552b37c3c2c8d5896e288575f3a192b340b84acce0a959baeffaf",
+      "image_dimensions": [
+        1400,
+        1050
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    },
+    {
+      "file": "images/library-review012-f89f7a9f4512904.jpg",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "requested_diagnostic_view": "Wetland stem and flowering habit plus reddish branching fruit/flower nodes; complements existing close view",
+      "creator": "Miguel A. C.",
+      "license": "CC BY-SA",
+      "license_url": "https://creativecommons.org/licenses/by-sa/",
+      "license_version_note": "Exact license version must be checked at original media source; shorthand preserved from archived media",
+      "source_platform": "Pl@ntNet via GBIF via durable private Hays photo library",
+      "source_page": "https://www.gbif.org/occurrence/5110491267",
+      "media_source_url": "https://bs.plantnet.org/image/o/0853b7e7bc345bce38614efea56376c3562a93b5",
+      "source_determination": "Ammannia coccinea",
+      "source_observation_id": "5110491267",
+      "library_release_tag": "hays-photo-library-mass-38760123960",
+      "library_archive_file": "staged_images/ammannia-coccinea/plantnet-via-gbif-fb8392c2b17d9f.jpg",
+      "archive_image_sha256": "87522109131ca175da3a57b021fcafbee41fdc02c77cc522ecc1d4dd1ef7d6ef",
+      "image_dimensions": [
+        1067,
+        800
+      ],
+      "photo_review": "Actual photographic content visually screened for broad teaching view; taxon determined by source metadata and not independently expert-verified.",
+      "anatomy_arrows": "none; diagnostic structures not expert verified",
+      "study_use": "Private project; comply with individually stated CC license conditions",
+      "public_reuse": "Review individual license version, attribution, commercial restrictions and ShareAlike where applicable before publication",
+      "modifications": "Resaved JPEG with metadata removed (original source rights remain attached)"
+    }
+  ],
+  "curation_status": {
+    "source_pool_approved": true,
+    "user_approved": true,
+    "taxonomy_reviewed": true,
+    "provisional": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "manual_library_install_012": "2026-10-16"
+  },
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-14",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Manual library-first complementary photo selection installed; independent diagnostic ID review pending."
+}

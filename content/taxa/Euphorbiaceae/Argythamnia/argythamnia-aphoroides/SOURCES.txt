@@ -1,0 +1,41 @@
+# Curation sources — Argythamnia aphoroides
+Reviewed through 2026-10-06
+Status: PASS
+
+Taxonomy
+Plants of the World Online:
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:339338-1
+
+Morphology
+Flora of North America generic/reproductive treatment:
+https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=102575
+
+Target-zone range
+Deep Review B locked:
+- Hays — historical record in federal environmental review
+- Comal — TPWD annotated county list reproduced in NBU environmental review
+- Bexar — TPWD annotated county-list/environmental records
+
+Federal environmental review:
+https://ecos.fws.gov/docs/plan_documents/neis/neis_2133.pdf
+
+NBU environmental review:
+https://www.nbutexas.com/wp-content/uploads/2021/01/NBU-SWTP-Expansion-Project-EID-Form-TWDB-0801.pdf
+
+Project draft:
+research-drafts/argythamnia-aphoroides/draft.json
+
+Decision
+PASS — Hays + Comal + Bexar.
+
+EXTERNAL FIRST-PHOTO SOURCE 2026-10-15T02:06:39.520317+00:00
+Eric Knight; CC BY 4.0; https://creativecommons.org/licenses/by/4.0/
+https://www.inaturalist.org/photos/717973641 | https://www.inaturalist.org/observations/391813984
+Image saved provisionally from exact-taxon Research Grade observation; photographic diagnostic ID unreviewed. EXIF removed.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-15T14:37:03.298890+00:00
+Argythamnia aphoroides Müll.Arg.
+https://www.gbif.org/occurrence/6490988647
+Washington State University Marion Ownbey Herbarium (WS-WS) | CC BY-NC http://creativecommons.org/licenses/by-nc/4.0/
+Target visual view (NOT YET verified): Sessile leaf base and long unisexual axillary raceme; woolly fruit
+No anatomy arrows; no scientific or native-range changes.

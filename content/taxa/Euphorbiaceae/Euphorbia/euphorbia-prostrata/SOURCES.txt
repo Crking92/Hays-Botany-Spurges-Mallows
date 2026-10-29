@@ -1,0 +1,7 @@
+EUPHORBIA SANDMAT MACRO POLISH 002 — Euphorbia prostrata
+Scientific/range state preserved from the canonical learner record.
+Morphology anchors:
+- Flora of North America: https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242321502
+- UT Williamson County flora: https://w3.biosci.utexas.edu/prc/K12/pages/Euphorbia%20prostrata.html
+New diagnostic media:
+- Wikimedia Commons stem-with-stipules macro: https://commons.wikimedia.org/wiki/File:Euphorbia_prostrata_sl15.jpg

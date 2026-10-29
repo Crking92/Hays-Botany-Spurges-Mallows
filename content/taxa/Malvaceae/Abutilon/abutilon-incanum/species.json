@@ -1,0 +1,152 @@
+{
+  "id": "abutilon-incanum",
+  "entry_type": "species",
+  "family": "Malvaceae",
+  "genus": "Abutilon",
+  "species": "incanum",
+  "scientific_name": "Abutilon incanum",
+  "authority": "(Link) Sweet",
+  "common_name": "pelotazo chico / hoary abutilon",
+  "look_here_first": "Nonlocal A. incanum comparison: 5 style/stigma branches and about 5 mature fruit segments, often dark-centered reflexed corolla. FNA does not place the species in Texas; a Hays identification merits comparison with A. fruticosum. Do not rely on staminal-column hair alone; A. fruticosum floras disagree.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "native_range_status": "FAIL_TARGET_ZONE",
+  "learner_admission_status": "APPROVED",
+  "learner_admission_basis": "approved_source_pool_membership",
+  "project_inclusion": {
+    "target_zone_status": "FAIL_TARGET_ZONE",
+    "range_basis": "Current FNA/POWO range treatment does not support Texas as native for this species. It remains in the learner because it is in the approved source pool and is useful for identifying or correcting a possible local misidentification.",
+    "range_guardrail": "Not confirmed target-zone native. Treat local Hays signals as an ID/re-identification cue, not native-range evidence."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "densely gray-tomentose subshrub",
+      "ovate-cordate leaves",
+      "small yellow or pink flowers often dark-centered",
+      "corolla often reflexed",
+      "5 style branches",
+      "cask-shaped fruit"
+    ],
+    "comparison_training": "The expected Texas look-alike A. fruticosum usually has plain yellow flowers and 6–9 style branches.",
+    "flower": "Calyx 3–5 mm; corolla reflexed, yellow or pink with dark red center, petals 4–6 mm; staminal column pubescent; style 5-branched.",
+    "fruit_seed": "Schizocarp cask-shaped, not medially constricted, 7–9 × 6 mm; mericarp apex acute/apiculate, tomentulose; 3 seeds per mericarp, seeds ~2 mm."
+  },
+  "comparisons": {
+    "key_distinctions": "The expected Texas look-alike A. fruticosum usually has plain yellow flowers and 6–9 style branches."
+  },
+  "photo_strategy": {
+    "method": "LEARNER FAST-FILL — science-first install",
+    "visual_priority": "Install learner card now; route exact-species project/user/Joey or licensed external media through Learner Photo Backfill.",
+    "remaining_need": "Habit, reproductive structure, and diagnostic close-up when practical."
+  },
+  "learner_role": "NONLOCAL_COMPARISON",
+  "native_metrics_excluded": true,
+  "curation_status": {
+    "version": "1.0-source-pool-fast-fill",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "learner_admission_approved": true,
+    "visual_reviewed": false,
+    "visual_status": "photo-backfill-pending",
+    "last_reviewed": "2026-10-05",
+    "photo_metadata_count": 3,
+    "photo_files_present": 1,
+    "external_display_images_count": 2,
+    "last_visual_reviewed": "2026-10-11",
+    "last_science_reviewed": "2026-10-13"
+  },
+  "images": [
+    {
+      "file": "images/abutilon-incanum-provisional-face.jpg",
+      "role": "Whole plant / habit recognizable face",
+      "creator": "Forest & Kim Starr",
+      "license": "CC BY 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr_060406-9251_Abutilon_incanum.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Starr-131218-2868-Abutilon_incanum-flowers_and_leaves-Honokanaia-Kahoolawe_(24601894383).jpg",
+      "role": "Reusable exact-species flowers + leaves for corolla/color/foliage context",
+      "creator": "Forest & Kim Starr",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr-131218-2868-Abutilon_incanum-flowers_and_leaves-Honokanaia-Kahoolawe_(24601894383).jpg",
+      "platform": "Wikimedia Commons / Starr Environmental",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution",
+      "media_storage": "commons_redirect_url",
+      "scientific_name_verified": "Abutilon incanum",
+      "diagnostic_visibility": "Exact-species flowering and leaf context; useful for the small reflexed/dark-centered flower gestalt."
+    },
+    {
+      "file": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Starr-131218-2869-Abutilon_incanum-seed_capsule_and_leaves-Honokanaia-Kahoolawe_(25110446902).jpg",
+      "role": "Reusable mature seed-capsule + leaf view",
+      "creator": "Forest & Kim Starr",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr-131218-2869-Abutilon_incanum-seed_capsule_and_leaves-Honokanaia-Kahoolawe_(25110446902).jpg",
+      "platform": "Wikimedia Commons / Starr Environmental",
+      "study_use": "yes",
+      "public_reuse": "yes-with-attribution",
+      "media_storage": "commons_redirect_url",
+      "scientific_name_verified": "Abutilon incanum",
+      "diagnostic_visibility": "Fruit-stage context useful for the compact cask-shaped schizocarp; a ruler-scale mericarp macro remains open."
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "field_diagnostics": {
+    "single_best_trait": "Five style branches and mature fruit segments; FNA range excludes Texas.",
+    "fastest_traits": [
+      "Dense gray tomentum",
+      "Corolla reflexed, yellow or pink with dark red center; petals 4–6 mm",
+      "Staminal column pubescent",
+      "Style 5-branched",
+      "Calyx 3–5 mm",
+      "Cask-shaped fruit ~7–9 × 6 mm; mericarp tips acute/apiculate"
+    ],
+    "look_alikes": [
+      {
+        "taxon": "Abutilon fruticosum",
+        "distinction": "A. fruticosum generally 6–9 styles and fruit segments, not 5. Historical Texas incanum reports frequently misidentified fruticosum. Column hair comparison is disputed."
+      },
+      {
+        "taxon": "Abutilon theophrasti",
+        "distinction": "Velvetleaf has huge soft leaves, 13–15 style branches and a much larger fruit with long divergent mericarp spines."
+      }
+    ],
+    "unreliable_alone": [
+      "dark center without checking flower structure",
+      "dense pubescence",
+      "cordate leaf shape"
+    ]
+  },
+  "diagnostic_photo_targets": [
+    "Front flower macro showing dark center and reproductive column",
+    "Side flower macro showing reflexed corolla",
+    "Macro resolving pubescent staminal column and 5 style branches",
+    "Mature seed capsule top/side with ruler",
+    "Matched flower beside A. fruticosum"
+  ],
+  "diagnostic_science_sources": [
+    {
+      "source": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101016"
+    }
+  ],
+  "diagnostic_polish": {
+    "status": "text-polished-flower-and-fruit-context-added-style-column-macro-open",
+    "reviewed": "2026-10-11"
+  }
+}

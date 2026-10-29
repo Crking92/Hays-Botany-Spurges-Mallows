@@ -1,0 +1,162 @@
+{
+  "id": "passiflora-incarnata",
+  "entry_type": "species",
+  "family": "Passifloraceae",
+  "genus": "Passiflora",
+  "species": "incarnata",
+  "scientific_name": "Passiflora incarnata",
+  "authority": "L.",
+  "common_name": "Purple passionflower",
+  "other_common_names": [
+    "Maypop"
+  ],
+  "synonyms": [],
+  "taxonomic_note": "Accepted by current Kew/POWO; Texas is within the native state-level range, but the project currently has only one defensible target-zone county after excluding Williamson from the target list.",
+  "look_here_first": "Start with 2 distinct PETIOLE nectar glands and BROAD sharply toothed/serrated 3(–5)-lobed leaf; compare smooth edged narrow 3–9-lobed P. tenuiloba. Then check large purplish flower with layered corona and a fat maypop 30–60 mm, much larger than the little dark berries of green-flowered relatives.",
+  "county_occurrences_target_zone": [
+    "Travis"
+  ],
+  "target_zone_count": 1,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED — USER APPROVED LEARNER INCLUSION",
+    "range_basis": "Travis is herbarium-backed. Williamson was present in the older review but is outside the project target zone and is not counted. No second or third target-zone wild county is currently locked.",
+    "approval_exception": {
+      "approved_by_user": true,
+      "approved_at": "2026-10-06",
+      "reason": "Learner admission is independent from native-range certification. Preserve the scientific HOLD."
+    },
+    "native_metrics_excluded": true
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "morphology_keys": {
+    "best_field_traits": [
+      "vigorous perennial climbing or trailing vine with axillary tendrils",
+      "two conspicuous sessile extrafloral nectary glands on the petiole",
+      "large leaves deeply 3–5-lobed",
+      "lobes broad, pointed, and distinctly serrate",
+      "large solitary flower with purple-and-white multi-whorled corona",
+      "large ovoid to subglobose maypop fruit"
+    ],
+    "comparison_training": "Separate from P. lutea by petiole glands, serrated broad lobes, and huge flowers; separate from P. tenuiloba by the broad serrated lobes and large showy flower."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Passiflora tenuiloba",
+      "Passiflora lutea"
+    ],
+    "key_distinctions": "Paired petiole glands + broad serrated lobes + very large corona flower and fruit are the strongest combination."
+  },
+  "tags": [
+    "Passifloraceae",
+    "Passiflora",
+    "Maypop",
+    "Range unresolved",
+    "Learner approved"
+  ],
+  "curation_status": {
+    "version": "1.0-range-hold-2026-10-06",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "range_exception": true,
+    "last_reviewed": "2026-10-06",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "photo_install_verified": "2026-10-13"
+  },
+  "diagnostic_image_needs": [
+    "whole vine",
+    "three-lobed serrate leaf",
+    "petiole glands",
+    "leaf-margin serration",
+    "flower face",
+    "flower side/corona",
+    "large fruit"
+  ],
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it.",
+  "images": [
+    {
+      "file": "images/passiflora-incarnata-provisional-face.jpg",
+      "role": "Flower and foliage / recognizable face",
+      "creator": "Alex Abair",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_incarnata_89953285.jpg",
+      "study_use": "yes",
+      "public_reuse": "cc_by_4_0",
+      "caption": "Alex Abair, CC BY 4.0: showy large purple-and-white passionflower 'face' and foliage, genuine maypop field image. Petiole glands and individual flower parts need targeted close-ups.",
+      "diagnostic_roles": [
+        "flower/leaf context",
+        "corona or floral structure"
+      ]
+    },
+    {
+      "file": "images/02-maypop-mature-fruit.jpg",
+      "role": "Large Maypop fruit close-up; compare size/shape to tiny black passionvine berries",
+      "creator": "H3ini",
+      "license": "Public Domain",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_incarnata_fruit.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes, attribution/share-alike when applicable",
+      "caption": "H3ini, Public Domain: mature maypop fruit. Contrast its large ovoid outline with the much smaller dark berries of P. lutea/tenuiloba; no ruler supplied.",
+      "diagnostic_roles": [
+        "fruit"
+      ]
+    },
+    {
+      "file": "images/03-whole-vine-leaves-habit.jpg",
+      "role": "Wild maypop habit with branching vine, broad lobed leaves and reproductive context",
+      "creator": "Hans Hillewaert",
+      "license": "CC BY-SA 3.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Passiflora_incarnata_(habitus).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes, attribution/share-alike when applicable",
+      "caption": "Hans Hillewaert, CC BY-SA 3.0: wild maypop habit in Florida showing leaf arrangement and overall flowering vine; not a documented Hays County native occurrence.",
+      "diagnostic_roles": [
+        "vine habit",
+        "leaf context"
+      ]
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "photo_polish",
+    "image_count": 3,
+    "photo_files_present": 3,
+    "verified_at": "2026-10-13",
+    "note": "3 exact-name source-licensed photographs physically installed and source-provenance preserved. New images show selected traits, but key small nectary/gland macros and exact annotated arrows remain final-polish. Native-range decisions unchanged."
+  },
+  "diagnostic_photo_needs": [
+    {
+      "priority": "high",
+      "role": "paired nectar glands on petiole macro",
+      "status": "needed or final-polish—verify already installed image suitability; do not draw unverified arrows"
+    },
+    {
+      "priority": "high",
+      "role": "serrated leaf lobe margin",
+      "status": "needed or final-polish—verify already installed image suitability; do not draw unverified arrows"
+    },
+    {
+      "priority": "medium",
+      "role": "flower with sepals petals corona anthers and stigmas labeled",
+      "status": "needed or final-polish—verify already installed image suitability; do not draw unverified arrows"
+    },
+    {
+      "priority": "medium",
+      "role": "large mature maypop with ruler",
+      "status": "needed or final-polish—verify already installed image suitability; do not draw unverified arrows"
+    }
+  ],
+  "visual_science_review": {
+    "reviewed_at": "2026-10-13",
+    "status": "morphology-first lesson refined; native target labels unchanged",
+    "photo_priority": [
+      "paired nectar glands on petiole macro",
+      "serrated leaf lobe margin"
+    ]
+  }
+}

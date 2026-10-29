@@ -1,0 +1,19 @@
+PHOTO FAST-FILL 026 — Abutilon theophrasti
+Date: 2026-10-05
+Temporary one-photo learner coverage from exact-species/current-taxonomic-concept compatible media.
+Keep until stronger diagnostic gallery coverage replaces or supplements it.
+Media only; scientific status unchanged.
+
+LIBRARY-FIRST IMAGE SELECTION 029 2026-10-16T18:27:09.580440+00:00
+Abutilon theophrasti
+Creator: Michelle W. （鍾偉瑋）; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/4954261253
+Stored archive: hays-photo-library-mass-38762471564 :: staged_images/abutilon-theophrasti/gbif-7c4c04ea59f72a.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.
+
+LIBRARY-FIRST IMAGE SELECTION 029 2026-10-16T18:27:09.580440+00:00
+Abutilon theophrasti
+Creator: Bonnie Semmling; License shorthand: CC BY
+Original source: https://www.gbif.org/occurrence/3860409377
+Stored archive: hays-photo-library-mass-38762471564 :: staged_images/abutilon-theophrasti/gbif-2bc997af385e28.jpg
+Visually screened broad view. Independent exact-species botanical ID and close-up anatomy need verification. EXIF stripped; no arrows.

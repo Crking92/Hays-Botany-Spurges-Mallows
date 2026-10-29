@@ -1,0 +1,112 @@
+{
+  "id": "oenothera-hispida",
+  "entry_type": "species",
+  "family": "Onagraceae",
+  "genus": "Oenothera",
+  "species": "hispida",
+  "scientific_name": "Oenothera hispida",
+  "authority": "(Benth.) W.L.Wagner, Hoch & Zarucchi",
+  "common_name": "Drummond's beeblossom / Drummond's gaura",
+  "synonyms": [
+    "Oenothera xenogaura W.L.Wagner & Hoch",
+    "Gaura drummondii (Spach) Torr. & A.Gray",
+    "Gaura hispida Benth.",
+    "Gaura roemeriana Scheele"
+  ],
+  "taxonomic_note": "The B088 source row uses 'Oenothera xerogaura', an outdated/malformed Drummond's-beeblossom concept. Current Kew accepts Oenothera hispida; Oenothera xenogaura and Gaura drummondii are synonyms.",
+  "look_here_first": "Look for an aggressively rhizomatous, hairy perennial with small white-to-pink gaura flowers and mature fruits conspicuously swollen or bulging on the upper half.",
+  "county_occurrences_target_zone": [
+    "Travis",
+    "Comal",
+    "Mason"
+  ],
+  "target_zone_count": 3,
+  "native_target_zone_calculated": true,
+  "project_inclusion": {
+    "target_zone_status": "PASS",
+    "range_basis": "Travis — type locality Austin, Travis County. Comal — historical type material of Gaura roemeriana from New Braunfels. Mason — Mason Mountain WMA flora documents Gaura drummondii.",
+    "range_guardrail": "Old Gaura drummondii and Oenothera xenogaura records map to the current accepted Oenothera hispida."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "rhizomatous perennial forming colonies",
+      "densely appressed-hairy foliage",
+      "small white flowers fading pink",
+      "fruit with conspicuously swollen upper portion",
+      "fruit base abruptly constricted",
+      "mature fruit is critical for separation from O. suffrutescens"
+    ],
+    "comparison_training": "O. hispida can resemble O. suffrutescens strongly. Use mature capsules: O. hispida has distinctly expanded upper fruit lobes, whereas O. suffrutescens has a thick stipe and less abruptly swollen fruit."
+  },
+  "curation_status": {
+    "version": "1.0-b088",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "last_reviewed": "2026-10-03",
+    "photo_metadata_count": 2,
+    "photo_files_present": 2,
+    "external_first_photo_install": "2026-10-15",
+    "gbif_manual_photo_enrichment": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/inat-first-274443155.jpg",
+      "role": "Exact-taxon first-pass recognition photo; visible diagnostic parts not yet personally verified",
+      "creator": "iNaturalist photo contributor (CC0)",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/274443155",
+      "observation_url": "https://www.inaturalist.org/observations/158832636",
+      "photo_id": "274443155",
+      "observation_id": "158832636",
+      "source_recorded_photo_license_at_download": "cc0",
+      "source_recorded_photo_attribution_at_download": "no rights reserved",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/274443155/large.jpg",
+      "image_dimensions": [
+        576,
+        1024
+      ],
+      "study_use": "yes",
+      "public_reuse": "yes, no attribution legally required (CC0)",
+      "photo_review": "Automated source/license/Research Grade/identity match and image-byte verification; provisional, anatomical features unverified",
+      "anatomy_arrows": "none; targets unverified"
+    },
+    {
+      "file": "images/gbif-manual-2235476033-a8b803b12.jpg",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "requested_diagnostic_view": "Hairy stem and swollen fruit, flower side view showing floral tube",
+      "creator": "Reid Hardin",
+      "license": "CC BY",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_platform": "GBIF occurrence image, original creator retained",
+      "source_page": "https://www.gbif.org/occurrence/2235476033",
+      "gbif_occurrence_id": "2235476033",
+      "source_determination": "Oenothera hispida (Benth.) W.L.Wagner, Hoch & Zarucchi",
+      "accepted_target": "Oenothera hispida",
+      "media_source_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33201595/original.jpg",
+      "image_dimensions": [
+        1350,
+        1013
+      ],
+      "photo_review": "Exact source determination, individually licensed media, downloaded pixels, and basic near-duplicate filter checked. Anatomy NOT visually confirmed.",
+      "anatomy_arrows": "not added; image anatomy not verified",
+      "study_use": "follow individual license conditions; noncommercial only for CC BY-NC",
+      "public_reuse": "Respect recorded photo-specific license",
+      "modifications": "Resized JPEG and EXIF removed"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "note": "One exact-taxon Research Grade photo provisionally installed; morphological teaching views need visual review.",
+    "missing_diagnostic_views": [
+      "Species-diagnostic macros and visually checked morphology"
+    ]
+  },
+  "photo_note": "First-pass CC-licensed observation photo installed; precise anatomy and image quality require visual review. Manual diagnostic-photo enrichment candidate installed from individually licensed source; verify anatomy against target before labeling."
+}

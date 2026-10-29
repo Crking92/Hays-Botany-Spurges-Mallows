@@ -1,0 +1,512 @@
+{
+  "id": "euphorbia-heterophylla",
+  "entry_type": "species",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "species": "heterophylla",
+  "scientific_name": "Euphorbia heterophylla",
+  "authority": "L.",
+  "common_name": "painted spurge",
+  "look_here_first": "CHECK THE TRUE NECTAR GLAND, NOT THE VARIABLE LEAVES. Euphorbia heterophylla (painted spurge) has usually GREEN or pale-green upper bracts, often highly variable leaf outlines, a smooth developing THREE-LOBED capsule, and ONE yellow-green cyathial nectar gland with a RAISED CIRCULAR/ANNULAR RIM. The exact saved SAplants var. heterophylla macro now SHOWS and annotates that ROUND rimmed gland opening. E. cyathophora normally has red/pink/white patches at bract bases, but some plants have all-green bracts; its gland is distinctly OBLONG and lacks the raised circular rim. The salmon-pink-bracted older Psumuseum photograph labeled E. heterophylla is on TAXON ID HOLD, so do not teach from or publish that image until identity is resolved. Nativity/range status unchanged.",
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "project_inclusion": {
+    "target_zone_status": "COMPARISON",
+    "range_basis": "Approved comparison-only taxon; POWO/FNA treat Texas occurrence as introduced/naturalized. Exclude from native metrics.",
+    "range_guardrail": "COMPARISON only; not project-native."
+  },
+  "morphology_keys": {
+    "family_pattern": "Euphorbia: milky latex; the apparent flower is a cyathium with highly reduced male flowers and one central female flower.",
+    "growth_form": "Annual herb of disturbed sites.",
+    "leaves": "Highly polymorphic within populations and even on one plant; blades may be lanceolate, elliptic, obovate, pandurate, or lobed. Leaf shape alone is unreliable.",
+    "upper_bracts": "Pleiochasial bracts remain green or are only paler green at the base rather than sharply red/pink/white as is typical of E. cyathophora.",
+    "cyathium": "One yellow-green gland, stipitate and clavate, about 1–1.4 × 1–1.2 mm; opening circular, occasionally flattened by pressing, with a distinct annular rim; appendages absent.",
+    "fruit": "Capsule broadly ovoid, about 2.8–3.8 × 4–5.3 mm, three-lobed, usually glabrous and only rarely sparsely puberulent.",
+    "seed": "Seeds broadly deltoid, about 2.4–2.8 × 1.9–2.4 mm, angular in cross section with a strongly keeled dorsal face and tubercles.",
+    "best_field_traits": [
+      "Annual upright herb; can resemble toothed spurges and wild poinsettia.",
+      "Upper bracts usually green or paler near base in FNA; colored-looking specimens need recheck.",
+      "Leaves extremely variable, from unlobed to deeply cut, often on one specimen.",
+      "Terminal green cyathial cups and glabrous three-lobed capsules.",
+      "Single clavate stalked nectar gland with round opening and annular rim is main distinction; macro missing.",
+      "Texas occurrence comparison-only per existing project, not automatically approved native."
+    ],
+    "comparison_training": "Against E. cyathophora, use the cyathial gland before leaf shape. E. heterophylla = green/pale bracts + stipitate gland + round annular-rimmed opening; E. cyathophora = sharply colored bract bases + sessile/substipitate gland + oblong rimless opening.",
+    "reproductive_teaching": "Cyathium = a cup-shaped Euphorbia inflorescence with highly reduced staminate flowers and one pistillate flower. The stalked swelling outside the cup becomes a THREE-LOBED capsule; upper colored or green modified leaves are BRACTS and not five separate petals. Do not mistake a ripe fruit for the nectar gland.",
+    "seed_pair": "E. cyathophora seeds are usually rounded in cross section and lack caruncle; E. heterophylla seed is angular, with a strong dorsal keel and small caruncle, as in FNA. These seed structures are absent in existing photographs, so don't put arrows on them.",
+    "field_camera_steps": [
+      "1. Full plant and full upper shoot with mature leaves.",
+      "2. Bract pair top view: colored or green basal patch and leaf attachments, at same scale.",
+      "3. Green capsule at branch tip — shoot front and side, include mm scale.",
+      "4. MACRO of one cyathium gland with 10–20× or better microscope. Capture aperture opening and whether there is a raised circular rim.",
+      "5. For no-bract-color plants, photograph mature seed faces/cross-section and keep group-level ID if gland still missing.",
+      "6. Do not tear stem to demonstrate irritating Euphorbia latex to students."
+    ],
+    "habitat_management": "Annual weed-prone spurge of open/disturbed habitats. Habitat alone doesn't settle nativity. Respect existing project county and introduction labels; milky latex may irritate skin/eyes. Avoid using bract color alone to decide ecological management."
+  },
+  "comparisons": {
+    "confused_with": [
+      "Euphorbia cyathophora",
+      "Euphorbia dentata",
+      "Euphorbia davidii",
+      "Euphorbia cuphosperma",
+      "Euphorbia bicolor"
+    ],
+    "lookalike_matrix": [
+      {
+        "character": "Upper floral bracts",
+        "Euphorbia heterophylla": "green or only paler green at base",
+        "Euphorbia cyathophora": "usually sharply white, pink, or red at base"
+      },
+      {
+        "character": "Gland attachment",
+        "Euphorbia heterophylla": "stipitate",
+        "Euphorbia cyathophora": "sessile to substipitate"
+      },
+      {
+        "character": "Gland opening",
+        "Euphorbia heterophylla": "round, with annular rim",
+        "Euphorbia cyathophora": "oblong, without annular rim"
+      },
+      {
+        "character": "Leaf shape",
+        "Euphorbia heterophylla": "highly polymorphic",
+        "Euphorbia cyathophora": "also variable",
+        "reliability": "poor separator by itself"
+      }
+    ],
+    "key_distinctions": "Heterophylla typically green/pale green bracts + stalked yellow-green gland with ROUND hole and ANNULAR RIM versus cyathophora strongly red/pink/white basal bract (often) + OBLONG rimless aperture. Both vary in bract coloration and leaf outline; check a real enlarged gland. Seed in heterophylla angular with strongly keeled dorsal face and tiny caruncle, compared with cyathophora generally rounded in cross-section and caruncle absent.",
+    "crew_key": [
+      "Is it a Euphorbia: tiny cyathia and separate three-lobed capsules rather than showy normal petals?",
+      "Find upper modified bracts; note red/pink/white BASES versus green/pale-green bases, but never conclude on color alone.",
+      "Check whether there is one nectar gland on the cyathial cup and photograph its FACE under magnification.",
+      "Oblong gland opening, rim absent = cyathophora. Circular opening, annular rim present = heterophylla.",
+      "If tiny gland is unresolved, retain E. cyathophora–heterophylla group until clearer proof."
+    ],
+    "field_comparison_matrix": [
+      {
+        "character": "Upper modified bracts",
+        "cyathophora": "Often sharply red/pink/white at the base; sometimes fully green",
+        "heterophylla": "Usually wholly green or merely pale green at base"
+      },
+      {
+        "character": "Gland aperture",
+        "cyathophora": "Oblong/flattened without pressing",
+        "heterophylla": "Circular unless distorted by pressing"
+      },
+      {
+        "character": "Ring around gland opening",
+        "cyathophora": "NO annular rim",
+        "heterophylla": "YES distinctly annular rim"
+      },
+      {
+        "character": "Gland attachment",
+        "cyathophora": "Sessile to very shortly stalked",
+        "heterophylla": "Clearly stipitate/stalked"
+      },
+      {
+        "character": "Seeds",
+        "cyathophora": "Rounded in section, without caruncle",
+        "heterophylla": "Angular section, keeled back, minute caruncle"
+      },
+      {
+        "character": "Leaf blades",
+        "cyathophora": "Variable, sometimes lobed",
+        "heterophylla": "Extremely variable, sometimes highly lobed"
+      }
+    ]
+  },
+  "photo_strategy": {
+    "method": "FAST-FILL existing reviewed study-media handoff",
+    "visual_priority": "Use current exact-species study candidates where available; photo backfill may add stronger diagnostic macros later.",
+    "remaining_need": "Learner Photo Backfill visual polish is nonblocking."
+  },
+  "learner_role": "COMPARISON",
+  "curation_status": {
+    "version": "2.2-gland-pair-verified-pink-photo-review",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "visual_reviewed": true,
+    "visual_status": "FIELD_READY_WITH_ONE_TAXON_SOURCE_HOLD_AND_OPTIONAL_SEED_MACRO",
+    "last_reviewed": "2026-10-21",
+    "photo_metadata_count": 4,
+    "photo_files_present": 4,
+    "finished_field_id_pass": "CREW_READY_GLAND_VERIFIED_WITH_TAXON_PHOTO_HOLD",
+    "field_id_text_reviewed": true,
+    "annotated_real_photo_count": 3,
+    "verified_arrow_count": 7,
+    "required_to_finish": [],
+    "saplants_verified_photo_added": "2026-10-20",
+    "comparison_photos": 1,
+    "field_status": "FIELD_READY_WITH_HELD_PHOTO_AND_OPTIONAL_SEED_MACRO"
+  },
+  "photo_note": "FOUR stored exact-label photos including one TAXON-ID-HOLD Psumuseum candidate; THREE eligible visually checked teaching photographs carry SEVEN real anatomy arrows. Key SAplants actual E. heterophylla var. heterophylla image (CC BY-SA) shows ROUND gland apertures WITH raised annular rims and separate three-lobed fruits. Matching real E. cyathophora SAplants gland photo shows OBLONG rimless openings. The questionable salmon-pink-bracted Psumuseum image is held and MUST NOT be included in public or featured card. Mature seeds with a tiny caruncle, acute dorsal keel, and angular cross section remain a desirable optional macro photo; a local Hays specimen is not required to close field-training work.",
+  "images": [
+    {
+      "file": "images/euphorbia-heterophylla-provisional-face.jpg",
+      "role": "Recognize · green leafy branching shoot with small reproductive cluster near the upper nodes; gland morphology unresolved",
+      "creator": "Dinesh Valke",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_heterophylla_L._(50460036088).jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "anatomy_arrows": [
+        {
+          "label": "Green upper bracts",
+          "target_fraction": [
+            0.47,
+            0.22
+          ]
+        },
+        {
+          "label": "Central developing fruits",
+          "target_fraction": [
+            0.31,
+            0.29
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-20 direct full original local JPEG pixel QA: colored/green bracts and 3-lobed fruit verified; no unverified microscopic gland labels."
+    },
+    {
+      "file": "images/02-cyathia-closeup.jpg",
+      "role": "Look closer · green central cyathial/reproductive cluster with pale salmon-pink upper bracts and developing round capsules; cyathial gland stalk/rim not independently resolved",
+      "creator": "Psumuseum",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_heterophylla_with_cyathia.JPG",
+      "study_use": "yes",
+      "public_reuse": "no",
+      "taxon_photo_review": "TAXON_ID_HOLD: source page says heterophylla, but pictured bright salmon/pink basal bracts conflict with FNA heterophylla diagnosis. Do not use as diagnostic heterophylla image until independent ID review.",
+      "public_comparison_eligible": false,
+      "display_status": "HOLD_TAXON_ID_DO_NOT_RENDER",
+      "source_license_status": "CC BY-SA 4.0 valid, but botanical photo identification unresolved; withheld from public lesson independent of image rights"
+    },
+    {
+      "file": "images/03-fruits.jpg",
+      "role": "Look closer · cluster of rounded green to brown developing three-lobed capsules and dried floral structures; seeds not exposed",
+      "creator": "Eitan f",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_heterophylla_fruits.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes",
+      "anatomy_arrows": [
+        {
+          "label": "Three-lobed dry capsule",
+          "target_fraction": [
+            0.33,
+            0.68
+          ]
+        },
+        {
+          "label": "Another three-lobed fruit",
+          "target_fraction": [
+            0.77,
+            0.32
+          ]
+        }
+      ],
+      "manual_arrow_review": "2026-10-20 direct full original local JPEG pixel QA: colored/green bracts and 3-lobed fruit verified; no unverified microscopic gland labels."
+    },
+    {
+      "file": "images/04-saplants-heterophylla-cyathia.jpg",
+      "role": "Source-labelled Euphorbia heterophylla var. heterophylla close-up of true tiny cyathia and developing 3-lobed fruits from a non-red-bracted specimen; examine actual saved pixels before adding anatomy arrows.",
+      "creator": "SAplants (Wikimedia Commons)",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_heterophylla_var._heterophylla_1DS-II_1-7120-01.jpg",
+      "source_platform": "Wikimedia Commons (originally labelled E. heterophylla var. heterophylla, garden weed in South Africa)",
+      "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Euphorbia_heterophylla_var._heterophylla_1DS-II_1-7120-01.jpg/1920px-Euphorbia_heterophylla_var._heterophylla_1DS-II_1-7120-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+      "original_image_sha256": "56d183c971fb8815b7156d17ae36a89914802d969162339c8a13869073b5d28c",
+      "original_image_dimensions": [
+        1920,
+        1280
+      ],
+      "image_dimensions": [
+        1750,
+        1167
+      ],
+      "public_reuse": "yes",
+      "study_use": "public educational botanical field lessons, attribution and share-alike",
+      "modifications": "Resized and re-encoded EXIF-free JPEG; arrows not applied yet.",
+      "anatomy_arrows": [
+        {
+          "label": "Round nectar-gland opening",
+          "target_fraction": [
+            0.26,
+            0.516
+          ]
+        },
+        {
+          "label": "Raised annular rim around gland",
+          "target_fraction": [
+            0.405,
+            0.575
+          ]
+        },
+        {
+          "label": "Developing 3-lobed capsule",
+          "target_fraction": [
+            0.5770000000000001,
+            0.439
+          ]
+        }
+      ],
+      "photo_review": "Source is specifically named variety heterophylla, photographed at Lowveld Botanical Garden South Africa. CC BY-SA 4.0, creator SAplants. Photo resolves developing capsules; true circular gland aperture/annular rim to verify by inspecting saved JPEG, do not infer. Real anatomy photo readback PASS: round gland opening and annular rim visually visible as FNA predicts, unlike previously held source.",
+      "manual_arrow_review": "2026-10-20: directly viewed actual saved 1750x1167 Commons JPEG. Two clear round, elevated orange/yellow-green gland apertures and one separate tri-lobed developing green capsule marked. Exact tip coordinates checked against source pixels; original photo unchanged."
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "three_safe_annotated_photos_and_paired_confirmatory_gland_comparison",
+    "image_count": 4,
+    "filled_at": "2026-10-07",
+    "note": "Three safe source photos with seven checked structure arrows, including real ROUND annular cyathial gland. One suspect pink-bracted file is TAXON-HOLD and excluded; don't interpret it as proof for this species.",
+    "annotated_photo_count": 3,
+    "verified_arrow_count": 7,
+    "public_eligible_count": 3
+  },
+  "synonyms": [
+    "Poinsettia heterophylla"
+  ],
+  "taxonomic_note": "Accepted as Euphorbia heterophylla L. by current Kew/POWO and Flora of North America; Poinsettia heterophylla is an important historical synonym. Texas occurrence remains comparison-only/non-native in this project.",
+  "unreliable_characters": [
+    "leaf shape by itself",
+    "overall height",
+    "disturbed habitat",
+    "green bracts by themselves"
+  ],
+  "diagnostic_image_needs": [
+    {
+      "role": "real green/pale-green bracted shoot",
+      "status": "PHOTO_PRESENT"
+    },
+    {
+      "role": "real true annular-rimmed circular cyathial gland aperture",
+      "status": "PHOTO_VERIFIED_WITH_ARROWS"
+    },
+    {
+      "role": "glabrous three-lobed capsule",
+      "status": "PHOTO_VERIFIED"
+    },
+    {
+      "role": "direct paired E. cyathophora oblong rimless gland",
+      "status": "PHOTO_VERIFIED_DIFFERENT_SPECIES_LABELED"
+    },
+    {
+      "role": "pink-bracted Psumuseum source",
+      "status": "TAXON_ID_HOLD_DO_NOT_FEATURE"
+    },
+    {
+      "role": "mature angular keeled seed plus caruncle",
+      "status": "OPTIONAL_MICRO_GAP"
+    }
+  ],
+  "photo_research": {
+    "status": "FIELD_READY_GLAND_MACRO_WITH_HELD_SOURCE_IMAGE",
+    "installed_roles": [
+      "whole flowering foliage",
+      "cyathia close-up",
+      "fruit/reproductive view"
+    ],
+    "next_priority": [
+      "Independently voucher-verify or permanently replace Psumuseum pink-bracted photo; held image not a production asset",
+      "Optional actual mature keeled seed/caruncle macro with scale",
+      "Optional local Hays-area photo documenting introduced plant"
+    ],
+    "polish_focus": "Cyathial gland opening and attachment",
+    "matched_pair": "Euphorbia cyathophora vs Euphorbia heterophylla",
+    "current_physical_macro": "images/04-saplants-heterophylla-cyathia.jpg"
+  },
+  "visual_comparison": {
+    "instance_id": "euphorbia-heterophylla-20261020-verified",
+    "title": "Painted spurge — CIRCULAR raised-rim gland vs wild poinsettia's oblong gland",
+    "subtitle": "Exact source photos show TRUE round openings with raised annular rims (heterophylla) next to oblong rimless glands of E. cyathophora. Both are source-licensed, independently arrow-reviewed.",
+    "items": [
+      {
+        "label": "Identify GREEN upper bracts and reproductive cluster",
+        "scientific_name": "Euphorbia heterophylla",
+        "image_role": "Green distal leaves/bracts around a congested terminal cluster on exact-species photograph",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-heterophylla/images/euphorbia-heterophylla-provisional-face.jpg",
+        "creator": "Dinesh Valke",
+        "license": "CC BY-SA 2.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_heterophylla_L._(50460036088).jpg",
+        "image_fit": "contain",
+        "caption": "The upper bracts and leafy reproductive cluster are green, not strongly red at base in this photo. The small green capsules are NOT a clearly illustrated stalked, circular-rimmed gland.",
+        "why_it_matters": "Use green upper foliage to contrast classic cyathophora while recognizing that bract color alone is not enough.",
+        "markers": [
+          {
+            "label": "Green upper bracts",
+            "label_x": 69,
+            "label_y": 10,
+            "target_x": 47,
+            "target_y": 22
+          },
+          {
+            "label": "Central developing fruits",
+            "label_x": 6,
+            "label_y": 44,
+            "target_x": 31,
+            "target_y": 29
+          }
+        ]
+      },
+      {
+        "label": "Confirm the circular gland opening and raised rim — real macro",
+        "scientific_name": "Euphorbia heterophylla",
+        "image_role": "Macro of cyathial gland openings with raised circular rims, green three-lobed developing fruits, original source labelled E. heterophylla var. heterophylla",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-heterophylla/images/04-saplants-heterophylla-cyathia.jpg",
+        "creator": "SAplants (Wikimedia Commons)",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_heterophylla_var._heterophylla_1DS-II_1-7120-01.jpg",
+        "image_fit": "contain",
+        "caption": "Two conspicuous round yellow-green openings with ring-shaped raised margins are actual cyathial glands; large three-lobed green bodies are separate developing capsules. The glands provide the distinguishing ROUND/RIMMED character of E. heterophylla. The specimens are photographed from a naturalized garden in South Africa, not a Central Texas collection.",
+        "why_it_matters": "Unlike the prior small photos, this one actually demonstrates a real raised circular gland rim so crew can compare the correct botanical part against the oblong rimless gland of E. cyathophora.",
+        "markers": [
+          {
+            "label": "Round nectar-gland opening",
+            "label_x": 9,
+            "label_y": 46,
+            "target_x": 26,
+            "target_y": 51.6
+          },
+          {
+            "label": "Raised annular rim around gland",
+            "label_x": 47,
+            "label_y": 83,
+            "target_x": 40.5,
+            "target_y": 57.5
+          },
+          {
+            "label": "Developing 3-lobed capsule",
+            "label_x": 70,
+            "label_y": 12,
+            "target_x": 57.7,
+            "target_y": 43.9
+          }
+        ]
+      },
+      {
+        "label": "Inspect the true 3-lobed fruit architecture",
+        "scientific_name": "Euphorbia heterophylla",
+        "image_role": "Older green-to-brown, three-lobed capsules from source-labelled Euphorbia heterophylla",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-heterophylla/images/03-fruits.jpg",
+        "creator": "Eitan f",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_heterophylla_fruits.jpg",
+        "image_fit": "contain",
+        "caption": "Several mature-looking three-lobed capsules appear beside dry floral remnants, but the individual seeds inside are not visible. Three-lobed capsule shape occurs in both species and is NOT the annular-rim gland.",
+        "why_it_matters": "Teaches the correct family fruit and where a close-up will need to look to show the separate cyathial gland.",
+        "markers": [
+          {
+            "label": "Three-lobed dry capsule",
+            "label_x": 3,
+            "label_y": 60,
+            "target_x": 33,
+            "target_y": 68
+          },
+          {
+            "label": "Another three-lobed fruit",
+            "label_x": 69,
+            "label_y": 12,
+            "target_x": 77,
+            "target_y": 32
+          }
+        ]
+      },
+      {
+        "label": "Compare wild poinsettia's OBLONG rimless gland",
+        "scientific_name": "Euphorbia cyathophora",
+        "image_role": "True visual comparison species: two flattened oblong nectar gland mouths and scarlet red modified floral bracts",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-cyathophora/images/04-saplants-cyathophora-gland-macro.jpg",
+        "creator": "SAplants",
+        "license": "CC BY-SA 4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_heterophylla_var._cyathophora_1DS-II_2-6098.jpg",
+        "image_fit": "contain",
+        "caption": "This image is the OTHER species, accepted E. cyathophora (historical name E. heterophylla var. cyathophora). Its yellow-green gland opening is flattened into an OBLONG slot without the circular raised ring of E. heterophylla. Look at the structure, not red petals; those scarlet parts are bracts.",
+        "why_it_matters": "We have both authenticated gland shapes from closely comparable, openly licensed macro photographs.",
+        "markers": [
+          {
+            "label": "Oblong gland without raised circular rim",
+            "label_x": 4,
+            "label_y": 45,
+            "target_x": 33.7,
+            "target_y": 50.5
+          },
+          {
+            "label": "Separate three-lobed capsule",
+            "label_x": 65,
+            "label_y": 75,
+            "target_x": 48.8,
+            "target_y": 42.8
+          }
+        ]
+      }
+    ],
+    "overlay_note": "Actual heterophylla var. heterophylla and historical var. cyathophora photographs © SAplants, CC BY-SA 4.0. Kew POWO confirms var. cyathophora is synonymous with accepted E. cyathophora. Existing Psumuseum pink-bracted heterophylla file remains on taxon-ID hold, outside this training panel."
+  },
+  "field_photo_quickcheck": {
+    "heading": "Painted spurge: GREEN bracts support, the round gland confirms",
+    "featured_photo_indices": [
+      3,
+      0,
+      2
+    ],
+    "steps": [
+      "Observe usually GREEN or paler-green upper bracts, but don't force an ID from leaf color.",
+      "Look at the new high-resolution heterophylla photo: its one yellow-green gland has a CIRCULAR mouth with a raised annular rim.",
+      "Compare to the cyathophora photo: its yellow-green gland is a FLATTENED OBLONG trough without a raised circular rim.",
+      "Three-lobed green fruits are capsules on BOTH species; they are not gland openings."
+    ],
+    "field_rule": "Round cyathial gland opening with raised annular rim supports E. heterophylla; oblong rimless gland supports E. cyathophora. The photo pair now actually illustrates BOTH forms.",
+    "warning": "The old Psumuseum photo at index 1 is ON TAXON-ID HOLD and excluded from featured photo panels and public training regardless of its original Commons label. Real annular gland macro is at image index 3 and is sufficient for field teaching. True mature keeled seed and caruncle remain optional photo gaps."
+  },
+  "field_id_finalization": {
+    "review_date": "2026-10-21",
+    "stage": "FIELD_READY_WITH_PHOTO_ID_HOLD_AND_OPTIONAL_SEED_GAP",
+    "text_review": "FNA cyathophora/heterophylla section Poinsettia key verified",
+    "photo_review": "2026-10-21 saved genuine SAplants 1750×1167 E. heterophylla var. heterophylla image re-inspected against actual known source. Round gland openings and raised annular rims are visible at 3 existing safe reproductive markers. Larger three-lobed fruits are separate. THREE annotated safe images, seven arrows. The suspect Psumuseum photo remains OFF PUBLIC TEACHING; no seed or local county claims invented.",
+    "anatomy_arrows": 7,
+    "annotated_real_photos": 3,
+    "crew_status": "CREW_READY_PAIRED_GLAND_PHOTOS",
+    "taxon_photo_exception": "02-cyathia-closeup.jpg is tagged heterophylla on Wikimedia Commons but has salmon/red basal bracts; identity needs independent voucher-style verification before it teaches heterophylla.",
+    "remaining_photo_gaps": [
+      "Optional true keeled carunculate seed macro with mm scale",
+      "Independently resolve or replace held salmon-bracted Psumuseum photograph before adding it anywhere public",
+      "Optional local field specimen image"
+    ],
+    "other_taxon_comparison_photos": 1,
+    "comparison_arrow_count": 2
+  },
+  "diagnostic_photo_requirements": [
+    {
+      "role": "Whole plant habit",
+      "status": "PARTIAL_UPPER_SHOOT_ONLY"
+    },
+    {
+      "role": "Upper colored vs green bracts",
+      "status": "ONE_GREEN_BRACT_VERIFIED"
+    },
+    {
+      "role": "Three-lobed developing capsule",
+      "status": "PHOTO_ARROWS_VERIFIED_NOT_SPECIES_DECISIVE"
+    },
+    {
+      "role": "Cyathial gland aperture and raised rim",
+      "status": "HIGH_RES_PHOTO_VERIFIED_ROUND_OPENING_AND_ANNULAR_RIM",
+      "note": "SAplants 1750x1167 macro, genuine two raised ring openings arrowed."
+    },
+    {
+      "role": "Seed angularity/roundness and caruncle",
+      "status": "OPTIONAL_MACRO_GAP_NONBLOCKING_FOR_FIELD_TRAINING"
+    }
+  ],
+  "curated_sources": [
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=318100",
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200012563",
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242321403"
+  ]
+}

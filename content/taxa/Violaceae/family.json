@@ -1,0 +1,150 @@
+{
+  "rank": "family",
+  "name": "Violaceae",
+  "common_name": "Violet family",
+  "lineage_context": {
+    "order": "Malpighiales",
+    "batch": "Malpighiales",
+    "close_project_families": [
+      "Salicaceae",
+      "Passifloraceae",
+      "Euphorbiaceae"
+    ],
+    "teaching_goal": "Use stipules, a 5-merous often zygomorphic flower, five close-set stamens with enlarged anther connectives, a superior 1-locular parietal ovary and a 3-valved capsule."
+  },
+  "project_scope": {
+    "selection_mode": "Central Texas Viola + Pombalia family module",
+    "note": "Viola is visually obvious; Pombalia is the important anti-stereotype showing that not every violet-family plant looks like a classic violet."
+  },
+  "family_diagnostics": {
+    "where_to_look_first": "Check for stipules, then inspect a 5-part flower: 5 free petals, often unequal, 5 stamens closely surrounding the ovary with prominent connective appendages, and a superior 1-locular ovary with parietal placentation.",
+    "vegetative": "Herbs to shrubs globally; project taxa are herbs/perennial geophytes. Leaves are simple, usually alternate, and stipules are present.",
+    "reproductive": "Flowers usually bisexual and 5-merous, often zygomorphic. In Viola the lower/anterior petal is strongly spurred; Pombalia may be less stereotypically violet-like but retains the family reproductive architecture.",
+    "fruit": "Usually a 3-valved loculicidal capsule; seeds often bear an elaiosome.",
+    "field_tip": "Stipules + 5 close-set stamens/anther scales + one-celled parietal ovary + 3-valved capsule is safer than 'purple flower with a spur.'"
+  },
+  "visual_lesson": {
+    "status": "family_first_lineage_batch_007",
+    "teaching_order": "stipule → 5-part zygomorphic flower → anther-connective scale/pollen cone → 1-locular parietal ovary → 3-valved capsule → Viola-vs-Pombalia",
+    "intro": "Classic violets are easy, but the family lesson matters because Pombalia can look nothing like the garden-violet stereotype.",
+    "steps": [
+      {
+        "title": "1 · Find the stipules",
+        "photo_role": "leaf node macro",
+        "look_for": "A pair of stipules at the leaf base; in Viola they may be obvious and leafy or finely divided.",
+        "why_it_matters": "A reliable vegetative clue before the flower is studied.",
+        "status": "local_macro_pending"
+      },
+      {
+        "title": "2 · Read the asymmetric 5-petal flower",
+        "photo_role": "flower face + side view",
+        "look_for": "Five free petals, often unequal; in Viola the lowermost/anterior petal carries a backward spur.",
+        "why_it_matters": "This is the classic family gestalt but not the whole diagnosis.",
+        "status": "local_visual_pending"
+      },
+      {
+        "title": "3 · Look at the anthers, not just the petals",
+        "photo_role": "stamen cone/connective macro or diagram",
+        "look_for": "Five stamens close around the ovary; the anther connectives extend into noticeable scales/appendages. In strongly zygomorphic flowers the lower stamens can bear nectary appendages into the spur.",
+        "why_it_matters": "This structure ties Viola and less obvious Violaceae together.",
+        "status": "diagram_pending"
+      },
+      {
+        "title": "4 · Confirm the one-chamber ovary and 3-valved capsule",
+        "photo_role": "fruit cross-section + opened capsule",
+        "look_for": "Superior 1-locular ovary with parietal placentas, later splitting into three broad valves.",
+        "why_it_matters": "Separates Violaceae from the 3-locular columella capsules of Euphorbiaceae.",
+        "status": "macro_pending"
+      },
+      {
+        "title": "5 · Pombalia is the anti-stereotype",
+        "photo_role": "Pombalia verticillata whole plant + flower",
+        "look_for": "A small non-classic violet-family herb/geophyte retaining the stipules, 5-merous flower and capsular family architecture.",
+        "why_it_matters": "Prevents overfitting the family to Viola alone.",
+        "status": "local_visual_pending"
+      }
+    ],
+    "comparisons": [
+      {
+        "title": "Violaceae vs Euphorbiaceae",
+        "rule": "Both can end in a 3-valved capsule, but Violaceae has a 1-locular ovary with parietal placentation; Euphorbiaceae typically has 3 locules, one ovule each and a persistent central columella."
+      },
+      {
+        "title": "Violaceae vs Salicaceae",
+        "rule": "Both can have a 1-locular parietal ovary, but local Salicaceae uses reduced unisexual catkin flowers and many comose seeds; Violaceae uses 5-merous bisexual flowers and usually a 3-valved capsule."
+      },
+      {
+        "title": "Violaceae vs Polygalaceae",
+        "rule": "Both can look strongly zygomorphic. Violaceae is stipulate and has five close-set stamens with distinctive connective appendages; Polygalaceae lacks stipules and has a very different keel/wing flower architecture."
+      }
+    ],
+    "caveat": "Not all Violaceae are spurred or strongly zygomorphic. The ovary/placentation + stamen-connective structure is the broader family anchor."
+  },
+  "project_pool_genus_roadmap": {
+    "count": 2,
+    "genera": [
+      {
+        "genus": "Viola",
+        "taxa_count": 2,
+        "fast_cue": "stipulate herb + strongly zygomorphic flower + spurred lower petal + 3-valved capsule",
+        "role": "classic violet door"
+      },
+      {
+        "genus": "Pombalia",
+        "taxa_count": 1,
+        "fast_cue": "less stereotypical violet-family herb; use stipules, 5-merous flower and capsule anatomy",
+        "role": "anti-stereotype door"
+      }
+    ]
+  },
+  "project_pool_taxa": [
+    "Viola missouriensis",
+    "Viola affinis",
+    "Pombalia verticillata"
+  ],
+  "taxonomy_notes": [
+    "Pombalia verticillata is accepted under current Kew; older sources may use Hybanthus verticillatus."
+  ],
+  "visual_targets": [
+    {
+      "priority": 1,
+      "structure": "Viola spur + nectary appendage",
+      "annotation_goal": "connect lower petal spur to staminal nectary appendage"
+    },
+    {
+      "priority": 1,
+      "structure": "anther connective scales",
+      "annotation_goal": "label connective extension around ovary"
+    },
+    {
+      "priority": 1,
+      "structure": "3-valved capsule",
+      "annotation_goal": "show parietal placentas on opened valves"
+    },
+    {
+      "priority": 2,
+      "structure": "Pombalia whole plant + flower",
+      "annotation_goal": "teach family without classic Viola gestalt"
+    }
+  ],
+  "source_notes": [
+    {
+      "source": "Plants of the World Online — Violaceae",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000541-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Viola",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000540-2/general-information"
+    },
+    {
+      "source": "Plants of the World Online — Pombalia verticillata",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77143583-1/general-information"
+    }
+  ],
+  "curation_status": {
+    "version": "1.0-lineage-batch-007",
+    "last_reviewed": "2026-10-03",
+    "visual_lock": "family_structure_live_stamen_capsule_pombalia_macros_pending",
+    "family_backfill_phase": "recognition module built; species promotion independent"
+  }
+}

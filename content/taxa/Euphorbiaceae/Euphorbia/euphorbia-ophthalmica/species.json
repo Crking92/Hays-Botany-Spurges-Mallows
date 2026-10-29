@@ -1,0 +1,676 @@
+{
+  "id": "euphorbia-ophthalmica",
+  "family": "Euphorbiaceae",
+  "genus": "Euphorbia",
+  "species": "ophthalmica",
+  "scientific_name": "Euphorbia ophthalmica",
+  "common_name": "Florida hammock sandmat",
+  "look_here_first": "FOLLOW THE SMALL HAIRY SHOOT TO ITS FLOWERING HEADS. E. ophthalmica (Florida hammock sandmat) typically makes a LOW PROSTRATE hairy colony with small opposite, slightly unequal, finely toothed leaves. At the END of each main shoot or SHORT LEAFY side shoot, many tiny cyathia crowd into a round HEAD (glomerule). E. hirta also has terminal heads but additionally makes AXILLARY heads, often on extended LEAFLESS stalks: seeing just one terminal head does not prove ophthalmica. E. hypericifolia also forms dense heads but generally has SMOOTH STEMS and smooth capsules; E. nutans makes looser leafy clusters and larger leaves. FNA describes ophthalmica's minute capsule as finely APPRESSED-HAIRY, its stipules as narrow and sometimes divided, and its four-angled seeds with a few FAINT CROSSWISE wrinkles. Our existing images SUPPORT head placement, leaf/stem hairs and mat habit, but NOT clear capsule hairs, tiny stipules or seed sculpture. No Hays County native-range finding should be inferred from these mostly nonlocal source photos.",
+  "curation_status": {
+    "taxonomy_reviewed": true,
+    "visual_reviewed": true,
+    "photo_source_checked": true,
+    "photo_metadata_count": 7,
+    "photo_files_present": 7,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "field_status": "FIELD_READY_HEADS_AND_HAIRS_WITH_CAPSULE_STIPULE_SEED_MACRO_HOLDS",
+    "last_reviewed": "2026-10-21",
+    "visual_status": "FOUR_ANNOTATED_IMAGES_12_VERIFIED_ARROWS_MICRO_UNRESOLVED",
+    "annotated_real_photo_count": 6,
+    "verified_arrow_count": 17
+  },
+  "photo_note": "SEVEN real source photographs installed, including five photographed panels with 17 actual pixel-reviewed arrows; two new macro photographs by Lucy Cash and karlabalrey show terminal head placement, thin hairs on STEM and LEAF, but NOT diagnostic tiny capsule hairs, true stipules or mature seeds. All image sources credited per image, two CC BY-NC sources used only on noncommercial educational site. No county-native-range promotion.",
+  "taxonomy_source": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242437635",
+  "images": [
+    {
+      "file": "images/inat-153476082.jpg",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "creator": "(c) julius1993, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC",
+      "source_page": "https://www.inaturalist.org/photos/153476082",
+      "study_use": "Noncommercial botanical education",
+      "public_reuse": "Attribution; noncommercial only"
+    },
+    {
+      "file": "images/02-roget-flowering-plant.jpg",
+      "role": "Original broad plant habit/flowering branch from photographed specimen",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_ophthalmica.jpg",
+      "platform": "Wikimedia Commons",
+      "study_use": "educational public learner",
+      "public_reuse": "yes",
+      "photo_review": "Individual Commons File title exact Euphorbia ophthalmica; photographer and verified CC BY-family license from live photo metadata. Actual image bytes downloaded/decoded. Anatomical arrows pending original pixel review; no local Texas provenance asserted.",
+      "modifications": "Downscaled JPEG copy, EXIF stripped; actual photo unchanged; pointers displayed as overlay only.",
+      "anatomy_arrows": [
+        {
+          "label": "Prostrate shoot",
+          "target_fraction": [
+            0.28,
+            0.61
+          ]
+        },
+        {
+          "label": "Rounded terminal cluster",
+          "target_fraction": [
+            0.55,
+            0.26
+          ]
+        },
+        {
+          "label": "Small opposite leaves",
+          "target_fraction": [
+            0.31,
+            0.46
+          ]
+        }
+      ],
+      "creator": "Leonel Roget",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_sha256": "673ea53fc7940e04856496a9fd866a526ebff7a7a233777406019405771b8390",
+      "image_dimensions": [
+        1700,
+        1275
+      ],
+      "original_image_dimensions": [
+        1920,
+        1440
+      ],
+      "downloaded_from": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Euphorbia_ophthalmica.jpg/1920px-Euphorbia_ophthalmica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "caption": "This is a prostrate red-green colony among stones, not an upright E. hirta. Dense rounded reproductive clusters occur at the ends of small leafy shoots. The red leaf pigment is optional and should never decide species identification.",
+      "manual_arrow_review": "2026-10-20 exact original GitHub JPEG retrieved as base64 and actually inspected. Points only to visible leaf margins/nodes, prostrate shoots, and headlike clusters; no assertions about unresolved stipule, fine capsule hairs or seed ridges."
+    },
+    {
+      "file": "images/03-gaiacoyote-inflorescence-hairs.jpg",
+      "role": "Original close-up of round cyathium heads and fine hairs",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_ophthalmica_(1).jpg",
+      "platform": "Wikimedia Commons",
+      "study_use": "educational public learner",
+      "public_reuse": "yes",
+      "photo_review": "Individual Commons File title exact Euphorbia ophthalmica; photographer and verified CC BY-family license from live photo metadata. Actual image bytes downloaded/decoded. Anatomical arrows pending original pixel review; no local Texas provenance asserted.",
+      "modifications": "Downscaled JPEG copy, EXIF stripped; actual photo unchanged; pointers displayed as overlay only.",
+      "anatomy_arrows": [
+        {
+          "label": "Cluster of tiny cyathia",
+          "target_fraction": [
+            0.38,
+            0.13
+          ]
+        },
+        {
+          "label": "Short-hairy leaf",
+          "target_fraction": [
+            0.53,
+            0.55
+          ]
+        },
+        {
+          "label": "Leaf margin",
+          "target_fraction": [
+            0.28,
+            0.55
+          ]
+        }
+      ],
+      "creator": "Gaiacoyote",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_sha256": "4d71e03ad2b459f09c56b2feb2e30fdde4ca6d18a625eac1474db2e5a99dfc73",
+      "image_dimensions": [
+        483,
+        502
+      ],
+      "original_image_dimensions": [
+        483,
+        502
+      ],
+      "downloaded_from": "https://upload.wikimedia.org/wikipedia/commons/7/70/Euphorbia_ophthalmica_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "caption": "One dense top-of-shoot cluster includes multiple tiny cyathia, not one ordinary flower. Many bright leaf hairs can be seen on the lower leaf. Tiny capsules and their finer hairs are NOT resolved; do not infer smooth versus strigillose fruit from this photo.",
+      "manual_arrow_review": "2026-10-20 exact original GitHub JPEG retrieved as base64 and actually inspected. Points only to visible leaf margins/nodes, prostrate shoots, and headlike clusters; no assertions about unresolved stipule, fine capsule hairs or seed ridges."
+    },
+    {
+      "file": "images/04-gaiacoyote-leaf-reproductive-view.jpg",
+      "role": "Another detailed photographic view of leaves and head placement",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_ophthalmica_(2).jpg",
+      "platform": "Wikimedia Commons",
+      "study_use": "educational public learner",
+      "public_reuse": "yes",
+      "photo_review": "Individual Commons File title exact Euphorbia ophthalmica; photographer and verified CC BY-family license from live photo metadata. Actual image bytes downloaded/decoded. Anatomical arrows pending original pixel review; no local Texas provenance asserted.",
+      "modifications": "Downscaled JPEG copy, EXIF stripped; actual photo unchanged; pointers displayed as overlay only.",
+      "anatomy_arrows": [
+        {
+          "label": "Opposite leaf junction",
+          "target_fraction": [
+            0.56,
+            0.45
+          ]
+        },
+        {
+          "label": "Toothed leaf margin",
+          "target_fraction": [
+            0.55,
+            0.68
+          ]
+        },
+        {
+          "label": "Terminal cyathium head",
+          "target_fraction": [
+            0.47,
+            0.87
+          ]
+        }
+      ],
+      "creator": "Gaiacoyote",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_sha256": "2307103bba55dd44436871895caa85267f185d7fe491c8bddc6c1d219a3c3147",
+      "image_dimensions": [
+        800,
+        559
+      ],
+      "original_image_dimensions": [
+        800,
+        559
+      ],
+      "downloaded_from": "https://upload.wikimedia.org/wikipedia/commons/2/21/Euphorbia_ophthalmica_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "caption": "Opposite narrow-ovate leaves with small marginal teeth are recognizable on the branching stem. A rounded compact terminal flowering head is visible at the bottom center; do NOT label the entire head as a capsule.",
+      "manual_arrow_review": "2026-10-20 exact original GitHub JPEG retrieved as base64 and actually inspected. Points only to visible leaf margins/nodes, prostrate shoots, and headlike clusters; no assertions about unresolved stipule, fine capsule hairs or seed ridges."
+    },
+    {
+      "file": "images/05-gaiacoyote-prostrate-habit.jpg",
+      "role": "In-situ low growth habit on limestone in Guatemala; geographic comparison, not a Hays native-range observation",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_ophthalmica_(3),_mat-forming_plant_on_very_hot_limestone_step.jpg",
+      "platform": "Wikimedia Commons",
+      "study_use": "educational public learner",
+      "public_reuse": "yes",
+      "photo_review": "Individual Commons File title exact Euphorbia ophthalmica; photographer and verified CC BY-family license from live photo metadata. Actual image bytes downloaded/decoded. Anatomical arrows pending original pixel review; no local Texas provenance asserted.",
+      "modifications": "Downscaled JPEG copy, EXIF stripped; actual photo unchanged; pointers displayed as overlay only.",
+      "anatomy_arrows": [
+        {
+          "label": "Dense terminal head",
+          "target_fraction": [
+            0.22,
+            0.39
+          ]
+        },
+        {
+          "label": "Another head at branch tip",
+          "target_fraction": [
+            0.8,
+            0.61
+          ]
+        },
+        {
+          "label": "Spreading flowering shoot",
+          "target_fraction": [
+            0.52,
+            0.8
+          ]
+        }
+      ],
+      "creator": "Gaiacoyote",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_sha256": "a590cc5b99c7178afac852949857f8d24d070652e361aeb3313482aa8f446a9e",
+      "image_dimensions": [
+        700,
+        608
+      ],
+      "original_image_dimensions": [
+        700,
+        608
+      ],
+      "downloaded_from": "https://upload.wikimedia.org/wikipedia/commons/8/89/Euphorbia_ophthalmica_%283%29%2C_mat-forming_plant_on_very_hot_limestone_step.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "caption": "The full low mat shows that globose cyathium clusters occur at tips of short leafy branches. This is a general architecture photograph, not a scale for mature seeds or proof of stipule details.",
+      "manual_arrow_review": "2026-10-20 exact original GitHub JPEG retrieved as base64 and actually inspected. Points only to visible leaf margins/nodes, prostrate shoots, and headlike clusters; no assertions about unresolved stipule, fine capsule hairs or seed ridges."
+    },
+    {
+      "file": "images/06-lucy-cash-terminal-head-and-hairy-stem.jpg",
+      "role": "Flowering tip with tiny condensed terminal cyathia and visible hairs on the slender stem",
+      "caption": "Lucy Cash's exact-species flowering shoot shows a small densely packed terminal cyathium head, slender pale-hairy stem, and opposite leaf pairs. Rounded green reproductive structures within the head are NOT claimed to be individually mature capsules or to prove fine capsule hairs.",
+      "creator": "(c) Lucy Cash, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/103176610",
+      "observation_url": "https://www.inaturalist.org/observations/64189564",
+      "observation_id": 64189564,
+      "photo_id": 103176610,
+      "public_reuse": "yes, ONLY for genuinely noncommercial educational GitHub Pages with license link and attribution",
+      "public_site_use_scope": "noncommercial only; author attribution and source license required",
+      "source_photo_sha256": "3ae9536ae96c00881f0cd76f9335945c0f5ddb74fd389e1a122b00dc049dc901",
+      "photo_review": "2026-10-21 manually inspected 1400px-or-smaller saved candidate pixels: endpoints are on the terminal head, hairy flowering stalk and opposite leaves. No structure labeled as mature fruit, seed or stipule.",
+      "manual_arrow_review": "2026-10-21 manually inspected 1400px-or-smaller saved candidate pixels: endpoints are on the terminal head, hairy flowering stalk and opposite leaves. No structure labeled as mature fruit, seed or stipule.",
+      "anatomy_arrows": [
+        {
+          "label": "Dense terminal reproductive head",
+          "target_fraction": [
+            0.364,
+            0.244
+          ]
+        },
+        {
+          "label": "Short hairs on slender stem below head",
+          "target_fraction": [
+            0.422,
+            0.482
+          ]
+        },
+        {
+          "label": "Paired small leaves below tip",
+          "target_fraction": [
+            0.387,
+            0.698
+          ]
+        }
+      ]
+    },
+    {
+      "file": "images/07-karlabalrey-terminal-head-and-leaf-hairs.jpg",
+      "role": "Compact reddish head on short leafy branch with conspicuous leaf hairs",
+      "caption": "karlabalrey's close-up shows tightly clustered pinkish reproductive parts with short hairs visible on an adjacent broad leaf. Individual fruits and their exact mature capsule hair distribution cannot be distinguished securely in this view. Treat as leaf-hair and head-architecture evidence, not a seed or stipule image.",
+      "creator": "(c) karlabalrey, some rights reserved (CC BY-NC)",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_page": "https://www.inaturalist.org/photos/125643782",
+      "observation_url": "https://www.inaturalist.org/observations/76816920",
+      "observation_id": 76816920,
+      "photo_id": 125643782,
+      "public_reuse": "yes, ONLY for genuinely noncommercial educational GitHub Pages with license link and attribution",
+      "public_site_use_scope": "noncommercial only; author attribution and source license required",
+      "source_photo_sha256": "c84a8efd66562202eb3a48ec0214319ff2e39eacecb057fa95b709f2bb2915e8",
+      "photo_review": "2026-10-21 saved photograph visually inspected: the condensed upper head and long lower leaf's hair-covered surface are identifiable. No three-lobed ripe fruit or seed arrow inferred.",
+      "manual_arrow_review": "2026-10-21 saved photograph visually inspected: the condensed upper head and long lower leaf's hair-covered surface are identifiable. No three-lobed ripe fruit or seed arrow inferred.",
+      "anatomy_arrows": [
+        {
+          "label": "Compact group of reddish cyathia",
+          "target_fraction": [
+            0.555,
+            0.391
+          ]
+        },
+        {
+          "label": "Numerous fine hairs on leaf",
+          "target_fraction": [
+            0.514,
+            0.706
+          ]
+        }
+      ]
+    }
+  ],
+  "learner_visual_status": {
+    "status": "field_ready_photo_gaps",
+    "mode": "six_annotated_source_photos_seventeen_real_arrow_endpoints",
+    "image_count": 7,
+    "filled_at": "2026-10-19",
+    "note": "Four previously source-reviewed macro/habit panels plus two new saved-source-pixel-reviewed CC BY-NC terminal head/stem/leaf panels. Mature separate capsule, stipules and detached seed remain unverified.",
+    "annotated_source_count": 6,
+    "verified_arrow_count": 17
+  },
+  "entry_type": "provisional_species",
+  "authority": "Pers.",
+  "synonyms": [
+    "Chamaesyce ophthalmica (Pers.) D.G.Burch",
+    "Euphorbia hirta var. ophthalmica (Pers.) Allem & Irgang",
+    "Euphorbia hirta var. procumbens (Boiss.) N.E.Br."
+  ],
+  "taxonomic_note": "Accepted Euphorbia ophthalmica Pers. (POWO/WCVP; Flora of North America). Formerly combined with or treated as variety of E. hirta; diagnostic terminal-only small heads, prostrate habit and small leaves separate these concepts.",
+  "morphology_keys": {
+    "family_pattern": "Euphorbiaceae; Euphorbia sect. Anisophyllum. Opposite leaves, milky latex, cyathia (tiny reproductive structures), 3-lobed dry fruit.",
+    "habit": "Usually prostrate, rarely ascending, annual (occasionally short-lived perennial) from taproot; slender shoots 6–22 cm. A low spreading habit is suggestive, never sufficient alone.",
+    "stems": "Fine short appressed hairs (strigillose) mixed with longer spreading hairs (hirsute), often both on the same plant.",
+    "leaves": "Opposite; ovate to oblong, 4–13 × 3–7 mm, asymmetric base, coarse fine teeth (coarsely serrulate), usually with 3 veins emerging near base; center may carry red blotch but many leaves do not.",
+    "stipules": "Distinct, narrow subulate-filiform scales, entire or divided into 2–4 slender triangular/threadlike segments, 0.9–1.5 mm, hairy; lacking dark round glands at base. A magnified true node is needed to distinguish from ordinary hairs.",
+    "flowering_cluster": "Dense CAPITATE terminal glomerules; at ends of main stems or very short leafy side shoots. Small reduced bractlike leaves occur beneath them. Unlike E. hirta, not separate axillary flower heads on long leafless stalks.",
+    "cyathia": "Tiny involucres about 0.5–0.7 × 0.4–0.6 mm with fine hairs; four yellow-green to pinkish glands, with thin white/pink rims or very small appendages, sometimes without obvious appendages.",
+    "fruit": "Ovoid three-lobed capsule 1–1.2 × 1–1.3 mm, strigillose (finely appressed-hairy), not smooth/glabrous.",
+    "seed": "Orange-brown to pinkish, narrowly ovoid, sharply four-angled; 0.7–0.9(–1.1) × about 0.5 mm; usually shallow wrinkling and 3–6 faint transverse ridges, occasionally smooth-looking.",
+    "best_field_traits": [
+      "prostrate hairy stems terminating in dense round cyathium heads",
+      "flower heads at stem and short LEAFY side-branch tips, not long leafless stalks",
+      "small opposite asymmetric 4–13 mm leaves with coarsely serrulate margins",
+      "both short-appressed and longer spreading stem hairs",
+      "finely hairy tiny ovoid capsule",
+      "narrow sometimes divided stipules at nodes",
+      "mature 4-angled 0.7–0.9 mm seeds with low transverse wrinkles"
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Euphorbia hirta",
+      "Euphorbia hypericifolia",
+      "Euphorbia nutans",
+      "Euphorbia maculata"
+    ],
+    "key_distinctions": "Compare actual HEAD PLACEMENT first: ophthalmica's crowded heads at shoot tips and short LEAFY branches; hirta has terminal as well as AXILLARY heads often on leafless stalks. Do not identify ophthalmica solely from a terminal head. Hypericifolia may have equally compact head clusters but is generally glabrous, nutans has larger leaves and looser flowering groups. Microscopic differences in fruit hair, stipules and seed sculpture still need new licensed macro photographs.",
+    "field_matrix": [
+      {
+        "character": "Habit",
+        "ophthalmica": "Usually low prostrate stems, 6–22 cm",
+        "hirta": "Often taller, ascending or erect",
+        "hypericifolia": "Ascending, hairless stems",
+        "nutans": "Ascending or arching, much larger opposite leaves"
+      },
+      {
+        "character": "Cyathium heads",
+        "ophthalmica": "Dense TERMINAL heads on main or short leafy side shoots",
+        "hirta": "Dense heads terminal AND AXILLARY, sometimes on leafless stalks",
+        "hypericifolia": "Dense terminal and axillary heads; smooth stems",
+        "nutans": "Cyathia solitary or small loose leafy cymes"
+      },
+      {
+        "character": "Stem pubescence",
+        "ophthalmica": "Fine appressed and longer spreading hairs together",
+        "hirta": "Hairy, often conspicuously",
+        "hypericifolia": "Generally glabrous",
+        "nutans": "Often short incurved hairs at nodes/distal stems"
+      },
+      {
+        "character": "Capsule",
+        "ophthalmica": "Finely APPRESSED HAIRY",
+        "hirta": "Finely APPRESSED HAIRY",
+        "hypericifolia": "Smooth GLABROUS",
+        "nutans": "Smooth GLABROUS"
+      },
+      {
+        "character": "Leaf blades",
+        "ophthalmica": "4–13 × 3–7 mm; asymmetric and coarse tiny teeth",
+        "hirta": "Usually larger, but overlaps",
+        "hypericifolia": "10–35 mm, more glabrous",
+        "nutans": "8–40 mm, strongly unequal bases"
+      },
+      {
+        "character": "Stipules",
+        "ophthalmica": "Distinct narrow threadlike, 0.9–1.5 mm, may split",
+        "hirta": "Distinct or barely connate narrow scales; close-check",
+        "hypericifolia": "Fused broadly triangular scales 1.5–2.2 mm",
+        "nutans": "Small divided/fringed scales"
+      }
+    ]
+  },
+  "field_photo_quickcheck": {
+    "heading": "TRACE THE HEAD TO ITS STEM — THEN LOOK FOR FRUIT AND SEEDS",
+    "featured_photo_indices": [
+      5,
+      6,
+      3,
+      2,
+      4,
+      1,
+      0
+    ],
+    "steps": [
+      "Find short often reddish hairy shoots pressed near the soil; show a complete branch from the leaf node to the compact round flower head.",
+      "Count the FLOWER-HEAD POSITIONS: ophthalmica grows dense heads at the ends of main and SHORT LEAFY side branches; E. hirta may additionally carry axillary clusters on LONG LEAFLESS stalks. A single terminal head never settles the pair.",
+      "At 10× look for mixed short appressed and longer spreading stem hairs; several existing photos show visible LEAF hairs, not provable mature capsule hairs.",
+      "Photograph both small opposite leaves with finely toothed margins and slightly UNEQUAL bases; a red center blotch alone says little.",
+      "To separate species with confidence, isolate a TRUE mature ovoid 3-lobed fruit and photograph fine appressed hairs on the CAPSULE (not just hairy leaf or cyathial involucre).",
+      "At 20–30× check real 0.9–1.5 mm slender/divided stipules at the leaf bases and a true detached 0.7–0.9 mm four-angled seed with 3–6 faint crosswise wrinkles; include mm scale."
+    ],
+    "warning": "Microscopic CAPSULE hairs, genuine nodal stipule forms and seed ridges are still based on Flora of North America text only, not on the currently verified photographed structures. Texas naturalized versus native status is NOT evaluated; FNA does not include Texas among the states it documents for this species."
+  },
+  "field_id_finalization": {
+    "stage": "FIELD_READY_HEADS_AND_HAIRS_WITH_THREE_CRITICAL_MICRO_GAPS",
+    "review_date": "2026-10-21",
+    "field_training_status": "FIELD_READY_FOR_PROSTRATE_HABIT_AND_TERMINAL_GLOMERULES; CAPSULE_STIPULE_SEED_MICRO_HOLD",
+    "real_source_photos_annotated": 6,
+    "verified_anatomy_arrows": 17,
+    "remaining": [
+      "TRUE mature strigillose 3-lobed CAPSULE micrograph, not a hairy leaf or whole cyathium head.",
+      "Same-node narrow divided stipules at ≥20× with exact attachment and millimeter scale.",
+      "True detached mature four-angled SEED micrograph with low 3–6 transverse ridges, mm scale.",
+      "Optional exact-species Texas field voucher and full stem-to-head sequence; county nativity audit remains on hold."
+    ],
+    "notes": "Scientific descriptions are sourced from FNA, but only arrow photographically resolved visible features. No county-level nativity upgrade.",
+    "photo_rights": "Original photographer julius1993 CC BY-NC conditional on genuinely noncommercial learner; Leonel Roget CC BY-SA 4.0; three Gaiacoyote CC0 1.0. Individual source and license preserved. Public source files are real, valid JPEGs.",
+    "canonical_photo_count": 7,
+    "public_eligible_gallery_photos": 7,
+    "photo_review": "All 14 candidate photographs were reviewed; ONLY two additional meaningful and physically verified exact-species images promoted (one hairy stem/terminal flowering head, one reddish head with hairy leaf). Neither justifies a mature capsule hair or seed arrow.",
+    "closeout_note": "Field/training closeout for photographed external traits only. Four already licensed Commons source images with 12 arrows preserved; no macro claim promoted without a newly inspected true source. Tightened E. hirta comparison to require checking axillary head placement."
+  },
+  "science_reference_links": [
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242437635",
+    "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200012564",
+    "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=318097",
+    "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:101793-2"
+  ],
+  "diagnostic_image_needs": [
+    {
+      "role": "capsule and hairs",
+      "priority": "HIGHEST",
+      "details": "True separate mature 3-lobed fruit shows short appressed pubescence, not adjacent hairy leaf or involucre; rights cleared."
+    },
+    {
+      "role": "same-node true stipules",
+      "priority": "HIGH",
+      "details": "Both separate narrow stipules (perhaps divided into 2–4 segments) from an actual opposing leaf node at 20–30× with calibrated scale."
+    },
+    {
+      "role": "mature detached seed",
+      "priority": "HIGH",
+      "details": "True ripe 4-angled seed with 3–6 faint transverse wrinkles and millimeter calibration; exact species and photo-level license must pass."
+    },
+    {
+      "role": "head placement context",
+      "priority": "COMPLETE",
+      "details": "Licensed habit and branching photos already show short leafy tips with compact dense glomerules."
+    }
+  ],
+  "visual_comparison": {
+    "instance_id": "euphorbia-ophthalmica-terminal-glomerule-20261020",
+    "title": "Florida hammock sandmat: follow the stems to their tight terminal heads",
+    "subtitle": "Six separately source-reviewed annotated photos (17 pointers total) across seven credited files: terminal heads, hairy stem and leaves, opposite teeth, low mat. Fine capsule, stipules and seed are photo gaps.",
+    "items": [
+      {
+        "label": "Low spreading colony and heads at short leafy tips",
+        "scientific_name": "Euphorbia ophthalmica",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-ophthalmica/images/02-roget-flowering-plant.jpg",
+        "image_role": "Whole photographed mat, actual red-green leaves and crowded cyathium heads",
+        "creator": "Leonel Roget",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_ophthalmica.jpg",
+        "image_fit": "contain",
+        "caption": "This is a prostrate red-green colony among stones, not an upright E. hirta. Dense rounded reproductive clusters occur at the ends of small leafy shoots. The red leaf pigment is optional and should never decide species identification.",
+        "markers": [
+          {
+            "label": "Prostrate shoot",
+            "label_x": 1,
+            "label_y": 62,
+            "target_x": 28,
+            "target_y": 61
+          },
+          {
+            "label": "Rounded terminal cluster",
+            "label_x": 52,
+            "label_y": 9,
+            "target_x": 55,
+            "target_y": 26
+          },
+          {
+            "label": "Small opposite leaves",
+            "label_x": 12,
+            "label_y": 36,
+            "target_x": 31,
+            "target_y": 46
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 exact original GitHub JPEG retrieved as base64 and actually inspected. Points only to visible leaf margins/nodes, prostrate shoots, and headlike clusters; no assertions about unresolved stipule, fine capsule hairs or seed ridges."
+      },
+      {
+        "label": "Dense head of tiny cyathia plus leaf hairs",
+        "scientific_name": "Euphorbia ophthalmica",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-ophthalmica/images/03-gaiacoyote-inflorescence-hairs.jpg",
+        "image_role": "Short terminal flowering cluster, hairy small leaf",
+        "creator": "Gaiacoyote",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_ophthalmica_(1).jpg",
+        "image_fit": "contain",
+        "caption": "One dense top-of-shoot cluster includes multiple tiny cyathia, not one ordinary flower. Many bright leaf hairs can be seen on the lower leaf. Tiny capsules and their finer hairs are NOT resolved; do not infer smooth versus strigillose fruit from this photo.",
+        "markers": [
+          {
+            "label": "Cluster of tiny cyathia",
+            "label_x": 32,
+            "label_y": 28,
+            "target_x": 38,
+            "target_y": 13
+          },
+          {
+            "label": "Short-hairy leaf",
+            "label_x": 70,
+            "label_y": 82,
+            "target_x": 53,
+            "target_y": 55
+          },
+          {
+            "label": "Leaf margin",
+            "label_x": 6,
+            "label_y": 54,
+            "target_x": 28,
+            "target_y": 55
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 exact original GitHub JPEG retrieved as base64 and actually inspected. Points only to visible leaf margins/nodes, prostrate shoots, and headlike clusters; no assertions about unresolved stipule, fine capsule hairs or seed ridges."
+      },
+      {
+        "label": "Toothed opposing leaves, stem junction and flower head",
+        "scientific_name": "Euphorbia ophthalmica",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-ophthalmica/images/04-gaiacoyote-leaf-reproductive-view.jpg",
+        "image_role": "Close-up of leaf architecture and crowded reproductive ends",
+        "creator": "Gaiacoyote",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_ophthalmica_(2).jpg",
+        "image_fit": "contain",
+        "caption": "Opposite narrow-ovate leaves with small marginal teeth are recognizable on the branching stem. A rounded compact terminal flowering head is visible at the bottom center; do NOT label the entire head as a capsule.",
+        "markers": [
+          {
+            "label": "Opposite leaf junction",
+            "label_x": 58,
+            "label_y": 21,
+            "target_x": 56,
+            "target_y": 45
+          },
+          {
+            "label": "Toothed leaf margin",
+            "label_x": 72,
+            "label_y": 83,
+            "target_x": 55,
+            "target_y": 68
+          },
+          {
+            "label": "Terminal cyathium head",
+            "label_x": 43,
+            "label_y": 95,
+            "target_x": 47,
+            "target_y": 87
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 exact original GitHub JPEG retrieved as base64 and actually inspected. Points only to visible leaf margins/nodes, prostrate shoots, and headlike clusters; no assertions about unresolved stipule, fine capsule hairs or seed ridges."
+      },
+      {
+        "label": "Many prostrate flowering branch tips",
+        "scientific_name": "Euphorbia ophthalmica",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-ophthalmica/images/05-gaiacoyote-prostrate-habit.jpg",
+        "image_role": "Whole mat habit and multiple dense clusters",
+        "creator": "Gaiacoyote",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_ophthalmica_(3),_mat-forming_plant_on_very_hot_limestone_step.jpg",
+        "image_fit": "contain",
+        "caption": "The full low mat shows that globose cyathium clusters occur at tips of short leafy branches. This is a general architecture photograph, not a scale for mature seeds or proof of stipule details.",
+        "markers": [
+          {
+            "label": "Dense terminal head",
+            "label_x": 2,
+            "label_y": 37,
+            "target_x": 22,
+            "target_y": 39
+          },
+          {
+            "label": "Another head at branch tip",
+            "label_x": 67,
+            "label_y": 71,
+            "target_x": 80,
+            "target_y": 61
+          },
+          {
+            "label": "Spreading flowering shoot",
+            "label_x": 32,
+            "label_y": 95,
+            "target_x": 52,
+            "target_y": 80
+          }
+        ],
+        "image_pixel_audit": "2026-10-20 exact original GitHub JPEG retrieved as base64 and actually inspected. Points only to visible leaf margins/nodes, prostrate shoots, and headlike clusters; no assertions about unresolved stipule, fine capsule hairs or seed ridges."
+      },
+      {
+        "label": "Hairy stem and tight flowering head",
+        "scientific_name": "Euphorbia ophthalmica",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-ophthalmica/images/06-lucy-cash-terminal-head-and-hairy-stem.jpg",
+        "image_role": "Flowering tip with tiny condensed terminal cyathia and visible hairs on the slender stem",
+        "creator": "(c) Lucy Cash, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/103176610",
+        "image_fit": "contain",
+        "caption": "Lucy Cash's exact-species flowering shoot shows a small densely packed terminal cyathium head, slender pale-hairy stem, and opposite leaf pairs. Rounded green reproductive structures within the head are NOT claimed to be individually mature capsules or to prove fine capsule hairs.",
+        "markers": [
+          {
+            "label": "Dense terminal reproductive head",
+            "target_x": 36,
+            "target_y": 24,
+            "label_x": 5,
+            "label_y": 12
+          },
+          {
+            "label": "Short hairs on slender stem below head",
+            "target_x": 42,
+            "target_y": 48,
+            "label_x": 69,
+            "label_y": 35
+          },
+          {
+            "label": "Paired small leaves below tip",
+            "target_x": 39,
+            "target_y": 70,
+            "label_x": 5,
+            "label_y": 58
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 manually inspected 1400px-or-smaller saved candidate pixels: endpoints are on the terminal head, hairy flowering stalk and opposite leaves. No structure labeled as mature fruit, seed or stipule."
+      },
+      {
+        "label": "Reddish head and hairy leaves",
+        "scientific_name": "Euphorbia ophthalmica",
+        "image_url": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-ophthalmica/images/07-karlabalrey-terminal-head-and-leaf-hairs.jpg",
+        "image_role": "Compact reddish head on short leafy branch with conspicuous leaf hairs",
+        "creator": "(c) karlabalrey, some rights reserved (CC BY-NC)",
+        "license": "CC BY-NC 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "source_page": "https://www.inaturalist.org/photos/125643782",
+        "image_fit": "contain",
+        "caption": "karlabalrey's close-up shows tightly clustered pinkish reproductive parts with short hairs visible on an adjacent broad leaf. Individual fruits and their exact mature capsule hair distribution cannot be distinguished securely in this view. Treat as leaf-hair and head-architecture evidence, not a seed or stipule image.",
+        "markers": [
+          {
+            "label": "Compact group of reddish cyathia",
+            "target_x": 56,
+            "target_y": 39,
+            "label_x": 5,
+            "label_y": 12
+          },
+          {
+            "label": "Numerous fine hairs on leaf",
+            "target_x": 51,
+            "target_y": 71,
+            "label_x": 69,
+            "label_y": 35
+          }
+        ],
+        "image_pixel_audit": "2026-10-21 saved photograph visually inspected: the condensed upper head and long lower leaf's hair-covered surface are identifiable. No three-lobed ripe fruit or seed arrow inferred."
+      }
+    ],
+    "overlay_note": "A true leafy shoot ending in a compact head is informative but NOT alone enough to exclude E. hirta, which can also show terminal heads. The key is whether additional long leafless-stalk axillary heads occur. Hair on the leaf is not evidence of hair on the mature capsule. Published images do not establish native status in Hays County."
+  }
+}

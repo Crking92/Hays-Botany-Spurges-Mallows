@@ -1,0 +1,18 @@
+Ludwigia peploides — Provisional learner first-install source evidence
+Date: 2026-10-08
+Source-pool learner-admission basis: Ludwigia taxa in approved Master Plant Pool; no final target-zone range judgment.
+Primary scientific key: https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=119063
+Kew POWO Ludwigia genus: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:325872-2
+Project source comparison: content/taxa/Onagraceae/Ludwigia/genus.json
+Photo author: Eugene Zelenko
+License: CC BY-SA 4.0
+Photo source: https://commons.wikimedia.org/wiki/File:Ludwigia_peploides_peploides-6.jpg
+Direct image: https://upload.wikimedia.org/wikipedia/commons/0/0e/Ludwigia_peploides_peploides-6.jpg
+Important: California photograph is subsp. peploides, not proof of subspecies identity in Hays.
+
+MANUAL ONE-PHOTO ENRICHMENT 2026-10-16T12:18:49.674527+00:00
+Ludwigia peploides (Kunth) P.H.Raven
+https://www.gbif.org/occurrence/6129831642
+Cody Hinchliff | CC BY http://creativecommons.org/licenses/by/4.0/
+Target visual view (NOT YET verified): Floating stem/node and 5-petaled yellow flower, capsule and leaf attachment
+No anatomy arrows; no scientific or native-range changes.

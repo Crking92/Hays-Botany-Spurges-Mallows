@@ -1,0 +1,9 @@
+Source-pool Phase3 accepted/preflight concept Populus deltoides; reference row(s) 921, 922
+Accepted-name query: https://powo.science.kew.org/results?q=Populus%20deltoides
+Photograph original: https://commons.wikimedia.org/wiki/File:Populus_deltoides_(5026724621).jpg
+Image direct Commons redirect: https://commons.wikimedia.org/wiki/Special:Redirect/file/Populus%20deltoides%20(5026724621).jpg
+Photographer: Matt Lavin
+Individual file license: CC BY-SA 2.0
+Photo role: Provisional tree canopy and growth habit, not leaf teeth, flattened petioles or fruit.
+Caution: Montana photograph of Populus deltoides broad tree habit; not an Hays County record.
+Original Commons page licensing checked before staging. One visual provisional learner only; no Hays or target-county nativity assertion.

@@ -1,0 +1,148 @@
+{
+  "id": "sida-abutilifolia",
+  "entry_type": "species",
+  "family": "Malvaceae",
+  "genus": "Sida",
+  "species": "abutilifolia",
+  "scientific_name": "Sida abutilifolia",
+  "authority": "Mill.",
+  "common_name": "spreading / creeping sida",
+  "look_here_first": "Find the long, flexible, prostrate stems that spread across the ground. Check small leaves distributed along the stems, with rounded teeth extending toward the leaf base, and look closely for BOTH star-shaped hairs and longer simple hairs (often 1–2 mm). Flower color is secondary; confirm with mature fruit.",
+  "county_occurrences_target_zone": [
+    "Hays",
+    "Travis"
+  ],
+  "target_zone_count": 2,
+  "native_target_zone_calculated": false,
+  "native_range_status": "UNRESOLVED",
+  "learner_admission_status": "APPROVED",
+  "learner_admission_basis": "approved_source_pool_membership",
+  "project_inclusion": {
+    "target_zone_status": "UNRESOLVED",
+    "range_basis": "Hays and Travis remain supported target-zone occurrences. The older Williamson record is outside the project target zone, so native certification remains unresolved while learner admission stays approved.",
+    "range_guardrail": "Do not count as confirmed target-zone native until a third valid project county is documented."
+  },
+  "morphology_keys": {
+    "best_field_traits": [
+      "perennial herb",
+      "procumbent/prostrate freely branched stems",
+      "stellate and simple hairs",
+      "small ovate to oblong leaves",
+      "crenate margins extending toward the leaf base",
+      "small pale flowers"
+    ],
+    "comparison_training": "Look first at the whole plant: Sida abutilifolia commonly has long, flexible stems lying along the ground, while S. spinosa is more erect and often bears a small tubercle immediately below the petiole. Examine several leaves for rounded crenate teeth and both surfaces for simple and stellate hairs. Compare S. rhombifolia, which is commonly more upright with rhombic leaves and teeth often concentrated toward the tip. Small pale flowers overlap: confirm using close-up mature mericarps rather than habit or flower color alone."
+  },
+  "comparisons": {
+    "key_distinctions": "S. abutilifolia is a procumbent perennial with flexible, often mat-forming stems and both multirayed stellate hairs and longer simple hairs (often 1–2 mm). S. spinosa is usually erect, has finer stellate hairs and sometimes a small non-spiny tubercle immediately below the petiole. S. ciliaris may also be procumbent, but its leaves tend to crowd toward the stem tips and are toothed mostly apically; fruit texture and flower color can provide additional confirmation. Mature mericarps and hairs should be photographed at scale."
+  },
+  "photo_strategy": {
+    "method": "LEARNER FAST-FILL — science-first install",
+    "visual_priority": "Install learner card now; route exact-species project/user/Joey or licensed external media through Learner Photo Backfill.",
+    "remaining_need": "Habit, reproductive structure, and diagnostic close-up when practical.",
+    "diagnostic_review_plan": [
+      {
+        "priority": 1,
+        "view": "Whole plant and stem arrangement",
+        "existing_candidate": "Current provisional face photo",
+        "status": "photo_present; inspect pixels before calling diagnostic"
+      },
+      {
+        "priority": 1,
+        "view": "Mixed simple and stellate stem hairs with 1 mm scale",
+        "existing_candidate": "Joey Santore photos already installed; anatomy role unknown",
+        "status": "NEEDS_VISUAL_INSPECTION; no arrow coordinates authorized"
+      },
+      {
+        "priority": 1,
+        "view": "Mature schizocarp split into mericarps with visible tips",
+        "existing_candidate": "No current image metadata confirms this structure",
+        "status": "NEEDS_DIAGNOSTIC_PHOTO; no arrow coordinates authorized"
+      }
+    ],
+    "arrow_rule": "Do not annotate until exact installed pixels show the named structure; preserve source creator and image reuse/adaptation permissions.",
+    "source_reference": "Flora of North America Sida species key, https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=130307"
+  },
+  "learner_role": "RANGE_UNRESOLVED",
+  "native_metrics_excluded": true,
+  "curation_status": {
+    "version": "1.0-source-pool-fast-fill",
+    "taxonomy_reviewed": true,
+    "range_reviewed": true,
+    "morphology_reviewed": true,
+    "lookalikes_reviewed": true,
+    "user_approved": true,
+    "learner_admission_approved": true,
+    "visual_reviewed": false,
+    "visual_status": "photo-backfill-pending",
+    "last_reviewed": "2026-10-05",
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "images": [
+    {
+      "file": "images/sida-abutilifolia-provisional-face.jpg",
+      "role": "Whole plant / spreading habit recognizable face",
+      "creator": "Juan Carlos Fonseca Mata",
+      "license": "CC BY 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Arrastradilla_(Sida_abutifolia),_GTOMX.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes"
+    },
+    {
+      "file": "images/joey-inat-205861282.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/205861282",
+      "observation_url": "https://www.inaturalist.org/observations/121640825",
+      "observation_id": "121640825",
+      "photo_id": "205861282",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/205861282/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-428383458.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/428383458",
+      "observation_url": "https://www.inaturalist.org/observations/240447972",
+      "observation_id": "240447972",
+      "photo_id": "428383458",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/428383458/large.jpeg",
+      "image_dimensions": [
+        1024,
+        768
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "image_count": 1,
+    "filled_at": "2026-10-05",
+    "note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it."
+  },
+  "photo_note": "Temporary one-photo learner coverage. Keep until stronger diagnostic gallery coverage replaces or supplements it. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Field-ID finishing: NEEDS_DIAGNOSTIC_PHOTO: underside leaf hair macro and mature dry fruit/mericarps with scale. annotation_pending: annotate only when photographed structures are directly visible and image modification rights verified. FNA-confirmed priority: photograph long simple hairs among stellate hairs and crenate leaf margins extending to the base; pair with intact prostrate habit and mature mericarps. PHOTO REVIEW 2026-10-20: three gallery entries currently recorded; none has a confirmed node/hair or fruit diagnostic role. Keep all existing licensed images; prioritize image-level visual audit before downloading duplicates."
+}

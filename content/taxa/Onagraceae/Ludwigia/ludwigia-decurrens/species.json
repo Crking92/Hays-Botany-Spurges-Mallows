@@ -1,0 +1,120 @@
+{
+  "id": "ludwigia-decurrens",
+  "entry_type": "species",
+  "family": "Onagraceae",
+  "genus": "Ludwigia",
+  "species": "decurrens",
+  "scientific_name": "Ludwigia decurrens",
+  "authority": "Walter",
+  "common_name": "Wing-leaved primrose-willow",
+  "look_here_first": "Check four sharp stem wings created by sessile leaf bases running down the stem; alternate lanceolate leaves and 4 yellow petals with 8 stamens confirm.",
+  "project_inclusion": {
+    "learner_admission_status": "APPROVED",
+    "learner_admission_basis": "Calvin-approved Master Plant Pool / Ludwigia source-pool genus review",
+    "target_zone_status": "UNRESOLVED",
+    "learner_role": "STUDY_REFERENCE_NATIVE_STATUS_PENDING",
+    "verified_target_counties": [],
+    "range_basis": "Strict BONAP/NAPA and Hays/project-county range review was not completed in this quick visual install; source-pool admission is separate from native-range certification.",
+    "range_guardrail": "Do not count as confirmed Hays/target-zone native unless independently validated."
+  },
+  "county_occurrences_target_zone": [],
+  "target_zone_count": 0,
+  "native_target_zone_calculated": false,
+  "morphology_keys": {
+    "habit": "Erect, branching annual or short-lived wetland herb; strongly four-angled, winged stems.",
+    "leaves": "Alternate, lanceolate or linear-lanceolate, usually sessile; leaf bases decurrent along stem.",
+    "flower": "Usually 4 bright yellow petals and 8 stamens; ovary inferior.",
+    "fruit": "Obconic to narrowly pyramidal capsule, sharply 4-angled or winged.",
+    "best_field_traits": [
+      "Check four sharp stem wings created by sessile leaf bases running down the stem; alternate lanceolate leaves and 4 yellow petals with 8 stamens confirm.",
+      "Erect, branching annual or short-lived wetland herb; strongly four-angled, winged stems.",
+      "Usually 4 bright yellow petals and 8 stamens; ovary inferior.",
+      "Obconic to narrowly pyramidal capsule, sharply 4-angled or winged."
+    ]
+  },
+  "comparisons": {
+    "confused_with": [
+      "Ludwigia octovalvis",
+      "Ludwigia repens",
+      "other Ludwigia spp."
+    ],
+    "key_distinctions": "Against Ludwigia octovalvis, look for true broad wings running down the stem from sessile leaves; ordinary stem ridges alone are not decisive."
+  },
+  "images": [
+    {
+      "file": "images/images/01-ludwigia-decurrens-licensed-source.jpg",
+      "role": "Exact-species yellow four-petaled flower with lanceolate foliage",
+      "creator": "Sesamehoneytart",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ludwigia_decurrens_1.jpg",
+      "study_use": "yes",
+      "public_reuse": "yes with license terms"
+    },
+    {
+      "file": "images/joey-inat-99149311.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/99149311",
+      "observation_url": "https://www.inaturalist.org/observations/61922916",
+      "observation_id": "61922916",
+      "photo_id": "99149311",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/99149311/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    },
+    {
+      "file": "images/joey-inat-99149315.jpg",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "creator": "Joey Santore",
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_platform": "iNaturalist",
+      "source_page": "https://www.inaturalist.org/photos/99149315",
+      "observation_url": "https://www.inaturalist.org/observations/61922916",
+      "observation_id": "61922916",
+      "photo_id": "99149315",
+      "source_recorded_photo_license_at_download": "cc-by-nc",
+      "source_recorded_photo_attribution_at_download": "(c) Joey Santore, some rights reserved (CC BY-NC)",
+      "downloaded_from": "https://inaturalist-open-data.s3.amazonaws.com/photos/99149315/large.jpeg",
+      "image_dimensions": [
+        1024,
+        683
+      ],
+      "study_use": "yes; noncommercial educational",
+      "public_reuse": "review — only noncommercial use with credit; verify site context",
+      "photo_review": "Research Grade exact-taxon source and readable pixels machine-checked; diagnostic view and ID require manual visual review",
+      "anatomy_arrows": "none; not anatomically verified"
+    }
+  ],
+  "learner_visual_status": {
+    "status": "provisional_learner_ready",
+    "mode": "learner_fast_fill",
+    "note": "One licensed exact-species reference image installed; specialized reproductive and local macro comparison photos pending."
+  },
+  "diagnostic_image_plan": [
+    "Photo does not resolve diagnostic stem wings; wing close-up pending.",
+    "Sharp close-up of distinctive stem node/leaf attachment.",
+    "Measured, fully mature capsule and flower-stamen macro."
+  ],
+  "curation_status": {
+    "version": "1.0-source-pool-quick-install",
+    "last_reviewed": "2026-10-08",
+    "user_approved": true,
+    "photo_metadata_count": 3,
+    "photo_files_present": 3,
+    "joey_inat_photo_install": "2026-10-15"
+  },
+  "source_notes": "Morphology from FNA Ludwigia key / Kew species treatments; source image file and license verified, not necessarily local native source.",
+  "photo_note": "Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending. Joey Santore CC BY-NC 4.0 photo(s) provisionally installed; more diagnostic close-ups pending."
+}

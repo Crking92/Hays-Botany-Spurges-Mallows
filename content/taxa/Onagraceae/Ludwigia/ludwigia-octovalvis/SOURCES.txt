@@ -1,0 +1,42 @@
+LUDWIGIA OCTOVALVIS — CURATION SOURCES
+Reviewed: 2026-10-02
+Status: PASS / APPROVED FOR INSTALL
+
+TAXONOMY
+Kew POWO accepted species: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:144385-2
+Kew accepted subsp. octovalvis: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:104794-3
+
+STRICT TARGET-ZONE RANGE
+Hays — UT PRC Natural Purola Plants: https://w3.biosci.utexas.edu/prc/HaysFlora/NaturalPlants.html
+Travis — UT PRC Onagraceae specimen index: https://w3.biosci.utexas.edu/prc/specimens/Onagraceae.html
+Williamson — UT PRC detailed subsp. octovalvis treatment: https://w3.biosci.utexas.edu/prc/K12/pages/Ludwigia%20octovalvis%20octovalvis.html
+
+MORPHOLOGY
+UT PRC Williamson treatment above: strongly 5-ridged stem, alternate narrow leaves, 4-merous yellow flower, 8 stamens, long inferior ovary, capsule with 8 valves.
+
+JOEY SPECIES LAYER
+Video Hr3nBxvgCv4 — Aquatic Plants on the San Marcos River
+025 @ 00:36:29.0 — source-labeled flower and habit
+026 @ 00:37:29.0 — inferior ovary teaching
+Rights: private-study frames; public reuse not assumed.
+
+SAVED VIDEO FRAME INSTALLATION — 2026-10-04
+Joey Santore / Crime Pays But Botany Doesn't — Aquatic Plants on the San Marcos River
+https://www.youtube.com/watch?v=Hr3nBxvgCv4
+ludwigia-octovalvis_flower-source-label_00-36-29.0.jpg @ 00:36:29.0
+Source-labeled Ludwigia octovalvis with four-petaled flowers, narrow leaves and upright stems. Look at the flower and leaf arrangement together.
+Rights: private study only; public reuse not cleared. User confirms private learner. Original JPEG decoded and visually inspected. Existing scientific/range status preserved.
+
+SAVED VIDEO FRAME INSTALLATION — 2026-10-04 — JOEY RECOVERY 006
+Joey Santore / Crime Pays But Botany Doesn't
+https://www.youtube.com/watch?v=Hr3nBxvgCv4
+ludwigia-octovalvis_inferior-ovary_00-37-29.0.jpg @ 00:37:29.0
+Ludwigia octovalvis flower-base close-up highlighting the inferior ovary below the sepals and petals, an excellent Onagraceae teaching character.
+Rights: private study only; public reuse not cleared. Existing scientific/range status preserved.
+
+VISUAL ID POLISH — 2026-10-08
+UT Plant Resources Center local detail: https://w3.biosci.utexas.edu/prc/K12/pages/Ludwigia%20octovalvis%20octovalvis.html
+Flora of North America species-wide caution: https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242413617
+Verified licensed flower face (Juan Carlos Fonseca Mata, CC BY-SA 4.0): https://commons.wikimedia.org/wiki/File:Ludwigia_octovalvis_(Onagraceae)_-_Flower.jpg
+Verified licensed alternate leaves + flower side (same author/license): https://commons.wikimedia.org/wiki/File:Ludwigia_octovalvis_(Onagraceae)_-_Flower_and_leaves.jpg
+New external images are linked only, not copied into repo. Leaf node and flower are visible; mature long fruit with ruler and counted 8 stamens remain missing as true macro locks. Exact photographed locality for these added images is Guanajuato, Mexico, not Hays County. FNA broad species treatment describes occasional terete stems and capsule opening by 4–8 valves; locally described specimens show 5 stem ridges and 8 splitting valves. Private Joey frame rights remain unchanged.
