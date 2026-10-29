@@ -16,6 +16,10 @@ from collections import Counter
 SRC=Path(sys.argv[1]).resolve()
 DEST=Path(sys.argv[2]).resolve()
 assert SRC!=DEST
+# The historical text-only converter may never erase published licensed media.
+photo_catalog=DEST/"site/data/gallery-index.json"
+if photo_catalog.is_file() and json.loads(photo_catalog.read_text()).get("photo_count",0):
+    raise SystemExit("BLOCKED: photo-backed family learner is active. Do not overwrite it with an old text-only release. Use the source-aware photo gallery workflow.")
 CONFIG=json.loads((DEST/"config/collection.json").read_text())
 INDEX=json.loads((SRC/"data/collection-index.json").read_text())
 assert INDEX["collection_id"]==CONFIG["collection_id"]
