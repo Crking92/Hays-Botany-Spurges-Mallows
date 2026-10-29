@@ -1,0 +1,529 @@
+{
+  "schema_version": 1,
+  "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
+  "species": 130,
+  "photo_species": 48,
+  "photo_count": 99,
+  "entries": {
+    "impatiens-capensis": {
+      "count": 0,
+      "first_src": null
+    },
+    "cochlospermum-wrightii": {
+      "count": 0,
+      "first_src": null
+    },
+    "acalypha-persimilis": {
+      "count": 1,
+      "first_src": "media/acalypha-persimilis/acalypha-persimilis-provisional-face.jpg"
+    },
+    "acalypha-phleoides": {
+      "count": 3,
+      "first_src": "media/acalypha-phleoides/acalypha-phleoides-provisional-face.jpg"
+    },
+    "acalypha-radians": {
+      "count": 1,
+      "first_src": "media/acalypha-radians/acalypha-radians-provisional-face.jpg"
+    },
+    "amperea-xiphoclada": {
+      "count": 1,
+      "first_src": "media/amperea-xiphoclada/amperea-xiphoclada-flower-clusters-melburnian.jpg"
+    },
+    "argythamnia-aphoroides": {
+      "count": 0,
+      "first_src": null
+    },
+    "argythamnia-humilis": {
+      "count": 0,
+      "first_src": null
+    },
+    "argythamnia-simulans": {
+      "count": 0,
+      "first_src": null
+    },
+    "bernardia-myricifolia": {
+      "count": 0,
+      "first_src": null
+    },
+    "cnidoscolus-texanus": {
+      "count": 0,
+      "first_src": null
+    },
+    "croton-capitatus": {
+      "count": 0,
+      "first_src": null
+    },
+    "croton-fruticulosus": {
+      "count": 4,
+      "first_src": "media/croton-fruticulosus/glass-root-garden-573059048-leaf-shoot.jpg"
+    },
+    "croton-lindheimeri": {
+      "count": 0,
+      "first_src": null
+    },
+    "croton-lindheimerianus": {
+      "count": 0,
+      "first_src": null
+    },
+    "croton-monanthogynus": {
+      "count": 3,
+      "first_src": "media/croton-monanthogynus/croton-monanthogynus-provisional-face.jpg"
+    },
+    "croton-texensis": {
+      "count": 1,
+      "first_src": "media/croton-texensis/croton-texensis-provisional-face.jpg"
+    },
+    "euphorbia-angusta": {
+      "count": 1,
+      "first_src": "media/euphorbia-angusta/euphorbia-angusta-provisional-face.jpg"
+    },
+    "euphorbia-bicolor": {
+      "count": 3,
+      "first_src": "media/euphorbia-bicolor/01-habit-white-bracts.jpg"
+    },
+    "euphorbia-cyathophora": {
+      "count": 4,
+      "first_src": "media/euphorbia-cyathophora/euphorbia-cyathophora-provisional-face.jpg"
+    },
+    "euphorbia-davidii": {
+      "count": 2,
+      "first_src": "media/euphorbia-davidii/01-jordan-river-habit.jpg"
+    },
+    "euphorbia-dentata": {
+      "count": 0,
+      "first_src": null
+    },
+    "euphorbia-eriantha": {
+      "count": 0,
+      "first_src": null
+    },
+    "euphorbia-fendleri": {
+      "count": 1,
+      "first_src": "media/euphorbia-fendleri/euphorbia-fendleri-provisional-face.jpg"
+    },
+    "euphorbia-golondrina": {
+      "count": 0,
+      "first_src": null
+    },
+    "euphorbia-heterophylla": {
+      "count": 3,
+      "first_src": "media/euphorbia-heterophylla/euphorbia-heterophylla-provisional-face.jpg"
+    },
+    "euphorbia-hypericifolia": {
+      "count": 4,
+      "first_src": "media/euphorbia-hypericifolia/02-m108t-whole-habit.jpg"
+    },
+    "euphorbia-maculata": {
+      "count": 4,
+      "first_src": "media/euphorbia-maculata/02-harry-rose-habit.jpg"
+    },
+    "euphorbia-marginata": {
+      "count": 2,
+      "first_src": "media/euphorbia-marginata/02-inflorescence-closeup.jpg"
+    },
+    "euphorbia-nutans": {
+      "count": 2,
+      "first_src": "media/euphorbia-nutans/euphorbia-nutans-provisional-face.jpg"
+    },
+    "euphorbia-ophthalmica": {
+      "count": 4,
+      "first_src": "media/euphorbia-ophthalmica/02-roget-flowering-plant.jpg"
+    },
+    "euphorbia-prostrata": {
+      "count": 4,
+      "first_src": "media/euphorbia-prostrata/euphorbia-prostrata-provisional-face.jpg"
+    },
+    "euphorbia-roemeriana": {
+      "count": 0,
+      "first_src": null
+    },
+    "euphorbia-serpens": {
+      "count": 4,
+      "first_src": "media/euphorbia-serpens/euphorbia-serpens-provisional-face.jpg"
+    },
+    "euphorbia-simulans": {
+      "count": 0,
+      "first_src": null
+    },
+    "euphorbia-spathulata": {
+      "count": 0,
+      "first_src": null
+    },
+    "euphorbia-villifera": {
+      "count": 0,
+      "first_src": null
+    },
+    "jatropha-dioica": {
+      "count": 0,
+      "first_src": null
+    },
+    "ricinus-communis": {
+      "count": 0,
+      "first_src": null
+    },
+    "stillingia-texana": {
+      "count": 0,
+      "first_src": null
+    },
+    "tragia-betonicifolia": {
+      "count": 0,
+      "first_src": null
+    },
+    "tragia-brevispica": {
+      "count": 0,
+      "first_src": null
+    },
+    "tragia-nigricans": {
+      "count": 0,
+      "first_src": null
+    },
+    "tragia-ramosa": {
+      "count": 0,
+      "first_src": null
+    },
+    "triadica-sebifera": {
+      "count": 3,
+      "first_src": "media/triadica-sebifera/triadica-sebifera-leaf-fruit-provisional.jpg"
+    },
+    "hypericum-hypericoides": {
+      "count": 0,
+      "first_src": null
+    },
+    "hypericum-walteri": {
+      "count": 0,
+      "first_src": null
+    },
+    "linum-berlandieri": {
+      "count": 0,
+      "first_src": null
+    },
+    "linum-hudsonioides": {
+      "count": 0,
+      "first_src": null
+    },
+    "linum-imbricatum": {
+      "count": 0,
+      "first_src": null
+    },
+    "linum-rigidum": {
+      "count": 0,
+      "first_src": null
+    },
+    "linum-rupestre": {
+      "count": 0,
+      "first_src": null
+    },
+    "ammannia-auriculata": {
+      "count": 0,
+      "first_src": null
+    },
+    "ammannia-coccinea": {
+      "count": 1,
+      "first_src": "media/ammannia-coccinea/ammannia-coccinea-starr-flower-fruit.jpg"
+    },
+    "lythrum-alatum": {
+      "count": 0,
+      "first_src": null
+    },
+    "lythrum-californicum": {
+      "count": 0,
+      "first_src": null
+    },
+    "rotala-ramosior": {
+      "count": 0,
+      "first_src": null
+    },
+    "abelmoschus-esculentus": {
+      "count": 1,
+      "first_src": "media/abelmoschus-esculentus/abelmoschus-esculentus-fredlyfish4.jpg"
+    },
+    "abutilon-fruticosum": {
+      "count": 4,
+      "first_src": "media/abutilon-fruticosum/abutilon-fruticosum-provisional-face.jpg"
+    },
+    "abutilon-incanum": {
+      "count": 1,
+      "first_src": "media/abutilon-incanum/abutilon-incanum-provisional-face.jpg"
+    },
+    "abutilon-theophrasti": {
+      "count": 1,
+      "first_src": "media/abutilon-theophrasti/abutilon-theophrasti-provisional-face.jpg"
+    },
+    "allowissadula-holosericea": {
+      "count": 0,
+      "first_src": null
+    },
+    "anoda-cristata": {
+      "count": 2,
+      "first_src": "media/anoda-cristata/anoda-cristata-flower-commons.jpg"
+    },
+    "callirhoe-digitata": {
+      "count": 0,
+      "first_src": null
+    },
+    "callirhoe-involucrata": {
+      "count": 3,
+      "first_src": "media/callirhoe-involucrata/01-flower.jpg"
+    },
+    "callirhoe-leiocarpa": {
+      "count": 0,
+      "first_src": null
+    },
+    "callirhoe-pedata": {
+      "count": 2,
+      "first_src": "media/callirhoe-pedata/01-purple-flowering-habit.jpg"
+    },
+    "firmiana-simplex": {
+      "count": 0,
+      "first_src": null
+    },
+    "hibiscus-martianus": {
+      "count": 0,
+      "first_src": null
+    },
+    "malva-parviflora": {
+      "count": 0,
+      "first_src": null
+    },
+    "malvastrum-aurantiacum": {
+      "count": 0,
+      "first_src": null
+    },
+    "malvastrum-coromandelianum": {
+      "count": 0,
+      "first_src": null
+    },
+    "malvaviscus-arboreus-var-drummondii": {
+      "count": 1,
+      "first_src": "media/malvaviscus-arboreus-var-drummondii/malvaviscus-arboreus-var-drummondii-provisional-face.jpg"
+    },
+    "melochia-pyramidata": {
+      "count": 0,
+      "first_src": null
+    },
+    "meximalva-filipes": {
+      "count": 0,
+      "first_src": null
+    },
+    "modiola-caroliniana": {
+      "count": 0,
+      "first_src": null
+    },
+    "muenchhusia-coccinea": {
+      "count": 0,
+      "first_src": null
+    },
+    "muenchhusia-laevis": {
+      "count": 0,
+      "first_src": null
+    },
+    "muenchhusia-moscheutos": {
+      "count": 0,
+      "first_src": null
+    },
+    "muenchhusia-moscheutos-subsp-lasiocarpos": {
+      "count": 0,
+      "first_src": null
+    },
+    "pavonia-hastata": {
+      "count": 0,
+      "first_src": null
+    },
+    "pavonia-lasiopetala": {
+      "count": 0,
+      "first_src": null
+    },
+    "rhynchosida-physocalyx": {
+      "count": 0,
+      "first_src": null
+    },
+    "sida-abutilifolia": {
+      "count": 1,
+      "first_src": "media/sida-abutilifolia/sida-abutilifolia-provisional-face.jpg"
+    },
+    "sida-spinosa": {
+      "count": 1,
+      "first_src": "media/sida-spinosa/sida-spinosa-provisional-face.jpg"
+    },
+    "sphaeralcea-grossulariifolia": {
+      "count": 0,
+      "first_src": null
+    },
+    "sphaeralcea-lindheimeri": {
+      "count": 0,
+      "first_src": null
+    },
+    "tilia-americana": {
+      "count": 0,
+      "first_src": null
+    },
+    "feijoa-sellowiana": {
+      "count": 0,
+      "first_src": null
+    },
+    "ludwigia-decurrens": {
+      "count": 0,
+      "first_src": null
+    },
+    "ludwigia-leptocarpa": {
+      "count": 0,
+      "first_src": null
+    },
+    "ludwigia-octovalvis": {
+      "count": 1,
+      "first_src": "media/ludwigia-octovalvis/public-alex-abair-ludwigia-fruit.jpg"
+    },
+    "ludwigia-palustris": {
+      "count": 0,
+      "first_src": null
+    },
+    "ludwigia-peploides": {
+      "count": 0,
+      "first_src": null
+    },
+    "ludwigia-repens": {
+      "count": 0,
+      "first_src": null
+    },
+    "oenothera-biennis": {
+      "count": 1,
+      "first_src": "media/oenothera-biennis/oenothera-biennis-provisional-face.jpg"
+    },
+    "oenothera-calcicola": {
+      "count": 0,
+      "first_src": null
+    },
+    "oenothera-capillifolia": {
+      "count": 1,
+      "first_src": "media/oenothera-capillifolia/oenothera-capillifolia-provisional-face.jpg"
+    },
+    "oenothera-capillifolia-subsp-berlandieri": {
+      "count": 0,
+      "first_src": null
+    },
+    "oenothera-curtiflora": {
+      "count": 0,
+      "first_src": null
+    },
+    "oenothera-filiformis": {
+      "count": 1,
+      "first_src": "media/oenothera-filiformis/oenothera-filiformis-provisional-face.jpg"
+    },
+    "oenothera-glaucifolia": {
+      "count": 0,
+      "first_src": null
+    },
+    "oenothera-hispida": {
+      "count": 0,
+      "first_src": null
+    },
+    "oenothera-jamesii": {
+      "count": 1,
+      "first_src": "media/oenothera-jamesii/oenothera-jamesii-provisional-face.jpg"
+    },
+    "oenothera-laciniata": {
+      "count": 1,
+      "first_src": "media/oenothera-laciniata/oenothera-laciniata-provisional-face.jpg"
+    },
+    "oenothera-lindheimeri": {
+      "count": 1,
+      "first_src": "media/oenothera-lindheimeri/01-flowering-habit.jpg"
+    },
+    "oenothera-macrocarpa": {
+      "count": 0,
+      "first_src": null
+    },
+    "oenothera-macrocarpa-subsp-macrocarpa": {
+      "count": 1,
+      "first_src": "media/oenothera-macrocarpa-subsp-macrocarpa/oenothera-macrocarpa-subsp-macrocarpa-provisional-face.jpg"
+    },
+    "oenothera-patriciae": {
+      "count": 0,
+      "first_src": null
+    },
+    "oenothera-rosea": {
+      "count": 1,
+      "first_src": "media/oenothera-rosea/oenothera-rosea-provisional-face.jpg"
+    },
+    "oenothera-serrulata": {
+      "count": 0,
+      "first_src": null
+    },
+    "oenothera-sinuosa": {
+      "count": 0,
+      "first_src": null
+    },
+    "oenothera-speciosa": {
+      "count": 3,
+      "first_src": "media/oenothera-speciosa/01-flowering-habit.jpg"
+    },
+    "oenothera-suffrutescens": {
+      "count": 1,
+      "first_src": "media/oenothera-suffrutescens/oenothera-suffrutescens-provisional-face.jpg"
+    },
+    "oenothera-suffulta": {
+      "count": 0,
+      "first_src": null
+    },
+    "oenothera-triloba": {
+      "count": 0,
+      "first_src": null
+    },
+    "passiflora-affinis": {
+      "count": 1,
+      "first_src": "media/passiflora-affinis/passiflora-affinis-provisional-face.jpg"
+    },
+    "passiflora-foetida": {
+      "count": 4,
+      "first_src": "media/passiflora-foetida/passiflora-foetida-provisional-face.jpg"
+    },
+    "passiflora-incarnata": {
+      "count": 3,
+      "first_src": "media/passiflora-incarnata/passiflora-incarnata-provisional-face.jpg"
+    },
+    "passiflora-lanuginosa": {
+      "count": 0,
+      "first_src": null
+    },
+    "passiflora-lutea": {
+      "count": 3,
+      "first_src": "media/passiflora-lutea/passiflora-lutea-provisional-face.jpg"
+    },
+    "passiflora-tenuiloba": {
+      "count": 2,
+      "first_src": "media/passiflora-tenuiloba/passiflora-tenuiloba-provisional-face.jpg"
+    },
+    "phyllanthus-polygonoides": {
+      "count": 0,
+      "first_src": null
+    },
+    "phyllanthus-urinaria": {
+      "count": 0,
+      "first_src": null
+    },
+    "populus-deltoides": {
+      "count": 0,
+      "first_src": null
+    },
+    "populus-tristis": {
+      "count": 0,
+      "first_src": null
+    },
+    "salix-nigra": {
+      "count": 0,
+      "first_src": null
+    },
+    "pombalia-verticillata": {
+      "count": 0,
+      "first_src": null
+    },
+    "viola-affinis": {
+      "count": 0,
+      "first_src": null
+    },
+    "viola-missouriensis": {
+      "count": 0,
+      "first_src": null
+    }
+  }
+}

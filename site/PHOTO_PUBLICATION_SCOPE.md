@@ -1,5 +1,3 @@
-# Hays Botany family text-only learner preview
+# Existing-source photographic publication
 
-This public learner currently contains **130 existing species teaching summaries** from the migrated family source cards. **No third-party image files or remote embedded photos** are included in the output. Historical source-photo records and credits are preserved unchanged on the staging branch for an individual rights review before gallery use.
-
-Source repository being public does not establish rights to distribute all original photographs. Photographs can be added to the WEBSITE only when individually verified for display, attribution, license and adaptation rights. The old public learner remains the fallback for existing verified photographs and full lessons.
+99 original photos across 48 species were installed from the existing migration after strict exact-image rights review. 261 image records remain held from public display, with per-species reasons in site/photo-source-migration-report.json. Original source files are preserved.
