@@ -11,8 +11,8 @@ meta_path=SITE/"data/collection-meta.json"
 meta=json.loads(meta_path.read_text())
 assert len(ix["entries"])==len(list((SITE/"data/species").glob("*.json")))
 media=SITE/"media"
-assert not media.exists() or not any(media.rglob("*")), "Nonempty site media: inspect before first restore"
 media.mkdir(exist_ok=True)
+approved_paths=set()
 reasons=Counter(); held={}; catalog={}; count=0; records=0; found_species=0; total_bytes=0
 def license_info(p):
     name=str(p.get("license") or "").strip()
@@ -76,10 +76,12 @@ for row in ix["entries"]:
         src="media/"+sid+"/"+path.name
         dest=SITE/src
         if dest.exists():
-            blocks.append({"record":n,"reason":"duplicate_filename"});continue
-        dest.parent.mkdir(parents=True,exist_ok=True)
-        shutil.copyfile(path,dest)
-        assert dest.read_bytes()==content
+            assert dest.read_bytes()==content,"Historical photo bytes changed unexpectedly: "+src
+        else:
+            dest.parent.mkdir(parents=True,exist_ok=True)
+            shutil.copyfile(path,dest)
+            assert dest.read_bytes()==content
+        approved_paths.add(dest.resolve())
         sha=hashlib.sha1(b"blob "+str(len(content)).encode()+b"\x00"+content).hexdigest()
         creator,source,lic=ok
         photos.append({"src":src,"creator":creator,"source_page":source,"license":lic[0],
@@ -99,6 +101,8 @@ for row in ix["entries"]:
     catalog[sid]={"count":len(photos),"first_src":photos[0]["src"] if photos else None}
     found_species+=bool(photos)
 assert records==count+sum(reasons.values())
+actual_paths={p.resolve() for p in media.rglob("*") if p.is_file()}
+assert actual_paths==approved_paths,"Website has unapproved or untracked image files"
 ix["site_release_stage"]="PUBLIC_EXISTING_SOURCE_CC_PHOTOS"
 ix_path.write_text(json.dumps(ix,ensure_ascii=False,indent=2)+"\n")
 meta["site_release_stage"]="PUBLIC_EXISTING_SOURCE_CC_PHOTOS"
