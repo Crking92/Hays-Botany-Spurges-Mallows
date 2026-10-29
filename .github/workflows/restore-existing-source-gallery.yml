@@ -1,0 +1,82 @@
+name: Restore existing licensed source photos to family learner
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/restore_existing_source_public_media.py'
+      - '.github/workflows/restore-existing-source-gallery.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: hays-botany-spurges-mallows-existing-source-photo-transfer
+  cancel-in-progress: false
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: website
+          fetch-depth: 0
+          persist-credentials: true
+      - uses: actions/checkout@v4
+        with:
+          ref: staging/original-source-transfer
+          path: source
+          persist-credentials: false
+      - name: Copy only exactly sourced rights-cleared historical photos
+        run: |
+          python3 -m py_compile website/scripts/restore_existing_source_public_media.py
+          python3 website/scripts/restore_existing_source_public_media.py source website
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          root=Path('website/site')
+          report=json.loads((root/'photo-source-migration-report.json').read_text())
+          assert report['species']==130 and report['source_photo_records']>0
+          assert report['restricted_media_copied']==0 and report['new_external_images']==0
+          print('EXISTING_SOURCE_RIGHTS_GATE_PASS',report['photos_copied_and_eligible'])
+          PY
+      - name: Commit eligible photos and gallery text in batches of 50 files
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd website
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          mapfile -t source_photos < <(find site/media -type f | sort)
+          for ((i=0; i<${#source_photos[@]}; i+=50)); do
+            section=("${source_photos[@]:i:50}")
+            git add -- "${section[@]}"
+            git diff --cached --check
+            if ! git diff --cached --quiet; then
+              git commit -m "Copy existing public-license family photos in bounded batch"
+            fi
+          done
+          mapfile -t cards < <(find site/data/species -maxdepth 1 -name '*.json' -type f | sort)
+          for ((i=0; i<${#cards[@]}; i+=50)); do
+            section=("${cards[@]:i:50}")
+            git add -- "${section[@]}"
+            git diff --cached --check
+            if ! git diff --cached --quiet; then
+              git commit -m "Connect existing licensed photos to correct species lessons"
+            fi
+          done
+          git add site/data/collection-index.json site/data/collection-meta.json site/data/gallery-index.json site/photo-source-migration-report.json site/PHOTO_PUBLICATION_SCOPE.md
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "Record exact photo eligibility, holds, credits and public counts"
+          fi
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:refs/heads/main
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: existing-only-trees-photo-eligibility
+          path: website/site/photo-source-migration-report.json
+          retention-days: 60
+          if-no-files-found: warn
