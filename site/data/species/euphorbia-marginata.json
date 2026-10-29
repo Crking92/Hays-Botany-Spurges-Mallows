@@ -67,8 +67,35 @@
     "names": [],
     "differences": "Against E. bicolor, use two linked characters: E. marginata is generally broader-bracted and glabrous on the upper leaf/bract surfaces; E. bicolor is narrower-bracted and conspicuously hairy above."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/euphorbia-marginata/02-inflorescence-closeup.jpg",
+      "creator": "H. Zell",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_marginata_002.JPG",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "23f2fd892cba54939c4f2a7890f3f587d6a53c82",
+      "role": "Recognize · showy white-margined bracts surrounding tiny reproductive cups; white areas are bracts, not petals",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-marginata/04-cbaile19-marginata-whole-habit-cc0.jpg",
+      "creator": "Cbaile19 (Wikimedia Commons)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_marginata,_2015-07-22,_Beechview,_01.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "a63971de9b70601195059fa2217d0682488f198c",
+      "role": "Look closer: large broad white-edged modified upper bracts, multiple tiny green-and-white reproductive cyathia; NOT a whole plant or Hays County voucher.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "5dba9dfb154ee87f1a38f1122f6e09a40cc8d4da07e39b64b24028581c3b16b8",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

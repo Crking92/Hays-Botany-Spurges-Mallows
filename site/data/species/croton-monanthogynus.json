@@ -31,8 +31,48 @@
     "names": [],
     "differences": "LOOK HERE FIRST: on a sharp underside macro, dark-centered stellate hairs can appear as brown specks; check multiple leaves. On a flowering female plant, count two deeply divided styles producing four terminal branches, and inspect mature fruit for the characteristically reduced one-seeded condition. Croton lindheimerianus has different leaf indumentum and typically three styles divided into six tips; C. texensis generally has narrow foliage and separate male/female plants with warty fruit. Do not identify from low bushy habit or pale flowers alone."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/croton-monanthogynus/croton-monanthogynus-provisional-face.jpg",
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Croton_monanthogynus_kz01.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "226248dd826635186ec043323eaaa87a2a31c77a",
+      "role": "Recognize · low leafy branched plant with numerous small pale green oval leaves and tiny clustered flowers; trichomes not resolved",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/croton-monanthogynus/glass-root-garden-665835725-leaves-and-tiny-flowers.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/665835725",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "3178c95eec4226ae66f4866ea4d1c7e0c6f97f53",
+      "role": "Croton monanthogynus: leafy branching shoots and small developing flower clusters; leaf shape and plant architecture visible, minute hairs require macro",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/croton-monanthogynus/glass-root-garden-573574571-low-bushy-habit.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/573574571",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "45ba204f47b3e488acbe1798a7723661fdb7a608",
+      "role": "Croton monanthogynus: low rounded branching habit with many narrow leaves in open rocky-ground vegetation; whole-plant recognition",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "e83f934a224d2105bd0ed09c8e9eae06fc24bd44adc8ae12557708ab2a7f8a45",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

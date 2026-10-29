@@ -43,8 +43,48 @@
     "names": [],
     "differences": "Callirhoe leiocarpa: C. leiocarpa is annual/biennial and tall/erect, lacks involucellar bractlets, has calyx lobes meeting into a pointed bud, and has glabrous dehiscent mericarps with prominent beaks. Callirhoe pedata: C. pedata is an erect/ascending perennial and lacks the low trailing winecup habit; fruit and leaf architecture should be checked when flowers are absent. Callirhoe scabriuscula: Texas poppy-mallow is stiffly erect, densely stellate-hairy and taller; winecup is low/trailing and has different hair/habit characters."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/callirhoe-involucrata/01-flower.jpg",
+      "creator": "Clinton & Charles Robertson",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Purple_Poppymallow_(Callirhoe_involucrata)_(129866999).jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source_blob_sha": "7da26efa09c0359a07646cec1af1d583a673764c",
+      "role": "Flower front / magenta petals and pale center",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/callirhoe-involucrata/02-spreading-habit.jpg",
+      "creator": "Stan Shebs",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Callirhoe_involucrata_group.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "2fcb54e4be2b28378dc57c834b2a6563100cdb40",
+      "role": "Flowering patch / lobed foliage and developing fruits",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/callirhoe-involucrata/03-foliage-fruit.jpg",
+      "creator": "Nadiatalent",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Callirhoe_involucrata_plants_with_fruit.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "d5ae79d5f917812cd16847786d39644dc434c915",
+      "role": "Lobed foliage and fruiting stems",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "65492ffe99cb3b22fc27a0b15129db3b00e9cada6e691b7003a6c841a3c23417",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

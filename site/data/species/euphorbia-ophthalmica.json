@@ -67,8 +67,61 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/euphorbia-ophthalmica/02-roget-flowering-plant.jpg",
+      "creator": "Leonel Roget",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_ophthalmica.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "be2107838b5d12af37b050205687237d302b9edc",
+      "role": "Original broad plant habit/flowering branch from photographed specimen",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-ophthalmica/03-gaiacoyote-inflorescence-hairs.jpg",
+      "creator": "Gaiacoyote",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_ophthalmica_(1).jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "a7ed2a598d4bd6304051d526aaab410f2b3dd2b1",
+      "role": "Original close-up of round cyathium heads and fine hairs",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-ophthalmica/04-gaiacoyote-leaf-reproductive-view.jpg",
+      "creator": "Gaiacoyote",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_ophthalmica_(2).jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "32f1d4862eb71a33900f3488fc8a09263de20ae1",
+      "role": "Another detailed photographic view of leaves and head placement",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-ophthalmica/05-gaiacoyote-prostrate-habit.jpg",
+      "creator": "Gaiacoyote",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_ophthalmica_(3),_mat-forming_plant_on_very_hot_limestone_step.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "e997d2192d48228c9d937b26e6018bf00d51556c",
+      "role": "In-situ low growth habit on limestone in Guatemala; geographic comparison, not a Hays native-range observation",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "8508e0cf17dab83ac10948535fa1fb0e5c1c6a20dc9b4c3bbfdb2391d072c140",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

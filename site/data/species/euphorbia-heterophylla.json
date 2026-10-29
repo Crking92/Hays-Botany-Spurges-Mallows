@@ -67,8 +67,48 @@
     "names": [],
     "differences": "Against E. cyathophora, use the cyathial gland before leaf shape. E. heterophylla = green/pale bracts + stipitate gland + round annular-rimmed opening; E. cyathophora = sharply colored bract bases + sessile/substipitate gland + oblong rimless opening."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/euphorbia-heterophylla/euphorbia-heterophylla-provisional-face.jpg",
+      "creator": "Dinesh Valke",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_heterophylla_L._(50460036088).jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source_blob_sha": "9451b4c888c480f7b1a5568787e6dbef4f33f94f",
+      "role": "Recognize · green leafy branching shoot with small reproductive cluster near the upper nodes; gland morphology unresolved",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-heterophylla/03-fruits.jpg",
+      "creator": "Eitan f",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_heterophylla_fruits.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "98be6d823b8d81a2526adcbd50e98cbc5e4b4bd5",
+      "role": "Look closer · cluster of rounded green to brown developing three-lobed capsules and dried floral structures; seeds not exposed",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-heterophylla/04-saplants-heterophylla-cyathia.jpg",
+      "creator": "SAplants (Wikimedia Commons)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_heterophylla_var._heterophylla_1DS-II_1-7120-01.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "a66a2bb343eabb36fc126a0edeb6ad62945b08c4",
+      "role": "Source-labelled Euphorbia heterophylla var. heterophylla close-up of true tiny cyathia and developing 3-lobed fruits from a non-red-bracted specimen; examine actual saved pixels before adding anatomy arrows.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "019e5bca696bc9839c90f0b35dacd70c93987e1c68c974038a876838ed6f1d53",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

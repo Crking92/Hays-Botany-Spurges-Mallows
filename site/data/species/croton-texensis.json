@@ -35,8 +35,22 @@
     "names": [],
     "differences": "Croton monanthogynus is monoecious, low and basal-branching with brown-dotted undersides and a one-seeded capsule; C. lindheimerianus is monoecious with smooth capsules."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/croton-texensis/croton-texensis-provisional-face.jpg",
+      "creator": "JerryFriedman",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Croton_texensis_male_habitus1.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "3cf9f4a4953da2ede8c32319f62f35355396c690",
+      "role": "Recognize · slender-leaved branching Croton in sandy ground; sex-specific structures not resolved",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "9414a9b76074e8f6ed31ef1d34049da814c81e297b9aca148b05d6fb34e6d886",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -67,8 +67,61 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/euphorbia-hypericifolia/02-m108t-whole-habit.jpg",
+      "creator": "M108t",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Habit_of_Euphorbia_hypericifolia_in_Ishigaki,_Okinawa.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "f5a348e8f6f9a3fc30c09a0710fe9d037f5d9114",
+      "role": "Overall habit in the field; exact root/crown not necessarily resolved",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-hypericifolia/03-m108t-dense-cyathia.jpg",
+      "creator": "M108t",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Inflorescece_of_Euphorbia_hypericifolia_in_Ishigaki,_Okinawa_1.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "fb3ab8ece723f9e6f2d0a68d70e759a6315ccd3f",
+      "role": "Terminal/axillary dense head-like cyathium glomerules; identify flower cluster position",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-hypericifolia/04-m108t-stipule-a.jpg",
+      "creator": "M108t",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Stipule_of_Euphorbia_hypericifolia_in_Ishigaki,_Okinawa_1.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "ab9dd0fa5d5859d0d07819e0ed7d2be418116143",
+      "role": "Reddish triangular stipule-like protrusions at opposite leaf bases; both arrows visually reviewed; union/size unmeasured",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-hypericifolia/05-m108t-stipule-b.jpg",
+      "creator": "M108t",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Stipule_of_Euphorbia_hypericifolia_in_Ishigaki,_Okinawa_2.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "7f9818723d6c475927d01c62b7f2f16defba84dd",
+      "role": "Second true node photograph: large reddish membrane-like stipule region, fusion geometry uncertain",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "25eb4ea37233d524e3a9fc98aedb2b5ad9f67f1956ed112b06417f238e245d12",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

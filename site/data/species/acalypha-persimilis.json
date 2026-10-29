@@ -31,8 +31,22 @@
     "names": [],
     "differences": "Re-key against Acalypha phleoides and A. radians using reproductive spikes/bracts. Older A. ostryifolia field-guide material may refer to the same current concept."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/acalypha-persimilis/acalypha-persimilis-provisional-face.jpg",
+      "creator": "Kenraiz",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Acalypha_persimilis_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "6bd7e5b301f75ce39b3617bf170947b54cd3aed0",
+      "role": "Whole Acalypha persimilis flowering/vegetative recognition view; reproductive macro later.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "c116396d3bb6162f0afddb8956ec298c44a4ed46261b51c202b2e2e61463e501",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

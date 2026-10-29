@@ -39,8 +39,61 @@
     "names": [],
     "differences": "Croton lindheimeri is an annual herb with mostly entire leaves. Croton texensis is annual and strictly dioecious, with narrower mostly entire leaves and unisexual inflorescences."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/croton-fruticulosus/glass-root-garden-573059048-leaf-shoot.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/573059048",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "a7bb6fd1a1d7995ed873d1bd56d7c5ccbfcc299d",
+      "role": "Hand-held leafy shoot shows leaf outline and stem attachment; hair details require macro",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/croton-fruticulosus/glass-root-garden-623379901-branch.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/623379901",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "d48850e4bd894e2441270c637d27257b11a8f379",
+      "role": "Woody leafy branch with small flowering structures; exact floral anatomy not resolvable at this scale",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/croton-fruticulosus/commons-gaiacoyote-cc0-female-flower.jpg",
+      "creator": "Gaiacoyote",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Croton_fruticulosus_(2).jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "5c8421caeefb50ebd2fcf3ee9b7d5f420332d5a0",
+      "role": "Female flower and nearby developing flower buds; source photo shows style arms but six final ends need careful macro review",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/croton-fruticulosus/commons-gaiacoyote-cc0-underside-hairs.jpg",
+      "creator": "Gaiacoyote",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Croton_fruticulosus_(3).jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "53b168299cdb76f9cd0a50a9421c36dea2609607",
+      "role": "Abaxial leaf surface with stellate hairs; source identified, fine marginal teeth not necessarily pictured",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "3ae3671a767995956d59958ed7cf98d96e54f44e01d21c277f7332e05104f5e2",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

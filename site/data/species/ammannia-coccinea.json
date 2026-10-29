@@ -27,8 +27,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/ammannia-coccinea/ammannia-coccinea-starr-flower-fruit.jpg",
+      "creator": "Forest & Kim Starr",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr-130322-3853-Ammannia_coccinea-flowers_and_fruit_forming-Hanalei_NWR-Kauai_(24914156820).jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_blob_sha": "0c19f157925ab6d35dd467db177c6785c87a38c2",
+      "role": "flower and developing fruit (nonlocal)",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "9dd0bd0b696eb20401dc9e8f723c409a4e87f8aa69721e1ef4ccda2442fecfc1",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

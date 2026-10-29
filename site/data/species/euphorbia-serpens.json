@@ -67,8 +67,61 @@
     "names": [],
     "differences": "Against E. prostrata: check a node first—serpens frequently roots there and has fused broad-deltate stipule scales; prostrata does not root at nodes and has an upper-free/lower-fused stipule pattern. Serpens is also glabrous with glabrous capsules and smooth seeds, while prostrata is crisped-villous with hairy capsule keels and ridged seeds. Against E. villifera, serpens is a glabrous rooted mat with fused scales; villifera is usually erect/ascending with distinct filiform stipules and papillate surfaces."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/euphorbia-serpens/euphorbia-serpens-provisional-face.jpg",
+      "creator": "Rahooda",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_serpens_flower.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "b3ffbc593050ae5111614384e17ddf37e0ad9d66",
+      "role": "Individual tiny cyathium flower-like cup, NOT an entire flowering mat",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-serpens/02-stipules.jpg",
+      "creator": "Stefan.lefnaer",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_serpens_sl36.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "23507cac7670e39c135f19f9a265ddcb6eff9734",
+      "role": "Stem/node macro / fused deltate stipules",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-serpens/03-fruit.jpg",
+      "creator": "Rahooda",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_serpens_fruit.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "47b681da4cbee207355050cf728d1247491e8b0b",
+      "role": "Fruit/capsule macro / glabrous capsule",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-serpens/04-seed.jpg",
+      "creator": "Stefan.lefnaer",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_serpens_sl58.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "d5c4498086181434d55ce408647d6961deab49b6",
+      "role": "Mature seed macro / smooth seed surface",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "8f413109c86bac89737091980030fd50a5a0b67abce561c659b150c3b65e936d",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

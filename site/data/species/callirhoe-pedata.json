@@ -47,8 +47,35 @@
     "names": [],
     "differences": "Callirhoe digitata: C. digitata usually has 5–10-lobed leaves, caducous stipules and a paniculate inflorescence; C. pedata usually has persistent stipules and a raceme. Current Kew/FNA distributions place C. digitata outside Texas. Callirhoe involucrata: C. involucrata is low/trailing and has 3 involucellar bractlets; C. pedata is erect and lacks involucellar bractlets. Callirhoe leiocarpa: C. leiocarpa is annual/biennial with dehiscent strongly beaked mericarps; C. pedata is perennial with indehiscent fruit."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/callirhoe-pedata/01-purple-flowering-habit.jpg",
+      "creator": "lanechaffin",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Callirhoe_pedata_359070311.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "5de812d016bb26500963e7826e8ca99ba4bcc6f6",
+      "role": "Purple-flowering plant/habit with multiple stems and buds",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/callirhoe-pedata/02-flower-bud-close-context.jpg",
+      "creator": "giantcicada",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Callirhoe_pedata_382056768.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "bee12e66c5bcdff57de537cb36e43002ed67ec99",
+      "role": "Flower plus pointed bud/calyx context",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "2b363ed8091aa35e13eabf75494485d66032a217402e13984b1ae544dff62dcc",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

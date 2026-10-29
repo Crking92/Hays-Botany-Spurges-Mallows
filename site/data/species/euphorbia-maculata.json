@@ -67,8 +67,61 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/euphorbia-maculata/02-harry-rose-habit.jpg",
+      "creator": "Harry Rose",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_maculata_plant3_(16180597798).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "7109cf495a267d5cbf95ac704449274bb0cf18d0",
+      "role": "Whole growing plant, leaves and mat habit (not local Hays County provenance)",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-maculata/03-stefan-leaf-stipule.jpg",
+      "creator": "Stefan.lefnaer",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_maculata_sl13.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "b750ad6f1cfdec22d84ffc92d827ecb1af0de688",
+      "role": "Microscopic paired leaves, stipules and hairy stem at node",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-maculata/04-stefan-fruit-entirely-hairy.jpg",
+      "creator": "Stefan.lefnaer",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_maculata_sl18.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "4a200a5319796207408eef1482d7ef982074381a",
+      "role": "Infructescence and capsule hairs across the faces, unlike prostrata keel-concentrated hairs",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-maculata/05-stefan-seeds-shallow-furrows.jpg",
+      "creator": "Stefan.lefnaer",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_maculata_sl20.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "278119dbdff44b536546210946c1bc945fb18719",
+      "role": "Exact species seeds with LOW transverse ridges and shallow crosswise furrows; NOT longitudinal ribs",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "b4dd69dd2d7ef4f57bed575a1d3c0cceb18cd54d821c6bd09d24c3c4da33994c",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

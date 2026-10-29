@@ -67,8 +67,61 @@
     "names": [],
     "differences": "Against E. heterophylla, do not rely on leaf shape. Use the bract bases and especially the cyathial gland: E. cyathophora = colored basal bracts + oblong gland opening without an annular rim; E. heterophylla = green/paler-green bracts + stipitate gland with a round opening and annular rim."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/euphorbia-cyathophora/euphorbia-cyathophora-provisional-face.jpg",
+      "creator": "Harry Rose",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_cyathophora_plant1_(14756306610).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "299c5aebc9992087d8cae0378e348fee780e0adc",
+      "role": "Recognize · branching plant with conspicuous salmon-red upper bracts",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-cyathophora/02-flowerhead-cyathia.jpg",
+      "creator": "Harry Rose",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_cyathophora_flowerhead2_(14942982095).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "10aa69576c2d146e5ce1fbc8a7b7bbd1d8420a1f",
+      "role": "Look closer · round green developing capsules and paired upper bracts; gland shape not resolved",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-cyathophora/03-leaves-flowers-fruit.jpg",
+      "creator": "Forest & Kim Starr",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Starr_080606-6994_Euphorbia_cyathophora.jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "source_blob_sha": "cf46df43092a7620b2b3fd3024b5415511139ef6",
+      "role": "Look closer · salmon-red bracts surrounding green reproductive structures; cyathial gland macro still needed",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-cyathophora/04-saplants-cyathophora-gland-macro.jpg",
+      "creator": "SAplants (Wikimedia Commons)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_heterophylla_var._cyathophora_1DS-II_2-6098.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "bb615d547916bfa5998a44359f29c89d6b20e7cc",
+      "role": "Close-up of named historical var. cyathophora, synonym of E. cyathophora (Kew POWO); developing capsules and potential oblong-gland anatomy.",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "fd3b976daebb4bff042b404bf7e8ca4f90d6795f6af526804df1632cf65638de",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

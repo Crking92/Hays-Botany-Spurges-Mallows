@@ -67,8 +67,61 @@
     "names": [],
     "differences": "Against E. serpens: check a node first—prostrata does not root there and has an upper-free/lower-fused stipule pattern; serpens frequently roots at nodes and has conspicuous fused deltate stipule scales. Then use fruit/seed: prostrata has hairy capsule keels and ridged seeds, while serpens has glabrous capsules and smooth seeds. Against E. villifera: prostrata is prostrate rather than usually erect/ascending and has hairy capsule keels; villifera has distinct filiform stipules, papillate surfaces, and glabrous capsules."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/euphorbia-prostrata/euphorbia-prostrata-provisional-face.jpg",
+      "creator": "Harry Rose",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_prostrata_plant.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "748c06611840e584a7254db7eed076c7f4c25855",
+      "role": "Whole plant / prostrate mat recognizable face",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-prostrata/02-fruit-hairy-keels.jpg",
+      "creator": "Stefan.lefnaer",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_prostrata_sl26.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "80c6107eab0bab0386522b9292a25c3267c0c1e2",
+      "role": "Fruit macro / capsule keel pubescence",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-prostrata/03-seeds-ridged.jpg",
+      "creator": "Stefan.lefnaer",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_prostrata_sl29.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "2b2e3cde93080102283b2db216351b520f3da59f",
+      "role": "Mature seed macro / 4-angled transverse ridges",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-prostrata/04-stem-stipules.jpg",
+      "creator": "Stefan.lefnaer",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_prostrata_sl15.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "d50eca272d0a64da4dc4f91ec7a9854a4b052fcc",
+      "role": "Stem/node macro / upper-free and lower-fused stipule architecture",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "cb9e9bd23ab3e013604500a9c338c98cc3523cac0b73bada4a1a39296711a5cb",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

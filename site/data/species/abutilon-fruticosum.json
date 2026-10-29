@@ -47,8 +47,61 @@
     "names": [],
     "differences": "Separate from velvetleaf (A. theophrasti) by the smaller leaves and compact fruit; separate from A. incanum by plain yellow flowers and more style branches."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/abutilon-fruticosum/abutilon-fruticosum-provisional-face.jpg",
+      "creator": "John Pavelka",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "b7c4ac8ad7165417403eab2a94ffaddb9eee0b2e",
+      "role": "Austin flowering habit and heart-shaped leaves",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/abutilon-fruticosum/02-yellow-flower.jpg",
+      "creator": "SAplants",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum_1DS-II_3-2244.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "f3ffc088d135990716c2835c890b4c01d03a7aec",
+      "role": "Five-petaled yellow flower and central staminal column",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/abutilon-fruticosum/03-compact-fruit-side.jpg",
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum_kz03.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "74f080105eb74b48bbec20744f58613506858484",
+      "role": "Exact Abutilon fruticosum ripe fruit with short mericarp tips, Jordan",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/abutilon-fruticosum/04-compact-fruit-oblique.jpg",
+      "creator": "Krzysztof Ziarnek, Kenraiz",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Abutilon_fruticosum_kz04.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "eca206fb7f5882ba3a42a9e7676ee605b75a1f86",
+      "role": "Exact Abutilon fruticosum ripe fruit second view, Jordan",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "aac77f6a51199c82738b5ef5f63b154546dc8e37641d61367713446a873c37c0",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

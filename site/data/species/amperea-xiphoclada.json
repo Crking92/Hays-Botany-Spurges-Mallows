@@ -27,8 +27,22 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/amperea-xiphoclada/amperea-xiphoclada-flower-clusters-melburnian.jpg",
+      "creator": "Melburnian",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Amperea_xiphoclada_8547.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "f040dd5ba6b63dc26a0626c2020b527b04300a59",
+      "role": "Green angular stems and small nodal flower clusters",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "d90c7fe11959a76a7a1b974c5107fc7c2b46487c19d8c522e75f8a6ca0c1585b",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

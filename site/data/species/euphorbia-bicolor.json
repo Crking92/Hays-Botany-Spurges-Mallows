@@ -67,8 +67,48 @@
     "names": [],
     "differences": "Against E. marginata, prioritize two characters together: upper-surface hairiness and bract width. E. bicolor is the narrow-and-hairy plant; E. marginata is generally the broader-and-glabrous-above plant."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/euphorbia-bicolor/01-habit-white-bracts.jpg",
+      "creator": "Lisa Winnett-Pequeno",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_bicolor.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "3e12dcc83c9ba0be4c834c33906ef8c551f315c2",
+      "role": "Diagnostic close-up · single narrow white-margined bract and central group of tiny cyathia; upper-face hairs and capsule hairs NOT resolved",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-bicolor/glass-root-garden-564413728-white-bracts-and-floral-clusters.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/564413728",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "10e94c4f74d10ce8c058dbddb6fd23b09fb2ab78",
+      "role": "Recognition only · natural flowering canopy and repeating slender white-margined bracts, NO anatomy arrows",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-bicolor/glass-root-garden-562443428-whole-plant-flowering-habit.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/562443428",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "52724783fb0974e49d451ab397623a877fe39b13",
+      "role": "Recognize · whole branching field plant and white-topped flowering habit; NO microanatomy pointers",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "6aea81341f797de656428442b28a71143aa30b93ca27787567c8b7410256d7f8",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

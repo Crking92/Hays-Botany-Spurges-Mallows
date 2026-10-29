@@ -43,8 +43,22 @@
     "names": [],
     "differences": "Much larger-leaved and more strongly beaked than A. fruticosum; annual weed habit is also distinctive."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/abutilon-theophrasti/abutilon-theophrasti-provisional-face.jpg",
+      "creator": "St.Mons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Abutilon_theophrasti.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "203c64a0386af26c51eb3603f79f08750fe8dd7c",
+      "role": "Whole plant / recognizable habit",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "28b36df370b21c87a9a9bfcb7f72ebc4f6762c99b62f9035d2a8bf4f7b9a2ddb",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

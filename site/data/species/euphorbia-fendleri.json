@@ -67,8 +67,22 @@
     "names": [],
     "differences": "Against the tiny annual sandmats, the woody perennial base is a major clue. Against E. angusta, E. fendleri stays low and has short rounded leaves; E. angusta is erect with very narrow distal leaves. Do not lean heavily on involucral gland appendage shape because it is variable in E. fendleri."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/euphorbia-fendleri/euphorbia-fendleri-provisional-face.jpg",
+      "creator": "Stan Shebs",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_fendleri_3.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "fb18b3d18e4294aa82700140dd906c671ba81132",
+      "role": "Close flowering-shoot recognition: rounded leaves, smooth reddish stems, white cyathial gland appendages (NOT full rooted habit)",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "7c3ea4dbd6b89684805d77cee0f37a61194e5b9577964c6cb1cb9df8a4aea539",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

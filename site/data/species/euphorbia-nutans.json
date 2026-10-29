@@ -67,8 +67,35 @@
     "names": [],
     "differences": "Teach opposite leaves and their STRONGLY unequal bases first, then fine edge teeth, then hairless fruit and microscopic seed wrinkles. Unlike E. villifera, E. nutans generally has larger leaves and fringed/divided 1–1.5 mm scalelike stipules, not minute separate filiform stipules. Both can have ascending branches and hairless capsules; leaf spot or hairiness alone is not diagnostic. E. maculata grows as a low mat and has fine hairs on capsule faces; E. prostrata has fruit-keel hairs and strong transverse seed ridges."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/euphorbia-nutans/euphorbia-nutans-provisional-face.jpg",
+      "creator": "Kenraiz",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_nutans_kz01.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "ba19526d4d2038fbd20fa31c745f8aeb6c6babd3",
+      "role": "Flowering leafy upper shoot — fine marginal teeth and cyathial clusters, NOT whole plant",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-nutans/02-reproductive-closeup.jpg",
+      "creator": "HermannSchachner",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_nutans_(Nickend-Wolfsmilch)_IMG_8819.JPG",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "09d0568b1b68c716441232279b5752e5496fa275",
+      "role": "Upper branch / leaves, cyathia and fruit context",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "983f97dff39f7c22a70042fd7db7a28cb4effff4ed332b5e0a77d0912c6c8ca5",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

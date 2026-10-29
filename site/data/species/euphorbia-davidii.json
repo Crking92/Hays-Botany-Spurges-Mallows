@@ -67,8 +67,35 @@
     "names": [],
     "differences": "E. davidii = stiff short hairs + larger capsule + larger angular irregularly lumpy seed. E. dentata = longer weak filiform hairs + smaller capsule + smaller rounded evenly finely tuberculate seed."
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/euphorbia-davidii/01-jordan-river-habit.jpg",
+      "creator": "Andrey Zharkikh",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_davidii,_Jordan_River,_Utah.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "9d038239ba60091353f2bd0867b7ace4507e3c94",
+      "role": "Recognize · widely branched reddish green stems on dry ground; whole plant alone cannot separate from E. dentata",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/euphorbia-davidii/02-upper-plant-detail.jpg",
+      "creator": "Andrey Zharkikh",
+      "source_page": "https://commons.wikimedia.org/wiki/File:2015.08.22_11.57.08_IMG_0259_-_Flickr_-_andrey_zharkikh_(cropped).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "694bc0832e34e7a88dab983740ec4afd7a84c2ec",
+      "role": "Look closer · green developing three-lobed capsules and toothed leaves on reddish branching stems",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "04247f45e0c8f3b9bed0e51c98f79216caf7fda231c7c8c9c6267b29abfa0f51",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

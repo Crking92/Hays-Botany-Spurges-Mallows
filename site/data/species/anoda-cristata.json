@@ -31,8 +31,35 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "NOT_INCLUDED_IN_RIGHTS_FILTERED_TEXT_PREVIEW",
+  "verified_photos": [
+    {
+      "src": "media/anoda-cristata/anoda-cristata-flower-commons.jpg",
+      "creator": "AfroBrazilian",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Anoda_cristata_01.JPG",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "7cf6bbf21f8ed03eafa930900f0f87c3587e1b70",
+      "role": "Flower and young fruit with alternate leaves",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    },
+    {
+      "src": "media/anoda-cristata/anoda-cristata-mature-fruit-commons.jpg",
+      "creator": "Denis.prévôt",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Anoda_cristata_-_Fruit.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "5489899972723f2e2153ea59d64d4705fd36024d",
+      "role": "Mature disk-shaped schizocarp close-up",
+      "modified": "Exact archived original photograph; no modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "f324491ff5432fd0a7de0c22801c3c8eb029637dbc5aace534a7fecce162f77e",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
