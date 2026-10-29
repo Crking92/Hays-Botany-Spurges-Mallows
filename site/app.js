@@ -1,6 +1,6 @@
 "use strict";
 const $=id=>document.getElementById(id);
-const siteState={config:null,entries:[],active:null,mode:"learner",details:new Map()};
+const siteState={config:null,entries:[],active:null,mode:"learner",details:new Map(),photoIndex:{}};
 const hub="https://crking92.github.io/Hays-County-Botany/";
 function setText(node,text){node.textContent=String(text??"");return node}
 function el(tag,text,cls){const n=document.createElement(tag);if(text!==undefined)setText(n,text);if(cls)n.className=cls;return n}
@@ -10,10 +10,16 @@ function renderList(){
  const result=$("results");clear(result);
  const q=$("search").value.trim().toLocaleLowerCase();
  const list=siteState.entries.filter(x=>(String(x.scientific_name||"")+" "+String(x.common_name||"")).toLocaleLowerCase().includes(q));
- if(!siteState.entries.length){result.append(el("p","No species in this collection release. Open the legacy Hays Botany learner for older records.","muted"));return}
+ if(!siteState.entries.length){result.append(el("p","No species imported yet. The existing main Hays Botany learner still contains the authoritative cards.","muted"));return}
  if(!list.length){result.append(el("p","No matching plants in this collection.","muted"));return}
  for(const s of list){
-   const b=el("button");b.type="button";b.append(el("strong",s.common_name||s.scientific_name),el("em",s.scientific_name));
+   const b=el("button");b.type="button";
+   const photos=siteState.photoIndex[s.id];
+   if(photos?.count&&photos.first_src){
+     const thumb=document.createElement("img");thumb.className="result-thumb";thumb.src=photos.first_src;thumb.loading="lazy";thumb.alt="";thumb.onerror=()=>thumb.remove();b.append(thumb);
+   }
+   b.append(el("strong",s.common_name||s.scientific_name),el("em",s.scientific_name));
+   if(photos?.count)b.append(el("small",photos.count+" verified photo"+(photos.count===1?"":"s"),"photo-count"));
    if(s.id===siteState.active)b.setAttribute("aria-current","true");
    b.addEventListener("click",()=>select(s.id,true));result.append(b);
  }
@@ -32,7 +38,8 @@ async function select(id,push){
    }
    if(siteState.active!==id)return;
    const card=siteState.details.get(id);
-   d.append(el("p","Field-identification text from the existing Hays Botany scientific record. Photographs in this first family release are temporarily withheld pending source-specific public-reuse review.","muted"));
+   const released=Array.isArray(card.verified_photos)?card.verified_photos.length:0;
+   d.append(el("p",released?`${released} individually credited Creative Commons photograph${released===1?"":"s"} available for this species. More anatomy views may still be needed.`:"No public-cleared photographs for this species yet. Field-ID text is available; archived source images remain under review.","muted"));
    if(card.look_here_first){
      d.append(el("h3","LOOK HERE FIRST"));
      d.append(el("p",card.look_here_first));
@@ -82,13 +89,14 @@ function setMode(mode){
  $("nav-learner").setAttribute("aria-current",mode==="learner"?"page":"false");
  $("nav-field").setAttribute("aria-current",mode==="field"?"page":"false");
  if(siteState.active)select(siteState.active,false);
- else statusMessage(mode==="learner"?"Choose a species to begin":"Field ID tiles","This is a preview shell. Species lessons will appear only after the first verified import.");
+ else statusMessage(mode==="learner"?"Choose a species to begin":"Choose a field ID lesson","Select any of the 180 plants to read its identification lesson, with approved photographs where available.");
 }
 async function boot(){
  try{
    const [confResp,indexResp]=await Promise.all([fetch("data/collection-meta.json"),fetch("data/collection-index.json")]);
    if(!confResp.ok||!indexResp.ok)throw Error("collection metadata missing");
    siteState.config=await confResp.json();const doc=await indexResp.json();
+   try{const p=await fetch("data/gallery-index.json");if(p.ok){const list=await p.json();if(list.schema_version===1&&list.status==="ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES"){siteState.photoIndex=list.entries;if($("photo-summary"))$("photo-summary").textContent=list.photo_count+" verified photographs across "+list.photo_species+" species";}}}catch(e){console.warn("Gallery thumbnail summary unavailable; full card galleries still load",e)}
    if(!Array.isArray(doc.entries))throw Error("invalid collection index");
    siteState.entries=doc.entries;
    const label=siteState.config.repository_full_name.split("/")[1].replace("Hays-Botany-","").replaceAll("-"," ");
