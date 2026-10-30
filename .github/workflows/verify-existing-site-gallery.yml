@@ -3,7 +3,6 @@ on:
   push:
     branches: [main]
     paths:
-      - 'site/**'
       - 'scripts/verify_existing_site.py'
       - '.github/workflows/verify-existing-site-gallery.yml'
   workflow_dispatch:
