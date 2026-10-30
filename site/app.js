@@ -39,7 +39,7 @@ async function select(id,push){
    if(siteState.active!==id)return;
    const card=siteState.details.get(id);
    const released=Array.isArray(card.verified_photos)?card.verified_photos.length:0;
-   d.append(el("p",released?`${released} individually credited Creative Commons photograph${released===1?"":"s"} available for this species. More anatomy views may still be needed.`:"No public-cleared photographs for this species yet. Field-ID text is available; archived source images remain under review.","muted"));
+   d.append(el("p",released?`${released} individually credited photograph${released===1?"":"s"} available for this species. More anatomy views may still be needed.`:"No public-cleared photographs for this species yet. Field-ID text is available; archived source images remain under review.","muted"));
    if(card.look_here_first){
      d.append(el("h3","LOOK HERE FIRST"));
      d.append(el("p",card.look_here_first));
@@ -66,7 +66,7 @@ async function select(id,push){
        const link=document.createElement("a");link.href=photo.src;link.target="_blank";link.rel="noopener noreferrer";link.setAttribute("aria-label","Open original-size preview of "+(photo.role||card.scientific_name));
        const image=document.createElement("img");image.src=photo.src;image.loading="lazy";image.alt=card.scientific_name+": "+(photo.role||"verified species photograph");
        link.append(image);fig.append(link);
-       const cap=el("figcaption");cap.append(el("strong",photo.role||"Species photograph"),el("small","Photo: "+photo.creator+" · "+photo.license+". Resized for this learner, source credited."));
+       const cap=el("figcaption");cap.append(el("strong",photo.role||"Species photograph"),el("small","Photo: "+photo.creator+" · "+photo.license+". "+(photo.modified||"Source credited.")));
        if(photo.noncommercial_only)cap.append(el("small","NONCOMMERCIAL-ONLY reuse. No commercial use or redistribution outside license terms.","photo-nc"));
        if(photo.private_rights_review_only)cap.append(el("small",photo.rights_note||"Private review: public license verification still required.","photo-review"));
        const sources=el("div",undefined,"source-links");

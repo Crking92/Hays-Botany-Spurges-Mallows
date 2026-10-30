@@ -1,0 +1,22 @@
+name: Verify existing Spurges-Mallows public gallery and site bytes
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'site/**'
+      - 'scripts/verify_existing_site.py'
+      - '.github/workflows/verify-existing-site-gallery.yml'
+  workflow_dispatch:
+permissions: {contents: read}
+jobs:
+  audit-existing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Audit existing public records and photo blob hashes
+        run: python3 scripts/verify_existing_site.py
+      - name: Verify published species JSON and gallery images
+        run: python3 scripts/verify_existing_site.py --live https://crking92.github.io/Hays-Botany-Spurges-Mallows/site/

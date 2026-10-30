@@ -1,28 +1,24 @@
-# Hays Botany — Spurges Mallows
+# Hays Botany — Spurges & Mallows
 
-**Original source-file migration PASS in private staging — NOT a live learner or authoritative source.**
+**Historical source transfer COMPLETE; existing public family learner active. New botanical/photo enrichment is deferred.**
 
-This future collection belongs to the [Hays County Botany Visual Learner](https://github.com/Crking92/Hays-County-Botany). It will hold the assigned families' species records, teaching data, verified diagnostic photographs, and an independent family-group learner when its migration and release checks pass.
+[Open the family Visual Learner](https://crking92.github.io/Hays-Botany-Spurges-Mallows/site/) · [Original read-only Hays Botany hub](https://crking92.github.io/Hays-County-Botany/) · [Current botanical write routing](https://github.com/Crking92/Hays-County-Botany/blob/main/workflow/ACTIVE_NEW_PLANT_WRITE_ROUTING_20261028.json)
 
-- Proposed repository: `Crking92/Hays-Botany-Spurges-Mallows`
-- Assigned families (13): Balsaminaceae, Bixaceae, Euphorbiaceae, Hypericaceae, Linaceae, Lythraceae, Malvaceae, Myrtaceae, Onagraceae, Passifloraceae, Phyllanthaceae, Salicaceae, Violaceae
-- Installed species in the original hub at planning baseline: **130**
-- Planning target: around 150 species per repository; soft limit, with actual image bytes and site size checked separately
-- Canonical species owner during staging: **Crking92/Hays-County-Botany**
-- State: **SOURCE_FILES_COPIED_PRIVATE; NO PUBLICATION OR DATA OWNERSHIP**
-- Architecture: independent collection websites connected through the hub (Option B)
+This collection contains **130 existing species lessons across 13 assigned families**. Its complete original scientific/photo source is preserved on branch [`staging/original-source-transfer`](https://github.com/Crking92/Hays-Botany-Spurges-Mallows/tree/staging/original-source-transfer), whereas its photo-backed public learner lives under `main/site`. New botanical edits go to the approved family branch, not to the legacy hub.
 
-## Existing source-file transfer — completed October 28, 2026
+## Migration-only source/file results — October 30, 2026
 
-All 130 original species and **764 existing source files** have been checked against their source Git blob IDs in the private [staging/original-source-transfer](https://github.com/Crking92/Hays-Botany-Spurges-Mallows/tree/staging/original-source-transfer) branch: **417 scientific/credit text files** stay at their content paths, while **347 original media files** are retained in a separate private, non-displayed quarantine.
+- **764/764 original files** match their destination's Git blob SHA in the transferred source manifest; **0 missing and 0 changed bytes**.
+- Original content: **417 text/source-credit files and 347 original photograph binaries**.
+- Existing public learner: **130 species lesson files and 99 hosted public-gallery photographs across 48 species**.
+- **261/360 original image metadata references remain excluded from the public gallery** pending individual source, license or permissions review. Those held references do **not** indicate incomplete source-file transfer.
+- All `staging/*` and historical photo-hold branches are accessible while the repository is PUBLIC, even if the Pages photo gallery filters held pictures. Do not add any new license-uncertain files, and do not delete or rewrite original source/history as an unapproved workaround.
+- Obsolete text-only publish workflows intentionally refuse to overwrite the existing photo-backed family site; do not bypass them.
 
-[Read the transfer verification report](https://github.com/Crking92/Hays-Botany-Spurges-Mallows/blob/staging/original-source-transfer/migration/original-source-transfer-summary.json).
+[Source manifest](https://github.com/Crking92/Hays-Botany-Spurges-Mallows/blob/staging/original-source-transfer/migration/original-source-transfer-manifest.json) · [Existing photo release report](site/photo-source-migration-report.json) · [Migration audit checkpoint](migration/SPURGES_MALLOWS_TRANSFER_QA_20261030.md)
 
-This work preserves existing data and photos; it does **not** source new photos, clear media for publication, publish Pages, merge the staging branch into main, change the central learner, or change botanical authority.
+## Verification and next phases
 
-## Safety and next steps
-Do not import restricted/unknown-rights photo files, enable Pages, repoint existing learner links, rewrite botanical records, or restart automations. Initial commits establish only collection metadata, an empty index, and read-only validation. A separate verified source and rights handoff is required before a collection becomes authoritative.
+`python3 scripts/verify_existing_site.py` checks all species JSON, exact public media bytes vs recorded Git source SHA, source/license credits and gallery indexes. [Automated public Pages QA](.github/workflows/verify-existing-site-gallery.yml) adds per-file live HTTP checks; count live readiness as passed only if that GitHub Action succeeds. Blank inherited anatomy lesson fields are recorded as deferred content enrichment, not fabricated during migration.
 
-See [family routing draft](https://github.com/Crking92/Hays-County-Botany/blob/main/planning/MULTI_REPO_FAMILY_ROUTING_DRAFT_20261028.json) and [migration stages](https://github.com/Crking92/Hays-County-Botany/blob/main/planning/MULTI_REPO_IMPLEMENTATION_STAGES_DRAFT_20261028.md).
-
-_Starter repository — October 28, 2026._
+No new imagery, plant additions, photo permissions changes, hub edits, automation restarts, or navigation cutover are authorized by the source migration. Future plant writes follow the hub's active family write registry.
