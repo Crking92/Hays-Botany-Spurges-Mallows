@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
   "photo_species": 48,
-  "photo_count": 99,
+  "photo_count": 100,
   "entries": {
     "impatiens-capensis": {
       "count": 0,
@@ -18,7 +18,7 @@
       "first_src": "media/acalypha-persimilis/acalypha-persimilis-provisional-face.jpg"
     },
     "acalypha-phleoides": {
-      "count": 3,
+      "count": 4,
       "first_src": "media/acalypha-phleoides/acalypha-phleoides-provisional-face.jpg"
     },
     "acalypha-radians": {

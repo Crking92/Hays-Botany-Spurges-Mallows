@@ -74,6 +74,22 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/acalypha-phleoides/g3-gbif-6185276782-photo_3.jpg",
+      "creator": "Rajan Rao",
+      "source_page": "https://www.inaturalist.org/photos/630293483",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "383c206fe8fc1209feacd7c1c2c74bfb2362bb9b",
+      "role": "Toothed leaf blades with prominent veins and hairy stem; elongated inflorescence is present but softly focused.",
+      "modified": "Exact original downloaded bytes; no cropping, rotation, annotation or recompression. Intake copy has a collision-resistant filename; original filename and file preserved.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Exact downloaded SHA-256 verified. GBIF occurrence 6185276782 was re-read and its exact media URL, image-level license and credited creator matched. Source taxon and specimen label where present compared with existing lesson; visible features screened at contact-sheet and enlarged-image resolution. No independent voucher determination or native-range claim. Existing lesson views compared; this image adds the described complementary view.",
+      "photo_approved_by": "Codex automated source and visual review; user-authorized publication",
+      "sha256": "bcd87f5dde0f2564fcaa4f45bf2760b1caaf9068aa7545b5b27d827dc026b3da"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
