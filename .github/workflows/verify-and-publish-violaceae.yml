@@ -1,0 +1,52 @@
+name: Source-check and publish eligible original Violaceae photographs
+on:
+  push:
+    branches: [main]
+    paths:
+      - "photo-intake/remote-photo-manifests/violaceae-2026-11-02.json"
+      - "scripts/verify_violaceae_photo_origins.py"
+      - ".github/workflows/verify-and-publish-violaceae.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: spurges-mallows-photo-release
+  cancel-in-progress: false
+jobs:
+  photo-first:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Verify each source photo license and original file bytes
+        run: python3 scripts/verify_violaceae_photo_origins.py
+      - name: Install only individually verified photos in existing website
+        run: |
+          python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/violaceae-verified" --site-root site --check
+          python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/violaceae-verified" --site-root site
+          python3 scripts/verify_automatic_gallery.py --site-root site
+      - name: Commit gallery and credited image files
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media site/data/species site/data/gallery-index.json site/data/collection-index.json
+          if git diff --cached --quiet; then
+            echo "No photos qualified for installation; see source check logs."
+            exit 0
+          fi
+          git diff --cached --check
+          git commit -m "Install source-verified CC BY-NC Violaceae general photos"
+          git push origin HEAD:main
+      - name: Preserve source review results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: violaceae-photo-source-check
+          path: /tmp/violaceae-source-review.json
+          if-no-files-found: warn
+          retention-days: 30

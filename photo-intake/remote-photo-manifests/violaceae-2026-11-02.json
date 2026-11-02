@@ -1,0 +1,98 @@
+{
+  "batch": "Violaceae.zip 2026-11-02",
+  "backup": "/Hays-Botany-Photo-ZIPs/Violaceae-2026-11-02.zip",
+  "original_credit_source": "Individual image-specific metadata from original downloaded ZIP (download date 2026-10-30, all SHA256 matched).",
+  "target_license": "cc-by-nc",
+  "photographs": [
+    {
+      "species_id": "pombalia-verticillata",
+      "photo_id": 636870211,
+      "observation_id": 349146394,
+      "sha256": "895e22eb7489d10d1f7f4813858adb81086d5648888dae33a3a31a3e89fed8b2",
+      "extension": "jpg",
+      "creator": "Saunders Drukker",
+      "caption": "Stem and narrow leaves"
+    },
+    {
+      "species_id": "pombalia-verticillata",
+      "photo_id": 646062598,
+      "observation_id": 354119283,
+      "sha256": "0b1fdbc12b019f6fd26109185a6f38cec0f9280d3521279b7a6ca211eea16bb8",
+      "extension": "jpg",
+      "creator": "atxbackyardigan",
+      "caption": "Whole plant foliage"
+    },
+    {
+      "species_id": "pombalia-verticillata",
+      "photo_id": 645318016,
+      "observation_id": 353702863,
+      "sha256": "bae0fe1c185559ac6c40be86121387db0fadb67de436418f7b72ed13983926fc",
+      "extension": "jpg",
+      "creator": "Russell Sanders",
+      "caption": "Narrow leaves and branching stems"
+    },
+    {
+      "species_id": "pombalia-verticillata",
+      "photo_id": 649444798,
+      "observation_id": 356132205,
+      "sha256": "0c1557be6d5011aa7dea0bcf0533941d294ed1c4261cc4c3bd579adb0517e576",
+      "extension": "jpg",
+      "creator": "Julie Renfro",
+      "caption": "Foliage and growth habit"
+    },
+    {
+      "species_id": "pombalia-verticillata",
+      "photo_id": 653963060,
+      "observation_id": 358480966,
+      "sha256": "de9d6da70fee9fad826e2241c94c9119c964d089e5eb48021d48a6257e946269",
+      "extension": "jpg",
+      "creator": "Walter Flocke",
+      "caption": "Stem foliage and tiny flowers"
+    },
+    {
+      "species_id": "viola-missouriensis",
+      "photo_id": 645658335,
+      "observation_id": 353897721,
+      "sha256": "b04c9ffa9079b0872295836b1b3e49dab7022a57c914f2fa76392b2cd739d8bf",
+      "extension": "jpg",
+      "creator": "Bill Dodd",
+      "caption": "General clumps and basal leaves"
+    },
+    {
+      "species_id": "viola-missouriensis",
+      "photo_id": 477906762,
+      "observation_id": 266012807,
+      "sha256": "545fe1082bed83fbae0f0406c8e508c6d6efc547b6d75e3bf6a89bf0a191a8b4",
+      "extension": "jpeg",
+      "creator": "Anonymous",
+      "caption": "Pale violet flower close-up"
+    },
+    {
+      "species_id": "viola-missouriensis",
+      "photo_id": 281187446,
+      "observation_id": 162619893,
+      "sha256": "146b6209acc106dc7916b517fb426f60bace90fc97f6dbc677c016cf477f7481",
+      "extension": "jpeg",
+      "creator": "James Bailey",
+      "caption": "Flower face and green leaves"
+    },
+    {
+      "species_id": "viola-missouriensis",
+      "photo_id": 182875298,
+      "observation_id": 108598515,
+      "sha256": "56193beef870ebca71ddd43240813ade26ad6fd2862c5de6d8788e031cbf2e0d",
+      "extension": "jpg",
+      "creator": "Caleb Helsel",
+      "caption": "Violet flower"
+    },
+    {
+      "species_id": "viola-missouriensis",
+      "photo_id": 185099283,
+      "observation_id": 109786668,
+      "sha256": "71a5ae22edeabe0db622680cb52c3f9f6fb52e3c2619eaed0b7581a4c20c66ae",
+      "extension": "jpg",
+      "creator": "kat_nightingale",
+      "caption": "Flower and leaves in habitat"
+    }
+  ]
+}
