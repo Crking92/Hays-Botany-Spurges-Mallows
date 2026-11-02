@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
-  "photo_species": 48,
-  "photo_count": 100,
+  "photo_species": 49,
+  "photo_count": 101,
   "entries": {
     "impatiens-capensis": {
       "count": 0,
@@ -518,8 +518,8 @@
       "first_src": null
     },
     "viola-affinis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/viola-affinis/commons-viola-affinis.jpg"
     },
     "viola-missouriensis": {
       "count": 0,

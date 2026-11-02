@@ -10,8 +10,25 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/viola-affinis/commons-viola-affinis.jpg",
+      "creator": "Joshua Mayer (wackybadger)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Viola_affinis_(4585479901).jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source_blob_sha": "5c2d329965f62fc77f98c9601224696781aa440f",
+      "role": "Purple sand-violet flower; general flowering view (Wisconsin source, not Hays County voucher)",
+      "modified": "Original archived photograph used without edits in this release",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approval_note": "Wikimedia Commons exact photograph page identifies Viola affinis, Joshua Mayer (wackybadger) creator, independent Flickr license review CC BY-SA 2.0; actual archived flower viewed and credibly matches violets; Wisconsin source, not Hays County native occurrence evidence. User authorized safe general photos 2026-11-02.",
+      "photo_approved_by": "Owner standing photo-first policy; source and visual review documented in 2026-11-02 intake"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "5d6d3967e352e7d50e46ce975d3c3e5428785839576972d77ad859caaf90dbb5",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
