@@ -1152,8 +1152,8 @@
       "genus": "Pombalia",
       "scientific_name": "Pombalia verticillata",
       "common_name": "Whorled nodding violet",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "viola-affinis",
@@ -1170,8 +1170,8 @@
       "genus": "Viola",
       "scientific_name": "Viola missouriensis",
       "common_name": "Missouri violet",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     }
   ]
 }

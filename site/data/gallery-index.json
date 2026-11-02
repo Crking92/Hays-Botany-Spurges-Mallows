@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
-  "photo_species": 49,
-  "photo_count": 101,
+  "photo_species": 51,
+  "photo_count": 111,
   "entries": {
     "impatiens-capensis": {
       "count": 0,
@@ -514,16 +514,16 @@
       "first_src": null
     },
     "pombalia-verticillata": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/pombalia-verticillata/inat-636870211.jpg"
     },
     "viola-affinis": {
       "count": 1,
       "first_src": "media/viola-affinis/commons-viola-affinis.jpg"
     },
     "viola-missouriensis": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/viola-missouriensis/inat-182875298.jpg"
     }
   }
 }
