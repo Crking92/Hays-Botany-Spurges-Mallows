@@ -38,8 +38,10 @@ for row in idx["entries"]:
         assert hashlib.sha1(b"blob "+str(len(content)).encode()+b"\x00"+content).hexdigest()==p["source_blob_sha"],src
         approved.add(path.resolve())
         total+=1
-assert total==g["photo_count"]==report["photos_copied_and_eligible"]
-assert species==g["photo_species"]==report["species_with_photos"]
+assert total==g["photo_count"],"Gallery total out of sync with published cards"
+assert total>=report["photos_copied_and_eligible"],"Published total fell below original migration"
+assert species==g["photo_species"],"Photographed species out of sync"
+assert species>=report["species_with_photos"],"Photographed species fell below original migration"
 assert len(approved)==total
 actual={f.resolve() for f in (SITE/"media").rglob("*") if f.is_file()}
 assert approved==actual,"Public media folder has images not covered by explicit approved gallery"
