@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
-  "photo_species": 51,
-  "photo_count": 111,
+  "photo_species": 53,
+  "photo_count": 121,
   "entries": {
     "impatiens-capensis": {
       "count": 0,
@@ -502,16 +502,16 @@
       "first_src": null
     },
     "populus-deltoides": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/populus-deltoides/inat-630782031.jpg"
     },
     "populus-tristis": {
       "count": 0,
       "first_src": null
     },
     "salix-nigra": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/salix-nigra/inat-627616042.jpg"
     },
     "pombalia-verticillata": {
       "count": 5,
