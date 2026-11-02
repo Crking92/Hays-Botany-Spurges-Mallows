@@ -33,7 +33,10 @@ def validate(site):
             assert git_sha(f.read_bytes())==p["source_blob_sha"],src
             assert p.get("creator") and p.get("source_page","").startswith("https://")
             assert p.get("license_url","").startswith("https://")
-            assert not p.get("private_rights_review_only") and not p.get("noncommercial_only")
+            assert not p.get("private_rights_review_only")
+            nc=p.get("license") in {"CC BY-NC 4.0","CC BY-NC-SA 4.0"}
+            assert p.get("noncommercial_only") is nc
+            if nc:assert meta.get("photo_license_policy",{}).get("noncommercial_educational_use") is True
     files={p.relative_to(site).as_posix() for p in (site/"media").rglob("*") if p.is_file()}
     assert paths==files,{"orphan":sorted(files-paths)[:5],"missing":sorted(paths-files)[:5]}
     assert gal["photo_count"]==photo_total and gal["photo_species"]==photo_species

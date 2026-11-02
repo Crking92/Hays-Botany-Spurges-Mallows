@@ -15,5 +15,9 @@
     "Salicaceae",
     "Violaceae"
   ],
-  "site_release_stage": "PUBLIC_EXISTING_SOURCE_CC_PHOTOS"
+  "site_release_stage": "PUBLIC_EXISTING_SOURCE_CC_PHOTOS",
+  "photo_license_policy": {
+    "noncommercial_educational_use": true,
+    "notice": "This gallery is educational and noncommercial. Photos remain separately licensed by original creators. If usage becomes commercial, CC BY-NC and CC BY-NC-SA images must be removed or separately relicensed."
+  }
 }
