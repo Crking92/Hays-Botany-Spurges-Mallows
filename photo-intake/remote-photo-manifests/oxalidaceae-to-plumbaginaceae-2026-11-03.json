@@ -1,0 +1,24 @@
+{
+  "batch_id": "oxalidaceae-through-plumbaginaceae-2026-11-03",
+  "zip_sha256": "f9d90a108f7e15ff8ae0a110ae6841dff6c2f39457271dbff3fa9cc97383a59b",
+  "library_backup": "/Hays-Botany-Photo-ZIPs/Oxalidaceae-through-Plumbaginaceae-2026-11-03.zip",
+  "original_zip_image_sha256_verified": 214,
+  "source_image_count_for_this_repo": 34,
+  "species": [
+    "passiflora-affinis",
+    "passiflora-foetida",
+    "passiflora-incarnata",
+    "passiflora-lutea",
+    "passiflora-tenuiloba",
+    "phyllanthus-polygonoides",
+    "phyllanthus-urinaria"
+  ],
+  "records_base64": "ACWCKZUUlREbNnewSKOluxc9cowN2VJZNrZvVyES/k5mHFY6m3FyKdMAACWQ/tcUmlLeaxJKXgrnh8Pb+TepTRCfojMek6EfFwJJ9uo9jwn1ACsAACZ6GX0VFwMBXsvtdHNKjJYm55yUFXvumu9DLby1LfFGl/HXTOZVRXwAACXKpM4UubRsTYiGzXyFpPSnoGR3NMo4vTV7ObKqsKI1A5IV+B+/QlwAACYELjsU1tGPsRla/ZeZW5Jye/Mk9aDRD3Stqg67HK3V2BQ8xL+bXsQAASkAubYWbSHwjS+W/tgUhK2KtTRWiIV/+UNYOIvGo8hSlWVbzY24hZMAARhdvOcNuUgWSVSwj46gWTnFvSJVCZ7ndIl3q/vwpyM2sOxE6BXp+HkBARhdvJcNuUgMsRhLRW1pipTHB3mz2DaTVk6qYnaMJ+aP0rsF9NUo2f8BARGC7a8KGdPF/PB0FpfIU4r36oWEVbGqc4uZzaHACi2ghEn5lMP/Dq0BARGC7F0KGdPC9woq/EhcRaLvp+hDpSxJ102HyQbFjZ7QmVJNL+kj+pUBAiWj88MUprfM6CRKgCFK/oPzZA2Z5e2xt9vU230zejc9IvlKIfdXOxsAAiZVGg8VAIwrltMMtOGPMtAHX73p6EF9dWqYHPsVACgWfqYvWZ90ArkAAiZdem4VBbx63vXv6x91twklB7ncd4xMO+hEYJtHD/Ma4HN9vSFNR7wAAiZYL34VAiyDx60bQCLQV/c+Fvrgc4qGDwLblORsGVnZA3kT9yCkCoEAAiYcf/YU40BQIGSUC0scmvbh9vaQabuTzCQGh/FF83V6+tWQ7LJ2JKAAAyUSyzgUXQaES8yKG60KS2J3SvGLfFOr1c3tNyc4P2oyQxUxuab1+FEAAyUNHikUWkR1PzRPLHQeIoZ9pFctWVs90HnwaDa3iBaLyvxB/Nt1iCEAAyVqjMoUiO/yIoA+P59rTnRoVLewmeowfw+EzEJgXAct/hZWpIjgO3sAAyVyRkMUjPm698qN+XmSm6g31zrmeM9Fu5pEXI/Enkjf0BmITdMNYloAAyWFZOAUlquTYqjDJKE78v5jWBmO9TOli/5Tf3LjmAElNqIYhZQxI7MABCWY/wYUoK0y2AqI+Ii3RZ1FwpIlbLrRq5PL3655wOqXChwxcX2HFjYABCXHgZ4UuCM+EDFD45/zMiC4YVcR7KqBrzIGCHmmdqYDwD5CZSJ6CrIABCXc1ocUwuD0G++ZBuRXtHyEFjvMZjmBiUzwKgTLqlZUXvkKxcFhgEoABCc0gGoVfD/TQQtwJdHRJFvFmysjcGffhVCVdXIgmZrMltAwMnAoUFIABCcWNQUVbEXMjNqyoX4AHx2KzayvF3qO8tFAt9pfGQScv9t3x78j32UABSU8rs8Uceqm0ObGce2xjlDQbEtjo0vE2YfxXqQtOxqdlTR6EWqcV/gABSWKAFkUmQnFLevMwh8Cd5cQD0f2/zgeudjP4dnLsIMYITXprRNhixUABSWQ4tsUnI2UB7CIwij664AkcMaVhFl4MpeilV7s1n1AjWS6JNYeJKwABSYDKC0U1kY1gnimP7JG561u7Jc7ZY1xghQoNgW0uH0MxvKCSzS95wMABSYTx4kU3tXqBHLyAlaXkrnvGDoaP24Cu2OIZL093jSjLxgKQmLNxaYABglmkfwFqhE9PDOxsLOJ6jm8fZwKToYeAeOg6SHeZQBn8owVCSPUR3gABgWt6s4DjdMcasHLk+zSZciQbCcqx1I3rKhLYZMQhuO5/HdrxmrGY28ABgFzxwkA97Ncks0RwKLGFikT1pWSM4axwU5XNFwGujM+YxCdxH+EE+QBBisgvMoXhi1Z0n9OGvRo/NyZ1MKwxlMFl6V7u2oIZpaysimoNaQuNIEA",
+  "held_offline_media": [
+    {
+      "species": "phyllanthus-urinaria",
+      "filename": "photo_3_eaa1090564ec960e.jpg",
+      "hold_reason": "Exact herbarium media rights unverified"
+    }
+  ]
+}
