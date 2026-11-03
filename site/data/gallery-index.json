@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
   "photo_species": 104,
-  "photo_count": 286,
+  "photo_count": 291,
   "entries": {
     "impatiens-capensis": {
       "count": 0,
@@ -358,7 +358,7 @@
       "first_src": null
     },
     "feijoa-sellowiana": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/feijoa-sellowiana/archived-bfec32bc43c040ab.jpg"
     },
     "ludwigia-decurrens": {
