@@ -56,8 +56,20 @@ jobs:
                 echo "Unable to publish after four non-force retries" >&2
                 exit 1
               fi
+              # Re-apply verified originals on the NEW head: never rebase conflicting gallery indexes.
               git fetch origin main
-              git rebase origin/main
+              git reset --hard origin/main
+              python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/source-cleared" --site-root site --check
+              python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/source-cleared" --site-root site
+              python3 scripts/verify_automatic_gallery.py --site-root site
+              python3 scripts/build_collection_preview.py
+              git add site/media site/data/species site/data/collection-index.json site/data/gallery-index.json
+              if git diff --cached --quiet; then
+                echo "All source-cleared originals were already published by a concurrent job."
+                exit 0
+              fi
+              git diff --cached --check
+              git commit -m "Apply approved Onagraceae originals over refreshed gallery indexes"
             done
           fi
       - name: Preserve photo-specific source audit and holds
