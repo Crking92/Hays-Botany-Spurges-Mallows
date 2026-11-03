@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
   "photo_species": 125,
-  "photo_count": 596,
+  "photo_count": 600,
   "entries": {
     "impatiens-capensis": {
       "count": 0,
@@ -142,7 +142,7 @@
       "first_src": "media/euphorbia-serpens/euphorbia-serpens-provisional-face.jpg"
     },
     "euphorbia-simulans": {
-      "count": 4,
+      "count": 8,
       "first_src": "media/euphorbia-simulans/archived-82e1e7afabeb6f67.jpg"
     },
     "euphorbia-spathulata": {
