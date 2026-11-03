@@ -5,13 +5,13 @@ on:
     paths:
       - 'photo-intake/remote-photo-manifests/leucobryaceae-through-malpighiaceae-2026-11-03.json'
       - 'scripts/publish_verified_leucobryaceae_malpighiaceae_zip.py'
-      - '.github/workflows/publish-leucobryaceae-through-malpighiaceae-2026-11-03.yml'
+      - '.github/workflows/publish-leucobryaceae-malpighiaceae-2026-11-03.yml'
   workflow_dispatch:
 permissions:
   contents: write
   pages: write
 concurrency:
-  group: spurges-mallows-source-verified-leucobryaceae-malpighiaceae-release
+  group: hays-botany-spurges-mallows-source-verified-leucobryaceae-malpighiaceae-release
   cancel-in-progress: false
 jobs:
   release-cleared-originals:
