@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
   "photo_species": 125,
-  "photo_count": 590,
+  "photo_count": 596,
   "entries": {
     "impatiens-capensis": {
       "count": 0,
@@ -186,11 +186,11 @@
       "first_src": "media/triadica-sebifera/triadica-sebifera-leaf-fruit-provisional.jpg"
     },
     "hypericum-hypericoides": {
-      "count": 1,
+      "count": 4,
       "first_src": "media/hypericum-hypericoides/archived-ef35adc081d5f39a.jpg"
     },
     "hypericum-walteri": {
-      "count": 1,
+      "count": 4,
       "first_src": "media/hypericum-walteri/archived-250f5e1e69389a90.jpg"
     },
     "linum-berlandieri": {
