@@ -1,0 +1,56 @@
+{
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "batch_key": "MULTIFAMILY_HISTORICAL_PUBLIC_DOMAIN_2026-11-03",
+  "checked_at": "2026-11-03T19:41:08.170396+00:00",
+  "source_files": 347,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 2,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 2,
+  "selected_by_lane": {
+    "commons": 2
+  },
+  "skipped_or_previously_published": {
+    "not_an_individual_public_domain_claim": 4,
+    "outside_reviewed_commons_recovery_lane": 327,
+    "original_path_shape_unknown": 1,
+    "already_public_identical_bytes": 8,
+    "species_not_on_assigned_site": 4,
+    "unsupported_image_format": 1
+  },
+  "new_installed": 0,
+  "held_checked": 2,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "euphorbia-marginata",
+      "family": "Euphorbiaceae",
+      "filename": "euphorbia-marginata-provisional-face.jpg",
+      "original_path": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-marginata/images/euphorbia-marginata-provisional-face.jpg",
+      "archive_path": "migration/private-original-photo-holds/Euphorbiaceae/Euphorbia/euphorbia-marginata/images/euphorbia-marginata-provisional-face.jpg",
+      "git_blob_sha": "2f8d24173f8fbbe37f0f553101b92c9f8d0f4b8b",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Historic direct photo media URL does not match exact Commons file page"
+    },
+    {
+      "species_id": "oenothera-sinuosa",
+      "family": "Onagraceae",
+      "filename": "oenothera-sinuosa-provisional-face.jpg",
+      "original_path": "content/taxa/Onagraceae/Oenothera/oenothera-sinuosa/images/oenothera-sinuosa-provisional-face.jpg",
+      "archive_path": "migration/private-original-photo-holds/Onagraceae/Oenothera/oenothera-sinuosa/images/oenothera-sinuosa-provisional-face.jpg",
+      "git_blob_sha": "388a4d34615b56df3ba794f0e07c61cda2eb1fd0",
+      "lane": "commons",
+      "status": "HELD",
+      "reason": "Historic direct photo media URL does not match exact Commons file page"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Historic direct photo media URL does not match exact Commons file page": 2
+  },
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 2
+}
