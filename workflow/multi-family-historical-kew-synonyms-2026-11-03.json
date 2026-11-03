@@ -1,0 +1,44 @@
+{
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "batch_key": "MULTIFAMILY_HISTORICAL_KEW_SYNONYMS_2026-11-03",
+  "checked_at": "2026-11-03T19:59:19.573290+00:00",
+  "source_files": 347,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "gbif": 1
+  },
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 335,
+    "already_public_identical_bytes": 5,
+    "original_path_shape_unknown": 1,
+    "species_not_on_assigned_site": 4,
+    "unsupported_image_format": 1
+  },
+  "new_installed": 0,
+  "held_checked": 1,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "argythamnia-aphoroides",
+      "family": "Euphorbiaceae",
+      "filename": "gbif-manual-6490988647-1d5eb074d.jpg",
+      "original_path": "content/taxa/Euphorbiaceae/Argythamnia/argythamnia-aphoroides/images/gbif-manual-6490988647-1d5eb074d.jpg",
+      "archive_path": "migration/private-original-photo-holds/Euphorbiaceae/Argythamnia/argythamnia-aphoroides/images/gbif-manual-6490988647-1d5eb074d.jpg",
+      "git_blob_sha": "654dfc8c7718b9482158d668cf5e77477676de5c",
+      "lane": "gbif",
+      "status": "HELD",
+      "reason": "Source-image URL host is not trusted"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Source-image URL host is not trusted": 1
+  },
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 1
+}
