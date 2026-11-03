@@ -112,6 +112,25 @@
       "source_review_evidence": "iNaturalist observation 240443206 photo 428373451 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 55a9788e0160467f6bc364d6fbe5ce4bfd1e9667; exact image source https://www.inaturalist.org/photos/428373451",
       "taxon_review_evidence": "Original species record Euphorbia marginata linked to an original image and matching current inat photo of source taxon Euphorbia marginata. Basic source-backed field recognition only; no diagnostic arrow certification.",
       "sha256": "bf2cabdab7e593f11e46b72ed880eb6682a9c9e4ea79b3bc673c71e42b435983"
+    },
+    {
+      "src": "media/euphorbia-marginata/archived-6ba7d1f7869c0417.jpg",
+      "creator": "Jim Pisarowicz",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_marginata_NPS-1.jpg",
+      "source_page_is_exact": true,
+      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+      "license_url": "https://www.copyright.gov/title17/92chap1.html#105",
+      "source_blob_sha": "2f8d24173f8fbbe37f0f553101b92c9f8d0f4b8b",
+      "role": "Whole plant / white-margined bracts recognizable face",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Euphorbia_marginata_NPS-1.jpg; original individual photographer Jim Pisarowicz; archived specific reuse license PUBLIC DOMAIN (U.S. FEDERAL WORK); preserved photo byte SHA checked against original transfer manifest 2f8d24173f8fbbe37f0f553101b92c9f8d0f4b8b; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 2f8d24173f8fbbe37f0f553101b92c9f8d0f4b8b; exact image source https://commons.wikimedia.org/wiki/File:Euphorbia_marginata_NPS-1.jpg",
+      "taxon_review_evidence": "Original species record Euphorbia marginata linked to an original image and matching current commons photo of source taxon Euphorbia marginata. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "6ba7d1f7869c04173ee4bee9cfb31af9e4a4cfe8cc84487ba43555a90c467cd6"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -1,0 +1,78 @@
+{
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "batch_key": "MULTIFAMILY_HISTORICAL_REDIRECT_FIX_2026-11-03",
+  "checked_at": "2026-11-03T20:34:17.492919+00:00",
+  "source_files": 347,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 3,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 3,
+  "selected_by_lane": {
+    "commons": 3
+  },
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 338,
+    "original_path_shape_unknown": 1,
+    "species_not_on_assigned_site": 4,
+    "unsupported_image_format": 1
+  },
+  "new_installed": 3,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "euphorbia-heterophylla",
+      "family": "Euphorbiaceae",
+      "filename": "02-cyathia-closeup.jpg",
+      "original_path": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-heterophylla/images/02-cyathia-closeup.jpg",
+      "archive_path": "migration/private-original-photo-holds/Euphorbiaceae/Euphorbia/euphorbia-heterophylla/images/02-cyathia-closeup.jpg",
+      "git_blob_sha": "2964d958105e36cf826bbaf0ec6a1d7c894f794d",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Psumuseum",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_heterophylla_with_cyathia.JPG",
+      "taxon": "Euphorbia heterophylla",
+      "src": "media/euphorbia-heterophylla/archived-85e6961115f63ab3.jpg",
+      "sha256": "85e6961115f63ab365a005a0e4474600f896db8c66709afa507989311628843f"
+    },
+    {
+      "species_id": "euphorbia-marginata",
+      "family": "Euphorbiaceae",
+      "filename": "euphorbia-marginata-provisional-face.jpg",
+      "original_path": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-marginata/images/euphorbia-marginata-provisional-face.jpg",
+      "archive_path": "migration/private-original-photo-holds/Euphorbiaceae/Euphorbia/euphorbia-marginata/images/euphorbia-marginata-provisional-face.jpg",
+      "git_blob_sha": "2f8d24173f8fbbe37f0f553101b92c9f8d0f4b8b",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Jim Pisarowicz",
+      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Euphorbia_marginata_NPS-1.jpg",
+      "taxon": "Euphorbia marginata",
+      "src": "media/euphorbia-marginata/archived-6ba7d1f7869c0417.jpg",
+      "sha256": "6ba7d1f7869c04173ee4bee9cfb31af9e4a4cfe8cc84487ba43555a90c467cd6"
+    },
+    {
+      "species_id": "oenothera-sinuosa",
+      "family": "Onagraceae",
+      "filename": "oenothera-sinuosa-provisional-face.jpg",
+      "original_path": "content/taxa/Onagraceae/Oenothera/oenothera-sinuosa/images/oenothera-sinuosa-provisional-face.jpg",
+      "archive_path": "migration/private-original-photo-holds/Onagraceae/Oenothera/oenothera-sinuosa/images/oenothera-sinuosa-provisional-face.jpg",
+      "git_blob_sha": "388a4d34615b56df3ba794f0e07c61cda2eb1fd0",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Anthony Valois and National Park Service",
+      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Oenothera_sinuosa_NPS-01.jpg",
+      "taxon": "Oenothera sinuosa",
+      "src": "media/oenothera-sinuosa/archived-f057411f9a284a3b.jpg",
+      "sha256": "f057411f9a284a3be529310d60d176fd73fdc147494c031f0e7503016eba229d"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 3,
+  "cumulative_held_reviewed": 0
+}
