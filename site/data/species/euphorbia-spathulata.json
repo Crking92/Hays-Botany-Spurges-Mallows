@@ -43,8 +43,47 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/euphorbia-spathulata/archived-5f49d222208217d8.jpg",
+      "creator": "Nathan Taylor",
+      "source_page": "https://www.inaturalist.org/photos/15653221",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "562b07af856fd6db98fe849e9479c282871ff444",
+      "role": "Texas source close-up showing rounded capsule verrucae, styles, cyathial glands and separate leaflike bracts",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 11085572 photo 15653221 individual CC code cc-by-nc; photographer (c) Nathan Taylor, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 562b07af856fd6db98fe849e9479c282871ff444; exact image source https://www.inaturalist.org/photos/15653221",
+      "taxon_review_evidence": "Original species record Euphorbia spathulata linked to an original image and matching current inat photo of source taxon Euphorbia spathulata. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "5f49d222208217d89b77dd124735d9f96466ce044c9f03cf7ae0f57e71d3dca8"
+    },
+    {
+      "src": "media/euphorbia-spathulata/archived-aec458262c2410e1.jpg",
+      "creator": "Jared Gorrell",
+      "source_page": "https://www.inaturalist.org/photos/126053272",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "e8554cbc78f7b955b109d0369d469eabd2c7b79b",
+      "role": "Flowering-tip green bract recognition; one safe arrow manually visually checked",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 77087353 photo 126053272 individual CC code cc-by-nc; photographer (c) Jared Gorrell, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA e8554cbc78f7b955b109d0369d469eabd2c7b79b; exact image source https://www.inaturalist.org/photos/126053272",
+      "taxon_review_evidence": "Original species record Euphorbia spathulata linked to an original image and matching current inat photo of source taxon Euphorbia spathulata. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "aec458262c2410e14b5e0ff7e6cdeafc593d8aa74a402278833fe5e75a6da7e0"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "294f440babdf23ee1f17e39cc69cd1fb78ece09c930c3f9f5fd18cd5f9234bc4",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

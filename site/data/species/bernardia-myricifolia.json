@@ -47,8 +47,47 @@
     "names": [],
     "differences": "B. incana has persistent darkened resinous stipule bases and fewer stamens; B. obovata is greener and more sparsely stellate beneath with a 2-carpellate pistil. Do not identify Bernardia from stellate hairs alone because Croton can look similar."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/bernardia-myricifolia/archived-1dd2164f8c1f545a.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/101950071",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "cb741472045f1dd32694a3c38284a7bc66792e73",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 63517964 photo 101950071 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 1; archived source SHA cb741472045f1dd32694a3c38284a7bc66792e73; exact image source https://www.inaturalist.org/photos/101950071",
+      "taxon_review_evidence": "Original species record Bernardia myricifolia linked to an original image and matching current inat photo of source taxon Bernardia myricifolia. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "1dd2164f8c1f545a41a5f2cbcb627ed9454f2227cbeb5a5fe9b5e9249abcd636"
+    },
+    {
+      "src": "media/bernardia-myricifolia/archived-e3e954c5e46db3bb.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/101950044",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "65aec434920724c1d01802c92fa207d68ca46d49",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 63517964 photo 101950044 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 65aec434920724c1d01802c92fa207d68ca46d49; exact image source https://www.inaturalist.org/photos/101950044",
+      "taxon_review_evidence": "Original species record Bernardia myricifolia linked to an original image and matching current inat photo of source taxon Bernardia myricifolia. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "e3e954c5e46db3bb559a600e4c913900688eb2c1c799c75e45ccc74caa3d6671"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "f59256f064daf65724f48d1c14639a24474083a91d27b0b8495fe804347f53a7",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

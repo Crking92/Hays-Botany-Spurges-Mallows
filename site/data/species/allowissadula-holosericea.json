@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/allowissadula-holosericea/archived-2d6d855a79d00318.jpg",
+      "creator": "Jessica Huang AWB®",
+      "source_page": "https://www.inaturalist.org/photos/341794667",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "b3df86353d0d2af376612b60abae7678a55f8638",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 194445484 photo 341794667 individual CC code cc-by-nc; photographer (c) Jessica Huang AWB®, some rights reserved (CC BY-NC); image dHash difference 1; archived source SHA b3df86353d0d2af376612b60abae7678a55f8638; exact image source https://www.inaturalist.org/photos/341794667",
+      "taxon_review_evidence": "Original species record Allowissadula holosericea linked to an original image and matching current inat photo of source taxon Allowissadula holosericea. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "2d6d855a79d00318a7cde9fdec873c108d26f44acc1e4ff332be7780e0c56c0f"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "fc4904c0b393fbdf53f308e5719cf12099a6544797bc42dc1d240e72368dffd0",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

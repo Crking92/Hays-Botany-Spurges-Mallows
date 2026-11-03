@@ -39,8 +39,47 @@
     "names": [],
     "differences": "Croton monanthogynus has dark-centered stellate hairs that create a brown-dotted lower leaf surface, two styles/four terminal branches, and an effectively one-seeded fruit. Croton lindheimeri is generally more robust with much larger yellowish-woolly pistillate sepals."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/croton-lindheimerianus/archived-af574c82e0c17bc8.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/398847569",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "080030dd8451ed379211cba83d7febca26a3c60e",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 224994651 photo 398847569 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 080030dd8451ed379211cba83d7febca26a3c60e; exact image source https://www.inaturalist.org/photos/398847569",
+      "taxon_review_evidence": "Original species record Croton lindheimerianus linked to an original image and matching current inat photo of source taxon Croton lindheimerianus. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "af574c82e0c17bc88d6611fbbeeac0fe84c0a6c40e06c8691a5d37568bf17b13"
+    },
+    {
+      "src": "media/croton-lindheimerianus/archived-d1a10d47c4b4b62e.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/398847609",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "de9eb41c126c8e8fefb94c6649a61ea5686a6acd",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 224994651 photo 398847609 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA de9eb41c126c8e8fefb94c6649a61ea5686a6acd; exact image source https://www.inaturalist.org/photos/398847609",
+      "taxon_review_evidence": "Original species record Croton lindheimerianus linked to an original image and matching current inat photo of source taxon Croton lindheimerianus. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "d1a10d47c4b4b62e1121db1e783fde79ae5654dfe5a840a8f5536b8af3974d40"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "ee31526c1cf96e9d2c9d273f50eadf12c4fb5914d5c05ef868dcd97bcecc3862",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
