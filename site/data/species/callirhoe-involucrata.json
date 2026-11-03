@@ -158,6 +158,25 @@
       "source_review_evidence": "Live iNaturalist observation 358103980, photo 653220551, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a9a25d1f3179ccd4171fda4433f8e71645fd646dc169665562ab0401b0a913c0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Callirhoe involucrata maps to indexed species callirhoe-involucrata; specialist morphology and BONAP range deferred.",
       "sha256": "a9a25d1f3179ccd4171fda4433f8e71645fd646dc169665562ab0401b0a913c0"
+    },
+    {
+      "src": "media/callirhoe-involucrata/inat-633492030.jpg",
+      "creator": "(c) Adrian Johnson, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/633492030",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "5acfd4e28e138b1ff12723c8181eea8c508ba29c",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 347439219, photo 633492030, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 977d25f4654309194edac27ee4929e0d583adc84dfc0201bd56bd6345c148fcf. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Callirhoe involucrata lineariloba maps to indexed species callirhoe-involucrata; specialist morphology and BONAP range deferred.",
+      "sha256": "977d25f4654309194edac27ee4929e0d583adc84dfc0201bd56bd6345c148fcf"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
