@@ -1,0 +1,47 @@
+{
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "batch_key": "MULTIFAMILY_COMMONS_CC0_DEED_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-03T16:37:17.262641+00:00",
+  "source_files": 347,
+  "historical_cc0_deed_holds": 1,
+  "selection_window": 15,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "commons": 1
+  },
+  "skipped_or_previously_published": {
+    "not_a_prior_cc0_deed_hold": 340,
+    "original_path_shape_unknown": 1,
+    "species_not_on_assigned_site": 4,
+    "unsupported_image_format": 1
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "phyllanthus-urinaria",
+      "family": "Phyllanthaceae",
+      "filename": "commons-phyllanthus-urinaria.jpg",
+      "original_path": "content/taxa/Phyllanthaceae/Phyllanthus/phyllanthus-urinaria/images/commons-phyllanthus-urinaria.jpg",
+      "archive_path": "migration/private-original-photo-holds/Phyllanthaceae/Phyllanthus/phyllanthus-urinaria/images/commons-phyllanthus-urinaria.jpg",
+      "git_blob_sha": "c7a24dfd6a1dc2b94b70e5f5256ccb3c396a41e4",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Maina Tudu",
+      "license": "CC0 1.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Phyllanthus_urinaria_plant.jpg",
+      "taxon": "Phyllanthus urinaria",
+      "src": "media/phyllanthus-urinaria/archived-500392c1538da474.jpg",
+      "sha256": "500392c1538da474c94d8b7848d39831276475ecc2dab678ca18311f11179594"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}

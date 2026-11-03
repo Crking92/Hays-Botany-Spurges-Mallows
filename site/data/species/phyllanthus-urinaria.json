@@ -91,6 +91,25 @@
       "source_review_evidence": "Live iNaturalist observation 59626268, photo 95283918, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6ac1cb93ecd265c8906c272ac75237aca84b61931086e3b9fc776bc66ac6636f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Phyllanthus urinaria maps to indexed species phyllanthus-urinaria; specialist morphology and BONAP range deferred.",
       "sha256": "6ac1cb93ecd265c8906c272ac75237aca84b61931086e3b9fc776bc66ac6636f"
+    },
+    {
+      "src": "media/phyllanthus-urinaria/archived-500392c1538da474.jpg",
+      "creator": "Maina Tudu",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Phyllanthus_urinaria_plant.jpg",
+      "source_page_is_exact": true,
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "c7a24dfd6a1dc2b94b70e5f5256ccb3c396a41e4",
+      "role": "Provisional whole growth recognition of chamberbitter; underside hanging fruit detail needs close-up.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Wikimedia Commons exact file File:Phyllanthus urinaria plant.jpg imageinfo license https://creativecommons.org/publicdomain/zero/1.0/; image-specific Artist Maina Tudu; image dHash distance 1; archived source SHA c7a24dfd6a1dc2b94b70e5f5256ccb3c396a41e4; exact image source https://commons.wikimedia.org/wiki/File:Phyllanthus_urinaria_plant.jpg",
+      "taxon_review_evidence": "Original species record Phyllanthus urinaria linked to an original image and matching current commons photo of source taxon Phyllanthus urinaria. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "500392c1538da474c94d8b7848d39831276475ecc2dab678ca18311f11179594"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
