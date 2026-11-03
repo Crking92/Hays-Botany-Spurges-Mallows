@@ -1,4 +1,5 @@
 name: Verify all family photos are live and byte-identical on GitHub Pages
+# 2026-11-03 audit public gallery after Marantaceae–Oleaceae photo-source-verified release, image bytes, credits, and exact live images.
 # 2026-11-03 Oxalidaceae–Plumbaginaceae: audit current release, individual credits and exact live image bytes.
 on:
   push:
