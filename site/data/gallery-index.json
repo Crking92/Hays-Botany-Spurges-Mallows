@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
-  "photo_species": 53,
-  "photo_count": 121,
+  "photo_species": 55,
+  "photo_count": 155,
   "entries": {
     "impatiens-capensis": {
       "count": 0,
@@ -470,15 +470,15 @@
       "first_src": null
     },
     "passiflora-affinis": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/passiflora-affinis/passiflora-affinis-provisional-face.jpg"
     },
     "passiflora-foetida": {
-      "count": 4,
+      "count": 9,
       "first_src": "media/passiflora-foetida/passiflora-foetida-provisional-face.jpg"
     },
     "passiflora-incarnata": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/passiflora-incarnata/passiflora-incarnata-provisional-face.jpg"
     },
     "passiflora-lanuginosa": {
@@ -486,20 +486,20 @@
       "first_src": null
     },
     "passiflora-lutea": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/passiflora-lutea/passiflora-lutea-provisional-face.jpg"
     },
     "passiflora-tenuiloba": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/passiflora-tenuiloba/passiflora-tenuiloba-provisional-face.jpg"
     },
     "phyllanthus-polygonoides": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/phyllanthus-polygonoides/inat-624733903.jpg"
     },
     "phyllanthus-urinaria": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/phyllanthus-urinaria/inat-157716988.jpg"
     },
     "populus-deltoides": {
       "count": 5,

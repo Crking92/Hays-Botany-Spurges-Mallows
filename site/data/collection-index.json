@@ -1053,7 +1053,7 @@
       "genus": "Passiflora",
       "scientific_name": "Passiflora affinis",
       "common_name": "Bracted Passionflower / Yellow Passionflower",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1062,7 +1062,7 @@
       "genus": "Passiflora",
       "scientific_name": "Passiflora foetida",
       "common_name": "Fetid passionflower",
-      "photo_count": 4,
+      "photo_count": 9,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1071,7 +1071,7 @@
       "genus": "Passiflora",
       "scientific_name": "Passiflora incarnata",
       "common_name": "Purple passionflower",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1089,7 +1089,7 @@
       "genus": "Passiflora",
       "scientific_name": "Passiflora lutea",
       "common_name": "Yellow passionflower",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1098,7 +1098,7 @@
       "genus": "Passiflora",
       "scientific_name": "Passiflora tenuiloba",
       "common_name": "Birdwing passionflower",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1107,8 +1107,8 @@
       "genus": "Phyllanthus",
       "scientific_name": "Phyllanthus polygonoides",
       "common_name": "Knotweed leaf-flower",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "phyllanthus-urinaria",
@@ -1116,8 +1116,8 @@
       "genus": "Phyllanthus",
       "scientific_name": "Phyllanthus urinaria",
       "common_name": "Chamberbitter (introduced)",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "populus-deltoides",
