@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/ricinus-communis/archived-34a092e1f21bb21e.jpg",
+      "creator": "MJJR",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ricinus_communis_01.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5/",
+      "source_blob_sha": "8e839136efdbbb5cc72f2c316a4ee40260ca57ec",
+      "role": "Provisional castor bean foliage/fruit recognition",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Ricinus_communis_01.jpg; original individual photographer MJJR; archived specific reuse license CC BY 2.5; preserved photo byte SHA checked against original transfer manifest 8e839136efdbbb5cc72f2c316a4ee40260ca57ec; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 8e839136efdbbb5cc72f2c316a4ee40260ca57ec; exact image source https://commons.wikimedia.org/wiki/File:Ricinus_communis_01.jpg",
+      "taxon_review_evidence": "Original species record Ricinus communis linked to an original image and matching current commons photo of source taxon Ricinus communis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "34a092e1f21bb21ec10d7873cf5ff7a2d8efb92f91fd983e1cc149e93e4c2120"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "bb993e002bb49e9ab640f34ae90f4dc9b166c6980345cf9b6f5ec72e2cde2da4",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

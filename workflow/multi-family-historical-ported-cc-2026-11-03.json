@@ -1,0 +1,48 @@
+{
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "batch_key": "MULTIFAMILY_HISTORICAL_PORTED_CC_2026-11-03",
+  "checked_at": "2026-11-03T19:40:01.165826+00:00",
+  "source_files": 347,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "commons": 1
+  },
+  "skipped_or_previously_published": {
+    "not_an_explicit_older_cc_license": 5,
+    "outside_reviewed_commons_recovery_lane": 327,
+    "original_path_shape_unknown": 1,
+    "already_public_identical_bytes": 8,
+    "species_not_on_assigned_site": 4,
+    "unsupported_image_format": 1
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "ricinus-communis",
+      "family": "Euphorbiaceae",
+      "filename": "commons-ricinus-communis.jpg",
+      "original_path": "content/taxa/Euphorbiaceae/Ricinus/ricinus-communis/images/commons-ricinus-communis.jpg",
+      "archive_path": "migration/private-original-photo-holds/Euphorbiaceae/Ricinus/ricinus-communis/images/commons-ricinus-communis.jpg",
+      "git_blob_sha": "8e839136efdbbb5cc72f2c316a4ee40260ca57ec",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "MJJR",
+      "license": "CC BY 2.5",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ricinus_communis_01.jpg",
+      "taxon": "Ricinus communis",
+      "src": "media/ricinus-communis/archived-34a092e1f21bb21e.jpg",
+      "sha256": "34a092e1f21bb21ec10d7873cf5ff7a2d8efb92f91fd983e1cc149e93e4c2120"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}

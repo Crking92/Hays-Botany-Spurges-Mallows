@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
-  "photo_species": 123,
-  "photo_count": 566,
+  "photo_species": 124,
+  "photo_count": 567,
   "entries": {
     "impatiens-capensis": {
       "count": 0,
@@ -158,8 +158,8 @@
       "first_src": "media/jatropha-dioica/archived-419c804a8cddc0e6.jpg"
     },
     "ricinus-communis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/ricinus-communis/archived-34a092e1f21bb21e.jpg"
     },
     "stillingia-texana": {
       "count": 0,
