@@ -1,0 +1,50 @@
+{
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "phase": "Pl@ntNet exact image-source CC BY-SA 2.0 FR recheck",
+  "source_evidence": "https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf",
+  "checked_at": "2026-11-03T16:17:01.371180+00:00",
+  "candidate_pool": 3,
+  "selected": 3,
+  "published": 3,
+  "already_published": 0,
+  "held": 0,
+  "remaining_candidates": 0,
+  "previous_batches": [],
+  "records": [
+    {
+      "species_id": "ammannia-coccinea",
+      "original_path": "content/taxa/Lythraceae/Ammannia/ammannia-coccinea/images/library-review012-f89f7a9f4512904.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Miguel A. C / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5110491267",
+      "src": "media/ammannia-coccinea/plantnet-archive-c2f8c5bad73fae67.jpg",
+      "sha256": "c2f8c5bad73fae67107b36eb84dab63e0a9a27eaa16265f49527de5250932f46",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/0853b7e7bc345bce38614efea56376c3562a93b5 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Miguel A. C. and media license field Miguel A. C. (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 3a479e85684fd707274a1d8af56fb994d80209b3; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "callirhoe-digitata",
+      "original_path": "content/taxa/Malvaceae/Callirhoe/callirhoe-digitata/images/library-review014-388ae434ffb3812.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Kyle Botefur / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5110184820",
+      "src": "media/callirhoe-digitata/plantnet-archive-f708b86e54002c33.jpg",
+      "sha256": "f708b86e54002c334c0849069c5bc38a79daa34c9c119928e6e52cf82d19985d",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/671c73209db8fba95e2ec7e2c84af450f8ccb776 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Kyle Botefur and media license field Kyle Botefur (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 28b1778d75eb5c7820efafa6e246795f782c5433; same-image fingerprint distance 0"
+    },
+    {
+      "species_id": "callirhoe-digitata",
+      "original_path": "content/taxa/Malvaceae/Callirhoe/callirhoe-digitata/images/library-review014-a2feca0b471585f.jpg",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "lisa Williams / Pl@ntNet",
+      "license": "CC BY-SA 2.0 FR",
+      "source_page": "https://www.gbif.org/occurrence/5109584774",
+      "src": "media/callirhoe-digitata/plantnet-archive-d0aee94acc55f820.jpg",
+      "sha256": "d0aee94acc55f82086accf018d1653feb8f47a4bb70b9edabc55443349c93ab1",
+      "evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/2c636627a29f1136a0b54a5276c27ded57e11160 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author lisa Williams and media license field lisa Williams (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 111c609cbcf0b41c7db9c3662647836fe5b3f197; same-image fingerprint distance 1"
+    }
+  ],
+  "cumulative_published": 3,
+  "held_by_reason": {}
+}

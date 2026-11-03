@@ -486,7 +486,7 @@
       "genus": "Ammannia",
       "scientific_name": "Ammannia coccinea",
       "common_name": "Scarlet toothcup",
-      "photo_count": 2,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -576,8 +576,8 @@
       "genus": "Callirhoe",
       "scientific_name": "Callirhoe digitata",
       "common_name": "Fringed poppy mallow",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "callirhoe-involucrata",

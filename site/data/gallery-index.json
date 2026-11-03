@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
-  "photo_species": 103,
-  "photo_count": 283,
+  "photo_species": 104,
+  "photo_count": 286,
   "entries": {
     "impatiens-capensis": {
       "count": 0,
@@ -218,7 +218,7 @@
       "first_src": "media/ammannia-auriculata/archived-8569ca79bda434ef.jpg"
     },
     "ammannia-coccinea": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/ammannia-coccinea/ammannia-coccinea-starr-flower-fruit.jpg"
     },
     "lythrum-alatum": {
@@ -258,8 +258,8 @@
       "first_src": "media/anoda-cristata/anoda-cristata-flower-commons.jpg"
     },
     "callirhoe-digitata": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/callirhoe-digitata/plantnet-archive-d0aee94acc55f820.jpg"
     },
     "callirhoe-involucrata": {
       "count": 3,

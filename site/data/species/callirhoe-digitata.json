@@ -47,8 +47,47 @@
     "names": [],
     "differences": "Callirhoe pedata: C. pedata is Texas-native, usually has persistent stipules and a racemose inflorescence; its leaves are 3–5-lobed rather than typically 5–10-lobed, though both can be strongly dissected. Callirhoe leiocarpa: C. leiocarpa is annual/biennial, with dehiscent mericarps and prominent beaks/collars; C. digitata is perennial with indehiscent fruit. Callirhoe involucrata: Winecup has 3 involucellar bractlets and a low trailing habit; C. digitata lacks the involucel and is tall/erect."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/callirhoe-digitata/plantnet-archive-d0aee94acc55f820.jpg",
+      "creator": "lisa Williams / Pl@ntNet",
+      "source_page": "https://www.gbif.org/occurrence/5109584774",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 2.0 FR",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/fr/",
+      "source_blob_sha": "111c609cbcf0b41c7db9c3662647836fe5b3f197",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner-standing release after exact photograph, provenance, licensing version, photographer, original archived hash, and current-image match verified; Pl@ntNet credit retained.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Source-specific Hays Botany GBIF/Pl@ntNet live-image and archived-image verification",
+      "source_review_evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/2c636627a29f1136a0b54a5276c27ded57e11160 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author lisa Williams and media license field lisa Williams (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 111c609cbcf0b41c7db9c3662647836fe5b3f197; same-image fingerprint distance 1",
+      "taxon_review_evidence": "Current Pl@ntNet contributor identification Callirhoe digitata matches the original image's botanical scientific name Callirhoe digitata; same pixel source verified, specialist diagnostic morphology deferred.",
+      "sha256": "d0aee94acc55f82086accf018d1653feb8f47a4bb70b9edabc55443349c93ab1"
+    },
+    {
+      "src": "media/callirhoe-digitata/plantnet-archive-f708b86e54002c33.jpg",
+      "creator": "Kyle Botefur / Pl@ntNet",
+      "source_page": "https://www.gbif.org/occurrence/5110184820",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 2.0 FR",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/fr/",
+      "source_blob_sha": "28b1778d75eb5c7820efafa6e246795f782c5433",
+      "role": "Complementary visible view manually screened on review sheet; exact diagnostic features and botanical identity need expert sign-off",
+      "modified": "Resaved JPEG with metadata removed (original source rights remain attached)",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner-standing release after exact photograph, provenance, licensing version, photographer, original archived hash, and current-image match verified; Pl@ntNet credit retained.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Source-specific Hays Botany GBIF/Pl@ntNet live-image and archived-image verification",
+      "source_review_evidence": "Current GBIF individual StillImage https://bs.plantnet.org/image/o/671c73209db8fba95e2ec7e2c84af450f8ccb776 of dataset 7a3679ef-5582-4aaa-81f0-8c2545cafc81 has author Kyle Botefur and media license field Kyle Botefur (cc-by-sa); official Pl@ntNet API image terms identify CC BY-SA 2.0 France https://my.plantnet.org/documents/copyright_licence_PlantNet_API_english_v5_EUR.pdf; original archive Git blob 28b1778d75eb5c7820efafa6e246795f782c5433; same-image fingerprint distance 0",
+      "taxon_review_evidence": "Current Pl@ntNet contributor identification Callirhoe digitata matches the original image's botanical scientific name Callirhoe digitata; same pixel source verified, specialist diagnostic morphology deferred.",
+      "sha256": "f708b86e54002c334c0849069c5bc38a79daa34c9c119928e6e52cf82d19985d"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "8dfc80b9683ee5f665157123af728e3081274d17978169a35c92e89f32f9f64b",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
