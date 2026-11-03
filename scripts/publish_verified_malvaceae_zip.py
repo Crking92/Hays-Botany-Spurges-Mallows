@@ -15,6 +15,8 @@ LICENSES={
 RECORD_SIZE=42
 # Only names already checked as direct synonyms, not broader unidentified look-alikes.
 SYNONYMS={
+ "callirhoe-involucrata":{"callirhoe involucrata lineariloba"}, # Kew POWO: https://powo.science.kew.org/taxon/42426-2 (accepted var. lineariloba, source omits var.)
+ "malvaviscus-arboreus-var-drummondii":{"malvaviscus arboreus drummondii"}, # Kew POWO: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:150445-2 (accepted var. drummondii, source omits var.)
  "botrychium-biternatum":{"sceptridium biternatum"}, # Ferns of Texas: https://ferns.brit.org/?q=node%2F79
  "azolla-caroliniana":{"azolla cristata"},
  "smilax-tamnoides":{"smilax hispida"},
