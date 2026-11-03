@@ -1,0 +1,33 @@
+{
+  "batch_id": "marantaceae-through-oleaceae-2026-11-03",
+  "archive_name": "Marantaceae through oleaceae.zip",
+  "zip_sha256": "2968930e5ca1845d4cbb707fd849d0ea2914e54404c599467d64992c3bb8210f",
+  "library_backup": "NOT_STORED__USER_KEEPS_ORIGINAL_IN_LAPTOP_ARCHIVED_FOLDER",
+  "user_archive_note": "The original ZIP is retained on user laptop; ChatGPT Library storage intentionally avoided. Never claim original is saved to a remote archive.",
+  "family_assignments": [
+    "Myrtaceae"
+  ],
+  "source_image_count_for_repo": 5,
+  "inat_image_count": 5,
+  "held_offline_count": 0,
+  "archive_original_checksum_verified_count": 5,
+  "species": [
+    "feijoa-sellowiana"
+  ],
+  "records_base64": "ACaUHSMVJjdyqSD7S63L44mGZaOPeVrc/dbZSN6GSAjHnGSKZnZHr5wAACZ5W/oVFFaC3wOGbhIdTExHmwkxchB3CMdrsozbLuJckaOLGDD8VV4AACfNLqIVzJ2NT73Q+4CXNJ06mAnpadO2eZfsTa7JxXyz+Htz9PGvdd4AACbVWpIVStMYYhbwbafTcBGexrBHduavfNN8sFfBk4nsJ4YcweNqXJEAACYjcHMU5s/DwnnqEqOrItwtiLfMkGDAUsYcYXktzp6kxytIW69sMFcA",
+  "source_metadata_credits": {
+    "639856755": "ethana05",
+    "645487610": "Suanne Pyle",
+    "647240995": "olivas005",
+    "651516562": "hassanmahdi2005",
+    "667758242": "lawnboyroy"
+  },
+  "source_metadata_licenses": {
+    "639856755": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "645487610": "http://creativecommons.org/licenses/by/4.0/",
+    "647240995": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "651516562": "http://creativecommons.org/licenses/by-nc/4.0/",
+    "667758242": "http://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "held_offline_media": []
+}
