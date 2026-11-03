@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
-  "photo_species": 93,
-  "photo_count": 253,
+  "photo_species": 103,
+  "photo_count": 283,
   "entries": {
     "impatiens-capensis": {
       "count": 0,
@@ -154,7 +154,7 @@
       "first_src": null
     },
     "jatropha-dioica": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/jatropha-dioica/archived-419c804a8cddc0e6.jpg"
     },
     "ricinus-communis": {
@@ -166,15 +166,15 @@
       "first_src": null
     },
     "tragia-betonicifolia": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/tragia-betonicifolia/archived-dcca4997f34d4ad4.jpg"
     },
     "tragia-brevispica": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/tragia-brevispica/archived-a4439d276e7366ac.jpg"
     },
     "tragia-nigricans": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/tragia-nigricans/archived-138444cfe89dd644.jpg"
     },
     "tragia-ramosa": {
@@ -230,7 +230,7 @@
       "first_src": null
     },
     "rotala-ramosior": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/rotala-ramosior/archived-9acaf895aba64ec2.jpg"
     },
     "abelmoschus-esculentus": {
@@ -282,7 +282,7 @@
       "first_src": "media/hibiscus-martianus/archived-268a23557beaa388.jpg"
     },
     "malva-parviflora": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/malva-parviflora/archived-3977074e139be440.jpg"
     },
     "malvastrum-aurantiacum": {
@@ -294,7 +294,7 @@
       "first_src": "media/malvastrum-coromandelianum/archived-b98425f0fbbe95a3.jpg"
     },
     "malvaviscus-arboreus-var-drummondii": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/malvaviscus-arboreus-var-drummondii/malvaviscus-arboreus-var-drummondii-provisional-face.jpg"
     },
     "melochia-pyramidata": {
@@ -374,19 +374,19 @@
       "first_src": "media/ludwigia-octovalvis/public-alex-abair-ludwigia-fruit.jpg"
     },
     "ludwigia-palustris": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/ludwigia-palustris/archived-56020d8eeb9bc082.jpg"
     },
     "ludwigia-peploides": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/ludwigia-peploides/archived-1ec394b324b08086.jpg"
     },
     "ludwigia-repens": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/ludwigia-repens/archived-545cca7d167b52b1.jpg"
     },
     "oenothera-biennis": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/oenothera-biennis/oenothera-biennis-provisional-face.jpg"
     },
     "oenothera-calcicola": {
@@ -406,7 +406,7 @@
       "first_src": "media/oenothera-curtiflora/archived-933a8c6b2719eebb.jpg"
     },
     "oenothera-filiformis": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/oenothera-filiformis/oenothera-filiformis-provisional-face.jpg"
     },
     "oenothera-glaucifolia": {
@@ -414,19 +414,19 @@
       "first_src": "media/oenothera-glaucifolia/archived-ad5f03dcc8571da6.jpg"
     },
     "oenothera-hispida": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/oenothera-hispida/archived-827399bb9d795d4a.jpg"
     },
     "oenothera-jamesii": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/oenothera-jamesii/oenothera-jamesii-provisional-face.jpg"
     },
     "oenothera-laciniata": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/oenothera-laciniata/oenothera-laciniata-provisional-face.jpg"
     },
     "oenothera-lindheimeri": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/oenothera-lindheimeri/01-flowering-habit.jpg"
     },
     "oenothera-macrocarpa": {
@@ -434,15 +434,15 @@
       "first_src": null
     },
     "oenothera-macrocarpa-subsp-macrocarpa": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/oenothera-macrocarpa-subsp-macrocarpa/oenothera-macrocarpa-subsp-macrocarpa-provisional-face.jpg"
     },
     "oenothera-patriciae": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/oenothera-patriciae/archived-f780e5ef8cb57867.jpg"
     },
     "oenothera-rosea": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/oenothera-rosea/oenothera-rosea-provisional-face.jpg"
     },
     "oenothera-serrulata": {
@@ -450,8 +450,8 @@
       "first_src": "media/oenothera-serrulata/archived-42a890c9e3ff1251.jpg"
     },
     "oenothera-sinuosa": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/oenothera-sinuosa/archived-90719bfa073494c4.jpg"
     },
     "oenothera-speciosa": {
       "count": 3,
@@ -462,15 +462,15 @@
       "first_src": "media/oenothera-suffrutescens/oenothera-suffrutescens-provisional-face.jpg"
     },
     "oenothera-suffulta": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/oenothera-suffulta/archived-168c97db884b84ef.jpg"
     },
     "oenothera-triloba": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/oenothera-triloba/archived-52e26e142197b958.jpg"
     },
     "passiflora-affinis": {
-      "count": 6,
+      "count": 7,
       "first_src": "media/passiflora-affinis/passiflora-affinis-provisional-face.jpg"
     },
     "passiflora-foetida": {
@@ -494,7 +494,7 @@
       "first_src": "media/passiflora-tenuiloba/passiflora-tenuiloba-provisional-face.jpg"
     },
     "phyllanthus-polygonoides": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/phyllanthus-polygonoides/inat-624733903.jpg"
     },
     "phyllanthus-urinaria": {

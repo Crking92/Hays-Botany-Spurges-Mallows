@@ -147,6 +147,25 @@
       "source_review_evidence": "Live iNaturalist observation 353829633, photo 645536125, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5ecbed74734a8c9626e79c94157bee9aef432dbcb52df14697f1d74ce655457c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora affinis maps to indexed species passiflora-affinis; specialist morphology and BONAP range deferred.",
       "sha256": "5ecbed74734a8c9626e79c94157bee9aef432dbcb52df14697f1d74ce655457c"
+    },
+    {
+      "src": "media/passiflora-affinis/archived-55ccccf4e59ab6b4.jpg",
+      "creator": "Cody Stricker",
+      "source_page": "https://www.inaturalist.org/photos/631025865",
+      "source_page_is_exact": true,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_blob_sha": "e0cf575032a78d17114ed3b338f1203b34f5b7af",
+      "role": "Additional distinct image candidate; target structures not yet visually verified",
+      "modified": "Resized JPEG and EXIF removed",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "GBIF occurrence 6184740083 exact image https://inaturalist-open-data.s3.amazonaws.com/photos/631025865/original.jpg; image-level license https://creativecommons.org/licenses/by/4.0/; creator Cody Stricker; dHash distance 0; archived source SHA e0cf575032a78d17114ed3b338f1203b34f5b7af; exact image source https://www.inaturalist.org/photos/631025865",
+      "taxon_review_evidence": "Original species record Passiflora affinis linked to an original image and matching current gbif photo of source taxon Passiflora affinis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "55ccccf4e59ab6b4163f9a75a524d798a88d4dda4a0981c9aa2f608d3f8d7a14"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
