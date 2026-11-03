@@ -432,7 +432,7 @@
       "genus": "Linum",
       "scientific_name": "Linum berlandieri",
       "common_name": "Berlandier's yellow flax",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -441,7 +441,7 @@
       "genus": "Linum",
       "scientific_name": "Linum hudsonioides",
       "common_name": "Sand flax",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -450,7 +450,7 @@
       "genus": "Linum",
       "scientific_name": "Linum imbricatum",
       "common_name": "Imbricate flax",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -459,8 +459,8 @@
       "genus": "Linum",
       "scientific_name": "Linum rigidum",
       "common_name": "Stiffstem flax",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "linum-rupestre",
@@ -468,8 +468,8 @@
       "genus": "Linum",
       "scientific_name": "Linum rupestre",
       "common_name": "Rock flax",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ammannia-auriculata",
@@ -486,7 +486,7 @@
       "genus": "Ammannia",
       "scientific_name": "Ammannia coccinea",
       "common_name": "Scarlet toothcup",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -495,8 +495,8 @@
       "genus": "Lythrum",
       "scientific_name": "Lythrum alatum",
       "common_name": "Winged loosestrife",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "lythrum-californicum",
@@ -504,8 +504,8 @@
       "genus": "Lythrum",
       "scientific_name": "Lythrum californicum",
       "common_name": "California loosestrife",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "rotala-ramosior",
@@ -513,7 +513,7 @@
       "genus": "Rotala",
       "scientific_name": "Rotala ramosior",
       "common_name": "Lowland toothcup",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

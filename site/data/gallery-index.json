@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
-  "photo_species": 117,
-  "photo_count": 520,
+  "photo_species": 121,
+  "photo_count": 559,
   "entries": {
     "impatiens-capensis": {
       "count": 0,
@@ -194,43 +194,43 @@
       "first_src": "media/hypericum-walteri/archived-250f5e1e69389a90.jpg"
     },
     "linum-berlandieri": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/linum-berlandieri/archived-67ae996e9e28e668.jpg"
     },
     "linum-hudsonioides": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/linum-hudsonioides/archived-030046ffb0fdedc8.jpg"
     },
     "linum-imbricatum": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/linum-imbricatum/archived-227a7447e61c27a1.jpg"
     },
     "linum-rigidum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/linum-rigidum/inat-365774426.jpg"
     },
     "linum-rupestre": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/linum-rupestre/inat-644294363.jpg"
     },
     "ammannia-auriculata": {
       "count": 3,
       "first_src": "media/ammannia-auriculata/archived-8569ca79bda434ef.jpg"
     },
     "ammannia-coccinea": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/ammannia-coccinea/ammannia-coccinea-starr-flower-fruit.jpg"
     },
     "lythrum-alatum": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/lythrum-alatum/inat-128737897.jpg"
     },
     "lythrum-californicum": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/lythrum-californicum/inat-648920743.jpg"
     },
     "rotala-ramosior": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/rotala-ramosior/archived-9acaf895aba64ec2.jpg"
     },
     "abelmoschus-esculentus": {
