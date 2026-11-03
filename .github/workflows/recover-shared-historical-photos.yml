@@ -1,4 +1,4 @@
-name: Shared multi-family historical photo recovery — BATCH 1
+name: Shared multi-family historical photo recovery — BATCH 2
 on:
   push:
     branches: [main]
