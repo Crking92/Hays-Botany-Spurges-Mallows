@@ -35,7 +35,6 @@ jobs:
           python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/source-cleared" --site-root site --check
           python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/source-cleared" --site-root site
           python3 scripts/verify_automatic_gallery.py --site-root site
-          python3 scripts/build_collection_preview.py
       - name: Commit verified website images and credits; safely reapply after concurrent edits
         run: |
           set -euo pipefail
@@ -61,8 +60,7 @@ jobs:
               python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/source-cleared" --site-root site --check
               python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/source-cleared" --site-root site
               python3 scripts/verify_automatic_gallery.py --site-root site
-              python3 scripts/build_collection_preview.py
-              git add site/media site/data/species site/data/collection-index.json site/data/gallery-index.json
+                  git add site/media site/data/species site/data/collection-index.json site/data/gallery-index.json
               if git diff --cached --quiet; then
                 echo "All eligible images already present after concurrent updates"
                 break
