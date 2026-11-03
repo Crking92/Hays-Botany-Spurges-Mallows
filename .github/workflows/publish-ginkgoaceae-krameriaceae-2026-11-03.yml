@@ -1,0 +1,81 @@
+name: Publish verified Ginkgoaceae–Krameriaceae original photos
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'photo-intake/remote-photo-manifests/ginkgoaceae-through-krameriaceae-2026-11-03.json'
+      - 'scripts/publish_verified_ginkgoaceae_krameriaceae_zip.py'
+      - '.github/workflows/publish-ginkgoaceae-krameriaceae-2026-11-03.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: ginkgoaceae-krameriaceae-source-photo-publication-${{ github.repository }}
+  cancel-in-progress: false
+jobs:
+  publish-source-cleared-originals:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Install image verifier
+        run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Audit original ZIP hashes, observation taxon, exact individual media license and photo credit
+        run: |
+          python3 scripts/publish_verified_ginkgoaceae_krameriaceae_zip.py \
+            --manifest photo-intake/remote-photo-manifests/ginkgoaceae-through-krameriaceae-2026-11-03.json \
+            --source-root "$RUNNER_TEMP/source-cleared" \
+            --report "$RUNNER_TEMP/ginkgoaceae-krameriaceae-rights-and-holds.json"
+      - name: Install eligible source originals and credited site galleries
+        run: |
+          python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/source-cleared" --site-root site --check
+          python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/source-cleared" --site-root site
+          python3 scripts/verify_automatic_gallery.py --site-root site
+          python3 scripts/build_collection_preview.py
+      - name: Commit verified website images and credits; safely reapply after concurrent edits
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media site/data/species site/data/collection-index.json site/data/gallery-index.json
+          if git diff --cached --quiet; then
+            echo "No new eligible photos; source audit preserves per-photo holds."
+          else
+            git diff --cached --check
+            git commit -m "Publish credited Ginkgoaceae–Krameriaceae original photos"
+            for attempt in 1 2 3 4; do
+              if git push origin HEAD:main; then
+                echo "PUBLICATION_COMMIT_PUSHED"
+                break
+              fi
+              if test "$attempt" -eq 4; then
+                echo "Failed to push after four safe attempts" >&2
+                exit 1
+              fi
+              git fetch origin main
+              git reset --hard origin/main
+              python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/source-cleared" --site-root site --check
+              python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/source-cleared" --site-root site
+              python3 scripts/verify_automatic_gallery.py --site-root site
+              python3 scripts/build_collection_preview.py
+              git add site/media site/data/species site/data/collection-index.json site/data/gallery-index.json
+              if git diff --cached --quiet; then
+                echo "All eligible images already present after concurrent updates"
+                break
+              fi
+              git diff --cached --check
+              git commit -m "Reapply source-cleared Ginkgoaceae–Krameriaceae photos to current gallery"
+            done
+          fi
+      - name: Retain audit of individual image licenses and institutional holds
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ginkgoaceae-krameriaceae-source-audit
+          path: "${{ runner.temp }}/ginkgoaceae-krameriaceae-rights-and-holds.json"
+          retention-days: 30
+          if-no-files-found: warn
