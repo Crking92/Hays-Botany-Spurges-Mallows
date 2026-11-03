@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/populus-tristis/archived-07be9007bb48ad39.jpg",
+      "creator": "Thayne Tuason",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Populus_trichocarpa_new_leaves_in_spring_2.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "4e7c94f3cfd5540e7f73708d9a4f65d50c7a1c77",
+      "role": "Provisional species recognition photograph; exact source taxon reviewed, diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Populus_trichocarpa_new_leaves_in_spring_2.jpg; original individual photographer Thayne Tuason; archived specific reuse license CC BY-SA 4.0; preserved photo byte SHA checked against original transfer manifest 4e7c94f3cfd5540e7f73708d9a4f65d50c7a1c77; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 4e7c94f3cfd5540e7f73708d9a4f65d50c7a1c77; exact image source https://commons.wikimedia.org/wiki/File:Populus_trichocarpa_new_leaves_in_spring_2.jpg",
+      "taxon_review_evidence": "Original species record Populus tristis linked to an original image and matching current commons photo of source taxon Populus tristis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "07be9007bb48ad39bc50459af388edc0d6d4b9ecf211e571d35f35bb5be1f35e"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "3680a1ec1db49245a8fbc40d138f135528b7929328d232092ebb61db0fc3459a",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

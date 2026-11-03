@@ -459,7 +459,7 @@
       "genus": "Linum",
       "scientific_name": "Linum rigidum",
       "common_name": "Stiffstem flax",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -729,7 +729,7 @@
       "genus": "Pavonia",
       "scientific_name": "Pavonia hastata",
       "common_name": "Spearleaf swampmallow (introduced comparison)",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -774,8 +774,8 @@
       "genus": "Sphaeralcea",
       "scientific_name": "Sphaeralcea grossulariifolia",
       "common_name": "Gooseberryleaf globemallow",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "sphaeralcea-lindheimeri",
@@ -792,7 +792,7 @@
       "genus": "Tilia",
       "scientific_name": "Tilia americana",
       "common_name": "American basswood",
-      "photo_count": 4,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1125,7 +1125,7 @@
       "genus": "Populus",
       "scientific_name": "Populus deltoides",
       "common_name": "Eastern cottonwood",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1134,8 +1134,8 @@
       "genus": "Populus",
       "scientific_name": "Populus tristis",
       "common_name": "Black cottonwood",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "salix-nigra",
@@ -1143,7 +1143,7 @@
       "genus": "Salix",
       "scientific_name": "Salix nigra",
       "common_name": "Black willow",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

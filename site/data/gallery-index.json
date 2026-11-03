@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
-  "photo_species": 121,
-  "photo_count": 559,
+  "photo_species": 123,
+  "photo_count": 566,
   "entries": {
     "impatiens-capensis": {
       "count": 0,
@@ -206,7 +206,7 @@
       "first_src": "media/linum-imbricatum/archived-227a7447e61c27a1.jpg"
     },
     "linum-rigidum": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/linum-rigidum/inat-365774426.jpg"
     },
     "linum-rupestre": {
@@ -326,7 +326,7 @@
       "first_src": "media/muenchhusia-moscheutos-subsp-lasiocarpos/archived-0a36c48a012bef59.jpg"
     },
     "pavonia-hastata": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/pavonia-hastata/inat-186741399.jpg"
     },
     "pavonia-lasiopetala": {
@@ -346,15 +346,15 @@
       "first_src": "media/sida-spinosa/sida-spinosa-provisional-face.jpg"
     },
     "sphaeralcea-grossulariifolia": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/sphaeralcea-grossulariifolia/archived-14d14d00e61d7f25.jpg"
     },
     "sphaeralcea-lindheimeri": {
       "count": 7,
       "first_src": "media/sphaeralcea-lindheimeri/archived-487f649d058054f2.jpg"
     },
     "tilia-americana": {
-      "count": 4,
+      "count": 5,
       "first_src": "media/tilia-americana/inat-198643041.jpg"
     },
     "feijoa-sellowiana": {
@@ -502,15 +502,15 @@
       "first_src": "media/phyllanthus-urinaria/inat-157716988.jpg"
     },
     "populus-deltoides": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/populus-deltoides/inat-630782031.jpg"
     },
     "populus-tristis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/populus-tristis/archived-07be9007bb48ad39.jpg"
     },
     "salix-nigra": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/salix-nigra/inat-627616042.jpg"
     },
     "pombalia-verticillata": {

@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 364437795, photo 665297166, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9a4f85aebd59ab7b339573c177c6aad85a2ee431a9152e9124295749f3eadf4e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Pavonia hastata maps to indexed species pavonia-hastata; specialist morphology and BONAP range deferred.",
       "sha256": "9a4f85aebd59ab7b339573c177c6aad85a2ee431a9152e9124295749f3eadf4e"
+    },
+    {
+      "src": "media/pavonia-hastata/archived-ecdcd79dfa3bd1e0.jpg",
+      "creator": "Harry Rose (Macleay Grass Man)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pavonia_hastata_flower_NC20.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_blob_sha": "14097b2735e032cbed66bb805dde9b6076b66b6b",
+      "role": "Provisional flower recognition view for Pavonia, not native area or cultivar certification.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Existing historical image-sources.csv entry for exact Commons photo Pavonia_hastata_flower_NC20.jpg; original individual photographer Harry Rose (Macleay Grass Man); archived specific reuse license CC BY 2.0; preserved photo byte SHA checked against original transfer manifest 14097b2735e032cbed66bb805dde9b6076b66b6b; reused under owner's previously recorded photo-rights approval policy; no new online Commons license assertion; archived source SHA 14097b2735e032cbed66bb805dde9b6076b66b6b; exact image source https://commons.wikimedia.org/wiki/File:Pavonia_hastata_flower_NC20.jpg",
+      "taxon_review_evidence": "Original species record Pavonia hastata linked to an original image and matching current commons photo of source taxon Pavonia hastata. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "ecdcd79dfa3bd1e0114a77087d88c6130f27c099aa776aa96a29465d67f54837"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
