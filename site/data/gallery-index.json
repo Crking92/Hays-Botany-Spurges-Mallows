@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
-  "photo_species": 109,
-  "photo_count": 297,
+  "photo_species": 110,
+  "photo_count": 396,
   "entries": {
     "impatiens-capensis": {
       "count": 0,
@@ -366,51 +366,51 @@
       "first_src": "media/ludwigia-decurrens/archived-046b9963156c2b6a.jpg"
     },
     "ludwigia-leptocarpa": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/ludwigia-leptocarpa/archived-5aacae9d18c8c7ab.jpg"
     },
     "ludwigia-octovalvis": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/ludwigia-octovalvis/public-alex-abair-ludwigia-fruit.jpg"
     },
     "ludwigia-palustris": {
-      "count": 2,
+      "count": 5,
       "first_src": "media/ludwigia-palustris/archived-56020d8eeb9bc082.jpg"
     },
     "ludwigia-peploides": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/ludwigia-peploides/archived-1ec394b324b08086.jpg"
     },
     "ludwigia-repens": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/ludwigia-repens/archived-545cca7d167b52b1.jpg"
     },
     "oenothera-biennis": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/oenothera-biennis/oenothera-biennis-provisional-face.jpg"
     },
     "oenothera-calcicola": {
-      "count": 3,
+      "count": 5,
       "first_src": "media/oenothera-calcicola/archived-854ecb711dab20a4.jpg"
     },
     "oenothera-capillifolia": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/oenothera-capillifolia/oenothera-capillifolia-provisional-face.jpg"
     },
     "oenothera-capillifolia-subsp-berlandieri": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/oenothera-capillifolia-subsp-berlandieri/archived-a265490acdb712a8.jpg"
     },
     "oenothera-curtiflora": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/oenothera-curtiflora/archived-933a8c6b2719eebb.jpg"
     },
     "oenothera-filiformis": {
-      "count": 2,
+      "count": 6,
       "first_src": "media/oenothera-filiformis/oenothera-filiformis-provisional-face.jpg"
     },
     "oenothera-glaucifolia": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/oenothera-glaucifolia/archived-ad5f03dcc8571da6.jpg"
     },
     "oenothera-hispida": {
@@ -418,23 +418,23 @@
       "first_src": "media/oenothera-hispida/archived-827399bb9d795d4a.jpg"
     },
     "oenothera-jamesii": {
-      "count": 2,
+      "count": 6,
       "first_src": "media/oenothera-jamesii/oenothera-jamesii-provisional-face.jpg"
     },
     "oenothera-laciniata": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/oenothera-laciniata/oenothera-laciniata-provisional-face.jpg"
     },
     "oenothera-lindheimeri": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/oenothera-lindheimeri/01-flowering-habit.jpg"
     },
     "oenothera-macrocarpa": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/oenothera-macrocarpa/inat-638838561.jpg"
     },
     "oenothera-macrocarpa-subsp-macrocarpa": {
-      "count": 3,
+      "count": 7,
       "first_src": "media/oenothera-macrocarpa-subsp-macrocarpa/oenothera-macrocarpa-subsp-macrocarpa-provisional-face.jpg"
     },
     "oenothera-patriciae": {
@@ -442,11 +442,11 @@
       "first_src": "media/oenothera-patriciae/archived-f780e5ef8cb57867.jpg"
     },
     "oenothera-rosea": {
-      "count": 2,
+      "count": 5,
       "first_src": "media/oenothera-rosea/oenothera-rosea-provisional-face.jpg"
     },
     "oenothera-serrulata": {
-      "count": 1,
+      "count": 5,
       "first_src": "media/oenothera-serrulata/archived-42a890c9e3ff1251.jpg"
     },
     "oenothera-sinuosa": {
@@ -454,19 +454,19 @@
       "first_src": "media/oenothera-sinuosa/archived-90719bfa073494c4.jpg"
     },
     "oenothera-speciosa": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/oenothera-speciosa/01-flowering-habit.jpg"
     },
     "oenothera-suffrutescens": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/oenothera-suffrutescens/oenothera-suffrutescens-provisional-face.jpg"
     },
     "oenothera-suffulta": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/oenothera-suffulta/archived-168c97db884b84ef.jpg"
     },
     "oenothera-triloba": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/oenothera-triloba/archived-52e26e142197b958.jpg"
     },
     "passiflora-affinis": {

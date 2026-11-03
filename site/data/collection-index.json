@@ -819,7 +819,7 @@
       "genus": "Ludwigia",
       "scientific_name": "Ludwigia leptocarpa",
       "common_name": "Hairy primrose-willow",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -828,7 +828,7 @@
       "genus": "Ludwigia",
       "scientific_name": "Ludwigia octovalvis",
       "common_name": "Mexican primrose-willow / shrubby water primrose",
-      "photo_count": 1,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -837,7 +837,7 @@
       "genus": "Ludwigia",
       "scientific_name": "Ludwigia palustris",
       "common_name": "Marsh seedbox / water purslane",
-      "photo_count": 2,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -846,7 +846,7 @@
       "genus": "Ludwigia",
       "scientific_name": "Ludwigia peploides",
       "common_name": "Floating primrose-willow / creeping water-primrose",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -855,7 +855,7 @@
       "genus": "Ludwigia",
       "scientific_name": "Ludwigia repens",
       "common_name": "Creeping primrose-willow / red ludwigia",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -864,7 +864,7 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera biennis",
       "common_name": "Common Evening Primrose",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -873,7 +873,7 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera calcicola",
       "common_name": "Texas Beeblossom / Limestone Gaura",
-      "photo_count": 3,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -882,7 +882,7 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera capillifolia",
       "common_name": "Berlandier's Sundrops / Square-bud Primrose",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -891,7 +891,7 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera capillifolia subsp. berlandieri",
       "common_name": "Berlandier's sundrops",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -900,7 +900,7 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera curtiflora",
       "common_name": "Velvetweed",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -909,7 +909,7 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera filiformis",
       "common_name": "Longflower Beeblossom",
-      "photo_count": 2,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -918,7 +918,7 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera glaucifolia",
       "common_name": "Oenothera glaucifolia",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -936,7 +936,7 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera jamesii",
       "common_name": "Trumpet evening-primrose / river primrose",
-      "photo_count": 2,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -945,7 +945,7 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera laciniata",
       "common_name": "Cutleaf Evening Primrose",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -954,7 +954,7 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera lindheimeri",
       "common_name": "Lindheimer's beeblossom",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -963,8 +963,8 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera macrocarpa",
       "common_name": "Missouri evening-primrose",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "oenothera-macrocarpa-subsp-macrocarpa",
@@ -972,7 +972,7 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera macrocarpa subsp. macrocarpa",
       "common_name": "Missouri primrose / bigfruit evening-primrose / fluttermill",
-      "photo_count": 3,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -990,7 +990,7 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera rosea",
       "common_name": "Rose evening-primrose / rose sundrops",
-      "photo_count": 2,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -999,7 +999,7 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera serrulata",
       "common_name": "Oenothera serrulata",
-      "photo_count": 1,
+      "photo_count": 5,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1017,7 +1017,7 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera speciosa",
       "common_name": "Pinkladies",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1026,7 +1026,7 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera suffrutescens",
       "common_name": "Scarlet beeblossom / scarlet gaura",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1035,7 +1035,7 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera suffulta",
       "common_name": "Roadside gaura",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1044,7 +1044,7 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera triloba",
       "common_name": "Stemless evening primrose",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

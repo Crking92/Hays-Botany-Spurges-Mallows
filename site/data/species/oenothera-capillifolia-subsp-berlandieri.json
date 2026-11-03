@@ -29,6 +29,25 @@
       "source_review_evidence": "iNaturalist observation 4022375 photo 4752897 individual CC code cc-by-nc; photographer (c) Nathan Taylor, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA e982f14133d319061f9b1c8bbb8f21f3432393e4; exact image source https://www.inaturalist.org/photos/4752897",
       "taxon_review_evidence": "Original species record Oenothera capillifolia subsp. berlandieri linked to an original image and matching current inat photo of source taxon Oenothera capillifolia berlandieri. Basic source-backed field recognition only; no diagnostic arrow certification.",
       "sha256": "a265490acdb712a808035db3cb9222a4db4e6f9d632f65cb46fddf0450b32d67"
+    },
+    {
+      "src": "media/oenothera-capillifolia-subsp-berlandieri/inat-494455564.jpg",
+      "creator": "(c) wjleo, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/494455564",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "55a10b33cfbccf0f0812e68778e6408a50ca7647",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 275130080, photo 494455564, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 03b3a0e65c7e435c38c901695f685499cc1efd9b79ca587890ae53aed9ff0de7. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera capillifolia berlandieri maps to indexed species oenothera-capillifolia-subsp-berlandieri; specialist morphology and BONAP range deferred.",
+      "sha256": "03b3a0e65c7e435c38c901695f685499cc1efd9b79ca587890ae53aed9ff0de7"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
