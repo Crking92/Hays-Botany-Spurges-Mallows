@@ -1,0 +1,68 @@
+{
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "phase": "recover_missing_identifiers_from_original_species_records",
+  "run_time": "2026-11-03T16:04:14.875258+00:00",
+  "source_image_file_records": 347,
+  "selected": 4,
+  "installed": 0,
+  "held_checked": 4,
+  "duplicate_or_previously_published": 0,
+  "previous_batches": [],
+  "skipped": {
+    "previous_phase1_review_record": 32,
+    "already_published_exact_archive_bytes": 228,
+    "not_enough_identifiers_for_verified_inat_or_gbif_source": 76,
+    "original_path_shape_or_assignment_mismatch": 1,
+    "no_source_csv_or_species_card_image_metadata": 1,
+    "species_not_in_assigned_learner": 4,
+    "unsupported_original_image_type": 1
+  },
+  "records": [
+    {
+      "species_id": "euphorbia-simulans",
+      "filename": "inat-719752552-review.jpg",
+      "git_blob_sha": "517a632fdee8228f8c6861966932e6d685eeae69",
+      "original_path": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-simulans/images/inat-719752552-review.jpg",
+      "lane": "unclassified",
+      "status": "HELD",
+      "reason": "Original CSV and species.json disagree on photo_id"
+    },
+    {
+      "species_id": "euphorbia-simulans",
+      "filename": "inat-731098437-review.jpg",
+      "git_blob_sha": "35b792605fa7046fd17d06bfa8704124cf6d998b",
+      "original_path": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-simulans/images/inat-731098437-review.jpg",
+      "lane": "unclassified",
+      "status": "HELD",
+      "reason": "Original CSV and species.json disagree on photo_id"
+    },
+    {
+      "species_id": "euphorbia-simulans",
+      "filename": "inat-743054404-review.jpg",
+      "git_blob_sha": "07d02535cf8dc82346e0c1e4e0d9c904b017ec8b",
+      "original_path": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-simulans/images/inat-743054404-review.jpg",
+      "lane": "unclassified",
+      "status": "HELD",
+      "reason": "Original CSV and species.json disagree on photo_id"
+    },
+    {
+      "species_id": "euphorbia-simulans",
+      "filename": "inat-745462002-review.jpg",
+      "git_blob_sha": "67239a8901f7bb0d6480642da43f0c56bc0d2b0d",
+      "original_path": "content/taxa/Euphorbiaceae/Euphorbia/euphorbia-simulans/images/inat-745462002-review.jpg",
+      "lane": "unclassified",
+      "status": "HELD",
+      "reason": "Original CSV and species.json disagree on photo_id"
+    }
+  ],
+  "candidate_pool": 4,
+  "remaining_candidates": 0,
+  "selected_lanes": {
+    "unclassified": 4
+  },
+  "verified_not_published": 0,
+  "held_by_reason": {
+    "Original CSV and species.json disagree on photo_id": 4
+  },
+  "cumulative_installed": 0
+}
