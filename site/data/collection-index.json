@@ -522,7 +522,7 @@
       "genus": "Abelmoschus",
       "scientific_name": "Abelmoschus esculentus",
       "common_name": "Okra",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -531,7 +531,7 @@
       "genus": "Abutilon",
       "scientific_name": "Abutilon fruticosum",
       "common_name": "sweet Indian mallow / pelotazo",
-      "photo_count": 4,
+      "photo_count": 9,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -540,7 +540,7 @@
       "genus": "Abutilon",
       "scientific_name": "Abutilon incanum",
       "common_name": "pelotazo chico / hoary abutilon",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -549,7 +549,7 @@
       "genus": "Abutilon",
       "scientific_name": "Abutilon theophrasti",
       "common_name": "velvetleaf",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -558,7 +558,7 @@
       "genus": "Allowissadula",
       "scientific_name": "Allowissadula holosericea",
       "common_name": "Chisos Mountain false Indianmallow",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -567,7 +567,7 @@
       "genus": "Anoda",
       "scientific_name": "Anoda cristata",
       "common_name": "spurred anoda",
-      "photo_count": 2,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -576,7 +576,7 @@
       "genus": "Callirhoe",
       "scientific_name": "Callirhoe digitata",
       "common_name": "Fringed poppy mallow",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -585,7 +585,7 @@
       "genus": "Callirhoe",
       "scientific_name": "Callirhoe involucrata",
       "common_name": "Winecup",
-      "photo_count": 3,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -594,8 +594,8 @@
       "genus": "Callirhoe",
       "scientific_name": "Callirhoe leiocarpa",
       "common_name": "Tall poppymallow",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "callirhoe-pedata",
@@ -603,7 +603,7 @@
       "genus": "Callirhoe",
       "scientific_name": "Callirhoe pedata",
       "common_name": "Palmleaf poppymallow",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -612,7 +612,7 @@
       "genus": "Firmiana",
       "scientific_name": "Firmiana simplex",
       "common_name": "Chinese parasol tree",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -621,7 +621,7 @@
       "genus": "Hibiscus",
       "scientific_name": "Hibiscus martianus",
       "common_name": "Tulipan del monte",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -630,7 +630,7 @@
       "genus": "Malva",
       "scientific_name": "Malva parviflora",
       "common_name": "Small-flowered mallow",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -639,7 +639,7 @@
       "genus": "Malvastrum",
       "scientific_name": "Malvastrum aurantiacum",
       "common_name": "Orange false mallow",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -648,7 +648,7 @@
       "genus": "Malvastrum",
       "scientific_name": "Malvastrum coromandelianum",
       "common_name": "False mallow",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -666,8 +666,8 @@
       "genus": "Melochia",
       "scientific_name": "Melochia pyramidata",
       "common_name": "Pyramid flower",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "meximalva-filipes",
@@ -675,7 +675,7 @@
       "genus": "Meximalva",
       "scientific_name": "Meximalva filipes",
       "common_name": "Meximalva filipes",
-      "photo_count": 1,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -684,8 +684,8 @@
       "genus": "Modiola",
       "scientific_name": "Modiola caroliniana",
       "common_name": "Carolina bristlemallow",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "muenchhusia-coccinea",
@@ -729,8 +729,8 @@
       "genus": "Pavonia",
       "scientific_name": "Pavonia hastata",
       "common_name": "Spearleaf swampmallow (introduced comparison)",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "pavonia-lasiopetala",
@@ -738,8 +738,8 @@
       "genus": "Pavonia",
       "scientific_name": "Pavonia lasiopetala",
       "common_name": "Rock rose",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "rhynchosida-physocalyx",
@@ -747,8 +747,8 @@
       "genus": "Rhynchosida",
       "scientific_name": "Rhynchosida physocalyx",
       "common_name": "Rhynchosida mallow",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 5,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "sida-abutilifolia",
@@ -756,7 +756,7 @@
       "genus": "Sida",
       "scientific_name": "Sida abutilifolia",
       "common_name": "spreading / creeping sida",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -765,7 +765,7 @@
       "genus": "Sida",
       "scientific_name": "Sida spinosa",
       "common_name": "prickly sida / prickly fanpetals",
-      "photo_count": 3,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -783,7 +783,7 @@
       "genus": "Sphaeralcea",
       "scientific_name": "Sphaeralcea lindheimeri",
       "common_name": "woolly globemallow",
-      "photo_count": 2,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -792,8 +792,8 @@
       "genus": "Tilia",
       "scientific_name": "Tilia americana",
       "common_name": "American basswood",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 4,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "feijoa-sellowiana",

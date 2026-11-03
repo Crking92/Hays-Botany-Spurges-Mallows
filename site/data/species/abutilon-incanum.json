@@ -56,6 +56,25 @@
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "source_page_is_exact": true
+    },
+    {
+      "src": "media/abutilon-incanum/inat-52282616.jpeg",
+      "creator": "(c) FERNANDO QUIROZ, some rights reserved (CC BY-NC)",
+      "source_page": "https://www.inaturalist.org/photos/52282616",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "4de8383c92dd6c5aa1061db8968969a504762387",
+      "role": "General field photograph; exact structure and detailed botanical identification deferred",
+      "modified": "Original source photo, no edits",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
+      "source_review_evidence": "Live iNaturalist observation 33293834, photo 52282616, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e52b84f3a1425435be5cbe110ccb0cc7a0d37c7828a26752c44c7c96a2281a3c. Credit evidence: live iNaturalist API.",
+      "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Abutilon incanum maps to indexed species abutilon-incanum; specialist morphology and BONAP range deferred.",
+      "sha256": "e52b84f3a1425435be5cbe110ccb0cc7a0d37c7828a26752c44c7c96a2281a3c"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

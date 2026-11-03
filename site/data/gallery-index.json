@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
-  "photo_species": 110,
-  "photo_count": 396,
+  "photo_species": 117,
+  "photo_count": 514,
   "entries": {
     "impatiens-capensis": {
       "count": 0,
@@ -234,63 +234,63 @@
       "first_src": "media/rotala-ramosior/archived-9acaf895aba64ec2.jpg"
     },
     "abelmoschus-esculentus": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/abelmoschus-esculentus/abelmoschus-esculentus-fredlyfish4.jpg"
     },
     "abutilon-fruticosum": {
-      "count": 4,
+      "count": 9,
       "first_src": "media/abutilon-fruticosum/abutilon-fruticosum-provisional-face.jpg"
     },
     "abutilon-incanum": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/abutilon-incanum/abutilon-incanum-provisional-face.jpg"
     },
     "abutilon-theophrasti": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/abutilon-theophrasti/abutilon-theophrasti-provisional-face.jpg"
     },
     "allowissadula-holosericea": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/allowissadula-holosericea/archived-2d6d855a79d00318.jpg"
     },
     "anoda-cristata": {
-      "count": 2,
+      "count": 6,
       "first_src": "media/anoda-cristata/anoda-cristata-flower-commons.jpg"
     },
     "callirhoe-digitata": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/callirhoe-digitata/plantnet-archive-d0aee94acc55f820.jpg"
     },
     "callirhoe-involucrata": {
-      "count": 3,
+      "count": 7,
       "first_src": "media/callirhoe-involucrata/01-flower.jpg"
     },
     "callirhoe-leiocarpa": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/callirhoe-leiocarpa/inat-628845517.jpg"
     },
     "callirhoe-pedata": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/callirhoe-pedata/01-purple-flowering-habit.jpg"
     },
     "firmiana-simplex": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/firmiana-simplex/archived-06de194b9dbc8ef2.jpg"
     },
     "hibiscus-martianus": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/hibiscus-martianus/archived-268a23557beaa388.jpg"
     },
     "malva-parviflora": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/malva-parviflora/archived-3977074e139be440.jpg"
     },
     "malvastrum-aurantiacum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/malvastrum-aurantiacum/archived-fff178dbbeadbf04.jpg"
     },
     "malvastrum-coromandelianum": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/malvastrum-coromandelianum/archived-b98425f0fbbe95a3.jpg"
     },
     "malvaviscus-arboreus-var-drummondii": {
@@ -298,16 +298,16 @@
       "first_src": "media/malvaviscus-arboreus-var-drummondii/malvaviscus-arboreus-var-drummondii-provisional-face.jpg"
     },
     "melochia-pyramidata": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/melochia-pyramidata/inat-275278943.jpg"
     },
     "meximalva-filipes": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/meximalva-filipes/archived-44dd195cf9b3076e.jpg"
     },
     "modiola-caroliniana": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/modiola-caroliniana/inat-622890661.jpg"
     },
     "muenchhusia-coccinea": {
       "count": 1,
@@ -326,23 +326,23 @@
       "first_src": "media/muenchhusia-moscheutos-subsp-lasiocarpos/archived-0a36c48a012bef59.jpg"
     },
     "pavonia-hastata": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/pavonia-hastata/inat-186741399.jpg"
     },
     "pavonia-lasiopetala": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/pavonia-lasiopetala/inat-628861725.jpg"
     },
     "rhynchosida-physocalyx": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/rhynchosida-physocalyx/inat-623343634.jpg"
     },
     "sida-abutilifolia": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/sida-abutilifolia/sida-abutilifolia-provisional-face.jpg"
     },
     "sida-spinosa": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/sida-spinosa/sida-spinosa-provisional-face.jpg"
     },
     "sphaeralcea-grossulariifolia": {
@@ -350,12 +350,12 @@
       "first_src": null
     },
     "sphaeralcea-lindheimeri": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/sphaeralcea-lindheimeri/archived-487f649d058054f2.jpg"
     },
     "tilia-americana": {
-      "count": 0,
-      "first_src": null
+      "count": 4,
+      "first_src": "media/tilia-americana/inat-198643041.jpg"
     },
     "feijoa-sellowiana": {
       "count": 6,
