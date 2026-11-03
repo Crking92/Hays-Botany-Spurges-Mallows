@@ -72,8 +72,8 @@
       "genus": "Argythamnia",
       "scientific_name": "Argythamnia humilis",
       "common_name": "Low silverbush",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "argythamnia-simulans",
@@ -693,8 +693,8 @@
       "genus": "Muenchhusia",
       "scientific_name": "Muenchhusia coccinea",
       "common_name": "Scarlet rosemallow",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "muenchhusia-laevis",
@@ -702,8 +702,8 @@
       "genus": "Muenchhusia",
       "scientific_name": "Muenchhusia laevis",
       "common_name": "Halberdleaf rosemallow",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "muenchhusia-moscheutos",
@@ -711,8 +711,8 @@
       "genus": "Muenchhusia",
       "scientific_name": "Muenchhusia moscheutos",
       "common_name": "Swamp rosemallow",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "muenchhusia-moscheutos-subsp-lasiocarpos",
@@ -720,8 +720,8 @@
       "genus": "Muenchhusia",
       "scientific_name": "Muenchhusia moscheutos subsp. lasiocarpos",
       "common_name": "Hairy rose mallow",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "pavonia-hastata",

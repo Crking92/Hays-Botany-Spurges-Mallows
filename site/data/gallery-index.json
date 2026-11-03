@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
-  "photo_species": 104,
-  "photo_count": 292,
+  "photo_species": 109,
+  "photo_count": 297,
   "entries": {
     "impatiens-capensis": {
       "count": 0,
@@ -34,8 +34,8 @@
       "first_src": "media/argythamnia-aphoroides/archived-45e437d7b156294a.jpg"
     },
     "argythamnia-humilis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/argythamnia-humilis/archived-b730950abed4ee4a.jpg"
     },
     "argythamnia-simulans": {
       "count": 3,
@@ -310,20 +310,20 @@
       "first_src": null
     },
     "muenchhusia-coccinea": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/muenchhusia-coccinea/archived-adb6c8e4d811ce13.jpg"
     },
     "muenchhusia-laevis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/muenchhusia-laevis/archived-ec9c6a8a9dcb4c07.jpg"
     },
     "muenchhusia-moscheutos": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/muenchhusia-moscheutos/archived-ad234c0cde9aeb9c.jpg"
     },
     "muenchhusia-moscheutos-subsp-lasiocarpos": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/muenchhusia-moscheutos-subsp-lasiocarpos/archived-0a36c48a012bef59.jpg"
     },
     "pavonia-hastata": {
       "count": 0,

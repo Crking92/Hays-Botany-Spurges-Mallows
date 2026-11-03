@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/muenchhusia-laevis/archived-ec9c6a8a9dcb4c07.jpg",
+      "creator": "oxley_maggie",
+      "source_page": "https://www.inaturalist.org/photos/308459487",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "785067ceb20c4f132e56c6daf8dd4fd8cabd00de",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 177360339 photo 308459487 individual CC code cc-by-nc; photographer (c) oxley_maggie, some rights reserved (CC BY-NC); image dHash difference 0; source synonym verified by POWO https://powo.science.kew.org/taxon/77372182-1; archived source SHA 785067ceb20c4f132e56c6daf8dd4fd8cabd00de; exact image source https://www.inaturalist.org/photos/308459487",
+      "taxon_review_evidence": "Indexed species Muenchhusia laevis reconciled to source synonym Hibiscus laevis per Kew POWO https://powo.science.kew.org/taxon/77372182-1; source record Hibiscus laevis linked to an original image and matching current inat photo of source taxon Hibiscus laevis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "ec9c6a8a9dcb4c07463ad13d2480f113ac733d04a5219ebfb41b79f87388ebbd"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "70a22dc4e20d704f3ac9f025b9c891f58d0771dfc1ca7988eeddead8de1100e7",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
