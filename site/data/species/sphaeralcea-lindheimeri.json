@@ -35,8 +35,47 @@
     "names": [],
     "differences": "Use the very soft long hairs, silvery abaxial surface, decumbent habit, and distribution together; flower color alone is not enough."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/sphaeralcea-lindheimeri/archived-487f649d058054f2.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/357354000",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "d11be90828615616b6cc9e219360adf6e91e2681",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 202347429 photo 357354000 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA d11be90828615616b6cc9e219360adf6e91e2681; exact image source https://www.inaturalist.org/photos/357354000",
+      "taxon_review_evidence": "Original species record Sphaeralcea lindheimeri linked to an original image and matching current inat photo of source taxon Sphaeralcea lindheimeri. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "487f649d058054f260492a87c0014d537165f57f9f368cd315f0ceeffa6f2f4c"
+    },
+    {
+      "src": "media/sphaeralcea-lindheimeri/archived-a06745a9ffbcc045.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/357354015",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "2ab14ab40d736b453215d9c6b3ce5d15efd97042",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 202347429 photo 357354015 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 1; archived source SHA 2ab14ab40d736b453215d9c6b3ce5d15efd97042; exact image source https://www.inaturalist.org/photos/357354015",
+      "taxon_review_evidence": "Original species record Sphaeralcea lindheimeri linked to an original image and matching current inat photo of source taxon Sphaeralcea lindheimeri. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "a06745a9ffbcc045f91aa7432a633fe780022ec64e2541e615ffe7d1495af9aa"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "452ca5abe4cede39f87ef4f4473015d2106e85db6a76dab3f58930cf0029bf76",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

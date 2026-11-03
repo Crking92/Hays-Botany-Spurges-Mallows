@@ -27,7 +27,7 @@
       "genus": "Acalypha",
       "scientific_name": "Acalypha persimilis",
       "common_name": "Acalypha persimilis",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -54,7 +54,7 @@
       "genus": "Amperea",
       "scientific_name": "Amperea xiphoclada",
       "common_name": "Broom spurge",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -387,8 +387,8 @@
       "genus": "Tragia",
       "scientific_name": "Tragia nigricans",
       "common_name": "Darkstem noseburn",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "tragia-ramosa",
@@ -396,8 +396,8 @@
       "genus": "Tragia",
       "scientific_name": "Tragia ramosa",
       "common_name": "Branched noseburn",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "triadica-sebifera",
@@ -441,8 +441,8 @@
       "genus": "Linum",
       "scientific_name": "Linum hudsonioides",
       "common_name": "Sand flax",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "linum-imbricatum",
@@ -450,8 +450,8 @@
       "genus": "Linum",
       "scientific_name": "Linum imbricatum",
       "common_name": "Imbricate flax",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "linum-rigidum",
@@ -477,8 +477,8 @@
       "genus": "Ammannia",
       "scientific_name": "Ammannia auriculata",
       "common_name": "Eared redstem",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ammannia-coccinea",
@@ -486,7 +486,7 @@
       "genus": "Ammannia",
       "scientific_name": "Ammannia coccinea",
       "common_name": "Scarlet toothcup",
-      "photo_count": 1,
+      "photo_count": 2,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -513,8 +513,8 @@
       "genus": "Rotala",
       "scientific_name": "Rotala ramosior",
       "common_name": "Lowland toothcup",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "abelmoschus-esculentus",
@@ -549,7 +549,7 @@
       "genus": "Abutilon",
       "scientific_name": "Abutilon theophrasti",
       "common_name": "velvetleaf",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -630,8 +630,8 @@
       "genus": "Malva",
       "scientific_name": "Malva parviflora",
       "common_name": "Small-flowered mallow",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "malvastrum-aurantiacum",
@@ -639,8 +639,8 @@
       "genus": "Malvastrum",
       "scientific_name": "Malvastrum aurantiacum",
       "common_name": "Orange false mallow",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "malvastrum-coromandelianum",
@@ -648,8 +648,8 @@
       "genus": "Malvastrum",
       "scientific_name": "Malvastrum coromandelianum",
       "common_name": "False mallow",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "malvaviscus-arboreus-var-drummondii",
@@ -675,8 +675,8 @@
       "genus": "Meximalva",
       "scientific_name": "Meximalva filipes",
       "common_name": "Meximalva filipes",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "modiola-caroliniana",
@@ -756,7 +756,7 @@
       "genus": "Sida",
       "scientific_name": "Sida abutilifolia",
       "common_name": "spreading / creeping sida",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -765,7 +765,7 @@
       "genus": "Sida",
       "scientific_name": "Sida spinosa",
       "common_name": "prickly sida / prickly fanpetals",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -783,8 +783,8 @@
       "genus": "Sphaeralcea",
       "scientific_name": "Sphaeralcea lindheimeri",
       "common_name": "woolly globemallow",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "tilia-americana",
@@ -810,8 +810,8 @@
       "genus": "Ludwigia",
       "scientific_name": "Ludwigia decurrens",
       "common_name": "Wing-leaved primrose-willow",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ludwigia-leptocarpa",
@@ -819,8 +819,8 @@
       "genus": "Ludwigia",
       "scientific_name": "Ludwigia leptocarpa",
       "common_name": "Hairy primrose-willow",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "ludwigia-octovalvis",
@@ -873,8 +873,8 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera calcicola",
       "common_name": "Texas Beeblossom / Limestone Gaura",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "oenothera-capillifolia",
@@ -882,7 +882,7 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera capillifolia",
       "common_name": "Berlandier's Sundrops / Square-bud Primrose",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -891,8 +891,8 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera capillifolia subsp. berlandieri",
       "common_name": "Berlandier's sundrops",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "oenothera-curtiflora",
@@ -900,8 +900,8 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera curtiflora",
       "common_name": "Velvetweed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "oenothera-filiformis",
@@ -918,8 +918,8 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera glaucifolia",
       "common_name": "Oenothera glaucifolia",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "oenothera-hispida",
@@ -999,8 +999,8 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera serrulata",
       "common_name": "Oenothera serrulata",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "oenothera-sinuosa",
@@ -1026,7 +1026,7 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera suffrutescens",
       "common_name": "Scarlet beeblossom / scarlet gaura",
-      "photo_count": 1,
+      "photo_count": 3,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1080,8 +1080,8 @@
       "genus": "Passiflora",
       "scientific_name": "Passiflora lanuginosa",
       "common_name": "Scarletfruit passionflower",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 2,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "passiflora-lutea",
@@ -1098,7 +1098,7 @@
       "genus": "Passiflora",
       "scientific_name": "Passiflora tenuiloba",
       "common_name": "Birdwing passionflower",
-      "photo_count": 7,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1152,7 +1152,7 @@
       "genus": "Pombalia",
       "scientific_name": "Pombalia verticillata",
       "common_name": "Whorled nodding violet",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -1170,7 +1170,7 @@
       "genus": "Viola",
       "scientific_name": "Viola missouriensis",
       "common_name": "Missouri violet",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     }
   ]

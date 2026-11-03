@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/linum-hudsonioides/archived-030046ffb0fdedc8.jpg",
+      "creator": "Phaedra",
+      "source_page": "https://www.inaturalist.org/photos/40229917",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "79f2801358a045a469252367ea33979ac32f6b51",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 25936298 photo 40229917 individual CC code cc-by-nc; photographer (c) Phaedra, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 79f2801358a045a469252367ea33979ac32f6b51; exact image source https://www.inaturalist.org/photos/40229917",
+      "taxon_review_evidence": "Original species record Linum hudsonioides linked to an original image and matching current inat photo of source taxon Linum hudsonioides. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "030046ffb0fdedc815390e3f0e8c4aef31cf567bfc1e55a4775165234b1fd95c"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "57c57122e19e328c2602c00c6ef1d482e14742369c5b4beb9eff96a5a5af6959",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/rotala-ramosior/archived-9acaf895aba64ec2.jpg",
+      "creator": "Guillaume Léotard",
+      "source_page": "https://www.inaturalist.org/photos/418043433",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "8c4efce2f85e223eb3566a61dc00982d8b26a874",
+      "role": "Provisional species recognition photograph; diagnostic anatomy not visually certified",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 235092150 photo 418043433 individual CC code cc-by-nc; photographer (c) Guillaume Léotard, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 8c4efce2f85e223eb3566a61dc00982d8b26a874; exact image source https://www.inaturalist.org/photos/418043433",
+      "taxon_review_evidence": "Original species record Rotala ramosior linked to an original image and matching current inat photo of source taxon Rotala ramosior. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "9acaf895aba64ec2915f888156368c429c99f2d74437f2b242d0cfbe217e58d1"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "52cafef5e238ef00ff817cb2edb810e2483ef260e91c657efedd15be56405b6a",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

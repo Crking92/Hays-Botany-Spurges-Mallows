@@ -43,8 +43,47 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/ludwigia-leptocarpa/archived-5aacae9d18c8c7ab.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/99149223",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "562eae080ea632f868b26360a35010513a0dd4b6",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 61922861 photo 99149223 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 562eae080ea632f868b26360a35010513a0dd4b6; exact image source https://www.inaturalist.org/photos/99149223",
+      "taxon_review_evidence": "Original species record Ludwigia leptocarpa linked to an original image and matching current inat photo of source taxon Ludwigia leptocarpa. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "5aacae9d18c8c7aba8c1511656af83e3f477ed4d8d97315e0544b3e28f10aff6"
+    },
+    {
+      "src": "media/ludwigia-leptocarpa/archived-d59044d9bc8e6514.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/99149215",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "31a75e99d8803433fcbbe6f32e16a66ea598cce3",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 61922861 photo 99149215 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 31a75e99d8803433fcbbe6f32e16a66ea598cce3; exact image source https://www.inaturalist.org/photos/99149215",
+      "taxon_review_evidence": "Original species record Ludwigia leptocarpa linked to an original image and matching current inat photo of source taxon Ludwigia leptocarpa. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "d59044d9bc8e6514a430941616a93b65b305817f6182904555d9737e2d341e13"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "37c413023b82822852b89186404e73f816a298aa1b1bcfe20b92aacec4ada1ff",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

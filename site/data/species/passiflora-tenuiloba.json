@@ -168,6 +168,25 @@
       "source_review_evidence": "Live iNaturalist observation 360464339, photo 657752170, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 410b7025d1d1245bc59b2b237067df855095757220999acc96d0303270285052. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora tenuiloba maps to indexed species passiflora-tenuiloba; specialist morphology and BONAP range deferred.",
       "sha256": "410b7025d1d1245bc59b2b237067df855095757220999acc96d0303270285052"
+    },
+    {
+      "src": "media/passiflora-tenuiloba/archived-21f5e355604341b0.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/365014928",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "6fc722fe7676ba48ce5b82f32a3f9ca8db211e8c",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 206384428 photo 365014928 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 6fc722fe7676ba48ce5b82f32a3f9ca8db211e8c; exact image source https://www.inaturalist.org/photos/365014928",
+      "taxon_review_evidence": "Original species record Passiflora tenuiloba linked to an original image and matching current inat photo of source taxon Passiflora tenuiloba. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "21f5e355604341b04afef9872f5c7dc0223b6bdbf0638b14386c124492df8efd"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -39,8 +39,47 @@
     "names": [],
     "differences": "Narrower leaves with truncate to weakly cordate bases plus the raceme/pedicel characters distinguish it from the local Tragia set; reproductive structures should confirm the ID."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/tragia-ramosa/archived-44c135d102b92975.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/430782280",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "1495fbeea45d683c81eabc1b5ce203d899123bdc",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 241692525 photo 430782280 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 1495fbeea45d683c81eabc1b5ce203d899123bdc; exact image source https://www.inaturalist.org/photos/430782280",
+      "taxon_review_evidence": "Original species record Tragia ramosa linked to an original image and matching current inat photo of source taxon Tragia ramosa. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "44c135d102b929755f09277b1e6d3f7cb6cc5e73d50eb2eb39c7b915c0dfa029"
+    },
+    {
+      "src": "media/tragia-ramosa/archived-aa64a9ef8edfde56.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/212371469",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "8bac2997caaeba8eea57831eb382b33cb1cbaa8c",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 125225096 photo 212371469 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 8bac2997caaeba8eea57831eb382b33cb1cbaa8c; exact image source https://www.inaturalist.org/photos/212371469",
+      "taxon_review_evidence": "Original species record Tragia ramosa linked to an original image and matching current inat photo of source taxon Tragia ramosa. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "aa64a9ef8edfde5606ffe816268056539772344bf6503b234bdf54fc1fd8094b"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "c663ecdd476f35a7f616ad5d56095bf207e518137e65f92b8ffcbe38a2183da5",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

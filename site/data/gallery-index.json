@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
-  "photo_species": 74,
-  "photo_count": 208,
+  "photo_species": 93,
+  "photo_count": 253,
   "entries": {
     "impatiens-capensis": {
       "count": 0,
@@ -14,7 +14,7 @@
       "first_src": "media/cochlospermum-wrightii/archived-c4353c9cee480223.jpg"
     },
     "acalypha-persimilis": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/acalypha-persimilis/acalypha-persimilis-provisional-face.jpg"
     },
     "acalypha-phleoides": {
@@ -26,7 +26,7 @@
       "first_src": "media/acalypha-radians/acalypha-radians-provisional-face.jpg"
     },
     "amperea-xiphoclada": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/amperea-xiphoclada/amperea-xiphoclada-flower-clusters-melburnian.jpg"
     },
     "argythamnia-aphoroides": {
@@ -174,12 +174,12 @@
       "first_src": null
     },
     "tragia-nigricans": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/tragia-nigricans/archived-138444cfe89dd644.jpg"
     },
     "tragia-ramosa": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/tragia-ramosa/archived-44c135d102b92975.jpg"
     },
     "triadica-sebifera": {
       "count": 3,
@@ -198,12 +198,12 @@
       "first_src": "media/linum-berlandieri/archived-67ae996e9e28e668.jpg"
     },
     "linum-hudsonioides": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/linum-hudsonioides/archived-030046ffb0fdedc8.jpg"
     },
     "linum-imbricatum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/linum-imbricatum/archived-227a7447e61c27a1.jpg"
     },
     "linum-rigidum": {
       "count": 0,
@@ -214,11 +214,11 @@
       "first_src": null
     },
     "ammannia-auriculata": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/ammannia-auriculata/archived-8569ca79bda434ef.jpg"
     },
     "ammannia-coccinea": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/ammannia-coccinea/ammannia-coccinea-starr-flower-fruit.jpg"
     },
     "lythrum-alatum": {
@@ -230,8 +230,8 @@
       "first_src": null
     },
     "rotala-ramosior": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/rotala-ramosior/archived-9acaf895aba64ec2.jpg"
     },
     "abelmoschus-esculentus": {
       "count": 1,
@@ -246,7 +246,7 @@
       "first_src": "media/abutilon-incanum/abutilon-incanum-provisional-face.jpg"
     },
     "abutilon-theophrasti": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/abutilon-theophrasti/abutilon-theophrasti-provisional-face.jpg"
     },
     "allowissadula-holosericea": {
@@ -282,16 +282,16 @@
       "first_src": "media/hibiscus-martianus/archived-268a23557beaa388.jpg"
     },
     "malva-parviflora": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/malva-parviflora/archived-3977074e139be440.jpg"
     },
     "malvastrum-aurantiacum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/malvastrum-aurantiacum/archived-fff178dbbeadbf04.jpg"
     },
     "malvastrum-coromandelianum": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/malvastrum-coromandelianum/archived-b98425f0fbbe95a3.jpg"
     },
     "malvaviscus-arboreus-var-drummondii": {
       "count": 1,
@@ -302,8 +302,8 @@
       "first_src": null
     },
     "meximalva-filipes": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/meximalva-filipes/archived-44dd195cf9b3076e.jpg"
     },
     "modiola-caroliniana": {
       "count": 0,
@@ -338,11 +338,11 @@
       "first_src": null
     },
     "sida-abutilifolia": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/sida-abutilifolia/sida-abutilifolia-provisional-face.jpg"
     },
     "sida-spinosa": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/sida-spinosa/sida-spinosa-provisional-face.jpg"
     },
     "sphaeralcea-grossulariifolia": {
@@ -350,8 +350,8 @@
       "first_src": null
     },
     "sphaeralcea-lindheimeri": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/sphaeralcea-lindheimeri/archived-487f649d058054f2.jpg"
     },
     "tilia-americana": {
       "count": 0,
@@ -362,12 +362,12 @@
       "first_src": "media/feijoa-sellowiana/archived-bfec32bc43c040ab.jpg"
     },
     "ludwigia-decurrens": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/ludwigia-decurrens/archived-046b9963156c2b6a.jpg"
     },
     "ludwigia-leptocarpa": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/ludwigia-leptocarpa/archived-5aacae9d18c8c7ab.jpg"
     },
     "ludwigia-octovalvis": {
       "count": 1,
@@ -390,28 +390,28 @@
       "first_src": "media/oenothera-biennis/oenothera-biennis-provisional-face.jpg"
     },
     "oenothera-calcicola": {
-      "count": 0,
-      "first_src": null
+      "count": 3,
+      "first_src": "media/oenothera-calcicola/archived-854ecb711dab20a4.jpg"
     },
     "oenothera-capillifolia": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/oenothera-capillifolia/oenothera-capillifolia-provisional-face.jpg"
     },
     "oenothera-capillifolia-subsp-berlandieri": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/oenothera-capillifolia-subsp-berlandieri/archived-a265490acdb712a8.jpg"
     },
     "oenothera-curtiflora": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/oenothera-curtiflora/archived-933a8c6b2719eebb.jpg"
     },
     "oenothera-filiformis": {
       "count": 1,
       "first_src": "media/oenothera-filiformis/oenothera-filiformis-provisional-face.jpg"
     },
     "oenothera-glaucifolia": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/oenothera-glaucifolia/archived-ad5f03dcc8571da6.jpg"
     },
     "oenothera-hispida": {
       "count": 0,
@@ -446,8 +446,8 @@
       "first_src": "media/oenothera-rosea/oenothera-rosea-provisional-face.jpg"
     },
     "oenothera-serrulata": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/oenothera-serrulata/archived-42a890c9e3ff1251.jpg"
     },
     "oenothera-sinuosa": {
       "count": 0,
@@ -458,7 +458,7 @@
       "first_src": "media/oenothera-speciosa/01-flowering-habit.jpg"
     },
     "oenothera-suffrutescens": {
-      "count": 1,
+      "count": 3,
       "first_src": "media/oenothera-suffrutescens/oenothera-suffrutescens-provisional-face.jpg"
     },
     "oenothera-suffulta": {
@@ -482,15 +482,15 @@
       "first_src": "media/passiflora-incarnata/passiflora-incarnata-provisional-face.jpg"
     },
     "passiflora-lanuginosa": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/passiflora-lanuginosa/archived-61038fe4d0a9cbf9.jpg"
     },
     "passiflora-lutea": {
       "count": 8,
       "first_src": "media/passiflora-lutea/passiflora-lutea-provisional-face.jpg"
     },
     "passiflora-tenuiloba": {
-      "count": 7,
+      "count": 8,
       "first_src": "media/passiflora-tenuiloba/passiflora-tenuiloba-provisional-face.jpg"
     },
     "phyllanthus-polygonoides": {
@@ -514,7 +514,7 @@
       "first_src": "media/salix-nigra/inat-627616042.jpg"
     },
     "pombalia-verticillata": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/pombalia-verticillata/inat-636870211.jpg"
     },
     "viola-affinis": {
@@ -522,7 +522,7 @@
       "first_src": "media/viola-affinis/commons-viola-affinis.jpg"
     },
     "viola-missouriensis": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/viola-missouriensis/inat-182875298.jpg"
     }
   }

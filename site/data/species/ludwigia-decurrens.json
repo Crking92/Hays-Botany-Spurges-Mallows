@@ -43,8 +43,47 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/ludwigia-decurrens/archived-046b9963156c2b6a.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/99149315",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "c22bceb3167f903c1c5df84f8a2ca3d9071774da",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 61922916 photo 99149315 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA c22bceb3167f903c1c5df84f8a2ca3d9071774da; exact image source https://www.inaturalist.org/photos/99149315",
+      "taxon_review_evidence": "Original species record Ludwigia decurrens linked to an original image and matching current inat photo of source taxon Ludwigia decurrens. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "046b9963156c2b6af99ca3b76ba211c6a9f0e2a0ae8a07fd8d7848e11f09d4af"
+    },
+    {
+      "src": "media/ludwigia-decurrens/archived-a2e514917879d96c.jpg",
+      "creator": "Joey Santore",
+      "source_page": "https://www.inaturalist.org/photos/99149311",
+      "source_page_is_exact": true,
+      "license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source_blob_sha": "c30d897a41c48e848b44344f07bd7ca57d86bbd6",
+      "role": "Additional exact-taxon view; anatomical role pending visual inspection",
+      "modified": "resized JPG; metadata removed",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 61922916 photo 99149311 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA c30d897a41c48e848b44344f07bd7ca57d86bbd6; exact image source https://www.inaturalist.org/photos/99149311",
+      "taxon_review_evidence": "Original species record Ludwigia decurrens linked to an original image and matching current inat photo of source taxon Ludwigia decurrens. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "a2e514917879d96c9f360e5ce2bf55eca362e910645e9d73062d6fabf7643518"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "bb4ef5a32bdae9f00a8fb957503738a602a9bd9d4c257ae3ade8f9af456ee764",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
