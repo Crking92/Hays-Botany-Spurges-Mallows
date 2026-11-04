@@ -29,7 +29,9 @@ for row in idx["entries"]:
     for p in photos:
         src=p["src"]
         assert src.startswith("media/"+sid+"/") and ".." not in src
-        assert p["creator"] and p["source_page"].startswith("https://") and p["license_url"].startswith("https://creativecommons.org/")
+        assert p["creator"] and p["source_page"].startswith("https://") and p["license_url"].startswith("https://")
+        if p["license"].startswith(("CC0", "CC ")):
+            assert p["license_url"].startswith("https://creativecommons.org/")
         assert p["private_rights_review_only"] is False
         nc=p["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0"}
         assert p["noncommercial_only"] is nc

@@ -13,7 +13,7 @@ from pathlib import Path, PurePosixPath
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / "site"
-ALLOWED = re.compile(r"(?:CC0(?: 1\.0)?|Public Domain|CC BY(?:-NC)?(?:-SA)? (?:2\.0|2\.5|3\.0|4\.0)(?: [A-Z]{2,8})?)", re.I)
+ALLOWED = re.compile(r"(?:CC0(?: 1\.0)?|Public Domain(?: \([^)]*\))?|CC BY(?:-NC)?(?:-SA)? (?:2\.0|2\.5|3\.0|4\.0)(?: [A-Z]{2,8})?)", re.I)
 
 def read(path):
     return json.loads((SITE / path).read_text(encoding="utf-8"))
