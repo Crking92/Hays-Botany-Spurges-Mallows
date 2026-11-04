@@ -34,7 +34,7 @@ def validate(site):
             if p.get("display_sha256"):
                 assert hashlib.sha256(binary).hexdigest()==p["display_sha256"],src
                 assert git_sha(binary)==p["display_blob_sha"],src
-                assert p.get("display_original_archive_commit"),src
+                assert p.get("display_original_archive_commit") or p.get("display_original_intake_path"),src
             else:
                 assert git_sha(binary)==p["source_blob_sha"],src
             assert p.get("creator") and p.get("source_page","").startswith("https://")
