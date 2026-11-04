@@ -1,7 +1,7 @@
 {
   "repository": "Crking92/Hays-Botany-Spurges-Mallows",
   "batch_key": "MULTIFAMILY_OWNER_DISPLAY_RECOVERY_2026-11-03",
-  "checked_at": "2026-11-04T02:04:50.563092+00:00",
+  "checked_at": "2026-11-04T02:07:35.701634+00:00",
   "source_files": 347,
   "selection_window": 15,
   "candidate_pool_with_usable_source_identifiers": 5,
@@ -16,8 +16,8 @@
     "species_not_on_assigned_site": 4,
     "unsupported_image_format": 1
   },
-  "new_installed": 0,
-  "held_checked": 5,
+  "new_installed": 5,
+  "held_checked": 0,
   "duplicates_found_during_review": 0,
   "records": [
     {
@@ -28,8 +28,13 @@
       "archive_path": "migration/private-original-photo-holds/Malvaceae/Callirhoe/callirhoe-leiocarpa/images/glass-root-492009330-first-photo.jpg",
       "git_blob_sha": "14b0ae32e643656b7741e2eb81bd5598ff6c15ec",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Owner permission attribution not confirmed by exact photo"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Glass Root Garden",
+      "license": "OWNER PUBLIC DISPLAY PERMISSION",
+      "source_page": "https://www.inaturalist.org/photos/492009330",
+      "taxon": "Callirhoe leiocarpa",
+      "src": "media/callirhoe-leiocarpa/archived-3ed738122a6d8d00.jpg",
+      "sha256": "3ed738122a6d8d003df83eb3ea0a08989492e1853ab790e6814e0f04389e1096"
     },
     {
       "species_id": "croton-lindheimeri",
@@ -39,8 +44,13 @@
       "archive_path": "migration/private-original-photo-holds/Euphorbiaceae/Croton/croton-lindheimeri/images/glass-root-707831621-first-photo.jpg",
       "git_blob_sha": "61a9bda053f069204fa18cad9ccc0205dee5b03f",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Owner permission attribution not confirmed by exact photo"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Glass Root Garden",
+      "license": "OWNER PUBLIC DISPLAY PERMISSION",
+      "source_page": "https://www.inaturalist.org/photos/707831621",
+      "taxon": "Croton lindheimeri",
+      "src": "media/croton-lindheimeri/archived-433176fe9d7f03f9.jpg",
+      "sha256": "433176fe9d7f03f9968806df23a970be907e97757b28815f2d0633bb3e915407"
     },
     {
       "species_id": "oenothera-curtiflora",
@@ -50,8 +60,13 @@
       "archive_path": "migration/private-original-photo-holds/Onagraceae/Oenothera/oenothera-curtiflora/images/glass-root-508886200-first-photo.jpg",
       "git_blob_sha": "49991a852203279be93d8b544fc8d516eaee508a",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Owner permission attribution not confirmed by exact photo"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Glass Root Garden",
+      "license": "OWNER PUBLIC DISPLAY PERMISSION",
+      "source_page": "https://www.inaturalist.org/photos/508886200",
+      "taxon": "Oenothera curtiflora",
+      "src": "media/oenothera-curtiflora/archived-3917673ff32f4b57.jpg",
+      "sha256": "3917673ff32f4b57b5ed79c2fcfc6847fc927469ac9e14bf51aaa1c97d524b52"
     },
     {
       "species_id": "oenothera-suffulta",
@@ -61,8 +76,13 @@
       "archive_path": "migration/private-original-photo-holds/Onagraceae/Oenothera/oenothera-suffulta/images/glass-root-644561237-first-photo.jpg",
       "git_blob_sha": "25f0ba67f2a3cd9a12f571d78dbae41b813a4ab7",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Owner permission attribution not confirmed by exact photo"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Glass Root Garden",
+      "license": "OWNER PUBLIC DISPLAY PERMISSION",
+      "source_page": "https://www.inaturalist.org/photos/644561237",
+      "taxon": "Oenothera suffulta",
+      "src": "media/oenothera-suffulta/archived-0554de2017ad2d91.jpg",
+      "sha256": "0554de2017ad2d91e7c50e8958c044da960f84c0f69e7947d7634552b8337056"
     },
     {
       "species_id": "passiflora-lanuginosa",
@@ -72,16 +92,83 @@
       "archive_path": "migration/private-original-photo-holds/Passifloraceae/Passiflora/passiflora-lanuginosa/images/glass-root-466064726-first-photo.jpg",
       "git_blob_sha": "6e9054f9d3dcb14f4a4cb679f730a9f3c880d75b",
       "lane": "inat",
-      "status": "HELD",
-      "reason": "Owner permission attribution not confirmed by exact photo"
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Glass Root Garden",
+      "license": "OWNER PUBLIC DISPLAY PERMISSION",
+      "source_page": "https://www.inaturalist.org/photos/466064726",
+      "taxon": "Passiflora lanuginosa",
+      "src": "media/passiflora-lanuginosa/archived-9493aa88f1f48bd0.jpg",
+      "sha256": "9493aa88f1f48bd0fd93c5f81a8128a9ee79da4d0218f72202d3d906a342f85a"
     }
   ],
-  "previous_batches": [],
-  "batch_number": 1,
+  "previous_batches": [
+    {
+      "checked_at": "2026-11-04T02:04:50.563092+00:00",
+      "selected_candidates": 5,
+      "new_installed": 0,
+      "held_checked": 5,
+      "records": [
+        {
+          "species_id": "callirhoe-leiocarpa",
+          "family": "Malvaceae",
+          "filename": "glass-root-492009330-first-photo.jpg",
+          "original_path": "content/taxa/Malvaceae/Callirhoe/callirhoe-leiocarpa/images/glass-root-492009330-first-photo.jpg",
+          "archive_path": "migration/private-original-photo-holds/Malvaceae/Callirhoe/callirhoe-leiocarpa/images/glass-root-492009330-first-photo.jpg",
+          "git_blob_sha": "14b0ae32e643656b7741e2eb81bd5598ff6c15ec",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Owner permission attribution not confirmed by exact photo"
+        },
+        {
+          "species_id": "croton-lindheimeri",
+          "family": "Euphorbiaceae",
+          "filename": "glass-root-707831621-first-photo.jpg",
+          "original_path": "content/taxa/Euphorbiaceae/Croton/croton-lindheimeri/images/glass-root-707831621-first-photo.jpg",
+          "archive_path": "migration/private-original-photo-holds/Euphorbiaceae/Croton/croton-lindheimeri/images/glass-root-707831621-first-photo.jpg",
+          "git_blob_sha": "61a9bda053f069204fa18cad9ccc0205dee5b03f",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Owner permission attribution not confirmed by exact photo"
+        },
+        {
+          "species_id": "oenothera-curtiflora",
+          "family": "Onagraceae",
+          "filename": "glass-root-508886200-first-photo.jpg",
+          "original_path": "content/taxa/Onagraceae/Oenothera/oenothera-curtiflora/images/glass-root-508886200-first-photo.jpg",
+          "archive_path": "migration/private-original-photo-holds/Onagraceae/Oenothera/oenothera-curtiflora/images/glass-root-508886200-first-photo.jpg",
+          "git_blob_sha": "49991a852203279be93d8b544fc8d516eaee508a",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Owner permission attribution not confirmed by exact photo"
+        },
+        {
+          "species_id": "oenothera-suffulta",
+          "family": "Onagraceae",
+          "filename": "glass-root-644561237-first-photo.jpg",
+          "original_path": "content/taxa/Onagraceae/Oenothera/oenothera-suffulta/images/glass-root-644561237-first-photo.jpg",
+          "archive_path": "migration/private-original-photo-holds/Onagraceae/Oenothera/oenothera-suffulta/images/glass-root-644561237-first-photo.jpg",
+          "git_blob_sha": "25f0ba67f2a3cd9a12f571d78dbae41b813a4ab7",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Owner permission attribution not confirmed by exact photo"
+        },
+        {
+          "species_id": "passiflora-lanuginosa",
+          "family": "Passifloraceae",
+          "filename": "glass-root-466064726-first-photo.jpg",
+          "original_path": "content/taxa/Passifloraceae/Passiflora/passiflora-lanuginosa/images/glass-root-466064726-first-photo.jpg",
+          "archive_path": "migration/private-original-photo-holds/Passifloraceae/Passiflora/passiflora-lanuginosa/images/glass-root-466064726-first-photo.jpg",
+          "git_blob_sha": "6e9054f9d3dcb14f4a4cb679f730a9f3c880d75b",
+          "lane": "inat",
+          "status": "HELD",
+          "reason": "Owner permission attribution not confirmed by exact photo"
+        }
+      ]
+    }
+  ],
+  "batch_number": 2,
   "verified_but_not_installed": 0,
-  "held_by_reason": {
-    "Owner permission attribution not confirmed by exact photo": 5
-  },
-  "cumulative_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 5,
   "cumulative_held_reviewed": 5
 }

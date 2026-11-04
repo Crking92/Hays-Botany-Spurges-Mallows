@@ -153,6 +153,27 @@
       "source_review_evidence": "Live iNaturalist observation 348984741, photo 636554789, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bbc1d8bd8dc76b6182a20d6cf24e5b1d827bdf9f52abdc404fc02cdd41911f71. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera curtiflora maps to indexed species oenothera-curtiflora; specialist morphology and BONAP range deferred.",
       "sha256": "bbc1d8bd8dc76b6182a20d6cf24e5b1d827bdf9f52abdc404fc02cdd41911f71"
+    },
+    {
+      "src": "media/oenothera-curtiflora/archived-3917673ff32f4b57.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/508886200",
+      "source_page_is_exact": true,
+      "license": "OWNER PUBLIC DISPLAY PERMISSION",
+      "license_url": "https://github.com/Crking92/Hays-Botany-Public/blob/main/docs/GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION_20261103.md",
+      "source_blob_sha": "49991a852203279be93d8b544fc8d516eaee508a",
+      "role": "Slender flowering stem and overall habit; small floral anatomy not resolved",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 283221118 photo 508886200 individual source license None; applicable owner site-display permission https://github.com/Crking92/Hays-Botany-Public/blob/main/docs/GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION_20261103.md; photographer (c) Calvin King, all rights reserved; image dHash difference 0; archived source SHA 49991a852203279be93d8b544fc8d516eaee508a; exact image source https://www.inaturalist.org/photos/508886200",
+      "taxon_review_evidence": "Original species record Oenothera curtiflora linked to an original image and matching current inat photo of source taxon Oenothera curtiflora. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "3917673ff32f4b57b5ed79c2fcfc6847fc927469ac9e14bf51aaa1c97d524b52",
+      "site_display_only": true,
+      "public_reuse": false
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -168,6 +168,27 @@
       "source_review_evidence": "Live iNaturalist observation 354932630, photo 647428381, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b425c3372ed34eee7aa93a0c2e0ea35bb694a928d566209bf34e46546e152c57. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera suffulta maps to indexed species oenothera-suffulta; specialist morphology and BONAP range deferred.",
       "sha256": "b425c3372ed34eee7aa93a0c2e0ea35bb694a928d566209bf34e46546e152c57"
+    },
+    {
+      "src": "media/oenothera-suffulta/archived-0554de2017ad2d91.jpg",
+      "creator": "Glass Root Garden",
+      "source_page": "https://www.inaturalist.org/photos/644561237",
+      "source_page_is_exact": true,
+      "license": "OWNER PUBLIC DISPLAY PERMISSION",
+      "license_url": "https://github.com/Crking92/Hays-Botany-Public/blob/main/docs/GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION_20261103.md",
+      "source_blob_sha": "25f0ba67f2a3cd9a12f571d78dbae41b813a4ab7",
+      "role": "Flowering upper stem with spreading petals and long stamens; measured floral details pending",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": true,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "iNaturalist observation 353234645 photo 644561237 individual source license None; applicable owner site-display permission https://github.com/Crking92/Hays-Botany-Public/blob/main/docs/GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION_20261103.md; photographer (c) Calvin King, all rights reserved; image dHash difference 0; archived source SHA 25f0ba67f2a3cd9a12f571d78dbae41b813a4ab7; exact image source https://www.inaturalist.org/photos/644561237",
+      "taxon_review_evidence": "Original species record Oenothera suffulta linked to an original image and matching current inat photo of source taxon Oenothera suffulta. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "0554de2017ad2d91e7c50e8958c044da960f84c0f69e7947d7634552b8337056",
+      "site_display_only": true,
+      "public_reuse": false
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

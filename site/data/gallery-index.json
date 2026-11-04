@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
   "photo_species": 127,
-  "photo_count": 607,
+  "photo_count": 612,
   "entries": {
     "impatiens-capensis": {
       "count": 1,
@@ -58,7 +58,7 @@
       "first_src": "media/croton-fruticulosus/glass-root-garden-573059048-leaf-shoot.jpg"
     },
     "croton-lindheimeri": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/croton-lindheimeri/archived-f37d9e388c43b59f.jpg"
     },
     "croton-lindheimerianus": {
@@ -266,7 +266,7 @@
       "first_src": "media/callirhoe-involucrata/01-flower.jpg"
     },
     "callirhoe-leiocarpa": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/callirhoe-leiocarpa/inat-628845517.jpg"
     },
     "callirhoe-pedata": {
@@ -402,7 +402,7 @@
       "first_src": "media/oenothera-capillifolia-subsp-berlandieri/archived-a265490acdb712a8.jpg"
     },
     "oenothera-curtiflora": {
-      "count": 6,
+      "count": 7,
       "first_src": "media/oenothera-curtiflora/archived-933a8c6b2719eebb.jpg"
     },
     "oenothera-filiformis": {
@@ -462,7 +462,7 @@
       "first_src": "media/oenothera-suffrutescens/oenothera-suffrutescens-provisional-face.jpg"
     },
     "oenothera-suffulta": {
-      "count": 7,
+      "count": 8,
       "first_src": "media/oenothera-suffulta/archived-168c97db884b84ef.jpg"
     },
     "oenothera-triloba": {
@@ -482,7 +482,7 @@
       "first_src": "media/passiflora-incarnata/passiflora-incarnata-provisional-face.jpg"
     },
     "passiflora-lanuginosa": {
-      "count": 2,
+      "count": 3,
       "first_src": "media/passiflora-lanuginosa/archived-61038fe4d0a9cbf9.jpg"
     },
     "passiflora-lutea": {
