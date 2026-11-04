@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "168b44be06d6c6680993cc52ed15730d5a09281a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 268589645, photo 482807911, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 311c96060db9b0dddfb163867fa7c21f1e6229fc204652208163ae91b4f11b05. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Linum berlandieri maps to indexed species linum-berlandieri; specialist morphology and BONAP range deferred.",
-      "sha256": "311c96060db9b0dddfb163867fa7c21f1e6229fc204652208163ae91b4f11b05"
+      "sha256": "311c96060db9b0dddfb163867fa7c21f1e6229fc204652208163ae91b4f11b05",
+      "display_sha256": "b03fc1723181cd79e411d97186ef1bcb074c4ce86e8033a0d44cf8051328f5fc",
+      "display_blob_sha": "0ff3b858d656f31e9af61a12024edb27e74a854a",
+      "display_original_site_sha256": "311c96060db9b0dddfb163867fa7c21f1e6229fc204652208163ae91b4f11b05",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/linum-berlandieri/inat-487107153.jpeg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6c65b90c7642b7a7abe192c1fb766760c45b8fdd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 270828138, photo 487107153, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6a525e520499d8251ef73749fbd7f6573af4c1f5ce4f1f52008a8fda4007e3ba. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Linum berlandieri maps to indexed species linum-berlandieri; specialist morphology and BONAP range deferred.",
-      "sha256": "6a525e520499d8251ef73749fbd7f6573af4c1f5ce4f1f52008a8fda4007e3ba"
+      "sha256": "6a525e520499d8251ef73749fbd7f6573af4c1f5ce4f1f52008a8fda4007e3ba",
+      "display_sha256": "54cf6a8f0df7bc9ad31d8b4dea76164def32d1fdf3499981954764e154bee67f",
+      "display_blob_sha": "db970f07ed9d5bcbd43f3323578102efd27dd19f",
+      "display_original_site_sha256": "6a525e520499d8251ef73749fbd7f6573af4c1f5ce4f1f52008a8fda4007e3ba",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/linum-berlandieri/inat-494567852.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "29623524d687125b566a01c3b6038b16099cbb56",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 275201115, photo 494567852, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d981ed2ea0470498fef15cb01ed6ae2729979539deb38c5a2c4e3b100623e55c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Linum berlandieri maps to indexed species linum-berlandieri; specialist morphology and BONAP range deferred.",
-      "sha256": "d981ed2ea0470498fef15cb01ed6ae2729979539deb38c5a2c4e3b100623e55c"
+      "sha256": "d981ed2ea0470498fef15cb01ed6ae2729979539deb38c5a2c4e3b100623e55c",
+      "display_sha256": "8ca2e7453be33c70a9acaacaa19252d3275f3ee24f97b9da39cba9d29bdfd982",
+      "display_blob_sha": "c507d30553c39c3580f783f2b6fcb199dae94c27",
+      "display_original_site_sha256": "d981ed2ea0470498fef15cb01ed6ae2729979539deb38c5a2c4e3b100623e55c",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/linum-berlandieri/inat-507578057.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1556f7a4207164b2e945f96b3e1d6737e6a0b8d4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 282516725, photo 507578057, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9818547b58da51b4c2b8d6482c7978d5defbe965bad8fd402619f79c85536921. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Linum berlandieri maps to indexed species linum-berlandieri; specialist morphology and BONAP range deferred.",
-      "sha256": "9818547b58da51b4c2b8d6482c7978d5defbe965bad8fd402619f79c85536921"
+      "sha256": "9818547b58da51b4c2b8d6482c7978d5defbe965bad8fd402619f79c85536921",
+      "display_sha256": "476ceacc8014281a7cec69492a976bfc455c79503e062626d614ebfe0b2d03cf",
+      "display_blob_sha": "e2504df4cd184cd5e033bd5dfff4a6a525b0568b",
+      "display_original_site_sha256": "9818547b58da51b4c2b8d6482c7978d5defbe965bad8fd402619f79c85536921",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/linum-berlandieri/inat-664018763.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c3ee6f351d44e385ebad1cfb4d8715a3c60eb2bc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 363745323, photo 664018763, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6cea66eca07435ddb14accb9d10842306dc8f260f1ffa83010ee7be95ce440d5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Linum berlandieri maps to indexed species linum-berlandieri; specialist morphology and BONAP range deferred.",
-      "sha256": "6cea66eca07435ddb14accb9d10842306dc8f260f1ffa83010ee7be95ce440d5"
+      "sha256": "6cea66eca07435ddb14accb9d10842306dc8f260f1ffa83010ee7be95ce440d5",
+      "display_sha256": "b7e574f5ee548894746c01924f7cae3aaedcd86ab20b070b114f6f537e811604",
+      "display_blob_sha": "9d4a7fb437a2d14e17172d179f75acd0eed6df29",
+      "display_original_site_sha256": "6cea66eca07435ddb14accb9d10842306dc8f260f1ffa83010ee7be95ce440d5",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

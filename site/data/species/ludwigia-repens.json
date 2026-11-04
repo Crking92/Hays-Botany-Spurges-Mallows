@@ -111,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "68e25cae032891bba9df31e378aa2c201f0cc8da",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 150979855, photo 260433318, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3f2a213923c1dbd9a7242ddc397341d1c7a5b3799143529084550953a97f0e5a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia repens maps to indexed species ludwigia-repens; specialist morphology and BONAP range deferred.",
-      "sha256": "3f2a213923c1dbd9a7242ddc397341d1c7a5b3799143529084550953a97f0e5a"
+      "sha256": "3f2a213923c1dbd9a7242ddc397341d1c7a5b3799143529084550953a97f0e5a",
+      "display_sha256": "2ab7c62454a41cd14bf90ff7172dca9a8cfb29458377da3e5a16b5db5ad469e2",
+      "display_blob_sha": "f0b38d6c5ac612935631003b8ae87c048489ce0b",
+      "display_original_site_sha256": "3f2a213923c1dbd9a7242ddc397341d1c7a5b3799143529084550953a97f0e5a",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ludwigia-repens/inat-269003251.jpeg",
@@ -130,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "ba58609dac7815b3f8d0a7d47f48414eb506b9b7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 155607890, photo 269003251, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: e9b02b95b69ab5c1342917d7fd26330aeb784d3ad45fc01eec3a6e3be7870c82. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia repens maps to indexed species ludwigia-repens; specialist morphology and BONAP range deferred.",
-      "sha256": "e9b02b95b69ab5c1342917d7fd26330aeb784d3ad45fc01eec3a6e3be7870c82"
+      "sha256": "e9b02b95b69ab5c1342917d7fd26330aeb784d3ad45fc01eec3a6e3be7870c82",
+      "display_sha256": "045fddabe21728bbd55557aaf93cf70d33220054b6f1ac71f98c7d4296f61cb0",
+      "display_blob_sha": "cdb81e2ca8d608cc87fbeaedc738e871661b1543",
+      "display_original_site_sha256": "e9b02b95b69ab5c1342917d7fd26330aeb784d3ad45fc01eec3a6e3be7870c82",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ludwigia-repens/inat-270664922.jpg",
@@ -149,7 +159,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a2064c3ffb6608e13e61c218dd1b04ad9583a6cb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +167,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 156521949, photo 270664922, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: be961da13875c3558f214c182dc32d82419900a0f24e3ec3eb26d35137701329. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia repens maps to indexed species ludwigia-repens; specialist morphology and BONAP range deferred.",
-      "sha256": "be961da13875c3558f214c182dc32d82419900a0f24e3ec3eb26d35137701329"
+      "sha256": "be961da13875c3558f214c182dc32d82419900a0f24e3ec3eb26d35137701329",
+      "display_sha256": "7df3ae883eaf87ed25440a9dfea2f9ab945522b7a76e0587bcd1f7a4b8f7b13e",
+      "display_blob_sha": "271e55abd1003812e71dc25a9e5d8ac0f771f4ed",
+      "display_original_site_sha256": "be961da13875c3558f214c182dc32d82419900a0f24e3ec3eb26d35137701329",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ludwigia-repens/inat-486029891.jpeg",
@@ -168,7 +183,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "f5330d0bf4379ed7889d1530bcb0591e7f4bb37f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -176,7 +191,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 270274078, photo 486029891, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 98a38adc08fd8275558a588f66984f9250e270c9c7026238f586f35371fb45af. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia repens maps to indexed species ludwigia-repens; specialist morphology and BONAP range deferred.",
-      "sha256": "98a38adc08fd8275558a588f66984f9250e270c9c7026238f586f35371fb45af"
+      "sha256": "98a38adc08fd8275558a588f66984f9250e270c9c7026238f586f35371fb45af",
+      "display_sha256": "c2a115a0186a6e62fa7bac138de84a47e5c7599a8eb6bde9baf23da8bfd3c47b",
+      "display_blob_sha": "2a030c7a23be4d05a705a5a6ed7e832616414d65",
+      "display_original_site_sha256": "98a38adc08fd8275558a588f66984f9250e270c9c7026238f586f35371fb45af",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ludwigia-repens/inat-646076779.jpg",
@@ -187,7 +207,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e72cf24b13621e5788af68b17dc0291e40859421",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -195,7 +215,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354128168, photo 646076779, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 436db2459941422fdc235a1bc2a49572e05ad13b0afb39d57f1bc5a62dc5789a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia repens maps to indexed species ludwigia-repens; specialist morphology and BONAP range deferred.",
-      "sha256": "436db2459941422fdc235a1bc2a49572e05ad13b0afb39d57f1bc5a62dc5789a"
+      "sha256": "436db2459941422fdc235a1bc2a49572e05ad13b0afb39d57f1bc5a62dc5789a",
+      "display_sha256": "8ca700858c0439e63a1921e42018b736d07c9e89a069b890127b97c3397659c2",
+      "display_blob_sha": "037b2fcdbb9ef4a73ad6a7b47eff65aa857c9b9e",
+      "display_original_site_sha256": "436db2459941422fdc235a1bc2a49572e05ad13b0afb39d57f1bc5a62dc5789a",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -192,7 +192,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d0a2b14c81f8bfb46f041e80ee33510f6748d85e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Website-only JPEG derivative resized to fit within 1800 by 1800 pixels and compressed at quality 82. Original ZIP image retained untouched; exact original SHA-256 documented in source evidence.",
+      "modified": "Resized and recompressed web display copy; source note: Website-only JPEG derivative resized to fit within 1800 by 1800 pixels and compressed at quality 82. Original ZIP image retained untouched; exact original SHA-256 documented in source evidence.",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -200,7 +200,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae original ZIP and live source verifier",
       "source_review_evidence": "Live iNaturalist observation 396455260, photo 727049975, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: deb5467be51d3837be4e9b548e8060e45a9b2839540ea3bb1bf6d1b6ec5344c0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Euphorbiaceae ZIP contact sheets reviewed for obvious off-target organisms. Live source determination Euphorbia bicolor matches indexed species euphorbia-bicolor; formal plant diagnosis and BONAP county distribution require separate review.",
-      "sha256": "e31694ea9ab5468b95e1e5f1bbd2187a203ee8dc8010525f0a4ecdf35f42ba1e"
+      "sha256": "e31694ea9ab5468b95e1e5f1bbd2187a203ee8dc8010525f0a4ecdf35f42ba1e",
+      "display_sha256": "d981eef1ded420f54d417e31fa07fccae2bd7f75bd190b1beae51d2721ab0dfd",
+      "display_blob_sha": "016f481b49d1a48c6874c09c128e361dec3f0e12",
+      "display_original_site_sha256": "e31694ea9ab5468b95e1e5f1bbd2187a203ee8dc8010525f0a4ecdf35f42ba1e",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

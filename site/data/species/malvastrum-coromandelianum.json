@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6fcbbc3803e7fd9550172218f02b2f635c91989a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341425865, photo 621546053, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 86aef4fdc70e8915baf5ad51c2e6c01bc8eb5275f92fd24dae88e422636c4b3a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Malvastrum coromandelianum maps to indexed species malvastrum-coromandelianum; specialist morphology and BONAP range deferred.",
-      "sha256": "86aef4fdc70e8915baf5ad51c2e6c01bc8eb5275f92fd24dae88e422636c4b3a"
+      "sha256": "86aef4fdc70e8915baf5ad51c2e6c01bc8eb5275f92fd24dae88e422636c4b3a",
+      "display_sha256": "a3312f96dc1b71e5d174ca0abe3e9e8a4d6bd31cc76ac600f4d8fd17b7fb2519",
+      "display_blob_sha": "456c17616f53679c9dbf3ffc65f41b7da075ee1b",
+      "display_original_site_sha256": "86aef4fdc70e8915baf5ad51c2e6c01bc8eb5275f92fd24dae88e422636c4b3a",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/malvastrum-coromandelianum/inat-634473547.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4326f31c997a4241c35e83670abb0b3fec32b180",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347935063, photo 634473547, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a87a40d451e57f17e4314191cfdc7a374780b49b2d53d26034a4ebc688e19ce0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Malvastrum coromandelianum maps to indexed species malvastrum-coromandelianum; specialist morphology and BONAP range deferred.",
-      "sha256": "a87a40d451e57f17e4314191cfdc7a374780b49b2d53d26034a4ebc688e19ce0"
+      "sha256": "a87a40d451e57f17e4314191cfdc7a374780b49b2d53d26034a4ebc688e19ce0",
+      "display_sha256": "dd3108dbdeac89a67bc33bd904c67c0d627911c8dea53dcce777b75f281d5ae4",
+      "display_blob_sha": "043ec76bdfc28bc6db4db5aceee196a8018fec94",
+      "display_original_site_sha256": "a87a40d451e57f17e4314191cfdc7a374780b49b2d53d26034a4ebc688e19ce0",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/malvastrum-coromandelianum/inat-634882467.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "57b05d1d6bc25f6c786c1aec2be57c6cc722a50f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348141258, photo 634882467, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c697ed398b018b4c660d32184234cd20511c88112ca017b78f6fe0c9f48e8112. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Malvastrum coromandelianum maps to indexed species malvastrum-coromandelianum; specialist morphology and BONAP range deferred.",
-      "sha256": "c697ed398b018b4c660d32184234cd20511c88112ca017b78f6fe0c9f48e8112"
+      "sha256": "c697ed398b018b4c660d32184234cd20511c88112ca017b78f6fe0c9f48e8112",
+      "display_sha256": "c181e04bd2df23b24c1aff90d1a0022d2f9168d61d442e7da2172e68682cd028",
+      "display_blob_sha": "ef791bc44b238f1aad2959911d0fdd4b4e69f278",
+      "display_original_site_sha256": "c697ed398b018b4c660d32184234cd20511c88112ca017b78f6fe0c9f48e8112",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/malvastrum-coromandelianum/inat-634927078.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "0ea8b4dcf70c0923a4347505bd171ff2d0c70a18",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348163903, photo 634927078, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 93bcc783d3487be0f516fb052265d2fefd8529c19cbf314bd8e15cfdf3514298. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Malvastrum coromandelianum maps to indexed species malvastrum-coromandelianum; specialist morphology and BONAP range deferred.",
-      "sha256": "93bcc783d3487be0f516fb052265d2fefd8529c19cbf314bd8e15cfdf3514298"
+      "sha256": "93bcc783d3487be0f516fb052265d2fefd8529c19cbf314bd8e15cfdf3514298",
+      "display_sha256": "9cabbc6321ed8a0e51472b468ff3a50b5f97114fa25ebcb6bdc101cc7418e398",
+      "display_blob_sha": "95af00e495cf93e5eefdf053aa53ed861c9f2c3a",
+      "display_original_site_sha256": "93bcc783d3487be0f516fb052265d2fefd8529c19cbf314bd8e15cfdf3514298",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/malvastrum-coromandelianum/inat-635423868.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2afbcc7c5b455c39d027cf2c6e3cc099a001da83",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348413629, photo 635423868, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f2429f3f747fb0af0e51d736fcb879eea0ee9086abba2c3d71f3eaa98312d448. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Malvastrum coromandelianum maps to indexed species malvastrum-coromandelianum; specialist morphology and BONAP range deferred.",
-      "sha256": "f2429f3f747fb0af0e51d736fcb879eea0ee9086abba2c3d71f3eaa98312d448"
+      "sha256": "f2429f3f747fb0af0e51d736fcb879eea0ee9086abba2c3d71f3eaa98312d448",
+      "display_sha256": "35d73161935b1a97415ac80cbb3b47cf93e743c267aaab56637e0f18f8026e25",
+      "display_blob_sha": "73f8857666bb00f4d66875e9cfea08bfdc991630",
+      "display_original_site_sha256": "f2429f3f747fb0af0e51d736fcb879eea0ee9086abba2c3d71f3eaa98312d448",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

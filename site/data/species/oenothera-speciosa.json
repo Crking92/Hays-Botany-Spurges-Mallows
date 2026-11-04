@@ -84,7 +84,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b9b075d1a9a1f44ba2b6469f06ae9d11f5932d09",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -92,7 +92,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 340808439, photo 620273788, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 94b754a857f64f5d50d6d5545a4770e5be445d35412a2de65002bcdce4240a0e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera speciosa maps to indexed species oenothera-speciosa; specialist morphology and BONAP range deferred.",
-      "sha256": "94b754a857f64f5d50d6d5545a4770e5be445d35412a2de65002bcdce4240a0e"
+      "sha256": "94b754a857f64f5d50d6d5545a4770e5be445d35412a2de65002bcdce4240a0e",
+      "display_sha256": "b3fcca1c965a14be22ea49d6b729c8509aafb390eba7c7d8466eac833547743f",
+      "display_blob_sha": "175c5cf9a16fe5f0c736b422893e2e954cd48869",
+      "display_original_site_sha256": "94b754a857f64f5d50d6d5545a4770e5be445d35412a2de65002bcdce4240a0e",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-speciosa/inat-622176990.jpg",
@@ -103,7 +108,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "821cc7a935cb3b16db11438f8fd331dbce91034f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -111,7 +116,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 341735275, photo 622176990, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 53c8e1c3b589fc50ec1a9513f196049091d68966c91b6b8ef5d385c049040418. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera speciosa maps to indexed species oenothera-speciosa; specialist morphology and BONAP range deferred.",
-      "sha256": "53c8e1c3b589fc50ec1a9513f196049091d68966c91b6b8ef5d385c049040418"
+      "sha256": "53c8e1c3b589fc50ec1a9513f196049091d68966c91b6b8ef5d385c049040418",
+      "display_sha256": "a062f6e871167142376c075ba62820770422d48fabd0ab1a5d5c841cd45a0364",
+      "display_blob_sha": "91b07a2cffe7de6cecaa08c0e932c5b8ed8cb0ed",
+      "display_original_site_sha256": "53c8e1c3b589fc50ec1a9513f196049091d68966c91b6b8ef5d385c049040418",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-speciosa/inat-624364548.jpg",
@@ -122,7 +132,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a0a1e50f341d3ef73963a3f837f30094692eb82f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -130,7 +140,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342826167, photo 624364548, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0a3e84b8bddde822cd4018de337957e26abd3de2893d6cc73b75ab7e100d6443. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera speciosa maps to indexed species oenothera-speciosa; specialist morphology and BONAP range deferred.",
-      "sha256": "0a3e84b8bddde822cd4018de337957e26abd3de2893d6cc73b75ab7e100d6443"
+      "sha256": "0a3e84b8bddde822cd4018de337957e26abd3de2893d6cc73b75ab7e100d6443",
+      "display_sha256": "fb0e109288d8c79c4b122118c04ac792793d32842dccf6699162b8bfad8ff165",
+      "display_blob_sha": "a23fac38841e0abd79373bff8851a2d2d696cc84",
+      "display_original_site_sha256": "0a3e84b8bddde822cd4018de337957e26abd3de2893d6cc73b75ab7e100d6443",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-speciosa/inat-624756942.jpg",
@@ -141,7 +156,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6c047f9252ff39865f84a4bf715d50a6f7c13981",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -149,7 +164,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343022064, photo 624756942, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a4fb7bfe1be25d3c1d13ca25b156612600d7159557d7b4a0cef9d212fac4e860. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera speciosa maps to indexed species oenothera-speciosa; specialist morphology and BONAP range deferred.",
-      "sha256": "a4fb7bfe1be25d3c1d13ca25b156612600d7159557d7b4a0cef9d212fac4e860"
+      "sha256": "a4fb7bfe1be25d3c1d13ca25b156612600d7159557d7b4a0cef9d212fac4e860",
+      "display_sha256": "e36b209dcda50dfafdc274c5bd5d71a527d92780229420ae3058f7ee4fb340be",
+      "display_blob_sha": "b42c223706ac1722ed5f516b5f51f1886d2e95da",
+      "display_original_site_sha256": "a4fb7bfe1be25d3c1d13ca25b156612600d7159557d7b4a0cef9d212fac4e860",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-speciosa/inat-625171516.jpg",

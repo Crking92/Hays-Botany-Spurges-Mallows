@@ -68,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3cc538811f8592cb871f63875b4a9f0013f399ff",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -76,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345811994, photo 630267519, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 82cd770d046b7478c95c618ac011372be6801559e28016ff52cbba227be52e80. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera curtiflora maps to indexed species oenothera-curtiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "82cd770d046b7478c95c618ac011372be6801559e28016ff52cbba227be52e80"
+      "sha256": "82cd770d046b7478c95c618ac011372be6801559e28016ff52cbba227be52e80",
+      "display_sha256": "7b04fbdb3345be6d9ffc43914637f7a2334cccf2381201d7a1317475ac00e6e1",
+      "display_blob_sha": "c60a9781a13446095cd1481f3272af0fefc68efe",
+      "display_original_site_sha256": "82cd770d046b7478c95c618ac011372be6801559e28016ff52cbba227be52e80",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-curtiflora/inat-631502323.jpg",
@@ -106,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bd2ba81d2088438799fbfaccb593d3505ade2e94",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -114,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347630722, photo 633868222, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2ae12d8b6c88db2ef04e82bd9045368c942a0ccdcc63221e7105315c9b98b8a5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera curtiflora maps to indexed species oenothera-curtiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "2ae12d8b6c88db2ef04e82bd9045368c942a0ccdcc63221e7105315c9b98b8a5"
+      "sha256": "2ae12d8b6c88db2ef04e82bd9045368c942a0ccdcc63221e7105315c9b98b8a5",
+      "display_sha256": "b0e3751523dd0fab4021cd7e4a2f6d22551287b79cae594499e2658bebc564a3",
+      "display_blob_sha": "01ca977ed38b13b4453c6f512c4fae855243be69",
+      "display_original_site_sha256": "2ae12d8b6c88db2ef04e82bd9045368c942a0ccdcc63221e7105315c9b98b8a5",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-curtiflora/inat-634851281.jpg",
@@ -125,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9b7df5002de29dca7b4146b9376cf3407944398e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -133,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348125406, photo 634851281, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fbb8402e33acc9e01cd3e8f1c05e2815f188be92dcacc299afff4152f5f69862. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera curtiflora maps to indexed species oenothera-curtiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "fbb8402e33acc9e01cd3e8f1c05e2815f188be92dcacc299afff4152f5f69862"
+      "sha256": "fbb8402e33acc9e01cd3e8f1c05e2815f188be92dcacc299afff4152f5f69862",
+      "display_sha256": "2fe7ab5c1f7aa3b604ded834cd1b48acec2ff353b92f30a2be16e48d8f55e1f1",
+      "display_blob_sha": "a985261df3f3dfbe8f0a6b460ba63dd5ab80cec3",
+      "display_original_site_sha256": "fbb8402e33acc9e01cd3e8f1c05e2815f188be92dcacc299afff4152f5f69862",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-curtiflora/inat-636554789.jpg",
@@ -144,7 +159,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "879fb25bff383eeb6bfbb81ccc97bda8b8f6b3a3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -152,7 +167,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348984741, photo 636554789, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bbc1d8bd8dc76b6182a20d6cf24e5b1d827bdf9f52abdc404fc02cdd41911f71. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera curtiflora maps to indexed species oenothera-curtiflora; specialist morphology and BONAP range deferred.",
-      "sha256": "bbc1d8bd8dc76b6182a20d6cf24e5b1d827bdf9f52abdc404fc02cdd41911f71"
+      "sha256": "bbc1d8bd8dc76b6182a20d6cf24e5b1d827bdf9f52abdc404fc02cdd41911f71",
+      "display_sha256": "fa196ed178b0fef1baebd813349b6d1681ec196ebb5ba13ca038d2917fb17b73",
+      "display_blob_sha": "a8eb4a03c55f9b9b98ddf096d6b7feeb0dca4bd2",
+      "display_original_site_sha256": "bbc1d8bd8dc76b6182a20d6cf24e5b1d827bdf9f52abdc404fc02cdd41911f71",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-curtiflora/archived-3917673ff32f4b57.jpg",

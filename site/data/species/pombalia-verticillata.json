@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f4398a4f8609b505251e283fe9c6a34a13f736dd",
       "role": "Stem and narrow leaves (general view; diagnostic ID details deferred)",
-      "modified": "Original image bytes, no alterations",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, no alterations",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "CC BY-NC license confirmed on live individual media 636870211; actual ZIP bytes match SHA256. Photo first, detailed diagnostic morphology later.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany automated exact-photo provider and ZIP integrity check",
       "source_review_evidence": "Live iNaturalist API observation 349146394 lists photo 636870211 with photo-specific license cc-by-nc; original ZIP and remote media SHA256 match.",
       "taxon_review_evidence": "Basic general-photo check: observation taxon pombalia verticillata matches assigned species concept; uploaded contact-sheet screened for clear mismatch; specialist anatomical identification deferred.",
-      "sha256": "895e22eb7489d10d1f7f4813858adb81086d5648888dae33a3a31a3e89fed8b2"
+      "sha256": "895e22eb7489d10d1f7f4813858adb81086d5648888dae33a3a31a3e89fed8b2",
+      "display_sha256": "79f86464329da4265be94e09e1e091d4ccb14e5f1598a429964ef7cd9d228970",
+      "display_blob_sha": "294a1543fbf744c27b13af14b5b1e7a1336e5eb5",
+      "display_original_site_sha256": "895e22eb7489d10d1f7f4813858adb81086d5648888dae33a3a31a3e89fed8b2",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pombalia-verticillata/inat-645318016.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e667ab580ee525d928f6519dc64edfa0c5ba4c54",
       "role": "Narrow leaves and branching stems (general view; diagnostic ID details deferred)",
-      "modified": "Original image bytes, no alterations",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, no alterations",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "CC BY-NC license confirmed on live individual media 645318016; actual ZIP bytes match SHA256. Photo first, detailed diagnostic morphology later.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany automated exact-photo provider and ZIP integrity check",
       "source_review_evidence": "Live iNaturalist API observation 353702863 lists photo 645318016 with photo-specific license cc-by-nc; original ZIP and remote media SHA256 match.",
       "taxon_review_evidence": "Basic general-photo check: observation taxon pombalia verticillata matches assigned species concept; uploaded contact-sheet screened for clear mismatch; specialist anatomical identification deferred.",
-      "sha256": "bae0fe1c185559ac6c40be86121387db0fadb67de436418f7b72ed13983926fc"
+      "sha256": "bae0fe1c185559ac6c40be86121387db0fadb67de436418f7b72ed13983926fc",
+      "display_sha256": "da830109c5ea0281de8a90efd2b1ba85082c6f96dae6451a9497fdac69f11da8",
+      "display_blob_sha": "45278ce80b627b5880289c99f2d47ac80a3799b5",
+      "display_original_site_sha256": "bae0fe1c185559ac6c40be86121387db0fadb67de436418f7b72ed13983926fc",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pombalia-verticillata/inat-646062598.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c498185a79c2818c41611da4915a763814d8248e",
       "role": "Whole plant foliage (general view; diagnostic ID details deferred)",
-      "modified": "Original image bytes, no alterations",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, no alterations",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "CC BY-NC license confirmed on live individual media 646062598; actual ZIP bytes match SHA256. Photo first, detailed diagnostic morphology later.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany automated exact-photo provider and ZIP integrity check",
       "source_review_evidence": "Live iNaturalist API observation 354119283 lists photo 646062598 with photo-specific license cc-by-nc; original ZIP and remote media SHA256 match.",
       "taxon_review_evidence": "Basic general-photo check: observation taxon pombalia verticillata matches assigned species concept; uploaded contact-sheet screened for clear mismatch; specialist anatomical identification deferred.",
-      "sha256": "0b1fdbc12b019f6fd26109185a6f38cec0f9280d3521279b7a6ca211eea16bb8"
+      "sha256": "0b1fdbc12b019f6fd26109185a6f38cec0f9280d3521279b7a6ca211eea16bb8",
+      "display_sha256": "74968c888754e8b9dbd906b4d52b287c27d578f6da91a08e78969bb38b287e61",
+      "display_blob_sha": "2084017984aa2981bea6a886aea6cb5b5cd0f2c0",
+      "display_original_site_sha256": "0b1fdbc12b019f6fd26109185a6f38cec0f9280d3521279b7a6ca211eea16bb8",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pombalia-verticillata/inat-649444798.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0935868761e44ddced22ebeb698a9ff888b9d83a",
       "role": "Foliage and growth habit (general view; diagnostic ID details deferred)",
-      "modified": "Original image bytes, no alterations",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, no alterations",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "CC BY-NC license confirmed on live individual media 649444798; actual ZIP bytes match SHA256. Photo first, detailed diagnostic morphology later.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany automated exact-photo provider and ZIP integrity check",
       "source_review_evidence": "Live iNaturalist API observation 356132205 lists photo 649444798 with photo-specific license cc-by-nc; original ZIP and remote media SHA256 match.",
       "taxon_review_evidence": "Basic general-photo check: observation taxon pombalia verticillata matches assigned species concept; uploaded contact-sheet screened for clear mismatch; specialist anatomical identification deferred.",
-      "sha256": "0c1557be6d5011aa7dea0bcf0533941d294ed1c4261cc4c3bd579adb0517e576"
+      "sha256": "0c1557be6d5011aa7dea0bcf0533941d294ed1c4261cc4c3bd579adb0517e576",
+      "display_sha256": "27b23c762c8f845cf4a821b92a808d0fb50318d22b82d9f76627cacab37a8fa7",
+      "display_blob_sha": "3e71d0afe0b1115d7fe66384c06d41b82cb352f8",
+      "display_original_site_sha256": "0c1557be6d5011aa7dea0bcf0533941d294ed1c4261cc4c3bd579adb0517e576",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pombalia-verticillata/inat-653963060.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1316a29518c5a575858ae374286030b746efa2a1",
       "role": "Stem foliage and tiny flowers (general view; diagnostic ID details deferred)",
-      "modified": "Original image bytes, no alterations",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, no alterations",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "CC BY-NC license confirmed on live individual media 653963060; actual ZIP bytes match SHA256. Photo first, detailed diagnostic morphology later.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany automated exact-photo provider and ZIP integrity check",
       "source_review_evidence": "Live iNaturalist API observation 358480966 lists photo 653963060 with photo-specific license cc-by-nc; original ZIP and remote media SHA256 match.",
       "taxon_review_evidence": "Basic general-photo check: observation taxon pombalia verticillata matches assigned species concept; uploaded contact-sheet screened for clear mismatch; specialist anatomical identification deferred.",
-      "sha256": "de9d6da70fee9fad826e2241c94c9119c964d089e5eb48021d48a6257e946269"
+      "sha256": "de9d6da70fee9fad826e2241c94c9119c964d089e5eb48021d48a6257e946269",
+      "display_sha256": "ad015db76a5602bfc4cdc50280de9387d20b6a59219e27b8c5ec11e32c1bcb58",
+      "display_blob_sha": "ba5f056fb38da8690b674cee1d21661aa0d593c4",
+      "display_original_site_sha256": "de9d6da70fee9fad826e2241c94c9119c964d089e5eb48021d48a6257e946269",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pombalia-verticillata/archived-e96d91d39638b5d4.jpg",

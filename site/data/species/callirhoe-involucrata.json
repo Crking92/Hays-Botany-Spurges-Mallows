@@ -92,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "53cf915b56f8a300a3abcaa8b38634afaa6778af",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346190252, photo 631012285, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0f846048bab08d13f16fc50e81f2e3668ff774db5bd123eb5044b4dfc43cf394. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Callirhoe involucrata maps to indexed species callirhoe-involucrata; specialist morphology and BONAP range deferred.",
-      "sha256": "0f846048bab08d13f16fc50e81f2e3668ff774db5bd123eb5044b4dfc43cf394"
+      "sha256": "0f846048bab08d13f16fc50e81f2e3668ff774db5bd123eb5044b4dfc43cf394",
+      "display_sha256": "cf476530d24d47ed0130629cde08f7fab1d89a7c09fcbd99ed3aef250c3757fe",
+      "display_blob_sha": "bd348129b57aebf21832c3f72d37762e7abb0fee",
+      "display_original_site_sha256": "0f846048bab08d13f16fc50e81f2e3668ff774db5bd123eb5044b4dfc43cf394",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/callirhoe-involucrata/inat-632727733.jpg",
@@ -111,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a413746cf48f657b9c7a4d66514e19e913f5c90a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347054723, photo 632727733, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f0b8cc14d44226c17d8652a14c28420c63174441691f18c9fdcdbdcdeb886ba6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Callirhoe involucrata maps to indexed species callirhoe-involucrata; specialist morphology and BONAP range deferred.",
-      "sha256": "f0b8cc14d44226c17d8652a14c28420c63174441691f18c9fdcdbdcdeb886ba6"
+      "sha256": "f0b8cc14d44226c17d8652a14c28420c63174441691f18c9fdcdbdcdeb886ba6",
+      "display_sha256": "0e8310b7b028e327f713ccbe84cffc9626b1c7c64ff1f3e298c0df9f44b9d61c",
+      "display_blob_sha": "fa1b5dfdbdf0b4ed911c5de9dda4a77540e3e123",
+      "display_original_site_sha256": "f0b8cc14d44226c17d8652a14c28420c63174441691f18c9fdcdbdcdeb886ba6",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/callirhoe-involucrata/inat-632739889.jpg",
@@ -130,7 +140,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5bc46de6493085907ad2fd8562e2858e3fc66c9d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -138,7 +148,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347061048, photo 632739889, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cb71fd8a045ea2ea931a22f13f5a09a0dcf196ed6eb456e73b475bcfaf174516. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Callirhoe involucrata maps to indexed species callirhoe-involucrata; specialist morphology and BONAP range deferred.",
-      "sha256": "cb71fd8a045ea2ea931a22f13f5a09a0dcf196ed6eb456e73b475bcfaf174516"
+      "sha256": "cb71fd8a045ea2ea931a22f13f5a09a0dcf196ed6eb456e73b475bcfaf174516",
+      "display_sha256": "05e5505f6f7028219b2d4ddc594d5d9534a0b41399958dae85f360370f9e7b6d",
+      "display_blob_sha": "0efd0879ce180dce757326a4d163113045208755",
+      "display_original_site_sha256": "cb71fd8a045ea2ea931a22f13f5a09a0dcf196ed6eb456e73b475bcfaf174516",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/callirhoe-involucrata/inat-653220551.jpg",
@@ -149,7 +164,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "114da3aae4832903628bce4663d560123fd01e34",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -157,7 +172,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 358103980, photo 653220551, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a9a25d1f3179ccd4171fda4433f8e71645fd646dc169665562ab0401b0a913c0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Callirhoe involucrata maps to indexed species callirhoe-involucrata; specialist morphology and BONAP range deferred.",
-      "sha256": "a9a25d1f3179ccd4171fda4433f8e71645fd646dc169665562ab0401b0a913c0"
+      "sha256": "a9a25d1f3179ccd4171fda4433f8e71645fd646dc169665562ab0401b0a913c0",
+      "display_sha256": "4dd0b24f6bc0dbc9153a7cf4d66dec21167ffd570ee389d5a35f372a00adf0a2",
+      "display_blob_sha": "b71f4d9797a20dbda58e19282d70dabbc5c11b63",
+      "display_original_site_sha256": "a9a25d1f3179ccd4171fda4433f8e71645fd646dc169665562ab0401b0a913c0",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/callirhoe-involucrata/inat-633492030.jpg",
@@ -168,7 +188,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5acfd4e28e138b1ff12723c8181eea8c508ba29c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -176,7 +196,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347439219, photo 633492030, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 977d25f4654309194edac27ee4929e0d583adc84dfc0201bd56bd6345c148fcf. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Callirhoe involucrata lineariloba maps to indexed species callirhoe-involucrata; specialist morphology and BONAP range deferred.",
-      "sha256": "977d25f4654309194edac27ee4929e0d583adc84dfc0201bd56bd6345c148fcf"
+      "sha256": "977d25f4654309194edac27ee4929e0d583adc84dfc0201bd56bd6345c148fcf",
+      "display_sha256": "a9a97855d858b6d0d43a8ccf21a146c45e0d7d91867b97243ca031ec95d07b1a",
+      "display_blob_sha": "8425dd19df7409e4283abaa0490e9e2accc0ad0a",
+      "display_original_site_sha256": "977d25f4654309194edac27ee4929e0d583adc84dfc0201bd56bd6345c148fcf",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

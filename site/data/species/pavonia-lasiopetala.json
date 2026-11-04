@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "143a049277b0fce364fd2c69f10dce6a9f8fc630",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345097154, photo 628861725, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 493ca3d8588350f8534ea26b2074b9f6f597dec1ceea9ac577cf15d92b5bf80c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Pavonia lasiopetala maps to indexed species pavonia-lasiopetala; specialist morphology and BONAP range deferred.",
-      "sha256": "493ca3d8588350f8534ea26b2074b9f6f597dec1ceea9ac577cf15d92b5bf80c"
+      "sha256": "493ca3d8588350f8534ea26b2074b9f6f597dec1ceea9ac577cf15d92b5bf80c",
+      "display_sha256": "91475b408da3bc38d1736038dd6ad2dc67e5cad0bf5f3a2bb394a29efe6abcab",
+      "display_blob_sha": "933dcfbb6413eb3861fdfcbf80e5f58749ceb47e",
+      "display_original_site_sha256": "493ca3d8588350f8534ea26b2074b9f6f597dec1ceea9ac577cf15d92b5bf80c",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pavonia-lasiopetala/inat-630963049.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c7b2dc95c25b4d86ebbfd7c635e76c2d03aa85ff",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346224060, photo 631080445, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 45d130d888e9c61a412b87a23c4c812eb57167f9c9f39b38d839fd245274c699. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Pavonia lasiopetala maps to indexed species pavonia-lasiopetala; specialist morphology and BONAP range deferred.",
-      "sha256": "45d130d888e9c61a412b87a23c4c812eb57167f9c9f39b38d839fd245274c699"
+      "sha256": "45d130d888e9c61a412b87a23c4c812eb57167f9c9f39b38d839fd245274c699",
+      "display_sha256": "6cfad62c8ce72d9986f0b4e9c368d4088d408cea39877775c1d0179e5440b1b9",
+      "display_blob_sha": "06b67e9ef2e73bb5cca102895a9bc2aef9b8ba2e",
+      "display_original_site_sha256": "45d130d888e9c61a412b87a23c4c812eb57167f9c9f39b38d839fd245274c699",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pavonia-lasiopetala/inat-634402712.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "85729c515ae6c8fc7a886af959c72f99f142448c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 349435129, photo 637416766, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 72e7c338e7b496a8632f91588b8c3672b4a6ef947c846aba727a8247cac82ca9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Pavonia lasiopetala maps to indexed species pavonia-lasiopetala; specialist morphology and BONAP range deferred.",
-      "sha256": "72e7c338e7b496a8632f91588b8c3672b4a6ef947c846aba727a8247cac82ca9"
+      "sha256": "72e7c338e7b496a8632f91588b8c3672b4a6ef947c846aba727a8247cac82ca9",
+      "display_sha256": "99b07882b5ef02d4f3905806c185e95d38c311a6a6d55a0ba88da324668351f0",
+      "display_blob_sha": "3eade624a600b4f0406a11f874e5575d2e950146",
+      "display_original_site_sha256": "72e7c338e7b496a8632f91588b8c3672b4a6ef947c846aba727a8247cac82ca9",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/pavonia-lasiopetala/archived-6bdfa7875e0a29a6.jpg",

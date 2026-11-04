@@ -123,7 +123,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "498d955e57a4e126ffcfbc10e9f4f531f86b8aeb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -131,7 +131,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 281950029, photo 506519443, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 755eec92048dff19ad03930234b5809e25a96f808cadf6d8d807287a6da1150f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Abutilon theophrasti maps to indexed species abutilon-theophrasti; specialist morphology and BONAP range deferred.",
-      "sha256": "755eec92048dff19ad03930234b5809e25a96f808cadf6d8d807287a6da1150f"
+      "sha256": "755eec92048dff19ad03930234b5809e25a96f808cadf6d8d807287a6da1150f",
+      "display_sha256": "771c838e2c326a162c34d6deb61d3438a10367a2383f98bd1bd971f8f3fba9a8",
+      "display_blob_sha": "4cce892f6eee4986097d08568dfcb3138b5b6448",
+      "display_original_site_sha256": "755eec92048dff19ad03930234b5809e25a96f808cadf6d8d807287a6da1150f",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/abutilon-theophrasti/inat-530595463.jpg",
@@ -161,7 +166,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5f423ba77e2fbb731d3ca46b6759fcb4317fd382",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -169,7 +174,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355397208, photo 648167469, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7cb9fda74cc074a47fcda16b4cf484c7e229d33778348eb9c3b5b14a057d5335. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Abutilon theophrasti maps to indexed species abutilon-theophrasti; specialist morphology and BONAP range deferred.",
-      "sha256": "7cb9fda74cc074a47fcda16b4cf484c7e229d33778348eb9c3b5b14a057d5335"
+      "sha256": "7cb9fda74cc074a47fcda16b4cf484c7e229d33778348eb9c3b5b14a057d5335",
+      "display_sha256": "fc72eb0c93ab4ce67c32666fa626e4cb405ea50b2f55df8b440cb0e7e23edffd",
+      "display_blob_sha": "96884df012491222bd8685483901cce13485592c",
+      "display_original_site_sha256": "7cb9fda74cc074a47fcda16b4cf484c7e229d33778348eb9c3b5b14a057d5335",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/abutilon-theophrasti/inat-670599830.jpg",
@@ -180,7 +190,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a9f383db2808535e501f78549eed9f8e1255f52a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -188,7 +198,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 367222953, photo 670599830, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4881929cf9c3518977cf8308fb105467cce54a05c0dcc52c907bc2043917812b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Abutilon theophrasti maps to indexed species abutilon-theophrasti; specialist morphology and BONAP range deferred.",
-      "sha256": "4881929cf9c3518977cf8308fb105467cce54a05c0dcc52c907bc2043917812b"
+      "sha256": "4881929cf9c3518977cf8308fb105467cce54a05c0dcc52c907bc2043917812b",
+      "display_sha256": "e783873f954cbbd04d11a0dd70ea9dc985a36f6b730b3141ddf2b2dfacebd1d0",
+      "display_blob_sha": "29cdcc5f5775c22755abf83220e06e019d31bfb5",
+      "display_original_site_sha256": "4881929cf9c3518977cf8308fb105467cce54a05c0dcc52c907bc2043917812b",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

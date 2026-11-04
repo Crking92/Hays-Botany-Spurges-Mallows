@@ -134,7 +134,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "54702effe3076a94e53c4f86331b95c0d1259bae",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Website-only JPEG derivative resized to fit within 1800 by 1800 pixels and compressed at quality 82. Original ZIP image retained untouched; exact original SHA-256 documented in source evidence.",
+      "modified": "Resized and recompressed web display copy; source note: Website-only JPEG derivative resized to fit within 1800 by 1800 pixels and compressed at quality 82. Original ZIP image retained untouched; exact original SHA-256 documented in source evidence.",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +142,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae original ZIP and live source verifier",
       "source_review_evidence": "Live iNaturalist observation 353604290, photo 645154574, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 847b2f4d42dfbad419fcfb1e4f5701317f4d4897e11abdf46c02f06df0a16c23. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Euphorbiaceae ZIP contact sheets reviewed for obvious off-target organisms. Live source determination Euphorbia dentata matches indexed species euphorbia-dentata; formal plant diagnosis and BONAP county distribution require separate review.",
-      "sha256": "df06234a65f362dc84fef512e52259f73b8e990078af56a402702e0efe41b0f9"
+      "sha256": "df06234a65f362dc84fef512e52259f73b8e990078af56a402702e0efe41b0f9",
+      "display_sha256": "71a79be59378af424b2a0fb49b4218a0795bcdb778a2cc8bcd2b847827d72f23",
+      "display_blob_sha": "8fee976bc5992b3d796b414bc8c319acd75f0f66",
+      "display_original_site_sha256": "df06234a65f362dc84fef512e52259f73b8e990078af56a402702e0efe41b0f9",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/euphorbia-dentata/inat-651050781-web.jpg",

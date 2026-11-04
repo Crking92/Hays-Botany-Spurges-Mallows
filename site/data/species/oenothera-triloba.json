@@ -87,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8938f468fa99b88fc1bf146559b2711ee1a5fa61",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -95,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342425466, photo 623572815, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c2f08107d67ee88285d0c14b2a47388ce5025e4789cce75d827eb276083167d4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera triloba maps to indexed species oenothera-triloba; specialist morphology and BONAP range deferred.",
-      "sha256": "c2f08107d67ee88285d0c14b2a47388ce5025e4789cce75d827eb276083167d4"
+      "sha256": "c2f08107d67ee88285d0c14b2a47388ce5025e4789cce75d827eb276083167d4",
+      "display_sha256": "7a588946413d7735cea67e3babc83c6eb0f0e9c1377ee0d277ea839675338857",
+      "display_blob_sha": "9587f8859c81951896999c4bc8d789383042d32e",
+      "display_original_site_sha256": "c2f08107d67ee88285d0c14b2a47388ce5025e4789cce75d827eb276083167d4",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-triloba/inat-623890876.jpg",
@@ -106,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "55238de78e5bca2f222a2673ba52d1b2db8b496a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -114,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342581483, photo 623890876, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 413c0625dcb3866e963f9960e54699baa2003a76477c76032f8d3c9cba974d0c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera triloba maps to indexed species oenothera-triloba; specialist morphology and BONAP range deferred.",
-      "sha256": "413c0625dcb3866e963f9960e54699baa2003a76477c76032f8d3c9cba974d0c"
+      "sha256": "413c0625dcb3866e963f9960e54699baa2003a76477c76032f8d3c9cba974d0c",
+      "display_sha256": "f2924b3750eda5659df9a89d8ce634accf1ec6af3d476f5d0fe1f21719af5c0e",
+      "display_blob_sha": "5af99ca3b48c981286e6825baa8ab89be806425a",
+      "display_original_site_sha256": "413c0625dcb3866e963f9960e54699baa2003a76477c76032f8d3c9cba974d0c",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-triloba/inat-628672837.jpg",
@@ -125,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "2894eb1cdcc51f54c07851910719e2a7c2dffefe",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -133,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345002274, photo 628672837, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 32d94478020af940becc57eb0e2839b5efd2d2df16f484eb91629e514fd28b1d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera triloba maps to indexed species oenothera-triloba; specialist morphology and BONAP range deferred.",
-      "sha256": "32d94478020af940becc57eb0e2839b5efd2d2df16f484eb91629e514fd28b1d"
+      "sha256": "32d94478020af940becc57eb0e2839b5efd2d2df16f484eb91629e514fd28b1d",
+      "display_sha256": "c85ea31db229959a54a0a2b1d5763ead151ab7030020a72364e1ae59a40e93c3",
+      "display_blob_sha": "44a3222620aacb09080b6437b5c1d496395e0e96",
+      "display_original_site_sha256": "32d94478020af940becc57eb0e2839b5efd2d2df16f484eb91629e514fd28b1d",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-triloba/inat-629470082.jpg",
@@ -144,7 +159,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9f08eafef979137dbb5210878d2704dbdf3e56f4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -152,7 +167,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345405219, photo 629470082, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f30ae47d390246fe3a4092fe1708d4943d7fb41dd76e3a034c30cf0230bdca99. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera triloba maps to indexed species oenothera-triloba; specialist morphology and BONAP range deferred.",
-      "sha256": "f30ae47d390246fe3a4092fe1708d4943d7fb41dd76e3a034c30cf0230bdca99"
+      "sha256": "f30ae47d390246fe3a4092fe1708d4943d7fb41dd76e3a034c30cf0230bdca99",
+      "display_sha256": "dfb24bb37f3bf95466c1769dfa9926035f6a3c85d32e9daa0b6c649a6845cf21",
+      "display_blob_sha": "4293ecb06cd209e7bc01b22571699291e91df7de",
+      "display_original_site_sha256": "f30ae47d390246fe3a4092fe1708d4943d7fb41dd76e3a034c30cf0230bdca99",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-triloba/inat-630812496.jpg",
@@ -163,7 +183,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "43436b28d15f4628be0fbc8f5cdbab8ca69a576d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -171,7 +191,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346088627, photo 630812496, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f9494efe25e057712aa039855bc8b6db7b8f7245f5e40679ad2644df462023b3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera triloba maps to indexed species oenothera-triloba; specialist morphology and BONAP range deferred.",
-      "sha256": "f9494efe25e057712aa039855bc8b6db7b8f7245f5e40679ad2644df462023b3"
+      "sha256": "f9494efe25e057712aa039855bc8b6db7b8f7245f5e40679ad2644df462023b3",
+      "display_sha256": "37cf89fef8994153ae39c3bebf3a0bb6de052cbbe323fab100cc95c7a92b3375",
+      "display_blob_sha": "e2b27ceb5ea6659a4c3126a98cf472518207f9fd",
+      "display_original_site_sha256": "f9494efe25e057712aa039855bc8b6db7b8f7245f5e40679ad2644df462023b3",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -147,7 +147,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "38a2722f481a1a1cfbb278152b221df6cc15e9d3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -155,7 +155,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346827682, photo 632274952, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dc9084fb0df465c3595bb0cd9d1d8b06f61c71ac58b2e85330b34b5130004fe3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Abutilon fruticosum maps to indexed species abutilon-fruticosum; specialist morphology and BONAP range deferred.",
-      "sha256": "dc9084fb0df465c3595bb0cd9d1d8b06f61c71ac58b2e85330b34b5130004fe3"
+      "sha256": "dc9084fb0df465c3595bb0cd9d1d8b06f61c71ac58b2e85330b34b5130004fe3",
+      "display_sha256": "16e61d37512a1d55942e4c5b10d1401763b9579554ae14369bab7844d56c7dbf",
+      "display_blob_sha": "b01e822c67508c72b9d569861501fefddb5508a4",
+      "display_original_site_sha256": "dc9084fb0df465c3595bb0cd9d1d8b06f61c71ac58b2e85330b34b5130004fe3",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/abutilon-fruticosum/inat-632802529.jpg",
@@ -166,7 +171,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c44739a22ba0314d13966d4aed087a89f72d62eb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -174,7 +179,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347092522, photo 632802529, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5e7edb2f4d0072d306a9dad9f5b9892c65ab33372f9a8bd80f70130c8e22cb84. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Abutilon fruticosum maps to indexed species abutilon-fruticosum; specialist morphology and BONAP range deferred.",
-      "sha256": "5e7edb2f4d0072d306a9dad9f5b9892c65ab33372f9a8bd80f70130c8e22cb84"
+      "sha256": "5e7edb2f4d0072d306a9dad9f5b9892c65ab33372f9a8bd80f70130c8e22cb84",
+      "display_sha256": "3e5cc278fd61ed118e3c524fa5fd5c541a7c9f88ef735a1ed72dd06b72f75773",
+      "display_blob_sha": "e72d771f3dadf0b3576db7ac27add7c8eeabdb3a",
+      "display_original_site_sha256": "5e7edb2f4d0072d306a9dad9f5b9892c65ab33372f9a8bd80f70130c8e22cb84",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/abutilon-fruticosum/inat-637028029.jpg",
@@ -185,7 +195,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b98796d3fc0829452bf9603894af2f32e15c13d8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -193,7 +203,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 349226499, photo 637028029, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5104284d381be339dd686a12b11f0c18e12b6f3eb7331f810301da05073f471e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Abutilon fruticosum maps to indexed species abutilon-fruticosum; specialist morphology and BONAP range deferred.",
-      "sha256": "5104284d381be339dd686a12b11f0c18e12b6f3eb7331f810301da05073f471e"
+      "sha256": "5104284d381be339dd686a12b11f0c18e12b6f3eb7331f810301da05073f471e",
+      "display_sha256": "03cc25595d32d357f83d0534a40da2367d893fee90ebe7376dac8dad781f2872",
+      "display_blob_sha": "7f0b3cabb0b7e5a2da41c3854af658e03fd9dad9",
+      "display_original_site_sha256": "5104284d381be339dd686a12b11f0c18e12b6f3eb7331f810301da05073f471e",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

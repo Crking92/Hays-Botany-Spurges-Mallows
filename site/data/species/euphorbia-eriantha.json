@@ -153,7 +153,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4f75e3587ef4b7e634c515ca0cd34ee607884a8f",
       "role": "Exact-species photographic stem/leaf/hairy-fruit features checked; gland fringe and loose seed not resolved",
-      "modified": "Historical archived photograph; no new changes.",
+      "modified": "Resized and recompressed web display copy; source note: Historical archived photograph; no new changes.",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -161,7 +161,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 407666347 photo 749199014 individual CC code cc-by-nc; photographer (c) yamstress, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 4f75e3587ef4b7e634c515ca0cd34ee607884a8f; exact image source https://www.inaturalist.org/photos/749199014",
       "taxon_review_evidence": "Original species record Euphorbia eriantha linked to an original image and matching current inat photo of source taxon Euphorbia eriantha. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "e588813843d97daf36f39272705e6d4a18770c3d753288204de51225821344c4"
+      "sha256": "e588813843d97daf36f39272705e6d4a18770c3d753288204de51225821344c4",
+      "display_sha256": "38b5e028ff4209b587bc5e00eb2cc555c2d6fd506addb87ce7f1354fb3bc664e",
+      "display_blob_sha": "b1f091a1ec18f612f14d56f4a265f7cd6ede6b23",
+      "display_original_site_sha256": "e588813843d97daf36f39272705e6d4a18770c3d753288204de51225821344c4",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/euphorbia-eriantha/inat-360540085-web.jpg",

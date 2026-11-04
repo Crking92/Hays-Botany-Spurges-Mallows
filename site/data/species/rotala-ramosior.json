@@ -77,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "63ea7403a603f6283aa30fee4f289fb1cea7ba28",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +85,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 83848383, photo 137743297, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 35f9e2139c64ccb0715c1cbe47dcb38c42c17e7e34444ed46cd5fc9466744c0c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Rotala ramosior maps to indexed species rotala-ramosior; specialist morphology and BONAP range deferred.",
-      "sha256": "35f9e2139c64ccb0715c1cbe47dcb38c42c17e7e34444ed46cd5fc9466744c0c"
+      "sha256": "35f9e2139c64ccb0715c1cbe47dcb38c42c17e7e34444ed46cd5fc9466744c0c",
+      "display_sha256": "e235fbd6fa2467a478590c8ced8d1b27b34b04e08213b087228db31e50252b7a",
+      "display_blob_sha": "ce0ca1fd4efe45ae2c769cf4d9de3cae39ab6837",
+      "display_original_site_sha256": "35f9e2139c64ccb0715c1cbe47dcb38c42c17e7e34444ed46cd5fc9466744c0c",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rotala-ramosior/inat-150280102.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "41a9acf8b7619254158c8522d8216906b6b9bc63",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 90941727, photo 150280102, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2b3a49d693c746cc89fb4b881d1f206bc503e63d5cdf85f14c7b6d5e757f8c8b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Rotala ramosior maps to indexed species rotala-ramosior; specialist morphology and BONAP range deferred.",
-      "sha256": "2b3a49d693c746cc89fb4b881d1f206bc503e63d5cdf85f14c7b6d5e757f8c8b"
+      "sha256": "2b3a49d693c746cc89fb4b881d1f206bc503e63d5cdf85f14c7b6d5e757f8c8b",
+      "display_sha256": "ee4f519662aaeff04b69c8d878c94cf354441d2758d734304ee60107732102bb",
+      "display_blob_sha": "ea508c93e6c8d701e253a50d580643d4c4f36894",
+      "display_original_site_sha256": "2b3a49d693c746cc89fb4b881d1f206bc503e63d5cdf85f14c7b6d5e757f8c8b",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rotala-ramosior/inat-293836295.jpeg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fd97ea388fde219657171a66e88b58ce2bd45ba5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 169485156, photo 293836295, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 86f89e76643c4721ebd0300995428e5c5d20382d431a552e779dcafc9fbf6300. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Rotala ramosior maps to indexed species rotala-ramosior; specialist morphology and BONAP range deferred.",
-      "sha256": "86f89e76643c4721ebd0300995428e5c5d20382d431a552e779dcafc9fbf6300"
+      "sha256": "86f89e76643c4721ebd0300995428e5c5d20382d431a552e779dcafc9fbf6300",
+      "display_sha256": "82a1211f4df66b4b5d07874f973244fcc861b7915063c58da0cc0ad3e8fd021c",
+      "display_blob_sha": "69fa5ac5e50c3c2e30ad3c7e840f11b7a2839c2f",
+      "display_original_site_sha256": "86f89e76643c4721ebd0300995428e5c5d20382d431a552e779dcafc9fbf6300",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rotala-ramosior/inat-423393652.jpg",
@@ -153,7 +168,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "32561904cf4b6b41aa8cb82986cdd3a290a8c9c9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -161,7 +176,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 315580238, photo 570097769, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2df08b53d97ab2d2d38a71815c1fb96c4ccc7ceba716b3bde99d80745b15458c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Rotala ramosior maps to indexed species rotala-ramosior; specialist morphology and BONAP range deferred.",
-      "sha256": "2df08b53d97ab2d2d38a71815c1fb96c4ccc7ceba716b3bde99d80745b15458c"
+      "sha256": "2df08b53d97ab2d2d38a71815c1fb96c4ccc7ceba716b3bde99d80745b15458c",
+      "display_sha256": "b93d45c6b846b8ed3e51d101388cfa54eb6dfae58f54ab9705fcb8c9c9c7c65a",
+      "display_blob_sha": "770404ff2ea1f88aa0d7fa323a723b2037ffb8f7",
+      "display_original_site_sha256": "2df08b53d97ab2d2d38a71815c1fb96c4ccc7ceba716b3bde99d80745b15458c",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

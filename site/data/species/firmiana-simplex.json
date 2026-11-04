@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c577761fd4272a300486e3acd62701aa054eb57d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 349260161, photo 637091657, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e2f1904d0c18a575720088ae07da19f0b880cba973696e6b878cf31ae23893be. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Firmiana simplex maps to indexed species firmiana-simplex; specialist morphology and BONAP range deferred.",
-      "sha256": "e2f1904d0c18a575720088ae07da19f0b880cba973696e6b878cf31ae23893be"
+      "sha256": "e2f1904d0c18a575720088ae07da19f0b880cba973696e6b878cf31ae23893be",
+      "display_sha256": "a64bb2964daa532357af2f547600083e5dd8b588e23396a9cb5d6d6c2c3da565",
+      "display_blob_sha": "5bbeb4230f757d964e2eecac23d9ed449717c248",
+      "display_original_site_sha256": "e2f1904d0c18a575720088ae07da19f0b880cba973696e6b878cf31ae23893be",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/firmiana-simplex/inat-645711781.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0a0b2632c62905ecd360afde3d0abd82d32b5626",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353926579, photo 645711781, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: effd82dafc2306733584c3f1ca9e42946263e0bbdf90408a3d72935d220ad8f1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Firmiana simplex maps to indexed species firmiana-simplex; specialist morphology and BONAP range deferred.",
-      "sha256": "effd82dafc2306733584c3f1ca9e42946263e0bbdf90408a3d72935d220ad8f1"
+      "sha256": "effd82dafc2306733584c3f1ca9e42946263e0bbdf90408a3d72935d220ad8f1",
+      "display_sha256": "48f5410c6c98a03418203f6875b020d5cdd2cd55757a4136872b4569cf3b76a2",
+      "display_blob_sha": "75c73b14245eb247db6dfa3966cff56a0f3ca914",
+      "display_original_site_sha256": "effd82dafc2306733584c3f1ca9e42946263e0bbdf90408a3d72935d220ad8f1",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/firmiana-simplex/inat-645747946.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cbf07d4345e662602353e96e6bec2133efd1b9a5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353946541, photo 645747946, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f760269f07f5005747864955fb04322980b492da8985738110e4f6714b220103. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Firmiana simplex maps to indexed species firmiana-simplex; specialist morphology and BONAP range deferred.",
-      "sha256": "f760269f07f5005747864955fb04322980b492da8985738110e4f6714b220103"
+      "sha256": "f760269f07f5005747864955fb04322980b492da8985738110e4f6714b220103",
+      "display_sha256": "8fe1d87361338c09806d0fd21d2c7183ee109c41f88b3898f79c1cf849c58f43",
+      "display_blob_sha": "aac82e288d114049573c93d2deb24d52b560df81",
+      "display_original_site_sha256": "f760269f07f5005747864955fb04322980b492da8985738110e4f6714b220103",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/firmiana-simplex/inat-652059277.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3cea2da337007c5a5c07e53140aeebd11b3455d0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 357501238, photo 652059277, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 41d719f5e5e44d4e64705543e34b1f74aaa85c9eca138eacf46baaeb048810f5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Firmiana simplex maps to indexed species firmiana-simplex; specialist morphology and BONAP range deferred.",
-      "sha256": "41d719f5e5e44d4e64705543e34b1f74aaa85c9eca138eacf46baaeb048810f5"
+      "sha256": "41d719f5e5e44d4e64705543e34b1f74aaa85c9eca138eacf46baaeb048810f5",
+      "display_sha256": "90befccb80225b822caaafd6333479d0f4b86e434c855f1ae481334ddc0e381d",
+      "display_blob_sha": "7ae44651c2f8fba604735b17db8ce48dc5bcff66",
+      "display_original_site_sha256": "41d719f5e5e44d4e64705543e34b1f74aaa85c9eca138eacf46baaeb048810f5",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

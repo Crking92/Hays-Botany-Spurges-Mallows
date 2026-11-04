@@ -111,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6d027c0b32a98e2c14a8b0e5314bf10ef5d85b09",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 4102726, photo 4874100, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ff0fc21b3eae1ea5936ade35ed4c8ff78cffb79d12061ede3e8cd02481e3a326. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera jamesii maps to indexed species oenothera-jamesii; specialist morphology and BONAP range deferred.",
-      "sha256": "ff0fc21b3eae1ea5936ade35ed4c8ff78cffb79d12061ede3e8cd02481e3a326"
+      "sha256": "ff0fc21b3eae1ea5936ade35ed4c8ff78cffb79d12061ede3e8cd02481e3a326",
+      "display_sha256": "af608a40e963777ca2300d052be348320e33e84f4072402c7c4b61c3da8b91ab",
+      "display_blob_sha": "cdf72d1f7902d7ab76300c03f3a65e3c4a2c172e",
+      "display_original_site_sha256": "ff0fc21b3eae1ea5936ade35ed4c8ff78cffb79d12061ede3e8cd02481e3a326",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-jamesii/inat-86683793.jpg",

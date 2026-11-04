@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "496737609a44a7d1302179453b0bdda8b75157af",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 367544274 and photo 671219264 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 d257e29621de291ee4c2f098c64bba1a3a6204989660a1801e08b5c3936688db; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/671219264/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Impatiens capensis' matches this assigned family species card impatiens-capensis. Specialist morphology/field characters deferred.",
-      "sha256": "d257e29621de291ee4c2f098c64bba1a3a6204989660a1801e08b5c3936688db"
+      "sha256": "d257e29621de291ee4c2f098c64bba1a3a6204989660a1801e08b5c3936688db",
+      "display_sha256": "92ff909075b1692553f6198280b51d1575d97b6b9241cfdd24d8a21f162295e8",
+      "display_blob_sha": "145b9133edcde74cff3f478400b35e9109c15c1b",
+      "display_original_site_sha256": "d257e29621de291ee4c2f098c64bba1a3a6204989660a1801e08b5c3936688db",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/impatiens-capensis/inat-673340427.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b0cafb96115bae1e372683f2881dd1406428e439",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 368650922 and photo 673340427 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 57495d138a02d471898eae6ae0b068161f4d717ae42b1446446caffc1081d36b; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/673340427/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Impatiens capensis' matches this assigned family species card impatiens-capensis. Specialist morphology/field characters deferred.",
-      "sha256": "57495d138a02d471898eae6ae0b068161f4d717ae42b1446446caffc1081d36b"
+      "sha256": "57495d138a02d471898eae6ae0b068161f4d717ae42b1446446caffc1081d36b",
+      "display_sha256": "214f9768db3361dde9d2a8af6dd419437518e912a17b56366590d575917c6b1a",
+      "display_blob_sha": "9ef514808caca5c7c5aa2eb55db7411e06b3e0ca",
+      "display_original_site_sha256": "57495d138a02d471898eae6ae0b068161f4d717ae42b1446446caffc1081d36b",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/impatiens-capensis/inat-674631893.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8ebce9df04097e9e93c918588a06c112a5ffa426",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 369332870 and photo 674631893 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 2b513bf567c266cee85258164e6ccfc78b06283197d96971cbe4430096e6c655; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/674631893/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Impatiens capensis' matches this assigned family species card impatiens-capensis. Specialist morphology/field characters deferred.",
-      "sha256": "2b513bf567c266cee85258164e6ccfc78b06283197d96971cbe4430096e6c655"
+      "sha256": "2b513bf567c266cee85258164e6ccfc78b06283197d96971cbe4430096e6c655",
+      "display_sha256": "77fb104319868098a484bef7fce79e936cc722650e0db36d1f57233db0c3a52e",
+      "display_blob_sha": "ae5f745daf1fd3c77bbf578c51d4d66f942e11cd",
+      "display_original_site_sha256": "2b513bf567c266cee85258164e6ccfc78b06283197d96971cbe4430096e6c655",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/impatiens-capensis/inat-677229469.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "28de15228bc2452e52fb565c217be7723cca8e60",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 370697345 and photo 677229469 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 e6610285fb19393b8bb7d83354f539f957f6bbd23af1bcfc9a8ee11abad98eae; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/677229469/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Impatiens capensis' matches this assigned family species card impatiens-capensis. Specialist morphology/field characters deferred.",
-      "sha256": "e6610285fb19393b8bb7d83354f539f957f6bbd23af1bcfc9a8ee11abad98eae"
+      "sha256": "e6610285fb19393b8bb7d83354f539f957f6bbd23af1bcfc9a8ee11abad98eae",
+      "display_sha256": "118d50f8faee55dcae6312fe08d9fe7577e1d0a4eeedf77d53c297e92079d971",
+      "display_blob_sha": "46981d0a747e05222afe04c5639850ef9897cb07",
+      "display_original_site_sha256": "e6610285fb19393b8bb7d83354f539f957f6bbd23af1bcfc9a8ee11abad98eae",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/impatiens-capensis/inat-677385685.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "fc566eb8cd2297dcd6adf2e0583701e1bf6d554f",
       "role": "General field photograph, no anatomy claims",
-      "modified": "Original source photo; unaltered",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo; unaltered",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Original image from user ZIP independently matched against current licensed original source bytes, iNaturalist individual-photo reuse rights and basic taxon identity; detailed anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany family ZIP exact-original source verifier",
       "source_review_evidence": "Exact iNaturalist observation 370775893 and photo 677385685 checked individually for current cc-by-nc rights, creator from live exact-photo attribution, and identical SHA256 0a12b250632083ce520cc521eff82e3f51c04b4516442818536221a3c4eea1bc; source photograph https://inaturalist-open-data.s3.amazonaws.com/photos/677385685/original.jpg.",
       "taxon_review_evidence": "Original ZIP contact sheets visually screened for field identification and useful whole-plant, foliage, flowers and fruit, with uncertain morphology held. Live source taxon 'Impatiens capensis' matches this assigned family species card impatiens-capensis. Specialist morphology/field characters deferred.",
-      "sha256": "0a12b250632083ce520cc521eff82e3f51c04b4516442818536221a3c4eea1bc"
+      "sha256": "0a12b250632083ce520cc521eff82e3f51c04b4516442818536221a3c4eea1bc",
+      "display_sha256": "86d9629f52a48c66bc56fb8d55cdb0de810ba32c6a8f917bc98ebed1a9992714",
+      "display_blob_sha": "115185f20f4893f1463f6bd01072cbd2fb98ab7d",
+      "display_original_site_sha256": "0a12b250632083ce520cc521eff82e3f51c04b4516442818536221a3c4eea1bc",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

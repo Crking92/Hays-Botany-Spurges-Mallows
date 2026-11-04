@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "417b401d4baae4ae0d4172c8a2838fd594ca879d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 221154069, photo 393275190, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5b758375f2b9bc398e285d4f2af3f76f7084800b53a442fbc1470f29a0c384ed. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera glaucifolia maps to indexed species oenothera-glaucifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "5b758375f2b9bc398e285d4f2af3f76f7084800b53a442fbc1470f29a0c384ed"
+      "sha256": "5b758375f2b9bc398e285d4f2af3f76f7084800b53a442fbc1470f29a0c384ed",
+      "display_sha256": "3196261a5d939cba4258f1dd76997f844c816fee19de09fa5b1e7bc9b2c181c9",
+      "display_blob_sha": "093d53f53fdf88b96dba68b3eaa850f3881855d4",
+      "display_original_site_sha256": "5b758375f2b9bc398e285d4f2af3f76f7084800b53a442fbc1470f29a0c384ed",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-glaucifolia/inat-400775402.jpg",
@@ -96,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "021ba54370e0ecbec78f810c86a79bc6a1a4735f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 298049822, photo 536829336, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 52aa48ea4a8b8c33547703955f5f5e13ac807e3c7c8f829138c7d60940a19019. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera glaucifolia maps to indexed species oenothera-glaucifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "52aa48ea4a8b8c33547703955f5f5e13ac807e3c7c8f829138c7d60940a19019"
+      "sha256": "52aa48ea4a8b8c33547703955f5f5e13ac807e3c7c8f829138c7d60940a19019",
+      "display_sha256": "d0a4d82fd53f84fa36b16a0af74a23b05b676f8ca38907da96a7e3c002f3ef82",
+      "display_blob_sha": "4a76dee0673fc42f9cd1910852e66fd2f36062f3",
+      "display_original_site_sha256": "52aa48ea4a8b8c33547703955f5f5e13ac807e3c7c8f829138c7d60940a19019",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-glaucifolia/inat-743021501.jpg",
@@ -115,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4aacd636e500ec88abf7a4cf83312b0e9e2247ab",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 404591074, photo 743021501, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 09780946eaa5ffff3cec29f8b41010778702f0bf1c92722b5f1935e208938343. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera glaucifolia maps to indexed species oenothera-glaucifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "09780946eaa5ffff3cec29f8b41010778702f0bf1c92722b5f1935e208938343"
+      "sha256": "09780946eaa5ffff3cec29f8b41010778702f0bf1c92722b5f1935e208938343",
+      "display_sha256": "397f2080567cbd064be0a403f99d860780a533b2da18e43361363fa3e2bd1ca3",
+      "display_blob_sha": "6fdeee29bb4eebd12b5f451c9ff5b6e5eb69a2a3",
+      "display_original_site_sha256": "09780946eaa5ffff3cec29f8b41010778702f0bf1c92722b5f1935e208938343",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

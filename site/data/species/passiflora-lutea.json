@@ -96,7 +96,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "50ff2bdce68cf0fbc315f25d0a1763ae757f0326",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +104,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 341460085, photo 621616681, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3f344f2c741e22867da4572d595b3dd079f06836b788168bcafc41fcdb758821. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora lutea maps to indexed species passiflora-lutea; specialist morphology and BONAP range deferred.",
-      "sha256": "3f344f2c741e22867da4572d595b3dd079f06836b788168bcafc41fcdb758821"
+      "sha256": "3f344f2c741e22867da4572d595b3dd079f06836b788168bcafc41fcdb758821",
+      "display_sha256": "16bbdf52c89a848fd267c892606b6e4d0a065ae4a730521f470b02c5fc904b58",
+      "display_blob_sha": "18c308523e722f69a5ea9559416e9e6c62bcd0ce",
+      "display_original_site_sha256": "3f344f2c741e22867da4572d595b3dd079f06836b788168bcafc41fcdb758821",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-lutea/inat-621988664.jpg",
@@ -115,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "2abe390e0d0370f1bde3323ee0b66cdb9749fc11",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +128,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 341640836, photo 621988664, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4bcc8a1bad0a4b62774af18b7c53abd5cded3727383f6a32431531b9a6f5f851. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora lutea maps to indexed species passiflora-lutea; specialist morphology and BONAP range deferred.",
-      "sha256": "4bcc8a1bad0a4b62774af18b7c53abd5cded3727383f6a32431531b9a6f5f851"
+      "sha256": "4bcc8a1bad0a4b62774af18b7c53abd5cded3727383f6a32431531b9a6f5f851",
+      "display_sha256": "6c8bb926e2d08cb15d44d38dd25ad048b2aa0305e35236a683390ce34297ff72",
+      "display_blob_sha": "6c9ba537f9650b4d7db242d07f855cde478facd2",
+      "display_original_site_sha256": "4bcc8a1bad0a4b62774af18b7c53abd5cded3727383f6a32431531b9a6f5f851",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-lutea/inat-627739850.jpg",
@@ -134,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cc84ed4ca1ec511f69b3da1eaba9536bc6afa55b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +152,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 344518642, photo 627739850, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 22803e3f9f6b4e746854b7b099ea307f0f84cc42605c072dfe1656a488e03b7b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora lutea maps to indexed species passiflora-lutea; specialist morphology and BONAP range deferred.",
-      "sha256": "22803e3f9f6b4e746854b7b099ea307f0f84cc42605c072dfe1656a488e03b7b"
+      "sha256": "22803e3f9f6b4e746854b7b099ea307f0f84cc42605c072dfe1656a488e03b7b",
+      "display_sha256": "2777df6d5590fcf90943d3a89bd407bbf3b8bcfeef52cbf91d76a46a608d8439",
+      "display_blob_sha": "e9b1adf3d6aa244af771ecf7a93a288c2b7f25fd",
+      "display_original_site_sha256": "22803e3f9f6b4e746854b7b099ea307f0f84cc42605c072dfe1656a488e03b7b",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-lutea/inat-628246083.jpg",
@@ -153,7 +168,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e159f8c80bb5a4abcabd53674e368cc14f51781a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -161,7 +176,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 344783290, photo 628246083, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f7ca8df979929ba837d73ae678cf45bb9a445c8fc49e48dfd019884dd30d625a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora lutea maps to indexed species passiflora-lutea; specialist morphology and BONAP range deferred.",
-      "sha256": "f7ca8df979929ba837d73ae678cf45bb9a445c8fc49e48dfd019884dd30d625a"
+      "sha256": "f7ca8df979929ba837d73ae678cf45bb9a445c8fc49e48dfd019884dd30d625a",
+      "display_sha256": "f1910c89902cb4b579a35d751953e6fdc1ef01efd75e8d62fcb07998b6cd5f45",
+      "display_blob_sha": "2d3734693159b3c61c7df6c6e4bb0f05d150d63c",
+      "display_original_site_sha256": "f7ca8df979929ba837d73ae678cf45bb9a445c8fc49e48dfd019884dd30d625a",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-lutea/inat-629499104.jpg",
@@ -172,7 +192,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "8c25f2a6ea5f14ca342ce8cc5cd1627a8dcd545d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -180,7 +200,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 345418643, photo 629499104, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: 62a8c324a13bf2fe6358198ef533a58bfe537f72e398012536a21885943123b3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora lutea maps to indexed species passiflora-lutea; specialist morphology and BONAP range deferred.",
-      "sha256": "62a8c324a13bf2fe6358198ef533a58bfe537f72e398012536a21885943123b3"
+      "sha256": "62a8c324a13bf2fe6358198ef533a58bfe537f72e398012536a21885943123b3",
+      "display_sha256": "bff1807d9274a7cf09bda3c22cf6e4287f92a8ccb55843ff4d8833a273e66018",
+      "display_blob_sha": "330eb4d6ec57ee0804f17f01191ff8960cf6ca28",
+      "display_original_site_sha256": "62a8c324a13bf2fe6358198ef533a58bfe537f72e398012536a21885943123b3",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

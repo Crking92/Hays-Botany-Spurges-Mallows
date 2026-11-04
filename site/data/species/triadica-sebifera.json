@@ -84,7 +84,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "982a848cbd2b98ad566b35f97885733eafad0c13",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -92,7 +92,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342833444, photo 624378777, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 578299eab020d12a4997fb517a7e73f60f442d9edf1ccb69b4896697b2f52a3c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Triadica sebifera maps to indexed species triadica-sebifera; specialist morphology and BONAP range deferred.",
-      "sha256": "578299eab020d12a4997fb517a7e73f60f442d9edf1ccb69b4896697b2f52a3c"
+      "sha256": "578299eab020d12a4997fb517a7e73f60f442d9edf1ccb69b4896697b2f52a3c",
+      "display_sha256": "34eaaf03f9902dba8d14ded24bb8baffd6876887aa66567c4b12b6cc15fc7946",
+      "display_blob_sha": "4ce9325b40ec9280138f5256cdc8e1985e8b5f6a",
+      "display_original_site_sha256": "578299eab020d12a4997fb517a7e73f60f442d9edf1ccb69b4896697b2f52a3c",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/triadica-sebifera/inat-629710416.jpg",
@@ -103,7 +108,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e15b1109d178cb8440abe92979034a32052f6ae9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -111,7 +116,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345523064, photo 629710416, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d8864d89b1b958d3336712e8918b22385e708fd273b9ee3e874041133497c77f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Triadica sebifera maps to indexed species triadica-sebifera; specialist morphology and BONAP range deferred.",
-      "sha256": "d8864d89b1b958d3336712e8918b22385e708fd273b9ee3e874041133497c77f"
+      "sha256": "d8864d89b1b958d3336712e8918b22385e708fd273b9ee3e874041133497c77f",
+      "display_sha256": "ab6cf6e63c4a1ff985ac00112e6c6042da9887c5aeebb77462924443322370cc",
+      "display_blob_sha": "51a50748a418a42ee5110f91efed866f5cef175d",
+      "display_original_site_sha256": "d8864d89b1b958d3336712e8918b22385e708fd273b9ee3e874041133497c77f",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/triadica-sebifera/inat-629803573.jpg",
@@ -122,7 +132,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5c12d7c02a55b3caef4f2781661f7fe538743a5f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -130,7 +140,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345575163, photo 629803573, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ba887d7d9cc38aaed4774c41732cfb876d72d06fa66f3bb38b86549ba8d11c54. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Triadica sebifera maps to indexed species triadica-sebifera; specialist morphology and BONAP range deferred.",
-      "sha256": "ba887d7d9cc38aaed4774c41732cfb876d72d06fa66f3bb38b86549ba8d11c54"
+      "sha256": "ba887d7d9cc38aaed4774c41732cfb876d72d06fa66f3bb38b86549ba8d11c54",
+      "display_sha256": "85d296eba676277b49ae367468be79a7bd0775b8730b0de912df4b2f27f1d21b",
+      "display_blob_sha": "047210299ec1c6587b38baab00c74bb91a0653e9",
+      "display_original_site_sha256": "ba887d7d9cc38aaed4774c41732cfb876d72d06fa66f3bb38b86549ba8d11c54",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/triadica-sebifera/inat-630285041.jpg",
@@ -141,7 +156,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "be761778612c52934e3d4b8b36a7078de9a3dc01",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -149,7 +164,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345820201, photo 630285041, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b9be2b67b61b24f6e5963164f5bea68d6dfb691fc5a0acb1897cc5c469df9d40. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Triadica sebifera maps to indexed species triadica-sebifera; specialist morphology and BONAP range deferred.",
-      "sha256": "b9be2b67b61b24f6e5963164f5bea68d6dfb691fc5a0acb1897cc5c469df9d40"
+      "sha256": "b9be2b67b61b24f6e5963164f5bea68d6dfb691fc5a0acb1897cc5c469df9d40",
+      "display_sha256": "287535d89e2a276cfcaaf389668dbdcc37a25c668ea4da731ea50fb03d9e71ef",
+      "display_blob_sha": "97ffecfca7614a82904b2f18438b040771b46132",
+      "display_original_site_sha256": "b9be2b67b61b24f6e5963164f5bea68d6dfb691fc5a0acb1897cc5c469df9d40",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/triadica-sebifera/inat-632169982.jpg",
@@ -160,7 +180,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a8c1f830f9aa6b7e7da8bb363de1edef6ec865ae",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -168,7 +188,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346773937, photo 632169982, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fab726b337acf17ed123320e66f7e3313a91825ed09a8af4bd36c938e380803f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Triadica sebifera maps to indexed species triadica-sebifera; specialist morphology and BONAP range deferred.",
-      "sha256": "fab726b337acf17ed123320e66f7e3313a91825ed09a8af4bd36c938e380803f"
+      "sha256": "fab726b337acf17ed123320e66f7e3313a91825ed09a8af4bd36c938e380803f",
+      "display_sha256": "69723b6ac816f9dc655278e098fc2431055740d5e05956082a0506a52b4dcb7b",
+      "display_blob_sha": "d135bbb5e4475a3e4d5b0e587c3f2f1cbe6eddb5",
+      "display_original_site_sha256": "fab726b337acf17ed123320e66f7e3313a91825ed09a8af4bd36c938e380803f",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

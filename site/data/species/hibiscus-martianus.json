@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "fb4f8559019dd45b9b341732d92bf9264598a164",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346521361, photo 631672169, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: a45630c628e94bef3f76ce0157a6d309e130c009ca7cae532536dbab1469543d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Hibiscus martianus maps to indexed species hibiscus-martianus; specialist morphology and BONAP range deferred.",
-      "sha256": "a45630c628e94bef3f76ce0157a6d309e130c009ca7cae532536dbab1469543d"
+      "sha256": "a45630c628e94bef3f76ce0157a6d309e130c009ca7cae532536dbab1469543d",
+      "display_sha256": "047d66bae1aadb34f7e2381f61001b3b19f5bcbe2eb72c6ff8dc49700115d919",
+      "display_blob_sha": "53599ce5cfb4a2087b680e0b543575c64f558765",
+      "display_original_site_sha256": "a45630c628e94bef3f76ce0157a6d309e130c009ca7cae532536dbab1469543d",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hibiscus-martianus/inat-647528466.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ed7f596a2dbd48a04fb906d06ee5b801e5e71039",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354986617, photo 647528466, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7b09ff20b119e2c2ba83922c2dcdfa8fac163952844bbe32d42a636276ef1c0e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Hibiscus martianus maps to indexed species hibiscus-martianus; specialist morphology and BONAP range deferred.",
-      "sha256": "7b09ff20b119e2c2ba83922c2dcdfa8fac163952844bbe32d42a636276ef1c0e"
+      "sha256": "7b09ff20b119e2c2ba83922c2dcdfa8fac163952844bbe32d42a636276ef1c0e",
+      "display_sha256": "e120eb70a4bdc5b8428304d11663b49bafde85c6e46fc49d8f8a9bd7ec2846e1",
+      "display_blob_sha": "5de46b2723b46a1a5ba1e0a9d5e53bc0afd40858",
+      "display_original_site_sha256": "7b09ff20b119e2c2ba83922c2dcdfa8fac163952844bbe32d42a636276ef1c0e",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hibiscus-martianus/inat-648329885.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "98b04f12b07547ccae8cec9e9ef0ca39b8ccb2f7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355500384, photo 648329885, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 13e53da32f6e2b52a49e457a9aeec4d80a34ba80a3be95124f99ed87ef399d01. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Hibiscus martianus maps to indexed species hibiscus-martianus; specialist morphology and BONAP range deferred.",
-      "sha256": "13e53da32f6e2b52a49e457a9aeec4d80a34ba80a3be95124f99ed87ef399d01"
+      "sha256": "13e53da32f6e2b52a49e457a9aeec4d80a34ba80a3be95124f99ed87ef399d01",
+      "display_sha256": "27bcfb17cbca4538dac421eed499583868ee9a645eabd20f09611ef01d579813",
+      "display_blob_sha": "fe51f936b8c6623f348bacbb057da56ff61d8260",
+      "display_original_site_sha256": "13e53da32f6e2b52a49e457a9aeec4d80a34ba80a3be95124f99ed87ef399d01",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hibiscus-martianus/inat-650499916.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "530d06e719bbb0d30ca82e5c093acf05e40a74cf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356696416, photo 650499916, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8502f82b7c6155184aa77a52a6f73a154ae810e489364118c44af70d085f0c52. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Hibiscus martianus maps to indexed species hibiscus-martianus; specialist morphology and BONAP range deferred.",
-      "sha256": "8502f82b7c6155184aa77a52a6f73a154ae810e489364118c44af70d085f0c52"
+      "sha256": "8502f82b7c6155184aa77a52a6f73a154ae810e489364118c44af70d085f0c52",
+      "display_sha256": "890bd5bd5ec0f4270d2e6ee81ab5823a26745f1d051374c88b49a08ad062bb5d",
+      "display_blob_sha": "c7ac50ef96e2d3e2b7c2cd9b217b18610a6703d0",
+      "display_original_site_sha256": "8502f82b7c6155184aa77a52a6f73a154ae810e489364118c44af70d085f0c52",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

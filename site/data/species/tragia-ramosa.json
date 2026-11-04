@@ -87,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "26766b1ab12666b22c30469f77a838ee8a2c3abe",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -95,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346483656, photo 631593431, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bf33ef587f8410a0b90e2fd9b5efe93a10038d25719d95306a5d71e72bc2bfd5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Tragia ramosa maps to indexed species tragia-ramosa; specialist morphology and BONAP range deferred.",
-      "sha256": "bf33ef587f8410a0b90e2fd9b5efe93a10038d25719d95306a5d71e72bc2bfd5"
+      "sha256": "bf33ef587f8410a0b90e2fd9b5efe93a10038d25719d95306a5d71e72bc2bfd5",
+      "display_sha256": "cd0dbfd31b4abb3563e67a20a5d6fee073801df126ecdbe61c6f6969a3de5227",
+      "display_blob_sha": "b8a44931d24d6f3261ebf626ca75186fbc732825",
+      "display_original_site_sha256": "bf33ef587f8410a0b90e2fd9b5efe93a10038d25719d95306a5d71e72bc2bfd5",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tragia-ramosa/inat-638171190.jpg",
@@ -106,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "69e3e2e79b73e891762eaceb4bcea39b012dbfaf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -114,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 349810091, photo 638171190, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e9ca8d7fc0f6bd3ed52a45cc6ecbe39eb7d246c2c3b08488f86834b32b169dcc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Tragia ramosa maps to indexed species tragia-ramosa; specialist morphology and BONAP range deferred.",
-      "sha256": "e9ca8d7fc0f6bd3ed52a45cc6ecbe39eb7d246c2c3b08488f86834b32b169dcc"
+      "sha256": "e9ca8d7fc0f6bd3ed52a45cc6ecbe39eb7d246c2c3b08488f86834b32b169dcc",
+      "display_sha256": "da331a9d1fd4b37f2a81c962f8666f14bc771859e7d69a38b4e1281c61159738",
+      "display_blob_sha": "24896c60ebd6dee6f01e485117c31b71170ccc47",
+      "display_original_site_sha256": "e9ca8d7fc0f6bd3ed52a45cc6ecbe39eb7d246c2c3b08488f86834b32b169dcc",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tragia-ramosa/inat-638592412.jpg",
@@ -125,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "badb06b00beccd037d16e6dd3ccd78412f7afc33",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -133,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350014592, photo 638592412, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7c4a71e7348d7921eeacf59276d2803e76be5bd82ed50807c9b44c96d6a0b24d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Tragia ramosa maps to indexed species tragia-ramosa; specialist morphology and BONAP range deferred.",
-      "sha256": "7c4a71e7348d7921eeacf59276d2803e76be5bd82ed50807c9b44c96d6a0b24d"
+      "sha256": "7c4a71e7348d7921eeacf59276d2803e76be5bd82ed50807c9b44c96d6a0b24d",
+      "display_sha256": "52201cf20f9bfba58fe5b712211bec9984447b23970376374b348e7cb395bf89",
+      "display_blob_sha": "9aed336281212cd8e0176a57e7d9a241b085b28f",
+      "display_original_site_sha256": "7c4a71e7348d7921eeacf59276d2803e76be5bd82ed50807c9b44c96d6a0b24d",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tragia-ramosa/inat-640162737.jpg",
@@ -144,7 +159,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "decb3560a98e1e14931b5404381a079b10ea08d8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -152,7 +167,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350829498, photo 640162737, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a47639fc073bd18a86ea6b00704b59fad9c2d5abeddb2026782b41dc88c4a5ef. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Tragia ramosa maps to indexed species tragia-ramosa; specialist morphology and BONAP range deferred.",
-      "sha256": "a47639fc073bd18a86ea6b00704b59fad9c2d5abeddb2026782b41dc88c4a5ef"
+      "sha256": "a47639fc073bd18a86ea6b00704b59fad9c2d5abeddb2026782b41dc88c4a5ef",
+      "display_sha256": "491a6e88decacefc656e7afeb7bcbe21000ab50674b1eb98b2ed6ea80425c408",
+      "display_blob_sha": "4a9fb4dcc628f0afbad3dcce117f65dd3c6e3231",
+      "display_original_site_sha256": "a47639fc073bd18a86ea6b00704b59fad9c2d5abeddb2026782b41dc88c4a5ef",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tragia-ramosa/inat-646844824.jpg",
@@ -163,7 +183,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a20f2f3439e5af768dc360edf7357da5d4a493fa",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -171,7 +191,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354598283, photo 646844824, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f37a363abeba3d22c26de7b0ecbb0769a537c3c046d9282fe2d6e0a9fcf5bfbd. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Tragia ramosa maps to indexed species tragia-ramosa; specialist morphology and BONAP range deferred.",
-      "sha256": "f37a363abeba3d22c26de7b0ecbb0769a537c3c046d9282fe2d6e0a9fcf5bfbd"
+      "sha256": "f37a363abeba3d22c26de7b0ecbb0769a537c3c046d9282fe2d6e0a9fcf5bfbd",
+      "display_sha256": "f32db2405ca5187f5b11e5f5620d9ea7c8b617bc20692ce724805a94776ffb3e",
+      "display_blob_sha": "ffcf404718d20a85c17fa33d292571621a13fcc6",
+      "display_original_site_sha256": "f37a363abeba3d22c26de7b0ecbb0769a537c3c046d9282fe2d6e0a9fcf5bfbd",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

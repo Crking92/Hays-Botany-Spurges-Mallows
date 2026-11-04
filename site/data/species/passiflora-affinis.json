@@ -62,7 +62,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7275580b10e4aea800cf155834cfcedae112cae0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -70,7 +70,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 345313563, photo 629287317, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3677b048a3a5bb173d728c0dd9525936b66f572112fe4e661c563a9b717229d3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora affinis maps to indexed species passiflora-affinis; specialist morphology and BONAP range deferred.",
-      "sha256": "3677b048a3a5bb173d728c0dd9525936b66f572112fe4e661c563a9b717229d3"
+      "sha256": "3677b048a3a5bb173d728c0dd9525936b66f572112fe4e661c563a9b717229d3",
+      "display_sha256": "27bc5ed719dc7aa015dff5f680511b7ea298fa8155795d561fd6b30b0ae8d4d5",
+      "display_blob_sha": "17908c8350cb91f200d9655dffcb4c6e5454dada",
+      "display_original_site_sha256": "3677b048a3a5bb173d728c0dd9525936b66f572112fe4e661c563a9b717229d3",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-affinis/inat-630259415.jpg",
@@ -81,7 +86,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2cb54658777e8ce360bd5c461d7521de68ca0ebe",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -89,7 +94,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 345658078, photo 630259415, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6b124a5e0ae787c3dbf937a94d109fa2331e93a11f170249f6ea3d8f09f5002b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora affinis maps to indexed species passiflora-affinis; specialist morphology and BONAP range deferred.",
-      "sha256": "6b124a5e0ae787c3dbf937a94d109fa2331e93a11f170249f6ea3d8f09f5002b"
+      "sha256": "6b124a5e0ae787c3dbf937a94d109fa2331e93a11f170249f6ea3d8f09f5002b",
+      "display_sha256": "88f5f8181746ebd6cd6fabbd05ce550a4df5477690e6a427a6617538e8a71e0c",
+      "display_blob_sha": "d774e1d61ed50bcf00e886682beeabacd4bbe05b",
+      "display_original_site_sha256": "6b124a5e0ae787c3dbf937a94d109fa2331e93a11f170249f6ea3d8f09f5002b",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-affinis/inat-634037454.jpg",
@@ -100,7 +110,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0823baaba2f60b938fea6c0d33c71b3ad92f030d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -108,7 +118,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 347714668, photo 634037454, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4d8886cd7c85a4f4a7a0647734ca38bd357b39b2aab0a235039215f81fbf425c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora affinis maps to indexed species passiflora-affinis; specialist morphology and BONAP range deferred.",
-      "sha256": "4d8886cd7c85a4f4a7a0647734ca38bd357b39b2aab0a235039215f81fbf425c"
+      "sha256": "4d8886cd7c85a4f4a7a0647734ca38bd357b39b2aab0a235039215f81fbf425c",
+      "display_sha256": "d54b38ce339c5e36e13ee7361a758a7a28ed692c300490d9c201799d263a0d7d",
+      "display_blob_sha": "74b4b09c20374da8613957cd8e3099ba2fa4a627",
+      "display_original_site_sha256": "4d8886cd7c85a4f4a7a0647734ca38bd357b39b2aab0a235039215f81fbf425c",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-affinis/inat-637808187.jpg",
@@ -119,7 +134,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d7e1d8ba1e32cd5166a625cfd7d31f5fdbdb033c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -127,7 +142,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 349622671, photo 637808187, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b1195afd97995b92727bf324f5a0d10f74adaa0ebb1cadd5d8143cc4bf9b5ec4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora affinis maps to indexed species passiflora-affinis; specialist morphology and BONAP range deferred.",
-      "sha256": "b1195afd97995b92727bf324f5a0d10f74adaa0ebb1cadd5d8143cc4bf9b5ec4"
+      "sha256": "b1195afd97995b92727bf324f5a0d10f74adaa0ebb1cadd5d8143cc4bf9b5ec4",
+      "display_sha256": "8034b67b66cc2a3db0cc5e3d6ecf354e034b029702c60a1c014db67975edb041",
+      "display_blob_sha": "86c376ab7aa15c97bd004500ab438846dee7ca5b",
+      "display_original_site_sha256": "b1195afd97995b92727bf324f5a0d10f74adaa0ebb1cadd5d8143cc4bf9b5ec4",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-affinis/inat-645536125.jpg",
@@ -138,7 +158,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b5268b584179f768e85791de95922139ec57b749",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -146,7 +166,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 353829633, photo 645536125, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5ecbed74734a8c9626e79c94157bee9aef432dbcb52df14697f1d74ce655457c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora affinis maps to indexed species passiflora-affinis; specialist morphology and BONAP range deferred.",
-      "sha256": "5ecbed74734a8c9626e79c94157bee9aef432dbcb52df14697f1d74ce655457c"
+      "sha256": "5ecbed74734a8c9626e79c94157bee9aef432dbcb52df14697f1d74ce655457c",
+      "display_sha256": "4b41de018a48767fb3f615e15a56a10083e936892a3ddb2f49222cb8ce4f3de1",
+      "display_blob_sha": "a8e071c3904e3c5c92fb220a49795af70060a607",
+      "display_original_site_sha256": "5ecbed74734a8c9626e79c94157bee9aef432dbcb52df14697f1d74ce655457c",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-affinis/archived-55ccccf4e59ab6b4.jpg",

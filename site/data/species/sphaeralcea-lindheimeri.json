@@ -83,7 +83,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "5c585bea4c5f7b9eadb321442609f288082b40e7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -91,7 +91,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 265702280, photo 477303033, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: fe513d3e36f0d76c92df9860c1b7bad7123bd8dea3e934f8967d0b29b1eb79d7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Sphaeralcea lindheimeri maps to indexed species sphaeralcea-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "fe513d3e36f0d76c92df9860c1b7bad7123bd8dea3e934f8967d0b29b1eb79d7"
+      "sha256": "fe513d3e36f0d76c92df9860c1b7bad7123bd8dea3e934f8967d0b29b1eb79d7",
+      "display_sha256": "54f7fb0256b62e90d1aea46965ef81f3a4ea61eab79f44ec1a621dad18d8ab26",
+      "display_blob_sha": "366a8e5f271128065db207335ba4748558438f0a",
+      "display_original_site_sha256": "fe513d3e36f0d76c92df9860c1b7bad7123bd8dea3e934f8967d0b29b1eb79d7",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sphaeralcea-lindheimeri/inat-625676797.jpg",
@@ -102,7 +107,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d089628072db34f3c80a6b3d0868fd03f701c391",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -110,7 +115,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 343473003, photo 625676797, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 15e92acffec110b2f47379e2f69bddec565dac61479406596ef3c8ed96c23b85. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Sphaeralcea lindheimeri maps to indexed species sphaeralcea-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "15e92acffec110b2f47379e2f69bddec565dac61479406596ef3c8ed96c23b85"
+      "sha256": "15e92acffec110b2f47379e2f69bddec565dac61479406596ef3c8ed96c23b85",
+      "display_sha256": "1ae037f362c75bb65460bbae8d11a49c3b6e3063d7ac8a530194d11b3c5abc28",
+      "display_blob_sha": "2efa544724345ef09e6feb93247138bb4805957b",
+      "display_original_site_sha256": "15e92acffec110b2f47379e2f69bddec565dac61479406596ef3c8ed96c23b85",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sphaeralcea-lindheimeri/inat-626036913.jpg",
@@ -140,7 +150,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "e6e9f45fb79acbb4f03d00dfa2eaf5f22856bed6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -148,7 +158,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348868186, photo 636330060, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5842e5f136c41f8ba59815d6b5010ea96975a1e38ecb5abec6490705a923e22f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Sphaeralcea lindheimeri maps to indexed species sphaeralcea-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "5842e5f136c41f8ba59815d6b5010ea96975a1e38ecb5abec6490705a923e22f"
+      "sha256": "5842e5f136c41f8ba59815d6b5010ea96975a1e38ecb5abec6490705a923e22f",
+      "display_sha256": "8b84c0ec3fdb99cb2030e49a0a7e0f345a3149838194c4483f7ac14a944771e5",
+      "display_blob_sha": "f762cf3387062d5cbf17bcad008456a22f570a4f",
+      "display_original_site_sha256": "5842e5f136c41f8ba59815d6b5010ea96975a1e38ecb5abec6490705a923e22f",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sphaeralcea-lindheimeri/inat-645840774.jpg",
@@ -159,7 +174,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "5fea4ddc645d99aaff505559a81069be8cffb2ef",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -167,7 +182,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353997236, photo 645840774, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: f1102270a0ad788491a4708a914da37efc64638392b6765e53f6381c1a239ad3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Sphaeralcea lindheimeri maps to indexed species sphaeralcea-lindheimeri; specialist morphology and BONAP range deferred.",
-      "sha256": "f1102270a0ad788491a4708a914da37efc64638392b6765e53f6381c1a239ad3"
+      "sha256": "f1102270a0ad788491a4708a914da37efc64638392b6765e53f6381c1a239ad3",
+      "display_sha256": "7ad6ff0ef7d5a9937af8906de6ff4ac497f2938bdc68d80f790d50d489851b19",
+      "display_blob_sha": "f78498baefc40abd91cfe334538533d96d2a0df9",
+      "display_original_site_sha256": "f1102270a0ad788491a4708a914da37efc64638392b6765e53f6381c1a239ad3",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

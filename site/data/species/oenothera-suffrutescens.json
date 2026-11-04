@@ -96,7 +96,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ced236c51d8349c011d117bd14a118181b9510a7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +104,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 154307279, photo 266611507, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 26730a2dee6be898cae6c3b57eeb5803d5fc474f4cbc3cd5f3f98b3257e0ecbe. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera suffrutescens maps to indexed species oenothera-suffrutescens; specialist morphology and BONAP range deferred.",
-      "sha256": "26730a2dee6be898cae6c3b57eeb5803d5fc474f4cbc3cd5f3f98b3257e0ecbe"
+      "sha256": "26730a2dee6be898cae6c3b57eeb5803d5fc474f4cbc3cd5f3f98b3257e0ecbe",
+      "display_sha256": "b87e3b02caefce707ce1870dba0904575c6341c75b1c66b6a2f3f0e84b4e29b7",
+      "display_blob_sha": "7c2c3b0194d63daae21c1eb26c0ee179ac65f8dd",
+      "display_original_site_sha256": "26730a2dee6be898cae6c3b57eeb5803d5fc474f4cbc3cd5f3f98b3257e0ecbe",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-suffrutescens/inat-4818829.jpg",
@@ -115,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7e9dc2f423f097dea24de23425bcc7646e364151",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +128,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 4066276, photo 4818829, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dcd9e4ebd363a699acc2f9e176b46b5cce6010b6eef12357a5c1d7324e534c5d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera suffrutescens maps to indexed species oenothera-suffrutescens; specialist morphology and BONAP range deferred.",
-      "sha256": "dcd9e4ebd363a699acc2f9e176b46b5cce6010b6eef12357a5c1d7324e534c5d"
+      "sha256": "dcd9e4ebd363a699acc2f9e176b46b5cce6010b6eef12357a5c1d7324e534c5d",
+      "display_sha256": "22ca7c87148f98bf177edf2d25fa40b3664d491c42f52ba16dc3b85713a1f561",
+      "display_blob_sha": "ca9309c998bc6a700886bbab50c4570d4b7cf60d",
+      "display_original_site_sha256": "dcd9e4ebd363a699acc2f9e176b46b5cce6010b6eef12357a5c1d7324e534c5d",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-suffrutescens/inat-628836459.jpg",
@@ -153,7 +163,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a32ba818604e6aadf64e788acdff046534eb0ccf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -161,7 +171,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347311209, photo 633235454, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 721875cc4d6e4be216a2f76c236a6b292f0178afadc1bb2519f7847163ebe427. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera suffrutescens maps to indexed species oenothera-suffrutescens; specialist morphology and BONAP range deferred.",
-      "sha256": "721875cc4d6e4be216a2f76c236a6b292f0178afadc1bb2519f7847163ebe427"
+      "sha256": "721875cc4d6e4be216a2f76c236a6b292f0178afadc1bb2519f7847163ebe427",
+      "display_sha256": "1f3e315ab0672dfc82eef4fe1daf005c6900aa465544c2eb7881bb51c009973c",
+      "display_blob_sha": "4c7395abddcf534f68250807de67f7b4273419e1",
+      "display_original_site_sha256": "721875cc4d6e4be216a2f76c236a6b292f0178afadc1bb2519f7847163ebe427",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-suffrutescens/inat-634838478.jpg",
@@ -172,7 +187,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d8a03b131648236a4881fe31f83de4624c380fc0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -180,7 +195,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 348118606, photo 634838478, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cc48c675fa98c13da96532df487b2f91c24a74e6d2c314f62acb7eff4282f64a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera suffrutescens maps to indexed species oenothera-suffrutescens; specialist morphology and BONAP range deferred.",
-      "sha256": "cc48c675fa98c13da96532df487b2f91c24a74e6d2c314f62acb7eff4282f64a"
+      "sha256": "cc48c675fa98c13da96532df487b2f91c24a74e6d2c314f62acb7eff4282f64a",
+      "display_sha256": "0997f3ec818535348283a2db502d960e2c938dbc7f5305c8f8d0995621650d76",
+      "display_blob_sha": "4613c30ba1b980e0ec6c5c0c5748f6a4205f7eb6",
+      "display_original_site_sha256": "cc48c675fa98c13da96532df487b2f91c24a74e6d2c314f62acb7eff4282f64a",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

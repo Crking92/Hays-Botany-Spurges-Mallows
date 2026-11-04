@@ -153,7 +153,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "517a632fdee8228f8c6861966932e6d685eeae69",
       "role": "Prostrate plant next to hand for rough context only; no calibrated leaf measurement, cyathial gland macro, ripe seed or stipule.",
-      "modified": "Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
+      "modified": "Resized and recompressed web display copy; source note: Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -161,7 +161,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 392725740 photo 719752552 individual CC code cc-by-nc; photographer (c) Mary Keenan, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 517a632fdee8228f8c6861966932e6d685eeae69; exact image source https://www.inaturalist.org/photos/719752552",
       "taxon_review_evidence": "Original species record Euphorbia simulans linked to an original image and matching current inat photo of source taxon Euphorbia simulans. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "0ca7afd31e61dd81f647723de51300225ea80cf56460b4d2edee82622126a5a5"
+      "sha256": "0ca7afd31e61dd81f647723de51300225ea80cf56460b4d2edee82622126a5a5",
+      "display_sha256": "e087be16228737ab266bbd1eb8ca87dad27c71eec1d44972ee4da4bce982414c",
+      "display_blob_sha": "c2600c217fa5da1196b3bd57eff97a72513507b9",
+      "display_original_site_sha256": "0ca7afd31e61dd81f647723de51300225ea80cf56460b4d2edee82622126a5a5",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/euphorbia-simulans/archived-1378769485889e87.jpg",
@@ -191,7 +196,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "07d02535cf8dc82346e0c1e4e0d9c904b017ec8b",
       "role": "Whole plant with many rounded opposite leaf pairs and creeping pink stems, reproductive tips present but unresolved below 10×.",
-      "modified": "Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
+      "modified": "Resized and recompressed web display copy; source note: Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -199,7 +204,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 404605876 photo 743054404 individual CC code cc-by-nc; photographer (c) Hatim Albalawi, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 07d02535cf8dc82346e0c1e4e0d9c904b017ec8b; exact image source https://www.inaturalist.org/photos/743054404",
       "taxon_review_evidence": "Original species record Euphorbia simulans linked to an original image and matching current inat photo of source taxon Euphorbia simulans. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "c454a9ad69a0b6e14dfe865eb11b79fa1460133a4a7ccbdd759b8bd82381768d"
+      "sha256": "c454a9ad69a0b6e14dfe865eb11b79fa1460133a4a7ccbdd759b8bd82381768d",
+      "display_sha256": "b5905e294acb835f5b39bbc751e9e8c93940c95d9cb4df38b910c1d98490516b",
+      "display_blob_sha": "1ae02c77e0030d16d212572f19db55e2991e0b69",
+      "display_original_site_sha256": "c454a9ad69a0b6e14dfe865eb11b79fa1460133a4a7ccbdd759b8bd82381768d",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/euphorbia-simulans/archived-dbc15376bd6c7f65.jpg",
@@ -210,7 +220,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "35b792605fa7046fd17d06bfa8704124cf6d998b",
       "role": "Wider rounded-leaved sprawling mat among rocks; true gland appendage state and seeds not visible.",
-      "modified": "Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
+      "modified": "Resized and recompressed web display copy; source note: Source original resized, EXIF stripped, JPEG recompression; no anatomical edits to photo bytes",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -218,7 +228,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 398545849 photo 731098437 individual CC code cc-by-nc; photographer (c) Roberto González, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 35b792605fa7046fd17d06bfa8704124cf6d998b; exact image source https://www.inaturalist.org/photos/731098437",
       "taxon_review_evidence": "Original species record Euphorbia simulans linked to an original image and matching current inat photo of source taxon Euphorbia simulans. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "dbc15376bd6c7f65f8358664a73454a73c9be7f4a4a788077078053e6e47e15d"
+      "sha256": "dbc15376bd6c7f65f8358664a73454a73c9be7f4a4a788077078053e6e47e15d",
+      "display_sha256": "1d1bbb5acf818882ca5b54ab994726635a555d499fcdab9a39a2a5802fb4be95",
+      "display_blob_sha": "b84878c8ad0f02e1d1207fbc0efa747294cbcae8",
+      "display_original_site_sha256": "dbc15376bd6c7f65f8358664a73454a73c9be7f4a4a788077078053e6e47e15d",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/euphorbia-simulans/inat-5078864-web.jpg",

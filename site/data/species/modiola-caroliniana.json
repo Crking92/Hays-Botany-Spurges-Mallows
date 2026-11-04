@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "62c566bc01aaad63982326bb59dc9705081c144a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342088701, photo 622890661, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 604ed9d69b3dd0bd00007621527eeec52d26e048c7746ca61383e5de66520fa3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Modiola caroliniana maps to indexed species modiola-caroliniana; specialist morphology and BONAP range deferred.",
-      "sha256": "604ed9d69b3dd0bd00007621527eeec52d26e048c7746ca61383e5de66520fa3"
+      "sha256": "604ed9d69b3dd0bd00007621527eeec52d26e048c7746ca61383e5de66520fa3",
+      "display_sha256": "9cb66f1bf766633acb9e417bb3af2bc6cf55cb94424d19879e73801155763ec5",
+      "display_blob_sha": "a5aa879cff6846bb3e5ea1b9dd66cd0ef00ce132",
+      "display_original_site_sha256": "604ed9d69b3dd0bd00007621527eeec52d26e048c7746ca61383e5de66520fa3",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/modiola-caroliniana/inat-623378663.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "8adf0cc4dd9fb3cb9c4fd20d5db69f6854a06543",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342331514, photo 623378663, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3a7897884980a6de3077d3466f1fcd6a2b570677c1039b24f041e3e489ea0888. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Modiola caroliniana maps to indexed species modiola-caroliniana; specialist morphology and BONAP range deferred.",
-      "sha256": "3a7897884980a6de3077d3466f1fcd6a2b570677c1039b24f041e3e489ea0888"
+      "sha256": "3a7897884980a6de3077d3466f1fcd6a2b570677c1039b24f041e3e489ea0888",
+      "display_sha256": "a6ec9a5aa542337280438f4d6ac34a5650a1bd700ba8e611e47ad3da3eba702c",
+      "display_blob_sha": "217d25aadfc193dbe7c030e6f9612492848c6e8a",
+      "display_original_site_sha256": "3a7897884980a6de3077d3466f1fcd6a2b570677c1039b24f041e3e489ea0888",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/modiola-caroliniana/inat-624294187.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c5a561caefd4b7c095baed7c9b3617f741064067",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342967618, photo 624648396, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9cc96c9adc0a232e01c131e8d9ae734558273b7d4d14da987ebc41434101066c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Modiola caroliniana maps to indexed species modiola-caroliniana; specialist morphology and BONAP range deferred.",
-      "sha256": "9cc96c9adc0a232e01c131e8d9ae734558273b7d4d14da987ebc41434101066c"
+      "sha256": "9cc96c9adc0a232e01c131e8d9ae734558273b7d4d14da987ebc41434101066c",
+      "display_sha256": "b5f770d7ae59f53c2cb2c43ec805ba2664f192efb8f5301febecdfc196433108",
+      "display_blob_sha": "29cdd84b27659b5e106e05b49ba06886f898702c",
+      "display_original_site_sha256": "9cc96c9adc0a232e01c131e8d9ae734558273b7d4d14da987ebc41434101066c",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/modiola-caroliniana/inat-631054155.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7a345b92dcc47278e21e2b0b9d09fd138c78b3d3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346211368, photo 631054155, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fc94713e40a4cf5fda54550aa833d88c2291a52b9cdd45a96bc63a2083229847. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Modiola caroliniana maps to indexed species modiola-caroliniana; specialist morphology and BONAP range deferred.",
-      "sha256": "fc94713e40a4cf5fda54550aa833d88c2291a52b9cdd45a96bc63a2083229847"
+      "sha256": "fc94713e40a4cf5fda54550aa833d88c2291a52b9cdd45a96bc63a2083229847",
+      "display_sha256": "1adb0d30c6d5f3ae132b439ab25b57cb00969a95943601ea1e54ef4bef01a812",
+      "display_blob_sha": "49893e1e6f2757e40a220dfc43eafbe98f013e6b",
+      "display_original_site_sha256": "fc94713e40a4cf5fda54550aa833d88c2291a52b9cdd45a96bc63a2083229847",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/modiola-caroliniana/archived-1d08e51238f1ba44.jpg",

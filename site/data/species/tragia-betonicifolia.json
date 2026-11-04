@@ -68,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "05f1b85c4ad976a2e02156ceb4c17ef11793036d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -76,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 23375692, photo 36208466, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8142edafb3f2ec2a30d5be8cf61bdf3b90afef258e3b3879c133deffccc838ca. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Tragia betonicifolia maps to indexed species tragia-betonicifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "8142edafb3f2ec2a30d5be8cf61bdf3b90afef258e3b3879c133deffccc838ca"
+      "sha256": "8142edafb3f2ec2a30d5be8cf61bdf3b90afef258e3b3879c133deffccc838ca",
+      "display_sha256": "3e92f93411d96498c2bf6904d76d18081ff62c547817ff7da761402bcdc1ff3d",
+      "display_blob_sha": "426e7a7d4bdb1b757cb0ddb088b0056cd1ab0096",
+      "display_original_site_sha256": "8142edafb3f2ec2a30d5be8cf61bdf3b90afef258e3b3879c133deffccc838ca",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tragia-betonicifolia/inat-36417302.jpg",
@@ -87,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e7011b82f9fd2824453031ab3895408809ecf6cc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -95,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 23518473, photo 36417302, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 96687fc9e12a906935d0dcb8e28e8721053a5c7aa91e380b65e714a8ca624c5d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Tragia betonicifolia maps to indexed species tragia-betonicifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "96687fc9e12a906935d0dcb8e28e8721053a5c7aa91e380b65e714a8ca624c5d"
+      "sha256": "96687fc9e12a906935d0dcb8e28e8721053a5c7aa91e380b65e714a8ca624c5d",
+      "display_sha256": "5ee6d1586af3b7cb4352fc6773aa81ddcdaf2e55174286acc290c13b90c7ee9c",
+      "display_blob_sha": "00ae3711d46b4f9a1c86a4166252099d28a32e54",
+      "display_original_site_sha256": "96687fc9e12a906935d0dcb8e28e8721053a5c7aa91e380b65e714a8ca624c5d",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tragia-betonicifolia/inat-7133826.jpg",
@@ -106,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "97189817a3851f67a4d3d01c4373d5fdfbca75c6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -114,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 5747976, photo 7133826, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6c69693e28991623fa3e684c8cc7759f17bed62a798ec6c6c5443bc1785dd341. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Tragia betonicifolia maps to indexed species tragia-betonicifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "6c69693e28991623fa3e684c8cc7759f17bed62a798ec6c6c5443bc1785dd341"
+      "sha256": "6c69693e28991623fa3e684c8cc7759f17bed62a798ec6c6c5443bc1785dd341",
+      "display_sha256": "d4a1f64ba107fac12b61a64a8bb2666538de098445a344c56a84cb77f0f4b608",
+      "display_blob_sha": "82de178e34c8ecf87e32b75f1990af2c035e154d",
+      "display_original_site_sha256": "6c69693e28991623fa3e684c8cc7759f17bed62a798ec6c6c5443bc1785dd341",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "55a10b33cfbccf0f0812e68778e6408a50ca7647",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 275130080, photo 494455564, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 03b3a0e65c7e435c38c901695f685499cc1efd9b79ca587890ae53aed9ff0de7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera capillifolia berlandieri maps to indexed species oenothera-capillifolia-subsp-berlandieri; specialist morphology and BONAP range deferred.",
-      "sha256": "03b3a0e65c7e435c38c901695f685499cc1efd9b79ca587890ae53aed9ff0de7"
+      "sha256": "03b3a0e65c7e435c38c901695f685499cc1efd9b79ca587890ae53aed9ff0de7",
+      "display_sha256": "cb3769ef8c51a5573353b2cf461d99c17b1f33511777f6090969c7efd7d017fe",
+      "display_blob_sha": "d0e9952e01b94a9582f078b159b9cd13c7bb2bcd",
+      "display_original_site_sha256": "03b3a0e65c7e435c38c901695f685499cc1efd9b79ca587890ae53aed9ff0de7",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

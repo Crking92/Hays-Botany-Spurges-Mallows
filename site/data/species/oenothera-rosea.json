@@ -73,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d612fb095601001610825618eaefff0d5fd73c5e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -81,7 +81,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 1341402, photo 1661919, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 056ce07c1c0d5b247112df147645a72f76ab83e28815e72d5de90c1b6f153536. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera rosea maps to indexed species oenothera-rosea; specialist morphology and BONAP range deferred.",
-      "sha256": "056ce07c1c0d5b247112df147645a72f76ab83e28815e72d5de90c1b6f153536"
+      "sha256": "056ce07c1c0d5b247112df147645a72f76ab83e28815e72d5de90c1b6f153536",
+      "display_sha256": "0a6a5635d34d3b94da35e44c0a2d4eb3fddf43af3793dce5bd12445674c7eefd",
+      "display_blob_sha": "6aadd66afb38a7ff1343a056612c82306fb93eb8",
+      "display_original_site_sha256": "056ce07c1c0d5b247112df147645a72f76ab83e28815e72d5de90c1b6f153536",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-rosea/inat-32715964.jpeg",
@@ -92,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c444d1709f188a9f64804d47e38262fd530d9247",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -100,7 +105,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 21165853, photo 32715964, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 19eca37e7bd7fc90cbcd6661f53bb53935346ad7d66de530f9d87c9ebfa34db7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera rosea maps to indexed species oenothera-rosea; specialist morphology and BONAP range deferred.",
-      "sha256": "19eca37e7bd7fc90cbcd6661f53bb53935346ad7d66de530f9d87c9ebfa34db7"
+      "sha256": "19eca37e7bd7fc90cbcd6661f53bb53935346ad7d66de530f9d87c9ebfa34db7",
+      "display_sha256": "a3adb28135804ac0c3145b1aef9739d8e2973218ecb66c5f35cb19e676edc839",
+      "display_blob_sha": "24ff600a2874c11ec24929c5ad794571f23d8a59",
+      "display_original_site_sha256": "19eca37e7bd7fc90cbcd6661f53bb53935346ad7d66de530f9d87c9ebfa34db7",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-rosea/inat-61893665.jpg",
@@ -111,7 +121,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "109fc62e29205a1d454f945e4db0febb6ed16b35",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -119,7 +129,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 38975846, photo 61893665, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 428dc180afb468a31bed109df0677ffa2740414e7b19a675c948c0bebe4940cc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera rosea maps to indexed species oenothera-rosea; specialist morphology and BONAP range deferred.",
-      "sha256": "428dc180afb468a31bed109df0677ffa2740414e7b19a675c948c0bebe4940cc"
+      "sha256": "428dc180afb468a31bed109df0677ffa2740414e7b19a675c948c0bebe4940cc",
+      "display_sha256": "d9f59d319b42eb577d0fde35c41f860cf6f01b6fddd529018723ab0428bc061a",
+      "display_blob_sha": "5fb7bc036ba02ebc71080f9bb275dc5eccb8461b",
+      "display_original_site_sha256": "428dc180afb468a31bed109df0677ffa2740414e7b19a675c948c0bebe4940cc",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

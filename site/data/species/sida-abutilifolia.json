@@ -96,7 +96,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bfee5157818bfa21a66f7c1ba3384359a0df8745",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +104,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342489154, photo 623702315, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 162558291009c64d858577d293612ede5bca62674690ea997436a222ef9d5b14. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Sida abutilifolia maps to indexed species sida-abutilifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "162558291009c64d858577d293612ede5bca62674690ea997436a222ef9d5b14"
+      "sha256": "162558291009c64d858577d293612ede5bca62674690ea997436a222ef9d5b14",
+      "display_sha256": "542728ce26e204ee42288460423e978f771bb6b16213e0b31346f2867706cbb0",
+      "display_blob_sha": "419c97a7250d9eae8a1a8131fbc2645e8bbcfdc2",
+      "display_original_site_sha256": "162558291009c64d858577d293612ede5bca62674690ea997436a222ef9d5b14",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sida-abutilifolia/inat-626827972.jpg",
@@ -115,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "693a840cba6db42677ff7c6e3179cadfa1e26041",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +128,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 344050230, photo 626827972, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 926087ecfdba6803d77a8560325c7583656edc07cfc729d3c27b950cde84b6c4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Sida abutilifolia maps to indexed species sida-abutilifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "926087ecfdba6803d77a8560325c7583656edc07cfc729d3c27b950cde84b6c4"
+      "sha256": "926087ecfdba6803d77a8560325c7583656edc07cfc729d3c27b950cde84b6c4",
+      "display_sha256": "4e9c68b8afef42ce3f797a325b9fc9f6404c70882f616ba7dfb390890e31e706",
+      "display_blob_sha": "985fb1320d9fe6d9e09b010b78242189be0b30d2",
+      "display_original_site_sha256": "926087ecfdba6803d77a8560325c7583656edc07cfc729d3c27b950cde84b6c4",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sida-abutilifolia/inat-628810926.jpg",
@@ -134,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2653d6b4824995d0ae2ce6fc64edeecc0bc284af",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +152,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345070860, photo 628810926, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5cb6771641f6adba09e722ce964cd47ff01bd656a4666aa007144a125f4188f6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Sida abutilifolia maps to indexed species sida-abutilifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "5cb6771641f6adba09e722ce964cd47ff01bd656a4666aa007144a125f4188f6"
+      "sha256": "5cb6771641f6adba09e722ce964cd47ff01bd656a4666aa007144a125f4188f6",
+      "display_sha256": "097632eb5153ebf9f77eebeb8ad579b5a5c15ef0f79d1458f996ef8f38a46b14",
+      "display_blob_sha": "14e9273ff2364524faae616ff59c95fe27985e50",
+      "display_original_site_sha256": "5cb6771641f6adba09e722ce964cd47ff01bd656a4666aa007144a125f4188f6",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sida-abutilifolia/inat-630611783.jpg",
@@ -153,7 +168,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b3886ef6e1fe057c5f78103c4f29cf46e313a1a2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -161,7 +176,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345986719, photo 630611783, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 184a570c0bf46d104822848e156949b34ad9e27e37ecf4dc5ba4a1e7ae905d3e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Sida abutilifolia maps to indexed species sida-abutilifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "184a570c0bf46d104822848e156949b34ad9e27e37ecf4dc5ba4a1e7ae905d3e"
+      "sha256": "184a570c0bf46d104822848e156949b34ad9e27e37ecf4dc5ba4a1e7ae905d3e",
+      "display_sha256": "8c5b6e8cbb23bb61c12db32335a3fc37fdf43c0ebf75d6e14732b55570898984",
+      "display_blob_sha": "f5e94517a42cdf5a43ca46d018e77f7db69e652c",
+      "display_original_site_sha256": "184a570c0bf46d104822848e156949b34ad9e27e37ecf4dc5ba4a1e7ae905d3e",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sida-abutilifolia/inat-632045679.jpg",
@@ -172,7 +192,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "aabbcd3d6d61a1b0a0e72a74410a5aae618fa31d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -180,7 +200,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346711534, photo 632045679, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b5533d9986bae99c69fd688cccf396fc785a96bd68b710f2d025292c48ea9521. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Sida abutilifolia maps to indexed species sida-abutilifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "b5533d9986bae99c69fd688cccf396fc785a96bd68b710f2d025292c48ea9521"
+      "sha256": "b5533d9986bae99c69fd688cccf396fc785a96bd68b710f2d025292c48ea9521",
+      "display_sha256": "3f60a96ab442bd9705a61407b14f75d4feb839351b106af7160061495be0cb61",
+      "display_blob_sha": "de4313e975f753daa717597bf8bd1c3fdaf40e2a",
+      "display_original_site_sha256": "b5533d9986bae99c69fd688cccf396fc785a96bd68b710f2d025292c48ea9521",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

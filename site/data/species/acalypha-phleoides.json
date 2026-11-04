@@ -84,12 +84,17 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "383c206fe8fc1209feacd7c1c2c74bfb2362bb9b",
       "role": "Toothed leaf blades with prominent veins and hairy stem; elongated inflorescence is present but softly focused.",
-      "modified": "Exact original downloaded bytes; no cropping, rotation, annotation or recompression. Intake copy has a collision-resistant filename; original filename and file preserved.",
+      "modified": "Resized and recompressed web display copy; source note: Exact original downloaded bytes; no cropping, rotation, annotation or recompression. Intake copy has a collision-resistant filename; original filename and file preserved.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Exact downloaded SHA-256 verified. GBIF occurrence 6185276782 was re-read and its exact media URL, image-level license and credited creator matched. Source taxon and specimen label where present compared with existing lesson; visible features screened at contact-sheet and enlarged-image resolution. No independent voucher determination or native-range claim. Existing lesson views compared; this image adds the described complementary view.",
       "photo_approved_by": "Codex automated source and visual review; user-authorized publication",
-      "sha256": "bcd87f5dde0f2564fcaa4f45bf2760b1caaf9068aa7545b5b27d827dc026b3da"
+      "sha256": "bcd87f5dde0f2564fcaa4f45bf2760b1caaf9068aa7545b5b27d827dc026b3da",
+      "display_sha256": "d94bc436bd2103b0a9d637a260aefbf85b775f0e8c7512a0cf4dc33d8ef64b77",
+      "display_blob_sha": "5499287c2320c24592b171ddb4711484dbbea54f",
+      "display_original_site_sha256": "bcd87f5dde0f2564fcaa4f45bf2760b1caaf9068aa7545b5b27d827dc026b3da",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/acalypha-phleoides/archived-469ec087482dbb6a.jpg",

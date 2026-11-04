@@ -83,7 +83,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "69d5991e878252c01ad7a6fe12e29192e5420377",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -91,7 +91,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 349147509, photo 636872550, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: efc59697d2b39509e2e0144915492607c47308f93b8662126c25f41edca464af. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Callirhoe pedata maps to indexed species callirhoe-pedata; specialist morphology and BONAP range deferred.",
-      "sha256": "efc59697d2b39509e2e0144915492607c47308f93b8662126c25f41edca464af"
+      "sha256": "efc59697d2b39509e2e0144915492607c47308f93b8662126c25f41edca464af",
+      "display_sha256": "5ae612818b6f22196dfbe7045acd4d8e2c0d67f45bce5505c20ce4962881ae73",
+      "display_blob_sha": "a8cbabec6916b56990a320aedbb4fec27961c3b9",
+      "display_original_site_sha256": "efc59697d2b39509e2e0144915492607c47308f93b8662126c25f41edca464af",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/callirhoe-pedata/inat-646397726.jpg",
@@ -102,7 +107,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2e46fe37f2027c24fc4b317d3ba12fabca5151c0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -110,7 +115,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354325662, photo 646397726, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5a55150ef6b0529ee24b5d92fa8e527507cc64a60e07eb57dd28dfb5f5ebf763. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Callirhoe pedata maps to indexed species callirhoe-pedata; specialist morphology and BONAP range deferred.",
-      "sha256": "5a55150ef6b0529ee24b5d92fa8e527507cc64a60e07eb57dd28dfb5f5ebf763"
+      "sha256": "5a55150ef6b0529ee24b5d92fa8e527507cc64a60e07eb57dd28dfb5f5ebf763",
+      "display_sha256": "6d8dd96fc485bea12df73d831848438300befae0013a0afa5a4636dc496a1ba2",
+      "display_blob_sha": "7ac6f3cc8f3f309ae41806e252a9e985ba5a2d63",
+      "display_original_site_sha256": "5a55150ef6b0529ee24b5d92fa8e527507cc64a60e07eb57dd28dfb5f5ebf763",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/callirhoe-pedata/inat-646862327.jpg",
@@ -121,7 +131,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6de91cf6c231ed5461949e82a4edfacf58dbf79b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -129,7 +139,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354609161, photo 646862327, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ab18467c0182c3162bf5ee41898db5954bd924445f75f148c63b9e38dfb505a5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Callirhoe pedata maps to indexed species callirhoe-pedata; specialist morphology and BONAP range deferred.",
-      "sha256": "ab18467c0182c3162bf5ee41898db5954bd924445f75f148c63b9e38dfb505a5"
+      "sha256": "ab18467c0182c3162bf5ee41898db5954bd924445f75f148c63b9e38dfb505a5",
+      "display_sha256": "01e05c5424a0f32752069109e5032ef5f2464ea6774baafaa0762ccca62aeb66",
+      "display_blob_sha": "a7682adf0aee031c16c891c0861835d1fefe91ca",
+      "display_original_site_sha256": "ab18467c0182c3162bf5ee41898db5954bd924445f75f148c63b9e38dfb505a5",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/callirhoe-pedata/inat-647217563.jpg",
@@ -140,7 +155,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "62f90e706a49549d51c096e54af4245ac8a164a8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -148,7 +163,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354812316, photo 647217563, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a4040b46899bb09c434f56532828d041b1d6ca2755c3394c682acfdd65e44c0b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Callirhoe pedata maps to indexed species callirhoe-pedata; specialist morphology and BONAP range deferred.",
-      "sha256": "a4040b46899bb09c434f56532828d041b1d6ca2755c3394c682acfdd65e44c0b"
+      "sha256": "a4040b46899bb09c434f56532828d041b1d6ca2755c3394c682acfdd65e44c0b",
+      "display_sha256": "e9239cb83edcb9d0e81bfb3bd42acb637f7c7789444b7902fa51fe596a8cec73",
+      "display_blob_sha": "2492b9d2327e15527ef6a93f69ef75d034423a6e",
+      "display_original_site_sha256": "a4040b46899bb09c434f56532828d041b1d6ca2755c3394c682acfdd65e44c0b",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/callirhoe-pedata/inat-647914570.jpg",

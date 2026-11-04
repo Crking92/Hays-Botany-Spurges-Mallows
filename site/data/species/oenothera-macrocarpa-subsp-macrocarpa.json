@@ -96,7 +96,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6818a8417bbcb86a0446e9ae73501da82ae2836a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +104,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 151840334, photo 262051662, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 23255c2e4ae1a108f5a98cfbc5eddff8c2b34cf3d899e27a35bd35f3b5f55fd3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera macrocarpa macrocarpa maps to indexed species oenothera-macrocarpa-subsp-macrocarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "23255c2e4ae1a108f5a98cfbc5eddff8c2b34cf3d899e27a35bd35f3b5f55fd3"
+      "sha256": "23255c2e4ae1a108f5a98cfbc5eddff8c2b34cf3d899e27a35bd35f3b5f55fd3",
+      "display_sha256": "16b6c74d512a61b79d611a4745aba7a74f936d8e1b51af0d6ee8eff7cf8c49c8",
+      "display_blob_sha": "9f0944b6299da286b9c18cc17d9841f45ac2d41b",
+      "display_original_site_sha256": "23255c2e4ae1a108f5a98cfbc5eddff8c2b34cf3d899e27a35bd35f3b5f55fd3",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-macrocarpa-subsp-macrocarpa/inat-269969857.jpg",
@@ -115,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "20d092beb1d8d770198f8f571cc9a7004c1c7473",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +128,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 156146440, photo 269969857, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d826bc99cc1c980d0f5fa1868b19ea8a8ed9c2968d743b2a096e3c6245437731. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera macrocarpa macrocarpa maps to indexed species oenothera-macrocarpa-subsp-macrocarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "d826bc99cc1c980d0f5fa1868b19ea8a8ed9c2968d743b2a096e3c6245437731"
+      "sha256": "d826bc99cc1c980d0f5fa1868b19ea8a8ed9c2968d743b2a096e3c6245437731",
+      "display_sha256": "5bfc135d2a27c7fa7fc554b7fe685ba8ed6956c0612c42d44e4a7de138e4f260",
+      "display_blob_sha": "919bdccaa8196550491e02f5a1e73e75811a00b5",
+      "display_original_site_sha256": "d826bc99cc1c980d0f5fa1868b19ea8a8ed9c2968d743b2a096e3c6245437731",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-macrocarpa-subsp-macrocarpa/inat-375687377.jpg",
@@ -134,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9c5f6422c4d6fe34d974f073bdfc088cd616500e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +152,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 212591942, photo 375687377, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1454910e09fa79377256246ba9fa9e3cde5f60a7d0a8aba279afd77c3324f8b8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera macrocarpa macrocarpa maps to indexed species oenothera-macrocarpa-subsp-macrocarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "1454910e09fa79377256246ba9fa9e3cde5f60a7d0a8aba279afd77c3324f8b8"
+      "sha256": "1454910e09fa79377256246ba9fa9e3cde5f60a7d0a8aba279afd77c3324f8b8",
+      "display_sha256": "3a15cacdc394bb0e1bf3f0cffbfc14187b7f8f5c6647b8af82cfc1fa80fe72cb",
+      "display_blob_sha": "8690f09822337e15bd1a5b28bf618804e97b0125",
+      "display_original_site_sha256": "1454910e09fa79377256246ba9fa9e3cde5f60a7d0a8aba279afd77c3324f8b8",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-macrocarpa-subsp-macrocarpa/inat-460539031.jpg",
@@ -153,7 +168,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ca6583cff5c01905a8c3a7a5b3fd65b065669921",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -161,7 +176,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 256812811, photo 460539031, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7988f5e0cc16fc823931b9a25fc0a62a2f543c40f7694ffb429ef67e3779f097. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera macrocarpa macrocarpa maps to indexed species oenothera-macrocarpa-subsp-macrocarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "7988f5e0cc16fc823931b9a25fc0a62a2f543c40f7694ffb429ef67e3779f097"
+      "sha256": "7988f5e0cc16fc823931b9a25fc0a62a2f543c40f7694ffb429ef67e3779f097",
+      "display_sha256": "fdcee586fd55e723b88bc7d9f56ffae60d29fa24a62e51ced6413283d77c60d6",
+      "display_blob_sha": "263e49d5cc0458c30e2002a6cf7d13fe38c79f4c",
+      "display_original_site_sha256": "7988f5e0cc16fc823931b9a25fc0a62a2f543c40f7694ffb429ef67e3779f097",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

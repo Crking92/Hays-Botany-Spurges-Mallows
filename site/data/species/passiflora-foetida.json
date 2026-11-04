@@ -101,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6077b07dc4d55f73f88ad852823bc4b8cc5efe8c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -109,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 169464770, photo 293792861, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f70a2afc485c45a2efa7e843a52c49d74d87c906c58d9ed099524d2fe923fa95. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora foetida maps to indexed species passiflora-foetida; specialist morphology and BONAP range deferred.",
-      "sha256": "f70a2afc485c45a2efa7e843a52c49d74d87c906c58d9ed099524d2fe923fa95"
+      "sha256": "f70a2afc485c45a2efa7e843a52c49d74d87c906c58d9ed099524d2fe923fa95",
+      "display_sha256": "42c068ed2c3715a98db4cc1447f7738639aa3581930674bc7c2d6745cab0623b",
+      "display_blob_sha": "ce908fd56bd6ad9609282baa5a37f09dde954d99",
+      "display_original_site_sha256": "f70a2afc485c45a2efa7e843a52c49d74d87c906c58d9ed099524d2fe923fa95",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-foetida/inat-293793199.jpeg",
@@ -120,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ae73f7e70c73867831fe75831ea04c582d62d8bb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -128,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 169464773, photo 293793199, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fcf0741697c8538af7ea858455b1aa738b99cda1c00a2da08449f994c3ff0ead. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora foetida maps to indexed species passiflora-foetida; specialist morphology and BONAP range deferred.",
-      "sha256": "fcf0741697c8538af7ea858455b1aa738b99cda1c00a2da08449f994c3ff0ead"
+      "sha256": "fcf0741697c8538af7ea858455b1aa738b99cda1c00a2da08449f994c3ff0ead",
+      "display_sha256": "afda2c40468065713c9e71b6e99c809b4f44ba6a68c0068b0d690e510212c2c2",
+      "display_blob_sha": "b556bebf4c44cb47617d18e7473a672e5b3e228f",
+      "display_original_site_sha256": "fcf0741697c8538af7ea858455b1aa738b99cda1c00a2da08449f994c3ff0ead",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-foetida/inat-408796311.jpeg",
@@ -139,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a6f247c71dd391388b2d23d8fafb110889e63f04",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -147,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 230246412, photo 408796311, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b1184b456d698a94c70779b3d83693564eaa62768c27e68fd2bb05f4d528d9ff. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora foetida maps to indexed species passiflora-foetida; specialist morphology and BONAP range deferred.",
-      "sha256": "b1184b456d698a94c70779b3d83693564eaa62768c27e68fd2bb05f4d528d9ff"
+      "sha256": "b1184b456d698a94c70779b3d83693564eaa62768c27e68fd2bb05f4d528d9ff",
+      "display_sha256": "9dcd39e9721f19b429f1232ef6bfee383a6371f11b0b60cff90fc7e5e4d12523",
+      "display_blob_sha": "ce07303774925af25c9952e68d141838a3e35290",
+      "display_original_site_sha256": "b1184b456d698a94c70779b3d83693564eaa62768c27e68fd2bb05f4d528d9ff",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-foetida/inat-408796391.jpeg",
@@ -158,7 +173,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "105f2ee54ede48b4958528e9c2565baf6c07439d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -166,7 +181,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 230246422, photo 408796391, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4954b08f8ea05939c5bd2255099ee7748977abfbf0a72336b0ec44e815e9f879. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora foetida maps to indexed species passiflora-foetida; specialist morphology and BONAP range deferred.",
-      "sha256": "4954b08f8ea05939c5bd2255099ee7748977abfbf0a72336b0ec44e815e9f879"
+      "sha256": "4954b08f8ea05939c5bd2255099ee7748977abfbf0a72336b0ec44e815e9f879",
+      "display_sha256": "3a670d0f381c12f2a56b659b967836ac85397e2ebdb9defe216e8ef3c564fa09",
+      "display_blob_sha": "3d974fa3d7d7dd51462c7eabe25c5a0537f4f58b",
+      "display_original_site_sha256": "4954b08f8ea05939c5bd2255099ee7748977abfbf0a72336b0ec44e815e9f879",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-foetida/inat-687913398.jpg",
@@ -177,7 +197,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "33567926e1299e28233d7adc2d011e48a392778b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -185,7 +205,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 376250864, photo 687913398, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8d2f96fed81484ad8ab5345688857ff94358388bc6a3c85295655bcd8db88593. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora foetida maps to indexed species passiflora-foetida; specialist morphology and BONAP range deferred.",
-      "sha256": "8d2f96fed81484ad8ab5345688857ff94358388bc6a3c85295655bcd8db88593"
+      "sha256": "8d2f96fed81484ad8ab5345688857ff94358388bc6a3c85295655bcd8db88593",
+      "display_sha256": "ad36f6608d8b05b03d7d12ed87efc6d5ac99154ad48434c54a58d915d6306a6f",
+      "display_blob_sha": "492549fb47d10542fcb530ad00c04f0ee400726b",
+      "display_original_site_sha256": "8d2f96fed81484ad8ab5345688857ff94358388bc6a3c85295655bcd8db88593",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

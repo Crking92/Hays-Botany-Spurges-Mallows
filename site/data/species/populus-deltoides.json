@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "544d2229ce7555eb20fabad6cf69483494d8afd1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 346073802, photo 630782031, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9fe9b83101b77f25bf60198a7324a2e1274a22c082ead69e6e0d5268c97eebec.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Populus deltoides maps to indexed species populus-deltoides; specialist morphology and BONAP range deferred.",
-      "sha256": "9fe9b83101b77f25bf60198a7324a2e1274a22c082ead69e6e0d5268c97eebec"
+      "sha256": "9fe9b83101b77f25bf60198a7324a2e1274a22c082ead69e6e0d5268c97eebec",
+      "display_sha256": "02bcf31ea59835f4a98bf367834f12ed38d689d91eb7c438d6e64b79375d2da9",
+      "display_blob_sha": "1b9e2ea6c625e3b19e6374fa055eaebe91c8b931",
+      "display_original_site_sha256": "9fe9b83101b77f25bf60198a7324a2e1274a22c082ead69e6e0d5268c97eebec",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/populus-deltoides/inat-633155107.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "96f4ebcb15c7610c28dcc6260323a0a5c924535b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 347268803, photo 633155107, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0a8854b3d1a7b7446c83a5c43af047371fc908525b491d15f55bf3a338960937.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Populus deltoides maps to indexed species populus-deltoides; specialist morphology and BONAP range deferred.",
-      "sha256": "0a8854b3d1a7b7446c83a5c43af047371fc908525b491d15f55bf3a338960937"
+      "sha256": "0a8854b3d1a7b7446c83a5c43af047371fc908525b491d15f55bf3a338960937",
+      "display_sha256": "5d2cbb9a37170bbbc01aed92971f2126b8ddf0c53fc95896e283bb5d9fce7151",
+      "display_blob_sha": "0004bdb8c95befc67828d5de18b504a71592e33b",
+      "display_original_site_sha256": "0a8854b3d1a7b7446c83a5c43af047371fc908525b491d15f55bf3a338960937",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/populus-deltoides/inat-635803234.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1c5fb2c6a10f3ca26812bf8dcda23c36e978a4f6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 348606440, photo 635803234, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2e3284e68c2b66e570c03c760dcab42a261784d5b3f978009d8e445f9780fd88.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Populus deltoides maps to indexed species populus-deltoides; specialist morphology and BONAP range deferred.",
-      "sha256": "2e3284e68c2b66e570c03c760dcab42a261784d5b3f978009d8e445f9780fd88"
+      "sha256": "2e3284e68c2b66e570c03c760dcab42a261784d5b3f978009d8e445f9780fd88",
+      "display_sha256": "717c41ca3742df30f6480fea13e750ab707b534afc5f0ba7baf114b8e75d85aa",
+      "display_blob_sha": "4a8aba69782f58a3739275c40ac4691563b60cee",
+      "display_original_site_sha256": "2e3284e68c2b66e570c03c760dcab42a261784d5b3f978009d8e445f9780fd88",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/populus-deltoides/inat-641314164.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8de6c9f9a726d914cb2fad244e01712aa1b8e51e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 351425708, photo 641314164, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 619268df5e4aef03b126bc4887805f8b201bc50130e7ecd3362927d766c573c9.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Populus deltoides maps to indexed species populus-deltoides; specialist morphology and BONAP range deferred.",
-      "sha256": "619268df5e4aef03b126bc4887805f8b201bc50130e7ecd3362927d766c573c9"
+      "sha256": "619268df5e4aef03b126bc4887805f8b201bc50130e7ecd3362927d766c573c9",
+      "display_sha256": "2879db0f280378af29cd3610bbe741c274e7e878ce04eb58c6d416b0e88e1b1a",
+      "display_blob_sha": "49443f0fc0076fa276d86edbb364a675539c82a1",
+      "display_original_site_sha256": "619268df5e4aef03b126bc4887805f8b201bc50130e7ecd3362927d766c573c9",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/populus-deltoides/inat-644149455.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "1e7f8ee6314c0c5a460998f477a9710e70d2afd3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany multi-family original ZIP contact-sheet/source verifier",
       "source_review_evidence": "Live iNaturalist observation 353000876, photo 644149455, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 154595c1ba5cf37a0237333731008f8a2518a0441726a15af14e4a3cc1664f3b.",
       "taxon_review_evidence": "Contact sheets checked for obvious wrong organism. Live source name Populus deltoides maps to indexed species populus-deltoides; specialist morphology and BONAP range deferred.",
-      "sha256": "154595c1ba5cf37a0237333731008f8a2518a0441726a15af14e4a3cc1664f3b"
+      "sha256": "154595c1ba5cf37a0237333731008f8a2518a0441726a15af14e4a3cc1664f3b",
+      "display_sha256": "4cc1296e0ad02aebb2ce3d4e741a95e81fa87f956847965682d969e6123da8c1",
+      "display_blob_sha": "53767773076b63ef0765d0a034181ca590fd5019",
+      "display_original_site_sha256": "154595c1ba5cf37a0237333731008f8a2518a0441726a15af14e4a3cc1664f3b",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/populus-deltoides/archived-bc78fc6c76529548.jpg",

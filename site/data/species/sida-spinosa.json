@@ -96,7 +96,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "9efd94770cb9e088fab84a3e6456f8a006961aa5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +104,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 14306718, photo 21250266, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 76906eb6f9da991b7326546074200bad6679b97ce4abc8516f9db64785ec9228. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Sida spinosa maps to indexed species sida-spinosa; specialist morphology and BONAP range deferred.",
-      "sha256": "76906eb6f9da991b7326546074200bad6679b97ce4abc8516f9db64785ec9228"
+      "sha256": "76906eb6f9da991b7326546074200bad6679b97ce4abc8516f9db64785ec9228",
+      "display_sha256": "efe36761186def369a60e79dfb1e946f6a0d3f39de89243bf35c59081957a2c5",
+      "display_blob_sha": "04f51a86074db7e33ab283ff362cb45e66dea034",
+      "display_original_site_sha256": "76906eb6f9da991b7326546074200bad6679b97ce4abc8516f9db64785ec9228",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sida-spinosa/inat-46766047.jpg",
@@ -115,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "08771abd35a5e96da15eeb048052ae4d05c752a8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +128,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 29947750, photo 46766047, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7cd8a32bba373baba79bfd6b4feeff9d46f2cfc6f1c775686e93fb3dc703bb54. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Sida spinosa maps to indexed species sida-spinosa; specialist morphology and BONAP range deferred.",
-      "sha256": "7cd8a32bba373baba79bfd6b4feeff9d46f2cfc6f1c775686e93fb3dc703bb54"
+      "sha256": "7cd8a32bba373baba79bfd6b4feeff9d46f2cfc6f1c775686e93fb3dc703bb54",
+      "display_sha256": "7db7a37ae0893a12496419f710cbdaa308fe95c0dafa0f99ac0b621413a82475",
+      "display_blob_sha": "e965350fcac6d7130bd213a67d6eb548ac9cdaa1",
+      "display_original_site_sha256": "7cd8a32bba373baba79bfd6b4feeff9d46f2cfc6f1c775686e93fb3dc703bb54",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sida-spinosa/inat-645162272.jpg",
@@ -134,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "c0ff3986aaa6a8a72decf75a763462a72a0c6b02",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -142,7 +152,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353609421, photo 645162272, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a553d65766854936d114f15012453e88056cab6e1952d0cda607277a8dfea4a7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Sida spinosa maps to indexed species sida-spinosa; specialist morphology and BONAP range deferred.",
-      "sha256": "a553d65766854936d114f15012453e88056cab6e1952d0cda607277a8dfea4a7"
+      "sha256": "a553d65766854936d114f15012453e88056cab6e1952d0cda607277a8dfea4a7",
+      "display_sha256": "129fcfee8332188ea4f726a69b125e7c0951528e549e0c78e4d4184dc8442e14",
+      "display_blob_sha": "6926084a686b1d330844ecde70a12d3f1eca30bf",
+      "display_original_site_sha256": "a553d65766854936d114f15012453e88056cab6e1952d0cda607277a8dfea4a7",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/sida-spinosa/inat-89103463.jpg",
@@ -172,7 +187,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "41c9bec7e9deac8680f0b62194f64645500fed07",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -180,7 +195,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 58050401, photo 92644543, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ad0b93050ca506afd332e42ee1635ab77fb7f526e04b83d217e5c9b8707e9de9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Sida spinosa maps to indexed species sida-spinosa; specialist morphology and BONAP range deferred.",
-      "sha256": "ad0b93050ca506afd332e42ee1635ab77fb7f526e04b83d217e5c9b8707e9de9"
+      "sha256": "ad0b93050ca506afd332e42ee1635ab77fb7f526e04b83d217e5c9b8707e9de9",
+      "display_sha256": "5959988efb45213b4feb778640a704ce447441db8221d4876dfcbb15c15d48a7",
+      "display_blob_sha": "f15caa2ba4abbe95486657aabc1af30ffd90ab09",
+      "display_original_site_sha256": "ad0b93050ca506afd332e42ee1635ab77fb7f526e04b83d217e5c9b8707e9de9",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

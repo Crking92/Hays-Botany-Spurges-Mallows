@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "424e3f0d0e644fc8eca2bb6443d55a1d8e9fee9f",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 211879757, photo 374494521, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fa74d8ea57836085668d867cb87ab1baf4075a2786b56c0d9ff9f2f3fbcdca59. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera serrulata maps to indexed species oenothera-serrulata; specialist morphology and BONAP range deferred.",
-      "sha256": "fa74d8ea57836085668d867cb87ab1baf4075a2786b56c0d9ff9f2f3fbcdca59"
+      "sha256": "fa74d8ea57836085668d867cb87ab1baf4075a2786b56c0d9ff9f2f3fbcdca59",
+      "display_sha256": "97d3056dbec73d8983570155409d334c5133904a24e45fafa68abb2c0a9e88c3",
+      "display_blob_sha": "c33107654a6133b2912cdfb2bbd574cd476349d5",
+      "display_original_site_sha256": "fa74d8ea57836085668d867cb87ab1baf4075a2786b56c0d9ff9f2f3fbcdca59",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-serrulata/inat-514133457.jpg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "515e3d968679fabc7bb85b4a9b467e14b79d626c",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356665087, photo 650439278, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7ac9f7f685f9451a97a068ab059f535c247e329c5074313d2e69a4477b645f32. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera serrulata maps to indexed species oenothera-serrulata; specialist morphology and BONAP range deferred.",
-      "sha256": "7ac9f7f685f9451a97a068ab059f535c247e329c5074313d2e69a4477b645f32"
+      "sha256": "7ac9f7f685f9451a97a068ab059f535c247e329c5074313d2e69a4477b645f32",
+      "display_sha256": "7dbffcb68dcd2ce29c9eb4a0228c97da118671f50cd7e2fef6c6b44e3ab95953",
+      "display_blob_sha": "cff4806fa03cf24e56a0953eb3f4bfbea1db0a33",
+      "display_original_site_sha256": "7ac9f7f685f9451a97a068ab059f535c247e329c5074313d2e69a4477b645f32",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-serrulata/inat-652435104.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "e92541f4fe0d4648bb1ae8f81adcb301a25980c6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 357697219, photo 652435104, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 77f3f016f534be73e9b75e543e5177a3a43bb10e635398c829946dd9cd80a253. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera serrulata maps to indexed species oenothera-serrulata; specialist morphology and BONAP range deferred.",
-      "sha256": "77f3f016f534be73e9b75e543e5177a3a43bb10e635398c829946dd9cd80a253"
+      "sha256": "77f3f016f534be73e9b75e543e5177a3a43bb10e635398c829946dd9cd80a253",
+      "display_sha256": "6c4b1cc32e243dcda9339f7dcd4a37dd1a676868a62138dd58b5323344a2b1df",
+      "display_blob_sha": "6fbeb39b55ae6859018cd2fbc08fb51b19a02815",
+      "display_original_site_sha256": "77f3f016f534be73e9b75e543e5177a3a43bb10e635398c829946dd9cd80a253",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

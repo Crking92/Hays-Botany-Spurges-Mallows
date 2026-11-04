@@ -96,7 +96,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "a0ffb262619d409f390c4658358b51f9c4f35c53",
       "role": "Exact taxon candidate; structure verification pending",
-      "modified": "Historical archived photograph; no new changes.",
+      "modified": "Resized and recompressed web display copy; source note: Historical archived photograph; no new changes.",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -104,7 +104,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 285605474 photo 513369845 individual CC code cc-by; photographer (c) Ian McFaul, some rights reserved (CC BY); image dHash difference 0; archived source SHA a0ffb262619d409f390c4658358b51f9c4f35c53; exact image source https://www.inaturalist.org/photos/513369845",
       "taxon_review_evidence": "Original species record Euphorbia golondrina linked to an original image and matching current inat photo of source taxon Euphorbia golondrina. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "60b3b3a17919e981a5160388d8358136aa66e2617da2726dfc26ed0bd59c1e1b"
+      "sha256": "60b3b3a17919e981a5160388d8358136aa66e2617da2726dfc26ed0bd59c1e1b",
+      "display_sha256": "78b23cea62a695883e393595500780194a1ccac4cab48d835ad5c4a02b630135",
+      "display_blob_sha": "d92fac88c4687a9bffc09c91080e323b9dca60df",
+      "display_original_site_sha256": "60b3b3a17919e981a5160388d8358136aa66e2617da2726dfc26ed0bd59c1e1b",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/euphorbia-golondrina/archived-649da4974c403af3.jpg",
@@ -115,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2640149ebca265a53f71fcdb98c82b42f398c2f7",
       "role": "Exact taxon candidate; structure verification pending",
-      "modified": "Historical archived photograph; no new changes.",
+      "modified": "Resized and recompressed web display copy; source note: Historical archived photograph; no new changes.",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -123,7 +128,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 162222174 photo 280478731 individual CC code cc-by-nc; photographer (c) Nathan Taylor, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA 2640149ebca265a53f71fcdb98c82b42f398c2f7; exact image source https://www.inaturalist.org/photos/280478731",
       "taxon_review_evidence": "Original species record Euphorbia golondrina linked to an original image and matching current inat photo of source taxon Euphorbia golondrina. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "649da4974c403af3ec9dfb38eb83a1df3c18c98decb5653fe6f05985571ae762"
+      "sha256": "649da4974c403af3ec9dfb38eb83a1df3c18c98decb5653fe6f05985571ae762",
+      "display_sha256": "df31b2bd4a1d17e05d94f0791cc15f14649128f4388ea2fa4a26ed42df509452",
+      "display_blob_sha": "4e17d731cd20b0821b4e92ce8deda83b0e89a4b6",
+      "display_original_site_sha256": "649da4974c403af3ec9dfb38eb83a1df3c18c98decb5653fe6f05985571ae762",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/euphorbia-golondrina/archived-d453ee7f338734dd.jpg",
@@ -134,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bfe79a0e63b9876b80488e00f24bae63a975cb5a",
       "role": "Exact taxon candidate; structure verification pending",
-      "modified": "Historical archived photograph; no new changes.",
+      "modified": "Resized and recompressed web display copy; source note: Historical archived photograph; no new changes.",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
@@ -142,7 +152,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
       "source_review_evidence": "iNaturalist observation 163345016 photo 282507362 individual CC code cc-by-nc; photographer (c) Mark Fishbein, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA bfe79a0e63b9876b80488e00f24bae63a975cb5a; exact image source https://www.inaturalist.org/photos/282507362",
       "taxon_review_evidence": "Original species record Euphorbia golondrina linked to an original image and matching current inat photo of source taxon Euphorbia golondrina. Basic source-backed field recognition only; no diagnostic arrow certification.",
-      "sha256": "d453ee7f338734ddcf24e9fa9d7b6b0330017d8c698f4b966f29b228fb48f6ba"
+      "sha256": "d453ee7f338734ddcf24e9fa9d7b6b0330017d8c698f4b966f29b228fb48f6ba",
+      "display_sha256": "89a47609c16a8ab0037ae971f17103f57ca0b90ce58f6aa498efb7ed219b95ce",
+      "display_blob_sha": "ea00dfedbe38312ae3ab894ed6fcdc43201a542d",
+      "display_original_site_sha256": "d453ee7f338734ddcf24e9fa9d7b6b0330017d8c698f4b966f29b228fb48f6ba",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/euphorbia-golondrina/archived-f581174713056d47.jpg",

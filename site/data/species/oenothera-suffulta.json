@@ -102,7 +102,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6ac33d302643e1083334c4ba17a93fa28df93e76",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -110,7 +110,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352472166, photo 643328792, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4366a13234aae898021a49662338174e5515a45727bde5f3cdecd0f9468a5a9f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera suffulta maps to indexed species oenothera-suffulta; specialist morphology and BONAP range deferred.",
-      "sha256": "4366a13234aae898021a49662338174e5515a45727bde5f3cdecd0f9468a5a9f"
+      "sha256": "4366a13234aae898021a49662338174e5515a45727bde5f3cdecd0f9468a5a9f",
+      "display_sha256": "21dc1a30984aa4bb194ddf9f19b3817e6369b5da9fb6b890b59228a458f526ee",
+      "display_blob_sha": "cb10e39cc676f376848fe0f7d45bd95847108490",
+      "display_original_site_sha256": "4366a13234aae898021a49662338174e5515a45727bde5f3cdecd0f9468a5a9f",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-suffulta/inat-645360776.jpg",
@@ -140,7 +145,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "12f5ab3b50aab7e8a7edda5dda02f519e10465c0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -148,7 +153,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354931387, photo 647426292, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bb1c4a5c24d0be6e1ac379250b63a83565b43cecea07e0f7a3d1a5238762562c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera suffulta maps to indexed species oenothera-suffulta; specialist morphology and BONAP range deferred.",
-      "sha256": "bb1c4a5c24d0be6e1ac379250b63a83565b43cecea07e0f7a3d1a5238762562c"
+      "sha256": "bb1c4a5c24d0be6e1ac379250b63a83565b43cecea07e0f7a3d1a5238762562c",
+      "display_sha256": "5e06322ec4ddc817b793e3f29ebf08ab785bccb6c234d2532a4a242509b1157d",
+      "display_blob_sha": "4308a0f13470d1e5c022954e7a3716373ab5be0f",
+      "display_original_site_sha256": "bb1c4a5c24d0be6e1ac379250b63a83565b43cecea07e0f7a3d1a5238762562c",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-suffulta/inat-647428381.jpg",
@@ -159,7 +169,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2f7144dccd83b9e40671071303ef6c7e759661f8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -167,7 +177,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354932630, photo 647428381, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b425c3372ed34eee7aa93a0c2e0ea35bb694a928d566209bf34e46546e152c57. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera suffulta maps to indexed species oenothera-suffulta; specialist morphology and BONAP range deferred.",
-      "sha256": "b425c3372ed34eee7aa93a0c2e0ea35bb694a928d566209bf34e46546e152c57"
+      "sha256": "b425c3372ed34eee7aa93a0c2e0ea35bb694a928d566209bf34e46546e152c57",
+      "display_sha256": "1466d76b60217f16d4ffc20e56974b4646c69fea4d23952bbfa418b088b38020",
+      "display_blob_sha": "c7882f8698dd45137c024d60660c03014566b2d7",
+      "display_original_site_sha256": "b425c3372ed34eee7aa93a0c2e0ea35bb694a928d566209bf34e46546e152c57",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-suffulta/archived-0554de2017ad2d91.jpg",

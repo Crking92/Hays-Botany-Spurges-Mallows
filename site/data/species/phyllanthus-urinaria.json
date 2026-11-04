@@ -25,7 +25,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0c2831532fcdf70d5c086006b28bf5876710dc80",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -33,7 +33,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 95031613, photo 157716988, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3c33b1b0b389ea39bc7d9c0a4e861e01e3a0e921de650067f28c150923d44778. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Phyllanthus urinaria maps to indexed species phyllanthus-urinaria; specialist morphology and BONAP range deferred.",
-      "sha256": "3c33b1b0b389ea39bc7d9c0a4e861e01e3a0e921de650067f28c150923d44778"
+      "sha256": "3c33b1b0b389ea39bc7d9c0a4e861e01e3a0e921de650067f28c150923d44778",
+      "display_sha256": "377a1853c75dcb75514ee1f7c9758b65dd18abae702fd5ce8aed187b83a70f58",
+      "display_blob_sha": "6101cc5a3b5d88a5fcd4aef919143c992b5e290c",
+      "display_original_site_sha256": "3c33b1b0b389ea39bc7d9c0a4e861e01e3a0e921de650067f28c150923d44778",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phyllanthus-urinaria/inat-24364809.jpeg",
@@ -44,7 +49,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "e33cb6fb8eec475495197156681c2835c1f49778",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -52,7 +57,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 16233308, photo 24364809, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 92cd11c0a2c6162913d695923386b1c14e57345c06ba333e63109dc47f8413e4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Phyllanthus urinaria maps to indexed species phyllanthus-urinaria; specialist morphology and BONAP range deferred.",
-      "sha256": "92cd11c0a2c6162913d695923386b1c14e57345c06ba333e63109dc47f8413e4"
+      "sha256": "92cd11c0a2c6162913d695923386b1c14e57345c06ba333e63109dc47f8413e4",
+      "display_sha256": "7d7db35cb164802feeffe1e59dfa4914361839c777800d4075a0706f5d3624d1",
+      "display_blob_sha": "4d55072fbbd802240d01434480acfdab51633b0b",
+      "display_original_site_sha256": "92cd11c0a2c6162913d695923386b1c14e57345c06ba333e63109dc47f8413e4",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phyllanthus-urinaria/inat-723565770.jpg",
@@ -63,7 +73,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "05700c94239c6c178321f6bba523d9f6bbc3fa6e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -71,7 +81,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 394669401, photo 723565770, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d27f4e1af468fcdc99d4c2b0c6530597a57bbb6a086696b2b229a835a42e3481. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Phyllanthus urinaria maps to indexed species phyllanthus-urinaria; specialist morphology and BONAP range deferred.",
-      "sha256": "d27f4e1af468fcdc99d4c2b0c6530597a57bbb6a086696b2b229a835a42e3481"
+      "sha256": "d27f4e1af468fcdc99d4c2b0c6530597a57bbb6a086696b2b229a835a42e3481",
+      "display_sha256": "6bc7abd633014e4a3bfa78f9c5e7163f07f9ff514779fa2ddf176f13241d8cc3",
+      "display_blob_sha": "732a6b82f15b2bc12be0b30d6936905e3b1e5189",
+      "display_original_site_sha256": "d27f4e1af468fcdc99d4c2b0c6530597a57bbb6a086696b2b229a835a42e3481",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phyllanthus-urinaria/inat-95283918.jpg",
@@ -82,7 +97,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "23fdb7851631a10e30f35a0dba5776a8010f6190",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -90,7 +105,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 59626268, photo 95283918, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6ac1cb93ecd265c8906c272ac75237aca84b61931086e3b9fc776bc66ac6636f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Phyllanthus urinaria maps to indexed species phyllanthus-urinaria; specialist morphology and BONAP range deferred.",
-      "sha256": "6ac1cb93ecd265c8906c272ac75237aca84b61931086e3b9fc776bc66ac6636f"
+      "sha256": "6ac1cb93ecd265c8906c272ac75237aca84b61931086e3b9fc776bc66ac6636f",
+      "display_sha256": "2d04ae0018aa5443cf9d31a28bea003357f480adfadc55eabebd26501dc70c2a",
+      "display_blob_sha": "1a9ea87b962bc38c86f15b378177ffbdec9390c3",
+      "display_original_site_sha256": "6ac1cb93ecd265c8906c272ac75237aca84b61931086e3b9fc776bc66ac6636f",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phyllanthus-urinaria/archived-500392c1538da474.jpg",

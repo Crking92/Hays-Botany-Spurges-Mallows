@@ -80,7 +80,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a6fb0094f97ec58c72289d730a251384149c91cd",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -88,7 +88,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 344021813, photo 626772016, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 3f5b99e92e453233fa4b34c566ef45581f81159c0855e301c2e44f24500bdebe. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Stillingia texana maps to indexed species stillingia-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "3f5b99e92e453233fa4b34c566ef45581f81159c0855e301c2e44f24500bdebe"
+      "sha256": "3f5b99e92e453233fa4b34c566ef45581f81159c0855e301c2e44f24500bdebe",
+      "display_sha256": "27054a7ec3087e53189a53857919f0ad8ceb9b6781056a72bd03858418ef8433",
+      "display_blob_sha": "f9c9e16fffe7cf4579c6a95a63bff2cb1a59d914",
+      "display_original_site_sha256": "3f5b99e92e453233fa4b34c566ef45581f81159c0855e301c2e44f24500bdebe",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/stillingia-texana/inat-630783929.jpg",
@@ -99,7 +104,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "443d1a546b202ce2c76c4a1a748276b37db86104",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -107,7 +112,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346074462, photo 630783929, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 63606e6db4d9fa89de297ccdd5f47e491062437f688ca885403aa861e195658b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Stillingia texana maps to indexed species stillingia-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "63606e6db4d9fa89de297ccdd5f47e491062437f688ca885403aa861e195658b"
+      "sha256": "63606e6db4d9fa89de297ccdd5f47e491062437f688ca885403aa861e195658b",
+      "display_sha256": "25ad92517a17773f6796ce676aff7957bc7cb6be1f4a11ecec27abd639871ab8",
+      "display_blob_sha": "9cb972a93848ef57230723d64dd6506c8a4505a9",
+      "display_original_site_sha256": "63606e6db4d9fa89de297ccdd5f47e491062437f688ca885403aa861e195658b",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/stillingia-texana/inat-631626743.jpg",
@@ -118,7 +128,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ae971adfc7bbbce3de31a37aee549483e1d7166b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -126,7 +136,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346500987, photo 631626743, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 19b0a528d136cd97c4bd141f4a0e0371f00308c6be9531eb2c0e4f99c9bdfe67. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Stillingia texana maps to indexed species stillingia-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "19b0a528d136cd97c4bd141f4a0e0371f00308c6be9531eb2c0e4f99c9bdfe67"
+      "sha256": "19b0a528d136cd97c4bd141f4a0e0371f00308c6be9531eb2c0e4f99c9bdfe67",
+      "display_sha256": "a93d8b9f87053f112d1a1ae04334d8f8577180c0e1712cd46d49427b9c18c118",
+      "display_blob_sha": "9fb175895b9a9b22718958ff5c464a985cd0b232",
+      "display_original_site_sha256": "19b0a528d136cd97c4bd141f4a0e0371f00308c6be9531eb2c0e4f99c9bdfe67",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/stillingia-texana/inat-632378592.jpg",
@@ -137,7 +152,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "4900e5fcb9f3bfcaa4209f82f17e0244fb3765a7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -145,7 +160,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346880917, photo 632378592, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2506f4174774d933de2784ad1fcf0877d0e4dcb0ae119c2d437b487b6e82e645. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Stillingia texana maps to indexed species stillingia-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "2506f4174774d933de2784ad1fcf0877d0e4dcb0ae119c2d437b487b6e82e645"
+      "sha256": "2506f4174774d933de2784ad1fcf0877d0e4dcb0ae119c2d437b487b6e82e645",
+      "display_sha256": "8454ce7452457fbe591830499bf136a75dd4e57abea5ec48c72b76566eb5e13c",
+      "display_blob_sha": "c4456fbe308e74b5ff792f35782c7deb49131cda",
+      "display_original_site_sha256": "2506f4174774d933de2784ad1fcf0877d0e4dcb0ae119c2d437b487b6e82e645",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/stillingia-texana/inat-647282643.jpg",
@@ -156,7 +176,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a73a4072061388ca6807cd01c48c4a52d9e64b45",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -164,7 +184,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354850860, photo 647282643, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6ff2538b7793a8727b5837ff794246c35192648b8534dcbdd9c719bd307e033d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Stillingia texana maps to indexed species stillingia-texana; specialist morphology and BONAP range deferred.",
-      "sha256": "6ff2538b7793a8727b5837ff794246c35192648b8534dcbdd9c719bd307e033d"
+      "sha256": "6ff2538b7793a8727b5837ff794246c35192648b8534dcbdd9c719bd307e033d",
+      "display_sha256": "eeed600f0c06bade955bf61831d8332aae83b7421e1c952bb1c60a46a1245244",
+      "display_blob_sha": "8eae89b7d62c4ee469d8eb13920bc74b4e64fdfa",
+      "display_original_site_sha256": "6ff2538b7793a8727b5837ff794246c35192648b8534dcbdd9c719bd307e033d",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

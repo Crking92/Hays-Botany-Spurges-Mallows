@@ -114,7 +114,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "dc0e89ec8b3a2a25ae58751380b8605fdf77d676",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -122,7 +122,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 285073364, photo 512382061, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ca36f0752a57fe66ad26bc4da1772f68221f76b5eaeb99c3dbff9d7909320443. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Callirhoe digitata maps to indexed species callirhoe-digitata; specialist morphology and BONAP range deferred.",
-      "sha256": "ca36f0752a57fe66ad26bc4da1772f68221f76b5eaeb99c3dbff9d7909320443"
+      "sha256": "ca36f0752a57fe66ad26bc4da1772f68221f76b5eaeb99c3dbff9d7909320443",
+      "display_sha256": "37975438b4d060734d6f2d8fbd69905e1c1040193b40f5141d016ff57546e0c7",
+      "display_blob_sha": "520f534261decef9ae7f87ca1656c172660677fd",
+      "display_original_site_sha256": "ca36f0752a57fe66ad26bc4da1772f68221f76b5eaeb99c3dbff9d7909320443",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/callirhoe-digitata/inat-514170315.jpg",
@@ -133,7 +138,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5aa4bfe9bd55c8b288f4f3797787dced0ac1549a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -141,7 +146,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 286034570, photo 514170315, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0842295415af0e7435d871d9a7cc110a73ee13d7c9f785bae829391dc26c567b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Callirhoe digitata maps to indexed species callirhoe-digitata; specialist morphology and BONAP range deferred.",
-      "sha256": "0842295415af0e7435d871d9a7cc110a73ee13d7c9f785bae829391dc26c567b"
+      "sha256": "0842295415af0e7435d871d9a7cc110a73ee13d7c9f785bae829391dc26c567b",
+      "display_sha256": "f5ae67679909f2993474512dd51f2af56ebb3f14413511942be427d1c6aa9885",
+      "display_blob_sha": "2db811bac342fd92c1c6f0d91dd8d926d1aea096",
+      "display_original_site_sha256": "0842295415af0e7435d871d9a7cc110a73ee13d7c9f785bae829391dc26c567b",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/callirhoe-digitata/inat-666162228.jpg",
@@ -171,7 +181,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cde7ff3a3b889ebb19bb0ab05fb76c3b01da6b89",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -179,7 +189,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 366391355, photo 669018540, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bbb3c9113f8fac728db06875e0126f0d618d489bb785e6c7545467ef3c657342. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Callirhoe digitata maps to indexed species callirhoe-digitata; specialist morphology and BONAP range deferred.",
-      "sha256": "bbb3c9113f8fac728db06875e0126f0d618d489bb785e6c7545467ef3c657342"
+      "sha256": "bbb3c9113f8fac728db06875e0126f0d618d489bb785e6c7545467ef3c657342",
+      "display_sha256": "2b16e24542f63bc0dfb5ecf7d9f4f4657fd0c3da96fbcd5b660438cb76f413a1",
+      "display_blob_sha": "3aa049ff782630cb1ad6d4ad60e61bcf9afc2cff",
+      "display_original_site_sha256": "bbb3c9113f8fac728db06875e0126f0d618d489bb785e6c7545467ef3c657342",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

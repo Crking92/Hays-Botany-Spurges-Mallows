@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5efde803f800a8d03271eaa59845e6651448957b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 342311876, photo 623343634, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 02fb7b1391366fd13ec245dab7e97691bcb183b52e2e06d0e4fcd7f655882497. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Rhynchosida physocalyx maps to indexed species rhynchosida-physocalyx; specialist morphology and BONAP range deferred.",
-      "sha256": "02fb7b1391366fd13ec245dab7e97691bcb183b52e2e06d0e4fcd7f655882497"
+      "sha256": "02fb7b1391366fd13ec245dab7e97691bcb183b52e2e06d0e4fcd7f655882497",
+      "display_sha256": "cebb9b59c4f84c2631de591494fa9ad5c804808ad01344027e2afec41c749a7e",
+      "display_blob_sha": "892338dbfe99635f7b378a1f9604d1b3b23a92e5",
+      "display_original_site_sha256": "02fb7b1391366fd13ec245dab7e97691bcb183b52e2e06d0e4fcd7f655882497",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchosida-physocalyx/inat-630092553.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5605ccf18ecb9fe31396ee3f393cb7a7f7962c75",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345722017, photo 630092553, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bd400228c91749c40deb3e7c814f34cc17d49464be8734a6027965c8f77edb42. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Rhynchosida physocalyx maps to indexed species rhynchosida-physocalyx; specialist morphology and BONAP range deferred.",
-      "sha256": "bd400228c91749c40deb3e7c814f34cc17d49464be8734a6027965c8f77edb42"
+      "sha256": "bd400228c91749c40deb3e7c814f34cc17d49464be8734a6027965c8f77edb42",
+      "display_sha256": "b9c09d27cc34473d299f725846d51a595e024da9fbef96a0123bc46b2dfd8a18",
+      "display_blob_sha": "970c3ee3f4259548ed44637acf70c6e889942900",
+      "display_original_site_sha256": "bd400228c91749c40deb3e7c814f34cc17d49464be8734a6027965c8f77edb42",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchosida-physocalyx/inat-638662487.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4fbbe3c72f88b08be71465281b7dbdb484b7281e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350063301, photo 638662487, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f8f6a43c8ddd9dcdee6b8a459045edd74b74485af6e28240661b2cb7172d7102. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Rhynchosida physocalyx maps to indexed species rhynchosida-physocalyx; specialist morphology and BONAP range deferred.",
-      "sha256": "f8f6a43c8ddd9dcdee6b8a459045edd74b74485af6e28240661b2cb7172d7102"
+      "sha256": "f8f6a43c8ddd9dcdee6b8a459045edd74b74485af6e28240661b2cb7172d7102",
+      "display_sha256": "b7bbcde734240a1f3c6f4d522b6b88d4bf8b06e3e990bc55b9746f6d4fe95640",
+      "display_blob_sha": "53f5a023091b289746999c0ed685a3555a2716c9",
+      "display_original_site_sha256": "f8f6a43c8ddd9dcdee6b8a459045edd74b74485af6e28240661b2cb7172d7102",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchosida-physocalyx/inat-647428245.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "bffc945d28e7c74c4d7ff43526ac7950db8bda45",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354932518, photo 647428245, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fbd9ab8767e61fde2bfeef838bd78cd8b41077e57feae383148ee28abf4aec46. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Rhynchosida physocalyx maps to indexed species rhynchosida-physocalyx; specialist morphology and BONAP range deferred.",
-      "sha256": "fbd9ab8767e61fde2bfeef838bd78cd8b41077e57feae383148ee28abf4aec46"
+      "sha256": "fbd9ab8767e61fde2bfeef838bd78cd8b41077e57feae383148ee28abf4aec46",
+      "display_sha256": "25b01873cdc284ac488ad923c3b3b48274ca34dcfa627d7dc53eccea8e734dfe",
+      "display_blob_sha": "4d6cbff774348e8f657108cd0e3fdbf748dc8ff8",
+      "display_original_site_sha256": "fbd9ab8767e61fde2bfeef838bd78cd8b41077e57feae383148ee28abf4aec46",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchosida-physocalyx/inat-648079316.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b0d52dd20939ea4638c81ac1feb0b73398739802",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355339901, photo 648079316, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8e8665f83352c10efa77db2f22c7bffced45bfd4748887892c2fd3a643900d07. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Rhynchosida physocalyx maps to indexed species rhynchosida-physocalyx; specialist morphology and BONAP range deferred.",
-      "sha256": "8e8665f83352c10efa77db2f22c7bffced45bfd4748887892c2fd3a643900d07"
+      "sha256": "8e8665f83352c10efa77db2f22c7bffced45bfd4748887892c2fd3a643900d07",
+      "display_sha256": "831ac84e227c2ad2b9f190485eefd3b35511dd69749d69299f26383a3b4e4fd1",
+      "display_blob_sha": "6d05b00107bd3462101fa9b6beb850d997754bec",
+      "display_original_site_sha256": "8e8665f83352c10efa77db2f22c7bffced45bfd4748887892c2fd3a643900d07",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/rhynchosida-physocalyx/archived-24c05fad0c6802b0.jpg",

@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f75656ba5559352cef698722c2a6d88a50cc661d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 350813678, photo 640133811, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a117ea45348dd128371a3ea81f2173c4a56811c60bc458ed344d2c205b2be6fa. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Hypericum hypericoides maps to indexed species hypericum-hypericoides; specialist morphology and BONAP range deferred.",
-      "sha256": "a117ea45348dd128371a3ea81f2173c4a56811c60bc458ed344d2c205b2be6fa"
+      "sha256": "a117ea45348dd128371a3ea81f2173c4a56811c60bc458ed344d2c205b2be6fa",
+      "display_sha256": "b6ac89dc2b8675abf95d3b0238f427e454a644719cb1a7f8bca7a28dc5d4c349",
+      "display_blob_sha": "674c09288fb1778656915101821e638b20e3ef2f",
+      "display_original_site_sha256": "a117ea45348dd128371a3ea81f2173c4a56811c60bc458ed344d2c205b2be6fa",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hypericum-hypericoides/inat-648000289.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8fe8c00a8e7d551761db972de4f5415e17f09127",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 355288778, photo 648000289, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d70d8fc570df456725020ee15e1f1df135f54949537c61903195872c807bd382. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Hypericum hypericoides maps to indexed species hypericum-hypericoides; specialist morphology and BONAP range deferred.",
-      "sha256": "d70d8fc570df456725020ee15e1f1df135f54949537c61903195872c807bd382"
+      "sha256": "d70d8fc570df456725020ee15e1f1df135f54949537c61903195872c807bd382",
+      "display_sha256": "a361f175fb3f63c7ba8cd12f31cc578077feea41f3f9cdc3577c2cd381467f96",
+      "display_blob_sha": "844f9cd71a3e2a9ae51c64aad0b9f0bbfd5e2e2f",
+      "display_original_site_sha256": "d70d8fc570df456725020ee15e1f1df135f54949537c61903195872c807bd382",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/hypericum-hypericoides/inat-653342572.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "44988876e63ad0e28226ad9f165a1d067d2d24cf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Ginkgoaceae–Krameriaceae general-photo source verifier",
       "source_review_evidence": "Live iNaturalist observation 358163352, photo 653342572, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 932228dc384b4f6db825d655af2c66ea5378ded51fc34e813ac2e918308371d5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "25 species contact sheets inspected for obvious off-target organisms. Live source name Hypericum hypericoides maps to indexed species hypericum-hypericoides; specialist morphology and BONAP range deferred.",
-      "sha256": "932228dc384b4f6db825d655af2c66ea5378ded51fc34e813ac2e918308371d5"
+      "sha256": "932228dc384b4f6db825d655af2c66ea5378ded51fc34e813ac2e918308371d5",
+      "display_sha256": "e7972db23a8b45ef6c55a20c78b6ef60d32a184ac428c1e1e24886a975d27321",
+      "display_blob_sha": "55484d74f4f61f324feabe7ae1436728379beeec",
+      "display_original_site_sha256": "932228dc384b4f6db825d655af2c66ea5378ded51fc34e813ac2e918308371d5",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

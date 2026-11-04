@@ -95,7 +95,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5c14d4417ce32bf77519daa40eb56da87aad0fce",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -103,7 +103,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 84211889, photo 138384665, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2ab14abaeb1aac551211b944f444bde4dba7633ba57bb7fc2e95cf60300c7242. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia palustris maps to indexed species ludwigia-palustris; specialist morphology and BONAP range deferred.",
-      "sha256": "2ab14abaeb1aac551211b944f444bde4dba7633ba57bb7fc2e95cf60300c7242"
+      "sha256": "2ab14abaeb1aac551211b944f444bde4dba7633ba57bb7fc2e95cf60300c7242",
+      "display_sha256": "3c89a4a2f72dcb943b15c18660eff6309c7f0a441baa38a88629dd7c1db1eb7d",
+      "display_blob_sha": "a48f22702f89bad831fd0abfa69ea371179bb624",
+      "display_original_site_sha256": "2ab14abaeb1aac551211b944f444bde4dba7633ba57bb7fc2e95cf60300c7242",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ludwigia-palustris/inat-158295992.jpg",
@@ -114,7 +119,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7137f042295923ca7507f59644b07eec596bea94",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -122,7 +127,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 95356701, photo 158295992, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 5919c824b8110d2b118d25070b06f016b62a40034f68f7c55e874eec802f1291. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia palustris maps to indexed species ludwigia-palustris; specialist morphology and BONAP range deferred.",
-      "sha256": "5919c824b8110d2b118d25070b06f016b62a40034f68f7c55e874eec802f1291"
+      "sha256": "5919c824b8110d2b118d25070b06f016b62a40034f68f7c55e874eec802f1291",
+      "display_sha256": "2098d4c30fee4ac06518a974cc2d22d541e981b38677350b1e8c31542e2fd886",
+      "display_blob_sha": "9d81340902312b349e7b799d60747afc820bb5e5",
+      "display_original_site_sha256": "5919c824b8110d2b118d25070b06f016b62a40034f68f7c55e874eec802f1291",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ludwigia-palustris/inat-582571114.jpg",
@@ -133,7 +143,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "281e6e92b5a93ff15dd83b132d4408d5f175c9a4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -141,7 +151,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 322079017, photo 582571114, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 70ad1138eb6d01cb7927fa0e49acc75d10d15796ed0b21753d8bfea12d06e42d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia palustris maps to indexed species ludwigia-palustris; specialist morphology and BONAP range deferred.",
-      "sha256": "70ad1138eb6d01cb7927fa0e49acc75d10d15796ed0b21753d8bfea12d06e42d"
+      "sha256": "70ad1138eb6d01cb7927fa0e49acc75d10d15796ed0b21753d8bfea12d06e42d",
+      "display_sha256": "e3e517d854300669b88196bceb2486d43d7d81e7d38c44f78c2ca3104023f6a9",
+      "display_blob_sha": "94729de4934dc37fb5eae65c7fe6a2a4964fb351",
+      "display_original_site_sha256": "70ad1138eb6d01cb7927fa0e49acc75d10d15796ed0b21753d8bfea12d06e42d",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ludwigia-palustris/historical-reconciled-17fd7b586fcd7cd5.jpg",

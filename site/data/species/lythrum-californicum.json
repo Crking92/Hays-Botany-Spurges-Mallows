@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "80e99f46e24530d86ac62f189a0324c94cf88c6b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355840131, photo 648920743, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f27cf266ad41cc560079d76020a8dfbd74c19fd831ca7146d8d566f8e13a4918. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Lythrum californicum maps to indexed species lythrum-californicum; specialist morphology and BONAP range deferred.",
-      "sha256": "f27cf266ad41cc560079d76020a8dfbd74c19fd831ca7146d8d566f8e13a4918"
+      "sha256": "f27cf266ad41cc560079d76020a8dfbd74c19fd831ca7146d8d566f8e13a4918",
+      "display_sha256": "9314e6d26699824630792c9124573b0a9caf2bfd599b24adfb6244fe06c3d225",
+      "display_blob_sha": "34020a1e518857dcee83a65143bee2e3a179a85f",
+      "display_original_site_sha256": "f27cf266ad41cc560079d76020a8dfbd74c19fd831ca7146d8d566f8e13a4918",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lythrum-californicum/inat-649050080.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0389902e9b9cafa091feec011015009dc6e17b57",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355912989, photo 649050080, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0da30b689b7d1f5ccbd64ad2e5263f93d05a51097f84428f96f275f1a784f858. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Lythrum californicum maps to indexed species lythrum-californicum; specialist morphology and BONAP range deferred.",
-      "sha256": "0da30b689b7d1f5ccbd64ad2e5263f93d05a51097f84428f96f275f1a784f858"
+      "sha256": "0da30b689b7d1f5ccbd64ad2e5263f93d05a51097f84428f96f275f1a784f858",
+      "display_sha256": "c9f07f722231a9519e0a30d76bbdf73381d4cccc361b738ce00679474be33c4c",
+      "display_blob_sha": "af99d6c649d5f7aeb6d7154c624e8738e5848d40",
+      "display_original_site_sha256": "0da30b689b7d1f5ccbd64ad2e5263f93d05a51097f84428f96f275f1a784f858",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lythrum-californicum/inat-649088828.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8d9efb2756ff17e9c7fc72b1fc8b48b8c8f1eef5",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355934436, photo 649088828, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: deb8af2cfa1c6260279e1b3140ed7aff967f81af473925003a0fdba31e7cf93c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Lythrum californicum maps to indexed species lythrum-californicum; specialist morphology and BONAP range deferred.",
-      "sha256": "deb8af2cfa1c6260279e1b3140ed7aff967f81af473925003a0fdba31e7cf93c"
+      "sha256": "deb8af2cfa1c6260279e1b3140ed7aff967f81af473925003a0fdba31e7cf93c",
+      "display_sha256": "d9a429e75f6ee3c286e396a8454d7c4419051eb7587839d8d3e9ac2d4efeb743",
+      "display_blob_sha": "b5c941c336a1701ebe06dc088a578a8d79edde7c",
+      "display_original_site_sha256": "deb8af2cfa1c6260279e1b3140ed7aff967f81af473925003a0fdba31e7cf93c",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/lythrum-californicum/archived-7f38cda6851b7fb6.jpg",

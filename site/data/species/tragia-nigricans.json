@@ -87,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "e00578b0d99533fba7211c20e5b21930667b4272",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -95,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345735592, photo 630118203, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e46bbdef1efac23321fea253876369fd5676f9873f07d9c7405f816d9e1f19ca. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Tragia nigricans maps to indexed species tragia-nigricans; specialist morphology and BONAP range deferred.",
-      "sha256": "e46bbdef1efac23321fea253876369fd5676f9873f07d9c7405f816d9e1f19ca"
+      "sha256": "e46bbdef1efac23321fea253876369fd5676f9873f07d9c7405f816d9e1f19ca",
+      "display_sha256": "879d3f17b60b54913f0c56df8f8fee098398092a05eb836301372fdb30b2392a",
+      "display_blob_sha": "cc1ea689eec95f5ec2a020e7ac7de1a28bc773d5",
+      "display_original_site_sha256": "e46bbdef1efac23321fea253876369fd5676f9873f07d9c7405f816d9e1f19ca",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tragia-nigricans/inat-645647465.jpg",
@@ -106,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "de1da5a8d4126c83cd166178214e9cebfa6e50c1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -114,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353891615, photo 645647465, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bddff70d735f981796d3284c8ea18f8d493c556c2a7037f2ad054af2a9b58c82. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Tragia nigricans maps to indexed species tragia-nigricans; specialist morphology and BONAP range deferred.",
-      "sha256": "bddff70d735f981796d3284c8ea18f8d493c556c2a7037f2ad054af2a9b58c82"
+      "sha256": "bddff70d735f981796d3284c8ea18f8d493c556c2a7037f2ad054af2a9b58c82",
+      "display_sha256": "d4f6b61045410c79d83f0ef312bbc67c3a332fea06466994d37e1026c0927ea6",
+      "display_blob_sha": "ad7cbea39a7fbe46460168922beb216c5ef705c5",
+      "display_original_site_sha256": "bddff70d735f981796d3284c8ea18f8d493c556c2a7037f2ad054af2a9b58c82",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tragia-nigricans/inat-73381485.jpeg",
@@ -125,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6b0ba6a96131ea6056dbb17278452d201c3d6ddb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -133,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 46269490, photo 73381485, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 998e0655dad5a6ac4776e7fc0cafebc578d138e547b9253a975d94380823afbf. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Tragia nigricans maps to indexed species tragia-nigricans; specialist morphology and BONAP range deferred.",
-      "sha256": "998e0655dad5a6ac4776e7fc0cafebc578d138e547b9253a975d94380823afbf"
+      "sha256": "998e0655dad5a6ac4776e7fc0cafebc578d138e547b9253a975d94380823afbf",
+      "display_sha256": "73186430753ad466a1491a4d27245e3c626e534e0b522bba830d3c2bf0e57591",
+      "display_blob_sha": "5336104fbffd73bc1a6bbc8833f49f35c23376a4",
+      "display_original_site_sha256": "998e0655dad5a6ac4776e7fc0cafebc578d138e547b9253a975d94380823afbf",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

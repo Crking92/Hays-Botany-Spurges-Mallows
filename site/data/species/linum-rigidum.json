@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cd7f6f30be56ddb4dec2929dea626dd3d0adbf4d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 206828754, photo 365774426, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e642f51929b7bc8d934f30a65ef9a66ed429f85f7523e8efb4a5d71bb52449e2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Linum rigidum maps to indexed species linum-rigidum; specialist morphology and BONAP range deferred.",
-      "sha256": "e642f51929b7bc8d934f30a65ef9a66ed429f85f7523e8efb4a5d71bb52449e2"
+      "sha256": "e642f51929b7bc8d934f30a65ef9a66ed429f85f7523e8efb4a5d71bb52449e2",
+      "display_sha256": "cfb84fac4de65d14aac2171fd156f2b106701077065640d2ef7d385aef380768",
+      "display_blob_sha": "5b51a644fda4d047e745ef3c22c0f13d6ff810c6",
+      "display_original_site_sha256": "e642f51929b7bc8d934f30a65ef9a66ed429f85f7523e8efb4a5d71bb52449e2",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/linum-rigidum/inat-383280281.jpeg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "dfc0f2eac45e59e7f13cba3a8efa24b736802a2d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 216703623, photo 383280281, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6ac6f1f1074d7189b0e7f6f38de51905b565de93737e17a863c329d9939319cc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Linum rigidum maps to indexed species linum-rigidum; specialist morphology and BONAP range deferred.",
-      "sha256": "6ac6f1f1074d7189b0e7f6f38de51905b565de93737e17a863c329d9939319cc"
+      "sha256": "6ac6f1f1074d7189b0e7f6f38de51905b565de93737e17a863c329d9939319cc",
+      "display_sha256": "e11f87a32a544d830a6acfa202d4092965ebc365f1a981e7b644cb62fcca485a",
+      "display_blob_sha": "457a9373765690a458b551f71a9199a55a074af6",
+      "display_original_site_sha256": "6ac6f1f1074d7189b0e7f6f38de51905b565de93737e17a863c329d9939319cc",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/linum-rigidum/inat-491494825.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0bf31baf9ee70deb033ade337500115a838de279",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 351310738, photo 641076020, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: ee43cd5aedc0c5d245b2045d08d147f54d024bf5cc9756e4bd107132faca1020. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Linum rigidum maps to indexed species linum-rigidum; specialist morphology and BONAP range deferred.",
-      "sha256": "ee43cd5aedc0c5d245b2045d08d147f54d024bf5cc9756e4bd107132faca1020"
+      "sha256": "ee43cd5aedc0c5d245b2045d08d147f54d024bf5cc9756e4bd107132faca1020",
+      "display_sha256": "4452455c43a04b2faa8b15ee66df55c16973964b8c5aefe25bc74088684339ec",
+      "display_blob_sha": "1b327aece65e07cb81c68b6edc8d7825dd6f383f",
+      "display_original_site_sha256": "ee43cd5aedc0c5d245b2045d08d147f54d024bf5cc9756e4bd107132faca1020",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/linum-rigidum/archived-586a77c6690447cf.jpg",

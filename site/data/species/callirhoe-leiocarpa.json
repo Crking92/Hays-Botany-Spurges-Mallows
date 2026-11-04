@@ -53,7 +53,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "05197f7db614871521421226056b94af375487f1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -61,7 +61,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345088459, photo 628845517, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 094071ba2d87eae69123cfbcf4b08de09e01e4146875aaf086457eeedb42ae91. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Callirhoe leiocarpa maps to indexed species callirhoe-leiocarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "094071ba2d87eae69123cfbcf4b08de09e01e4146875aaf086457eeedb42ae91"
+      "sha256": "094071ba2d87eae69123cfbcf4b08de09e01e4146875aaf086457eeedb42ae91",
+      "display_sha256": "2088ce298ec9d8fee268e60ed70623cb342f9165890450da9c2e1505c8d16628",
+      "display_blob_sha": "3d8091c8b0623e86c5c3b3a86775e12d818e2169",
+      "display_original_site_sha256": "094071ba2d87eae69123cfbcf4b08de09e01e4146875aaf086457eeedb42ae91",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/callirhoe-leiocarpa/inat-629329016.jpg",
@@ -72,7 +77,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ae87645f69ba2b675b72cc003699e43e7a2b379b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +85,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 345335004, photo 629329016, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0ac85af005a30f8730de5799aa8424d20058d1bcd59e107499a50aff56e610e7. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Callirhoe leiocarpa maps to indexed species callirhoe-leiocarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "0ac85af005a30f8730de5799aa8424d20058d1bcd59e107499a50aff56e610e7"
+      "sha256": "0ac85af005a30f8730de5799aa8424d20058d1bcd59e107499a50aff56e610e7",
+      "display_sha256": "274cfd0dc412c76d76b05f8e9a0027b18f505625b598e6a901917e14cf9bc15c",
+      "display_blob_sha": "e386e402d0226101656da7d9dd9bbd67627e33a8",
+      "display_original_site_sha256": "0ac85af005a30f8730de5799aa8424d20058d1bcd59e107499a50aff56e610e7",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/callirhoe-leiocarpa/inat-630652248.jpg",
@@ -91,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a3382fc17d67fdb25520710358fed2039d5637fb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346008071, photo 630652248, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 621952c9d1f12ae15db86ca22d851eb336cec96cba8c2a9f15fd4031a8f15dc3. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Callirhoe leiocarpa maps to indexed species callirhoe-leiocarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "621952c9d1f12ae15db86ca22d851eb336cec96cba8c2a9f15fd4031a8f15dc3"
+      "sha256": "621952c9d1f12ae15db86ca22d851eb336cec96cba8c2a9f15fd4031a8f15dc3",
+      "display_sha256": "57976f482f8650534008c23c0c9f0f00ecfc31b2bba8356c8bd87528c6b194c6",
+      "display_blob_sha": "830b7a0cba1e3f72a0e1cb4a47dee1adddab978f",
+      "display_original_site_sha256": "621952c9d1f12ae15db86ca22d851eb336cec96cba8c2a9f15fd4031a8f15dc3",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/callirhoe-leiocarpa/inat-631438966.jpg",
@@ -110,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5be7d9cc0f3108c36e38c923868a959f4e24c1fa",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 346405472, photo 631438966, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e8e6731793b3ed766be5fd56fee406424acc0aca465b130c4f359d6a27f5e37b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Callirhoe leiocarpa maps to indexed species callirhoe-leiocarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "e8e6731793b3ed766be5fd56fee406424acc0aca465b130c4f359d6a27f5e37b"
+      "sha256": "e8e6731793b3ed766be5fd56fee406424acc0aca465b130c4f359d6a27f5e37b",
+      "display_sha256": "3db8ccc36c944eff1e7e71b30caad97bbb8a989214616890d5a0b7d09d990c97",
+      "display_blob_sha": "e4a5e39d53c733ea7f452b7211012f7f8ee3e833",
+      "display_original_site_sha256": "e8e6731793b3ed766be5fd56fee406424acc0aca465b130c4f359d6a27f5e37b",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/callirhoe-leiocarpa/inat-632838572.jpg",
@@ -129,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "094f51394f5fe88c0060a2bc477c53ff2a59a73d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -137,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 347110552, photo 632838572, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: bf96434c42203dd4c8f1028e7e4d495aa7a1798613bb08a8ae518120c2cfb156. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Callirhoe leiocarpa maps to indexed species callirhoe-leiocarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "bf96434c42203dd4c8f1028e7e4d495aa7a1798613bb08a8ae518120c2cfb156"
+      "sha256": "bf96434c42203dd4c8f1028e7e4d495aa7a1798613bb08a8ae518120c2cfb156",
+      "display_sha256": "ae711e06665891e54e7ae60050f2b3e4904adc0916fda4a9923782326045f2d2",
+      "display_blob_sha": "7253b1ee8077d6d8a40858de269afae3e95fe34a",
+      "display_original_site_sha256": "bf96434c42203dd4c8f1028e7e4d495aa7a1798613bb08a8ae518120c2cfb156",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/callirhoe-leiocarpa/archived-3ed738122a6d8d00.jpg",

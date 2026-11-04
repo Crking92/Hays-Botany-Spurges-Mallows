@@ -93,7 +93,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d7835be371778ef8c382a39ba22c64639d0df534",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -101,7 +101,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 271438158, photo 488259222, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 18f243b8791ffd6b481a4214bd112788ad6b23c8ace74af33c6b113cf0989195. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Malvaviscus arboreus drummondii maps to indexed species malvaviscus-arboreus-var-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "18f243b8791ffd6b481a4214bd112788ad6b23c8ace74af33c6b113cf0989195"
+      "sha256": "18f243b8791ffd6b481a4214bd112788ad6b23c8ace74af33c6b113cf0989195",
+      "display_sha256": "2699b1af684fe1347c1ee786fa95a85de8dd7d6068a54fbf51f1da3f724e7d93",
+      "display_blob_sha": "80d59a11e82a8220deb1475fa500bbf1e5bec0b2",
+      "display_original_site_sha256": "18f243b8791ffd6b481a4214bd112788ad6b23c8ace74af33c6b113cf0989195",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/malvaviscus-arboreus-var-drummondii/inat-488452768.jpg",
@@ -112,7 +117,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9ce5c10049ad944e9681416772b3acb9bdd739b8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -120,7 +125,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 271543706, photo 488452768, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 195ead692ca2f4a8201bd4cdc6d17ff46d77de69ba3dd89a9639bf5df4d14937. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Malvaviscus arboreus drummondii maps to indexed species malvaviscus-arboreus-var-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "195ead692ca2f4a8201bd4cdc6d17ff46d77de69ba3dd89a9639bf5df4d14937"
+      "sha256": "195ead692ca2f4a8201bd4cdc6d17ff46d77de69ba3dd89a9639bf5df4d14937",
+      "display_sha256": "961f397b30eec38cf83d77b595cfc7b42633e0d785f10908bec3cf27980ef4d8",
+      "display_blob_sha": "96c9a51693f7b05ab0fe63e90dbb884ca419b3cb",
+      "display_original_site_sha256": "195ead692ca2f4a8201bd4cdc6d17ff46d77de69ba3dd89a9639bf5df4d14937",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/malvaviscus-arboreus-var-drummondii/inat-489972100.jpg",
@@ -131,7 +141,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "faaef8d3d602d3f03702df660ee1cde35db98985",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -139,7 +149,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 272314830, photo 489972100, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8fea0909f43a6838a368f4b624fa8cffbc159606fc0e537b7e7cdca6fc3bb39f. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Malvaviscus arboreus drummondii maps to indexed species malvaviscus-arboreus-var-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "8fea0909f43a6838a368f4b624fa8cffbc159606fc0e537b7e7cdca6fc3bb39f"
+      "sha256": "8fea0909f43a6838a368f4b624fa8cffbc159606fc0e537b7e7cdca6fc3bb39f",
+      "display_sha256": "25cc300e343965775247c63b10ec93173733442fa180b6e962cb8754c48e85f5",
+      "display_blob_sha": "2e141ab8a087a7cfd291bcc1abdfef2fc4dbf108",
+      "display_original_site_sha256": "8fea0909f43a6838a368f4b624fa8cffbc159606fc0e537b7e7cdca6fc3bb39f",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/malvaviscus-arboreus-var-drummondii/inat-492964278.jpeg",
@@ -150,7 +165,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f8703d0f879b77323273a12fb7e5dbfb67305a77",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -158,7 +173,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 274185656, photo 492964278, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 7dcede9cb34a2c2df8d35b4db7f2837b6653da99dcdd3e65ee60db0cc9964d25. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Malvaviscus arboreus drummondii maps to indexed species malvaviscus-arboreus-var-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "7dcede9cb34a2c2df8d35b4db7f2837b6653da99dcdd3e65ee60db0cc9964d25"
+      "sha256": "7dcede9cb34a2c2df8d35b4db7f2837b6653da99dcdd3e65ee60db0cc9964d25",
+      "display_sha256": "4f649c26860d89433197c282d294cd2b904cd65891489bc67d36c90c9b796438",
+      "display_blob_sha": "8d772df5b0f7aa0a378121a5eade4ea1c4fc83da",
+      "display_original_site_sha256": "7dcede9cb34a2c2df8d35b4db7f2837b6653da99dcdd3e65ee60db0cc9964d25",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/malvaviscus-arboreus-var-drummondii/inat-648010309.jpg",
@@ -169,7 +189,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "173b97b09c3011d8b4db6b9b2c8e2356d3b16698",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -177,7 +197,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Malvaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355275522, photo 648010309, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 60f66e5bdc01fe6f5734d4c031743a7a84da4f90c0edf66f8304be617cf2a40d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Malvaviscus arboreus drummondii maps to indexed species malvaviscus-arboreus-var-drummondii; specialist morphology and BONAP range deferred.",
-      "sha256": "60f66e5bdc01fe6f5734d4c031743a7a84da4f90c0edf66f8304be617cf2a40d"
+      "sha256": "60f66e5bdc01fe6f5734d4c031743a7a84da4f90c0edf66f8304be617cf2a40d",
+      "display_sha256": "6d7d895d178af681a454be76688515a716f8b8745abdf35b033ec79b95b0eb59",
+      "display_blob_sha": "7d858b4f2b16132fd91f8cb1bf956543a0a82e5d",
+      "display_original_site_sha256": "60f66e5bdc01fe6f5734d4c031743a7a84da4f90c0edf66f8304be617cf2a40d",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

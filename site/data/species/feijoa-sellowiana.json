@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "069c9686ea23e3045fb8dac2e535c5ddb85cf66b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350670787, photo 639856755, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c279ea12a3ab22dc2d88b7cc9060c052c61c61792dce9ea4c72b485baf6c3057. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Feijoa sellowiana maps to indexed species feijoa-sellowiana; specialist morphology and BONAP range deferred.",
-      "sha256": "c279ea12a3ab22dc2d88b7cc9060c052c61c61792dce9ea4c72b485baf6c3057"
+      "sha256": "c279ea12a3ab22dc2d88b7cc9060c052c61c61792dce9ea4c72b485baf6c3057",
+      "display_sha256": "4f18e0aaf97a3c224c7653287182e899de02be15994ffbc3672ad8c99be35ced",
+      "display_blob_sha": "28cf048f0cbfed6480a43a1d26d4991a63444795",
+      "display_original_site_sha256": "c279ea12a3ab22dc2d88b7cc9060c052c61c61792dce9ea4c72b485baf6c3057",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/feijoa-sellowiana/inat-645487610.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "a8df171af91f9b8b80a8b65bef117987b5bc3c04",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353654402, photo 645487610, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: df03866e121d4c4c479b093172107708c76bb28cdb2ee25c91a38b1830fc555e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Feijoa sellowiana maps to indexed species feijoa-sellowiana; specialist morphology and BONAP range deferred.",
-      "sha256": "df03866e121d4c4c479b093172107708c76bb28cdb2ee25c91a38b1830fc555e"
+      "sha256": "df03866e121d4c4c479b093172107708c76bb28cdb2ee25c91a38b1830fc555e",
+      "display_sha256": "3cac30e196f3b4d566e9662357afb38bc3a80e143482d7d90834597f93852561",
+      "display_blob_sha": "caf9274c2a3ac866d577980c4a0cd3b5d17c909d",
+      "display_original_site_sha256": "df03866e121d4c4c479b093172107708c76bb28cdb2ee25c91a38b1830fc555e",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/feijoa-sellowiana/inat-647240995.jpg",
@@ -77,7 +87,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d891f387da75cb1987d64d652f1aa2de4970630a",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +95,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354826098, photo 647240995, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a920fb4badcbe3898665a38f795adcfdd6d948de864808c79c648a667647af9c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Feijoa sellowiana maps to indexed species feijoa-sellowiana; specialist morphology and BONAP range deferred.",
-      "sha256": "a920fb4badcbe3898665a38f795adcfdd6d948de864808c79c648a667647af9c"
+      "sha256": "a920fb4badcbe3898665a38f795adcfdd6d948de864808c79c648a667647af9c",
+      "display_sha256": "9e4ec195cd13786e99d42aae71c204e961ddf2ae61b52799c943ddb531e9c721",
+      "display_blob_sha": "aad2cad70b1abf829bd0f5dd830da239e7ed677e",
+      "display_original_site_sha256": "a920fb4badcbe3898665a38f795adcfdd6d948de864808c79c648a667647af9c",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/feijoa-sellowiana/inat-651516562.jpg",
@@ -96,7 +111,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2612f3d55da4455f2109b626e33d2fcd0145f02b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +119,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 357225240, photo 651516562, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6216f06da7d370119ec6b04776e6af7cd37cb057c19389ec27861cc1e36a5c91. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Feijoa sellowiana maps to indexed species feijoa-sellowiana; specialist morphology and BONAP range deferred.",
-      "sha256": "6216f06da7d370119ec6b04776e6af7cd37cb057c19389ec27861cc1e36a5c91"
+      "sha256": "6216f06da7d370119ec6b04776e6af7cd37cb057c19389ec27861cc1e36a5c91",
+      "display_sha256": "adc80ec502769a75561be76966c7fba649cbb68442ce1d33243d28d8d86bb888",
+      "display_blob_sha": "f4fa1c6fd6d32204b872d7a3719b56e2723d594c",
+      "display_original_site_sha256": "6216f06da7d370119ec6b04776e6af7cd37cb057c19389ec27861cc1e36a5c91",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/feijoa-sellowiana/inat-667758242.jpg",
@@ -115,7 +135,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6f56ba3f061ffbb1449a3acb455d7c868dc935d1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +143,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Marantaceae–Oleaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 365731213, photo 667758242, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4fbdd0fb8097349d3a9809e969d3b67997ec4daec9c57cb3f87b73f4f1af75de. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "13 family contact sheets inspected for obvious off-target organisms. Live source name Feijoa sellowiana maps to indexed species feijoa-sellowiana; specialist morphology and BONAP range deferred.",
-      "sha256": "4fbdd0fb8097349d3a9809e969d3b67997ec4daec9c57cb3f87b73f4f1af75de"
+      "sha256": "4fbdd0fb8097349d3a9809e969d3b67997ec4daec9c57cb3f87b73f4f1af75de",
+      "display_sha256": "6841c043b0e6b0431b6a73529e99e6ec4c3c0e00f9b43d6f5823d07dc4195640",
+      "display_blob_sha": "f398593b76b3ad64a9fc1ff8ca12ac540a7c7a26",
+      "display_original_site_sha256": "4fbdd0fb8097349d3a9809e969d3b67997ec4daec9c57cb3f87b73f4f1af75de",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

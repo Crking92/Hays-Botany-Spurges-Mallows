@@ -85,7 +85,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6af120154b0e8443784886c0d5940780a7f902ca",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -93,7 +93,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 209533178, photo 370779741, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 49c8dd129db028afa564433c750cb93cedae66e0c20f37f445cb3dd3800dfb1a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera filiformis maps to indexed species oenothera-filiformis; specialist morphology and BONAP range deferred.",
-      "sha256": "49c8dd129db028afa564433c750cb93cedae66e0c20f37f445cb3dd3800dfb1a"
+      "sha256": "49c8dd129db028afa564433c750cb93cedae66e0c20f37f445cb3dd3800dfb1a",
+      "display_sha256": "0b5ad370408cf39cfd5c4384aa8231e7b5f06584a75b8f5e1c75a108420b1924",
+      "display_blob_sha": "6979700d92a0b231fe63c8decb7067e9c5bd4ab2",
+      "display_original_site_sha256": "49c8dd129db028afa564433c750cb93cedae66e0c20f37f445cb3dd3800dfb1a",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-filiformis/inat-400320196.jpg",
@@ -104,7 +109,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4bbe5658de9c2f6f53b1e60f6f498d91f662f41d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -112,7 +117,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 225769357, photo 400320196, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 03c08c1c5a45a9f038224722be1b581b8f6c8f44e5c3b5e279f659c7292e6f71. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera filiformis maps to indexed species oenothera-filiformis; specialist morphology and BONAP range deferred.",
-      "sha256": "03c08c1c5a45a9f038224722be1b581b8f6c8f44e5c3b5e279f659c7292e6f71"
+      "sha256": "03c08c1c5a45a9f038224722be1b581b8f6c8f44e5c3b5e279f659c7292e6f71",
+      "display_sha256": "dc10d7169e99a6f01e9b54e84e08b7b8c275c849c7eabe86d071756f4263ccba",
+      "display_blob_sha": "06a7f648fce78ad1c33474d57d2a9320a2c94d49",
+      "display_original_site_sha256": "03c08c1c5a45a9f038224722be1b581b8f6c8f44e5c3b5e279f659c7292e6f71",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-filiformis/inat-649323771.jpg",
@@ -123,7 +133,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8a8657144106a7a37f05b3717992f5048bbca37d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -131,7 +141,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356065661, photo 649323771, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: dbfddda98de167a8d346538b6d45fb74b700842d7e9d66c013034522468dba5c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera filiformis maps to indexed species oenothera-filiformis; specialist morphology and BONAP range deferred.",
-      "sha256": "dbfddda98de167a8d346538b6d45fb74b700842d7e9d66c013034522468dba5c"
+      "sha256": "dbfddda98de167a8d346538b6d45fb74b700842d7e9d66c013034522468dba5c",
+      "display_sha256": "50f26bc1bfb37764a70b541c54cc0ac78d69cdc25587f56fcf241d8ee26a523b",
+      "display_blob_sha": "f97f6f336fd465b6617e1e452966d65db7af4a04",
+      "display_original_site_sha256": "dbfddda98de167a8d346538b6d45fb74b700842d7e9d66c013034522468dba5c",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-filiformis/inat-649822647.jpg",
@@ -142,7 +157,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
       "source_blob_sha": "e433640107c4456fc0b022afdb90ef3285600352",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -150,7 +165,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356334957, photo 649822647, individual license cc-by-nc-sa, exact source photo URL. Source media SHA256 matches supplied original ZIP: 28f4e38db17b7cfc3bc8a377d15847442502dce313384f9d92714cc38e848b29. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera filiformis maps to indexed species oenothera-filiformis; specialist morphology and BONAP range deferred.",
-      "sha256": "28f4e38db17b7cfc3bc8a377d15847442502dce313384f9d92714cc38e848b29"
+      "sha256": "28f4e38db17b7cfc3bc8a377d15847442502dce313384f9d92714cc38e848b29",
+      "display_sha256": "126f8ab73858ca16c8d366cad5151ef607521560b84b56904cf5398c0ac238ae",
+      "display_blob_sha": "a7f7680188fcc9b5b33703204c86e2f55272f41e",
+      "display_original_site_sha256": "28f4e38db17b7cfc3bc8a377d15847442502dce313384f9d92714cc38e848b29",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

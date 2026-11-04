@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "65fbeaff55e11ecf6017ef7e9fdff6c8343a2b44",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 343009958, photo 624733903, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d0e6c671edb18e50d06c4b63a34bc4d987f15ea42d3b1a9d95347a116a9c57f8. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Phyllanthus polygonoides maps to indexed species phyllanthus-polygonoides; specialist morphology and BONAP range deferred.",
-      "sha256": "d0e6c671edb18e50d06c4b63a34bc4d987f15ea42d3b1a9d95347a116a9c57f8"
+      "sha256": "d0e6c671edb18e50d06c4b63a34bc4d987f15ea42d3b1a9d95347a116a9c57f8",
+      "display_sha256": "1579bcdb2faa5f08d6b3ba70a009974efd1098d16e5216e7c2bf58759a402d9d",
+      "display_blob_sha": "09de5f1ff1847244fc15f1eb7ccf6fb40b110504",
+      "display_original_site_sha256": "d0e6c671edb18e50d06c4b63a34bc4d987f15ea42d3b1a9d95347a116a9c57f8",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phyllanthus-polygonoides/inat-629801049.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "add2d3e7266a4cfb7f6e1a4b822b1b6155c2a6e1",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 345573829, photo 629801049, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2debccc21f027797100f47f6ff381eb9d8cfe1d9cbb083182135e9ad13618b15. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Phyllanthus polygonoides maps to indexed species phyllanthus-polygonoides; specialist morphology and BONAP range deferred.",
-      "sha256": "2debccc21f027797100f47f6ff381eb9d8cfe1d9cbb083182135e9ad13618b15"
+      "sha256": "2debccc21f027797100f47f6ff381eb9d8cfe1d9cbb083182135e9ad13618b15",
+      "display_sha256": "9995fd0ca1d34dd6a111094a84afa28624875883b560962f1639d7a789e9b041",
+      "display_blob_sha": "7eb2a0997fda89e42c905880d0613dea8ad43a0a",
+      "display_original_site_sha256": "2debccc21f027797100f47f6ff381eb9d8cfe1d9cbb083182135e9ad13618b15",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phyllanthus-polygonoides/inat-630252251.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "d815cf20b74e0b969504c63a0f8515a72d5c18e4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 345804180, photo 630252251, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 07b088c228faeb802470c6958459783297a2955eecd67d408d64ba24d61e24ac. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Phyllanthus polygonoides maps to indexed species phyllanthus-polygonoides; specialist morphology and BONAP range deferred.",
-      "sha256": "07b088c228faeb802470c6958459783297a2955eecd67d408d64ba24d61e24ac"
+      "sha256": "07b088c228faeb802470c6958459783297a2955eecd67d408d64ba24d61e24ac",
+      "display_sha256": "2ffead3722d8d5c5789b484d1dd751a2cd9cae7009f6e58267ba1d8c82cb20c4",
+      "display_blob_sha": "f0d57bb03c54de0fc3b7de32c7b159fb6e8d0552",
+      "display_original_site_sha256": "07b088c228faeb802470c6958459783297a2955eecd67d408d64ba24d61e24ac",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phyllanthus-polygonoides/inat-637741101.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d5841aaf8d0bcf290f67752fcdbde60d97b3b742",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 349586997, photo 637741101, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8278a63fb246e7ad6eec973b658d718214283605b4b87d0cc6f2824b34bde703. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Phyllanthus polygonoides maps to indexed species phyllanthus-polygonoides; specialist morphology and BONAP range deferred.",
-      "sha256": "8278a63fb246e7ad6eec973b658d718214283605b4b87d0cc6f2824b34bde703"
+      "sha256": "8278a63fb246e7ad6eec973b658d718214283605b4b87d0cc6f2824b34bde703",
+      "display_sha256": "6780e2e9e5ebeece66b9def424cf672120f5545fc8ed26407f35cd5d43bb955f",
+      "display_blob_sha": "e91fc16220665352f78610fb20ead1db6ed8ed62",
+      "display_original_site_sha256": "8278a63fb246e7ad6eec973b658d718214283605b4b87d0cc6f2824b34bde703",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phyllanthus-polygonoides/inat-638830473.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a2e89e85bcb35098dd6b22826835635d68d82823",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 350148074, photo 638830473, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0472f202569792b9ef183a1a3f6e02bb638864bd3dde34a32f180a4262cdc5a6. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Phyllanthus polygonoides maps to indexed species phyllanthus-polygonoides; specialist morphology and BONAP range deferred.",
-      "sha256": "0472f202569792b9ef183a1a3f6e02bb638864bd3dde34a32f180a4262cdc5a6"
+      "sha256": "0472f202569792b9ef183a1a3f6e02bb638864bd3dde34a32f180a4262cdc5a6",
+      "display_sha256": "9af539faf4852b2d6969686e2008af14ec8eba12629d5f39a83d33f599d334d5",
+      "display_blob_sha": "ace48e1b339188b8b0907bb99d9b0bed136c7c55",
+      "display_original_site_sha256": "0472f202569792b9ef183a1a3f6e02bb638864bd3dde34a32f180a4262cdc5a6",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/phyllanthus-polygonoides/archived-bca69d045d1217b8.jpg",

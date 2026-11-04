@@ -76,10 +76,15 @@
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
       "source_blob_sha": "be2107838b5d12af37b050205687237d302b9edc",
       "role": "Original broad plant habit/flowering branch from photographed specimen",
-      "modified": "Exact archived original photograph; no modification",
+      "modified": "Resized and recompressed web display copy; source note: Exact archived original photograph; no modification",
       "noncommercial_only": false,
       "private_rights_review_only": false,
-      "source_page_is_exact": true
+      "source_page_is_exact": true,
+      "display_sha256": "4f61ae69491f15581a13e9beaccb4f53037043e449c93e5a0d9a1e2b07cf3a3d",
+      "display_blob_sha": "50dfdd9696b685e449ec419e748f0921810f2599",
+      "display_original_site_sha256": "25d6e6c53dd4a9149aaf1328d9c8a4b53bd2fdc9b2b809c4ce1f05d11eb3e543",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/euphorbia-ophthalmica/03-gaiacoyote-inflorescence-hairs.jpg",
@@ -186,7 +191,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "56b7f310b93ce76214d576f4e945ec23086f39cc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Website-only JPEG derivative resized to fit within 1800 by 1800 pixels and compressed at quality 82. Original ZIP image retained untouched; exact original SHA-256 documented in source evidence.",
+      "modified": "Resized and recompressed web display copy; source note: Website-only JPEG derivative resized to fit within 1800 by 1800 pixels and compressed at quality 82. Original ZIP image retained untouched; exact original SHA-256 documented in source evidence.",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -194,7 +199,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae original ZIP and live source verifier",
       "source_review_evidence": "Live iNaturalist observation 185317053, photo 323630890, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: af049b3daf8738788cf91bc37901099ee2ca7212d4b06ed2626103bcee8ed080. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Euphorbiaceae ZIP contact sheets reviewed for obvious off-target organisms. Live source determination Euphorbia ophthalmica matches indexed species euphorbia-ophthalmica; formal plant diagnosis and BONAP county distribution require separate review.",
-      "sha256": "dc634c8ae70b7d1cf62311c9ea76b6a03e626f2d71d05a0b3479375bc901fb0e"
+      "sha256": "dc634c8ae70b7d1cf62311c9ea76b6a03e626f2d71d05a0b3479375bc901fb0e",
+      "display_sha256": "f9acdfea30130b60c25f2b9aedf6808ee213ec9c1cf49efb24cb75e8edb281aa",
+      "display_blob_sha": "d1c51001766ef2d71201a4543e67f41342666721",
+      "display_original_site_sha256": "dc634c8ae70b7d1cf62311c9ea76b6a03e626f2d71d05a0b3479375bc901fb0e",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/euphorbia-ophthalmica/inat-332720689-web.jpg",

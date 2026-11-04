@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a7e6a188fba91540acb6f6e75f3e3afe167658d4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 204612933, photo 361685218, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 372061d93e8013e2af301babea531678fb8c428db8de5fd15b7e0d3051738256. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Linum hudsonioides maps to indexed species linum-hudsonioides; specialist morphology and BONAP range deferred.",
-      "sha256": "372061d93e8013e2af301babea531678fb8c428db8de5fd15b7e0d3051738256"
+      "sha256": "372061d93e8013e2af301babea531678fb8c428db8de5fd15b7e0d3051738256",
+      "display_sha256": "40d564aac6de9cba2601ef0f1d39a184673afd6cec87dbb59e3a3306d7274105",
+      "display_blob_sha": "b3914942d3c2779d0d13616f1b74a1084396c1c2",
+      "display_original_site_sha256": "372061d93e8013e2af301babea531678fb8c428db8de5fd15b7e0d3051738256",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/linum-hudsonioides/inat-367849082.jpg",
@@ -58,7 +63,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8ff5732b4895893a93cdd25cea50a47e7d8b0eb3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +71,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 207931306, photo 367849082, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b4f36ba7b1f36f073696fab09d58f4fcf2e90d3103ffb7fbbe2ccb79a17844af. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Linum hudsonioides maps to indexed species linum-hudsonioides; specialist morphology and BONAP range deferred.",
-      "sha256": "b4f36ba7b1f36f073696fab09d58f4fcf2e90d3103ffb7fbbe2ccb79a17844af"
+      "sha256": "b4f36ba7b1f36f073696fab09d58f4fcf2e90d3103ffb7fbbe2ccb79a17844af",
+      "display_sha256": "77985b344bdcf6ed4f3b3e4aa0459f7cc866a46fe75dd0b840439300f38ac443",
+      "display_blob_sha": "1e2fa0371c9e9af7708a1bdf7116738ce0c88244",
+      "display_original_site_sha256": "b4f36ba7b1f36f073696fab09d58f4fcf2e90d3103ffb7fbbe2ccb79a17844af",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/linum-hudsonioides/inat-627596334.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d083674be9a69ef681fdc64fc9ef62104bb04fce",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353914653, photo 645689371, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 75b51b0e2a30e25e0f3cd0833c548dbc8d67e6ec2c76c9062688504f8d5f1acb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Linum hudsonioides maps to indexed species linum-hudsonioides; specialist morphology and BONAP range deferred.",
-      "sha256": "75b51b0e2a30e25e0f3cd0833c548dbc8d67e6ec2c76c9062688504f8d5f1acb"
+      "sha256": "75b51b0e2a30e25e0f3cd0833c548dbc8d67e6ec2c76c9062688504f8d5f1acb",
+      "display_sha256": "45b04bb6c5381d6638e1ba225e8330e0597b5d1e863346cfa6856d2a386e9682",
+      "display_blob_sha": "1247079f06def5d8f1194853e4fa0b50d8755d87",
+      "display_original_site_sha256": "75b51b0e2a30e25e0f3cd0833c548dbc8d67e6ec2c76c9062688504f8d5f1acb",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/linum-hudsonioides/inat-662127750.jpg",
@@ -115,7 +130,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f29563ba406c4668412275152d488fd25f12f438",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -123,7 +138,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 362763426, photo 662127750, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 6a81c325cd0db751b1b85b9fd1260d57637b936b54da9a961aaa4890df905f5d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Linum hudsonioides maps to indexed species linum-hudsonioides; specialist morphology and BONAP range deferred.",
-      "sha256": "6a81c325cd0db751b1b85b9fd1260d57637b936b54da9a961aaa4890df905f5d"
+      "sha256": "6a81c325cd0db751b1b85b9fd1260d57637b936b54da9a961aaa4890df905f5d",
+      "display_sha256": "31d6080b577d321b8347ae37fef0462fb72e66c597db08139968fe04a33d1f26",
+      "display_blob_sha": "5c2cc40773c2ebb3be7b972e3d069d5921e2b83d",
+      "display_original_site_sha256": "6a81c325cd0db751b1b85b9fd1260d57637b936b54da9a961aaa4890df905f5d",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

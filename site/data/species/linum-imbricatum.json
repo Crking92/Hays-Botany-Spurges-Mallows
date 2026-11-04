@@ -39,7 +39,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "1d5d514a80887c8c48760d5c77857351a5cdfab8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +47,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 208284134, photo 368505835, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: 49aaa3c42d5a57607507fe1322b2e0cd5cafdff63b97d601e2c76e73f7ad3fdb. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Linum imbricatum maps to indexed species linum-imbricatum; specialist morphology and BONAP range deferred.",
-      "sha256": "49aaa3c42d5a57607507fe1322b2e0cd5cafdff63b97d601e2c76e73f7ad3fdb"
+      "sha256": "49aaa3c42d5a57607507fe1322b2e0cd5cafdff63b97d601e2c76e73f7ad3fdb",
+      "display_sha256": "3071fd1a8f88a97f6d6d18b605b58179cbcc54e4e669d5a0d4a08baaedc21416",
+      "display_blob_sha": "1816970f2fbec0c0d884e8b05834e509777a7786",
+      "display_original_site_sha256": "49aaa3c42d5a57607507fe1322b2e0cd5cafdff63b97d601e2c76e73f7ad3fdb",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

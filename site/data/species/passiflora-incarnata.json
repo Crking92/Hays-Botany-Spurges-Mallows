@@ -84,7 +84,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "97b94059b16f167374b6993721094b82928ae9be",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -92,7 +92,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 346470348, photo 631501763, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: e8244a80214afe83f3640d99e5edb1b7dbd4db7d337a373d22f94a21f7573b1b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora incarnata maps to indexed species passiflora-incarnata; specialist morphology and BONAP range deferred.",
-      "sha256": "e8244a80214afe83f3640d99e5edb1b7dbd4db7d337a373d22f94a21f7573b1b"
+      "sha256": "e8244a80214afe83f3640d99e5edb1b7dbd4db7d337a373d22f94a21f7573b1b",
+      "display_sha256": "6541e1123969a8388247b6ef459c07f6f29ed2726d382d4bf1c983812167f1c2",
+      "display_blob_sha": "1dacf832f77a65c297a7317df91c6b8b801964bf",
+      "display_original_site_sha256": "e8244a80214afe83f3640d99e5edb1b7dbd4db7d337a373d22f94a21f7573b1b",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-incarnata/inat-639401974.jpg",
@@ -103,7 +108,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9613f3946494516f1113913aafed0f730a0d2566",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -111,7 +116,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 350437456, photo 639401974, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2064940b4b1c9af6e1f6f69069bb93cc240687f145f3757afad590ecb27624a0. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora incarnata maps to indexed species passiflora-incarnata; specialist morphology and BONAP range deferred.",
-      "sha256": "2064940b4b1c9af6e1f6f69069bb93cc240687f145f3757afad590ecb27624a0"
+      "sha256": "2064940b4b1c9af6e1f6f69069bb93cc240687f145f3757afad590ecb27624a0",
+      "display_sha256": "615920335891aa8211cbeb06fb317442b72d0f85b7b176f063fc8a41db13c52e",
+      "display_blob_sha": "02d33b4d806359f075025a3685bb5a8164469518",
+      "display_original_site_sha256": "2064940b4b1c9af6e1f6f69069bb93cc240687f145f3757afad590ecb27624a0",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-incarnata/inat-643111439.jpg",
@@ -122,7 +132,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5567e8da9027e1021e4ec80fb5406b453e4adec3",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -130,7 +140,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 352357419, photo 643111439, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 96d30cb4e18f32d0075fbde9e8417d756a981cfb150028167ea62f599f7402b9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora incarnata maps to indexed species passiflora-incarnata; specialist morphology and BONAP range deferred.",
-      "sha256": "96d30cb4e18f32d0075fbde9e8417d756a981cfb150028167ea62f599f7402b9"
+      "sha256": "96d30cb4e18f32d0075fbde9e8417d756a981cfb150028167ea62f599f7402b9",
+      "display_sha256": "bf99faa6dea8a0b8c818a93af7501cf4d915d47384874a13d726140451270e1c",
+      "display_blob_sha": "1dd454d7a75e3e0d26cae165b8b7d9295aa3d391",
+      "display_original_site_sha256": "96d30cb4e18f32d0075fbde9e8417d756a981cfb150028167ea62f599f7402b9",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-incarnata/inat-643313534.jpg",
@@ -141,7 +156,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b0eb9f5edaed69cdaac495baf6729cdad2c87a96",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -149,7 +164,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 352464003, photo 643313534, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: c7ad1b4022d057f73e16fae0738a860f02db94e46c1959d9037913f720a40a81. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora incarnata maps to indexed species passiflora-incarnata; specialist morphology and BONAP range deferred.",
-      "sha256": "c7ad1b4022d057f73e16fae0738a860f02db94e46c1959d9037913f720a40a81"
+      "sha256": "c7ad1b4022d057f73e16fae0738a860f02db94e46c1959d9037913f720a40a81",
+      "display_sha256": "401766c117e7233487496d275be62c272e2354a3752d40606ba9c3d2891e007d",
+      "display_blob_sha": "1bb23d645919a860e9442f2ec0f22e17377d60b4",
+      "display_original_site_sha256": "c7ad1b4022d057f73e16fae0738a860f02db94e46c1959d9037913f720a40a81",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-incarnata/inat-643660398.jpg",
@@ -160,7 +180,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7c26ea1ca6f1937390b297a50bd5ef6fac438a59",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -168,7 +188,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 352697466, photo 643660398, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: def5efeb1f75b7092507b9dc778c4c3be844609b470ff31ae0737dbd214d47bc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora incarnata maps to indexed species passiflora-incarnata; specialist morphology and BONAP range deferred.",
-      "sha256": "def5efeb1f75b7092507b9dc778c4c3be844609b470ff31ae0737dbd214d47bc"
+      "sha256": "def5efeb1f75b7092507b9dc778c4c3be844609b470ff31ae0737dbd214d47bc",
+      "display_sha256": "8f6284bed4820878a3b2eeb93ff4111b87dc5bb399d0053534c1f89416e3e81f",
+      "display_blob_sha": "43f5cdf7ce6719db33e4856473422390c7a18c22",
+      "display_original_site_sha256": "def5efeb1f75b7092507b9dc778c4c3be844609b470ff31ae0737dbd214d47bc",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

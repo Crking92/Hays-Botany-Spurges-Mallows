@@ -167,7 +167,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "63ecb79b61a87f93a34ba2e8061de9af78335234",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Website-only JPEG derivative resized to fit within 1800 by 1800 pixels and compressed at quality 82. Original ZIP image retained untouched; exact original SHA-256 documented in source evidence.",
+      "modified": "Resized and recompressed web display copy; source note: Website-only JPEG derivative resized to fit within 1800 by 1800 pixels and compressed at quality 82. Original ZIP image retained untouched; exact original SHA-256 documented in source evidence.",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -175,7 +175,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae original ZIP and live source verifier",
       "source_review_evidence": "Live iNaturalist observation 349840000, photo 638229193, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 62e8c9f540de1ecabee4da9d65c26dc483044d669e5019bbfd7867741d50d766. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "Five Euphorbiaceae ZIP contact sheets reviewed for obvious off-target organisms. Live source determination Euphorbia cyathophora matches indexed species euphorbia-cyathophora; formal plant diagnosis and BONAP county distribution require separate review.",
-      "sha256": "479af9e9fa8d3be1c39b477feb89b2687e0a7f831ff98ffe87bc72c868f32bb2"
+      "sha256": "479af9e9fa8d3be1c39b477feb89b2687e0a7f831ff98ffe87bc72c868f32bb2",
+      "display_sha256": "11684ee6be82f1cfb3a1315cbcf25ad2a3dc3b0211806955ee78035e21aa60b5",
+      "display_blob_sha": "231f8c75d826bfa87769209dac57ecfee7f599fa",
+      "display_original_site_sha256": "479af9e9fa8d3be1c39b477feb89b2687e0a7f831ff98ffe87bc72c868f32bb2",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/euphorbia-cyathophora/inat-640157614-web.jpg",

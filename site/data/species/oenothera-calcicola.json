@@ -110,7 +110,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "2ebf8bf7fe2743c91a16f3961c631329da3134e0",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +118,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 214396929, photo 378955908, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 76f5a73c594194d0153ff6ff2594235c1c4abac884260919159d3150e1e4c1be. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera calcicola maps to indexed species oenothera-calcicola; specialist morphology and BONAP range deferred.",
-      "sha256": "76f5a73c594194d0153ff6ff2594235c1c4abac884260919159d3150e1e4c1be"
+      "sha256": "76f5a73c594194d0153ff6ff2594235c1c4abac884260919159d3150e1e4c1be",
+      "display_sha256": "f8b1eb67731f542878d0c89e4bb9509513a3a67821c5af54d844d7ca021728b8",
+      "display_blob_sha": "da5638d56aa0fc2455abe635296e409322ba4521",
+      "display_original_site_sha256": "76f5a73c594194d0153ff6ff2594235c1c4abac884260919159d3150e1e4c1be",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-calcicola/inat-6923088.jpg",
@@ -129,7 +134,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "acca4c650f27ee43ce067904e96fbae29b768332",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -137,7 +142,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 5602934, photo 6923088, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a2812089236a5b1a8a48b7941877eaca454409a0990b0f2ff82e70730b18ef3b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera calcicola maps to indexed species oenothera-calcicola; specialist morphology and BONAP range deferred.",
-      "sha256": "a2812089236a5b1a8a48b7941877eaca454409a0990b0f2ff82e70730b18ef3b"
+      "sha256": "a2812089236a5b1a8a48b7941877eaca454409a0990b0f2ff82e70730b18ef3b",
+      "display_sha256": "d1aafcfbde3b575b5315ec76f7b4ec916b82567dd613ba6682dc465f0281058d",
+      "display_blob_sha": "a14cc6d94d4b44badbf1b2ee09410c7841cd331d",
+      "display_original_site_sha256": "a2812089236a5b1a8a48b7941877eaca454409a0990b0f2ff82e70730b18ef3b",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

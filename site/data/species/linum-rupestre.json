@@ -20,7 +20,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "86376216d38a8034f1522c75d9399f1dde856afe",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -28,7 +28,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353083271, photo 644294363, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 16731011e8ed4c936bfe8c9beeabb38b9ef2d8521ee90afd1657070d8e130702. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Linum rupestre maps to indexed species linum-rupestre; specialist morphology and BONAP range deferred.",
-      "sha256": "16731011e8ed4c936bfe8c9beeabb38b9ef2d8521ee90afd1657070d8e130702"
+      "sha256": "16731011e8ed4c936bfe8c9beeabb38b9ef2d8521ee90afd1657070d8e130702",
+      "display_sha256": "dd99094b5980641ea942d6f550e121bedf9b609bb601c5987c8aaa7f86a4a641",
+      "display_blob_sha": "03e2046f5a4a12cb7d031a8c58c9f9d3f8eed584",
+      "display_original_site_sha256": "16731011e8ed4c936bfe8c9beeabb38b9ef2d8521ee90afd1657070d8e130702",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/linum-rupestre/inat-644424089.jpg",
@@ -39,7 +44,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b651af553d7f03720889efc99dcc10007a438aa6",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -47,7 +52,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 353172270, photo 644424089, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 404faaa5aebb5501d2b3a4e7fb0a33c68341ede67e97efd84a6e31f7b502e27c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Linum rupestre maps to indexed species linum-rupestre; specialist morphology and BONAP range deferred.",
-      "sha256": "404faaa5aebb5501d2b3a4e7fb0a33c68341ede67e97efd84a6e31f7b502e27c"
+      "sha256": "404faaa5aebb5501d2b3a4e7fb0a33c68341ede67e97efd84a6e31f7b502e27c",
+      "display_sha256": "e25962bbb69490022dc4425b242f7764e04558a4e92d211008e64a209f6323d3",
+      "display_blob_sha": "2a051461a7676e5a90172e093bca4f910ee805a9",
+      "display_original_site_sha256": "404faaa5aebb5501d2b3a4e7fb0a33c68341ede67e97efd84a6e31f7b502e27c",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/linum-rupestre/inat-646371759.jpg",
@@ -58,7 +68,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "38b47a43e99e8a7af87e2c0859a1bd04a2947fe7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -66,7 +76,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354309645, photo 646371759, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 410457981280f83c9c10f90c074900b65ca7ff70856319074d05d58164f3f39a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Linum rupestre maps to indexed species linum-rupestre; specialist morphology and BONAP range deferred.",
-      "sha256": "410457981280f83c9c10f90c074900b65ca7ff70856319074d05d58164f3f39a"
+      "sha256": "410457981280f83c9c10f90c074900b65ca7ff70856319074d05d58164f3f39a",
+      "display_sha256": "69da22a296b1bcf58722b93311cb4d7da65574c60a082b15be1ca06bcf43f21d",
+      "display_blob_sha": "51503cae9b5fd2853d1758d44dcd9a2162ae8207",
+      "display_original_site_sha256": "410457981280f83c9c10f90c074900b65ca7ff70856319074d05d58164f3f39a",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/linum-rupestre/inat-649486306.jpg",
@@ -77,7 +92,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3567b840d3b38d39c56e9e4c61006eb4bf215c6d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -85,7 +100,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356154679, photo 649486306, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: aec18fdc212ba3b1d43c7698254fd324e4977bae9ab73d720785b61b66e4a01a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Linum rupestre maps to indexed species linum-rupestre; specialist morphology and BONAP range deferred.",
-      "sha256": "aec18fdc212ba3b1d43c7698254fd324e4977bae9ab73d720785b61b66e4a01a"
+      "sha256": "aec18fdc212ba3b1d43c7698254fd324e4977bae9ab73d720785b61b66e4a01a",
+      "display_sha256": "0e2580cc3f3aa9cb6893e4616d58114119bce5999230071813d6fb4e8fa8f4b3",
+      "display_blob_sha": "239383cddccfdb8a74d1485c5d2f1db8e8a01719",
+      "display_original_site_sha256": "aec18fdc212ba3b1d43c7698254fd324e4977bae9ab73d720785b61b66e4a01a",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/linum-rupestre/inat-650347042.jpg",
@@ -96,7 +116,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "6039a3a24d74636c61f4868b764102b1ae6044c7",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -104,7 +124,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Leucobryaceae–Malpighiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 356616329, photo 650347042, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f786057b04ffdcad45632668a200d952dca43199284dbf92bd9814c58b96580a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Linum rupestre maps to indexed species linum-rupestre; specialist morphology and BONAP range deferred.",
-      "sha256": "f786057b04ffdcad45632668a200d952dca43199284dbf92bd9814c58b96580a"
+      "sha256": "f786057b04ffdcad45632668a200d952dca43199284dbf92bd9814c58b96580a",
+      "display_sha256": "57bc4fb58ca94fa792e6031d46c214b186c68c8f948f8dc28dba4d5e36cbf45f",
+      "display_blob_sha": "c5f885965f1b1fd1035c7d7d0b77342ae9cb505f",
+      "display_original_site_sha256": "f786057b04ffdcad45632668a200d952dca43199284dbf92bd9814c58b96580a",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/linum-rupestre/archived-36a2dc462e063c84.jpg",

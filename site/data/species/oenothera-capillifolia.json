@@ -104,7 +104,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0d744bab9b7ffa40c7ae25fb94fd1c67640d7309",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -112,7 +112,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 349923923, photo 638392926, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: eb61060a2f9f66aa27f01f273e2af2a10261ebe8b8b3819925fad226a8adca3d. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera capillifolia maps to indexed species oenothera-capillifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "eb61060a2f9f66aa27f01f273e2af2a10261ebe8b8b3819925fad226a8adca3d"
+      "sha256": "eb61060a2f9f66aa27f01f273e2af2a10261ebe8b8b3819925fad226a8adca3d",
+      "display_sha256": "737a86450ff57bdcd1410e452408e1d6861469d92a14d6ae3311bf07bfaf9905",
+      "display_blob_sha": "2c9f372ddba013d10eebe8b927ca09c21192b152",
+      "display_original_site_sha256": "eb61060a2f9f66aa27f01f273e2af2a10261ebe8b8b3819925fad226a8adca3d",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-capillifolia/inat-640387038.jpg",
@@ -123,7 +128,7 @@
       "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "source_blob_sha": "e5e3e5897ab448be74d4c79452289aa26739c3c2",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": false,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -131,7 +136,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350951042, photo 640387038, individual license cc-by, exact source photo URL. Source media SHA256 matches supplied original ZIP: ed82873d1cd3dafa8ca754080aee7738ab006b88f596e4a1d53f123ec6a4b013. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera capillifolia maps to indexed species oenothera-capillifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "ed82873d1cd3dafa8ca754080aee7738ab006b88f596e4a1d53f123ec6a4b013"
+      "sha256": "ed82873d1cd3dafa8ca754080aee7738ab006b88f596e4a1d53f123ec6a4b013",
+      "display_sha256": "da51e50992cccf3e4ff929df7ea6c650c301bf8a2d71176e7514c1c32a3514f2",
+      "display_blob_sha": "9f5aa9bdaff3f5420f95fb228ff0d891101b8527",
+      "display_original_site_sha256": "ed82873d1cd3dafa8ca754080aee7738ab006b88f596e4a1d53f123ec6a4b013",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-capillifolia/inat-643906827.jpg",
@@ -142,7 +152,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4d4bc9e54d407ef17811eba24b6a7c6b46c3409d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -150,7 +160,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 352855494, photo 643906827, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 86d7baabe8e725e0b80d47ef03191f40cef212837a250abd3d8742e1ddbf7c8e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera capillifolia maps to indexed species oenothera-capillifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "86d7baabe8e725e0b80d47ef03191f40cef212837a250abd3d8742e1ddbf7c8e"
+      "sha256": "86d7baabe8e725e0b80d47ef03191f40cef212837a250abd3d8742e1ddbf7c8e",
+      "display_sha256": "fd98a480f906f9a1cd749836902d37252d5ea2b3d1b50602c1367f6842f4c39b",
+      "display_blob_sha": "3df062f196b5c7b90a90b76b1f81be085879836d",
+      "display_original_site_sha256": "86d7baabe8e725e0b80d47ef03191f40cef212837a250abd3d8742e1ddbf7c8e",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-capillifolia/inat-646559049.jpg",
@@ -161,7 +176,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "9bb62831ae02153a723f958161539675febde1bf",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -169,7 +184,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354425011, photo 646559049, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 18b2a9e081c3c9678bbf8ec3f19f62bf2b6d7792748a591da1b915ce40ca4e91. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera capillifolia maps to indexed species oenothera-capillifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "18b2a9e081c3c9678bbf8ec3f19f62bf2b6d7792748a591da1b915ce40ca4e91"
+      "sha256": "18b2a9e081c3c9678bbf8ec3f19f62bf2b6d7792748a591da1b915ce40ca4e91",
+      "display_sha256": "74aa7dcbe4b784233662608d12a6c2a80cbcd2984c244e6aae32a493194f0599",
+      "display_blob_sha": "be8cdf594db6ce67942376472d8dbbae61e1cbc9",
+      "display_original_site_sha256": "18b2a9e081c3c9678bbf8ec3f19f62bf2b6d7792748a591da1b915ce40ca4e91",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-capillifolia/inat-648078250.jpg",
@@ -180,7 +200,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "df6e6d9cc28bca832bb756f512e6c22e0c64a992",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -188,7 +208,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 355339267, photo 648078250, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8f0828eccad802dba7bda29674febc9e2e679033fe0b2336d5451b6e5c45dba5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera capillifolia maps to indexed species oenothera-capillifolia; specialist morphology and BONAP range deferred.",
-      "sha256": "8f0828eccad802dba7bda29674febc9e2e679033fe0b2336d5451b6e5c45dba5"
+      "sha256": "8f0828eccad802dba7bda29674febc9e2e679033fe0b2336d5451b6e5c45dba5",
+      "display_sha256": "e368edd102b43f663fa8c264f50e450018d5ccffac5cdc3b06fe861665c6acf2",
+      "display_blob_sha": "37e3f7aec9eb7a5d615a3e6bc8b197e11649610c",
+      "display_original_site_sha256": "8f0828eccad802dba7bda29674febc9e2e679033fe0b2336d5451b6e5c45dba5",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -72,7 +72,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ff41f947616eea220ee1ea912210c353433e23c9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -80,7 +80,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 152860238, photo 263932155, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: cc9e0d5fa7f98b823b9906502b1b2587ffb3dd56ff92ce72ca443135683b322e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia peploides maps to indexed species ludwigia-peploides; specialist morphology and BONAP range deferred.",
-      "sha256": "cc9e0d5fa7f98b823b9906502b1b2587ffb3dd56ff92ce72ca443135683b322e"
+      "sha256": "cc9e0d5fa7f98b823b9906502b1b2587ffb3dd56ff92ce72ca443135683b322e",
+      "display_sha256": "9e445c27b0ed9d45ca60bfea9246ec258ce6daba9ca9e4776cd08478c5aa65be",
+      "display_blob_sha": "abe534678c576dd2923e0154b2662326e13cfb4d",
+      "display_original_site_sha256": "cc9e0d5fa7f98b823b9906502b1b2587ffb3dd56ff92ce72ca443135683b322e",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ludwigia-peploides/inat-268384369.jpeg",
@@ -91,7 +96,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "15b082370b500c6fa7993a823c573677fc192549",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +104,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 155276085, photo 268384369, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fa32d113da6f13acaaadebd949f96899bb2cf753fa86ab448c18ae00793a2ee4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia peploides maps to indexed species ludwigia-peploides; specialist morphology and BONAP range deferred.",
-      "sha256": "fa32d113da6f13acaaadebd949f96899bb2cf753fa86ab448c18ae00793a2ee4"
+      "sha256": "fa32d113da6f13acaaadebd949f96899bb2cf753fa86ab448c18ae00793a2ee4",
+      "display_sha256": "ec8b85af1a3b1442515d2ab708b2a03b9e7f19eb579806edaf02eac20bc3c15c",
+      "display_blob_sha": "4e88bd1bde9adee2e3181749989a29883c8d4d63",
+      "display_original_site_sha256": "fa32d113da6f13acaaadebd949f96899bb2cf753fa86ab448c18ae00793a2ee4",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ludwigia-peploides/inat-367299633.jpg",
@@ -110,7 +120,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "0478b561cbe55b7920ada3d88b2e469fffbdd701",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +128,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 207640421, photo 367299633, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: b463d8a5167c49fb428de63876428520bddb99a82163eef7d17e1718d91cbd31. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia peploides maps to indexed species ludwigia-peploides; specialist morphology and BONAP range deferred.",
-      "sha256": "b463d8a5167c49fb428de63876428520bddb99a82163eef7d17e1718d91cbd31"
+      "sha256": "b463d8a5167c49fb428de63876428520bddb99a82163eef7d17e1718d91cbd31",
+      "display_sha256": "defc52e73ebc9487ae1cba50052f7e065dbbf967522b3c5d1d86c6e8c97f35a4",
+      "display_blob_sha": "dfc26490ffdd7e8ad2ba23bdf7baf59d2e9bb393",
+      "display_original_site_sha256": "b463d8a5167c49fb428de63876428520bddb99a82163eef7d17e1718d91cbd31",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ludwigia-peploides/inat-488419342.jpeg",
@@ -129,7 +144,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "7be917407d07d833363daba0c377662acfaf3ad4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -137,7 +152,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 271524107, photo 488419342, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4f525b53ec48acf89c16bb98766e97861922237b4d2726a0fabf30b7445a797c. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia peploides maps to indexed species ludwigia-peploides; specialist morphology and BONAP range deferred.",
-      "sha256": "4f525b53ec48acf89c16bb98766e97861922237b4d2726a0fabf30b7445a797c"
+      "sha256": "4f525b53ec48acf89c16bb98766e97861922237b4d2726a0fabf30b7445a797c",
+      "display_sha256": "c80f0bf84d09a621859acabcd91fc21bd12cbd8af6baeb4d424dd927a6a1de82",
+      "display_blob_sha": "f7e2a5efcb74bd17fe3ed8a3df6a79f78710d65e",
+      "display_original_site_sha256": "4f525b53ec48acf89c16bb98766e97861922237b4d2726a0fabf30b7445a797c",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ludwigia-peploides/inat-662953177.jpg",
@@ -148,7 +168,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "cfcd7f54fd249cd8ff9aebcda0f9955f3146ed90",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -156,7 +176,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 363194692, photo 662953177, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 805c8dfbc1e8aa0b31ea0882bf8a40cecd517755bb625e3d59d0bf98c96bece5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia peploides maps to indexed species ludwigia-peploides; specialist morphology and BONAP range deferred.",
-      "sha256": "805c8dfbc1e8aa0b31ea0882bf8a40cecd517755bb625e3d59d0bf98c96bece5"
+      "sha256": "805c8dfbc1e8aa0b31ea0882bf8a40cecd517755bb625e3d59d0bf98c96bece5",
+      "display_sha256": "2ff24dbd4fa0ddc2dc90524368e10e80f78770be7fb8f23026ca2d1656e72ab9",
+      "display_blob_sha": "0fc431e56971e738f4d163305c8eec4ebc49d62a",
+      "display_original_site_sha256": "805c8dfbc1e8aa0b31ea0882bf8a40cecd517755bb625e3d59d0bf98c96bece5",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ludwigia-peploides/historical-reconciled-bf95985638904315.jpg",

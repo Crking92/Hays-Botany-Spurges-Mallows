@@ -60,7 +60,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f5c330c8c31efb8491455be752ff04b4af038624",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -68,7 +68,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 1727699, photo 2093353, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 9e1cc23c1fa1101bef60c41c3cfd05eb32988c2681bbea2629fd539750bf0b58. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Tragia brevispica maps to indexed species tragia-brevispica; specialist morphology and BONAP range deferred.",
-      "sha256": "9e1cc23c1fa1101bef60c41c3cfd05eb32988c2681bbea2629fd539750bf0b58"
+      "sha256": "9e1cc23c1fa1101bef60c41c3cfd05eb32988c2681bbea2629fd539750bf0b58",
+      "display_sha256": "0f658cb1683761fbfcf986cc64809a0893250df974e0d25bdc2d327bab1eb79e",
+      "display_blob_sha": "6574f568f44772e050cc8ced4f466965e4b090d6",
+      "display_original_site_sha256": "9e1cc23c1fa1101bef60c41c3cfd05eb32988c2681bbea2629fd539750bf0b58",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tragia-brevispica/inat-22116454.jpeg",
@@ -98,7 +103,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f6c2001a6b0b314b2b4dfdb200ccfc2b60d774a8",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -106,7 +111,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354646826, photo 646926675, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d2cc418da64254eaa6fba5bf9e97344238db242b74ae68ab777f8cd09fee1c2e. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Tragia brevispica maps to indexed species tragia-brevispica; specialist morphology and BONAP range deferred.",
-      "sha256": "d2cc418da64254eaa6fba5bf9e97344238db242b74ae68ab777f8cd09fee1c2e"
+      "sha256": "d2cc418da64254eaa6fba5bf9e97344238db242b74ae68ab777f8cd09fee1c2e",
+      "display_sha256": "7f9b3c8973cfb40731a45565d8dc9e7f6195f9de25c4044d0fc92256825c160c",
+      "display_blob_sha": "50923f9e46f950d6e973edac43572ebded57af21",
+      "display_original_site_sha256": "d2cc418da64254eaa6fba5bf9e97344238db242b74ae68ab777f8cd09fee1c2e",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/tragia-brevispica/inat-687146087.jpg",
@@ -117,7 +127,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "614e7d3f12ad6fb0ed8bfe535a9a806a95106b21",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -125,7 +135,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Euphorbiaceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 375849855, photo 687146087, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 4b4da3f74af6f5b980ba2f2829fa9aa3a6b5256f2ee475103b1666a5940611bc. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "5 Euphorbiaceae contact sheets inspected for obvious off-target organisms. Live source name Tragia brevispica maps to indexed species tragia-brevispica; specialist morphology and BONAP range deferred.",
-      "sha256": "4b4da3f74af6f5b980ba2f2829fa9aa3a6b5256f2ee475103b1666a5940611bc"
+      "sha256": "4b4da3f74af6f5b980ba2f2829fa9aa3a6b5256f2ee475103b1666a5940611bc",
+      "display_sha256": "d4bd677dd04f02c3b1c71932368274c6694c00c9b98bcdca269cf3eb24ad7c46",
+      "display_blob_sha": "717418e0ec18109b76045e6074a0c2122e93f030",
+      "display_original_site_sha256": "4b4da3f74af6f5b980ba2f2829fa9aa3a6b5256f2ee475103b1666a5940611bc",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

@@ -91,7 +91,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "4b8c71eefb8189f4081e828ac30ae32cf70ff053",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -99,7 +99,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 63356929, photo 101665006, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: a0732b7279b2726db9bf9fdd62415a5466eb648f4d752090dc8f9b41fda801f4. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia leptocarpa maps to indexed species ludwigia-leptocarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "a0732b7279b2726db9bf9fdd62415a5466eb648f4d752090dc8f9b41fda801f4"
+      "sha256": "a0732b7279b2726db9bf9fdd62415a5466eb648f4d752090dc8f9b41fda801f4",
+      "display_sha256": "f4cb6767e0c0f10a58a0e9ae5e566c3acee216b415bd6b2b6fbf059089ccd188",
+      "display_blob_sha": "8b3f108dbda9acb3714db66338be684ea858ab11",
+      "display_original_site_sha256": "a0732b7279b2726db9bf9fdd62415a5466eb648f4d752090dc8f9b41fda801f4",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ludwigia-leptocarpa/inat-23515942.jpeg",
@@ -110,7 +115,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "58409bbc863b75d0d97f2f9383f78e5b27dff9c9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -118,7 +123,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 15745885, photo 23515942, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d510707e0afae95c481137ab30671a0e6ca095d7176e2b59bd5a683858a06206. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia leptocarpa maps to indexed species ludwigia-leptocarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "d510707e0afae95c481137ab30671a0e6ca095d7176e2b59bd5a683858a06206"
+      "sha256": "d510707e0afae95c481137ab30671a0e6ca095d7176e2b59bd5a683858a06206",
+      "display_sha256": "6ec2dee0d7ed1e8b97c81513140ffc94e4ccc3409b7f9954b23d7eb5709f12bd",
+      "display_blob_sha": "5202855eecca14cc0bae4300101bf84c7a230f42",
+      "display_original_site_sha256": "d510707e0afae95c481137ab30671a0e6ca095d7176e2b59bd5a683858a06206",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ludwigia-leptocarpa/inat-576098224.jpg",
@@ -129,7 +139,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3ec61536f43e06031f01595ca16231f5c5baff4e",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -137,7 +147,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 318740685, photo 576098224, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: f8f7c1117b98e302d21076c6e9cd3e96d7f71fe22c2a70905594f3ff0d920760. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia leptocarpa maps to indexed species ludwigia-leptocarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "f8f7c1117b98e302d21076c6e9cd3e96d7f71fe22c2a70905594f3ff0d920760"
+      "sha256": "f8f7c1117b98e302d21076c6e9cd3e96d7f71fe22c2a70905594f3ff0d920760",
+      "display_sha256": "5e0be22ef15a764ad63398b1ba779e467adeb86fe1007ad7a44dceebff9ab83c",
+      "display_blob_sha": "aa8a204a36c0998c1937c28f276c558be00b1f47",
+      "display_original_site_sha256": "f8f7c1117b98e302d21076c6e9cd3e96d7f71fe22c2a70905594f3ff0d920760",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ludwigia-leptocarpa/inat-656980017.jpg",
@@ -167,7 +182,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "db990f478a57e74f38b0c1eb61da0bacf96414dc",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -175,7 +190,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 62412857, photo 99994145, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2fcbef36ad71f3c531a70fdcf49805c6c7bc0092492e4bb20bfd58aad65fa607. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia leptocarpa maps to indexed species ludwigia-leptocarpa; specialist morphology and BONAP range deferred.",
-      "sha256": "2fcbef36ad71f3c531a70fdcf49805c6c7bc0092492e4bb20bfd58aad65fa607"
+      "sha256": "2fcbef36ad71f3c531a70fdcf49805c6c7bc0092492e4bb20bfd58aad65fa607",
+      "display_sha256": "b277e40dce9d77fb7abccf49cb33be52515f556a3d1abf50a8335644fe01dc4e",
+      "display_blob_sha": "5b7d59736135490ef87f549a323956f54e86e43d",
+      "display_original_site_sha256": "2fcbef36ad71f3c531a70fdcf49805c6c7bc0092492e4bb20bfd58aad65fa607",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ludwigia-leptocarpa/historical-wikimedia-52b04d4236ca28b9.jpg",

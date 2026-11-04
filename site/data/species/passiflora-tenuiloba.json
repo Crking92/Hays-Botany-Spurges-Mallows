@@ -83,7 +83,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "ae2499b2cdcb6589789291c68bfd9eda71fd2da4",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -91,7 +91,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 346074418, photo 630783750, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d80a88f888b7459d45c292256cbad1ab93cbdfae79c0ea970a1c31717d871636. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora tenuiloba maps to indexed species passiflora-tenuiloba; specialist morphology and BONAP range deferred.",
-      "sha256": "d80a88f888b7459d45c292256cbad1ab93cbdfae79c0ea970a1c31717d871636"
+      "sha256": "d80a88f888b7459d45c292256cbad1ab93cbdfae79c0ea970a1c31717d871636",
+      "display_sha256": "4e770255c2221b54372dac29ed6609c5b60e3144cb9d44827adcb3820a37a971",
+      "display_blob_sha": "0a08f75670d931ca469a13e57c5b1f35cf3a93e6",
+      "display_original_site_sha256": "d80a88f888b7459d45c292256cbad1ab93cbdfae79c0ea970a1c31717d871636",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-tenuiloba/inat-633831838.jpg",
@@ -102,7 +107,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "00cdf133c51c8642a2f7ad3f9362cd92a642a487",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -110,7 +115,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 347611966, photo 633831838, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 103143e39ff33220b8615711ecaa81af32060879a676a603c03e4265227a0ab2. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora tenuiloba maps to indexed species passiflora-tenuiloba; specialist morphology and BONAP range deferred.",
-      "sha256": "103143e39ff33220b8615711ecaa81af32060879a676a603c03e4265227a0ab2"
+      "sha256": "103143e39ff33220b8615711ecaa81af32060879a676a603c03e4265227a0ab2",
+      "display_sha256": "7f628211418d202cc83c6ebe5e59b2e6610ebc26db6e3cc735723f7abe9b8fba",
+      "display_blob_sha": "76caf95e1a5f5f38a0b5aa441b2ff124e590f5fc",
+      "display_original_site_sha256": "103143e39ff33220b8615711ecaa81af32060879a676a603c03e4265227a0ab2",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-tenuiloba/inat-635229831.jpg",
@@ -121,7 +131,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "8a33240ffd84ec63b68808100be56894750613e9",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -129,7 +139,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 348315892, photo 635229831, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 1bef9906e457b47c84163bcc663981894cf02a04cbaa56545ef90ac5c161804a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora tenuiloba maps to indexed species passiflora-tenuiloba; specialist morphology and BONAP range deferred.",
-      "sha256": "1bef9906e457b47c84163bcc663981894cf02a04cbaa56545ef90ac5c161804a"
+      "sha256": "1bef9906e457b47c84163bcc663981894cf02a04cbaa56545ef90ac5c161804a",
+      "display_sha256": "8ffc4f6cbfde141686b02268e7374ca615cea40e290fcf79f61f6b0073026395",
+      "display_blob_sha": "4a14fc57c77cae9113bf488f1fef1ad69bd0fb35",
+      "display_original_site_sha256": "1bef9906e457b47c84163bcc663981894cf02a04cbaa56545ef90ac5c161804a",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-tenuiloba/inat-655766789.jpg",
@@ -140,7 +155,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "5af6cc7195e6161b18bc889ef9f84f3b4bcf33ea",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -148,7 +163,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Oxalidaceae-Plumbaginaceae photo-first original ZIP reviewer",
       "source_review_evidence": "Live iNaturalist observation 359417292, photo 655766789, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8cdab2a17e001f1d8acdacaf177a8ef2d140b7da5f19049cbfdb77c7bf23df65. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "11 family contact sheets inspected for obvious off-target organisms. Live source name Passiflora tenuiloba maps to indexed species passiflora-tenuiloba; specialist morphology and BONAP range deferred.",
-      "sha256": "8cdab2a17e001f1d8acdacaf177a8ef2d140b7da5f19049cbfdb77c7bf23df65"
+      "sha256": "8cdab2a17e001f1d8acdacaf177a8ef2d140b7da5f19049cbfdb77c7bf23df65",
+      "display_sha256": "b49462eefcf001ad07349b37722d8f77577f1b5d6533c98a3c1e628a33afdbd2",
+      "display_blob_sha": "e862e112e24cbc1d63f61b95173e04bad28d5b36",
+      "display_original_site_sha256": "8cdab2a17e001f1d8acdacaf177a8ef2d140b7da5f19049cbfdb77c7bf23df65",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/passiflora-tenuiloba/inat-657752170.jpg",

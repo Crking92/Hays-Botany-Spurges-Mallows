@@ -58,7 +58,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "d163f0032944ca0ea4d7527d199f3ab07302a898",
       "role": "Flower face and green leaves (general view; diagnostic ID details deferred)",
-      "modified": "Original image bytes, no alterations",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, no alterations",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "CC BY-NC license confirmed on live individual media 281187446; actual ZIP bytes match SHA256. Photo first, detailed diagnostic morphology later.",
@@ -66,7 +66,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany automated exact-photo provider and ZIP integrity check",
       "source_review_evidence": "Live iNaturalist API observation 162619893 lists photo 281187446 with photo-specific license cc-by-nc; original ZIP and remote media SHA256 match.",
       "taxon_review_evidence": "Basic general-photo check: observation taxon viola missouriensis matches assigned species concept; uploaded contact-sheet screened for clear mismatch; specialist anatomical identification deferred.",
-      "sha256": "146b6209acc106dc7916b517fb426f60bace90fc97f6dbc677c016cf477f7481"
+      "sha256": "146b6209acc106dc7916b517fb426f60bace90fc97f6dbc677c016cf477f7481",
+      "display_sha256": "80d2be8fc1dc15dd085516cf5b1e5f3ead050ef4e753685dd9104c2905ef1854",
+      "display_blob_sha": "1595c898c88bff51f8d30ae86bc546a821319058",
+      "display_original_site_sha256": "146b6209acc106dc7916b517fb426f60bace90fc97f6dbc677c016cf477f7481",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/viola-missouriensis/inat-477906762.jpeg",
@@ -77,7 +82,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "b90ab7c54c5b9b4138ac64c1b077fff7c90307d7",
       "role": "Pale violet flower close-up (general view; diagnostic ID details deferred)",
-      "modified": "Original image bytes, no alterations",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, no alterations",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "CC BY-NC license confirmed on live individual media 477906762; actual ZIP bytes match SHA256. Photo first, detailed diagnostic morphology later.",
@@ -85,7 +90,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany automated exact-photo provider and ZIP integrity check",
       "source_review_evidence": "Live iNaturalist API observation 266012807 lists photo 477906762 with photo-specific license cc-by-nc; original ZIP and remote media SHA256 match.",
       "taxon_review_evidence": "Basic general-photo check: observation taxon viola missouriensis matches assigned species concept; uploaded contact-sheet screened for clear mismatch; specialist anatomical identification deferred.",
-      "sha256": "545fe1082bed83fbae0f0406c8e508c6d6efc547b6d75e3bf6a89bf0a191a8b4"
+      "sha256": "545fe1082bed83fbae0f0406c8e508c6d6efc547b6d75e3bf6a89bf0a191a8b4",
+      "display_sha256": "f2431cc4ea51ea1ce56caf0b9a8a8e0fdb5cf0708ca09fe10f3abbfa2212f633",
+      "display_blob_sha": "482fbd2b0ebfa50264bd2b2c089f1ba7aad533af",
+      "display_original_site_sha256": "545fe1082bed83fbae0f0406c8e508c6d6efc547b6d75e3bf6a89bf0a191a8b4",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/viola-missouriensis/inat-645658335.jpg",
@@ -96,7 +106,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "01acee8b9f3619137cc8e12f8fe7acef202bd0a9",
       "role": "General clumps and basal leaves (general view; diagnostic ID details deferred)",
-      "modified": "Original image bytes, no alterations",
+      "modified": "Resized and recompressed web display copy; source note: Original image bytes, no alterations",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "CC BY-NC license confirmed on live individual media 645658335; actual ZIP bytes match SHA256. Photo first, detailed diagnostic morphology later.",
@@ -104,7 +114,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany automated exact-photo provider and ZIP integrity check",
       "source_review_evidence": "Live iNaturalist API observation 353897721 lists photo 645658335 with photo-specific license cc-by-nc; original ZIP and remote media SHA256 match.",
       "taxon_review_evidence": "Basic general-photo check: observation taxon viola missouriensis matches assigned species concept; uploaded contact-sheet screened for clear mismatch; specialist anatomical identification deferred.",
-      "sha256": "b04c9ffa9079b0872295836b1b3e49dab7022a57c914f2fa76392b2cd739d8bf"
+      "sha256": "b04c9ffa9079b0872295836b1b3e49dab7022a57c914f2fa76392b2cd739d8bf",
+      "display_sha256": "5579b68b3bfba23d70d9be764f7c017936984c8a80f6bc2dd149d6c8c69b1b75",
+      "display_blob_sha": "980e5f2382e04b4b631c2d2f564785c976958043",
+      "display_original_site_sha256": "b04c9ffa9079b0872295836b1b3e49dab7022a57c914f2fa76392b2cd739d8bf",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/viola-missouriensis/archived-509304824be5a9ca.jpg",

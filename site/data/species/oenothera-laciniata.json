@@ -85,7 +85,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f9318b1b273a8e60320be5d389440c274d484515",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -93,7 +93,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 349337484, photo 637243259, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: db00dc7dc2992d04f29ddf99c1c67e2467c4261c544457739635d73267cc502b. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera laciniata maps to indexed species oenothera-laciniata; specialist morphology and BONAP range deferred.",
-      "sha256": "db00dc7dc2992d04f29ddf99c1c67e2467c4261c544457739635d73267cc502b"
+      "sha256": "db00dc7dc2992d04f29ddf99c1c67e2467c4261c544457739635d73267cc502b",
+      "display_sha256": "a747402be0c2d0d54a4006b40b2d2159ead0a4d8ad62c61a15578026fb254f31",
+      "display_blob_sha": "be159a6070ad3c41e3130b22d516cadef9a587f4",
+      "display_original_site_sha256": "db00dc7dc2992d04f29ddf99c1c67e2467c4261c544457739635d73267cc502b",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-laciniata/inat-638883666.jpg",
@@ -104,7 +109,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "57d14284168d2fdc6c633848416134dc68a155eb",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -112,7 +117,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350174337, photo 638883666, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8eea2ecd8d672fcf005570fb8d7246c2508d542331db70c31ba916f97b3f7126. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera laciniata maps to indexed species oenothera-laciniata; specialist morphology and BONAP range deferred.",
-      "sha256": "8eea2ecd8d672fcf005570fb8d7246c2508d542331db70c31ba916f97b3f7126"
+      "sha256": "8eea2ecd8d672fcf005570fb8d7246c2508d542331db70c31ba916f97b3f7126",
+      "display_sha256": "a88c7c1bc647988afe66e6f4c8cb08887d5efb84ee030ac5856b8b9a52ff7e6a",
+      "display_blob_sha": "1646aeeff6e0ff6ab9f9533a91735289937a463f",
+      "display_original_site_sha256": "8eea2ecd8d672fcf005570fb8d7246c2508d542331db70c31ba916f97b3f7126",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-laciniata/inat-639310286.jpg",
@@ -123,7 +133,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "772f4904a12978771677c0db546d406b8034c163",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -131,7 +141,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350392648, photo 639310286, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 40eb067aca5c02b0eb5227f5dfeed9c059a4c7fba7588826433870ab0a37db9a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera laciniata maps to indexed species oenothera-laciniata; specialist morphology and BONAP range deferred.",
-      "sha256": "40eb067aca5c02b0eb5227f5dfeed9c059a4c7fba7588826433870ab0a37db9a"
+      "sha256": "40eb067aca5c02b0eb5227f5dfeed9c059a4c7fba7588826433870ab0a37db9a",
+      "display_sha256": "fc051f7fd41fa9a1b07ecb9b91cb8a92c9ea804d87820580eee6c7ecc911e517",
+      "display_blob_sha": "3ff80f0a9b20e7dc78277fbd4f85b06712dece69",
+      "display_original_site_sha256": "40eb067aca5c02b0eb5227f5dfeed9c059a4c7fba7588826433870ab0a37db9a",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-laciniata/inat-640332215.jpg",
@@ -142,7 +157,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "3d477cf4883126d1f54bdef25526a8a79297cefe",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -150,7 +165,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350922420, photo 640332215, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 8a4801dc7407083a5ead3585f86e27aeb0b71c15ba758215cf841345a0ba14f1. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera laciniata maps to indexed species oenothera-laciniata; specialist morphology and BONAP range deferred.",
-      "sha256": "8a4801dc7407083a5ead3585f86e27aeb0b71c15ba758215cf841345a0ba14f1"
+      "sha256": "8a4801dc7407083a5ead3585f86e27aeb0b71c15ba758215cf841345a0ba14f1",
+      "display_sha256": "34b6277c93c96daeac6e0384860a381ee7add3edfabbe1fdbc43b9cae8ca83ab",
+      "display_blob_sha": "a80d13ea2766f40d42775d9b89c9a289bc2f775f",
+      "display_original_site_sha256": "8a4801dc7407083a5ead3585f86e27aeb0b71c15ba758215cf841345a0ba14f1",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/oenothera-laciniata/inat-647388693.jpg",
@@ -161,7 +181,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "27ccec96ec5f157a2b654298b608e72c478c3e6b",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -169,7 +189,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354909686, photo 647388693, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 0900ce6ce6ab7cef290505813265630dab26a0d7dadb20baf3490745a2d652ac. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Oenothera laciniata maps to indexed species oenothera-laciniata; specialist morphology and BONAP range deferred.",
-      "sha256": "0900ce6ce6ab7cef290505813265630dab26a0d7dadb20baf3490745a2d652ac"
+      "sha256": "0900ce6ce6ab7cef290505813265630dab26a0d7dadb20baf3490745a2d652ac",
+      "display_sha256": "81e8605f2ae24c3c4a0e9b61b6438810f8ca061c9e48751c0ae770e2fdcab756",
+      "display_blob_sha": "8b4841962e881b6dfd95d6119ac4da9af0a1b43b",
+      "display_original_site_sha256": "0900ce6ce6ab7cef290505813265630dab26a0d7dadb20baf3490745a2d652ac",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

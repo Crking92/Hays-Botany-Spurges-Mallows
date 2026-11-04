@@ -101,7 +101,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "f6f3aeab27314fa6275d93a8839c12a6676c4808",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -109,7 +109,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 164281131, photo 284223904, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 950f16d869e2d38f0a0765fcabe12712181eda8e2d28f0a1024cd439a82545ca. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia octovalvis maps to indexed species ludwigia-octovalvis; specialist morphology and BONAP range deferred.",
-      "sha256": "950f16d869e2d38f0a0765fcabe12712181eda8e2d28f0a1024cd439a82545ca"
+      "sha256": "950f16d869e2d38f0a0765fcabe12712181eda8e2d28f0a1024cd439a82545ca",
+      "display_sha256": "15240912cecaf59041fb65b72a185242b0857a6cb2c729efe2935a71274ab168",
+      "display_blob_sha": "bfd59d6cd1c25db027e71764620619ee457eb325",
+      "display_original_site_sha256": "950f16d869e2d38f0a0765fcabe12712181eda8e2d28f0a1024cd439a82545ca",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ludwigia-octovalvis/inat-639343550.jpg",
@@ -120,7 +125,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "da5ee319efeae0df78d779d366c5e5e8cdd1675d",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -128,7 +133,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 350409130, photo 639343550, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2808cb01fb8a66f7b4a93d1ce241ca6a3432864b672683985be1448691a95f7a. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia octovalvis maps to indexed species ludwigia-octovalvis; specialist morphology and BONAP range deferred.",
-      "sha256": "2808cb01fb8a66f7b4a93d1ce241ca6a3432864b672683985be1448691a95f7a"
+      "sha256": "2808cb01fb8a66f7b4a93d1ce241ca6a3432864b672683985be1448691a95f7a",
+      "display_sha256": "00dbb55e89c927b9066a3f8d143cdd21b300e32e1c6c1d4efe92caa0402eac18",
+      "display_blob_sha": "b3f913d2554af8321334e836b41de07886b87cfd",
+      "display_original_site_sha256": "2808cb01fb8a66f7b4a93d1ce241ca6a3432864b672683985be1448691a95f7a",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     },
     {
       "src": "media/ludwigia-octovalvis/inat-647281394.jpg",
@@ -139,7 +149,7 @@
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "source_blob_sha": "a413c0de13df5f2cb9f5d826b34a2f3762dfde68",
       "role": "General field photograph; exact structure and detailed botanical identification deferred",
-      "modified": "Original source photo, no edits",
+      "modified": "Resized and recompressed web display copy; source note: Original source photo, no edits",
       "noncommercial_only": true,
       "private_rights_review_only": false,
       "photo_approval_note": "Owner standing photo-first authorization: original image, live photo-specific source reuse rights, and basic species assignment verified. Detailed plant anatomy deferred.",
@@ -147,7 +157,12 @@
       "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Hays Botany Onagraceae photo-first original ZIP verifier",
       "source_review_evidence": "Live iNaturalist observation 354849911, photo 647281394, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: d5ae9b08d669068970f7ad49c5d49d01287c03932ed8e4b3ae3b9e2fcfb43ccf. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia octovalvis maps to indexed species ludwigia-octovalvis; specialist morphology and BONAP range deferred.",
-      "sha256": "d5ae9b08d669068970f7ad49c5d49d01287c03932ed8e4b3ae3b9e2fcfb43ccf"
+      "sha256": "d5ae9b08d669068970f7ad49c5d49d01287c03932ed8e4b3ae3b9e2fcfb43ccf",
+      "display_sha256": "2d3d913d4acb59a2ad7481e4b96a4264c94f7fa1c9a08f2861181064a773bc17",
+      "display_blob_sha": "078b23f02a8c5cf1513d63e6a371c077afecadad",
+      "display_original_site_sha256": "d5ae9b08d669068970f7ad49c5d49d01287c03932ed8e4b3ae3b9e2fcfb43ccf",
+      "display_original_archive_commit": "fc557b3ae751c121a6bd9f29fe60fe277e3e7678",
+      "display_modifications": "Resized and JPEG-compressed for website display; original photo preserved in pinned family archive"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
