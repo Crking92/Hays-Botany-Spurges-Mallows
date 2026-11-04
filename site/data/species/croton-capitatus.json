@@ -43,8 +43,43 @@
     "names": [],
     "differences": "The highest-value split from C. lindheimeri is sepal posture plus leaf-tip shape: true C. capitatus tends toward outward-flaring/recurved pistillate sepals and may show blunt or mucronate leaves."
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/croton-capitatus/ncsu-croton-capitatus-cc0-flowers.jpg",
+      "creator": "MCD Staff",
+      "source_page": "https://plants.ces.ncsu.edu/plants/croton-capitatus/",
+      "source_image_url": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Croton_capitatus_flo_KqnJuIIplXth.jpeg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "03252236cdb74b0e8a84415c94b50eb20b42bf00",
+      "role": "NC State source-labeled male and female flowers; diagnostic female-sepal posture not demonstrated",
+      "modified": "Archived resized JPEG; original EXIF and metadata not retained",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "source_review_evidence": "NC State Extension Gardener Plant Toolbox independently lists this exact image, MCD Staff, CC0 1.0; archived per-image source CSV and Git blob match the stored filename and source URL.",
+      "taxon_review_evidence": "NC State source labels this image Croton capitatus. General source-backed recognition only. Strict Croton capitatus / C. lindheimeri distinction and local range remain unresolved."
+    },
+    {
+      "src": "media/croton-capitatus/ncsu-croton-capitatus-cc0-leaves.jpg",
+      "creator": "MCD Staff",
+      "source_page": "https://plants.ces.ncsu.edu/plants/croton-capitatus/",
+      "source_image_url": "https://eit-planttoolbox-prod.s3.amazonaws.com/media/images/Croton_capitatus_lea_Ha3oJnm0caWg.jpeg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source_blob_sha": "64220ec85308cc371d3ab61b276120dee37d2dc3",
+      "role": "NC State source-labeled leaves; diagnostic female-sepal posture not shown",
+      "modified": "Archived resized JPEG; original EXIF and metadata not retained",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "source_page_is_exact": true,
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "source_review_evidence": "NC State Extension Gardener Plant Toolbox independently lists this exact image, MCD Staff, CC0 1.0; archived per-image source CSV and Git blob match the stored filename and source URL.",
+      "taxon_review_evidence": "NC State source labels this image Croton capitatus. General source-backed recognition only. Strict Croton capitatus / C. lindheimeri distinction and local range remain unresolved."
+    }
+  ],
+  "photo_status": "SOURCE_VERIFIED_GENERAL_GALLERY_TAXON_CONCEPT_REVIEW_REMAINS",
   "original_species_sha256": "64a79d8e47e35b0e2355d195a723abcbb7e95cd0f893852fd219770f6c837351",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }

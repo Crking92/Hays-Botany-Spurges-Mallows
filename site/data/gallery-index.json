@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
-  "photo_species": 126,
-  "photo_count": 605,
+  "photo_species": 127,
+  "photo_count": 607,
   "entries": {
     "impatiens-capensis": {
       "count": 1,
@@ -50,8 +50,8 @@
       "first_src": null
     },
     "croton-capitatus": {
-      "count": 0,
-      "first_src": null
+      "count": 2,
+      "first_src": "media/croton-capitatus/ncsu-croton-capitatus-cc0-flowers.jpg"
     },
     "croton-fruticulosus": {
       "count": 4,
