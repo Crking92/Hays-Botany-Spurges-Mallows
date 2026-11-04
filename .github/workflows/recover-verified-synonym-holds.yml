@@ -1,4 +1,4 @@
-name: Recover previously held photographs with Kew-verified taxonomic synonyms
+name: Revalidate archival WSU Argythamnia image and original GBIF media license
 on:
   push:
     branches: [main]
@@ -28,14 +28,14 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: f3df80ef517e0574ffc4cbdc14941699f1c3c462
+          ref: 1679c06d72c8335ef76d4f68f312840787dfc9b1
           path: .shared-photo-audit
           persist-credentials: false
       - name: Install image decoder
         run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
       - name: Audit up to 55 previously held originals and publish passing photos to this family only
         run: |
-          python3 .shared-photo-audit/scripts/recover_verified_taxonomic_synonym_holds.py \
+          python3 .shared-photo-audit/scripts/recheck_wsu_argythamnia_original.py \
             --source-root "$RUNNER_TEMP/source-archive" \
             --site-root site \
             --repository "Crking92/Hays-Botany-Spurges-Mallows" \
