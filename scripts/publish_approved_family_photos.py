@@ -16,7 +16,7 @@ from PIL import Image, UnidentifiedImageError
 
 ID = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 FILENAME = re.compile(r"^[a-z0-9][a-z0-9._-]{2,110}\.(?:jpg|jpeg|png|webp)$")
-LICENSES = {
+LICENSES = {\n    "OWNER PUBLIC DISPLAY PERMISSION": "https://github.com/Crking92/Hays-Botany-Public/blob/main/docs/GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION_20261103.md",
     "PUBLIC DOMAIN (U.S. FEDERAL WORK)": "https://www.copyright.gov/title17/92chap1.html#105",
     "PUBLIC DOMAIN (AUTHOR RELEASED)": "https://creativecommons.org/publicdomain/mark/1.0/",
     "CC BY 2.5": "https://creativecommons.org/licenses/by/2.5/",
@@ -116,6 +116,14 @@ def read_approved(staging: Path, sid: str, sidecar: Path):
     # If supplied, the caller's checksum must match real source bytes.
     if data.get("sha256") and data["sha256"]!=checksum:
         fail("Uploaded image SHA-256 does not match sidecar: " + str(sidecar))
+    if license_name=="OWNER PUBLIC DISPLAY PERMISSION":
+        allowed=["61a9bda053f069204fa18cad9ccc0205dee5b03f","14b0ae32e643656b7741e2eb81bd5598ff6c15ec","49991a852203279be93d8b544fc8d516eaee508a","25f0ba67f2a3cd9a12f571d78dbae41b813a4ab7","6e9054f9d3dcb14f4a4cb679f730a9f3c880d75b"]
+        if (blob_sha(blob) not in allowed or
+            data.get("creator")!="Glass Root Garden" or
+            not str(data.get("source_page") or "").startswith("https://www.inaturalist.org/photos/") or
+            data.get("noncommercial_site_use_confirmed") is not True or
+            "https://github.com/Crking92/Hays-Botany-Public/blob/main/docs/GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION_20261103.md" not in str(data.get("source_review_evidence") or "")):
+            fail("Owner site-display permission is not proven for this exact source image: "+str(sidecar))
     return data,image,blob,checksum
 
 def main():
@@ -167,7 +175,7 @@ def main():
         if sid not in by_id or by_id[sid]["family"] not in families:
             fail("Cannot publish a species not yet on the assigned family site: " + sid)
         meta,image,payload,sha256=read_approved(root,sid,sidecar)
-        nc_license=meta["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0"}
+        nc_license=meta["license"] in {"CC BY-NC 4.0","CC BY-NC-SA 4.0","OWNER PUBLIC DISPLAY PERMISSION"}
         if nc_license and not (site_meta.get("photo_license_policy",{}).get("noncommercial_educational_use") is True and meta.get("noncommercial_site_use_confirmed") is True):
             fail("CC BY-NC photo requires explicit site and per-image noncommercial confirmation: " + str(sidecar))
         dest=site/"media"/sid/image.name
@@ -207,6 +215,10 @@ def main():
             "taxon_review_evidence":meta.get("taxon_review_evidence"),
             "sha256":sha256
         }
+        if meta["license"]=="OWNER PUBLIC DISPLAY PERMISSION":
+            record["site_display_only"]=True
+            record["public_reuse"]=False
+            record["noncommercial_only"]=True
         photos.append(record)
         if dest.exists():fail("File already in site media but not referenced in the species lesson: " + src)
         writes.append((dest,payload))
