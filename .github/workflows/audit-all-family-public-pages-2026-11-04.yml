@@ -1,0 +1,50 @@
+name: Audit all ten Hays Botany family Pages photo galleries
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/audit_all_family_public_pages.py"
+      - ".github/workflows/audit-all-family-public-pages-2026-11-04.yml"
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: hays-botany-all-family-live-site-audit
+  cancel-in-progress: false
+jobs:
+  verify-live-site:
+    name: Live photo audit - ${{ matrix.collection }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    strategy:
+      fail-fast: false
+      max-parallel: 5
+      matrix:
+        collection:
+          - Poaceae
+          - Asteraceae
+          - Fabaceae
+          - Monocots-Aquatics
+          - Lamiales
+          - Asterid-Allies
+          - Cacti-Buttercups
+          - Spurges-Mallows
+          - Trees-Shrubs
+          - Mixed-Families
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Check live Pages index, species credits and every photograph URL
+        run: |
+          python3 scripts/audit_all_family_public_pages.py \
+            --collection "${{ matrix.collection }}" \
+            --report "$RUNNER_TEMP/live-photo-audit-${{ matrix.collection }}.json"
+      - name: Save actual public website verification and any holds
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: live-photo-audit-${{ matrix.collection }}
+          path: "${{ runner.temp }}/live-photo-audit-${{ matrix.collection }}.json"
+          retention-days: 30
+          if-no-files-found: warn
