@@ -1,4 +1,4 @@
-name: Review Lythrum historical CC BY-SA photo and source author
+name: Reconcile exact USDA federal public-domain historical photo originals
 on:
   push:
     branches: [main]
@@ -28,7 +28,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: 58f8bf764c2a2d57606f814a1755cac5818b22da
+          ref: f8313346a28c6240613fc8654d7a4139ea1ba622
           path: .shared-photo-audit
           persist-credentials: false
       - name: Install image decoder
