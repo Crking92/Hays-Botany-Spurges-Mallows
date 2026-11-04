@@ -9,8 +9,8 @@
       "genus": "Impatiens",
       "scientific_name": "Impatiens capensis",
       "common_name": "Orange jewelweed",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 1,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "cochlospermum-wrightii",
@@ -738,7 +738,7 @@
       "genus": "Pavonia",
       "scientific_name": "Pavonia lasiopetala",
       "common_name": "Rock rose",
-      "photo_count": 5,
+      "photo_count": 6,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {

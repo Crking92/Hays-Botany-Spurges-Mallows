@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 349435129, photo 637416766, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 72e7c338e7b496a8632f91588b8c3672b4a6ef947c846aba727a8247cac82ca9. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Pavonia lasiopetala maps to indexed species pavonia-lasiopetala; specialist morphology and BONAP range deferred.",
       "sha256": "72e7c338e7b496a8632f91588b8c3672b4a6ef947c846aba727a8247cac82ca9"
+    },
+    {
+      "src": "media/pavonia-lasiopetala/archived-6bdfa7875e0a29a6.jpg",
+      "creator": "Clarence A. Rechenthin",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pavonia_lasiopetala.jpg",
+      "source_page_is_exact": true,
+      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+      "license_url": "https://www.copyright.gov/title17/92chap1.html#105",
+      "source_blob_sha": "2acd0cdf675e7fb2696018185f3acb33e8a6d4fd",
+      "role": "Provisional Texas rock rose flower recognition; epicalyx bracts and fruits need macro images.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Exact Commons file page, creator and image-specific PUBLIC DOMAIN (U.S. FEDERAL WORK) independently reviewed 2026-11-03; same original URL https://upload.wikimedia.org/wikipedia/commons/e/e1/Pavonia_lasiopetala.jpg; image fingerprint distance 0; archived source SHA 2acd0cdf675e7fb2696018185f3acb33e8a6d4fd; exact image source https://commons.wikimedia.org/wiki/File:Pavonia_lasiopetala.jpg",
+      "taxon_review_evidence": "Original species record Pavonia lasiopetala linked to an original image and matching current commons photo of source taxon Pavonia lasiopetala. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "6bdfa7875e0a29a64b8d72af6208774df57f18728eee8c2c1df48c19c412359c"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

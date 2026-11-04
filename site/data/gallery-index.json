@@ -2,12 +2,12 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
-  "photo_species": 125,
-  "photo_count": 602,
+  "photo_species": 126,
+  "photo_count": 604,
   "entries": {
     "impatiens-capensis": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/impatiens-capensis/archived-ee20c9ad8333d257.jpg"
     },
     "cochlospermum-wrightii": {
       "count": 1,
@@ -330,7 +330,7 @@
       "first_src": "media/pavonia-hastata/inat-186741399.jpg"
     },
     "pavonia-lasiopetala": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/pavonia-lasiopetala/inat-628861725.jpg"
     },
     "rhynchosida-physocalyx": {

@@ -10,8 +10,28 @@
     "names": [],
     "differences": ""
   },
-  "verified_photos": [],
-  "photo_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY",
+  "verified_photos": [
+    {
+      "src": "media/impatiens-capensis/archived-ee20c9ad8333d257.jpg",
+      "creator": "Robert H. Mohlenbrock",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Impatiens_capensis.jpg",
+      "source_page_is_exact": true,
+      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+      "license_url": "https://www.copyright.gov/title17/92chap1.html#105",
+      "source_blob_sha": "47f91e7579276758d2abb3d3329ff8112052a999",
+      "role": "Provisional floral recognition: pendant orange spur flower; fruit not photographed.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Exact Commons file page, creator and image-specific PUBLIC DOMAIN (U.S. FEDERAL WORK) independently reviewed 2026-11-03; same original URL https://upload.wikimedia.org/wikipedia/commons/b/b0/Impatiens_capensis.jpg; image fingerprint distance 0; archived source SHA 47f91e7579276758d2abb3d3329ff8112052a999; exact image source https://commons.wikimedia.org/wiki/File:Impatiens_capensis.jpg",
+      "taxon_review_evidence": "Original species record Impatiens capensis linked to an original image and matching current commons photo of source taxon Impatiens capensis. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "ee20c9ad8333d2573e168fc1acbdc9711413ee02ab224794080bd9818465c8df"
+    }
+  ],
+  "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
   "original_species_sha256": "cba1178ba3ee900e47671d56d0baa2cba93ff5e5a83ca106adba3f5c4ebaffbc",
   "source_credit": "Existing Hays Botany species record and scientific source notes; original full record retained in assigned family staging branch"
 }
