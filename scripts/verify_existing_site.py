@@ -15,6 +15,15 @@ ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / "site"
 ALLOWED = re.compile(r"(?:CC0(?: 1\.0)?|Public Domain(?: \([^)]*\))?|CC BY(?:-NC)?(?:-SA)? (?:2\.0|2\.5|3\.0|4\.0)(?: [A-Z]{2,8})?)", re.I)
 
+OWNER_DISPLAY_URL = "https://github.com/Crking92/Hays-Botany-Public/blob/main/docs/GLASS_ROOT_GARDEN_PUBLIC_DISPLAY_PERMISSION_20261103.md"
+OWNER_DISPLAY_BLOB_SHA1 = {
+    "61a9bda053f069204fa18cad9ccc0205dee5b03f",
+    "14b0ae32e643656b7741e2eb81bd5598ff6c15ec",
+    "49991a852203279be93d8b544fc8d516eaee508a",
+    "25f0ba67f2a3cd9a12f571d78dbae41b813a4ab7",
+    "6e9054f9d3dcb14f4a4cb679f730a9f3c880d75b",
+}
+
 def read(path):
     return json.loads((SITE / path).read_text(encoding="utf-8"))
 
@@ -73,8 +82,17 @@ def local_audit():
                     sid + ": published photo differs from its archived Git blob")
             for key in ("creator", "source_page", "license", "license_url", "role"):
                 require(bool(str(photo.get(key) or "").strip()), sid + ": absent credit field " + key)
-            require(bool(ALLOWED.fullmatch(photo["license"])),
-                    sid + ": unknown/non-public photo license: " + photo["license"])
+            if photo["license"] == "OWNER PUBLIC DISPLAY PERMISSION":
+                require(photo.get("source_blob_sha") in OWNER_DISPLAY_BLOB_SHA1
+                        and photo.get("creator") == "Glass Root Garden"
+                        and photo.get("license_url") == OWNER_DISPLAY_URL
+                        and photo.get("site_display_only") is True
+                        and photo.get("public_reuse") is False
+                        and str(photo.get("source_page") or "").startswith("https://www.inaturalist.org/photos/"),
+                        sid + ": owner-specific display permission has no exact-photo proof")
+            else:
+                require(bool(ALLOWED.fullmatch(photo["license"])),
+                        sid + ": unknown/non-public photo license: " + photo["license"])
             require(not photo.get("private_rights_review_only"),
                     sid + ": public gallery points to held/private image")
             if "-NC" in photo["license"]:
