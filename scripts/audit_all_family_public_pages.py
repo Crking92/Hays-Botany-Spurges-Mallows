@@ -140,7 +140,7 @@ def main():
             if len(payload)<200:raise RuntimeError("Empty live photo bytes: "+sid)
             sha=photo.get("source_blob_sha")
             if sha:
-                got=hashlib.sha1(b"blob "+str(len(payload)).encode()+b"\\0"+payload).hexdigest()
+                got=hashlib.sha1(b"blob "+str(len(payload)).encode()+b"\0"+payload).hexdigest()
                 if got != sha:raise RuntimeError("Live photo bytes differ from credited source Git blob: "+sid)
             return sid
         with cf.ThreadPoolExecutor(max_workers=5) as pool:
