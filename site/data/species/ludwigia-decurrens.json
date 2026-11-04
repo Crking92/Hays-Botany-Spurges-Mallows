@@ -81,6 +81,23 @@
       "source_review_evidence": "iNaturalist observation 61922916 photo 99149311 individual CC code cc-by-nc; photographer (c) Joey Santore, some rights reserved (CC BY-NC); image dHash difference 0; archived source SHA c30d897a41c48e848b44344f07bd7ca57d86bbd6; exact image source https://www.inaturalist.org/photos/99149311",
       "taxon_review_evidence": "Original species record Ludwigia decurrens linked to an original image and matching current inat photo of source taxon Ludwigia decurrens. Basic source-backed field recognition only; no diagnostic arrow certification.",
       "sha256": "a2e514917879d96c9f360e5ce2bf55eca362e910645e9d73062d6fabf7643518"
+    },
+    {
+      "src": "media/ludwigia-decurrens/historical-wikimedia-ed5e4b24e303a46a.jpg",
+      "creator": "Sesamehoneytart",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ludwigia_decurrens_1.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "ed5e4b24e303a46a6493fd30d013c47a3f4b2d52",
+      "role": "Yellow four-petaled flower and adjacent leaves; general visual identification",
+      "modified": "Archived JPEG copy from historical collection; no new image alterations in this release",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Photo-first publication under owner standing permission; exact Wikimedia Commons file record and archived Git blob verified 2026-11-04",
+      "source_review_evidence": "Wikimedia Commons exact file identifies Sesamehoneytart as author and CC BY-SA 4.0 as redistribution license; historical archive image Git SHA ed5e4b24e303a46a6493fd30d013c47a3f4b2d52; exact source page https://commons.wikimedia.org/wiki/File:Ludwigia_decurrens_1.jpg",
+      "taxon_review_evidence": "Original source card names exact Ludwigia species, source Wikimedia file uses matching scientific name and actual archived pixels were inspected; detailed diagnostic anatomy deferred"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

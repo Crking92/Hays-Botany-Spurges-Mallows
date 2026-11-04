@@ -176,6 +176,23 @@
       "source_review_evidence": "Live iNaturalist observation 62412857, photo 99994145, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 2fcbef36ad71f3c531a70fdcf49805c6c7bc0092492e4bb20bfd58aad65fa607. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia leptocarpa maps to indexed species ludwigia-leptocarpa; specialist morphology and BONAP range deferred.",
       "sha256": "2fcbef36ad71f3c531a70fdcf49805c6c7bc0092492e4bb20bfd58aad65fa607"
+    },
+    {
+      "src": "media/ludwigia-leptocarpa/historical-wikimedia-52b04d4236ca28b9.jpg",
+      "creator": "Franz Xaver",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ludwigia_leptocarpa_1.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_blob_sha": "52b04d4236ca28b9f55a9c2f88b8b6fc4ad8b3b4",
+      "role": "Flowering branch, narrow leaves and yellow flower; general visual identification",
+      "modified": "Archived JPEG copy from historical collection; no new image alterations in this release",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Photo-first publication under owner standing permission; exact Wikimedia Commons file record and archived Git blob verified 2026-11-04",
+      "source_review_evidence": "Wikimedia Commons exact file identifies Franz Xaver as author and CC BY-SA 3.0 as redistribution license; historical archive image Git SHA 52b04d4236ca28b9f55a9c2f88b8b6fc4ad8b3b4; exact source page https://commons.wikimedia.org/wiki/File:Ludwigia_leptocarpa_1.jpg",
+      "taxon_review_evidence": "Original source card names exact Ludwigia species, source Wikimedia file uses matching scientific name and actual archived pixels were inspected; detailed diagnostic anatomy deferred"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
