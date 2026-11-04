@@ -2460,5 +2460,26 @@
     "Source unavailable: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wi": 2
   },
   "cumulative_installed": 128,
-  "cumulative_held_reviewed": 32
+  "cumulative_held_reviewed": 32,
+  "owner_20261103_hold_closures": {
+    "policy": "Keep unverified or taxon-mismatched photos off all public family sites; owner requested no further retry. Preserve original provenance for audit; do not delete source files.",
+    "records": [
+      {
+        "git_blob_sha": "654dfc8c7718b9482158d668cf5e77477676de5c",
+        "species_id": "argythamnia-aphoroides",
+        "filename": "gbif-manual-6490988647-1d5eb074d.jpg",
+        "disposition": "CLOSED_EXCLUDED_FROM_PUBLIC_RELEASE",
+        "reason": "Source taxon is Ditaxis aphoroides rather than archive target; source image/license could not be reverified",
+        "original_archived_preserved": true
+      },
+      {
+        "git_blob_sha": "49fd51e35adb82838f09715dc01c4d00531c24cc",
+        "species_id": "oenothera-hispida",
+        "filename": "inat-first-274443155.jpg",
+        "disposition": "CLOSED_EXCLUDED_FROM_PUBLIC_RELEASE",
+        "reason": "Current exact iNaturalist photo attribution/license does not support original CC0 assertion",
+        "original_archived_preserved": true
+      }
+    ]
+  }
 }
