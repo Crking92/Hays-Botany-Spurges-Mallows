@@ -1,90 +1,25 @@
 {
   "repository": "Crking92/Hays-Botany-Spurges-Mallows",
   "batch_key": "MULTIFAMILY_VERIFIED_SYNONYM_RECOVERY_2026-11-03",
-  "checked_at": "2026-11-03T16:48:08.924546+00:00",
+  "checked_at": "2026-11-04T01:33:39.666686+00:00",
   "source_files": 347,
   "selection_window": 25,
-  "candidate_pool_with_usable_source_identifiers": 6,
+  "candidate_pool_with_usable_source_identifiers": 1,
   "remaining_candidates_not_yet_checked": 0,
-  "selected_candidates": 6,
+  "selected_candidates": 1,
   "selected_by_lane": {
-    "inat": 4,
-    "gbif": 2
+    "gbif": 1
   },
   "skipped_or_previously_published": {
-    "not_a_verified_synonym_hold": 335,
+    "not_a_verified_synonym_hold": 340,
     "original_path_shape_unknown": 1,
     "species_not_on_assigned_site": 4,
     "unsupported_image_format": 1
   },
-  "new_installed": 5,
+  "new_installed": 0,
   "held_checked": 1,
   "duplicates_found_during_review": 0,
   "records": [
-    {
-      "species_id": "muenchhusia-coccinea",
-      "family": "Malvaceae",
-      "filename": "inat-285555680.jpg",
-      "original_path": "content/taxa/Malvaceae/Muenchhusia/muenchhusia-coccinea/images/inat-285555680.jpg",
-      "archive_path": "migration/private-original-photo-holds/Malvaceae/Muenchhusia/muenchhusia-coccinea/images/inat-285555680.jpg",
-      "git_blob_sha": "1b5e071f329ab408a94e81db2ec6072e9a99ccdf",
-      "lane": "inat",
-      "status": "SOURCE_VERIFIED_READY",
-      "creator": "follyfarmer",
-      "license": "CC BY-NC 4.0",
-      "source_page": "https://www.inaturalist.org/photos/285555680",
-      "taxon": "Hibiscus coccineus",
-      "src": "media/muenchhusia-coccinea/archived-adb6c8e4d811ce13.jpg",
-      "sha256": "adb6c8e4d811ce1386cc672bcce92fc74a2065711f61b5cc24411c45cf80e3d3"
-    },
-    {
-      "species_id": "muenchhusia-laevis",
-      "family": "Malvaceae",
-      "filename": "inat-308459487.jpg",
-      "original_path": "content/taxa/Malvaceae/Muenchhusia/muenchhusia-laevis/images/inat-308459487.jpg",
-      "archive_path": "migration/private-original-photo-holds/Malvaceae/Muenchhusia/muenchhusia-laevis/images/inat-308459487.jpg",
-      "git_blob_sha": "785067ceb20c4f132e56c6daf8dd4fd8cabd00de",
-      "lane": "inat",
-      "status": "SOURCE_VERIFIED_READY",
-      "creator": "oxley_maggie",
-      "license": "CC BY-NC 4.0",
-      "source_page": "https://www.inaturalist.org/photos/308459487",
-      "taxon": "Hibiscus laevis",
-      "src": "media/muenchhusia-laevis/archived-ec9c6a8a9dcb4c07.jpg",
-      "sha256": "ec9c6a8a9dcb4c07463ad13d2480f113ac733d04a5219ebfb41b79f87388ebbd"
-    },
-    {
-      "species_id": "muenchhusia-moscheutos",
-      "family": "Malvaceae",
-      "filename": "inat-50180034.jpg",
-      "original_path": "content/taxa/Malvaceae/Muenchhusia/muenchhusia-moscheutos/images/inat-50180034.jpg",
-      "archive_path": "migration/private-original-photo-holds/Malvaceae/Muenchhusia/muenchhusia-moscheutos/images/inat-50180034.jpg",
-      "git_blob_sha": "f5d30e36c372d19ad5106f4f43f31bd2060c621d",
-      "lane": "inat",
-      "status": "SOURCE_VERIFIED_READY",
-      "creator": "Joe Rowlett",
-      "license": "CC BY-NC 4.0",
-      "source_page": "https://www.inaturalist.org/photos/50180034",
-      "taxon": "Hibiscus moscheutos",
-      "src": "media/muenchhusia-moscheutos/archived-ad234c0cde9aeb9c.jpg",
-      "sha256": "ad234c0cde9aeb9c65e8d1dbe9581c0988e23f76c2c7a5aae647e4420f25736d"
-    },
-    {
-      "species_id": "muenchhusia-moscheutos-subsp-lasiocarpos",
-      "family": "Malvaceae",
-      "filename": "inat-139070106.jpg",
-      "original_path": "content/taxa/Malvaceae/Muenchhusia/muenchhusia-moscheutos-subsp-lasiocarpos/images/inat-139070106.jpg",
-      "archive_path": "migration/private-original-photo-holds/Malvaceae/Muenchhusia/muenchhusia-moscheutos-subsp-lasiocarpos/images/inat-139070106.jpg",
-      "git_blob_sha": "d8c8d2acf7709e470acd6499d86c2e0c5128ddab",
-      "lane": "inat",
-      "status": "SOURCE_VERIFIED_READY",
-      "creator": "Laura Clark",
-      "license": "CC BY 4.0",
-      "source_page": "https://www.inaturalist.org/photos/139070106",
-      "taxon": "Hibiscus lasiocarpos",
-      "src": "media/muenchhusia-moscheutos-subsp-lasiocarpos/archived-0a36c48a012bef59.jpg",
-      "sha256": "0a36c48a012bef5929ac4179420ae822640e2771fb3066a64edd3e4bddc5450d"
-    },
     {
       "species_id": "argythamnia-aphoroides",
       "family": "Euphorbiaceae",
@@ -94,31 +29,115 @@
       "git_blob_sha": "654dfc8c7718b9482158d668cf5e77477676de5c",
       "lane": "gbif",
       "status": "HELD",
-      "reason": "Source-image URL host is not trusted"
-    },
-    {
-      "species_id": "argythamnia-humilis",
-      "family": "Euphorbiaceae",
-      "filename": "gbif-manual-6184799664-52b04d57b.jpg",
-      "original_path": "content/taxa/Euphorbiaceae/Argythamnia/argythamnia-humilis/images/gbif-manual-6184799664-52b04d57b.jpg",
-      "archive_path": "migration/private-original-photo-holds/Euphorbiaceae/Argythamnia/argythamnia-humilis/images/gbif-manual-6184799664-52b04d57b.jpg",
-      "git_blob_sha": "6905d0e702d61703b157a1f2227808d448f44fa7",
-      "lane": "gbif",
-      "status": "SOURCE_VERIFIED_READY",
-      "creator": "Sam Kieschnick",
-      "license": "CC BY 4.0",
-      "source_page": "https://www.inaturalist.org/photos/629703755",
-      "taxon": "Ditaxis humilis",
-      "src": "media/argythamnia-humilis/archived-b730950abed4ee4a.jpg",
-      "sha256": "b730950abed4ee4a5cbee85f139fa46f5548f2d3398c1a21c851b999c9347c88"
+      "reason": "Source unavailable: <urlopen error timed out>"
     }
   ],
-  "previous_batches": [],
-  "batch_number": 1,
+  "previous_batches": [
+    {
+      "checked_at": "2026-11-03T16:48:08.924546+00:00",
+      "selected_candidates": 6,
+      "new_installed": 5,
+      "held_checked": 1,
+      "records": [
+        {
+          "species_id": "muenchhusia-coccinea",
+          "family": "Malvaceae",
+          "filename": "inat-285555680.jpg",
+          "original_path": "content/taxa/Malvaceae/Muenchhusia/muenchhusia-coccinea/images/inat-285555680.jpg",
+          "archive_path": "migration/private-original-photo-holds/Malvaceae/Muenchhusia/muenchhusia-coccinea/images/inat-285555680.jpg",
+          "git_blob_sha": "1b5e071f329ab408a94e81db2ec6072e9a99ccdf",
+          "lane": "inat",
+          "status": "SOURCE_VERIFIED_READY",
+          "creator": "follyfarmer",
+          "license": "CC BY-NC 4.0",
+          "source_page": "https://www.inaturalist.org/photos/285555680",
+          "taxon": "Hibiscus coccineus",
+          "src": "media/muenchhusia-coccinea/archived-adb6c8e4d811ce13.jpg",
+          "sha256": "adb6c8e4d811ce1386cc672bcce92fc74a2065711f61b5cc24411c45cf80e3d3"
+        },
+        {
+          "species_id": "muenchhusia-laevis",
+          "family": "Malvaceae",
+          "filename": "inat-308459487.jpg",
+          "original_path": "content/taxa/Malvaceae/Muenchhusia/muenchhusia-laevis/images/inat-308459487.jpg",
+          "archive_path": "migration/private-original-photo-holds/Malvaceae/Muenchhusia/muenchhusia-laevis/images/inat-308459487.jpg",
+          "git_blob_sha": "785067ceb20c4f132e56c6daf8dd4fd8cabd00de",
+          "lane": "inat",
+          "status": "SOURCE_VERIFIED_READY",
+          "creator": "oxley_maggie",
+          "license": "CC BY-NC 4.0",
+          "source_page": "https://www.inaturalist.org/photos/308459487",
+          "taxon": "Hibiscus laevis",
+          "src": "media/muenchhusia-laevis/archived-ec9c6a8a9dcb4c07.jpg",
+          "sha256": "ec9c6a8a9dcb4c07463ad13d2480f113ac733d04a5219ebfb41b79f87388ebbd"
+        },
+        {
+          "species_id": "muenchhusia-moscheutos",
+          "family": "Malvaceae",
+          "filename": "inat-50180034.jpg",
+          "original_path": "content/taxa/Malvaceae/Muenchhusia/muenchhusia-moscheutos/images/inat-50180034.jpg",
+          "archive_path": "migration/private-original-photo-holds/Malvaceae/Muenchhusia/muenchhusia-moscheutos/images/inat-50180034.jpg",
+          "git_blob_sha": "f5d30e36c372d19ad5106f4f43f31bd2060c621d",
+          "lane": "inat",
+          "status": "SOURCE_VERIFIED_READY",
+          "creator": "Joe Rowlett",
+          "license": "CC BY-NC 4.0",
+          "source_page": "https://www.inaturalist.org/photos/50180034",
+          "taxon": "Hibiscus moscheutos",
+          "src": "media/muenchhusia-moscheutos/archived-ad234c0cde9aeb9c.jpg",
+          "sha256": "ad234c0cde9aeb9c65e8d1dbe9581c0988e23f76c2c7a5aae647e4420f25736d"
+        },
+        {
+          "species_id": "muenchhusia-moscheutos-subsp-lasiocarpos",
+          "family": "Malvaceae",
+          "filename": "inat-139070106.jpg",
+          "original_path": "content/taxa/Malvaceae/Muenchhusia/muenchhusia-moscheutos-subsp-lasiocarpos/images/inat-139070106.jpg",
+          "archive_path": "migration/private-original-photo-holds/Malvaceae/Muenchhusia/muenchhusia-moscheutos-subsp-lasiocarpos/images/inat-139070106.jpg",
+          "git_blob_sha": "d8c8d2acf7709e470acd6499d86c2e0c5128ddab",
+          "lane": "inat",
+          "status": "SOURCE_VERIFIED_READY",
+          "creator": "Laura Clark",
+          "license": "CC BY 4.0",
+          "source_page": "https://www.inaturalist.org/photos/139070106",
+          "taxon": "Hibiscus lasiocarpos",
+          "src": "media/muenchhusia-moscheutos-subsp-lasiocarpos/archived-0a36c48a012bef59.jpg",
+          "sha256": "0a36c48a012bef5929ac4179420ae822640e2771fb3066a64edd3e4bddc5450d"
+        },
+        {
+          "species_id": "argythamnia-aphoroides",
+          "family": "Euphorbiaceae",
+          "filename": "gbif-manual-6490988647-1d5eb074d.jpg",
+          "original_path": "content/taxa/Euphorbiaceae/Argythamnia/argythamnia-aphoroides/images/gbif-manual-6490988647-1d5eb074d.jpg",
+          "archive_path": "migration/private-original-photo-holds/Euphorbiaceae/Argythamnia/argythamnia-aphoroides/images/gbif-manual-6490988647-1d5eb074d.jpg",
+          "git_blob_sha": "654dfc8c7718b9482158d668cf5e77477676de5c",
+          "lane": "gbif",
+          "status": "HELD",
+          "reason": "Source-image URL host is not trusted"
+        },
+        {
+          "species_id": "argythamnia-humilis",
+          "family": "Euphorbiaceae",
+          "filename": "gbif-manual-6184799664-52b04d57b.jpg",
+          "original_path": "content/taxa/Euphorbiaceae/Argythamnia/argythamnia-humilis/images/gbif-manual-6184799664-52b04d57b.jpg",
+          "archive_path": "migration/private-original-photo-holds/Euphorbiaceae/Argythamnia/argythamnia-humilis/images/gbif-manual-6184799664-52b04d57b.jpg",
+          "git_blob_sha": "6905d0e702d61703b157a1f2227808d448f44fa7",
+          "lane": "gbif",
+          "status": "SOURCE_VERIFIED_READY",
+          "creator": "Sam Kieschnick",
+          "license": "CC BY 4.0",
+          "source_page": "https://www.inaturalist.org/photos/629703755",
+          "taxon": "Ditaxis humilis",
+          "src": "media/argythamnia-humilis/archived-b730950abed4ee4a.jpg",
+          "sha256": "b730950abed4ee4a5cbee85f139fa46f5548f2d3398c1a21c851b999c9347c88"
+        }
+      ]
+    }
+  ],
+  "batch_number": 2,
   "verified_but_not_installed": 0,
   "held_by_reason": {
-    "Source-image URL host is not trusted": 1
+    "Source unavailable: <urlopen error timed out>": 1
   },
   "cumulative_installed": 5,
-  "cumulative_held_reviewed": 1
+  "cumulative_held_reviewed": 2
 }
