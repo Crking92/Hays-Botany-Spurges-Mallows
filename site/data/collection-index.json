@@ -99,8 +99,8 @@
       "genus": "Cnidoscolus",
       "scientific_name": "Cnidoscolus texanus",
       "common_name": "Texas bullnettle",
-      "photo_count": 0,
-      "photo_publication_status": "PHOTOS_HELD_FROM_PUBLIC_GALLERY"
+      "photo_count": 3,
+      "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
       "id": "croton-capitatus",
@@ -468,7 +468,7 @@
       "genus": "Linum",
       "scientific_name": "Linum rupestre",
       "common_name": "Rock flax",
-      "photo_count": 5,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -666,7 +666,7 @@
       "genus": "Melochia",
       "scientific_name": "Melochia pyramidata",
       "common_name": "Pyramid flower",
-      "photo_count": 5,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -747,7 +747,7 @@
       "genus": "Rhynchosida",
       "scientific_name": "Rhynchosida physocalyx",
       "common_name": "Rhynchosida mallow",
-      "photo_count": 5,
+      "photo_count": 7,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
@@ -963,7 +963,7 @@
       "genus": "Oenothera",
       "scientific_name": "Oenothera macrocarpa",
       "common_name": "Missouri evening-primrose",
-      "photo_count": 5,
+      "photo_count": 8,
       "photo_publication_status": "VERIFIED_EXISTING_CC_GALLERY"
     },
     {
