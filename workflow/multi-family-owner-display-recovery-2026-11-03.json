@@ -1,0 +1,87 @@
+{
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "batch_key": "MULTIFAMILY_OWNER_DISPLAY_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-04T02:04:50.563092+00:00",
+  "source_files": 347,
+  "selection_window": 15,
+  "candidate_pool_with_usable_source_identifiers": 5,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 5,
+  "selected_by_lane": {
+    "inat": 5
+  },
+  "skipped_or_previously_published": {
+    "outside_exact_owner_permission_list": 336,
+    "original_path_shape_unknown": 1,
+    "species_not_on_assigned_site": 4,
+    "unsupported_image_format": 1
+  },
+  "new_installed": 0,
+  "held_checked": 5,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "callirhoe-leiocarpa",
+      "family": "Malvaceae",
+      "filename": "glass-root-492009330-first-photo.jpg",
+      "original_path": "content/taxa/Malvaceae/Callirhoe/callirhoe-leiocarpa/images/glass-root-492009330-first-photo.jpg",
+      "archive_path": "migration/private-original-photo-holds/Malvaceae/Callirhoe/callirhoe-leiocarpa/images/glass-root-492009330-first-photo.jpg",
+      "git_blob_sha": "14b0ae32e643656b7741e2eb81bd5598ff6c15ec",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Owner permission attribution not confirmed by exact photo"
+    },
+    {
+      "species_id": "croton-lindheimeri",
+      "family": "Euphorbiaceae",
+      "filename": "glass-root-707831621-first-photo.jpg",
+      "original_path": "content/taxa/Euphorbiaceae/Croton/croton-lindheimeri/images/glass-root-707831621-first-photo.jpg",
+      "archive_path": "migration/private-original-photo-holds/Euphorbiaceae/Croton/croton-lindheimeri/images/glass-root-707831621-first-photo.jpg",
+      "git_blob_sha": "61a9bda053f069204fa18cad9ccc0205dee5b03f",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Owner permission attribution not confirmed by exact photo"
+    },
+    {
+      "species_id": "oenothera-curtiflora",
+      "family": "Onagraceae",
+      "filename": "glass-root-508886200-first-photo.jpg",
+      "original_path": "content/taxa/Onagraceae/Oenothera/oenothera-curtiflora/images/glass-root-508886200-first-photo.jpg",
+      "archive_path": "migration/private-original-photo-holds/Onagraceae/Oenothera/oenothera-curtiflora/images/glass-root-508886200-first-photo.jpg",
+      "git_blob_sha": "49991a852203279be93d8b544fc8d516eaee508a",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Owner permission attribution not confirmed by exact photo"
+    },
+    {
+      "species_id": "oenothera-suffulta",
+      "family": "Onagraceae",
+      "filename": "glass-root-644561237-first-photo.jpg",
+      "original_path": "content/taxa/Onagraceae/Oenothera/oenothera-suffulta/images/glass-root-644561237-first-photo.jpg",
+      "archive_path": "migration/private-original-photo-holds/Onagraceae/Oenothera/oenothera-suffulta/images/glass-root-644561237-first-photo.jpg",
+      "git_blob_sha": "25f0ba67f2a3cd9a12f571d78dbae41b813a4ab7",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Owner permission attribution not confirmed by exact photo"
+    },
+    {
+      "species_id": "passiflora-lanuginosa",
+      "family": "Passifloraceae",
+      "filename": "glass-root-466064726-first-photo.jpg",
+      "original_path": "content/taxa/Passifloraceae/Passiflora/passiflora-lanuginosa/images/glass-root-466064726-first-photo.jpg",
+      "archive_path": "migration/private-original-photo-holds/Passifloraceae/Passiflora/passiflora-lanuginosa/images/glass-root-466064726-first-photo.jpg",
+      "git_blob_sha": "6e9054f9d3dcb14f4a4cb679f730a9f3c880d75b",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "Owner permission attribution not confirmed by exact photo"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "Owner permission attribution not confirmed by exact photo": 5
+  },
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 5
+}
