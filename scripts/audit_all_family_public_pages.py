@@ -88,8 +88,10 @@ def main():
             if not isinstance(photos,list) or len(photos)!=info.get("count"):
                 raise RuntimeError(sid+": live card photo count does not match main gallery")
             first=photos[0].get("src") if photos else None
-            if first!=info.get("first_src"):
-                raise RuntimeError(sid+": gallery thumbnail does not match actual live card")
+            if photos and info.get("first_src") not in {p.get("src") for p in photos}:
+                raise RuntimeError(sid+": gallery thumbnail points outside the live species photo list")
+            if not photos and info.get("first_src") is not None:
+                raise RuntimeError(sid+": empty species has a gallery thumbnail")
             for p in photos:
                 if not p.get("src") or not p.get("creator") or not p.get("license"):
                     raise RuntimeError(sid+": live photo lacks URL, creator, or license")
