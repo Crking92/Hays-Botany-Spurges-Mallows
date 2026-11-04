@@ -4,7 +4,17 @@ on:
     branches: [main]
     paths:
       - 'scripts/publish_approved_family_photos.py'
+      - 'scripts/web_display_policy.py'
+      - 'scripts/test_web_display_policy.py'
       - 'scripts/test_generic_approved_photo_intake.py'
+      - 'scripts/verify_automatic_gallery.py'
+      - '.github/workflows/test-generic-photo-intake.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'scripts/publish_approved_family_photos.py'
+      - 'scripts/web_display_policy.py'
+      - 'scripts/test_web_display_policy.py'
       - 'scripts/verify_automatic_gallery.py'
       - '.github/workflows/test-generic-photo-intake.yml'
   workflow_dispatch:
@@ -16,5 +26,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - run: python3 scripts/test_web_display_policy.py
       - run: python3 scripts/test_generic_approved_photo_intake.py
       - run: python3 scripts/verify_automatic_gallery.py --site-root site
