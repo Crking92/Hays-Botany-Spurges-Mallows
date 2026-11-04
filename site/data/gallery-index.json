@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
-  "photo_species": 129,
-  "photo_count": 677,
+  "photo_species": 130,
+  "photo_count": 824,
   "entries": {
     "impatiens-capensis": {
       "count": 6,
@@ -14,15 +14,15 @@
       "first_src": "media/cochlospermum-wrightii/archived-c4353c9cee480223.jpg"
     },
     "acalypha-persimilis": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/acalypha-persimilis/acalypha-persimilis-provisional-face.jpg"
     },
     "acalypha-phleoides": {
-      "count": 6,
+      "count": 10,
       "first_src": "media/acalypha-phleoides/acalypha-phleoides-provisional-face.jpg"
     },
     "acalypha-radians": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/acalypha-radians/acalypha-radians-provisional-face.jpg"
     },
     "amperea-xiphoclada": {
@@ -30,79 +30,79 @@
       "first_src": "media/amperea-xiphoclada/amperea-xiphoclada-flower-clusters-melburnian.jpg"
     },
     "argythamnia-aphoroides": {
-      "count": 1,
+      "count": 4,
       "first_src": "media/argythamnia-aphoroides/archived-45e437d7b156294a.jpg"
     },
     "argythamnia-humilis": {
-      "count": 1,
+      "count": 6,
       "first_src": "media/argythamnia-humilis/archived-b730950abed4ee4a.jpg"
     },
     "argythamnia-simulans": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/argythamnia-simulans/archived-55e8d43b47702401.jpg"
     },
     "bernardia-myricifolia": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/bernardia-myricifolia/archived-1dd2164f8c1f545a.jpg"
     },
     "cnidoscolus-texanus": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/cnidoscolus-texanus/archived-4c2b42bb0ed50be8.jpg"
     },
     "croton-capitatus": {
-      "count": 2,
+      "count": 5,
       "first_src": "media/croton-capitatus/ncsu-croton-capitatus-cc0-flowers.jpg"
     },
     "croton-fruticulosus": {
-      "count": 4,
+      "count": 9,
       "first_src": "media/croton-fruticulosus/glass-root-garden-573059048-leaf-shoot.jpg"
     },
     "croton-lindheimeri": {
-      "count": 2,
+      "count": 6,
       "first_src": "media/croton-lindheimeri/archived-f37d9e388c43b59f.jpg"
     },
     "croton-lindheimerianus": {
-      "count": 2,
+      "count": 6,
       "first_src": "media/croton-lindheimerianus/archived-af574c82e0c17bc8.jpg"
     },
     "croton-monanthogynus": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/croton-monanthogynus/croton-monanthogynus-provisional-face.jpg"
     },
     "croton-texensis": {
-      "count": 3,
+      "count": 6,
       "first_src": "media/croton-texensis/croton-texensis-provisional-face.jpg"
     },
     "euphorbia-angusta": {
-      "count": 7,
+      "count": 12,
       "first_src": "media/euphorbia-angusta/euphorbia-angusta-provisional-face.jpg"
     },
     "euphorbia-bicolor": {
-      "count": 3,
+      "count": 8,
       "first_src": "media/euphorbia-bicolor/01-habit-white-bracts.jpg"
     },
     "euphorbia-cyathophora": {
-      "count": 4,
+      "count": 9,
       "first_src": "media/euphorbia-cyathophora/euphorbia-cyathophora-provisional-face.jpg"
     },
     "euphorbia-davidii": {
-      "count": 2,
+      "count": 5,
       "first_src": "media/euphorbia-davidii/01-jordan-river-habit.jpg"
     },
     "euphorbia-dentata": {
-      "count": 0,
-      "first_src": null
+      "count": 5,
+      "first_src": "media/euphorbia-dentata/inat-631197398-web.jpg"
     },
     "euphorbia-eriantha": {
-      "count": 5,
+      "count": 10,
       "first_src": "media/euphorbia-eriantha/archived-72af4353a99a4d1f.jpg"
     },
     "euphorbia-fendleri": {
-      "count": 5,
+      "count": 10,
       "first_src": "media/euphorbia-fendleri/euphorbia-fendleri-provisional-face.jpg"
     },
     "euphorbia-golondrina": {
-      "count": 5,
+      "count": 6,
       "first_src": "media/euphorbia-golondrina/archived-023b98878ade40e7.jpg"
     },
     "euphorbia-heterophylla": {
@@ -110,47 +110,47 @@
       "first_src": "media/euphorbia-heterophylla/euphorbia-heterophylla-provisional-face.jpg"
     },
     "euphorbia-hypericifolia": {
-      "count": 5,
+      "count": 10,
       "first_src": "media/euphorbia-hypericifolia/02-m108t-whole-habit.jpg"
     },
     "euphorbia-maculata": {
-      "count": 5,
+      "count": 10,
       "first_src": "media/euphorbia-maculata/02-harry-rose-habit.jpg"
     },
     "euphorbia-marginata": {
-      "count": 4,
+      "count": 9,
       "first_src": "media/euphorbia-marginata/02-inflorescence-closeup.jpg"
     },
     "euphorbia-nutans": {
-      "count": 5,
+      "count": 10,
       "first_src": "media/euphorbia-nutans/euphorbia-nutans-provisional-face.jpg"
     },
     "euphorbia-ophthalmica": {
-      "count": 7,
+      "count": 12,
       "first_src": "media/euphorbia-ophthalmica/02-roget-flowering-plant.jpg"
     },
     "euphorbia-prostrata": {
-      "count": 4,
+      "count": 9,
       "first_src": "media/euphorbia-prostrata/euphorbia-prostrata-provisional-face.jpg"
     },
     "euphorbia-roemeriana": {
-      "count": 7,
+      "count": 12,
       "first_src": "media/euphorbia-roemeriana/archived-0882671d309743dc.jpg"
     },
     "euphorbia-serpens": {
-      "count": 4,
+      "count": 7,
       "first_src": "media/euphorbia-serpens/euphorbia-serpens-provisional-face.jpg"
     },
     "euphorbia-simulans": {
-      "count": 8,
+      "count": 13,
       "first_src": "media/euphorbia-simulans/archived-82e1e7afabeb6f67.jpg"
     },
     "euphorbia-spathulata": {
-      "count": 2,
+      "count": 7,
       "first_src": "media/euphorbia-spathulata/archived-5f49d222208217d8.jpg"
     },
     "euphorbia-villifera": {
-      "count": 7,
+      "count": 11,
       "first_src": "media/euphorbia-villifera/archived-246f6e0b4bc747e3.jpg"
     },
     "jatropha-dioica": {
