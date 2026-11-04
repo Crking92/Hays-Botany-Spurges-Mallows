@@ -1,4 +1,4 @@
-name: Reconcile exact USDA federal public-domain historical photo originals
+name: Correct Modiola original Commons photographer and verify source-specific license
 on:
   push:
     branches: [main]
@@ -28,7 +28,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: f8313346a28c6240613fc8654d7a4139ea1ba622
+          ref: e3a4ed5b408ec9b515beb79be1139d9d71f58357
           path: .shared-photo-audit
           persist-credentials: false
       - name: Install image decoder
