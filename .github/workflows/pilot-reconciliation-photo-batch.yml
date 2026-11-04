@@ -1,4 +1,5 @@
 name: Pilot reconciliation-first historical Commons photo batch
+# Pass 3: two independently reviewed exact Commons images and source SHA checks
 # Pass 2: exact-source archived Commons pixel checks after API rate limits
 on:
   push:
