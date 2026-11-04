@@ -78,7 +78,7 @@ def local_audit():
             require(path.is_file(), sid + ": linked photo bytes missing: " + src)
             require(src not in refs, sid + ": duplicate photo reference: " + src)
             refs.add(src)
-            require(git_blob_sha(path.read_bytes()) == photo.get("source_blob_sha"),
+            require(git_blob_sha(path.read_bytes()) == photo.get("display_blob_sha",photo.get("source_blob_sha")),
                     sid + ": published photo differs from its archived Git blob")
             for key in ("creator", "source_page", "license", "license_url", "role"):
                 require(bool(str(photo.get(key) or "").strip()), sid + ": absent credit field " + key)

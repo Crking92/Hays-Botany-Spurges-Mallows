@@ -30,7 +30,13 @@ def validate(site):
             f=site/src
             assert f.is_file() and not f.is_symlink() and src not in paths,src
             paths.add(src)
-            assert git_sha(f.read_bytes())==p["source_blob_sha"],src
+            binary=f.read_bytes()
+            if p.get("display_sha256"):
+                assert hashlib.sha256(binary).hexdigest()==p["display_sha256"],src
+                assert git_sha(binary)==p["display_blob_sha"],src
+                assert p.get("display_original_archive_commit"),src
+            else:
+                assert git_sha(binary)==p["source_blob_sha"],src
             assert p.get("creator") and p.get("source_page","").startswith("https://")
             assert p.get("license_url","").startswith("https://")
             assert not p.get("private_rights_review_only")

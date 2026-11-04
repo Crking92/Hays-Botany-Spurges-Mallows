@@ -1,0 +1,86 @@
+name: Optimize existing Spurges-Mallows website photos with originals preserved
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/optimize_existing_web_images.py'
+      - '.github/workflows/optimize-spurges-mallows-site-20261104.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+  pages: write
+concurrency:
+  group: spurges-mallows-original-safe-website-optimization
+  cancel-in-progress: false
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Install JPEG image decoder
+        run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Pin pre-optimization originals from fixed family archive
+        shell: bash
+        run: |
+          set -euo pipefail
+          ARCHIVE_BRANCH=archive/spurges-mallows-before-web-opt-20261104
+          git fetch origin main
+          git fetch origin refs/heads/$ARCHIVE_BRANCH:refs/remotes/origin/$ARCHIVE_BRANCH
+          git checkout -B spurges-web-display origin/main
+          if [ -f site/data/web-display-optimization.json ]; then
+            echo "Existing optimization report; no double-compression."
+            echo "SKIP_OPT=1" >> "$GITHUB_ENV"
+            exit 0
+          fi
+          git merge-base --is-ancestor origin/$ARCHIVE_BRANCH HEAD
+          echo "ARCHIVE_SHA=$(git rev-parse origin/$ARCHIVE_BRANCH)" >> "$GITHUB_ENV"
+          echo "ARCHIVE_BRANCH=$ARCHIVE_BRANCH" >> "$GITHUB_ENV"
+      - name: Compress public copies, preserve credits and validate every species
+        if: env.SKIP_OPT != '1'
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/verify_automatic_gallery.py --site-root site
+          python3 scripts/optimize_existing_web_images.py --site site --archive-commit "$ARCHIVE_SHA" --archive-branch "$ARCHIVE_BRANCH"
+          python3 scripts/verify_automatic_gallery.py --site-root site
+          python3 scripts/verify_existing_site.py
+      - name: Commit optimized website without force-pushing source history
+        if: env.SKIP_OPT != '1'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media site/data/species site/data/web-display-optimization.json
+          git diff --cached --check
+          git commit -m "Publish compressed Spurges-Mallows website photos with original archive intact"
+          git fetch origin main
+          git rebase origin/main
+          python3 scripts/verify_automatic_gallery.py --site-root site
+          python3 scripts/verify_existing_site.py
+          git push origin HEAD:main
+      - name: Trigger full live photo verification
+        if: env.SKIP_OPT != '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds" >/dev/null || true
+          gh api --method POST "repos/$GITHUB_REPOSITORY/actions/workflows/verify-existing-site-gallery.yml/dispatches" -f ref=main >/dev/null
+
+# Rerun with exact-source historical author-public-domain and owner-display verification.
+
+# Retry with exact Commons photo source and federal copyright section 105 evidence.
+
+# Exact-source Creative Commons 2.0 France photos are supported in historical gallery audit.
+
+# Keep owner-specific site display permission separate from Creative Commons NC flags.
+
+# Support documented regional Creative Commons licenses with exact CC license URL matches.
+
+# Correct exact country-ported CC license regex and rerun original-safe photo optimization.
