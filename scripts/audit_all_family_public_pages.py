@@ -76,6 +76,10 @@ def main():
             raise RuntimeError("Public gallery index has not reached current main repository state")
         page,_=fetch(base+"index.html")
         if b"app.js" not in page:raise RuntimeError("Live HTML missing gallery app.js")
+        # Lamiales renders its preserved approved-photo manifest rather than
+        # the species-card array; both can contain different leading views.
+        approved_manifest=(get_json(base+"data/reviewed-external-photo-manifest.json")
+                           if args.collection=="Lamiales" else None)
         entries=expected.get("entries")
         if not isinstance(entries,dict) or len(entries)!=expected.get("species"):
             raise RuntimeError("Source gallery index species mismatch")
@@ -84,7 +88,9 @@ def main():
             url=base+"data/species/"+urllib.parse.quote(sid)+".json"
             card=get_json(url)
             if card.get("id")!=sid:raise RuntimeError(sid+": live card ID does not match gallery")
-            photos=card.get("panels",[]) if args.collection=="Poaceae" else card.get("verified_photos",[])
+            photos=(card.get("panels",[]) if args.collection=="Poaceae"
+                    else approved_manifest["species"][sid] if approved_manifest is not None
+                    else card.get("verified_photos",[]))
             if not isinstance(photos,list) or len(photos)!=info.get("count"):
                 raise RuntimeError(sid+": live card photo count does not match main gallery")
             first=photos[0].get("src") if photos else None
@@ -140,10 +146,18 @@ def main():
             url=urllib.parse.urljoin(base,photo["src"])
             payload,head=fetch(url)
             if len(payload)<200:raise RuntimeError("Empty live photo bytes: "+sid)
-            sha=photo.get("source_blob_sha")
-            if sha:
-                got=hashlib.sha1(b"blob "+str(len(payload)).encode()+b"\0"+payload).hexdigest()
-                if got != sha:raise RuntimeError("Live photo bytes differ from credited source Git blob: "+sid)
+            # Legacy adapted photos may retain the original SOURCE blob hash,
+            # not the hash of the displayed resize. Compare live bytes to the
+            # exact currently committed display file, never reinterpret credit.
+            published=urllib.parse.urljoin(source,photo["src"])
+            prefix="https://raw.githubusercontent.com/Crking92/"+short+"/main/"
+            if not published.startswith(prefix):
+                raise RuntimeError("Unsafe GitHub source path: "+sid)
+            original,_=fetch(published)
+            if payload!=original:
+                raise RuntimeError("Live photo bytes differ from repository display media: "+sid)
+            if photo.get("sha256") and hashlib.sha256(payload).hexdigest()!=photo["sha256"]:
+                raise RuntimeError("Live original image SHA-256 mismatch: "+sid)
             return sid
         with cf.ThreadPoolExecutor(max_workers=5) as pool:
             for sid in pool.map(get_sample,samples):
