@@ -15,6 +15,7 @@ on:
       - 'workflow/multi-family-historical-card-commons-2026-11-03.json'
       - 'workflow/multi-family-historical-cc-url-resolved-2026-11-03.json'
       - 'workflow/multi-family-historical-kew-followup-2026-11-03.json'
+      - 'workflow/multi-family-historical-institutional-gbif-2026-11-03.json'
       - 'workflow/multi-family-historical-named-cc0-2026-11-03.json'
       - 'workflow/multi-family-historical-plantnet-licensed-2026-11-03.json'
       - 'workflow/multi-family-species-card-reconciliation-2026-11-03.json'
@@ -32,7 +33,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: d77464267e15ec9d7f309296ea3193cb0a5f1244
+          ref: b739c3b1f916658c24f3ac3b899bd9e1665154d9
           path: .shared-photo-audit
           persist-credentials: false
       - name: Verify each photo and photographer on actual Pages
