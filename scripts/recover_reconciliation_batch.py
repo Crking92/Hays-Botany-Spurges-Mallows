@@ -52,17 +52,29 @@ def verify_commons(row, expected_name, archived):
     if expected_name.lower() not in normalize(title) and normalize(expected_name) not in normalize(title):
         raise ValueError("source file has no matching botanical name")
     api="https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata&titles="+urllib.parse.quote(title)
-    pages=fetch_json(api)["query"]["pages"]
-    pic=next(iter(pages.values()))["imageinfo"][0]
-    meta=pic.get("extmetadata") or {}
-    actual_license=clean((meta.get("LicenseShortName") or {}).get("value"))
-    actual_url=clean((meta.get("LicenseUrl") or {}).get("value")).replace("http://","https://")
-    actual_url=actual_url.rstrip("/")+"/"
-    if actual_url!=ALLOWED[license]: raise ValueError("Commons photo-specific license disagrees: "+actual_url)
-    artist=clean((meta.get("Artist") or {}).get("value"))
-    if normalize(author) not in normalize(artist) and normalize(artist) not in normalize(author):
-        raise ValueError("Commons photographer differs from archive")
-    url=pic.get("url","")
+    try:
+        pages=fetch_json(api)["query"]["pages"]
+        pic=next(iter(pages.values()))["imageinfo"][0]
+        meta=pic.get("extmetadata") or {}
+        actual_url=clean((meta.get("LicenseUrl") or {}).get("value")).replace("http://","https://").rstrip("/")+"/"
+        if actual_url!=ALLOWED[license]: raise ValueError("Commons photo-specific license disagrees: "+actual_url)
+        artist=clean((meta.get("Artist") or {}).get("value"))
+        if normalize(author) not in normalize(artist) and normalize(artist) not in normalize(author):
+            raise ValueError("Commons photographer differs from archive")
+        url=pic.get("url","")
+    except urllib.error.HTTPError as ex:
+        if ex.code!=429: raise
+        # Commons API rate limiting: retain the archived individual-photo CC
+        # license and creator, but independently check exact Commons media
+        # pixels. Never infer a license from the taxon or website alone.
+        url=str(row.get("direct_image_url") or row.get("direct_url") or "")
+        parsed=urllib.parse.urlparse(url)
+        if parsed.netloc!="upload.wikimedia.org" or parsed.scheme!="https":
+            raise ValueError("Commons rate-limited and no exact archived Commons URL")
+        filename=urllib.parse.unquote(parsed.path.rsplit("/",1)[-1]).replace("_"," ")
+        if normalize(filename)!=normalize(title.split(":",1)[1]):
+            raise ValueError("archived Commons direct URL differs from exact file page")
+        print("COMMONS_429_ARCHIVED_PHOTO_LICENSE_AND_PIXELS",page,flush=True)
     if not url.startswith("https://upload.wikimedia.org/"): raise ValueError("unexpected Commons media host")
     req=urllib.request.Request(url,headers={"User-Agent":HEADERS["User-Agent"]})
     with urllib.request.urlopen(req,timeout=30) as r: online=r.read(18*1024*1024+1)
@@ -113,7 +125,15 @@ def main():
             if str(image_record.get("public_reuse") or "").lower().startswith(("no","private")):raise ValueError("source record disallows public reuse")
             csvrows=csv_for(src/sdir/"image-sources.csv")
             row=csvrows.get(rel.name)
-            if not row: raise ValueError("no exact per-image source row")
+            if not row:
+                # Source cards sometimes carry the full individual Commons
+                # evidence without a CSV row; require all exact identifiers.
+                row={k:image_record.get(k) for k in ("creator","license","source_page","direct_image_url","direct_url","role")}
+                if not (str(row.get("source_page") or "").startswith("https://commons.wikimedia.org/wiki/File:")
+                        and row.get("creator") and row.get("license") in ALLOWED):
+                    raise ValueError("no exact per-image source row")
+            if str(image_record.get("license") or "") not in (str(row.get("license") or ""), ""):
+                raise ValueError("source card disagrees with per-photo CC license")
             original=src/r["archive_path"]
             if not original.is_file():raise ValueError("archived original unavailable")
             raw=original.read_bytes()
@@ -150,6 +170,7 @@ def main():
             print("RECOVERED",sp,target,license,flush=True)
         except Exception as e:
             reason=str(e).split(":")[0][:100];skipped[reason]=skipped.get(reason,0)+1
+            print("SKIPPED",r["source_path"],reason,flush=True)
     if count:
         index_path.write_text(json.dumps(index,indent=2,ensure_ascii=False)+"\n")
         gallery_path.write_text(json.dumps(gallery,indent=2,ensure_ascii=False)+"\n")
