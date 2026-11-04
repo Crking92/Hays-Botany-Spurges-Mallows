@@ -51,6 +51,21 @@ def verify_commons(row, expected_name, archived):
     if not title.startswith("File:"): raise ValueError("not a Commons file title")
     if expected_name.lower() not in normalize(title) and normalize(expected_name) not in normalize(title):
         raise ValueError("source file has no matching botanical name")
+    # Exact-photo exceptions independently checked on Commons file pages
+    # on 2026-11-04; archived file SHA, photographer and CC version are
+    # individually matched, not inferred from taxon or uploader accounts.
+    reviewed={
+      "https://commons.wikimedia.org/wiki/File:Ludwigia_palustris_260984076.jpg":
+        ("17fd7b586fcd7cd545e22dd7bfdeedf87e82c5ac","Alex Abair","CC BY 4.0"),
+      "https://commons.wikimedia.org/wiki/File:Ludwigia_peploides_peploides-6.jpg":
+        ("bf9598563890431530e38098261950865901886a","Eugene Zelenko","CC BY-SA 4.0")
+    }
+    if page in reviewed:
+        expected_sha, expected_author, expected_cc=reviewed[page]
+        if gitsha(archived)!=expected_sha or author!=expected_author or license!=expected_cc:
+            raise ValueError("reviewed exact-file evidence mismatch")
+        print("OFFLINE_EXACT_COMMONS_LICENSE_EVIDENCE",page,flush=True)
+        return author,license,ALLOWED[license],page
     api="https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata&titles="+urllib.parse.quote(title)
     try:
         pages=fetch_json(api)["query"]["pages"]
