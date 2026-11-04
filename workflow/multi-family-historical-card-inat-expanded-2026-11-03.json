@@ -1,0 +1,49 @@
+{
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "batch_key": "MULTIFAMILY_HISTORICAL_CARD_INAT_EXPANDED_2026-11-03",
+  "checked_at": "2026-11-04T02:34:37.792592+00:00",
+  "source_files": 347,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "inat": 1
+  },
+  "skipped_or_previously_published": {
+    "prior_historical_review_preserved": 160,
+    "already_public_identical_bytes": 140,
+    "card_lacks_exact_photo_and_observation_ids": 39,
+    "original_path_shape_unknown": 1,
+    "original_card_image_record_missing_or_ambiguous": 1,
+    "species_not_on_assigned_site": 4,
+    "unsupported_image_format": 1
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "stillingia-texana",
+      "family": "Euphorbiaceae",
+      "filename": "public-inat-stillingia-texana-741097460.jpg",
+      "original_path": "content/taxa/Euphorbiaceae/Stillingia/stillingia-texana/images/public-inat-stillingia-texana-741097460.jpg",
+      "archive_path": "migration/private-original-photo-holds/Euphorbiaceae/Stillingia/stillingia-texana/images/public-inat-stillingia-texana-741097460.jpg",
+      "git_blob_sha": "c5b6e93929c67c3bb8e166489b409d8cdaa3f8fe",
+      "lane": "inat",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "saltyhiker",
+      "license": "CC BY 4.0",
+      "source_page": "https://www.inaturalist.org/photos/741097460",
+      "taxon": "Stillingia texana",
+      "src": "media/stillingia-texana/archived-f6897d45600fd97a.jpg",
+      "sha256": "f6897d45600fd97acdf477373e5f3394c1f1882fc9fe983c457832b113667fbb"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}

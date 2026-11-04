@@ -2,8 +2,8 @@
   "schema_version": 1,
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
-  "photo_species": 128,
-  "photo_count": 626,
+  "photo_species": 129,
+  "photo_count": 627,
   "entries": {
     "impatiens-capensis": {
       "count": 1,
@@ -162,8 +162,8 @@
       "first_src": "media/ricinus-communis/archived-34a092e1f21bb21e.jpg"
     },
     "stillingia-texana": {
-      "count": 0,
-      "first_src": null
+      "count": 1,
+      "first_src": "media/stillingia-texana/archived-f6897d45600fd97a.jpg"
     },
     "tragia-betonicifolia": {
       "count": 1,
