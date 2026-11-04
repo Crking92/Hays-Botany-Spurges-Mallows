@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 346211368, photo 631054155, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: fc94713e40a4cf5fda54550aa833d88c2291a52b9cdd45a96bc63a2083229847. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Malvaceae contact sheets inspected for obvious off-target organisms. Live source name Modiola caroliniana maps to indexed species modiola-caroliniana; specialist morphology and BONAP range deferred.",
       "sha256": "fc94713e40a4cf5fda54550aa833d88c2291a52b9cdd45a96bc63a2083229847"
+    },
+    {
+      "src": "media/modiola-caroliniana/archived-1d08e51238f1ba44.jpg",
+      "creator": "Franz Xaver",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Modiola_caroliniana_1.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "55c26649d0c89b43fbec91e0898afdb06d1d73f4",
+      "role": "Provisional plant and mallow flowers; mature segmenting fruits and epicalyx anatomy need closeups.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Exact Commons file page, creator and image-specific CC BY-SA 4.0 independently reviewed 2026-11-03; same original URL https://upload.wikimedia.org/wikipedia/commons/b/b0/Modiola_caroliniana_1.jpg; image fingerprint distance 0; archived source SHA 55c26649d0c89b43fbec91e0898afdb06d1d73f4; exact image source https://commons.wikimedia.org/wiki/File:Modiola_caroliniana_1.jpg",
+      "taxon_review_evidence": "Original species record Modiola caroliniana linked to an original image and matching current commons photo of source taxon Modiola caroliniana. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "1d08e51238f1ba44fe4408d71f81354add415392604a3b8fe66ff92b1ba9b41c"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",

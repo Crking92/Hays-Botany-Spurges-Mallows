@@ -1,58 +1,42 @@
 {
   "repository": "Crking92/Hays-Botany-Spurges-Mallows",
   "batch_key": "MULTIFAMILY_COMMONS_EXACT_PAGE_CC_RECOVERY_2026-11-03",
-  "checked_at": "2026-11-04T01:15:17.925807+00:00",
+  "checked_at": "2026-11-04T01:19:35.471596+00:00",
   "source_files": 347,
-  "historical_cc0_deed_holds": 3,
+  "historical_cc0_deed_holds": 4,
   "selection_window": 15,
-  "candidate_pool_with_usable_source_identifiers": 2,
+  "candidate_pool_with_usable_source_identifiers": 1,
   "remaining_candidates_not_yet_checked": 0,
-  "selected_candidates": 2,
+  "selected_candidates": 1,
   "selected_by_lane": {
-    "commons": 2
+    "commons": 1
   },
   "skipped_or_previously_published": {
-    "not_a_prior_cc0_deed_hold": 338,
+    "previous_cc0_recheck_decision_preserved": 3,
+    "not_a_prior_cc0_deed_hold": 337,
     "original_path_shape_unknown": 1,
-    "previous_cc0_recheck_decision_preserved": 1,
     "species_not_on_assigned_site": 4,
     "unsupported_image_format": 1
   },
-  "new_installed": 2,
+  "new_installed": 1,
   "held_checked": 0,
   "duplicates_found_during_review": 0,
   "records": [
     {
-      "species_id": "impatiens-capensis",
-      "family": "Balsaminaceae",
-      "filename": "commons-impatiens-capensis.jpg",
-      "original_path": "content/taxa/Balsaminaceae/Impatiens/impatiens-capensis/images/commons-impatiens-capensis.jpg",
-      "archive_path": "migration/private-original-photo-holds/Balsaminaceae/Impatiens/impatiens-capensis/images/commons-impatiens-capensis.jpg",
-      "git_blob_sha": "47f91e7579276758d2abb3d3329ff8112052a999",
-      "lane": "commons",
-      "status": "SOURCE_VERIFIED_READY",
-      "creator": "Robert H. Mohlenbrock",
-      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Impatiens_capensis.jpg",
-      "taxon": "Impatiens capensis",
-      "src": "media/impatiens-capensis/archived-ee20c9ad8333d257.jpg",
-      "sha256": "ee20c9ad8333d2573e168fc1acbdc9711413ee02ab224794080bd9818465c8df"
-    },
-    {
-      "species_id": "pavonia-lasiopetala",
+      "species_id": "modiola-caroliniana",
       "family": "Malvaceae",
-      "filename": "commons-pavonia-lasiopetala.jpg",
-      "original_path": "content/taxa/Malvaceae/Pavonia/pavonia-lasiopetala/images/commons-pavonia-lasiopetala.jpg",
-      "archive_path": "migration/private-original-photo-holds/Malvaceae/Pavonia/pavonia-lasiopetala/images/commons-pavonia-lasiopetala.jpg",
-      "git_blob_sha": "2acd0cdf675e7fb2696018185f3acb33e8a6d4fd",
+      "filename": "commons-modiola-caroliniana.jpg",
+      "original_path": "content/taxa/Malvaceae/Modiola/modiola-caroliniana/images/commons-modiola-caroliniana.jpg",
+      "archive_path": "migration/private-original-photo-holds/Malvaceae/Modiola/modiola-caroliniana/images/commons-modiola-caroliniana.jpg",
+      "git_blob_sha": "55c26649d0c89b43fbec91e0898afdb06d1d73f4",
       "lane": "commons",
       "status": "SOURCE_VERIFIED_READY",
-      "creator": "Clarence A. Rechenthin",
-      "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
-      "source_page": "https://commons.wikimedia.org/wiki/File:Pavonia_lasiopetala.jpg",
-      "taxon": "Pavonia lasiopetala",
-      "src": "media/pavonia-lasiopetala/archived-6bdfa7875e0a29a6.jpg",
-      "sha256": "6bdfa7875e0a29a64b8d72af6208774df57f18728eee8c2c1df48c19c412359c"
+      "creator": "Franz Xaver",
+      "license": "CC BY-SA 4.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Modiola_caroliniana_1.jpg",
+      "taxon": "Modiola caroliniana",
+      "src": "media/modiola-caroliniana/archived-1d08e51238f1ba44.jpg",
+      "sha256": "1d08e51238f1ba44fe4408d71f81354add415392604a3b8fe66ff92b1ba9b41c"
     }
   ],
   "previous_batches": [
@@ -79,11 +63,51 @@
           "sha256": "1529f592506570a5ead313bcd95357ed0b79a6b38df8e69e9880e19c3da74aaa"
         }
       ]
+    },
+    {
+      "checked_at": "2026-11-04T01:15:17.925807+00:00",
+      "selected_candidates": 2,
+      "new_installed": 2,
+      "held_checked": 0,
+      "records": [
+        {
+          "species_id": "impatiens-capensis",
+          "family": "Balsaminaceae",
+          "filename": "commons-impatiens-capensis.jpg",
+          "original_path": "content/taxa/Balsaminaceae/Impatiens/impatiens-capensis/images/commons-impatiens-capensis.jpg",
+          "archive_path": "migration/private-original-photo-holds/Balsaminaceae/Impatiens/impatiens-capensis/images/commons-impatiens-capensis.jpg",
+          "git_blob_sha": "47f91e7579276758d2abb3d3329ff8112052a999",
+          "lane": "commons",
+          "status": "SOURCE_VERIFIED_READY",
+          "creator": "Robert H. Mohlenbrock",
+          "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Impatiens_capensis.jpg",
+          "taxon": "Impatiens capensis",
+          "src": "media/impatiens-capensis/archived-ee20c9ad8333d257.jpg",
+          "sha256": "ee20c9ad8333d2573e168fc1acbdc9711413ee02ab224794080bd9818465c8df"
+        },
+        {
+          "species_id": "pavonia-lasiopetala",
+          "family": "Malvaceae",
+          "filename": "commons-pavonia-lasiopetala.jpg",
+          "original_path": "content/taxa/Malvaceae/Pavonia/pavonia-lasiopetala/images/commons-pavonia-lasiopetala.jpg",
+          "archive_path": "migration/private-original-photo-holds/Malvaceae/Pavonia/pavonia-lasiopetala/images/commons-pavonia-lasiopetala.jpg",
+          "git_blob_sha": "2acd0cdf675e7fb2696018185f3acb33e8a6d4fd",
+          "lane": "commons",
+          "status": "SOURCE_VERIFIED_READY",
+          "creator": "Clarence A. Rechenthin",
+          "license": "PUBLIC DOMAIN (U.S. FEDERAL WORK)",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Pavonia_lasiopetala.jpg",
+          "taxon": "Pavonia lasiopetala",
+          "src": "media/pavonia-lasiopetala/archived-6bdfa7875e0a29a6.jpg",
+          "sha256": "6bdfa7875e0a29a64b8d72af6208774df57f18728eee8c2c1df48c19c412359c"
+        }
+      ]
     }
   ],
-  "batch_number": 2,
+  "batch_number": 3,
   "verified_but_not_installed": 0,
   "held_by_reason": {},
-  "cumulative_installed": 3,
+  "cumulative_installed": 4,
   "cumulative_held_reviewed": 0
 }
