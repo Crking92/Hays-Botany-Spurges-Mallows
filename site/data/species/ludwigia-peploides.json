@@ -157,6 +157,23 @@
       "source_review_evidence": "Live iNaturalist observation 363194692, photo 662953177, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 805c8dfbc1e8aa0b31ea0882bf8a40cecd517755bb625e3d59d0bf98c96bece5. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "3 Onagraceae contact sheets inspected for obvious off-target organisms. Live source name Ludwigia peploides maps to indexed species ludwigia-peploides; specialist morphology and BONAP range deferred.",
       "sha256": "805c8dfbc1e8aa0b31ea0882bf8a40cecd517755bb625e3d59d0bf98c96bece5"
+    },
+    {
+      "src": "media/ludwigia-peploides/historical-reconciled-bf95985638904315.jpg",
+      "creator": "Eugene Zelenko",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ludwigia_peploides_peploides-6.jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source_blob_sha": "bf9598563890431530e38098261950865901886a",
+      "role": "Floating stem, alternate shiny leaves and five-petaled yellow flower (subsp. peploides)",
+      "modified": "Archived image preserved without further modification",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Exact Commons author, license and image fingerprint checked by reconciliation pilot",
+      "source_review_evidence": "Historical SHA bf9598563890431530e38098261950865901886a; individual Commons file https://commons.wikimedia.org/wiki/File:Ludwigia_peploides_peploides-6.jpg",
+      "taxon_review_evidence": "Source species card and Commons file identity match; specialist anatomy not certified"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
