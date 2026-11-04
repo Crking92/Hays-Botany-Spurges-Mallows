@@ -3,6 +3,7 @@ on:
   push:
     branches: [main]
     paths:
+      - 'workflow/multi-family-verified-synonym-recovery-2026-11-03.json'
       - '.github/workflows/verify-historical-live-gallery.yml'
       - 'workflow/multi-family-historical-archive-trust-2026-11-03.json'
       - 'workflow/multi-family-historical-ported-cc-2026-11-03.json'
@@ -33,7 +34,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: Crking92/Hays-Botany-Public
-          ref: b739c3b1f916658c24f3ac3b899bd9e1665154d9
+          ref: 02fbf93d6c04383c367a4f0e57bcf54b6044a023
           path: .shared-photo-audit
           persist-credentials: false
       - name: Verify each photo and photographer on actual Pages
