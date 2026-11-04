@@ -3,7 +3,7 @@
   "status": "ONLY_EXISTING_PUBLIC_RIGHTS_CLEARED_SITE_IMAGES",
   "species": 130,
   "photo_species": 125,
-  "photo_count": 600,
+  "photo_count": 601,
   "entries": {
     "impatiens-capensis": {
       "count": 0,
@@ -438,7 +438,7 @@
       "first_src": "media/oenothera-macrocarpa-subsp-macrocarpa/oenothera-macrocarpa-subsp-macrocarpa-provisional-face.jpg"
     },
     "oenothera-patriciae": {
-      "count": 1,
+      "count": 2,
       "first_src": "media/oenothera-patriciae/archived-f780e5ef8cb57867.jpg"
     },
     "oenothera-rosea": {
