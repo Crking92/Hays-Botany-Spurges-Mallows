@@ -25,7 +25,7 @@ def fetch_json(url):
     with urllib.request.urlopen(urllib.request.Request(url, headers=HEADERS), timeout=25) as r:
         return json.load(r)
 def gitsha(b):
-    return hashlib.sha1(b"blob " + str(len(b)).encode() + b"\\0" + b).hexdigest()
+    return hashlib.sha1(b"blob " + str(len(b)).encode() + b"\0" + b).hexdigest()
 def clean(s):
     return html.unescape(re.sub("<[^>]+>", " ", str(s or ""))).strip()
 def normalize(s):
@@ -142,7 +142,7 @@ def main():
                 "photo_approved_by":"Exact Commons author, license and image fingerprint checked by reconciliation pilot",
                 "source_review_evidence":"Historical SHA "+r["source_blob_sha"]+"; individual Commons file "+page,
                 "taxon_review_evidence":"Source species card and Commons file identity match; specialist anatomy not certified"})
-            cardpath.write_text(json.dumps(card,indent=2,ensure_ascii=False)+"\\n")
+            cardpath.write_text(json.dumps(card,indent=2,ensure_ascii=False)+"\n")
             items[sp]["photo_count"]+=1
             gallery["entries"][sp]["count"]+=1
             gallery["photo_count"]+=1
@@ -151,8 +151,8 @@ def main():
         except Exception as e:
             reason=str(e).split(":")[0][:100];skipped[reason]=skipped.get(reason,0)+1
     if count:
-        index_path.write_text(json.dumps(index,indent=2,ensure_ascii=False)+"\\n")
-        gallery_path.write_text(json.dumps(gallery,indent=2,ensure_ascii=False)+"\\n")
+        index_path.write_text(json.dumps(index,indent=2,ensure_ascii=False)+"\n")
+        gallery_path.write_text(json.dumps(gallery,indent=2,ensure_ascii=False)+"\n")
         # Fail if anything mismatched, including all original indexed counts.
         assert sum(x["photo_count"] for x in index["entries"])==gallery["photo_count"]
         assert all(gallery["entries"][k]["count"]==v["photo_count"] for k,v in items.items())
