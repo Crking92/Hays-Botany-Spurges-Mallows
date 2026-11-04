@@ -1,0 +1,81 @@
+name: Publish source-verified Euphorbiaceae 001 ZIP photos
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'photo-intake/remote-photo-manifests/euphorbiaceae-001-2026-11-04.json'
+      - 'scripts/publish_verified_euphorbiaceae_001.py'
+      - '.github/workflows/publish-euphorbiaceae-001-2026-11-04.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: family-photo-first-euphorbiaceae-001
+  cancel-in-progress: false
+jobs:
+  verify-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Prepare image integrity validator
+        run: python3 -m pip install --disable-pip-version-check Pillow==11.3.0
+      - name: Individually verify source photo, creator, license, taxon and original ZIP checksum
+        run: |
+          python3 scripts/publish_verified_euphorbiaceae_001.py \
+            --manifest photo-intake/remote-photo-manifests/euphorbiaceae-001-2026-11-04.json \
+            --source-root "$RUNNER_TEMP/euphorbiaceae-cleared" \
+            --report "$RUNNER_TEMP/euphorbiaceae-001-source-audit.json"
+      - name: Install only cleared photos and their mandatory image credits
+        run: |
+          python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/euphorbiaceae-cleared" --site-root site --check
+          python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/euphorbiaceae-cleared" --site-root site
+          python3 scripts/verify_automatic_gallery.py --site-root site
+          python3 scripts/build_collection_preview.py
+      - name: Commit approved photo gallery to active public family website
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/media site/data/species site/data/collection-index.json site/data/gallery-index.json
+          if git diff --cached --quiet; then
+            echo "No additional cleared photo binaries found."
+            exit 0
+          fi
+          git diff --cached --check
+          git commit -m "Publish verified credited Euphorbiaceae 001 photo batch"
+          for attempt in 1 2 3 4; do
+            if git push origin HEAD:main; then
+              echo "Euphorbiaceae public gallery push complete."
+              break
+            fi
+            if test "$attempt" -eq 4; then
+              echo "Stopped: concurrent gallery branch changed again" >&2
+              exit 1
+            fi
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/euphorbiaceae-cleared" --site-root site --check
+            python3 scripts/publish_approved_family_photos.py --source-root "$RUNNER_TEMP/euphorbiaceae-cleared" --site-root site
+            python3 scripts/verify_automatic_gallery.py --site-root site
+            python3 scripts/build_collection_preview.py
+            git add site/media site/data/species site/data/collection-index.json site/data/gallery-index.json
+            if git diff --cached --quiet; then
+              echo "Concurrent job has already published eligible originals."
+              exit 0
+            fi
+            git diff --cached --check
+            git commit -m "Reapply cleared Euphorbiaceae originals over updated gallery"
+          done
+      - name: Preserve individual verification results, duplicate decisions and holds
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: euphorbiaceae-001-original-photo-audit
+          path: "${{ runner.temp }}/euphorbiaceae-001-source-audit.json"
+          if-no-files-found: warn
+          retention-days: 30
