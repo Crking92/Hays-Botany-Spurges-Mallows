@@ -1,0 +1,47 @@
+{
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "batch_key": "MULTIFAMILY_COMMONS_EXACT_PAGE_CC_RECOVERY_2026-11-03",
+  "checked_at": "2026-11-04T01:10:21.501682+00:00",
+  "source_files": 347,
+  "historical_cc0_deed_holds": 1,
+  "selection_window": 15,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "commons": 1
+  },
+  "skipped_or_previously_published": {
+    "not_a_prior_cc0_deed_hold": 340,
+    "original_path_shape_unknown": 1,
+    "species_not_on_assigned_site": 4,
+    "unsupported_image_format": 1
+  },
+  "new_installed": 1,
+  "held_checked": 0,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "lythrum-alatum",
+      "family": "Lythraceae",
+      "filename": "commons-lythrum-alatum.jpg",
+      "original_path": "content/taxa/Lythraceae/Lythrum/lythrum-alatum/images/commons-lythrum-alatum.jpg",
+      "archive_path": "migration/private-original-photo-holds/Lythraceae/Lythrum/lythrum-alatum/images/commons-lythrum-alatum.jpg",
+      "git_blob_sha": "3fd1c28c02482d2b77094904a81d71ed9ee6dbd3",
+      "lane": "commons",
+      "status": "SOURCE_VERIFIED_READY",
+      "creator": "Joshua Mayey",
+      "license": "CC BY-SA 2.0",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lythrum_alatum_(20363896053).jpg",
+      "taxon": "Lythrum alatum",
+      "src": "media/lythrum-alatum/archived-1529f592506570a5.jpg",
+      "sha256": "1529f592506570a5ead313bcd95357ed0b79a6b38df8e69e9880e19c3da74aaa"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {},
+  "cumulative_installed": 1,
+  "cumulative_held_reviewed": 0
+}

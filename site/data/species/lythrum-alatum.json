@@ -105,6 +105,25 @@
       "source_review_evidence": "Live iNaturalist observation 6092405, photo 7619781, individual license cc-by-nc, exact source photo URL. Source media SHA256 matches supplied original ZIP: 48795e1eae12587908fdc3b6c0318986381b106344a301d979a746fbc005be49. Credit evidence: live iNaturalist API.",
       "taxon_review_evidence": "8 grouped-family contact sheets inspected for obvious off-target organisms. Live source name Lythrum alatum maps to indexed species lythrum-alatum; specialist morphology and BONAP range deferred.",
       "sha256": "48795e1eae12587908fdc3b6c0318986381b106344a301d979a746fbc005be49"
+    },
+    {
+      "src": "media/lythrum-alatum/archived-1529f592506570a5.jpg",
+      "creator": "Joshua Mayey",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lythrum_alatum_(20363896053).jpg",
+      "source_page_is_exact": true,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source_blob_sha": "3fd1c28c02482d2b77094904a81d71ed9ee6dbd3",
+      "role": "Provisional purple flower and foliage detail; square stem ridges need a closer view.",
+      "modified": "Historical archived photograph; no new changes.",
+      "noncommercial_only": false,
+      "private_rights_review_only": false,
+      "photo_approval_note": "Owner standing photo-first policy: release after exact per-photo license, credit, source taxon, archived bytes and visual-image matching checks.",
+      "photo_approval_mode": "OWNER_STANDING_PHOTO_FIRST_POLICY",
+      "photo_approved_by": "Owner standing photo-first policy; photo-specific checks documented by Shared 2026-11-03 Hays Botany archive, source-rights and photo-fingerprint validator",
+      "source_review_evidence": "Exact Commons file page, creator and image-specific CC BY-SA 2.0 independently reviewed 2026-11-03; same original URL https://upload.wikimedia.org/wikipedia/commons/8/82/Lythrum_alatum_%2820363896053%29.jpg; image fingerprint distance 0; archived source SHA 3fd1c28c02482d2b77094904a81d71ed9ee6dbd3; exact image source https://commons.wikimedia.org/wiki/File:Lythrum_alatum_(20363896053).jpg",
+      "taxon_review_evidence": "Original species record Lythrum alatum linked to an original image and matching current commons photo of source taxon Lythrum alatum. Basic source-backed field recognition only; no diagnostic arrow certification.",
+      "sha256": "1529f592506570a5ead313bcd95357ed0b79a6b38df8e69e9880e19c3da74aaa"
     }
   ],
   "photo_status": "VERIFIED_EXISTING_CC_GALLERY",
