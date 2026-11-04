@@ -1,0 +1,43 @@
+{
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "batch_key": "MULTIFAMILY_HISTORICAL_NAMED_CC0_2026-11-03",
+  "checked_at": "2026-11-04T00:06:30.855330+00:00",
+  "source_files": 347,
+  "selection_window": 80,
+  "candidate_pool_with_usable_source_identifiers": 1,
+  "remaining_candidates_not_yet_checked": 0,
+  "selected_candidates": 1,
+  "selected_by_lane": {
+    "inat": 1
+  },
+  "skipped_or_previously_published": {
+    "outside_reviewed_commons_recovery_lane": 340,
+    "original_path_shape_unknown": 1,
+    "species_not_on_assigned_site": 4,
+    "unsupported_image_format": 1
+  },
+  "new_installed": 0,
+  "held_checked": 1,
+  "duplicates_found_during_review": 0,
+  "records": [
+    {
+      "species_id": "oenothera-hispida",
+      "family": "Onagraceae",
+      "filename": "inat-first-274443155.jpg",
+      "original_path": "content/taxa/Onagraceae/Oenothera/oenothera-hispida/images/inat-first-274443155.jpg",
+      "archive_path": "migration/private-original-photo-holds/Onagraceae/Oenothera/oenothera-hispida/images/inat-first-274443155.jpg",
+      "git_blob_sha": "49fd51e35adb82838f09715dc01c4d00531c24cc",
+      "lane": "inat",
+      "status": "HELD",
+      "reason": "No individually named original photo creator; stay held"
+    }
+  ],
+  "previous_batches": [],
+  "batch_number": 1,
+  "verified_but_not_installed": 0,
+  "held_by_reason": {
+    "No individually named original photo creator; stay held": 1
+  },
+  "cumulative_installed": 0,
+  "cumulative_held_reviewed": 1
+}
