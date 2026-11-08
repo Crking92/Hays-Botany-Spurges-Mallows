@@ -5,6 +5,7 @@ on:
     paths:
       - 'scripts/verify_existing_site.py'
       - 'site/data/gallery-index.json'
+      - 'site/data/species/**'
       - '.github/workflows/verify-existing-site-gallery.yml'
   workflow_dispatch:
 permissions: {contents: read}
@@ -18,25 +19,33 @@ jobs:
           persist-credentials: false
       - name: Audit existing public records and photo blob hashes
         run: python3 scripts/verify_existing_site.py
-      - name: Verify deployed gallery reaches current GitHub counts
+      - name: Wait for exact changed species cards and gallery index on Pages
         run: |
           python3 - <<'PY'
-          import json,time,urllib.request
+          import json, subprocess, time, urllib.request
           from pathlib import Path
-          expected=json.loads(Path("site/data/gallery-index.json").read_text())["photo_count"]
-          url="https://crking92.github.io/Hays-Botany-Spurges-Mallows/site/data/gallery-index.json"
+          base="https://crking92.github.io/Hays-Botany-Spurges-Mallows/site/"
+          changed=subprocess.check_output(["git","diff-tree","--no-commit-id","--name-only","-r","HEAD"],text=True).splitlines()
+          targets=[p for p in changed if p.startswith("site/data/species/") and p.endswith(".json")]
+          targets.append("site/data/gallery-index.json")
           for attempt in range(30):
-              try:
-                  req=urllib.request.Request(url,headers={"User-Agent":"HaysBotanyGalleryDeploymentQA/1.0"})
-                  with urllib.request.urlopen(req,timeout=15) as r:
-                      actual=json.load(r).get("photo_count")
-                  if actual==expected:
-                      print("PAGES_GALLERY_COUNT_MATCH",expected,flush=True)
-                      break
-                  print("Pages count pending",actual,"expected",expected,flush=True)
-              except Exception as e: print("Pages pending",str(e)[:160],flush=True)
+              pending=[]
+              for p in targets:
+                  try:
+                      req=urllib.request.Request(base+p.removeprefix("site/")+"?qa_attempt="+str(attempt),headers={"User-Agent":"HaysBotanyGalleryDeploymentQA/1.0","Cache-Control":"no-cache"})
+                      with urllib.request.urlopen(req,timeout=15) as response:
+                          actual=response.read()
+                      expected=Path(p).read_bytes()
+                      if actual!=expected: pending.append(p+" (bytes differ)")
+                  except Exception as e:
+                      pending.append(p+" ("+str(e)[:120]+")")
+              if not pending:
+                  print("PAGES_CHANGED_FILES_BYTE_MATCH",len(targets),flush=True)
+                  break
+              print("Pages pending:",", ".join(pending),flush=True)
               time.sleep(10)
-          else: raise SystemExit("Pages has not deployed current gallery count")
+          else:
+              raise SystemExit("Pages has not deployed exact changed species card/index bytes")
           PY
       - name: Verify published species JSON and every gallery image at live URL
         run: python3 scripts/verify_existing_site.py --live https://crking92.github.io/Hays-Botany-Spurges-Mallows/site/
