@@ -1,0 +1,266 @@
+{
+  "schema": "hays-botany-flora-extraction-v1",
+  "batch_id": "remaining-families-malvaceae-003",
+  "date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "branch": "staging/original-source-transfer",
+  "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "primary_source": "Shinners & Mahler's Illustrated Flora of North Central Texas, Diggs, Lipscomb & O'Kennon (1999)",
+  "record_count": 11,
+  "records": [
+    {
+      "id": "muenchhusia-laevis",
+      "accepted": "Muenchhusia laevis",
+      "historical": "Hibiscus laevis All.",
+      "source": "Diggs, Lipscomb & O'Kennon 1999; Kew Muenchhusia crosswalk",
+      "page": 811,
+      "traits": {
+        "habit": "Erect perennial wetland rose-mallow, genus key to 2.5 m",
+        "leaves": "Middle/upper leaves frequently hastate or arrowhead-based; stems, undersides and calyces glabrous or almost glabrous",
+        "flowers": "Pink or nearly white petals with dark crimson-purple basal blotch; petals 5–8 cm",
+        "fruit": "Calyx closely enclosing glabrous capsule",
+        "habitat": "Wet lowland/shallow water",
+        "flowering": "May–November"
+      },
+      "diagnostic": "Smooth calyx and stem, often arrowhead-shaped foliage separate from stellate-hairy Hibiscus/Muenchhusia moscheutos",
+      "holds": [
+        "Old flora reports hybrids involving lasiocarpos in Dallas area; verify morphology in ambiguous specimens",
+        "No BONAP Hays range claim"
+      ],
+      "bonap_county_verified": false,
+      "record_state": "original_treatment_extracted_secondary_review_pending"
+    },
+    {
+      "id": "muenchhusia-moscheutos-subsp-lasiocarpos",
+      "accepted": "Muenchhusia moscheutos subsp. lasiocarpos",
+      "historical": "Hibiscus moscheutos L. subsp. lasiocarpos (Cav.) Blanch.; H. lasiocarpos Cav.",
+      "source": "Diggs et al. 1999 and Kew POWO",
+      "source_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77372184-1",
+      "page": 811,
+      "traits": {
+        "habit": "Erect tall perennial to 2.5 m (species account)",
+        "leaves": "Lanceolate to ovate, some angled, up to 22 cm; long petioles to 10 cm; blade upper face permanently pubescent",
+        "flowers": "White to rosy petals with dark crimson-purple center; 5–10 cm (species account)",
+        "fruit": "Capsule densely hairy",
+        "habitat": "Wet sites, east and southeast Texas extending westward in historical account",
+        "flowering": "June–October (species account)"
+      },
+      "diagnostic": "Persistent hairs on leaf upper face plus dense capsule pubescence distinguish from subsp. moscheutos; compare nearly smooth and hastate H. laevis",
+      "holds": [
+        "Avoid genus/rank mismatch: Kew recognizes Muenchhusia moscheutos subsp. lasiocarpos",
+        "Old Dallas hybrid notes complicate photo-only diagnoses",
+        "BONAP target counties unchecked"
+      ],
+      "bonap_county_verified": false,
+      "record_state": "original_treatment_extracted_secondary_review_pending"
+    },
+    {
+      "id": "muenchhusia-moscheutos",
+      "accepted": "Muenchhusia moscheutos",
+      "historical": "Hibiscus moscheutos L.; subsp. moscheutos at 1999 flora",
+      "source": "Diggs et al. 1999 and Kew POWO",
+      "source_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77372183-1",
+      "page": 811,
+      "traits": {
+        "habit": "Erect perennial up to 2.5 m",
+        "leaves": "Lanceolate to ovate, some angled or obscurely lobed, to 22 cm; subspecies moscheutos generally petioles to 5 cm and leaf upper surface glabrous or becoming so",
+        "flowers": "Petals 5–10 cm, white/cream-yellow with dark red-purple basal patch",
+        "fruit": "Glabrous capsule in the historical subspecies key",
+        "habitat": "Wetlands, especially eastern and southeastern Texas",
+        "flowering": "June–October"
+      },
+      "diagnostic": "Subspecies-level distinction: smooth capsule and upper-leaf face versus hairy fruit and upper blade in lasiocarpos",
+      "holds": [
+        "Modern inventory species M. moscheutos contains subsp. lasiocarpos as concept, so species record and subspecies record intentionally overlap taxonomically, but they are distinct inventory entries",
+        "Current accepted species name verified by Kew",
+        "BONAP county status not asserted"
+      ],
+      "bonap_county_verified": false,
+      "record_state": "original_treatment_extracted_secondary_review_pending"
+    },
+    {
+      "id": "pavonia-hastata",
+      "accepted": "Pavonia hastata Cav.",
+      "historical": null,
+      "source": "Flora of North America",
+      "source_url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242436196",
+      "page": null,
+      "traits": {
+        "habit": "Perennial herb to subshrub, erect or spreading (FNA)",
+        "leaves": "Narrow lanceolate often hastate leaves with toothed margins; distinguish from broader cordate P. lasiopetala",
+        "flowers": "Axillary, pale pink/rose/lavender petals with darker basal blotch; precise measurements await full source audit",
+        "fruit": "Schizocarp about 6 mm diameter with five spineless reticulate-costate mericarps around 4 mm each",
+        "habitat": "Naturalized ornamental introductions outside South American native range"
+      },
+      "diagnostic": "Narrow spear-shaped sometimes hastate leaves, pale flower with darker center, awnless reticulate five-part fruit",
+      "holds": [
+        "FNA indicates species native in South America, introduced in North America; no native Hays status",
+        "Original 1999 flora no species treatment found",
+        "Full FNA measurements incomplete"
+      ],
+      "bonap_county_verified": false,
+      "record_state": "alternate_FNA_extracted_secondary_review_pending"
+    },
+    {
+      "id": "pavonia-lasiopetala",
+      "accepted": "Pavonia lasiopetala Scheele",
+      "historical": "Pavonia lasiopetala Scheele",
+      "source": "Diggs et al. 1999",
+      "page": 817,
+      "traits": {
+        "habit": "Small shrub around 1(–1.5) m; sparse to dense stellate stems",
+        "leaves": "Alternate, ovate-cordate, 2–5(–7.5) cm long, stellate hairy both sides",
+        "flowers": "Single axillary, 2–5 cm pedicel, involucel 5(–8) linear bracts, prominent green-veined calyx, rose-pink petals 12–25 mm; ten style branches, five carpels",
+        "fruit": "8–9 mm diameter",
+        "habitat": "Rocky woodland Edwards Plateau and south Texas; planted landscapes farther north",
+        "flowering": "Growing season, individual flower typically one day"
+      },
+      "diagnostic": "Broad cordate stellate leaves, deep pink petals and green-veined pointed calyx vs narrow hastate-leaf P. hastata",
+      "holds": [
+        "Cultivated farther north does not establish county native occurrence",
+        "Flower duration observation from source; no invented hours"
+      ],
+      "bonap_county_verified": false,
+      "record_state": "original_treatment_extracted_secondary_review_pending"
+    },
+    {
+      "id": "rhynchosida-physocalyx",
+      "accepted": "Rhynchosida physocalyx (A.Gray) Fryxell",
+      "historical": "Rhynchosida physocalyx (A.Gray) Fryxell; Sida physocalyx A.Gray",
+      "source": "Diggs et al. 1999",
+      "page": 817,
+      "traits": {
+        "habit": "Perennial fleshy-woody rootstock; spreading/decumbent stems to 40 cm",
+        "leaves": "Stellate-hairy, suborbicular to oblong 6 × 5 cm maximum, cordate base, rounded apex",
+        "flowers": "Axillary solitary, calyx lobes cordate, mucronate, ca. 8 mm in flower, enlarging and enclosing fruit, yellow/buff petals roughly calyx length",
+        "fruit": "Disklike darkening schizocarp 10–14 carpels, inflated/enclosed by enlarged calyx",
+        "habitat": "Rocky/sandy prairie and disturbed sites",
+        "flowering": "April–October from continuation of species treatment"
+      },
+      "diagnostic": "Inflated mature calyx and 10–14 mostly beakless carpels contrast with Sida, whose calyx does not fully inflate",
+      "holds": [
+        "Flora historical synonym Sida physocalyx should not be indexed as distinct species",
+        "BONAP target range remains unverified"
+      ],
+      "bonap_county_verified": false,
+      "record_state": "original_treatment_extracted_secondary_review_pending"
+    },
+    {
+      "id": "sida-abutilifolia",
+      "accepted": "Sida abutilifolia Mill.",
+      "historical": "Sida abutifolia Mill. (1999 flora orthographic name; modern inventory spelling abutilifolia needs nomenclatural check)",
+      "source": "Diggs et al. 1999",
+      "page": 818,
+      "traits": {
+        "habit": "Woody-rooted perennial; prostrate stems to 50 cm",
+        "leaves": "Stellate pubescence, linear to ovate/oblong, up to 35 mm, crenate-dentate",
+        "flowers": "Axillary yellow petals much longer than 5 mm calyx; long pedicels relative to petioles",
+        "fruit": "Five dehiscent carpels, apiculate to two-pointed (generic Sida)",
+        "habitat": "Limestone outcrops and rocky prairie and roadsides",
+        "flowering": "April–October"
+      },
+      "diagnostic": "Prostrate, spineless under petiole, elongated pedicels vs erect prickly S. spinosa",
+      "holds": [
+        "CRITICAL: 1999 spelling Sida abutifolia vs repo Sida abutilifolia; verify whether repo misspells accepted name. Do not silently rewrite species or treat as verified synonym",
+        "Original flora synonyms Sida filicaulis Torr. & A.Gray",
+        "BONAP target status unreviewed"
+      ],
+      "bonap_county_verified": false,
+      "record_state": "original_treatment_extracted_secondary_review_pending"
+    },
+    {
+      "id": "sida-spinosa",
+      "accepted": "Sida spinosa L.",
+      "historical": "Sida spinosa L.",
+      "source": "Diggs et al. 1999",
+      "page": 818,
+      "traits": {
+        "habit": "Annual erect branched up to ca. 1 m, minutely stellate-pubescent",
+        "leaves": "Ovate to narrow lanceolate, to 55 × 30 mm, crenate-dentate",
+        "flowers": "Pale yellow axillary petals only slightly longer than calyx; calyx 5–7 mm",
+        "fruit": "Five carpels, each with two beaks",
+        "habitat": "Disturbed/waste sites, southeastern and eastern Texas west to East Cross Timbers",
+        "flowering": "May–November"
+      },
+      "diagnostic": "About 1-mm spine-like tubercle below petiole on mature leaves, pedicels shorter than petioles, erect growth contrasts with prostrate S. abutifolia",
+      "holds": [
+        "Small petiolar spine may be missing in partial photograph; verify several nodes"
+      ],
+      "bonap_county_verified": false,
+      "record_state": "original_treatment_extracted_secondary_review_pending"
+    },
+    {
+      "id": "sphaeralcea-grossulariifolia",
+      "accepted": "Sphaeralcea grossulariifolia (Hook. & Arn.) Rydb.",
+      "historical": null,
+      "source": "Flora of North America",
+      "source_url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101186",
+      "page": null,
+      "traits": {
+        "habit": "Perennial usually erect/ascending western species; FNA genus key stems (2–)4–10 dm",
+        "leaves": "Frequently 3–5-lobed or pedately divided, pale green/gray-green stellate pubescence",
+        "flowers": "Typical globemallow corolla red-orange/pink depending populations; exact species petal measurements not sourced in this pass",
+        "fruit": "Mallow schizocarp divided into indehiscent basal and dehiscent distal portions; species mericarp counts require full treatment",
+        "habitat": "Intermountain West and southwestern states, not presumed native in Hays"
+      },
+      "diagnostic": "Deeply lobed to pedately divided leaves and erect western globemallow habit vs mostly unlobed woolly coastal S. lindheimeri",
+      "holds": [
+        "Not present as a named species in 1999 local flora; FNA genus key and species treatment used",
+        "County and accepted varietal concept pending; morphology partial"
+      ],
+      "bonap_county_verified": false,
+      "record_state": "alternate_FNA_extracted_secondary_review_pending"
+    },
+    {
+      "id": "sphaeralcea-lindheimeri",
+      "accepted": "Sphaeralcea lindheimeri A.Gray",
+      "historical": null,
+      "source": "Flora of North America",
+      "source_url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101191",
+      "page": null,
+      "traits": {
+        "habit": "Perennial with decumbent white-hairy stems 20–70 cm",
+        "leaves": "White-silvery below and green above, deltate-ovate, unlobed or shallowly 3-lobed, to ca. 4 cm, cordate/truncate base, broadly crenate",
+        "flowers": "Dense racemes, usually nonleafy tip, sepals 8–15 mm, red or pink petals 15–25 mm; yellow anthers",
+        "fruit": "Hemispheric schizocarp, about 18 mericarps each 4 mm, distal dehiscent part 60–70% of segment; 2–3 seeds per mericarp",
+        "habitat": "Sandy soils, open thickets and roadsides, especially near Texas Gulf Coast",
+        "flowering": "Fall–spring"
+      },
+      "diagnostic": "Very soft long pubescence, white/silver abaxial surfaces and decumbent growth; not diagnostic by flower color alone",
+      "holds": [
+        "FNA notes species usually near coast, so native Hays status must not be inferred",
+        "Do not assume S. grossulariifolia and S. lindheimeri locally co-occur"
+      ],
+      "bonap_county_verified": false,
+      "record_state": "alternate_FNA_extracted_secondary_review_pending"
+    },
+    {
+      "id": "tilia-americana",
+      "accepted": "Tilia americana L.",
+      "historical": "Tilia americana L. var. caroliniana (Mill.) Castigl.",
+      "source": "Diggs et al. 1999",
+      "page": 1036,
+      "traits": {
+        "habit": "Deciduous large tree up to about 30 m, young twigs tomentose",
+        "leaves": "Alternate ovate toothed to 13 cm, asymmetrical truncate/cordate base, underside sparse to dense stellate hairs, petiole to 35 mm",
+        "flowers": "Fragrant white/yellow, 5-merous, <=10 mm; long peduncle attached near middle of 12 × 3 cm straplike bract",
+        "fruit": "Globose small nut around 6 mm",
+        "habitat": "Low woods, eastern Texas; historical NE Texas records",
+        "flowering": "April–June"
+      },
+      "diagnostic": "Pendant flower/fruit cluster attached to central portion of long leaflike bract; unlike red mulberry asymmetrical leaf base and no lobes",
+      "holds": [
+        "Historical var. caroliniana is NOT automatically equal to all species-wide Tilia americana populations; infraspecific concept review needed",
+        "Old family Tiliaceae now Malvaceae, preserve family routing and original source group",
+        "Do not certify Hays county from broad Edwards Plateau statement"
+      ],
+      "bonap_county_verified": false,
+      "record_state": "original_treatment_extracted_secondary_review_pending"
+    }
+  ],
+  "malvaceae_records_total": 31,
+  "malvaceae_inventory_total": 31,
+  "repository_total_covered": 101,
+  "remaining_repository_inventory": 29,
+  "policy": "Research only. Preserve source pages, historical names, previous inventory, imagery and attribution. Do not turn holds into pass."
+}
