@@ -1,0 +1,258 @@
+{
+  "schema": "hays-botany-flora-extraction-v1",
+  "batch_id": "remaining-families-malvaceae-002",
+  "date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "branch": "staging/original-source-transfer",
+  "records": [
+    {
+      "id": "firmiana-simplex",
+      "accepted": "Firmiana simplex W.Wight",
+      "flora_name": "Firmiana simplex W.Wight",
+      "source": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 1033,
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "synonyms": [
+        "Firmiana platanifolia (L.f.) Schott & Endl."
+      ],
+      "morphology": {
+        "habit": "Deciduous tree nearly 20 m",
+        "leaves": "Alternate, long-petioled, 3–5 palmately lobed, 10–30 cm long, cordate or sagittate base, palmate venation",
+        "flowers": "Panicles; five sepals, petals absent, stamens 25–30",
+        "fruit": "Five stalked follicle-like segments up to 13 cm, seeds attached to margins of opened carpels",
+        "seeds": "Globose, 7–10 mm diameter",
+        "habitat": "Cultivated and spreading by seed; Fort Worth and Gillespie County escape reports",
+        "phenology": "May–July"
+      },
+      "diagnostic": "Large palmately lobed leaves and 5 open seed-bearing carpels separate from local native trees",
+      "holds": [
+        "East Asian introduction; not a target native",
+        "Old flora placed under Sterculiaceae; APG modern Malvaceae ownership preserved"
+      ],
+      "bonap_county_verified_in_batch": false,
+      "research_status": "1999_treatment_extracted_additional_review_open"
+    },
+    {
+      "id": "hibiscus-martianus",
+      "accepted": "Hibiscus martianus Zucc.",
+      "flora_name": null,
+      "source": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101055",
+      "printed_page": null,
+      "synonyms": [
+        "Hibiscus cardiophyllus A.Gray"
+      ],
+      "morphology": {
+        "habit": "Woody-based herb or subshrub; shrubby South Texas plant",
+        "leaves": "Often cordate, velvety below, entire to irregularly toothed and sometimes shallowly lobed",
+        "flowers": "Solitary in upper leaf axils; calyx lobed nearly to base, 1.4–2.4(–2.7) cm; bright red petals 1.5–3 × 0.9–2.1 cm; staminal column red, 0.9–1.4 cm, style branches 2–7 mm",
+        "fruit": "Five-celled Hibiscus capsule; species capsule measurements await direct primary source crosscheck",
+        "habitat": "Dry slopes, canyons, South Texas brushland; FNA range Big Bend to lower Gulf Coast"
+      },
+      "diagnostic": "Bright red comparatively small flowers and strongly cordate leaves, distinct from large marsh Hibiscus species",
+      "holds": [
+        "Not a county-certified Hays native: FNA distribution mainly near Rio Grande",
+        "No confirmed original 1999 source treatment in retrieved file"
+      ],
+      "bonap_county_verified_in_batch": false,
+      "research_status": "alternate_authority_partial_or_verified_hold"
+    },
+    {
+      "id": "malva-parviflora",
+      "accepted": "Malva parviflora L.",
+      "flora_name": "Malva parviflora L.",
+      "source": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "printed_page": 813,
+      "morphology": {
+        "habit": "Annual erect or ascending, glabrous to sparingly hairy",
+        "leaves": "Suborbicular cordate/reniform, sometimes lobed, to 7 cm long × 12 cm wide",
+        "flowers": "Axillary fascicles, petals only 4–5 mm",
+        "fruit": "Schizocarp of about 10 carpels",
+        "habitat": "Waste and weedy ground",
+        "phenology": "March–July"
+      },
+      "diagnostic": "Very small petals and nearly round broad leaves with ten-part cheese-like schizocarp",
+      "holds": [
+        "Non-native from western Eurasia/North Africa into Indian subcontinent; not Hays native"
+      ],
+      "bonap_county_verified_in_batch": false,
+      "research_status": "1999_treatment_extracted_additional_review_open"
+    },
+    {
+      "id": "malvastrum-aurantiacum",
+      "accepted": "Malvastrum aurantiacum (Scheele) Walp.",
+      "flora_name": "Malvastrum aurantiacum (Scheele) Walp.",
+      "source": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "printed_page": 814,
+      "synonyms": [
+        "Malvastrum wrightii A.Gray"
+      ],
+      "morphology": {
+        "habit": "Perennial with rigid woody-based stems, 0.4–1 m",
+        "leaves": "Subcordate to broadly ovate/oblong, (18–)30–40(–55) mm, crenate-dentate, usually unlobed",
+        "hairs": "6–10-rayed often basally joined stellate hairs, resembling scales",
+        "flowers": "Involucel with ovate/subcordate bractlets adnate at base of calyx; golden to pale orange-yellow petals (12–)15–16 mm long",
+        "fruits": "(12–)14(–16) carpels, each mericarp (4–)5(–6) mm, median cusp 1.5–2.3 mm",
+        "habitat": "Stream banks and pastures",
+        "phenology": "April–July, sometimes October"
+      },
+      "diagnostic": "Larger petals, basally joined multiple-rayed hairs and fruit tips with one long central cusp and two flattened adjacent cusps",
+      "holds": [
+        "Older flora endemic Texas label not county-level BONAP confirmation"
+      ],
+      "bonap_county_verified_in_batch": false,
+      "research_status": "1999_treatment_extracted_additional_review_open"
+    },
+    {
+      "id": "malvastrum-coromandelianum",
+      "accepted": "Malvastrum coromandelianum (L.) Garcke",
+      "flora_name": "Malvastrum coromandelianum (L.) Garcke",
+      "source": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "printed_page": 814,
+      "morphology": {
+        "habit": "Annual or perennial herb 0.2–0.6(–1) m",
+        "leaves": "Ovate to lanceolate (17–)30–40(–65) mm, unlobed or rarely 3 lobes, dentate-serrate",
+        "hairs": "Simple or 2–4-rayed stellate hairs, not normally basally united",
+        "flowers": "Linear to narrowly spatulate involucel bractlets, pale golden/orange petals (6–)8–10(–13) mm",
+        "fruit": "(9–)10–14(–15) carpels, segments (3–)3.5–4 mm with median cusp 0.2–1.2 mm and two divergent lateral cusps",
+        "habitat": "Alkaline disturbed ground and weed sites",
+        "phenology": "April–November"
+      },
+      "diagnostic": "Smaller petals and 2–4-rayed hairs, shorter central fruit cusp and divergent lateral cusps versus M. aurantiacum",
+      "holds": [
+        "1999 calls pantropical weed; native-range Hays authorization not inferred"
+      ],
+      "bonap_county_verified_in_batch": false,
+      "research_status": "1999_treatment_extracted_additional_review_open"
+    },
+    {
+      "id": "malvaviscus-arboreus-var-drummondii",
+      "accepted": "Malvaviscus arboreus var. drummondii",
+      "flora_name": "Malvaviscus arboreus var. drummondii (Torr. & A.Gray) Schery",
+      "source": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "printed_page": 815,
+      "synonyms": [
+        "Malvaviscus drummondii Torr. & A.Gray",
+        "Pavonia drummondii (Torr. & A.Gray) Torr. & A.Gray"
+      ],
+      "morphology": {
+        "habit": "Shrub to 3 m",
+        "leaves": "Cordate-orbicular 4–9 cm, about as long as wide, shallowly 3-lobed or angled, finely toothed",
+        "flowers": "Upper axillary, involucel linear-spatulate, 5 red petals 2–3.5 cm rolled/contorted into tube; ten stigma/style branches from five carpels",
+        "fruit": "Five indehiscent red fleshy berry-like carpels",
+        "phenology": "June–July"
+      },
+      "diagnostic": "Tubular-looking tightly rolled petals with projecting ten-branched style/stigma and fleshy red segmented fruit",
+      "holds": [
+        "Flora treats as variety; some modern references split M. drummondii: keep source-specific rank",
+        "Old county citations include cultivated escape; county-native range needs BONAP"
+      ],
+      "bonap_county_verified_in_batch": false,
+      "research_status": "1999_treatment_extracted_additional_review_open"
+    },
+    {
+      "id": "melochia-pyramidata",
+      "accepted": "Melochia pyramidata L.",
+      "flora_name": "Melochia pyramidata L.",
+      "source": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "printed_page": 1033,
+      "morphology": {
+        "habit": "Shrub or partially herbaceous plant around (1.5–)2 m, largely hairless or sparsely hairy",
+        "leaves": "Ovate-lanceolate, five basal veins with apparent pinnate pattern; petioles to 12 mm",
+        "flowers": "No involucel, five pointed calyx lobes, five stamens and thin styles",
+        "fruit": "Five-chambered five-winged, distinctly star-shaped capsule",
+        "habitat": "Sandy or rocky disturbed ground, southern Texas; landscape weed escape farther north",
+        "phenology": "April–November"
+      },
+      "diagnostic": "Winged star-shaped five-celled capsule, unlike Sida schizocarps; family now broad Malvaceae, previously Sterculiaceae",
+      "holds": [
+        "Original flora says native southern half of Texas but northern finds introduced with sod; BONAP target area not established"
+      ],
+      "bonap_county_verified_in_batch": false,
+      "research_status": "1999_treatment_extracted_additional_review_open"
+    },
+    {
+      "id": "meximalva-filipes",
+      "accepted": "Meximalva filipes (A.Gray) Fryxell",
+      "flora_name": null,
+      "source": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101095",
+      "printed_page": null,
+      "synonyms": [
+        "Sida filipes A.Gray"
+      ],
+      "morphology": {
+        "habit": "Woody-based herb/subshrub of central, south and southwestern Texas",
+        "leaves": "Alternate, often small and narrow, details in full FNA account pending",
+        "flowers": "Malvaceous 5-petaled flowers; precise petal dimensions not asserted without account",
+        "fruit": "Schizocarp of mericarps; number and surface details pending full FNA text",
+        "habitat": "Scattered dry sites, Central Texas and southern Texas noted by FNA"
+      },
+      "diagnostic": "Modern Meximalva vs Sida filipes nomenclatural crosswalk verified; no premature photo-level distinguishing traits",
+      "holds": [
+        "Morphology intentionally partial: no reliable detailed FNA measurements retrieved in this pass",
+        "BONAP Hays county eligibility pending"
+      ],
+      "bonap_county_verified_in_batch": false,
+      "research_status": "alternate_authority_partial_or_verified_hold"
+    },
+    {
+      "id": "modiola-caroliniana",
+      "accepted": "Modiola caroliniana (L.) G.Don",
+      "flora_name": "Modiola caroliniana (L.) G.Don",
+      "source": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "printed_page": 816,
+      "morphology": {
+        "habit": "Creeping perennial with sparse stiff/pilose hairs",
+        "leaves": "Orbicular-ovate, palmately 3–5 lobed, toothed, up to 6 × 4 cm",
+        "flowers": "Solitary axillary, petals salmon to purplish-red, 4–6 mm",
+        "fruit": "Schizocarp of 15–30 carpels",
+        "habitat": "Disturbed areas, garden waste grounds",
+        "phenology": "April–June"
+      },
+      "diagnostic": "Low mat of reddish tiny 5-petaled flowers and 15–30 carpel circular fruit; unlike larger winecups",
+      "holds": [
+        "Statewide occurrence not sufficient to establish project native-range eligibility"
+      ],
+      "bonap_county_verified_in_batch": false,
+      "research_status": "1999_treatment_extracted_additional_review_open"
+    },
+    {
+      "id": "muenchhusia-coccinea",
+      "accepted": "Muenchhusia coccinea (Walter) M.M.Hanes & R.L.Barrett",
+      "flora_name": "Hibiscus coccineus Walter (modern Flora of North America treatment)",
+      "source": "Flora of North America / Kew POWO taxonomic crosswalk",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=200013700",
+      "printed_page": null,
+      "synonyms": [
+        "Hibiscus coccineus Walter"
+      ],
+      "morphology": {
+        "habit": "Tall perennial wetland mallow of eastern and southeastern United States; Texas local occurrence must be checked",
+        "leaves": "Deeply palmately 3–5 lobed, 10–19 × 13–25 cm, narrow lanceolate lobes with scattered serrations, glabrous",
+        "flowers": "Bright red separated five petals (6–)7.5–10 × 2.5–5.5 cm, staminal column 6.5–7 cm, exserted",
+        "fruit": "Glabrous ovoid to globose capsule 2.8–3.5 cm",
+        "habitat": "Wet habitats including swamps and freshwater shorelines"
+      },
+      "diagnostic": "Long narrow leaf lobes and very open red star-like corolla with extremely protruding staminal column; not rolled Turk's-cap",
+      "holds": [
+        "New combination Muenchhusia adopted by Kew; record original Hibiscus for source search",
+        "No 1999 local account located; do not pretend original flora page",
+        "Verify BONAP Hays and adjacent west/north before native endorsement"
+      ],
+      "bonap_county_verified_in_batch": false,
+      "research_status": "alternate_authority_partial_or_verified_hold"
+    }
+  ],
+  "record_count": 10,
+  "malvaceae_count": 20,
+  "malvaceae_inventory": 31,
+  "repo_cumulative_records": 90,
+  "annotation_policy": "Preserve all existing taxa/photos/attributions; research only. Distinguish directly verified morphology from tentative, partial traits."
+}
