@@ -1,0 +1,145 @@
+{
+  "schema": "hays-botany-flora-extraction-v1",
+  "batch_id": "remaining-families-passifloraceae-001",
+  "date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "branch": "staging/original-source-transfer",
+  "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "records": [
+    {
+      "id": "passiflora-affinis",
+      "accepted": "Passiflora affinis Engelm.",
+      "historical": "Passiflora affinis Engelm.",
+      "printed_page": 878,
+      "authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "characters": {
+        "habit": "Tendrilled perennial vine, limestone stream bottoms",
+        "leaves": "Blades 2–10 cm long and 3–14 cm wide, 2–3 lobes generally deeper than P. lutea; small yellowish ocelli sometimes present; leaf stalk 1–3.5 cm with NO petiolar glands",
+        "flowers": "Flower stalk 1–3 cm with remote bracts, 1–3 mm long sometimes deciduous; sepals 10–12 mm, linear petals narrower than sepals; corona filaments purple near bases, outer tips knobbed",
+        "fruit": "Subglobose berry 8–10 mm long, black-purple at maturity; seeds about 3 mm",
+        "phenology": "June–August"
+      },
+      "diagnosis": "Small narrow peduncular bracts and knobbed outer corona tips separate glandless-petioled P. affinis from P. lutea",
+      "holds": [
+        "Source distinguishes absent petiole glands; existing project notes abaxial blade nectaries, which are a distinct possible structure and require direct gland-location check",
+        "Potential similarity to P. lutea at leaf level; hold foliage-only photos"
+      ],
+      "bonap_county_verified": false,
+      "research_status": "1999_flora_extracted_further_sources_open"
+    },
+    {
+      "id": "passiflora-foetida",
+      "accepted": "Passiflora foetida L.",
+      "historical": "No species treatment in 1999 flora, whose local key contains only four Passiflora",
+      "printed_page": null,
+      "authority": "Kew POWO and current genus accounts; previous site morphology research",
+      "source_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:321966-2",
+      "characters": {
+        "habit": "Tendrilled, often dense soft-hairy perennial vine, foliage often unpleasant-smelling when rubbed",
+        "leaves": "Mostly three-lobed, variable and pubescent; species complex",
+        "flowers": "Five often whitish petals, multiseriate corona, surrounded by three deeply divided/sticky gland-tipped involucral bracts",
+        "fruit": "Berry generally round/ovoid; typical foetida often yellow-orange ripe, color highly dependent on infraspecific taxonomy",
+        "habitat": "Kew native at Texas state scale, tropical-subtropical American range"
+      },
+      "diagnosis": "Highly divided bract cage around flower/fruit plus sticky glandular hairs; leaf and fruit alone cannot exclude nearby foetida-complex taxa",
+      "holds": [
+        "No original 1999 species description: secondary source only",
+        "Complex with multiple varieties, confirm variety/plant record before claims about fruit color",
+        "Texas native statewide does NOT prove county BONAP inclusion",
+        "User-approved learner inclusion is separate from target-zone nativity"
+      ],
+      "bonap_county_verified": false,
+      "research_status": "Kew_taxonomic_reconciliation_and_partial_morphology"
+    },
+    {
+      "id": "passiflora-incarnata",
+      "accepted": "Passiflora incarnata L.",
+      "historical": "Passiflora incarnata L.",
+      "printed_page": 878,
+      "authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "characters": {
+        "habit": "Vigorous tendrilled vine several metres long, often fencerows/stream bottoms",
+        "leaves": "Leaves 6–15 × 7–15 cm, three deep acute serrate lobes, undersides pubescent; petioles up to 8 cm bearing two glands near blade",
+        "flowers": "Very large showy bluish-lavender petals, 25–35 mm long; rarely white; large flower with layered corona",
+        "fruit": "Ovoid to nearly round, up to 50 mm, yellow-orange when ripe; seeds 4–5 mm",
+        "phenology": "June–August"
+      },
+      "diagnosis": "Two petiolar glands + serrate lobes + showy large purple corona and 5-cm maypop separate from small green-flowered species",
+      "holds": [
+        "Older north-central flora county list primarily east of Hays; local BONAP distribution required",
+        "Do not infer cultivar or ornamental specimen is wild regional genotype"
+      ],
+      "bonap_county_verified": false,
+      "research_status": "1999_flora_extracted_further_sources_open"
+    },
+    {
+      "id": "passiflora-lanuginosa",
+      "accepted": "Passiflora lanuginosa (Killip) H.T.Svoboda",
+      "historical": "Passiflora foetida var. lanuginosa Killip",
+      "printed_page": null,
+      "authority": "Kew Plants of the World Online, accepted species; prior project morphology",
+      "source_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77324795-1",
+      "characters": {
+        "habit": "Tendrilled passionflower associated with foetida complex",
+        "leaves": "Often more pointed/angular lobes than local foetida comparisons but variable",
+        "flowers": "Flowers surrounded by fine dissected bracts; pinkish shades possible but not definitive",
+        "fruit": "Ripe fruit often crimson/red in project comparisons; confirm species and maturity before diagnosis"
+      },
+      "diagnosis": "Kew 2026 accepted separate species and lists historical variety as synonym; require multiple characters including ripe fruit and bract morphology",
+      "holds": [
+        "Taxonomic split 2023 and legacy treatments still use P. foetida var. lanuginosa; keep sources distinct",
+        "Previous project range FAIL_TARGET_ZONE stays unchanged",
+        "Source morphology limited to older project annotations; no precise measured FNA species treatment retrieved"
+      ],
+      "bonap_county_verified": false,
+      "research_status": "Kew_taxonomic_reconciliation_and_partial_morphology"
+    },
+    {
+      "id": "passiflora-lutea",
+      "accepted": "Passiflora lutea L.",
+      "historical": "Passiflora lutea L.",
+      "printed_page": 878,
+      "authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "characters": {
+        "habit": "Tendrilled perennial vine up to around 5 m, stream bottoms and hillside woods",
+        "leaves": "3–7 cm long, 2–10 cm wide, usually broader than long, shallowly to moderately 3-lobed with broad blunt rounded entire lobes; petioles to 5 cm NO glands",
+        "flowers": "Flower stalks 1.5–4 cm, NO bracts; sepals 5–10 mm, petals present and smaller than sepals, outer corona tips not knobbed",
+        "fruit": "Purple-black when mature, globose-ovoid berry 8–15 mm long; seeds 4.5–5 mm",
+        "phenology": "June–July"
+      },
+      "diagnosis": "Glandless petiole, no floral bracts, rounded shallow lobes; unlike P. affinis bracted peduncles and knobbed corona",
+      "holds": [
+        "Compare P. lutea vs P. affinis with preserved flowering stalk, not only small green flower"
+      ],
+      "bonap_county_verified": false,
+      "research_status": "1999_flora_extracted_further_sources_open"
+    },
+    {
+      "id": "passiflora-tenuiloba",
+      "accepted": "Passiflora tenuiloba Engelm.",
+      "historical": "Passiflora tenuiloba Engelm.",
+      "printed_page": 878,
+      "authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "characters": {
+        "habit": "Tendrilled vine usually sprawling over limestone, occasionally climbing low shrubs",
+        "leaves": "Very narrow deeply divided lobes; two long lateral lobes and shorter central, western form further subdivided to apparent 7 lobes; underside glabrous, upper hairy",
+        "petiole": "Pair of sessile saucer-like glands where petiole joins blade 1–1.2 mm diameter",
+        "flowers": "Petals absent; five greenish sepals 6–10 × about 2 mm; short flower stalks 3–8 mm",
+        "fruit": "Black ripe globose berry 8–15 mm diameter; seeds 3–4 mm reticulate",
+        "phenology": "April–October"
+      },
+      "diagnosis": "Deeply cut narrow 'birdwing' leaves, paired saucer petiole glands and tiny petal-less flowers, unlike glandless P. lutea",
+      "holds": [
+        "1999 mentions two leaf morphotypes; do not split based only on lobing",
+        "Small flower sepal length 6–10 mm, NOT count of sepals",
+        "BONAP local county target still needs independent map review"
+      ],
+      "bonap_county_verified": false,
+      "research_status": "1999_flora_extracted_further_sources_open"
+    }
+  ],
+  "record_count": 6,
+  "inventory_family_count": 6,
+  "repo_cumulative_initial_extraction": 117,
+  "holds_policy": "Research only; no site/credits/photos/species.json modified."
+}
