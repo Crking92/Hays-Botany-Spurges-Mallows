@@ -1,0 +1,170 @@
+{
+  "schema": "hays-botany-flora-extraction-v1",
+  "batch_id": "remaining-families-small-002",
+  "date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "branch": "staging/original-source-transfer",
+  "record_count": 6,
+  "records": [
+    {
+      "id": "populus-deltoides",
+      "family": "Salicaceae",
+      "accepted": "Populus deltoides Bartram ex Marshall",
+      "flora_name": "Populus deltoides Bartram ex Marshall",
+      "printed_page": 975,
+      "authority": "Diggs et al. 1999, Flora of North Central Texas-Fab-Zygo.pdf",
+      "morphology": {
+        "habit": "Deciduous riparian tree to 30 m or more, broad open crown",
+        "leaves": "Glabrous triangular (deltoid) to deltoid-ovate blades, serrate/crenate edge; petioles flattened 2.5–9 cm",
+        "flowers": "Dioecious poplar with catkins (genus)",
+        "fruits": "Capsules 3–15 mm, opening to release cottony seeds",
+        "habitat": "Streambanks, draws, ditches, newly bare moist substrate, reservoirs",
+        "phenology": "Mostly mid-March–early April"
+      },
+      "diagnostic": "Broad triangular toothed leaves on flattened petioles, riparian habit and cottony seeds",
+      "holds": [
+        "Flora distinguishes subsp. deltoides (10–20 marginal teeth/side and glabrous bud scales) versus monilifera (5–10 and often hairy bud scales), with documented hybrid swarms",
+        "BONAP precise Hays zone not verified, though current local learner records may already address separately"
+      ],
+      "bonap_county_verified": false,
+      "verification_status": "historical_flora_extracted_taxon_holds_open"
+    },
+    {
+      "id": "populus-tristis",
+      "family": "Salicaceae",
+      "accepted": "Populus tristis Fisch. (Kew POWO treatment)",
+      "flora_name": "No species treatment in Diggs et al. 1999; often Populus trichocarpa Torr. & A.Gray ex Hook. in FNA and USFS",
+      "printed_page": null,
+      "authority": "Kew POWO 2026 taxonomy and USFS black cottonwood silvics",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:776895-1",
+      "synonyms": [
+        "Populus trichocarpa Torr. & A.Gray ex Hook.",
+        "Populus balsamifera subsp. trichocarpa"
+      ],
+      "morphology": {
+        "habit": "Large fast-growing deciduous black cottonwood, western North American native riparian tree",
+        "leaves": "Broad pointed blades; typical black cottonwood has pale undersides, resinous buds and aromatic petioles; full verified quantitative treatment deferred",
+        "flowers": "Dioecious catkins",
+        "fruits": "Poplar capsules releasing cotton-haired seeds; exact size pending FNA source review",
+        "habitat": "Streams and moist bottomlands in Pacific Northwest/western mountain states"
+      },
+      "diagnostic": "Black cottonwood of western North America; NOT a substitute for local eastern cottonwood P. deltoides",
+      "holds": [
+        "Kew recognizes P. tristis and synonymizes P. trichocarpa, FNA and USDA frequently retain P. trichocarpa accepted; taxonomic-authority disagreement needs explicit source",
+        "Native range Western North America, no justified Hays target county pass",
+        "No 1999 regional original page or verified full numerical morphology"
+      ],
+      "bonap_county_verified": false,
+      "verification_status": "alternate_authority_partial"
+    },
+    {
+      "id": "salix-nigra",
+      "family": "Salicaceae",
+      "accepted": "Salix nigra Marshall",
+      "flora_name": "Salix nigra Marshall",
+      "printed_page": 979,
+      "authority": "Diggs et al. 1999, Flora of North Central Texas-Fab-Zygo.pdf",
+      "synonyms": [
+        "Salix nigra var. lindheimeri C.K.Schneid."
+      ],
+      "morphology": {
+        "habit": "Tree 20 m or more on wet stream banks",
+        "twigs": "Reddish- to yellow-brown twigs, sharply pointed winter buds, overlapping bud scales",
+        "leaves": "Narrow lanceolate blade 5–20 mm wide, green rather than markedly glaucous below; regularly fine teeth 0.3–2.1 mm apart at blade middle",
+        "petioles": "2–6 mm (up to 15 mm on new growth), usually bearing glands near blade",
+        "flowers": "Willow catkins, male flowers 3–5 stamens",
+        "habitat": "Streams, ditches, stock tanks, wet low areas",
+        "phenology": "Late March–April"
+      },
+      "diagnostic": "Pointed overlapping bud scales, fine regular teeth and green underside; differentiate rhizomatous S. exigua with wider teeth and rounded buds",
+      "holds": [
+        "S. caroliniana hybridizes with S. nigra where adjacent; leaf underside and stamen counts important",
+        "BONAP county review independent of state range"
+      ],
+      "bonap_county_verified": false,
+      "verification_status": "historical_flora_extracted_taxon_holds_open"
+    },
+    {
+      "id": "pombalia-verticillata",
+      "family": "Violaceae",
+      "accepted": "Pombalia verticillata (Ortega) Paula-Souza",
+      "flora_name": "Hybanthus verticillatus (Ortega) Baill.",
+      "printed_page": 1061,
+      "authority": "Diggs et al. 1999 + Kew POWO + H. Ballard species treatment",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77143583-1",
+      "synonyms": [
+        "Hybanthus verticillatus (Ortega) Baill.",
+        "Hybanthus linearis (Torr.) Shinners"
+      ],
+      "morphology": {
+        "habit": "Perennial with thick branching rootstock; clustered erect stems to 25(–35) cm in 1999 flora",
+        "leaves": "Lower leaves opposite/whorled, upper alternate, narrow entire blades, specialized field study upper leaves to 41 × 2 mm",
+        "flowers": "Axillary nodding on short pedicels, lower petal enlarged yellowish-green sometimes purple blotch, upper petals smaller purple/rose; no conventional violet spur",
+        "fruit": "Modern study broad ovoid/globose capsule 4–6 mm, dark seeds around 2.5–3 mm",
+        "habitat": "Prairie, rocky slopes and disturbed dry ground",
+        "phenology": "April–June, occasionally October"
+      },
+      "diagnostic": "Stemmed upright narrow leaves and tiny nodding mostly greenish two-sided flower unlike basal broad-leaved Viola",
+      "holds": [
+        "Historical Hybanthus name and modern Pombalia explicitly reconciled",
+        "Precise 4–6 mm capsule from modern Ballard not printed 1999"
+      ],
+      "bonap_county_verified": false,
+      "verification_status": "historical_flora_extracted_taxon_holds_open"
+    },
+    {
+      "id": "viola-affinis",
+      "family": "Violaceae",
+      "accepted": "Viola affinis Leconte",
+      "flora_name": "No confirmed original 1999 account; Gulf Coast reports often misidentified as V. missouriensis according to FNA",
+      "printed_page": null,
+      "authority": "Flora of North America, Viola affinis",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250100897",
+      "morphology": {
+        "habit": "Acaulescent perennial violet with basal leaves and blue/violet spurred flowers",
+        "leaves": "Leaf blade essentially hairless, except sometimes hairs on upper faces of basal lobes; broadly heart-shaped base, more regularly fine marginal teeth than V. missouriensis",
+        "flowers": "Violet five-petaled spurred flowers, detailed internal beard characters need treatment check",
+        "fruit": "Three-valved violet capsule, specific dimensions unverified",
+        "habitat": "Usually moist sandy woods/alluvial forest in central-eastern USA"
+      },
+      "diagnostic": "Deeply cordate regular-toothed leaf blades and specific hair placement vs more triangular scarcely toothed V. missouriensis",
+      "holds": [
+        "FNA explicitly warns many Gulf Coastal records under V. affinis are actually V. missouriensis",
+        "Hays-area occurrence unverified; no BONAP approval or forced identification from flower color"
+      ],
+      "bonap_county_verified": false,
+      "verification_status": "alternate_authority_partial"
+    },
+    {
+      "id": "viola-missouriensis",
+      "family": "Violaceae",
+      "accepted": "Viola missouriensis Greene",
+      "flora_name": "Viola missouriensis Greene",
+      "printed_page": 1062,
+      "authority": "Diggs et al. 1999 and Flora of North America",
+      "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242417466",
+      "synonyms": [
+        "Viola sororia var. missouriensis (Greene) L.E.McKinney"
+      ],
+      "morphology": {
+        "habit": "Stemless perennial rosette",
+        "leaves": "Usually fully glabrous triangular blades at flowering, often longer than broad, tapering evenly to acuminate tip; truncate to slightly cordate base",
+        "flowers": "Violet-blue to pale blue with white central patch and dark veins; beard hairs on lower lateral petals but not spurred petal",
+        "fruit": "Yellow-green capsules speckled red-purple; brownish-orange to brown seeds",
+        "habitat": "Moist settings, e and se TX into West Cross Timbers",
+        "phenology": "Mid-March–mid-April"
+      },
+      "diagnostic": "Completely smooth, evenly tapering triangular blade with purple-spotted capsule vs broader hairier V. sororia and deeply heart-based V. affinis",
+      "holds": [
+        "FNA maintains distinction but reports affinities and hybrids with other violets",
+        "Historical treatments disagree species vs variety of V. sororia",
+        "BONAP county eligibility unverified"
+      ],
+      "bonap_county_verified": false,
+      "verification_status": "historical_flora_extracted_taxon_holds_open"
+    }
+  ],
+  "repository_initial_research_records": 130,
+  "inventory_size": 130,
+  "scope": "Research-only: source-specific taxon, traits and holds; no photographs/species.json or site altered."
+}
