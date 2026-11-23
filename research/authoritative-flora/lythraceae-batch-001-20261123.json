@@ -1,0 +1,119 @@
+{
+  "schema": "hays-botany-flora-extraction-v1",
+  "batch_id": "remaining-families-lythraceae-001",
+  "date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "branch": "staging/original-source-transfer",
+  "record_count": 5,
+  "family_inventory_count": 5,
+  "records": [
+    {
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "bonap_target_verified": false,
+      "id": "ammannia-auriculata",
+      "accepted": "Ammannia auriculata Willd.",
+      "flora_name": "Ammannia auriculata Willd.",
+      "page": 800,
+      "morphology": {
+        "habit": "Delicate, glabrous annual up to approximately 0.8 m; narrow opposite leaves with auriculate clasping base",
+        "flowers": "Axillary cymes with (1–)3–12(–15), commonly 7 flowers; slender peduncles 3–9 mm, rose-purple ephemeral petals, deep yellow anthers",
+        "fruit": "Capsule (1–)1.5–3(–3.5) mm diameter",
+        "habitat": "Muddy pond, lake or ditch margins",
+        "phenology": "July–October"
+      },
+      "diagnostics": "Small capsules and long slender stalks bearing numerous flowers distinguish from generally stout, fewer-flowered A. coccinea",
+      "holds": [
+        "Hybrid overlap with A. coccinea; avoid forced identification from one character",
+        "BONAP county nativity outstanding"
+      ]
+    },
+    {
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "bonap_target_verified": false,
+      "id": "ammannia-coccinea",
+      "accepted": "Ammannia coccinea Rottb.",
+      "flora_name": "Ammannia coccinea Rottb.",
+      "page": 800,
+      "morphology": {
+        "habit": "Glabrous, widely branched annual to 1 m; opposite oblong-to-linear lanceolate leaves with wider base",
+        "flowers": "Typically 3–5 flowers in axil, stout peduncles 0–4(–9) mm; rose-purple petals, deep yellow anthers",
+        "fruit": "Capsules 3.5–5 mm diameter (key)",
+        "habitat": "Muddy margins of lakes/ponds/ditches",
+        "phenology": "July–October, sometimes May"
+      },
+      "diagnostics": "More robust plant, short stout stalks, fewer flowers and larger capsules versus A. auriculata",
+      "holds": [
+        "1999 cites A. coccinea as morphologically intermediate polyploid hybrid from A. auriculata and A. robusta; traits overlap in mixed stands",
+        "Range approval needs county BONAP"
+      ]
+    },
+    {
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "bonap_target_verified": false,
+      "id": "lythrum-alatum",
+      "accepted": "Lythrum alatum Pursh",
+      "flora_name": "Lythrum alatum var. lanceolatum (Elliott) Rottb. & A.Gray ex Rothr.",
+      "page": 802,
+      "synonyms": [
+        "Lythrum lanceolatum Elliott"
+      ],
+      "morphology": {
+        "habit": "Rhizomatous perennial herb to 1.2 m, angular stems",
+        "leaves": "Lower opposite to subopposite, upper mostly alternate, mid-stem lanceolate/oblanceolate to narrow elliptic with cuneate base and membranous green blade",
+        "flowers": "Spike-like flowering stem, purple petals 3–6 mm, stamens usually 6(–8)",
+        "habitat": "Moist low ground",
+        "phenology": "Late May–July"
+      },
+      "diagnostics": "Green, wedge-based lanceolate middle leaves instead of narrower glaucous blunt-based leaves of L. californicum",
+      "holds": [
+        "Flora only detailed var. lanceolatum; broad current species may include other varieties",
+        "Flora mentions potential introgression with L. californicum"
+      ]
+    },
+    {
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "bonap_target_verified": false,
+      "id": "lythrum-californicum",
+      "accepted": "Lythrum californicum Torr. & A.Gray",
+      "flora_name": "Lythrum californicum Torr. & A.Gray",
+      "page": 802,
+      "morphology": {
+        "habit": "Perennial with four-angled stems, 0.2–1 m",
+        "leaves": "Lower mostly opposite, upper often alternate; middle blades narrowly linear to lanceolate-oblong with rounded or nearly auriculate base, often gray-green glaucous",
+        "flowers": "Spike-like, six stamens usually, purple petals 4–6 mm",
+        "habitat": "Moist lowland depressions",
+        "phenology": "Late May–July"
+      },
+      "diagnostics": "Narrow often glaucous mid-stem leaves rounded/ear-like at base vs greener wedge-based leaves in L. alatum",
+      "holds": [
+        "1999 specifically warns of tenuous distinctions and potential introgression/hybridization with L. alatum var. lanceolatum",
+        "Hold doubtful specimens until leaf-base and fruit evidence"
+      ]
+    },
+    {
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "bonap_target_verified": false,
+      "id": "rotala-ramosior",
+      "accepted": "Rotala ramosior (L.) Koehne",
+      "flora_name": "Rotala ramosior (L.) Koehne",
+      "page": 803,
+      "morphology": {
+        "habit": "Small glabrous annual to about 40 cm",
+        "leaves": "Opposite, linear to narrowly oblong-lanceolate",
+        "flowers": "Usually 4 pink to purple-red petals",
+        "habitat": "Typically wet muddy settings (genus treatment)",
+        "fruit": "Genus Lythraceae capsule; species-specific size unconfirmed in retrieved text"
+      },
+      "diagnostics": "Low glabrous annual with paired narrow leaves and predominantly four-merous flowers, unlike usually six-petaled Lythrum",
+      "holds": [
+        "Species treatment extends beyond retrieved page excerpt: precise reproductive measures and phenology withheld"
+      ]
+    }
+  ],
+  "notes": "Research only; no gallery/species source files edited; original species names and possible conflicts retained."
+}
