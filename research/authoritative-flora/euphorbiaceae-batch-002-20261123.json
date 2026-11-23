@@ -1,0 +1,245 @@
+{
+  "schema": "hays-botany-flora-extraction-v1",
+  "batch_id": "remaining-families-euphorbiaceae-002",
+  "date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "branch": "staging/original-source-transfer",
+  "source": {
+    "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+    "authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas"
+  },
+  "scope": "Five remaining Croton species plus five Euphorbia; research-only annotations; prior records unchanged.",
+  "record_count": 10,
+  "records": [
+    {
+      "id": "croton-fruticulosus",
+      "name": "Croton fruticulosus",
+      "historical_name": "Croton fruticulosus Torr.",
+      "page": 600,
+      "characters": {
+        "habit": "Monoecious shrub to approximately 1 m",
+        "inflorescence": "Terminal racemes; both male and female flowers on one plant",
+        "habitat": "Limestone upland brush",
+        "phenology": "May through fall",
+        "leaves": "Croton generic description: simple, alternate to subopposite; precise dimensions absent from 1999 species treatment",
+        "fruit": "Croton generic three-celled capsule; species measurements not given"
+      },
+      "diagnostic": "Woody shrub rather than herbaceous annual Croton species",
+      "holds": [
+        "Leaf margin/size and capsule measurements require secondary regional flora/FNA",
+        "1999 cites Bell and Williamson, but BONAP Hays + west/north eligibility not verified"
+      ],
+      "flora_authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "bonap_county_verified": false,
+      "photo_review_status": "not_part_of_this_batch",
+      "status": "historical_flora_record_extracted_with_remaining_holds"
+    },
+    {
+      "id": "croton-lindheimeri",
+      "name": "Croton lindheimeri",
+      "historical_name": "Croton capitatus Michx. var. lindheimeri (Engelm. & A. Gray) Müll.Arg. [tentative crosswalk]",
+      "page": 600,
+      "characters": {
+        "habit": "Historical Croton capitatus var. lindheimeri: monoecious densely stellate annual, species aggregate 0.2–1(–1.5) m",
+        "leaves": "Middle-stem to upper-stem petioles become progressively shorter; blades usually acute and sharply tapered from base",
+        "seed": "Mottled seeds in 1999 infraspecific key",
+        "phenology": "Croton capitatus complex June–October",
+        "habitat": "Sandy to calcareous open places, prairies and roadsides (complex)"
+      },
+      "diagnostic": "Historical Croton capitatus var. capitatus has near-equal middle/upper petioles, less-pointed blades, uniformly colored seeds",
+      "holds": [
+        "CRITICAL: confirm modern Croton lindheimeri correct basionym and precise taxon concept before accepting identification; not same as Croton glandulosus var. lindheimeri, another taxon separately treated on p.600",
+        "Avoid replacing repository's present synonym/taxonomy without nomenclatural audit"
+      ],
+      "flora_authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "bonap_county_verified": false,
+      "photo_review_status": "not_part_of_this_batch",
+      "status": "historical_flora_record_extracted_with_remaining_holds"
+    },
+    {
+      "id": "croton-lindheimerianus",
+      "name": "Croton lindheimerianus",
+      "historical_name": "Croton lindheimerianus Scheele",
+      "page": 600,
+      "characters": {
+        "habit": "Monoecious annual, densely stellate-pubescent",
+        "leaves": "Blades thick, often obtuse to acute; genus key says usually suborbicular to oblong-lanceolate",
+        "flowers": "Three styles bifid to base (six final style branches)",
+        "fruits": "Three-seeded 3-carpellate capsule; subtending pistillate sepals 4–5 mm",
+        "habitat": "Sandy ground",
+        "phenology": "July–October"
+      },
+      "diagnostic": "Six final style branches, three-seeded fruit, generally shorter pistillate sepals than Croton capitatus; two styles/four tips and one seed in Croton monanthogynus",
+      "holds": [
+        "Confirm contemporary status of both spelling and species distinctness against POWO/FNA"
+      ],
+      "flora_authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "bonap_county_verified": false,
+      "photo_review_status": "not_part_of_this_batch",
+      "status": "historical_flora_record_extracted_with_remaining_holds"
+    },
+    {
+      "id": "croton-monanthogynus",
+      "name": "Croton monanthogynus",
+      "historical_name": "Croton monanthogynus Michx.",
+      "page": 601,
+      "characters": {
+        "habit": "Closely stellate-hairy monoecious annual up to 50 cm, widely branched",
+        "leaves": "Rhombic-ovate to elliptic or lanceolate; genus key usually 10–25 mm long",
+        "flowers": "Two styles yielding four ultimate branches (1999 genus key)",
+        "fruits": "Fruit circa 4 mm long; characteristically one-seeded mature capsule",
+        "habitat": "Rocky, eroding or disturbed sites, particularly calcareous soil",
+        "phenology": "June–November"
+      },
+      "diagnostic": "Two divided styles and mature one-seeded fruit vs three styles/six branches and usually three seeds in Croton lindheimerianus",
+      "holds": [
+        "Document seed reduction without confusing this species with genus Crotonopsis reductions"
+      ],
+      "flora_authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "bonap_county_verified": false,
+      "photo_review_status": "not_part_of_this_batch",
+      "status": "historical_flora_record_extracted_with_remaining_holds"
+    },
+    {
+      "id": "croton-texensis",
+      "name": "Croton texensis",
+      "historical_name": "Croton texensis (Klotzsch) Müll.Arg.",
+      "page": 601,
+      "characters": {
+        "habit": "Dioecious annual 20–80 cm",
+        "leaves": "Linear-lanceolate to nearly ovate-oblong, usually 15–35 mm, 3–6 times longer than wide, up to 10–12 mm across; stellate pubescence particularly beneath",
+        "flowers": "Male and female flowers on different plants; flowers without petals according to genus key; calyces 2–4 mm diameter",
+        "fruit": "Globose to ovoid capsule 4–6 mm, often weakly warty, stellate-tomentose",
+        "habitat": "Sandy and sandy-loam soils",
+        "phenology": "June–October"
+      },
+      "diagnostic": "Dioecy and narrow leaves separate from similarly hairy monoecious Croton; look for verrucose capsule",
+      "holds": [
+        "Texas flora range broad; BONAP county check not completed"
+      ],
+      "flora_authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "bonap_county_verified": false,
+      "photo_review_status": "not_part_of_this_batch",
+      "status": "historical_flora_record_extracted_with_remaining_holds"
+    },
+    {
+      "id": "euphorbia-angusta",
+      "name": "Euphorbia angusta",
+      "historical_name": "Chamaesyce angusta (Engelm.) Small",
+      "page": 593,
+      "characters": {
+        "habit": "Perennial from woody crown, 6–50 erect stems, each 10–45 cm tall",
+        "leaves": "Lower elliptical to linear-oblong, 7–25(–38) mm; distal linear leaves more than 9× longer than wide; entire margins",
+        "stipules": "Minute and separate",
+        "cyathia": "Solitary at upper nodes, white gland appendages 2–3× gland width; styles forked only at tip or upper third",
+        "fruit": "Hairy ovary and capsule according to historical Chamaesyce key; species capsule measurement not given",
+        "habitat": "Lampasas Cut Plain and south Edwards Plateau margins, at least Burnet and Travis documented historically",
+        "phenology": "Not visible in retrieved species excerpt"
+      },
+      "diagnostic": "Woody-rooted upright perennial with extremely narrow distal leaves and hairy fruits; unlike most prostrate sandmats",
+      "holds": [
+        "Resolve 1999 flora flowering months on continuation and BONAP county-level target range",
+        "1999 key upper leaves >9× as long as wide vs current FNA-backed learner >6×; provenance-specific difference retained"
+      ],
+      "flora_authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "bonap_county_verified": false,
+      "photo_review_status": "not_part_of_this_batch",
+      "status": "historical_flora_record_extracted_with_remaining_holds"
+    },
+    {
+      "id": "euphorbia-bicolor",
+      "name": "Euphorbia bicolor",
+      "historical_name": "Euphorbia bicolor Engelm. & A.Gray",
+      "page": 607,
+      "characters": {
+        "habit": "Erect softly pilose annual to 130 cm",
+        "leaves": "Middle cauline blades length/width ratio 3–5; upper white-margined bracts typically linear and 5–10× longer than wide",
+        "cyathia": "Usually 5 involucral glands, petal-like white gland appendages 2–3 mm; latex milky, irritating",
+        "fruit": "Hairy three-part ballistic capsule (species/genus account)",
+        "habitat": "Prairies, roadsides and waste ground",
+        "phenology": "July–October"
+      },
+      "diagnostic": "Hairier and narrower-bracted than Euphorbia marginata; historical flora reports intermediate plants near overlap in Johnson County",
+      "holds": [
+        "Preserve user-approved county-range HOLD; 1999 state-region presence not BONAP county confirmation",
+        "Intermediate E. bicolor × marginata morphology flagged: no overconfident photo identification"
+      ],
+      "flora_authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "bonap_county_verified": false,
+      "photo_review_status": "not_part_of_this_batch",
+      "status": "historical_flora_record_extracted_with_remaining_holds"
+    },
+    {
+      "id": "euphorbia-cyathophora",
+      "name": "Euphorbia cyathophora",
+      "historical_name": "Euphorbia cyathophora Murray",
+      "page": 607,
+      "characters": {
+        "habit": "Nearly hairless annual up to 75 cm",
+        "leaves": "Mostly alternate; highly variable from ovate/elliptic to narrow-linear, sometimes pandurate/lobed; edges finely toothed to entire",
+        "bracts": "Upper foliage and flower-associated leaves commonly rosy or rosy-white at the base",
+        "cyathia": "Usually solitary cup-shaped nectar gland, without appendages",
+        "habitat": "Stream banks and other open areas",
+        "phenology": "May–September"
+      },
+      "diagnostic": "Red/pink basal patches and typically alternate stems; gland structure needed to separate uncolored individuals from Euphorbia heterophylla",
+      "holds": [
+        "Poinsettia cyathophora historical segregate not a separate native taxon",
+        "Bract coloration variable; no species-only label from that feature"
+      ],
+      "flora_authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "bonap_county_verified": false,
+      "photo_review_status": "not_part_of_this_batch",
+      "status": "historical_flora_record_extracted_with_remaining_holds"
+    },
+    {
+      "id": "euphorbia-davidii",
+      "name": "Euphorbia davidii",
+      "historical_name": "Euphorbia davidii Subils",
+      "page": 608,
+      "characters": {
+        "habit": "Usually more robust than Euphorbia dentata; annual taproot herb in current FNA-backed learner",
+        "stems": "Young growth with comparatively coarse, stiff, slightly recurved hairs",
+        "leaves": "1999 key: broadly elliptic, often widest near middle, lower-surface hairs stiff, strongly tapered, with swollen basal cell; predominantly opposite",
+        "cyathia": "Usually solitary cupped gland without appendages",
+        "fruit": "Capsule ovoid or broader at base, tapering upward",
+        "seeds": "Angular-ovoid, coarsely uneven sculpturing, sometimes two transverse dorsal ridges, 2.2–2.7 mm long; caruncle 1.0–1.4 mm wide",
+        "habitat": "Disturbed ground; original north-central Texas evidence from Eastland County",
+        "phenology": "No explicit months in 1999 account"
+      },
+      "diagnostic": "Stiff tapered abaxial hairs and angular/coarsely tuberculate seeds vs E. dentata weak filiform hairs and uniformly fine sculpturing",
+      "holds": [
+        "1999 reports n=28, versus E. dentata n=14; cytology not usable as normal crew photo trait",
+        "Existing taxonomic nativity authority conflict remains unresolved; no BONAP county claim"
+      ],
+      "flora_authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "bonap_county_verified": false,
+      "photo_review_status": "not_part_of_this_batch",
+      "status": "historical_flora_record_extracted_with_remaining_holds"
+    },
+    {
+      "id": "euphorbia-dentata",
+      "name": "Euphorbia dentata",
+      "historical_name": "Euphorbia dentata Michx.",
+      "page": 608,
+      "characters": {
+        "habit": "Sparsely hairy annual to 75 cm",
+        "stems": "Young growth long weak hairs",
+        "leaves": "Narrow oblong-lanceolate to rhombic-ovate, coarsely shallowly toothed; underside hairs long and weak, not stiff/pustule-based",
+        "cyathia": "Usually one cup-shaped involucral gland lacking petal appendages",
+        "fruit": "Depressed, smooth-rounded spherical capsule",
+        "seeds": "Rounded to oval, evenly low-tuberculate, 1.7–2.0(–2.2) mm long; caruncle ca. 0.8 mm wide or less",
+        "habitat": "Stream bottoms, fields, roadsides, disturbed areas",
+        "phenology": "May–October, often two generations annually"
+      },
+      "diagnostic": "Leaf underside long flexible hairs + smaller round evenly sculpted seeds separates from E. davidii",
+      "holds": [
+        "Preserve modern FNA numerical ranges separate from historical 1999 Flora measurements; older key narrower than modern account"
+      ],
+      "flora_authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "bonap_county_verified": false,
+      "photo_review_status": "not_part_of_this_batch",
+      "status": "historical_flora_record_extracted_with_remaining_holds"
+    }
+  ]
+}
