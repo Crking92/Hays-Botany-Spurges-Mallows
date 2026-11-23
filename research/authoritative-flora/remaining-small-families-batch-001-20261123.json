@@ -1,0 +1,186 @@
+{
+  "schema": "hays-botany-flora-extraction-v1",
+  "batch_id": "remaining-families-small-001",
+  "date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "branch": "staging/original-source-transfer",
+  "record_count": 7,
+  "records": [
+    {
+      "id": "impatiens-capensis",
+      "family": "Balsaminaceae",
+      "accepted": "Impatiens capensis Meerb.",
+      "historical": "Impatiens capensis Meerb.",
+      "printed_page": 434,
+      "source": "Diggs et al. 1999, Flora of North Central Texas-Acanth-Euph.pdf",
+      "synonyms": [
+        "Impatiens biflora Walter"
+      ],
+      "morphology": {
+        "habit": "Glabrous succulent annual to 1.5 m",
+        "leaves": "Alternate, ovate/elliptic blades to 10(–13) cm long and 8 cm wide, crenate edges, mucronate apex, petioles 0.5–10 cm",
+        "flowers": "2–4 pendulous axillary flowers; 20–30 mm open spotted orange flower, large sepal spur 6–25 mm reflexed backward; cleistogamous flowers may also form",
+        "fruit": "Approximately 2 cm five-valved explosive capsule",
+        "habitat": "Moist stream-bottom woods, eastern Texas",
+        "phenology": "May–July"
+      },
+      "diagnostics": "Orange spotted flower with backward-turned nectar spur, translucent juicy stem and touch-sensitive capsule",
+      "holds": [
+        "1999 flora records Red River/eastern Texas, not direct Hays occurrence",
+        "BONAP county target status unverified"
+      ],
+      "bonap_county_verified": false,
+      "status": "1999_original_extracted_secondary_holds"
+    },
+    {
+      "id": "cochlospermum-wrightii",
+      "family": "Bixaceae",
+      "accepted": "Cochlospermum wrightii (A.Gray) Byng & Christenh.",
+      "historical": "Amoreuxia wrightii A.Gray",
+      "printed_page": null,
+      "source": "Kew POWO accepted taxon and historical FNA Amoreuxia treatment",
+      "source_url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77184208-1",
+      "morphology": {
+        "habit": "Warm-season perennial or subshrub native southwestern Texas into Mexico; underground root details not verified in this pass",
+        "leaves": "Alternate divided leaves, distinctive number and dimensions require direct FNA account review",
+        "flowers": "Yellow five-petaled blossoms characteristic of Amoreuxia, quantitative structures not verified",
+        "fruit": "Capsule; number and morphology require specialist treatment"
+      },
+      "diagnostics": "Modern accepted Cochlospermum corresponds to historically recognized Amoreuxia wrightii, but full anatomy extraction remains pending",
+      "holds": [
+        "This is explicitly a partial name crosswalk, NOT a full diagnostic extraction",
+        "Historical 1999 local flora account not established",
+        "Texas state range not BONAP Hays native approval",
+        "Bixaceae current family may appear as Cochlospermaceae in FNA"
+      ],
+      "bonap_county_verified": false,
+      "status": "accepted_taxon_verified_morphology_partial"
+    },
+    {
+      "id": "hypericum-hypericoides",
+      "family": "Hypericaceae",
+      "accepted": "Hypericum hypericoides (L.) Crantz",
+      "historical": "Hypericum hypericoides (L.) Crantz, often treated in Ascyrum",
+      "printed_page": 547,
+      "source": "Diggs et al. 1999, Flora of North Central Texas-Acanth-Euph.pdf",
+      "synonyms": [
+        "Ascyrum hypericoides L."
+      ],
+      "morphology": {
+        "habit": "Mostly evergreen low shrub, glabrous, erect to decumbent, 30–100+ cm",
+        "leaves": "Opposite, small and punctate with clear gland dots, <=9 mm wide in old species key",
+        "flowers": "Four light-yellow petals 6–10 mm, 2 styles; 2 large sepals ca. 5–12(–15) × 3–10 mm with two tiny or absent inner sepals; solitary or small axillary clusters with two narrow bracteoles",
+        "habitat": "Sandy woods",
+        "phenology": "May–September"
+      },
+      "diagnostics": "Cross-shaped four petals and two relatively enormous leaflike sepals, unlike five-petaled Hypericum spp.",
+      "holds": [
+        "Historical subspp. hypericoides versus multicaule differ mainly in ascending versus decumbent habit and reportedly intergrade",
+        "Old flora Clusiaceae/Guttiferae family; modern Hypericaceae routed here"
+      ],
+      "bonap_county_verified": false,
+      "status": "1999_original_extracted_secondary_holds"
+    },
+    {
+      "id": "hypericum-walteri",
+      "family": "Hypericaceae",
+      "accepted": "Hypericum walteri J.G.Gmel.",
+      "historical": "Triadenum walteri (J.G.Gmel.) Gleason",
+      "printed_page": 548,
+      "source": "Diggs et al. 1999, Flora of North Central Texas-Acanth-Euph.pdf",
+      "synonyms": [
+        "Triadenum walteri (J.G.Gmel.) Gleason"
+      ],
+      "morphology": {
+        "habit": "Rhizomatous perennial erect 40–100 cm",
+        "leaves": "2–15 × 1–5 cm, apex obtuse/rounded, petioles 3–15 mm",
+        "flowers": "Axillary solitary or cymules, five pink/reddish petals 4–7 mm; stamens in 3 bundles of 3 with orange glands between, filaments fused 1/2–2/3",
+        "fruit": "Three-carpelled capsule 7–11 mm",
+        "habitat": "In/around water or moist woods, eastern/southeastern Texas",
+        "phenology": "August–October"
+      },
+      "diagnostics": "Pink axillary flowers with grouped stamens and 3 orange glands rather than yellow Hypericum flower",
+      "holds": [
+        "Accepted genus varies among taxonomic authorities; historical Triadenum preserved, do not silently erase",
+        "1999 flora southeastern Texas eastern edge, not BONAP Hays approval"
+      ],
+      "bonap_county_verified": false,
+      "status": "1999_original_extracted_secondary_holds"
+    },
+    {
+      "id": "feijoa-sellowiana",
+      "family": "Myrtaceae",
+      "accepted": "Feijoa sellowiana (O.Berg) O.Berg",
+      "historical": "Acca sellowiana (O.Berg) Burret, accepted by some alternative taxonomies",
+      "printed_page": null,
+      "source": "Kew Plants of the World Online 2026",
+      "source_url": "https://powo.science.kew.org/taxon/596467-1",
+      "synonyms": [
+        "Acca sellowiana (O.Berg) Burret"
+      ],
+      "morphology": {
+        "habit": "Evergreen fruiting shrub/tree, native South America, cultivated as ornamental/fruit plant",
+        "leaves": "Opposite, elliptic, thick and often white-felted underside (commonly described for cultivated feijoa)",
+        "flowers": "Four reflexed white/pink petals with conspicuous red stamens; full measured primary flora treatment not extracted",
+        "fruit": "Fleshy ovoid green edible berry, dimensions depend on cultivar and unverified"
+      },
+      "diagnostics": "Opposite leathery leaves pale-felted below, distinctive showy red stamens and edible green fruit",
+      "holds": [
+        "Kew currently accepts Feijoa sellowiana, while some authorities accept Acca sellowiana; keep alternate-authority note",
+        "Not native to Hays or Texas; imported/cultivated, no county BONAP approval",
+        "No 1999 local flora species treatment found; quantitative morphology partial"
+      ],
+      "bonap_county_verified": false,
+      "status": "accepted_taxon_verified_morphology_partial"
+    },
+    {
+      "id": "phyllanthus-polygonoides",
+      "family": "Phyllanthaceae",
+      "accepted": "Phyllanthus polygonoides Nutt. ex Spreng.",
+      "historical": "Phyllanthus polygonoides Nutt. ex Spreng.",
+      "printed_page": 611,
+      "source": "Diggs et al. 1999, Flora of North Central Texas-Acanth-Euph.pdf",
+      "morphology": {
+        "habit": "Herb about 10–50 cm",
+        "leaves": "Blades on main stem and branches usually 5–10 × 1.5–5 mm",
+        "flowers": "Mostly monoecious, sometimes dioecious; three stamens united approximately half length, pistillate flower stalk 2.5–7 mm",
+        "fruit": "Capsules 2.7–3.2 mm across",
+        "habitat": "Limestone outcrops, occasionally sandy clay; widespread Texas",
+        "phenology": "April–July and September–October"
+      },
+      "diagnostics": "Leaves borne on both main and lateral stems, ~3 mm fruit, relatively long female flower stalk vs introduced P. urinaria",
+      "holds": [
+        "Old flora places Phyllanthus under Euphorbiaceae; modern Phyllanthaceae routing kept",
+        "BONAP county target map unverified"
+      ],
+      "bonap_county_verified": false,
+      "status": "1999_original_extracted_secondary_holds"
+    },
+    {
+      "id": "phyllanthus-urinaria",
+      "family": "Phyllanthaceae",
+      "accepted": "Phyllanthus urinaria L.",
+      "historical": "Phyllanthus urinaria L.",
+      "printed_page": 611,
+      "source": "Diggs et al. 1999, Flora of North Central Texas-Acanth-Euph.pdf",
+      "morphology": {
+        "habit": "Weedy annual 15–50 cm",
+        "leaves": "Leaves 6–25 × 2–9 mm, leaves appear two-ranked along lateral branchlets",
+        "flowers": "Monoecious, inconspicuous axillary flowers",
+        "fruit": "Small capsules 2–2.2 mm diameter in historical flora, usually attached close to leaf-bearing branchlets",
+        "habitat": "Yards and disturbed ground; introduced eastern Asian species",
+        "phenology": "Throughout growing season"
+      },
+      "diagnostics": "Larger 6–25 mm branchlet leaves and smaller 2–2.2 mm capsules vs P. polygonoides at 2.7–3.2 mm",
+      "holds": [
+        "Asian introduction, not county native",
+        "Microscopic seeds and fruit surface should be added only from measured FNA-backed source, not guessed",
+        "Phyllanthaceae formerly included in Euphorbiaceae"
+      ],
+      "bonap_county_verified": false,
+      "status": "1999_original_extracted_secondary_holds"
+    }
+  ],
+  "repo_cumulative_records": 124,
+  "source_policy": "Only source-documented characters; explicit holds when original 1999 treatment or quantitative morphological verification unavailable; research-only no live edits."
+}
