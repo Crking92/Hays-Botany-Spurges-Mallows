@@ -1,0 +1,119 @@
+{
+  "schema": "hays-botany-flora-extraction-v1",
+  "batch_id": "remaining-families-linaceae-001",
+  "date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "branch": "staging/original-source-transfer",
+  "record_count": 5,
+  "family_inventory_count": 5,
+  "records": [
+    {
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "bonap_county_verified": false,
+      "id": "linum-berlandieri",
+      "accepted": "Linum berlandieri Hook.",
+      "flora_name": "Linum rigidum Pursh var. berlandieri (Hook.) Torr. & A.Gray",
+      "page": 792,
+      "characters": {
+        "habit": "1999 parent L. rigidum: glabrous erect/ascending annual to 40 cm, branched above",
+        "leaves": "Linear-lanceolate or lanceolate, acute, 1–4.1 mm wide, usually bearing stipular glands",
+        "flowers": "Deep yellow petals with large red-brown basal area, usually 13–16 mm; sepals 7–9 mm",
+        "fruit": "Thick-walled, opaque, broadly ovoid, sharply tapering to flattened base",
+        "habitat": "Wide Texas distribution; often Blackland Prairie and westward",
+        "phenology": "Parent species mid-April to early June"
+      },
+      "diagnostics": "Opaque thick-walled fruits and stipular glands vs translucent thin-walled fruits without glands in var. rigidum",
+      "holds": [
+        "TAXONOMIC HOLD: inventory treats species L. berlandieri, flora treats variety of L. rigidum; retain both concepts, do not merge or double-count distribution",
+        "1999 explicitly discusses hybridization/introgression underlying varietal treatment"
+      ]
+    },
+    {
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "bonap_county_verified": false,
+      "id": "linum-hudsonioides",
+      "accepted": "Linum hudsonioides Planch.",
+      "flora_name": "Linum hudsonioides Planch.",
+      "page": 790,
+      "characters": {
+        "habit": "Annual 5–30 cm, glabrous except hairy angular upper stems",
+        "leaves": "Linear/linear-lanceolate, 10 mm or shorter; upper leaf edges not ciliate",
+        "flowers": "Yellow sometimes red basal zone; petals 8–12 mm per key",
+        "fruit": "Species-specific mature fruit dimensions not stated in account",
+        "habitat": "Sandy/gravelly sites, West Texas to Post Oak Savannah",
+        "phenology": "March–September"
+      },
+      "diagnostics": "Upper stem hairs only on angles and upper blades without marginal hairs; vs L. imbricatum with ciliate upper bracts and overlapped leaves",
+      "holds": [
+        "Detailed fruit/seed measurements require external FNA source verification"
+      ]
+    },
+    {
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "bonap_county_verified": false,
+      "id": "linum-imbricatum",
+      "accepted": "Linum imbricatum (Raf.) Shinners",
+      "flora_name": "Linum imbricatum (Raf.) Shinners",
+      "page": 790,
+      "characters": {
+        "habit": "Glabrous appearing low annual 3–30 cm, often several stems, sparingly branched near top",
+        "leaves": "Short overlapping leaves, 5–10 mm long per key; upper foliage and bracts show sparse conspicuous ciliate margins",
+        "stems": "Upper stems and pedicels minutely short-hirsute",
+        "flowers": "Yellow sometimes red-brown basal area, petals 6.5–8 mm",
+        "habitat": "Sandy/rocky open ground",
+        "phenology": "April–early May"
+      },
+      "diagnostics": "Tightly imbricated small leaves and hairs along upper leaf/bract margins, unlike mostly hairless-edged L. hudsonioides",
+      "holds": [
+        "Flora species summary calls glabrous despite key mentioning localized upper stem and bract hairs; record scope of hairs rather than treat as contradiction"
+      ]
+    },
+    {
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "bonap_county_verified": false,
+      "id": "linum-rigidum",
+      "accepted": "Linum rigidum Pursh",
+      "flora_name": "Linum rigidum Pursh (var. rigidum and var. berlandieri separated in 1999 flora)",
+      "page": 791,
+      "characters": {
+        "habit": "Glabrous stiff erect/ascending annual to 40 cm, widely branched above",
+        "leaves": "Var. rigidum: linear acute/acuminate, 1–2 mm wide, no stipular glands",
+        "flowers": "Showy petals (9–)12–16(–19) mm species-wide; var. rigidum typically 12–14 mm coppery-yellow/orange with basal red lines or short reddish basal area",
+        "fruit": "Species-wide 3.5–4.7 mm; var. rigidum thin-walled translucent elliptic with rounded base and visible dark seeds; var. berlandieri thick-walled opaque ovoid",
+        "habitat": "Rocky or sandy open prairies/disturbed lands",
+        "phenology": "Mid-April–early June"
+      },
+      "diagnostics": "Compare var. rigidum vs L. berlandieri using fruits' translucency and stipular glands rather than yellow petal color",
+      "holds": [
+        "Species inventory includes separate L. berlandieri; high risk of double-counting specimens with 1999 broader L. rigidum concept",
+        "Toxicity reported as livestock poison; no direct plant-handling recommendation"
+      ]
+    },
+    {
+      "source": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "bonap_county_verified": false,
+      "id": "linum-rupestre",
+      "accepted": "Linum rupestre (A.Gray) Engelm. ex A.Gray",
+      "flora_name": "Linum rupestre (A.Gray) Engelm. ex A.Gray",
+      "page": 792,
+      "characters": {
+        "habit": "Glabrous perennial 20–70 cm, several stems from hardened perennial base (1999 key)",
+        "leaves": "Linear, lower leaves alternate or opposite; leaf bases generally with stipular glands, sepals glandular-toothed",
+        "flowers": "Clear yellow petals; 6–10 mm per key, separate styles",
+        "fruit": "Fruit opening into ten one-seeded segments (1999 key)",
+        "habitat": "Limestone outcrops, mainly Trans-Pecos to Edwards Plateau and north-central Texas",
+        "phenology": "May–June"
+      },
+      "diagnostics": "Perennial with woody thickened stem base and clear yellow 6–10-mm petals; compares to annual stiff flax",
+      "holds": [
+        "Specific fruit/seed size and reliable photographs still needed; do not extrapolate from related species"
+      ]
+    }
+  ],
+  "notes": "One species and its historical varietal treatment deliberately overlap for reconciliation; not county approved; photos, attributions and live site unchanged."
+}
