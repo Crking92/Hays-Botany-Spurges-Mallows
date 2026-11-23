@@ -1,0 +1,271 @@
+{
+  "schema": "hays-botany-botanical-reconciliation-v1",
+  "date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "branch": "staging/original-source-transfer",
+  "scope": "Targeted post-extraction: documented scientific-name, diagnostic, measurement, and interpretation conflicts only; no full re-extraction",
+  "method": "Inspected all 16 research batch records, their holds and source-status fields; original species inventory retained; verified identified conflicts against FNA, Kew, ITIS and original 1999 flora. No BONAP or distribution audits.",
+  "counts": {
+    "inventory_species": 130,
+    "existing_extraction_records": 130,
+    "species_newly_finalized_on_targeted_issue": 14,
+    "botanical_cases_remaining": 8,
+    "open_source_gaps_in_targeted_holds": 5,
+    "untouched_original_species_records": 130
+  },
+  "finalization_definition": "Finalized only the documented ISSUE for these species, not claimed entire species morphology or publication fully audited",
+  "resolved": [
+    {
+      "id": "sida-abutilifolia",
+      "kind": "accepted_name_historical_orthography",
+      "resolution": "Retain Sida abutilifolia Mill. as accepted; 1999 Sida abutifolia Mill. is synonym/orthographic alternate, not a distinct species.",
+      "evidence": [
+        "Diggs et al. 1999 p.818",
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:563387-1",
+        "https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=505208"
+      ],
+      "issue_status": "resolved",
+      "specimen_identification_certified": false,
+      "source_citations_present": true
+    },
+    {
+      "id": "linum-berlandieri",
+      "kind": "historic_rank_disagreement",
+      "resolution": "Retain Linum berlandieri species from FNA; 1999 L. rigidum var. berlandieri denotes historical alternative rank, not an additional inventory taxon; retain 1999 opaque thick-wall capsule diagnosis as varietal context.",
+      "evidence": [
+        "Diggs et al. 1999 pp.791-792",
+        "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101728"
+      ],
+      "issue_status": "resolved",
+      "specimen_identification_certified": false,
+      "source_citations_present": true
+    },
+    {
+      "id": "linum-rigidum",
+      "kind": "overlapping_species_circumscription",
+      "resolution": "FNA treats Linum rigidum and L. berlandieri separately. For L. rigidum, 1999 var. rigidum's thin translucent capsule is variety-context only; avoid transferring L. berlandieri diagnostics into the species record.",
+      "evidence": [
+        "Diggs et al. 1999 pp.791-792",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416771"
+      ],
+      "issue_status": "resolved",
+      "specimen_identification_certified": false,
+      "source_citations_present": true
+    },
+    {
+      "id": "euphorbia-angusta",
+      "kind": "measurement_threshold",
+      "resolution": "1999 key >9:1 distal-leaf proportion vs FNA >6:1 are source-specific ranges/key thresholds. Store both with provenance; when field filtering, use broader FNA species descriptive limit, not mutually contradictory asserted measurements.",
+      "evidence": [
+        "Diggs et al. 1999 Euphorbiaceae p.592 key; verify exact page against original record before literal publication",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101551"
+      ],
+      "issue_status": "resolved",
+      "specimen_identification_certified": false,
+      "source_citations_present": true
+    },
+    {
+      "id": "euphorbia-villifera",
+      "kind": "pubescence_exception",
+      "resolution": "1999 typical conspicuous longer hairs vs FNA 'usually villous, sometimes glabrous'. Glabrous variants explicitly valid; hair presence cannot be hard exclusion.",
+      "evidence": [
+        "Diggs et al. 1999 pp.596-597",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242321553"
+      ],
+      "issue_status": "resolved",
+      "specimen_identification_certified": false,
+      "source_citations_present": true
+    },
+    {
+      "id": "oenothera-hispida",
+      "kind": "flower_colour_phenology",
+      "resolution": "FNA white petals fade red, reconciling older flora pink/red notes as flower-age/color-stage observations; distinguish fresh anthesis from senescent corolla.",
+      "evidence": [
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250130317",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4489081/",
+        "Historical Gaura treatment in Diggs et al. 1999; no unsupported printed-page interpolation"
+      ],
+      "issue_status": "resolved",
+      "specimen_identification_certified": false,
+      "source_citations_present": true
+    },
+    {
+      "id": "oenothera-glaucifolia",
+      "kind": "historic_name_spelling",
+      "resolution": "Keep accepted Oenothera glaucifolia and historical printed Stenosiphon linifolius; POWO uses Stenosiphon linifolium. Both old epithet spellings connect to current O. glaucifolia, but preserve exact publication spelling per source.",
+      "evidence": [
+        "https://powo.science.kew.org/taxon/77092908-1",
+        "https://apg.pir.sa.gov.au/gringlobal/taxon/taxonomydetail?id=316922"
+      ],
+      "issue_status": "resolved",
+      "specimen_identification_certified": false,
+      "source_citations_present": true
+    },
+    {
+      "id": "tragia-brevispica",
+      "kind": "genus_species_fruit_exception",
+      "resolution": "FNA confirms mature fruit frequently with only 1 carpel, a documented species-level exception to common 3-carpellate genus character. Capsule 6.5–7 mm wide in FNA. Do not force generic statement on species.",
+      "evidence": [
+        "Diggs et al. 1999 p.616 generic Tragia account",
+        "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101934"
+      ],
+      "issue_status": "resolved",
+      "specimen_identification_certified": false,
+      "source_citations_present": true
+    },
+    {
+      "id": "tragia-nigricans",
+      "kind": "missing_diagnostic_morphology",
+      "resolution": "FNA supplies staminate pedicel 1.3–1.6 mm (persistent base 0.2–0.4 mm), pistillate pedicel 2–3 mm in fruit and diagnostic dark stems, coarse leaves, staminal filaments connate about half their length; 1999 flora absence does not invalidate modern species.",
+      "evidence": [
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250102000"
+      ],
+      "issue_status": "resolved",
+      "specimen_identification_certified": false,
+      "source_citations_present": true
+    },
+    {
+      "id": "passiflora-affinis",
+      "kind": "gland_location",
+      "resolution": "Both accounts agree petiole glands absent; FNA confirms nectaries on ABAXIAL LEAF BLADE, which is a different location and does not contradict glandless petioles. Keep 1999 1–3 mm floral bracts and knobbed corona diagnosis.",
+      "evidence": [
+        "Diggs et al. 1999 p.878",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250100988",
+        "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=124132"
+      ],
+      "issue_status": "resolved",
+      "specimen_identification_certified": false,
+      "source_citations_present": true
+    },
+    {
+      "id": "meximalva-filipes",
+      "kind": "missing_reproductive_morphology",
+      "resolution": "FNA provides 7–8 mericarps, reticulate persistent lateral walls, pair of terminal empty horns, fruit ca. 5 mm; blades 2–5(–8) cm with dense stellate pubescence underneath, single axillary flowers, nonreflexed petals. These complete previously missing characteristics.",
+      "evidence": [
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=120436",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101095"
+      ],
+      "issue_status": "resolved",
+      "specimen_identification_certified": false,
+      "source_citations_present": true
+    },
+    {
+      "id": "pavonia-hastata",
+      "kind": "missing_flower_fruit_measurements",
+      "resolution": "FNA leaf blades up to 7 cm, stipules about 2 mm, 6 mm puberulent schizocarp, 4 mm spineless dorsally keeled reticulate mericarps; confirmed flowers sometimes cleistogamous. Do not label all flowers open/showy.",
+      "evidence": [
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242436196"
+      ],
+      "issue_status": "resolved",
+      "specimen_identification_certified": false,
+      "source_citations_present": true
+    },
+    {
+      "id": "feijoa-sellowiana",
+      "kind": "accepted_name_alternate_taxonomy",
+      "resolution": "Retain Feijoa sellowiana as accepted under POWO; Acca sellowiana is synonym there but accepted by ITIS. Alternative taxonomic treatment noted, not a biological morphology discrepancy.",
+      "evidence": [
+        "https://powo.science.kew.org/taxon/596467-1",
+        "https://powo.science.kew.org/taxon/1733-2",
+        "https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=834974"
+      ],
+      "issue_status": "resolved",
+      "specimen_identification_certified": false,
+      "source_citations_present": true
+    },
+    {
+      "id": "pombalia-verticillata",
+      "kind": "historic_genus",
+      "resolution": "Retain Pombalia verticillata as modern accepted in repository; map 1999 Hybanthus verticillatus and H. linearis synonym entries; historical morphology source page 1061 valid for concept.",
+      "evidence": [
+        "Diggs et al. 1999 p.1061",
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77143583-1"
+      ],
+      "issue_status": "resolved",
+      "specimen_identification_certified": false,
+      "source_citations_present": true
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "croton-lindheimeri",
+      "issue": "Potential mix-up with Croton glandulosus var. lindheimeri and C. lindheimerianus; verify original basionyms/historical keys before expanding synonyms",
+      "needed": "POWO/FNA taxon-concept side-by-side with actual existing Croton records",
+      "status": "hold_taxon_concept"
+    },
+    {
+      "id": "populus-tristis",
+      "issue": "POWO accepts P. tristis and treats P. trichocarpa as synonym; FNA/Calflora use P. trichocarpa. Confirm nomenclatural priority/type applicability, not simply synonyms",
+      "needed": "Flora of North America account and nomenclatural review with protologues; retain repo name pending",
+      "status": "hold_authority_disagreement",
+      "evidence": [
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:776895-1",
+        "https://www.calflora.org/app/taxon?crn=11946"
+      ]
+    },
+    {
+      "id": "viola-affinis",
+      "issue": "FNA cautions Gulf Coastal Viola affinis reports often refer to V. missouriensis; actual specimen identification cannot be finalized by sources alone",
+      "needed": "Verified specimen/image with leaf teeth, pubescence, flowers, capsule and labels",
+      "status": "hold_specimen_identity",
+      "evidence": [
+        "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250100897"
+      ]
+    },
+    {
+      "id": "cochlospermum-wrightii",
+      "issue": "Name crosswalk resolved as Cochlospermum wrightii = Amoreuxia wrightii but full measured species characters incomplete",
+      "needed": "Full FNA/Flora of Texas account of leaf divisions, floral and capsule characters",
+      "status": "hold_source_gap",
+      "evidence": [
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77184208-1"
+      ]
+    },
+    {
+      "id": "passiflora-lanuginosa",
+      "issue": "Modern P. lanuginosa separated from P. foetida var. lanuginosa, but diagnostic measured morphology and infraspecific comparison remain partial",
+      "needed": "Recent revision's species diagnosis and mature fruit comparison",
+      "status": "hold_source_gap"
+    },
+    {
+      "id": "euphorbia-ophthalmica",
+      "issue": "Existing FNA-based figures lack full direct source audit",
+      "needed": "FNA species account directly checked against prior measurements",
+      "status": "hold_source_gap"
+    },
+    {
+      "id": "oenothera-calcicola",
+      "issue": "First-pass record explicitly lacked full FNA vegetative and mature fruit quantitative characters",
+      "needed": "FNA account verified with character-by-character attribution",
+      "status": "hold_source_gap"
+    },
+    {
+      "id": "euphorbia-golondrina",
+      "issue": "FNA measurements inherited from prior profile without rechecking original source",
+      "needed": "Direct FNA morphology treatment",
+      "status": "hold_source_gap"
+    }
+  ],
+  "unreviewed_nonconflict_existing_notes": "Original extraction records remain accepted as prior research, not reaudited. Broad BONAP/nativity/range holds expressly excluded.",
+  "citation_page_review": {
+    "verified_specific_pages": [
+      434,
+      547,
+      548,
+      611,
+      616,
+      791,
+      792,
+      807,
+      818,
+      878,
+      975,
+      979,
+      1036,
+      1061
+    ],
+    "source_scope_note": "Page list applies to identified reconciliation cases or original related treatments; FNA-only sources marked without fabricated printed page. Potential Euphorbia angusta 1999 key location must be rechecked prior to citing exact page."
+  },
+  "preservation": "New research-only file; no prior files, site, credits, images, or taxon master records modified.",
+  "stop_condition": "One pass only. Remaining documented issues need new cited evidence or specimen-level review, not automatic repeat audits."
+}
