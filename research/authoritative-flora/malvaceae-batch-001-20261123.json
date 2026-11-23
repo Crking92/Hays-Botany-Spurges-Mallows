@@ -1,0 +1,270 @@
+{
+  "schema": "hays-botany-flora-extraction-v1",
+  "batch_id": "remaining-families-malvaceae-001",
+  "date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "branch": "staging/original-source-transfer",
+  "primary_authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+  "primary_source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "scope": "First 10 Malvaceae records in inventory order, research annotations only; source-specific caveats retained",
+  "records": [
+    {
+      "id": "abelmoschus-esculentus",
+      "accepted": "Abelmoschus esculentus",
+      "historical": "Abelmoschus esculentus (L.) Moench",
+      "synonyms": [
+        "Hibiscus esculentus L."
+      ],
+      "printed_page": 806,
+      "source": "1999 flora",
+      "characters": {
+        "habit": "Stout annual, to 2 m or more; glabrous to bristly",
+        "leaves": "Very large, often more than 30 cm across, palmately divided to shallowly lobed",
+        "flowers": "Upper-axillary solitary; linear involucellar bracts 8–12; white to yellow petals with deep red/purple basal region",
+        "fruits": "Elongated cylindrical capsule, tender when young and woody or tough when mature",
+        "habitat": "Cultivated gardens, rarely escaped",
+        "phenology": "Summer–fall"
+      },
+      "diagnosis": "Linear 8–12 epicalyx bractlets and elongate okra capsule, unlike local mallow schizocarps",
+      "holds": [
+        "Non-native crop native to tropical Asia; no local native status claim"
+      ],
+      "nativity": {
+        "bonap_county_verified_in_batch": false,
+        "learner_range_decision": "unchanged"
+      },
+      "status": "historical_flora_extracted_with_open_verification_holds"
+    },
+    {
+      "id": "abutilon-fruticosum",
+      "accepted": "Abutilon fruticosum",
+      "historical": "Abutilon fruticosum Guill. & Perr.",
+      "synonyms": [
+        "Abutilon texense Torr. & A.Gray"
+      ],
+      "printed_page": 807,
+      "source": "1999 flora",
+      "characters": {
+        "habit": "Perennial to 85 cm from woody root, gray and finely stellate-pubescent",
+        "leaves": "Ovate-triangular 2–4–10(–16) cm long; toothed; cordate at base (genus)",
+        "flowers": "Yellow petals 4–6(–10) mm; peduncles 1–3 cm; calyx 3–5 mm divided around halfway",
+        "fruits": "5–9, usually 6–9 mericarps each 6–9 mm, nearly awnless",
+        "habitat": "Slopes, prairies, limestone outcrops",
+        "phenology": "June–October"
+      },
+      "diagnosis": "6–9 fruit segments and smaller yellow petals separate from large long-beaked velvetleaf; Texas historical misidentified as A. incanum",
+      "holds": [
+        "Do not synonymize with Abutilon incanum: 1999 says incanum has five carpels and lies farther west"
+      ],
+      "nativity": {
+        "bonap_county_verified_in_batch": false,
+        "learner_range_decision": "unchanged"
+      },
+      "status": "historical_flora_extracted_with_open_verification_holds"
+    },
+    {
+      "id": "abutilon-incanum",
+      "accepted": "Abutilon incanum",
+      "historical": "Abutilon incanum (Link) Sweet, mentioned in misidentification note under A. fruticosum",
+      "printed_page": 807,
+      "source": "FNA supplemented by 1999 misidentification discussion",
+      "source_url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250100018",
+      "characters": {
+        "habit": "Gray stellate-tomentose subshrub (previous FNA-backed inventory)",
+        "leaves": "Ovate-cordate",
+        "flowers": "Yellow or pink petals with dark red basal center, 4–6 mm; pubescent staminal column; five-parted style",
+        "fruits": "Five-mericarpped cask-shaped schizocarp ca. 7–9 × 6 mm in previous FNA-based inventory"
+      },
+      "diagnosis": "Five carpels unlike 6–9 in A. fruticosum; coloration and style count require verified floral close-up",
+      "holds": [
+        "No direct 1999 species treatment: historical note only; numerical flower/fruits derived from existing FNA-based record and require source reconfirmation",
+        "Existing FAIL_TARGET_ZONE preserved"
+      ],
+      "nativity": {
+        "bonap_county_verified_in_batch": false,
+        "learner_range_decision": "unchanged"
+      },
+      "status": "historical_flora_extracted_with_open_verification_holds"
+    },
+    {
+      "id": "abutilon-theophrasti",
+      "accepted": "Abutilon theophrasti",
+      "historical": "Abutilon theophrasti Medik.",
+      "printed_page": 807,
+      "source": "1999 flora",
+      "characters": {
+        "habit": "Large soft stellate-velvety annual up to 2 m",
+        "leaves": "Ovate to suborbicular (3–)5–15(–17.5) cm long, notably larger than A. fruticosum",
+        "flowers": "Yellow petals 6–15 mm, peduncles 1.5–5 cm, calyx 8–14 mm",
+        "fruits": "10–15 mericarps 10–18 mm long with prominent 2–6 mm beaks/awns",
+        "habitat": "Disturbed sites, weed",
+        "phenology": "June–October"
+      },
+      "diagnosis": "Large velvety leaves and strongly beaked fruit with 10–15 carpels",
+      "holds": [
+        "Introduced Eurasian weed, comparison-only status preserved"
+      ],
+      "nativity": {
+        "bonap_county_verified_in_batch": false,
+        "learner_range_decision": "unchanged"
+      },
+      "status": "historical_flora_extracted_with_open_verification_holds"
+    },
+    {
+      "id": "allowissadula-holosericea",
+      "accepted": "Allowissadula holosericea",
+      "historical": "Abutilon holosericeum Scheele (accepted under Allowissadula by FNA)",
+      "printed_page": null,
+      "source": "Flora of North America (not located in 1999 species treatments)",
+      "source_url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101027",
+      "characters": {
+        "habit": "Woody-based mallow shrub or subshrub, typically 1–2 m in regional descriptions",
+        "leaves": "Ovate, often broadly cordate and irregularly toothed; stellate pubescence",
+        "flowers": "Five yellow/orange petals and centrally fused staminal column",
+        "fruits": "Segmented mallow schizocarp; exact counts and sizes require full FNA treatment",
+        "habitat": "Rocky Edwards Plateau to Trans-Pecos and adjacent Mexico"
+      },
+      "diagnosis": "Velvety leaves and inflorescence structures require comparison to Abutilon; historical Abutilon holosericeum belongs to this species",
+      "holds": [
+        "Do not confuse with Abutilon fruticosum merely from leaf shape",
+        "Exact original flora page absent; do not invent one",
+        "County BONAP review pending"
+      ],
+      "nativity": {
+        "bonap_county_verified_in_batch": false,
+        "learner_range_decision": "unchanged"
+      },
+      "status": "alternate_authority_or_historical_note_source_partial"
+    },
+    {
+      "id": "anoda-cristata",
+      "accepted": "Anoda cristata",
+      "historical": "Anoda cristata (L.) Schltdl.; historical synonym Sida cristata L.",
+      "printed_page": null,
+      "source": "Flora of North America",
+      "source_url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242416069",
+      "characters": {
+        "habit": "Annual herb, erect or spreading, glabrous to hairy",
+        "leaves": "Alternate petiolate, variably lobed from lower to upper stem",
+        "flowers": "Solitary axillary flowers, five petals united at base of staminal column",
+        "fruits": "Flat disc-shaped schizocarp 8–11 mm in diameter excluding spines, densely hispid; 10–19 mericarps with dorsal spur 1.5–4 mm",
+        "habitat": "Weedy disturbed sites and open habitats"
+      },
+      "diagnosis": "Disc-like fruit with numerous wedge-shaped segments bearing 1.5–4 mm dorsal spurs",
+      "holds": [
+        "Direct 1999 species passage not yet verified; no flora page asserted",
+        "County BONAP review pending"
+      ],
+      "nativity": {
+        "bonap_county_verified_in_batch": false,
+        "learner_range_decision": "unchanged"
+      },
+      "status": "alternate_authority_or_historical_note_source_partial"
+    },
+    {
+      "id": "callirhoe-digitata",
+      "accepted": "Callirhoe digitata",
+      "historical": "Callirhoe digitata (species account not located; 1999 includes C. digitata var. stipulata as synonym under C. pedata)",
+      "printed_page": null,
+      "source": "Flora of North America / existing FNA-backed inventory",
+      "source_url": "https://www.efloras.org/",
+      "characters": {
+        "habit": "Perennial, mostly erect, often 0.5–2 m in existing profile",
+        "leaves": "Deeply 5–10-lobed with narrow ultimate segments",
+        "inflorescence": "Often paniculate; calyx without extra involucellar bractlets",
+        "fruits": "Glabrous indehiscent mericarps",
+        "roots": "Thickened perennial root"
+      },
+      "diagnosis": "Compared with C. pedata, often more finely dissected leaves, falling stipules, paniculate rather than racemose inflorescences",
+      "holds": [
+        "Species-level identity from old var. stipulata must NOT be inferred; synonym is for C. pedata",
+        "Existing project range FAIL retained; confirm FNA characters/modern distributions"
+      ],
+      "nativity": {
+        "bonap_county_verified_in_batch": false,
+        "learner_range_decision": "unchanged"
+      },
+      "status": "alternate_authority_or_historical_note_source_partial"
+    },
+    {
+      "id": "callirhoe-involucrata",
+      "accepted": "Callirhoe involucrata",
+      "historical": "Callirhoe involucrata (Nutt.) A.Gray",
+      "printed_page": 808,
+      "source": "1999 flora",
+      "characters": {
+        "habit": "Perennial from enlarged root, trailing/curved ascending stems to 70(–80) cm",
+        "leaves": "Deeply lobed; 1999 distinguishes var. involucrata with lobes cut to within 5–10 mm of petiole, from var. lineariloba to within 2–4 mm",
+        "flowers": "Solitary axillary reddish-purple petals; pedicels 3–10(–21) cm; involucel of three bracts beneath calyx",
+        "fruits": "Carpels splitting at maturity; var. involucrata often strigose vs var. lineariloba variable",
+        "habitat": "Sandy eroded disturbed ground and roadsides",
+        "phenology": "Late April–June"
+      },
+      "diagnosis": "Three bractlets immediately below calyx distinguish from C. pedata and C. leiocarpa",
+      "holds": [
+        "1999 varieties intergrade, avoid identification based on leaf lobing alone"
+      ],
+      "nativity": {
+        "bonap_county_verified_in_batch": false,
+        "learner_range_decision": "unchanged"
+      },
+      "status": "historical_flora_extracted_with_open_verification_holds"
+    },
+    {
+      "id": "callirhoe-leiocarpa",
+      "accepted": "Callirhoe leiocarpa",
+      "historical": "Callirhoe leiocarpa R.F.Martin",
+      "printed_page": 808,
+      "source": "1999 flora",
+      "characters": {
+        "habit": "Erect annual, rarely biennial, to about 85 cm",
+        "flowers": "Solitary, petals red-purple to light pink, to approximately 23 mm",
+        "leaves": "Variable lobed palmate leaves, some four-rayed hairs",
+        "fruits": "Mature fruits 4–6 mm wide; conspicuous hollow beak >=1/3 of carpel length; whitish collar projecting about 1 mm over beak base",
+        "roots": "Slender taproot",
+        "habitat": "Prairies, roadsides, woodlands",
+        "phenology": "April–August"
+      },
+      "diagnosis": "Small fruit with large beak/collar, taproot annual versus large fruit small beak swollen-root perennial C. pedata",
+      "holds": [
+        "County nativity must be independently reviewed"
+      ],
+      "nativity": {
+        "bonap_county_verified_in_batch": false,
+        "learner_range_decision": "unchanged"
+      },
+      "status": "historical_flora_extracted_with_open_verification_holds"
+    },
+    {
+      "id": "callirhoe-pedata",
+      "accepted": "Callirhoe pedata",
+      "historical": "Callirhoe pedata (Nutt. ex Hook.) A.Gray",
+      "synonyms": [
+        "Callirhoe digitata Nutt. var. stipulata Waterf. (1999 bracketed synonym)"
+      ],
+      "printed_page": 808,
+      "source": "1999 flora",
+      "characters": {
+        "habit": "Perennial with swollen root; erect to reclining stems to ca. 100 cm, glabrous to strigose",
+        "flowers": "Usually reddish-purple, sometimes white/pink, solitary or loose corymbs; no involucel",
+        "fruits": "Mature fruit 6–10 mm wide; mericarp beaks less than 1/3 total carpel length, without conspicuous collar",
+        "habitat": "Limestone outcrops and rocky prairie",
+        "phenology": "April–May"
+      },
+      "diagnosis": "Swollen root and larger fruit with short beaks distinguish from C. leiocarpa; lack three-part involucel distinguishes C. involucrata",
+      "holds": [
+        "Old digitata var. stipulata belongs here, not modern C. digitata species",
+        "Flower color variable, not valid sole diagnostic character"
+      ],
+      "nativity": {
+        "bonap_county_verified_in_batch": false,
+        "learner_range_decision": "unchanged"
+      },
+      "status": "historical_flora_extracted_with_open_verification_holds"
+    }
+  ],
+  "record_count": 10,
+  "malvaceae_inventory": 31,
+  "malvaceae_initial_pass": 10,
+  "repository_research_records": 80
+}
