@@ -1,0 +1,264 @@
+{
+  "schema": "hays-botany-flora-extraction-v1",
+  "batch_id": "remaining-families-euphorbiaceae-001",
+  "date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "branch": "staging/original-source-transfer",
+  "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+  "primary_source": "Shinners & Mahler's Illustrated Flora of North Central Texas (Diggs, Lipscomb & O'Kennon, 1999)",
+  "policy": "Source annotations only; do not overwrite species records, range statuses, source credits or live gallery",
+  "records": [
+    {
+      "species_id": "acalypha-persimilis",
+      "repository_name": "Acalypha persimilis",
+      "flora_name": "Acalypha ostryifolia Riddell",
+      "page": 589,
+      "morphology": {
+        "habit": "Freely branched erect annual to 50 cm",
+        "leaves": "Long petioles; nearly glabrous blade 1.5–5.3 cm wide; ovate, slightly cordate base per key",
+        "inflorescence": "Pistillate spikes terminal, staminate spikes axillary; apetalous unisexual flowers",
+        "fruits": "Three-carpellate capsule; detailed measurement not in historical species paragraph",
+        "habitat": "Stream banks and bottoms, disturbed areas and roadsides",
+        "phenology": "Late May–October"
+      },
+      "diagnosis": "Unlike A. phleoides, separate male and female spikes; unlike dioecious A. radians, both on same annual individual",
+      "caveat": "A. persimilis vs A. ostryifolia nomenclature remains contested; modern concept crosswalk must be retained, not represented as identical type",
+      "source": "Shinners & Mahler's Illustrated Flora of North Central Texas (Diggs, Lipscomb & O'Kennon, 1999)",
+      "nativity": {
+        "bonap_county_confirmed_in_batch": false,
+        "existing_range_status": "unchanged"
+      },
+      "extraction_status": "historical_source_extracted_secondary_review_pending"
+    },
+    {
+      "species_id": "acalypha-phleoides",
+      "repository_name": "Acalypha phleoides",
+      "flora_name": "Acalypha phleoides Cav.",
+      "page": 589,
+      "morphology": {
+        "habit": "Perennial, branched multiple stems from woody root, spreading to erect, to 60 cm long",
+        "stems": "Long spreading pilose hairs, curled short hairs, or glabrous",
+        "leaves": "Lanceolate to ovate-lanceolate, evenly sharply toothed",
+        "inflorescence": "Terminal bisexual spikes, male and female parts within same spike per key; styles conspicuously reddish",
+        "fruit": "Three-seeded capsule (genus account)",
+        "habitat": "Rocky slopes chiefly limestone",
+        "phenology": "May–October"
+      },
+      "historical_synonyms": [
+        "Acalypha lindheimeri Müll.Arg."
+      ],
+      "diagnosis": "Woody-rooted perennial with terminal mixed reproductive spikes vs annual A. persimilis",
+      "source": "Shinners & Mahler's Illustrated Flora of North Central Texas (Diggs, Lipscomb & O'Kennon, 1999)",
+      "nativity": {
+        "bonap_county_confirmed_in_batch": false,
+        "existing_range_status": "unchanged"
+      },
+      "extraction_status": "historical_source_extracted_secondary_review_pending"
+    },
+    {
+      "species_id": "acalypha-radians",
+      "repository_name": "Acalypha radians",
+      "flora_name": "Acalypha radians Torr.",
+      "page": 589,
+      "morphology": {
+        "habit": "Decumbent perennial 20–40 cm tall",
+        "stems": "Densely short stiff and long-spreading hairy",
+        "leaves": "Reniform to orbicular, 8–12 mm wide; petioles 4–16 mm usually as long as or longer than blades",
+        "inflorescence": "Dioecious per 1999 genus key; pistillate bracts 3.5–10 mm, 7–13 lobes",
+        "fruit": "Three-seeded capsule",
+        "habitat": "Dry sandy or gravelly soils",
+        "phenology": "Summer–fall"
+      },
+      "diagnosis": "Small radiating divided leaves and male/female plants separate; contrast monoecious A. phleoides",
+      "source": "Shinners & Mahler's Illustrated Flora of North Central Texas (Diggs, Lipscomb & O'Kennon, 1999)",
+      "nativity": {
+        "bonap_county_confirmed_in_batch": false,
+        "existing_range_status": "unchanged"
+      },
+      "extraction_status": "historical_source_extracted_secondary_review_pending"
+    },
+    {
+      "species_id": "amperea-xiphoclada",
+      "repository_name": "Amperea xiphoclada",
+      "flora_name": null,
+      "page": null,
+      "alternative": {
+        "source": "PlantNET New South Wales Flora Online; Kew POWO",
+        "url": "https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?lvl=sp&name=Amperea~xiphoclada&page=nswfl",
+        "morphology": {
+          "habit": "Erect shrub to 60 cm, rigid angular branches sometimes almost leafless",
+          "flowers": "Usually monoecious according to PlantNET (not reliably dioecious as existing learner field states)",
+          "other": "Australian-native genus and species, not North American native"
+        }
+      },
+      "caveat": "Not in 1999 flora; existing learner says usually dioecious while PlantNET says usually monoecious. Hold sex expression for revision; no Texas BONAP native claim",
+      "source": "Alternate named authority; 1999 species account not located",
+      "nativity": {
+        "bonap_county_confirmed_in_batch": false,
+        "existing_range_status": "unchanged"
+      },
+      "extraction_status": "alternate_authority_extracted_secondary_review_pending"
+    },
+    {
+      "species_id": "argythamnia-aphoroides",
+      "repository_name": "Argythamnia aphoroides",
+      "flora_name": "Ditaxis aphoroides (Müll.Arg.) Pax",
+      "page": 603,
+      "morphology": {
+        "habit": "Densely villous, usually erect-stemmed plant",
+        "leaves": "Elliptic to ovate, sessile above, prominent veins below",
+        "inflorescence": "Usually dioecious; axillary racemes longer than leaves per genus key",
+        "flowers": "Male petals obovate/cuneate ca. 4–5 mm, truncate glands wider than long, 8–10 stamens; female petals rudimentary/absent, glands square and thick, styles erect bifid for half free length",
+        "fruit": "Three-seeded capsule at genus level, exact measurements not in 1999 account",
+        "habitat": "Sandy or rocky limestone soils, Edwards Plateau",
+        "phenology": "March–April"
+      },
+      "historical_synonyms": [
+        "Argythamnia aphoroides Müll.Arg. (as synonym in 1999)"
+      ],
+      "diagnosis": "Long racemes + conspicuously truncate squarish floral glands vs linear glands of D. humilis or D. mercurialina",
+      "caveat": "1999 specifically says current populations not known from Hays despite older citation; never interpret historical Hays entry as current confirmed occurrence",
+      "source": "Shinners & Mahler's Illustrated Flora of North Central Texas (Diggs, Lipscomb & O'Kennon, 1999)",
+      "nativity": {
+        "bonap_county_confirmed_in_batch": false,
+        "existing_range_status": "unchanged"
+      },
+      "extraction_status": "historical_source_extracted_secondary_review_pending"
+    },
+    {
+      "species_id": "argythamnia-humilis",
+      "repository_name": "Argythamnia humilis",
+      "flora_name": "Ditaxis humilis (Engelm. & A.Gray) Pax var. humilis",
+      "page": 603,
+      "morphology": {
+        "habit": "Trailing or spreading many-branched perennial",
+        "leaves": "Elliptic to narrowly obovate, villous to variable, upper leaves sessile or nearly; lower veins conspicuous",
+        "inflorescence": "Monoecious, short axillary racemes less than subtending leaves",
+        "flowers": "Male petals narrow lanceolate/oblanceolate; glands linear; 8–9 stamens; pistillate petals absent or to 0.5 mm, styles bifid",
+        "fruit": "Three-seeded capsules; seed surfaces may be rugose vs nearly smooth variants",
+        "habitat": "Rocky or disturbed calcareous clay",
+        "phenology": "April–October"
+      },
+      "historical_synonyms": [
+        "Argythamnia humilis (Engelm. & A.Gray) Müll.Arg.",
+        "Argythamnia humilis var. leiosperma Waterfall (historical infraspecific concept)"
+      ],
+      "diagnosis": "Short raceme and spreading many-branch habit vs upright longer-racemed A. aphoroides",
+      "caveat": "1999 variety concepts humilis, leiosperma, laevis have unresolved taxonomic inclusion at broader accepted species level",
+      "source": "Shinners & Mahler's Illustrated Flora of North Central Texas (Diggs, Lipscomb & O'Kennon, 1999)",
+      "nativity": {
+        "bonap_county_confirmed_in_batch": false,
+        "existing_range_status": "unchanged"
+      },
+      "extraction_status": "historical_source_extracted_secondary_review_pending"
+    },
+    {
+      "species_id": "argythamnia-simulans",
+      "repository_name": "Argythamnia simulans",
+      "flora_name": null,
+      "page": null,
+      "alternative": {
+        "source": "Flora of North America Argythamnia simulans",
+        "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101530",
+        "morphology": {
+          "habit": "Perennial or low subshrub (existing FNA-backed specimen profile)",
+          "leaves": "Sessile",
+          "inflorescence": "Axillary bisexual inflorescences 3.5–12 cm",
+          "flowers": "Staminate sepals 4–5.3 mm, petals 2–4 mm; 7–8 stamens, no staminodes; pistillate sepals 6–9 mm, styles 1.5–2.1 mm",
+          "fruit": "Hispidulous capsules 3.5–9 mm; seeds 3.5–4.2 mm slightly irregular alveolate",
+          "habitat": "Predominantly Edwards Plateau, per FNA"
+        }
+      },
+      "historical_synonyms": [
+        "Ditaxis simulans (J.W.Ingram) Radcl.-Sm. & Govaerts"
+      ],
+      "diagnosis": "Sessile leaves, fairly long bisexual racemes, 7–8 stamens distinguish from A. aphoroides and A. humilis",
+      "caveat": "Absent from located 1999 flora treatment; ITIS accepts Ditaxis simulans while Kew accepts Argythamnia simulans; retain taxon concept dispute",
+      "source": "Alternate named authority; 1999 species account not located",
+      "nativity": {
+        "bonap_county_confirmed_in_batch": false,
+        "existing_range_status": "unchanged"
+      },
+      "extraction_status": "alternate_authority_extracted_secondary_review_pending"
+    },
+    {
+      "species_id": "bernardia-myricifolia",
+      "repository_name": "Bernardia myricifolia",
+      "flora_name": null,
+      "page": null,
+      "alternative": {
+        "source": "Flora of North America Bernardia myricifolia",
+        "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101931",
+        "morphology": {
+          "habit": "Shrub up to about 3 m (FNA-backed repository research)",
+          "leaves": "Broad elliptic to nearly round, revolute crenate edge, underside densely gray-white stellate hairy",
+          "flowers": "Dioecious; staminate inflorescence 5–15 mm, typically 12–15 stamens; pistil three-carpellate with densely brush-haired stigmatic styles",
+          "fruit": "Three-lobed capsule ca. 7–8 mm"
+        }
+      },
+      "diagnosis": "Stellate leaf underside with dioecious flowers and three-carpellate fruit; distinguish other Bernardia via stipule resin, stamen number and carpels",
+      "caveat": "Not found as named species in extracted 1999 flora; FNA indicates mostly southern Texas range, not BONAP county proof",
+      "source": "Alternate named authority; 1999 species account not located",
+      "nativity": {
+        "bonap_county_confirmed_in_batch": false,
+        "existing_range_status": "unchanged"
+      },
+      "extraction_status": "alternate_authority_extracted_secondary_review_pending"
+    },
+    {
+      "species_id": "cnidoscolus-texanus",
+      "repository_name": "Cnidoscolus texanus",
+      "flora_name": "Cnidoscolus texanus (Müll.Arg.) Small",
+      "page": 597,
+      "morphology": {
+        "habit": "Milky-sapped perennial up to 80(–100) cm with deep thick branching root to 20 cm",
+        "stems": "Dense extremely painful pale stinging hairs, leaves less densely hispid",
+        "leaves": "Alternate, long petioles, blades 6–15 cm wide, cordate, palmately 3–5 deeply lobed, coarsely toothed",
+        "flowers": "Showy fragrant white inflorescence terminal, cymose, both sexes present; male perianth tube 15–20 mm, (4–)5 lobes; female perianth 10–17 mm, deeply 5-parted",
+        "fruit": "Hispid capsules 15–20 mm with three large seeds 14–18 mm",
+        "habitat": "Open sandy woods, fields, disturbed ground",
+        "phenology": "April–July, occasionally to September"
+      },
+      "historical_synonyms": [
+        "Jatropha texana Müll.Arg."
+      ],
+      "diagnosis": "Stinging hairs + large palmately lobed leaves and white flowers; contrast non-stinging peltate Ricinus communis",
+      "caveat": "Risk of painful contact; no field handling recommended",
+      "source": "Shinners & Mahler's Illustrated Flora of North Central Texas (Diggs, Lipscomb & O'Kennon, 1999)",
+      "nativity": {
+        "bonap_county_confirmed_in_batch": false,
+        "existing_range_status": "unchanged"
+      },
+      "extraction_status": "historical_source_extracted_secondary_review_pending"
+    },
+    {
+      "species_id": "croton-capitatus",
+      "repository_name": "Croton capitatus",
+      "flora_name": "Croton capitatus Michx.",
+      "page": 600,
+      "morphology": {
+        "habit": "Densely stellate-woolly monoecious annual 0.2–1(–1.5) m",
+        "leaves": "Alternate; tip acute to obtuse; hairs stellate, leaves often ovate/lance-elliptic",
+        "flowers": "Terminal spike-like racemes; three styles divided repeatedly",
+        "fruit": "Three-seeded capsule; 1999 Croton key says styles ultimate branches ca. 10+, pistillate sepals 5–10 mm",
+        "habitat": "Sandy or calcareous prairies, pastures, roadsides",
+        "phenology": "June–October"
+      },
+      "historical_subspecies": [
+        "Croton capitatus var. capitatus",
+        "Croton capitatus var. lindheimeri"
+      ],
+      "diagnosis": "Historical var. capitatus: middle and upper petioles similar length, leaves often blunt, uniform seed color; var. lindheimeri: petioles shorten upward, more pointed leaves, mottled seeds",
+      "caveat": "Check C. lindheimeri / C. lindheimerianus separate repository concepts before assigning varieties",
+      "source": "Shinners & Mahler's Illustrated Flora of North Central Texas (Diggs, Lipscomb & O'Kennon, 1999)",
+      "nativity": {
+        "bonap_county_confirmed_in_batch": false,
+        "existing_range_status": "unchanged"
+      },
+      "extraction_status": "historical_source_extracted_secondary_review_pending"
+    }
+  ],
+  "record_count": 10,
+  "prior_family_total": 27,
+  "cumulative_research_records": 37
+}
