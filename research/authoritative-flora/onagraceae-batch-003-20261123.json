@@ -1,0 +1,318 @@
+{
+  "schema": "hays-botany-flora-extraction-v1",
+  "batch_id": "remaining-families-onagraceae-003",
+  "date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "branch": "staging/original-source-transfer",
+  "scope": "Nine remaining Onagraceae inventory records; source-backed research only; no edits to source species.json, photo rights, gallery, BONAP target decisions",
+  "references": [
+    {
+      "title": "Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "authors": "Diggs, Lipscomb and O'Kennon",
+      "year": 1999,
+      "file": "Flora of North Central Texas-Fab-Zygo.pdf",
+      "pages": [
+        854,
+        855,
+        856,
+        857,
+        865,
+        867
+      ]
+    },
+    {
+      "title": "Flora of North America, Vol 10 Onagraceae",
+      "year": 2021,
+      "url": "https://www.efloras.org/"
+    },
+    {
+      "title": "Kew Plants of the World Online",
+      "url": "https://powo.science.kew.org/"
+    }
+  ],
+  "records": [
+    {
+      "id": "oenothera-calcicola",
+      "name": "Oenothera calcicola",
+      "flora": {
+        "status": "absent_from_located_1999_species_treatments",
+        "printed_page": null,
+        "original_name": "Gaura calcicola P.H.Raven & D.P.Greg. (historical synonym; not asserted as a flora treatment)"
+      },
+      "other": {
+        "name": "Flora of North America vol.10, Oenothera calcicola",
+        "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250130311",
+        "characters": {
+          "habit": "Perennial from woody rootstock; stems erect and branched near ground and inflorescence, (40–)60–250 cm",
+          "flowers": "Four-merous, bilaterally symmetrical, open near sunset; tube 3–9 mm, sepals 6–12 mm, petals 7–11 mm white aging dark pink to red; stigma extends beyond anthers",
+          "fruit": "Narrow, angled or winged gaura-like capsule; quantitative measurements not transcribed from accessible excerpt",
+          "habitat": "Mostly limestone/gypsum or calcareous upland; source emphasizes higher-elevation/montane occurrence relative to close taxa"
+        }
+      },
+      "holds": [
+        "Check full FNA vegetative and mature fruit quantitative description",
+        "BONAP county verification outstanding"
+      ],
+      "nativity": {
+        "bonap_county_verified_in_this_batch": false,
+        "existing_learner_decision": "UNCHANGED"
+      },
+      "status": "alternate_authoritative_treatment_extracted"
+    },
+    {
+      "id": "oenothera-capillifolia-subsp-berlandieri",
+      "name": "Oenothera capillifolia subsp. berlandieri",
+      "flora": {
+        "status": "direct_historical_subspecies_treatment",
+        "printed_page": 854,
+        "original_name": "Calylophus berlandieri Spach subsp. berlandieri"
+      },
+      "characters": {
+        "habit": "Bushy, several to many stems, decumbent to ascending, 10–40 cm; annual or perennial in parent species account",
+        "leaves": "Linear to oblanceolate, nearly entire to finely toothed; largest blades 1–4 cm",
+        "flowers": "Four-merous yellow, sunrise opening, self-incompatible; hypanthium and stigma yellow, never black; parent account hypanthium 5–16(–20) mm and petals generally 9–21 mm for C. berlandieri",
+        "fruit": "Cylindrical capsule (genus account)",
+        "habitat": "Dry prairies on sandy, gravelly or limestone soils",
+        "phenology": "March–November",
+        "diagnosis": "Compare former subsp. pinifolius (= current O. capillifolia subsp. capillifolia): taller, less bushy, longer leaves and sometimes black inner tube/stigma"
+      },
+      "other": {
+        "name": "Kew POWO / GRIN",
+        "url": "https://powo.science.kew.org/taxon/77133601-1"
+      },
+      "holds": [
+        "Subspecies phenology from flora region must not be treated as county BONAP evidence"
+      ],
+      "nativity": {
+        "bonap_county_verified_in_this_batch": false,
+        "existing_learner_decision": "UNCHANGED"
+      },
+      "status": "1999_treatment_extracted_and_taxonomy_crosswalked"
+    },
+    {
+      "id": "oenothera-capillifolia",
+      "name": "Oenothera capillifolia",
+      "flora": {
+        "status": "historical_species_complex_in_flora",
+        "printed_page": 854,
+        "original_name": "Calylophus berlandieri Spach sensu lato; 1999 treats subsp. berlandieri and subsp. pinifolius"
+      },
+      "characters": {
+        "habit": "Annual/short-lived perennial to perennial depending on subspecies; ~10–80 cm across two 1999 treatments",
+        "leaves": "Linear to oblanceolate; older subsp. berlandieri stem leaves 1–4 cm; older pinifolius 2.5–9 cm",
+        "flowers": "Four-merous yellow, peltate stigma, eight stamens; hypanthium generally 5–16(–20) mm, angular buds; flowers opening near sunrise",
+        "fruit": "Cylindric capsule per 1999 Calylophus generic account",
+        "habitat": "Dry prairies and rocky/sandy/gravelly/calcareous ground",
+        "phenology": "Subsp. berlandieri Mar–Nov; historical pinifolius Mar–Jul; do not collapse this into species-wide exact period",
+        "diagnosis": "Historical subsp. pinifolius is modern subsp. capillifolia (often erect 30–80 cm; possibly black inner floral tube/stigma); historical subsp. berlandieri is modern same epithet (bushy 10–40 cm, stigma never black)"
+      },
+      "other": {
+        "name": "FNA Oenothera capillifolia subsp. capillifolia / Kew taxonomic crosswalk",
+        "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250130573"
+      },
+      "holds": [
+        "Species-level record and subspecies-level record overlap by design, not two different species",
+        "Do not assume both subspecies native in target counties without independent evidence"
+      ],
+      "nativity": {
+        "bonap_county_verified_in_this_batch": false,
+        "existing_learner_decision": "UNCHANGED"
+      },
+      "status": "1999_treatment_extracted_and_taxonomy_crosswalked"
+    },
+    {
+      "id": "oenothera-glaucifolia",
+      "name": "Oenothera glaucifolia",
+      "flora": {
+        "status": "direct_historical_synonym_treatment",
+        "printed_page": 867,
+        "original_name": "Stenosiphon linifolius (Nutt. ex E.James) Heynh."
+      },
+      "characters": {
+        "habit": "Slender, glabrous, brittle-stemmed biennial or perennial 0.6–3 m, infrequently branching below flowering portion",
+        "leaves": "Sessile, acute, entire, narrowly lanceolate, 3–8(–10) cm long × 4–28 mm",
+        "flowers": "Four pure-white petals 4–6 mm; eight stamens; panicled terminal spikes",
+        "fruit": "Single-seeded capsule 2–4 mm long, about 2 mm thick",
+        "habitat": "Limestone outcrops and clay soils",
+        "phenology": "May–July; sporadically through October",
+        "diagnosis": "Unlike strongly zygomorphic former Gaura, 1999 Stenosiphon has evenly arranged white petals, cream anthers, threadlike hypanthium and gradually reduced inflorescence leaves"
+      },
+      "other": {
+        "name": "Kew POWO Oenothera glaucifolia accepted; Stenosiphon linifolium homotypic synonym",
+        "url": "https://powo.science.kew.org/taxon/77092908-1"
+      },
+      "holds": [
+        "1999 flora uses Stenosiphon linifolius; Kew spells Stenosiphon linifolium. Retain original spelling as printed and flag epithet discrepancy",
+        "1999 life history biennial/perennial vs Kew biennial; inspect FNA"
+      ],
+      "nativity": {
+        "bonap_county_verified_in_this_batch": false,
+        "existing_learner_decision": "UNCHANGED"
+      },
+      "status": "1999_treatment_extracted_and_taxonomy_crosswalked"
+    },
+    {
+      "id": "oenothera-hispida",
+      "name": "Oenothera hispida",
+      "flora": {
+        "status": "direct_historical_synonym_treatment",
+        "printed_page": 857,
+        "original_name": "Gaura drummondii (Spach) Torr. & A.Gray"
+      },
+      "characters": {
+        "habit": "Rhizomatous perennial forming patches, stems typically several, 0.2–0.6(–1.2) m",
+        "flowers": "Petals 6–10 mm, pink to red, rarely white (1999 treatment); FNA: white fading red",
+        "fruit": "Fruits 7–13 mm, abruptly narrowed to cylindrical stipe",
+        "habitat": "Rocky or sandy open ground",
+        "phenology": "April–October in 1999 regional flora",
+        "diagnosis": "Large rhizomatous patches; FNA describes capsule prominently bulging at base of upper pyramidal half versus O. suffrutescens"
+      },
+      "other": {
+        "name": "FNA Oenothera hispida; synonym Gaura drummondii",
+        "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250130317"
+      },
+      "holds": [
+        "Older flora uses pink-to-red petal description vs FNA white fading red; likely age/stage differences, confirm before harmonizing",
+        "1999 flora warns earlier misapplication of Gaura odorata"
+      ],
+      "nativity": {
+        "bonap_county_verified_in_this_batch": false,
+        "existing_learner_decision": "UNCHANGED"
+      },
+      "status": "1999_treatment_extracted_and_taxonomy_crosswalked"
+    },
+    {
+      "id": "oenothera-macrocarpa-subsp-macrocarpa",
+      "name": "Oenothera macrocarpa subsp. macrocarpa",
+      "flora": {
+        "status": "direct_historical_subspecies_key_and_note",
+        "printed_page": 865,
+        "original_name": "Oenothera macrocarpa Nutt. subsp. macrocarpa"
+      },
+      "characters": {
+        "habit": "Perennial, nearly stemless or suberect/trailing to 0.5 m (species-wide range)",
+        "leaves": "Subspecies distinguished by greenish, linear-lanceolate to broadly lanceolate blades; gray hairs mainly on youngest tissue",
+        "flowers": "Species: yellow petals 2–5 cm; tube 5–12 cm; sepals 2–4 cm; opens near sunset",
+        "fruit": "Large four-winged capsules 2–6.5 cm (species-wide)",
+        "habitat": "Limestone outcrops and prairies",
+        "phenology": "April–June (species-wide)",
+        "diagnosis": "Compared with subsp. incana, less uniformly gray-hairy and generally narrower green leaves; compared with subsp. oklahomensis, not completely glabrous"
+      },
+      "other": {
+        "name": "Kew POWO / previous 1999 synonyms",
+        "url": "https://powo.science.kew.org/"
+      },
+      "historical_synonyms": [
+        "Oenothera missouriensis Sims"
+      ],
+      "holds": [
+        "Measurements come from species treatment unless explicitly marked subspecies"
+      ],
+      "nativity": {
+        "bonap_county_verified_in_this_batch": false,
+        "existing_learner_decision": "UNCHANGED"
+      },
+      "status": "1999_treatment_extracted_and_taxonomy_crosswalked"
+    },
+    {
+      "id": "oenothera-patriciae",
+      "name": "Oenothera patriciae",
+      "flora": {
+        "status": "direct_historical_synonym_treatment",
+        "printed_page": 856,
+        "original_name": "Gaura brachycarpa Small"
+      },
+      "characters": {
+        "habit": "Annual to 0.65(–0.85) m; FNA: branched, taprooted, 15–65(–85) cm",
+        "leaves": "FNA basal rosette lyrate 6–9.5 × 1–2 cm; stem leaves 1–7 × 0.1–2.3 cm, narrow and somewhat toothed",
+        "flowers": "1999 hypanthium 6.5–12 mm, petals 8–12.5 mm pink/rose-red or white; FNA white fading pink/purple, floral tube 6–12 mm",
+        "fruit": "(3–)4-angled, 5.5–10 mm, sessile or stipe 1 mm in 1999; FNA 6–10 × 2–3 mm, deeply furrowed, narrow winging",
+        "seeds": "FNA 3–4 seeds, 2–3 × 1–1.5 mm",
+        "habitat": "Open sandy ground",
+        "phenology": "March–May (occasionally June) in 1999; FNA Feb–Jun",
+        "diagnosis": "Buds and sepals pubescent, bracts 2–4 mm, fruits pyramidal broadest at base versus glabrous buds and broader-middle ellipsoid capsules of former Gaura suffulta"
+      },
+      "other": {
+        "name": "FNA Oenothera patriciae",
+        "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250130319"
+      },
+      "holds": [
+        "Do not confuse historic Gaura brachycarpa Small with distinct Oenothera brachycarpa A.Gray"
+      ],
+      "nativity": {
+        "bonap_county_verified_in_this_batch": false,
+        "existing_learner_decision": "UNCHANGED"
+      },
+      "status": "1999_treatment_extracted_and_taxonomy_crosswalked"
+    },
+    {
+      "id": "oenothera-rosea",
+      "name": "Oenothera rosea",
+      "flora": {
+        "status": "not_located_in_1999_flora_species_accounts",
+        "printed_page": null,
+        "original_name": null
+      },
+      "other": {
+        "name": "FNA Oenothera rosea; Flora of China species treatment",
+        "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=240010126",
+        "characters": {
+          "habit": "Rhizomatous or woody-caulescent perennial, ascending to decumbent, 7–65 cm (Flora of China)",
+          "leaves": "Petioles 3–20 mm; basal blades 2–5 × 0.5–2 cm; stem blades 1–6 × 0.4–2.5 cm, elliptic to oblanceolate, weakly to coarsely toothed",
+          "flowers": "Near-sunrise opening, rose-purple petals 5–12 mm; floral tube 4–10 mm; sepals 5–10 mm",
+          "fruit": "Club-shaped to narrowly obovoid capsule 4–12 mm plus slender sterile basal stipe 5–20 mm",
+          "seeds": "Finely papillose, obovoid, 0.5–1.2 mm",
+          "habitat": "Disturbed moist/creekside weedy areas in cited Flora of China treatment",
+          "phenology": "May–Nov flowering (Flora of China regional data, not Texas calendar)",
+          "diagnosis": "Compared with O. speciosa, usually smaller rose-purple petals and narrower club-shaped fruit with long sterile basal stipe"
+        }
+      },
+      "holds": [
+        "Not found as direct species in 1999 flora; no page asserted",
+        "Existing repository target-zone FAIL retained; FNA reports native Mexico / wider southern range, but BONAP county assessment still separate"
+      ],
+      "nativity": {
+        "bonap_county_verified_in_this_batch": false,
+        "existing_learner_decision": "UNCHANGED"
+      },
+      "status": "alternate_authoritative_treatment_extracted"
+    },
+    {
+      "id": "oenothera-serrulata",
+      "name": "Oenothera serrulata",
+      "flora": {
+        "status": "direct_historical_treatment",
+        "printed_page": 855,
+        "original_name": "Calylophus serrulatus (Nutt.) P.H.Raven"
+      },
+      "characters": {
+        "habit": "Herb/woody-based perennial or rare annual at genus level; exact individual height not stated in 1999 species account",
+        "leaves": "Fine-toothed leaves (epithet and family treatment), species measurements require FNA",
+        "flowers": "Yellow four-merous, eight stamens and peltate stigma (Calylophus genus); self-compatible, open in morning, anthers deposit pollen directly onto stigma",
+        "fruit": "Cylindrical capsule (Calylophus generic treatment)",
+        "habitat": "Open sandy or rocky ground",
+        "phenology": "May–June",
+        "diagnosis": "Versus former Calylophus berlandieri: smaller petals normally 6–12 mm, stigma only to inner anthers, substantial aborted pollen 30–80% in 1999 key; parent C. berlandieri petals usually 9–21 mm and pollen 85–100% fertile"
+      },
+      "historical_synonyms": [
+        "Oenothera serrulata Nutt. (given in 1999 synonym bracket)"
+      ],
+      "other": {
+        "name": "FNA Oenothera serrulata treatment, broad autogamous complex",
+        "url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=220009401"
+      },
+      "holds": [
+        "FNA character variability broad; do not impose rigid single flower size cutoff",
+        "Species name Oenothera serrulata appears in 1999 as synonym, not standalone species heading"
+      ],
+      "nativity": {
+        "bonap_county_verified_in_this_batch": false,
+        "existing_learner_decision": "UNCHANGED"
+      },
+      "status": "1999_treatment_extracted_and_taxonomy_crosswalked"
+    }
+  ],
+  "batch_count": 9,
+  "cumulative_onagraceae_records": 27,
+  "inventory_onagraceae_records": 27
+}
