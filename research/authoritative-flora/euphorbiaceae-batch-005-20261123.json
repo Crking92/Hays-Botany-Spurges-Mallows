@@ -1,0 +1,162 @@
+{
+  "schema": "hays-botany-flora-extraction-v1",
+  "batch_id": "remaining-families-euphorbiaceae-005",
+  "date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "branch": "staging/original-source-transfer",
+  "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+  "record_count": 5,
+  "records": [
+    {
+      "species_id": "tragia-betonicifolia",
+      "accepted_name": "Tragia betonicifolia Nutt.",
+      "original_name": "Tragia betonicifolia Nutt.",
+      "flora_page": 616,
+      "authorities": [
+        "Diggs et al. 1999, Shinners & Mahler's Illustrated Flora of North Central Texas",
+        "Flora of North America, https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=242417367"
+      ],
+      "morphology": {
+        "habit": "Stinging perennial; stems erect, decumbent or trailing to 50 cm",
+        "leaves": "Ovate to triangular-lanceolate, commonly cordate to truncate at base",
+        "flower": "Apetalous unisexual flowers; dense raceme, 14–75 staminate flowers, staminate flowers clustered distally; female calyx 6 lobes 1.8–3 mm at anthesis and 3–5 mm in fruit",
+        "styles": "Basally connate; stigmatic surface papillate",
+        "fruit": "Explosively splitting 3-part capsule (generic Tragia)",
+        "habitat": "Sandy soils; range southeast Texas/Post Oak Savannah to Edwards Plateau",
+        "phenology": "May–June, September–October"
+      },
+      "diagnostics": "Compared with T. urticifolia, male pedicel stubs short relative to bracts and staminate flowers crowded distally; mature female sepals long",
+      "notes": [
+        "1999 explicitly treats T. urticifolia var. texana Shinners as synonym",
+        "Do not handle bare-handed: stinging hairs"
+      ],
+      "bonap_county_review": {
+        "completed": false,
+        "existing_status_preserved": true
+      },
+      "research_status": "primary_source_extracted_secondary_holds_recorded"
+    },
+    {
+      "species_id": "tragia-brevispica",
+      "accepted_name": "Tragia brevispica Engelm. & A.Gray",
+      "original_name": "Tragia brevispica Engelm. & A.Gray",
+      "flora_page": 616,
+      "authorities": [
+        "Diggs et al. 1999",
+        "Flora of North America, https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101934"
+      ],
+      "morphology": {
+        "habit": "Stinging perennial stems to 100 cm or longer, often trailing or twining",
+        "leaves": "1999 key: usually broadly triangular, blade length generally 1–2.5× width",
+        "flower": "Female calyx six lobes, 1.3–2 mm at anthesis, 1.8–3.5 mm in fruit; 1999 genus key: 2–20 loosely disposed staminate flowers, stigma papillate, styles connected at base to 1/3",
+        "fruit": "FNA notes unusual one-carpellate fruit within North American Tragia; 1999 generic statement of three-part capsules must NOT be imposed as exclusive here",
+        "habitat": "Calcareous soils; open woods and prairie",
+        "phenology": "April–October"
+      },
+      "diagnostics": "Short spike, broad triangular leaves and papillate stigmas; FNA one-carpellate fruit is highly diagnostic when mature",
+      "notes": [
+        "FNA shows variability in leaf shape and resemblance to T. ramosa; examine mature fruits",
+        "Potential conflict with generic 1999 three-part capsule description preserved"
+      ],
+      "bonap_county_review": {
+        "completed": false,
+        "existing_status_preserved": true
+      },
+      "research_status": "primary_source_extracted_secondary_holds_recorded"
+    },
+    {
+      "species_id": "tragia-nigricans",
+      "accepted_name": "Tragia nigricans Bush",
+      "original_name": null,
+      "flora_page": null,
+      "authorities": [
+        "Flora of North America, https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250102000",
+        "Kew POWO, https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:256417-2"
+      ],
+      "morphology": {
+        "habit": "Erect perennial generally 15–55 cm in existing FNA-backed project profile; stems dark red-purple or reddish black",
+        "leaves": "Oblong to oblanceolate, 3–7 × 1–2.8 cm, coarsely serrate, acute or obtuse at base, sometimes recurved teeth",
+        "flower": "Terminal appearing leaf-opposed racemes, 2–5 staminate flowers; staminate bracts 1–2 mm",
+        "anatomy": "Staminate filaments connate to approximately half their length",
+        "fruit": "Three-part capsule, size 6–7 mm across in existing profile (requires direct species account recheck)",
+        "habitat": "Dry prairie/rocky opening in Texas, specific source habitat not fully verified",
+        "phenology": "No flowering date asserted without treatment"
+      },
+      "diagnostics": "Dark upright stems, comparatively broad coarsely serrate foliage, only 2–5 male flowers and staminate filaments fused halfway",
+      "notes": [
+        "Absent from 1999 Tragia key reviewed; do not manufacture original page",
+        "FNA species name and direct leaf/staminate characters verified; remaining FNA dimensions pending"
+      ],
+      "bonap_county_review": {
+        "completed": false,
+        "existing_status_preserved": true
+      },
+      "research_status": "primary_source_extracted_secondary_holds_recorded"
+    },
+    {
+      "species_id": "tragia-ramosa",
+      "accepted_name": "Tragia ramosa Torr.",
+      "original_name": "Tragia ramosa Torr.",
+      "flora_page": 616,
+      "authorities": [
+        "Diggs et al. 1999",
+        "Flora of North America, https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242417369"
+      ],
+      "morphology": {
+        "habit": "Stinging perennial to 50 cm, erect, decumbent or trailing, somewhat twining",
+        "leaves": "Usually truncate-based blades, relatively narrow; 1999 key blade length commonly 2–4× width, narrowly lanceolate to ovate",
+        "flower": "Female calyx (5–)7 lobes, 0.8–2.5 mm at anthesis, 1.5–3 mm at fruit; relatively sparse 2–20 staminate flowers (1999 key)",
+        "styles": "More than one-third connate and stigmatic surfaces not papillate in 1999 key",
+        "fruit": "Tragia generic explosively opening capsules",
+        "habitat": "Disturbed areas throughout southern and western Texas",
+        "phenology": "April–October"
+      },
+      "diagnostics": "Narrower leaves and stigmas without papillae vs broad triangular T. brevispica; FNA warns considerable environmental plasticity",
+      "notes": [
+        "1999 lists Tragia nepetifolia var. leptophylla as synonym",
+        "Stinging hairs, avoid barehanded handling"
+      ],
+      "bonap_county_review": {
+        "completed": false,
+        "existing_status_preserved": true
+      },
+      "research_status": "primary_source_extracted_secondary_holds_recorded"
+    },
+    {
+      "species_id": "triadica-sebifera",
+      "accepted_name": "Triadica sebifera (L.) Small",
+      "original_name": "Sapium sebiferum (L.) Roxb.",
+      "flora_page": 613,
+      "authorities": [
+        "Diggs et al. 1999",
+        "University of Texas Plant Resources Center https://w3.biosci.utexas.edu/prc/K12/pages/Triadica%20sebifera.html",
+        "University of Florida IFAS https://plant-directory.ifas.ufl.edu/plant-directory/triadica-sebifera/"
+      ],
+      "morphology": {
+        "habit": "Rapid-growing, monoecious, deciduous tree typically 3–10 m in 1999 regional flora, milky sap",
+        "leaves": "Alternate, diamond-/rhombic-ovate, long-tapered blade tip, petiolar blade junction often with paired glands; 1999 partial account says 3–7(–10) cm blades",
+        "flowers": "Yellow-green terminal spikes; flowers unisexual",
+        "fruit": "Three-lobed approximately 10–13 mm capsule; University of Texas account 10–11 × 12–13 mm; splits to expose three persistent white wax-coated seeds",
+        "seeds": "University of Texas: ~9 × 7 mm with waxy white fatty coating",
+        "habitat": "Non-native East Asian ornamental escapee; riparian and disturbed wooded habitats",
+        "phenology": "Flowers spring, capsules mature late summer/fall (other source; not verified 1999 account)"
+      },
+      "diagnostics": "Glossy diamond-shaped leaves and paired petiole glands, exposed popcorn-like white seeds in opened three-lobed fruits",
+      "notes": [
+        "Historical flora genus Sapium explicitly anticipates Triadica reclassification",
+        "FAIL_NONNATIVE preserved; species is invasive and must not count as target-native",
+        "No transfer to Trees-Shrubs research repo because ownership registry assigns this species here"
+      ],
+      "bonap_county_review": {
+        "completed": false,
+        "existing_status_preserved": true
+      },
+      "research_status": "primary_source_extracted_secondary_holds_recorded"
+    }
+  ],
+  "prior_euphorbiaceae_records": 38,
+  "cumulative_euphorbiaceae_records": 43,
+  "family_inventory_records": 43,
+  "repository_cumulative_records": 70,
+  "completed_scope": "Initial morphology extraction across all 43 inventory Euphorbiaceae entries; not equivalent to complete FNA/BONAP reconciliation or website publication"
+}
