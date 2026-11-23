@@ -1,0 +1,243 @@
+{
+  "schema": "hays-botany-flora-extraction-v1",
+  "batch_id": "remaining-families-euphorbiaceae-003",
+  "date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "branch": "staging/original-source-transfer",
+  "primary_flora": "Shinners & Mahler's Illustrated Flora of North Central Texas (Diggs, Lipscomb & O'Kennon, 1999)",
+  "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+  "method": "Research annotations only; preserve exact historical flora names/pages; distinguish alternate FNA and existing FNA-based research values; BONAP county statuses unchanged.",
+  "records": [
+    {
+      "species_id": "euphorbia-eriantha",
+      "historical_name": "Euphorbia eriantha Benth. (1999 species treatment not located)",
+      "source": "Flora of North America, Euphorbia eriantha",
+      "source_url": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101658",
+      "printed_page": null,
+      "morphology": {
+        "habit": "Annual or short-lived perennial, erect to ascending, reported 10–75 cm in repository's FNA-backed profile",
+        "leaves": "Mostly alternate, narrow linear to linear-elliptic, 20–55 × 1–3 mm, occasionally 2–4 small distal teeth",
+        "cyathia": "Involucre obconic 2.1–2.6 × 1.3–2 mm, gray-white hairy; 2–5, usually 4–5 glands 0.5–0.6 × 0.5–0.6 mm; white hooded incurved gland appendages 0.5–1 × 0.5–0.8 mm, each divided into 5–12 narrow fringed segments",
+        "fruit": "Three-lobed oblong-ovoid capsule, repository FNA-based 4.4–4.9 × 3.5–4.1 mm, densely pale-hairy",
+        "seeds": "Repository FNA-based 2.8–4.1 × 2–2.4 mm, tuberculate or pitted with a caruncle",
+        "habitat": "Rocky desert washes and slopes; Hays occurrence not established"
+      },
+      "diagnostics": "The unusual fringed white appendages curl over the glands; do not mistake these for ordinary petals",
+      "holds": [
+        "Not found as a species treatment in 1999 flora; source measurements are FNA-derived, not 1999",
+        "County BONAP native range not verified"
+      ],
+      "roots": "See habit when documented; otherwise unreported in cited species description",
+      "bonap_county_verified_in_batch": false,
+      "verification_status": "FNA_based_partial_source_review_pending"
+    },
+    {
+      "species_id": "euphorbia-fendleri",
+      "historical_name": "Chamaesyce fendleri (Torr. & A.Gray) Small",
+      "source": "Diggs, Lipscomb & O'Kennon 1999",
+      "printed_page": 594,
+      "morphology": {
+        "habit": "Perennial with woody roots; rather wiry prostrate to spreading or ascending stems to 20 cm",
+        "leaves": "Orbicular-ovate to oblong; entire, acute apex",
+        "cyathia": "Styles bifid for at least half their length, gland appendages variable per FNA",
+        "habitat": "Rocky or sandy soils; flora lists Bell, Bosque, Tarrant, Brown and Hamilton counties",
+        "phenology": "Apr–Jun, occasionally later",
+        "fruit": "FNA-backed existing profile: glabrous depressed-globose capsule 2–2.4 × 2.2–2.5 mm",
+        "seeds": "FNA-backed existing profile: white 4-angled seed 1.7–2 × 1–1.2 mm"
+      },
+      "diagnostics": "Woody-rooted perennial sandmat with mostly low glabrous shoots and entire small leaves; flowers' appendage morphology is highly variable",
+      "holds": [
+        "Fruit and seed measurements from modern FNA-backed profile, not 1999 flora",
+        "BONAP county-level check outstanding"
+      ],
+      "roots": "See habit when documented; otherwise unreported in cited species description",
+      "bonap_county_verified_in_batch": false,
+      "verification_status": "1999_flora_treatment_extracted_FNA_review_pending"
+    },
+    {
+      "species_id": "euphorbia-golondrina",
+      "historical_name": "Chamaesyce golondrina (L.C.Wheeler) Shinners; no matching 1999 species treatment located",
+      "source": "Flora of North America, Euphorbia golondrina",
+      "source_url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101577",
+      "printed_page": null,
+      "morphology": {
+        "habit": "Annual with glabrous prostrate stems 5–35 cm",
+        "leaves": "Opposite, oblong to ovate-oblong, 5–11.5 × 1–4 mm, entire and asymmetric-based",
+        "stipules": "Narrow awl-shaped, 0.5–0.8 mm",
+        "cyathia": "Solitary at distal nodes; dark red-purple concave glands with white crescent appendages; peduncles 0.9–1.5 mm",
+        "fruit": "Glabrous three-lobed capsule 1.7–2 × 1.5–1.6 mm",
+        "seeds": "Four-angled approximately 1.3–1.5 × 0.6–0.7 mm, weak cross ridges",
+        "habitat": "Sandy/gravelly Rio Grande banks in western Texas; FNA notes highly restricted border distribution"
+      },
+      "diagnostics": "Glabrous prostrate sandmat with dark round glands and pale crescent appendages; comparison to E. simulans requires glands and seeds",
+      "holds": [
+        "Not a presumptively native Hays species; verify BONAP county eligibility separately",
+        "Quantitative traits drawn from existing FNA-based profile; revisit original FNA text for full verification"
+      ],
+      "roots": "See habit when documented; otherwise unreported in cited species description",
+      "bonap_county_verified_in_batch": false,
+      "verification_status": "FNA_based_partial_source_review_pending"
+    },
+    {
+      "species_id": "euphorbia-heterophylla",
+      "historical_name": "Euphorbia heterophylla L. (1999 species account not located)",
+      "source": "Flora of North America, Euphorbia heterophylla",
+      "source_url": "https://www.efloras.org/",
+      "printed_page": null,
+      "morphology": {
+        "habit": "Annual herb",
+        "leaves": "Usually alternate and polymorphic: lanceolate, elliptic, obovate, pandurate or lobed; leaf outline alone unreliable",
+        "bracts": "Terminal bracts predominantly green or light green rather than distinctly red-based",
+        "cyathia": "Usually one stalked clavate yellow-green nectar gland, circular opening with annular rim; gland appendages absent",
+        "fruit": "Three-lobed broadly ovoid capsule 2.8–3.8 × 4–5.3 mm, generally glabrous",
+        "seeds": "Angular tuberculate seed 2.4–2.8 × 1.9–2.4 mm, keel along dorsal face"
+      },
+      "diagnostics": "Compare E. cyathophora: cyathophora often sharply red/pink proximal bracts, gland aperture oblong and rim absent; heterophylla circular annular-rimmed gland",
+      "holds": [
+        "1999 original account not identified; FNA quantitative character extraction is retained from prior repository research",
+        "Native zone remains comparison-only, not county-approved"
+      ],
+      "roots": "See habit when documented; otherwise unreported in cited species description",
+      "bonap_county_verified_in_batch": false,
+      "verification_status": "FNA_based_partial_source_review_pending"
+    },
+    {
+      "species_id": "euphorbia-hypericifolia",
+      "historical_name": "Chamaesyce hypericifolia (L.) Millsp.",
+      "source": "Diggs, Lipscomb & O'Kennon 1999",
+      "printed_page": 595,
+      "morphology": {
+        "habit": "Main stem erect to 50 cm, branches erect or ascending",
+        "leaves": "Usually without a central purple-red spot",
+        "cyathia": "Dense conspicuous glomerules with white-to-pink gland appendages; styles bifid to midpoint",
+        "fruit": "1999 key: capsules approximately 1.3 mm, versus E. nutans 1.9–2.3 mm",
+        "habitat": "In 1999 flora: sidewalk, horticultural nursery/garden weed in Tarrant County, mainly southern Texas",
+        "phenology": "Summer"
+      },
+      "diagnostics": "Crowded glomerules, glabrous stems, relatively small capsules distinguish from leafy cyathium clusters and often line-hairy E. nutans",
+      "holds": [
+        "Flora calls it native to extreme southern Texas and an introduced Fort Worth weed, not a Hays native record",
+        "BONAP Hays+west/north unresolved"
+      ],
+      "roots": "See habit when documented; otherwise unreported in cited species description",
+      "bonap_county_verified_in_batch": false,
+      "verification_status": "1999_flora_treatment_extracted_FNA_review_pending"
+    },
+    {
+      "species_id": "euphorbia-maculata",
+      "historical_name": "Chamaesyce maculata (L.) Small",
+      "source": "Diggs, Lipscomb & O'Kennon 1999",
+      "printed_page": 595,
+      "morphology": {
+        "habit": "Annual, prostrate or rarely ascending, stems to 50 cm, does not root at nodes",
+        "leaves": "Opposite, small, finely toothed oblong blades, often with purple-red central blotch but this may be absent",
+        "cyathia": "Gland appendages white to red, styles bifid upper quarter to third",
+        "fruit": "1999 key: capsule hairs rather evenly distributed across face and loosely appressed, versus E. prostrata hairs more spreading along angles",
+        "seeds": "Modern FNA-based repository: approximately 1–1.2 mm, angular with several low transverse ridges, NOT longitudinal ribbing",
+        "habitat": "Sandy soils, stream banks, woods and disturbed areas; much of Texas"
+      },
+      "diagnostics": "Capsule face hair distribution is more reliable than leaf blotches; fruit comparison with E. prostrata",
+      "holds": [
+        "Historical name 'Chamaesyce maculata' commonly confused with C. nutans in older reports",
+        "Corrected transverse seed ridges preserved; seed measurements from modern profile"
+      ],
+      "roots": "See habit when documented; otherwise unreported in cited species description",
+      "bonap_county_verified_in_batch": false,
+      "verification_status": "1999_flora_treatment_extracted_FNA_review_pending"
+    },
+    {
+      "species_id": "euphorbia-marginata",
+      "historical_name": "Euphorbia marginata Pursh",
+      "source": "Diggs, Lipscomb & O'Kennon 1999",
+      "printed_page": 609,
+      "morphology": {
+        "habit": "Pilose to glabrous erect annual to about 200 cm",
+        "leaves": "Stem foliage often relatively broad, showy upper leaves/bracts prominently white-edged",
+        "cyathia": "Usually five cupped glands, white petal-like appendages 2–4 mm",
+        "fruit": "Three-lobed capsule, hairy; latex may irritate skin",
+        "habitat": "Calcareous uplands, streams and low places",
+        "phenology": "July–October"
+      },
+      "diagnostics": "Compared with E. bicolor, usually broader upper bracts and little hair on the upper blade surface; narrow bracts alone can appear within one inflorescence",
+      "holds": [
+        "1999 reports eastern native regional limit roughly Bell to Cooke counties but this does not substitute for BONAP county map",
+        "Existing PASS left unchanged"
+      ],
+      "roots": "See habit when documented; otherwise unreported in cited species description",
+      "bonap_county_verified_in_batch": false,
+      "verification_status": "1999_flora_treatment_extracted_FNA_review_pending"
+    },
+    {
+      "species_id": "euphorbia-nutans",
+      "historical_name": "Chamaesyce nutans (Lag.) Small",
+      "source": "Diggs, Lipscomb & O'Kennon 1999",
+      "printed_page": 596,
+      "morphology": {
+        "habit": "Annual, one to several decumbent, spreading or erect stems up to 1 m",
+        "stems": "Pubescent in longitudinal lines; different from generally glabrous E. hypericifolia",
+        "leaves": "Oblong and asymmetrical, often (not always) purple-red central blotch",
+        "cyathia": "White-to-reddish gland appendages, styles bifid to approximately halfway",
+        "fruit": "1999 key glabrous capsule 1.9–2.3 mm, often solitary/small clusters of cyathia",
+        "habitat": "Stream bottoms, roadsides and disturbed soils, throughout Texas",
+        "phenology": "May–October"
+      },
+      "diagnostics": "More robust ascending branches and less congested cyathium clusters than E. hypericifolia; historical C. maculata sensu authors often refers to C. nutans",
+      "holds": [
+        "Do not infer species from red foliar splotches, frequently present in E. maculata as well"
+      ],
+      "roots": "See habit when documented; otherwise unreported in cited species description",
+      "bonap_county_verified_in_batch": false,
+      "verification_status": "1999_flora_treatment_extracted_FNA_review_pending"
+    },
+    {
+      "species_id": "euphorbia-ophthalmica",
+      "historical_name": "Euphorbia ophthalmica Pers. / Chamaesyce ophthalmica (Pers.) D.G.Burch",
+      "source": "Flora of North America, Euphorbia ophthalmica",
+      "source_url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242437635",
+      "printed_page": null,
+      "morphology": {
+        "habit": "Low prostrate herb, often annual, typically shoots 6–22 cm per repository FNA-backed description",
+        "leaves": "Opposite, unequal bases, ovate to oblong 4–13 × 3–7 mm; serrulate; three basal veins common",
+        "stems": "Short appressed hairs mixed with longer spreading hairs",
+        "cyathia": "Dense compact terminal headlike glomerules, instead of scattered axillary cyathia",
+        "fruit": "Small ovoid hairy capsule ca. 1–1.2 × 1–1.3 mm",
+        "seeds": "Approximately 0.7–0.9(–1.1) × 0.5 mm, four-angled with weak transverse wrinkles"
+      },
+      "diagnostics": "Dense terminal headlike cyathia, mixed hair lengths and serrulate small leaves; comparison with E. hirta requires reproductive axis context",
+      "holds": [
+        "Not located in 1999 flora and regional nativity uncertain",
+        "Full FNA measurements inherited from existing research profile; source review pending"
+      ],
+      "roots": "See habit when documented; otherwise unreported in cited species description",
+      "bonap_county_verified_in_batch": false,
+      "verification_status": "FNA_based_partial_source_review_pending"
+    },
+    {
+      "species_id": "euphorbia-prostrata",
+      "historical_name": "Chamaesyce prostrata (Aiton) Small",
+      "source": "Diggs, Lipscomb & O'Kennon 1999",
+      "printed_page": 596,
+      "morphology": {
+        "habit": "Low annual resembling C. maculata",
+        "leaves": "Small broadly elliptic leaves usually lack reddish central spot (variable)",
+        "cyathia": "Styles forked to base or near base",
+        "fruit": "Per 1999 key, capsule spreading-pubescent, hairs largely along angles; unlike uniformly hairy capsule faces in E. maculata",
+        "seeds": "FNA-backed existing profile: sharply four-angled, about 0.8–1.1 × 0.5–0.7 mm, distinct transverse ribs",
+        "habitat": "Stream banks, prairies, disturbed clay-rich ground, most of Texas",
+        "phenology": "June–October, sometimes earlier"
+      },
+      "diagnostics": "Prostrate mat, hairy capsule edges and prominent narrow transverse seed ribs; do not rely on spot absence alone",
+      "holds": [
+        "County BONAP target status stays provisional",
+        "Fruit/seed microscopy more useful than habit and spot"
+      ],
+      "roots": "See habit when documented; otherwise unreported in cited species description",
+      "bonap_county_verified_in_batch": false,
+      "verification_status": "1999_flora_treatment_extracted_FNA_review_pending"
+    }
+  ],
+  "batch_count": 10,
+  "euphorbiaceae_cumulative": 30,
+  "euphorbiaceae_inventory": 43,
+  "repository_cumulative": 57
+}
