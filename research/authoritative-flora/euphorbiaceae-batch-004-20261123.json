@@ -1,0 +1,204 @@
+{
+  "schema": "hays-botany-flora-extraction-v1",
+  "batch_id": "remaining-families-euphorbiaceae-004",
+  "date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "branch": "staging/original-source-transfer",
+  "records": [
+    {
+      "id": "euphorbia-roemeriana",
+      "name": "Euphorbia roemeriana",
+      "historical": "Euphorbia roemeriana Scheele",
+      "page": 609,
+      "source": "1999 Flora",
+      "morphology": {
+        "habit": "Spring annual to 30 cm",
+        "leaves": "Main foliage obovate/oblanceolate; flowering branch bracts opposite, semicircular, fused sometimes nearly halfway",
+        "inflorescence": "Cyathium glands bear one erect horn at either end, no broad gland appendages",
+        "habitat": "Calcareous soils, Edwards Plateau",
+        "flowering": "Spring"
+      },
+      "diagnostics": "Opposite semicircular bracts substantially fused at bases versus free bracts of E. spathulata",
+      "holds": [
+        "Exact FNA capsule/seed measurements still need side-by-side source review",
+        "Old Montague County specimen likely erroneous per flora; Williamson County reported, not BONAP county certification"
+      ],
+      "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+      "bonap_county_verified": false,
+      "confidence": "source_text_verified_with_held_secondary_gaps"
+    },
+    {
+      "id": "euphorbia-serpens",
+      "name": "Euphorbia serpens",
+      "historical": "Chamaesyce serpens (Kunth) Small",
+      "page": 596,
+      "source": "1999 Flora + existing FNA-backed research",
+      "morphology": {
+        "habit": "Annual; slender thread-like prostrate stems often rooting at nodes",
+        "leaves": "Opposite small entire broadly ovate/round blades, existing FNA-based 2–7(–9) × 2–6 mm",
+        "stipules": "Fused, broad triangular scales at nodes (FNA-based, 0.5–1.2 mm)",
+        "cyathia": "Styles notched; gland appendages small",
+        "fruit": "Glabrous 3-lobed capsule; FNA-based ca. 1.3–1.4 × 1.3–1.7 mm",
+        "seed": "FNA-based pale smooth seeds about 0.7–1.1 × 0.4–0.7 mm",
+        "habitat": "Stream bottoms, prairies, clay flats, disturbed ground",
+        "flowering": "Jul–Oct"
+      },
+      "diagnostics": "Rooting nodes and broad fused stipules; unlike E. prostrata, mature fruit glabrous and seeds largely smooth",
+      "holds": [
+        "FNA figures marked distinctly from printed 1999 account",
+        "BONAP target-range approval not inferred"
+      ],
+      "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+      "bonap_county_verified": false,
+      "confidence": "source_text_verified_with_held_secondary_gaps"
+    },
+    {
+      "id": "euphorbia-simulans",
+      "name": "Euphorbia simulans",
+      "historical": "Chamaesyce simulans (L.C.Wheeler) Mayfield or Euphorbia polycarpa var. simulans L.C.Wheeler; absent from located 1999 flora",
+      "page": null,
+      "source": "Flora of North America",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101613",
+      "morphology": {
+        "habit": "Prostrate slender annual or short-lived perennial, 5–40 cm (FNA-based project profile)",
+        "leaves": "Opposite round to short oblong 1–3.2 × 1.5–5 mm, glabrous, often relatively symmetric at base",
+        "stipules": "Distinct hairless subulate 0.5–0.7 mm",
+        "cyathia": "Usually solitary, four red-purple elliptic glands; appendages absent",
+        "fruit": "Glabrous capsule 1.3–1.8 × 1.5–2 mm",
+        "seed": "Repository FNA-based 1.5–2 mm, four-angled, weak transverse ridges; stronger distinction from E. theriaca by mature seed morphology",
+        "habitat": "West Texas Trans-Pecos, Brewster, Hudspeth, Presidio counties cited in FNA"
+      },
+      "diagnostics": "Tiny almost round leaves and purplish naked glands; FNA emphasizes mature seed comparison to E. theriaca",
+      "holds": [
+        "Not documented for Hays range in verified reference; keep range provisional and exclude from native count until BONAP review",
+        "Full FNA key measurements not exhaustively compared with repo existing profile"
+      ],
+      "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+      "bonap_county_verified": false,
+      "confidence": "alternate_authority_verified_partial"
+    },
+    {
+      "id": "euphorbia-spathulata",
+      "name": "Euphorbia spathulata",
+      "historical": "Euphorbia spathulata Lam.",
+      "page": 609,
+      "source": "1999 Flora genus key + account; FNA for secondary traits",
+      "morphology": {
+        "habit": "Glabrous annual to 55 cm",
+        "leaves": "Numerous oblanceolate blunt-tipped leaves, finely toothed at least toward apex",
+        "bracts": "Floral bracts mostly wider than long, typically separate rather than fused",
+        "cyathia": "Round unhorned involucral glands, without conspicuous appendages",
+        "fruit": "Warty (verrucose) capsule, unlike smooth E. roemeriana",
+        "habitat": "Detailed continuation after p.609 requires check",
+        "flowering": "Species-specific continuation not yet retrieved"
+      },
+      "diagnostics": "Fine marginal teeth plus warty capsules and unhorned glands vs fused-bract, smooth-fruited E. roemeriana",
+      "holds": [
+        "1999 species account continues beyond retrieved passage; don't fabricate flowering months or habitat",
+        "Modern FNA may differ in seed sculpture across geographical range"
+      ],
+      "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+      "bonap_county_verified": false,
+      "confidence": "source_text_verified_with_held_secondary_gaps"
+    },
+    {
+      "id": "euphorbia-villifera",
+      "name": "Euphorbia villifera",
+      "historical": "Chamaesyce villifera (Scheele) Small",
+      "page": 596,
+      "source": "1999 Flora + FNA-backed existing profile",
+      "morphology": {
+        "habit": "Perennial, can flower as first-year annual; ascending/erect stems to 40 cm",
+        "leaves": "3–10 mm long, entire or very finely toothed; often triangular in 1999 key",
+        "indumentum": "1999 key conspicuous soft hairs 0.8–1.5 mm and broad thin leaves, though FNA-backed profile allows glabrous variants",
+        "cyathia": "Styles forked about half to two-thirds their length",
+        "fruit": "1999 key: capsule 1.3–1.9(–2.1) mm; FNA-backed dimensions differ and should stay source-separated",
+        "seed": "1999 key: seed 1–1.3 mm",
+        "habitat": "Limestone slopes and dry uplands",
+        "flowering": "Late May–Oct"
+      },
+      "diagnostics": "Ascending hairy sandmat with small leaves and free threadlike stipules, versus prostrate E. serpens with fused scales",
+      "holds": [
+        "Differences between the 1999 pubescence character and FNA glabrous forms require geographic reconciliation"
+      ],
+      "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+      "bonap_county_verified": false,
+      "confidence": "source_text_verified_with_held_secondary_gaps"
+    },
+    {
+      "id": "jatropha-dioica",
+      "name": "Jatropha dioica",
+      "historical": "Jatropha dioica Sessé ex Cerv. (no confirmed 1999 species passage in retrieved search)",
+      "page": null,
+      "source": "Flora of North America and Texas A&M",
+      "url": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250102004",
+      "morphology": {
+        "habit": "Perennial woody-based rubbery-stemmed shrub/subshrub 0.3–0.9 m (Texas A&M)",
+        "leaves": "Usually narrow linear to oblanceolate; plants can be nearly leafless part of season",
+        "flowers": "Small white or pinkish-white tubular flowers; FNA var. dioica staminate petals 5–6 × about 1.5 mm, 10 stamens in 2 whorls",
+        "roots": "Perennial underground rootstocks/woody base; dimensions unverified",
+        "fruits": "Three-lobed capsule (genus); quantitative treatment not yet extracted",
+        "habitat": "Texas calcareous and rocky upland, specific county status pending"
+      },
+      "diagnostics": "Rubbery branching stems and small white-to-pink flowers, with variable leaf width across varieties",
+      "holds": [
+        "Old 1999 flora page not directly found; avoid assigning precise page",
+        "Var. dioica versus var. graminea require source-level assessment; no cultivar substitution"
+      ],
+      "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+      "bonap_county_verified": false,
+      "confidence": "alternate_authority_verified_partial"
+    },
+    {
+      "id": "ricinus-communis",
+      "name": "Ricinus communis",
+      "historical": "Ricinus communis L.",
+      "page": 613,
+      "source": "1999 Flora",
+      "morphology": {
+        "habit": "Large monoecious annual in north central Texas, 1–5 m",
+        "leaves": "Alternate peltate leaves, petiole to 30 cm, (5–)7–9(–11) deep palmately lobed segments with gland-tipped toothed margins",
+        "flowers": "Terminal panicle/raceme; staminate flowers lower, pistillate upper; 5 sepals, no petals, numerous stamens, 3 red plumose styles",
+        "fruit": "Round often softly spiny capsule 12–20 mm diameter",
+        "seed": "Glabrous mottled seeds 8–11 mm",
+        "habitat": "Cultivated and escaped around roads, fill, waste areas",
+        "flowering": "Throughout growing season"
+      },
+      "diagnostics": "Peltate deeply divided large leaves and spiny three-locular fruit; NOT a Hays County native",
+      "holds": [
+        "Extremely toxic seeds; avoid handling and do not encourage ingestion",
+        "Native Africa/west Asia; excluded from local native counts"
+      ],
+      "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+      "bonap_county_verified": false,
+      "confidence": "source_text_verified_with_held_secondary_gaps"
+    },
+    {
+      "id": "stillingia-texana",
+      "name": "Stillingia texana",
+      "historical": "Stillingia texana I.M.Johnst.",
+      "page": 615,
+      "source": "1999 Flora",
+      "morphology": {
+        "habit": "Perennial stems decumbent to erect, up to 65 cm",
+        "leaves": "Linear 2–5 mm wide (genus key), finely toothed",
+        "flowers": "Terminal spikes with staminate above pistillate flowers (genus pattern)",
+        "fruit": "Capsules ca. 6 mm long and wide; gynobase lobes 3–3.5 mm",
+        "seed": "Seeds around 5 mm excluding caruncle",
+        "habitat": "Gravelly and rocky calcareous soils; Edwards Plateau",
+        "flowering": "Mid-May–June"
+      },
+      "diagnostics": "Narrow linear leaves 2–5 mm and 6-mm capsules vs broader leaves 9–30 mm and ~12-mm capsules of S. sylvatica",
+      "holds": [
+        "Caustic/blistering latex reported; field PPE",
+        "BONAP local county mapping not verified"
+      ],
+      "source_file": "Flora of North Central Texas-Acanth-Euph.pdf",
+      "bonap_county_verified": false,
+      "confidence": "source_text_verified_with_held_secondary_gaps"
+    }
+  ],
+  "record_count": 8,
+  "previous_euphorbiaceae_count": 30,
+  "cumulative_euphorbiaceae_count": 38
+}
