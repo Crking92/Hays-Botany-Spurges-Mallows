@@ -8,9 +8,9 @@
   "counts": {
     "inventory_species": 130,
     "existing_extraction_records": 130,
-    "species_newly_finalized_on_targeted_issue": 14,
-    "botanical_cases_remaining": 8,
-    "open_source_gaps_in_targeted_holds": 5,
+    "species_newly_finalized_on_targeted_issue": 18,
+    "botanical_cases_remaining": 4,
+    "open_source_gaps_in_targeted_holds": 1,
     "untouched_original_species_records": 130
   },
   "finalization_definition": "Finalized only the documented ISSUE for these species, not claimed entire species morphology or publication fully audited",
@@ -184,6 +184,52 @@
       "issue_status": "resolved",
       "specimen_identification_certified": false,
       "source_citations_present": true
+    },
+    {
+      "id": "cochlospermum-wrightii",
+      "kind": "missing_species_morphology_now_FNA_backed",
+      "resolution": "FNA under Amoreuxia wrightii: glabrous to sparsely woolly stems 15–50 cm; 5(–7)-lobed leaf blades 3–5 × 4–7 cm, terminal blade margins toothed; flowers 3–7.5 cm across with orange-pink petals and 2 purple basal marks, two dimorphic stamen sets; capsules 3–6 cm; seeds glabrous. Keep accepted Cochlospermum wrightii in Kew-based inventory with explicit FNA historic genus.",
+      "evidence": [
+        "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250013357",
+        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77184208-1"
+      ],
+      "issue_status": "resolved",
+      "specimen_identification_certified": false,
+      "source_citations_present": true
+    },
+    {
+      "id": "euphorbia-ophthalmica",
+      "kind": "FNA_quantitative_morphology_completed",
+      "resolution": "FNA prostrate annual 6–22 cm; blades 4–13 × 3–7 mm; terminal ONLY dense cyathium heads (unlike E. hirta terminal and axillary); capsules 1–1.2 × 1–1.3 mm, seeds 0.7–0.9(–1.1) × 0.5 mm with 3–6 faint ridges. Historical E. hirta var. procumbens synonym retained, not identical to E. hirta.",
+      "evidence": [
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=242437635"
+      ],
+      "issue_status": "resolved",
+      "specimen_identification_certified": false,
+      "source_citations_present": true
+    },
+    {
+      "id": "oenothera-calcicola",
+      "kind": "FNA_quantitative_morphology_completed",
+      "resolution": "FNA perennial from woody twisted rootstock, (40–)60–250 cm stems; basal leaves 3–13 × 0.6–2.5 cm and stem leaves (1–)2.5–12 × 0.1–1 cm; white petals fading red 7–11 mm, floral tube 3–9 mm, sepals 6–12 mm; winged capsules 7–12 × 1.5–2.5 mm with sterile stipe 2–5 mm; seeds 1.5–2.5 × 0.8–1.3 mm. Diagnosis compared to O. filipes: stamens grouped in lower half of flower, narrow lanceoloid fruit.",
+      "evidence": [
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250130311",
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250130593"
+      ],
+      "issue_status": "resolved",
+      "specimen_identification_certified": false,
+      "source_citations_present": true
+    },
+    {
+      "id": "euphorbia-golondrina",
+      "kind": "FNA_quantitative_morphology_completed",
+      "resolution": "FNA annual with prostrate glabrous stems 5–35 cm; blades 5–11.5 × 1–4 mm; cyathium involucre 0.9–1.5 × 0.8–1.3 mm, red-purple glands 0.3–0.4 mm with white semilunate appendages; capsules 1.7–2 × 1.5–1.6 mm; seeds 1.3–1.5 × 0.6–0.7 mm with weak cross-ridges. Semilunate gland appendages distinguish from E. theriaca/micromera.",
+      "evidence": [
+        "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250101577"
+      ],
+      "issue_status": "resolved",
+      "specimen_identification_certified": false,
+      "source_citations_present": true
     }
   ],
   "unresolved": [
@@ -213,36 +259,9 @@
       ]
     },
     {
-      "id": "cochlospermum-wrightii",
-      "issue": "Name crosswalk resolved as Cochlospermum wrightii = Amoreuxia wrightii but full measured species characters incomplete",
-      "needed": "Full FNA/Flora of Texas account of leaf divisions, floral and capsule characters",
-      "status": "hold_source_gap",
-      "evidence": [
-        "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77184208-1"
-      ]
-    },
-    {
       "id": "passiflora-lanuginosa",
       "issue": "Modern P. lanuginosa separated from P. foetida var. lanuginosa, but diagnostic measured morphology and infraspecific comparison remain partial",
       "needed": "Recent revision's species diagnosis and mature fruit comparison",
-      "status": "hold_source_gap"
-    },
-    {
-      "id": "euphorbia-ophthalmica",
-      "issue": "Existing FNA-based figures lack full direct source audit",
-      "needed": "FNA species account directly checked against prior measurements",
-      "status": "hold_source_gap"
-    },
-    {
-      "id": "oenothera-calcicola",
-      "issue": "First-pass record explicitly lacked full FNA vegetative and mature fruit quantitative characters",
-      "needed": "FNA account verified with character-by-character attribution",
-      "status": "hold_source_gap"
-    },
-    {
-      "id": "euphorbia-golondrina",
-      "issue": "FNA measurements inherited from prior profile without rechecking original source",
-      "needed": "Direct FNA morphology treatment",
       "status": "hold_source_gap"
     }
   ],
@@ -267,5 +286,15 @@
     "source_scope_note": "Page list applies to identified reconciliation cases or original related treatments; FNA-only sources marked without fabricated printed page. Potential Euphorbia angusta 1999 key location must be rechecked prior to citing exact page."
   },
   "preservation": "New research-only file; no prior files, site, credits, images, or taxon master records modified.",
-  "stop_condition": "One pass only. Remaining documented issues need new cited evidence or specimen-level review, not automatic repeat audits."
+  "stop_condition": "Targeted issue reconciliation completed at this evidence stage. Four remaining cases require nomenclatural, species-revision, or specimen evidence; no automatic repeat audits.",
+  "additional_fna_closures": {
+    "completed": "2026-11-23",
+    "source": "Full FNA species treatments discovered after initial notes",
+    "species": [
+      "cochlospermum-wrightii",
+      "euphorbia-ophthalmica",
+      "oenothera-calcicola",
+      "euphorbia-golondrina"
+    ]
+  }
 }
