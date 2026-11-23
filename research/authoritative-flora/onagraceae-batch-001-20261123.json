@@ -1,0 +1,213 @@
+{
+  "schema": "hays-botany-flora-extraction-v1",
+  "batch_id": "remaining-families-onagraceae-001",
+  "date": "2026-11-23",
+  "repository": "Crking92/Hays-Botany-Spurges-Mallows",
+  "branch": "staging/original-source-transfer",
+  "source_document": "Shinners & Mahler's Illustrated Flora of North Central Texas (Diggs, Lipscomb & O'Kennon, 1999)",
+  "source_file": "Flora of North Central Texas-Fab-Zygo.pdf",
+  "scope_note": "Research annotations only. Not replacing species.json, modifying public gallery, or asserting BONAP county nativity. Printed pages reflect flora pagination.",
+  "count": 8,
+  "records": [
+    {
+      "species_id": "ludwigia-decurrens",
+      "canonical_label_in_repository": "Ludwigia decurrens",
+      "flora_name": "Ludwigia decurrens",
+      "flora_authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 860,
+      "flora_section": "Onagraceae",
+      "evidence_type": "direct species treatment plus genus key where indicated",
+      "extracted_morphology": {
+        "habit": "Subglabrous erect herb, up to 2 m tall",
+        "stems": "Conspicuously four-winged with leaf-like longitudinal tissue",
+        "leaves": "Alternate, subsessile; blades lanceolate to elliptic",
+        "flowers": "Four sepals, four yellow petals 8–12 mm long; eight stamens",
+        "fruit": "Capsules 10–20 mm long; pedicels 0–10 mm",
+        "habitat": "Wet places",
+        "phenology": "June–October",
+        "diagnosis": "Unlike other Ludwigia in flora key, four evident wings along stem"
+      },
+      "roots": "Not specified in extracted species treatment; do not infer",
+      "historical_synonym_resolution": "Modern repository combination matches species name in 1999 flora; additional synonym crosswalk not exhaustively checked",
+      "fna_crosscheck": "FNA Ludwigia genus key https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=119063",
+      "bonap_county_status": "NOT VERIFIED IN THIS BATCH; existing learner range labels unchanged",
+      "status": "flora_species_treatment_extracted; secondary_taxonomy_and_county_review_pending",
+      "conflicts": [
+        "FNA Ludwigia key reports 10–20 mm petals versus 1999 flora 8–12 mm; check species-level treatment before harmonizing"
+      ]
+    },
+    {
+      "species_id": "ludwigia-leptocarpa",
+      "canonical_label_in_repository": "Ludwigia leptocarpa",
+      "flora_name": "Ludwigia leptocarpa",
+      "flora_authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 860,
+      "flora_section": "Onagraceae",
+      "evidence_type": "direct species treatment plus genus key where indicated",
+      "extracted_morphology": {
+        "habit": "Hairy erect wetland herb to 1.5 m",
+        "leaves": "Alternate; lanceolate to broadly lanceolate; petioles 2–35 mm",
+        "flowers": "Usually five-merous, rarely four sepals/petals; petals 5–11 mm, usually ten stamens",
+        "fruit": "Capsules 15–50 mm; pedicels 2–20 mm; seeds 1–1.2 mm, each with horseshoe-shaped endocarp fragment",
+        "habitat": "Wet places",
+        "phenology": "August–October",
+        "diagnosis": "Distinguished from creeping/floating L. peploides by erect branches, short pedicels and individually detached seeds with endocarp fragments"
+      },
+      "roots": "Not specified in extracted species treatment; do not infer",
+      "historical_synonym_resolution": "Historical Jussiaea placement noted by flora genus account; exact basionym mapping merits taxonomic crosswalk",
+      "fna_crosscheck": "FNA Ludwigia genus key https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=119063",
+      "bonap_county_status": "NOT VERIFIED IN THIS BATCH; existing learner range labels unchanged",
+      "status": "flora_species_treatment_extracted; secondary_taxonomy_and_county_review_pending"
+    },
+    {
+      "species_id": "oenothera-biennis",
+      "canonical_label_in_repository": "Oenothera biennis",
+      "flora_name": "Oenothera biennis",
+      "flora_authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 864,
+      "flora_section": "Onagraceae",
+      "evidence_type": "direct species treatment plus genus key where indicated",
+      "extracted_morphology": {
+        "habit": "Erect biennial to 2 m",
+        "inflorescence": "Terminal spike, sometimes short-branched",
+        "flowers": "Opening near sunset; hypanthium 2–5 cm, free sepal tips in bud 1–4 mm, yellow petals",
+        "fruit": "Tapered cylindric capsules 1.4–2.5 cm long",
+        "habitat": "Disturbed wooded and weedy areas",
+        "phenology": "August–October",
+        "diagnosis": "Flora key: broad leaves 10–60 mm, head-like or lengthening spike; seeds horizontal/sharply angled versus O. heterophylla"
+      },
+      "roots": "Not specified in extracted species treatment; do not infer",
+      "historical_synonym_resolution": "Modern repository combination matches species name in 1999 flora; additional synonym crosswalk not exhaustively checked",
+      "fna_crosscheck": "FNA species-level side-by-side comparison pending",
+      "bonap_county_status": "NOT VERIFIED IN THIS BATCH; existing learner range labels unchanged",
+      "status": "flora_species_treatment_extracted; secondary_taxonomy_and_county_review_pending"
+    },
+    {
+      "species_id": "oenothera-jamesii",
+      "canonical_label_in_repository": "Oenothera jamesii",
+      "flora_name": "Oenothera jamesii",
+      "flora_authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 864,
+      "flora_section": "Onagraceae",
+      "evidence_type": "direct species treatment plus genus key where indicated",
+      "extracted_morphology": {
+        "habit": "Robust appressed-pubescent biennial, erect stems to 3 m",
+        "inflorescence": "Unbranched or few-branched",
+        "flowers": "Open near sunset; hypanthium 6–11 cm; sepals 4–6 cm; bud free sepal tips 3–6 mm; yellow petals fading reddish, 3.5–5 cm",
+        "fruit": "Cylindric capsules 2–5 cm",
+        "habitat": "Streambanks and other moist habitats",
+        "phenology": "July–October",
+        "diagnosis": "Very tall riparian species with particularly long hypanthium and large petals"
+      },
+      "roots": "Not specified in extracted species treatment; do not infer",
+      "historical_synonym_resolution": "Modern repository combination matches species name in 1999 flora; additional synonym crosswalk not exhaustively checked",
+      "fna_crosscheck": "https://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=250130358",
+      "bonap_county_status": "NOT VERIFIED IN THIS BATCH; existing learner range labels unchanged",
+      "status": "flora_species_treatment_extracted; secondary_taxonomy_and_county_review_pending",
+      "conflicts": [
+        "Existing repository learner notes 'perennial herb' whereas 1999 flora explicitly says robust biennial; preserve both pending FNA reconciliation"
+      ]
+    },
+    {
+      "species_id": "oenothera-laciniata",
+      "canonical_label_in_repository": "Oenothera laciniata",
+      "flora_name": "Oenothera laciniata",
+      "flora_authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 865,
+      "flora_section": "Onagraceae",
+      "evidence_type": "direct species treatment plus genus key where indicated",
+      "extracted_morphology": {
+        "habit": "Annual or short-lived perennial to ca. 0.5 m",
+        "leaves": "Cut or lobed leaves; detailed measurements not in located species paragraph",
+        "flowers": "Light yellow, open late afternoon through late morning; hypanthium 1.5–3.5 cm",
+        "fruit": "Capsules 2–5 cm",
+        "habitat": "Disturbed soils",
+        "phenology": "April–June",
+        "diagnosis": "Low habit, frequently cut leaves; distinguish from tall O. biennis and flat rosette O. triloba"
+      },
+      "roots": "Not specified in extracted species treatment; do not infer",
+      "historical_synonym_resolution": "Modern repository combination matches species name in 1999 flora; additional synonym crosswalk not exhaustively checked",
+      "fna_crosscheck": "FNA species-level side-by-side comparison pending",
+      "bonap_county_status": "NOT VERIFIED IN THIS BATCH; existing learner range labels unchanged",
+      "status": "flora_species_treatment_extracted; secondary_taxonomy_and_county_review_pending"
+    },
+    {
+      "species_id": "oenothera-macrocarpa",
+      "canonical_label_in_repository": "Oenothera macrocarpa",
+      "flora_name": "Oenothera macrocarpa",
+      "flora_authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 865,
+      "flora_section": "Onagraceae",
+      "evidence_type": "direct species treatment plus genus key where indicated",
+      "extracted_morphology": {
+        "habit": "Perennial, nearly stemless or stems suberect to trailing to 0.5 m",
+        "pubescence": "Minutely gray-pubescent to glabrous; leaves green to silvery-gray with appressed hairs",
+        "flowers": "Evening opening; hypanthium 5–12 cm; sepals 2–4 cm; bud free tips 1.5–8 mm; yellow petals 2–5 cm sometimes fading red",
+        "fruit": "Capsules 2–6.5 cm, prominently four-winged",
+        "habitat": "Limestone outcrops and prairies",
+        "phenology": "April–June",
+        "diagnosis": "Flora divides glabrous subsp. oklahomensis, greener narrow-leaf subsp. macrocarpa, and densely gray-hairy broader-leaf subsp. incana"
+      },
+      "roots": "Not specified in extracted species treatment; do not infer",
+      "historical_synonym_resolution": "Flora lists O. missouriensis Sims for subsp. macrocarpa; preserve infraspecific distinction",
+      "fna_crosscheck": "https://efloras.org/florataxon.aspx?flora_id=1&taxon_id=250130584 (subsp. macrocarpa)",
+      "bonap_county_status": "NOT VERIFIED IN THIS BATCH; existing learner range labels unchanged",
+      "status": "flora_species_treatment_extracted; secondary_taxonomy_and_county_review_pending",
+      "conflicts": [
+        "Repository separately lists O. macrocarpa and subsp. macrocarpa; ensure species-level summary does not get mistaken for subspecies-only diagnosis"
+      ]
+    },
+    {
+      "species_id": "oenothera-speciosa",
+      "canonical_label_in_repository": "Oenothera speciosa",
+      "flora_name": "Oenothera speciosa",
+      "flora_authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 866,
+      "flora_section": "Onagraceae",
+      "evidence_type": "direct species treatment plus genus key where indicated",
+      "extracted_morphology": {
+        "habit": "Low perennial with several pubescent stems",
+        "leaves": "Blades toothed to deeply pinnatifid",
+        "flowers": "Open in evening and morning; white to pink/rose-purple, color deepens with age; hypanthium 1–2 cm; sepals 1.5–3 cm; petals 2.5–4 cm",
+        "fruit": "Club-shaped ribbed-terminal capsules 1–1.5 cm",
+        "habitat": "Low disturbed sites, often roadsides",
+        "phenology": "April–July",
+        "diagnosis": "Pink/white versus yellow primroses; distinguish radially symmetric flower from former Gaura species"
+      },
+      "roots": "Not specified in extracted species treatment; do not infer",
+      "historical_synonym_resolution": "Modern repository combination matches species name in 1999 flora; additional synonym crosswalk not exhaustively checked",
+      "fna_crosscheck": "FNA species-level side-by-side comparison pending",
+      "bonap_county_status": "NOT VERIFIED IN THIS BATCH; existing learner range labels unchanged",
+      "status": "flora_species_treatment_extracted; secondary_taxonomy_and_county_review_pending",
+      "conflicts": [
+        "Existing repository photo caption says five petals; Onagraceae/Oenothera flora describes four-merous flowers, so verify caption against image"
+      ]
+    },
+    {
+      "species_id": "oenothera-triloba",
+      "canonical_label_in_repository": "Oenothera triloba",
+      "flora_name": "Oenothera triloba",
+      "flora_authority": "Diggs, Lipscomb & O'Kennon (1999), Shinners & Mahler's Illustrated Flora of North Central Texas",
+      "printed_page": 866,
+      "flora_section": "Onagraceae",
+      "evidence_type": "direct species treatment plus genus key where indicated",
+      "extracted_morphology": {
+        "habit": "Nearly stemless winter annual, basal rosette",
+        "leaves": "Numerous basal leaves, entire to deeply lobed",
+        "flowers": "Open near sunset; pale yellow; hypanthium 2–10 cm; sepals 1–1.8 cm",
+        "fruit": "Obpyramidal capsules 1–2 cm, apically four-winged, carried at base",
+        "habitat": "Grasslands, disturbed soils and lawns",
+        "phenology": "March–April",
+        "diagnosis": "Nearly acaulescent rosette, very long floral tube, winged fruits near ground level"
+      },
+      "roots": "Not specified in extracted species treatment; do not infer",
+      "historical_synonym_resolution": "Modern repository combination matches species name in 1999 flora; additional synonym crosswalk not exhaustively checked",
+      "fna_crosscheck": "FNA species-level side-by-side comparison pending",
+      "bonap_county_status": "NOT VERIFIED IN THIS BATCH; existing learner range labels unchanged",
+      "status": "flora_species_treatment_extracted; secondary_taxonomy_and_county_review_pending",
+      "conflicts": [
+        "Existing learner mentions four stamens in Williamson County treatment, while 1999 Oenothera genus description states eight stamens; check species-level exception and specimen anatomy"
+      ]
+    }
+  ]
+}
