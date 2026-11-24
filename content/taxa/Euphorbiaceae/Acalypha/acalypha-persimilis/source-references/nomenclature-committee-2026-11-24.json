@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "record_type": "targeted_nomenclatural_reconciliation",
+  "review_date": "2026-11-24",
+  "species_id": "acalypha-persimilis",
+  "existing_record": "content/taxa/Euphorbiaceae/Acalypha/acalypha-persimilis/species.json",
+  "topic": "Acalypha persimilis versus Acalypha ostryifolia; formal conservation proposal (3080)",
+  "sources": [
+    {
+      "citation": "Levin, Steinmann & Cardiel (2025), Proposal 3080, Taxon 74: 469–470",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/tax.13337",
+      "role": "published name-conservation proposal"
+    },
+    {
+      "citation": "Applequist et al. (2026), Report of the Nomenclature Committee for Vascular Plants: 77, Taxon",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/tax.70118",
+      "role": "committee analysis and vote, item 3080, 2–16–2 not recommended as unnecessary"
+    },
+    {
+      "citation": "Kew Plants of the World Online, Acalypha persimilis",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:337688-1",
+      "role": "current database accepted-name treatment"
+    }
+  ],
+  "resolution": "Committee's 2026 report concluded Riddell's 1835 original A. ostryifolia included sufficient description to validly publish the name, which would make that older name priority over A. persimilis; it recommended against conservation because unnecessary. This differs from Kew POWO's current A. persimilis-accepted classification.",
+  "status": "DOCUMENTED_NOMENCLATURE_AUTHORITY_DIFFERENCE_COMMITTEE_RECOMMENDATION_NOT_FINAL_ADOPTION",
+  "identity_guardrail": "Published taxon descriptions consider these names synonymous in prevailing treatment; do not create duplicate cards. Do not equate database acceptance with a binding IAPT decision or unilaterally rename species.json.",
+  "character_warning": "Earlier published differences in pistillate bract number/length and style branching were judged variable or misconstrued in the 2025 proposal; don't create an absolute separation key for the two names.",
+  "remaining_action": "Revisit only if a binding nomenclatural decision or authoritative taxonomic database update warrants canonical name change. This is not a prompt for another full audit.",
+  "bonap_status": "DEFERRED_BY_OWNER",
+  "preservation": "Additive research only; photos, credits, gallery, species.json unchanged"
+}
